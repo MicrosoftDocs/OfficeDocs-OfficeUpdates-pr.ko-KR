@@ -3,19 +3,19 @@ title: Office 참가자에 대한 릴리스 정보
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 6/14/2019
+ms.date: 6/21/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 8a2bf54f60b7d35a0f3b2f023e0100ff65d09ed2
-ms.sourcegitcommit: 288bea365b4c0265fb9ff182b19ff4eb30b4c7d7
+ms.openlocfilehash: d59dfd6abece5cefb49d2da86bf28ac24d1cebc7
+ms.sourcegitcommit: 61132166c48f967340a1579185728b5c3acd7bd8
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "34948794"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35130647"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 참가자에 대한 릴리스 정보
 
@@ -27,6 +27,76 @@ ms.locfileid: "34948794"
 
  > [!NOTE]
 > - Office 365 ProPlus의 기존 설치에 대한 Microsoft Teams - 6월 말부터 Microsoft Teams가 Office 365 ProPlus(및 Office 365 Business)의 기존 설치에 업데이트 설치 시 포함됩니다. Teams가 추가되는 날짜는 사용 중인 업데이트 채널에 따라 다릅니다. 추가 정보는 [Office 365 ProPlus와 함께 Microsoft Teams 배포](https://docs.microsoft.com/ko-KR/deployoffice/teams-install)를 참조하세요.
+
+## <a name="june-21-2019"></a>2019년 6월 21일
+버전 1907(빌드 11815.20002)
+
+## <a name="whats-new"></a>새로운 기능:
+
+### <a name="outlook"></a>Outlook
+
+#### <a name="dark-mode-for-black-theme-in-outlook-desktop"></a>Outlook 데스크톱의 검은색 테마의 어두운 모드
+
+어두운 모드에서는 검은색 테마의 사용자가 전자 메일을 읽을 때 배경이 어두운 읽기 창과 전자 메일을 쓸 때 어두운 배경의 작성 경험을 볼 수 있습니다. 읽기 창과 리본에 태양/달 토글이 있습니다. 사용자가 밝은 배경으로 메시지가 어떻게 표시되는지 미리 볼 수 있습니다.
+
+#### <a name="getting-started"></a>시작하기:
+
+1. 검은색 테마를 설정하면 어두운 모드가 기본적으로 켜집니다.
+2. 달/태양 토글(읽기 창 및 리본에서)을 사용하여 어두운 모드에서 메시지가 어떻게 보이는지 사용자가 미리 볼 수 있습니다.
+
+#### <a name="scenarios-to-try"></a>시도해 볼 시나리오
+
+1. 전자 메일을 어두운 모드로 읽습니다. 내용을 읽을 수 없는 경우 읽기 창에서 태양 토글을 사용하여 밝은 배경으로 전환합니다. 
+2. 전자 메일을 어두운 모드로 작성합니다. 리본에서 태양 토글을 사용하여 밝은 배경에서 메시지가 어떻게 보이는지 미리 봅니다. 
+
+제대로 렌더링되지 않는 전자 메일을 발견하면 OutlookDarkModeFail에 첨부 파일로 보냅니다.
+
+#### <a name="get-location-suggestions"></a>위치 제안 받기
+
+입력을 시작하면 Outlook이 일치하는 위치를 찾습니다.
+
+이는 약속과 모임을 만들 때 위치 필드에 적용됩니다.
+
+#### <a name="getting-started"></a>시작하기:
+
+- Outlook의 O365 또는 Outlook.com 일정에서 약속 또는 모임 만들기 
+- 위치 필드를 클릭하고 입력을 시작합니다...
+
+#### <a name="scenarios-to-try"></a>시도해 볼 시나리오
+
+모임에 회의실을 추가할 때 회의실 찾기 추가 기능이나 주소록을 사용하는 대신 위치 필드를 클릭합니다.
+식당, 커피숍 또는 치과의사의 사무실과 같은 공공 장소에서 물리적 위치에 있는 약속의 경우 새 선택기를 사용하여 정확한 위치를 검색해보세요. 이렇게 하면 Outlook Mobile에서 나갈 시간이 되면 알림을 받을 수 있습니다.
+
+## <a name="notable-fixes"></a>중요 수정 사항:
+
+### <a name="all"></a>모두
+- 오프라인에서 검색 상자를 사용할 수 있도록 유지하는 문제를 해결했습니다.
+
+### <a name="word"></a>Word 
+- 때때로 키보드 포커스를 보기 어려운 문제를 해결했습니다.
+- 새 문서에 붙여 넣은 텍스트의 텍스트 정렬이 잘못될 수 있는 문제를 해결했습니다.
+- 컴퓨터가 일시 중지된 후 일부 사용자가 변경 사항을 저장하지 못하는 문제를 해결했습니다.
+- 경우에 따라 선택한 범위가 아니라 전체 문서를 인쇄하는 문제를 해결했습니다.
+- 더 작은 디스플레이에서 메모를 읽기 어려울 수 있는 문제를 해결했습니다.
+- 장치를 캡처할 때 충돌을 일으킬 수 있는 문제를 해결했습니다.
+
+### <a name="excel"></a>Excel
+- 다양한 성능 및 안정성 수정 사항입니다.
+
+### <a name="powerpoint"></a>PowerPoint
+- 때때로 키보드 포커스를 보기 어려운 문제를 해결했습니다.
+
+### <a name="outlook"></a>Outlook
+- 추가 기능을 사용하도록 설정 되어 있지 않은 상태에서 잘못 표시될 수 있는 문제를 해결했습니다.
+- 고객이 많은 경우 보유 정책을 모두 볼 수 없는 문제를 해결했습니다.
+
+### <a name="access"></a>액세스
+- 다양한 성능 및 안정성 수정 사항입니다.
+
+### <a name="project"></a>Project
+- 다양한 성능 및 안정성 수정 사항입니다.
+
+</BR></BR>
 
 ## <a name="june-14-2019"></a>2019년 6월 14일
 버전 1907 (빌드 11807.20000)
@@ -484,22 +554,6 @@ OneDrive 동기화 클라이언트 사용 및 Outlook 데스크톱의 파일 첨
 
 ## <a name="april-12-2019"></a>2019년 4월 12일
 버전 1905 (빌드 11601.20042)
-
-## <a name="whats-new"></a>새로운 기능:
-
-### <a name="access"></a>Access
-
-#### <a name="new-in-access---data-connector-to-microsoft-graph"></a>Access의 새로운 기능 - Microsoft Graph에 대한 데이터 커넥터
-
-그래프에 저장된 스마트 컨텍스트 데이터를 활용할 수있는 응용 프로그램을 만들기 위해 양식 Microsoft Graph 서비스에 링크하거나 가져옵니다.
-
-#### <a name="getting-started"></a>시작:
-
-리본의 외부 데이터 탭에서 새 데이터 소스를 클릭하고 온라인 서비스 메뉴에서 새 그래프 커넥터를 찾습니다.
-
-#### <a name="scenarios-to-try"></a>시도해 볼 시나리오:
-
-사람, 그룹 및 OneDrive 항목을 비롯한 다양한 그래프 서비스에서 가져오거나 링크할 수 있습니다.
 
 ## <a name="notable-fixes"></a>중요 수정 사항:
 
