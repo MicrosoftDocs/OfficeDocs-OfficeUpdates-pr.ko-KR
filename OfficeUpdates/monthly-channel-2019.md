@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 2668fe627278a2973d243f85d8889b077180fc75
-ms.sourcegitcommit: 0ef085de6bb68019197fcc791cd661dddb30fa43
+ms.openlocfilehash: 392932611e8005ece5ef460f6f2fc9b80230468c
+ms.sourcegitcommit: f83fafdefd4fdb5f8f21eec6c99553708b553b7a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/17/2019
-ms.locfileid: "35017368"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35203717"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -27,6 +27,50 @@ ms.locfileid: "35017368"
 
  > [!NOTE]
 > - Office 365 ProPlus의 기존 설치에 대한 Microsoft 팀 - 6월 말부터 Microsoft Teams가 Office 365 ProPlus(및 Office 365 Business)의 기존 설치에 업데이트 설치 시 포함됩니다. Teams가 추가되는 날짜는 사용 중인 업데이트 채널에 따라 다릅니다. 추가 정보는 [Office 365 ProPlus와 함께 Microsoft Teams 배포](https://docs.microsoft.com/ko-KR/deployoffice/teams-install)를 참조하세요.
+
+## <a name="version-1906-june-24"></a>버전 1906: 6월 24일
+*버전 1906(빌드 11727.20210)*
+* 다양한 버그 및 성능 수정 사항.
+
+### <a name="excel-feature-updates"></a>Excel: 기능 업데이트
+
+- **생동감 있는 워크시트 보기:** 애니메이션 3D 그래픽을 삽입하여 워크북을 통해 심장 박동, 행성 궤도, 공룡 난동 모습 등을 표시합니다. 
+  [자세한 정보](https://support.office.com/ko-KR/article/6f08009a-3da5-400d-a706-8e23f304cd72)
+
+### <a name="outlook-feature-updates"></a>Outlook: 기능 업데이트
+
+- **사용자 지정이 가능한 간단한 리본:** 가장 많이 사용하는 단추가 한 행에 표시되어 간편합니다. 클래식 및 요약 보기 간의 간편한 전화 및 명령 고정/고정 해제 
+  [자세한 정보](https://support.office.com/ko-KR/article/44bef9c3-295d-4092-b7f0-f471fa629a98)
+
+- **자주 하는 작업 선택:** 플래그 및 삭제를 사용하지 않나요? [보관] 또는 [읽은 상태로 표시]는 어떤가요? 가장 많이 사용하는 명령으로 빠른 작업 메뉴를 사용자 지정합니다.
+
+- **여러 폴더가 포함된 사서함의 공유 폴더 동기화가 향상됨:** 수년 동안 공유 사서함을 동기화하는 경우 Outlook이 최대 500개 폴더로 제한되었습니다. 이 변경을 통해 Outlook은 이 500개 폴더 제한이 더 이상 적용되지 않도록 동기화 방식을 개선했습니다.
+
+- **중요 받은 편지함 설정은 장치 간에 동일 하게 유지:** 이제 중요 받은 편지함의 기본 설정이 클라우드에 저장됩니다. Outlook을 사용하여 웹상의 Outlook과 모든 컴퓨터에서 Outlook for Windows를 사용하고 동일한 환경을 경험할 수 있습니다. 
+  [자세한 정보](https://support.office.com/ko-KR/article/d77a442e-a86c-4bf8-b3dd-5571ae556986)
+
+- **보통 또는 더 좁은 간격 선택:** 더 좁은 간격을 사용하면 항목 간에 더 넓은 공백을 할지 또는 더 좁은 레이아웃을 사용하여 더 많은 항목을 표시할지를 결정할 수 있습니다.
+
+- **Outlook 사용자 환경이 업데이트됨:** 출시 예정을 사용하여 이전에 미리 볼 수 있었던 간소화된 환경은 가장 중요한 작업에 집중할 수 있도록 설계되었습니다. 
+  [자세한 정보](https://support.office.com/ko-KR/article/db503157-1b45-45d5-af52-e9c978cd8bed)
+
+- **이메일에서 잉크로 표시하세요!** 이제 Outlook 전자 메일에 그림을 그리고 주석을 달 수 있습니다. 
+  [자세한 정보](https://support.office.com/ko-KR/article/3e928cae-7eb5-4c3f-8c60-28eb85afb7d5)
+
+### <a name="word-feature-updates"></a>Word: 기능 업데이트
+
+- **공동 작성:** 매크로 포함하는 문서가 잠기는게 번거롭습니까? 이제 비즈니스용 OneDrive의 .docm 파일을 사용하여 여러 작성자가 동시에 편집할 수 있습니다.
+
+### <a name="skype-for-business-non-security-updates"></a>비즈니스용 Skype: 비보안 업데이트 
+
+ - 모니터가 100% 이상 크기 조정되는 경우 모임에 있는 Polycom CX5500 및 관련 디바이스의 모든 카메라 스트림을 표시하도록 수정
+
+- "모임에서 비디오 자르기 및 가운데 맞춤" 설정을 사용하는 경우 4K 모니터에서 모임에 있는 비디오를 올바르게 자르기
+
+- 여러 네트워크 어댑터를 사용하여 Windows 10 컴퓨터에서 레거시 Office Communicator 클라이언트로 파일을 전송할 수 있습니다. [자세한 정보](https://support.microsoft.com/help/4508477)
+
+- 비즈니스용 Skype와 Microsoft Teams 참가자 사이의 통신 환경이 개선됨
+
 
 ## <a name="version-1905-june-11"></a>버전 1905: 6월 11일
 *버전 1905(빌드 11629.20246)*
