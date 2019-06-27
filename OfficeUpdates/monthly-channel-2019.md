@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 392932611e8005ece5ef460f6f2fc9b80230468c
-ms.sourcegitcommit: f83fafdefd4fdb5f8f21eec6c99553708b553b7a
+ms.openlocfilehash: 83a63aafcddafeab5eae641b13f7563f030286a8
+ms.sourcegitcommit: 138a3eb0d7e9eda71fae28ee580441c88bd39fea
 ms.translationtype: HT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 06/25/2019
-ms.locfileid: "35203717"
+ms.locfileid: "35226868"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -26,7 +26,7 @@ ms.locfileid: "35203717"
 > - Microsoft는 일정 기간 동안 매달 기능(및 경우에 따라서는 수정 사항)을 롤아웃합니다. 이를 통해 기능을 좀 더 광범위한 대상에게 출시하기 전에 원활하게 작동하는지 확인합니다. 따라서 아래에 설명된 기능이 보이지 않더라도 곧 제공될 예정이므로 걱정할 필요가 없습니다. [자세히 알아보기](https://support.office.com/ko-KR/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
  > [!NOTE]
-> - Office 365 ProPlus의 기존 설치에 대한 Microsoft 팀 - 6월 말부터 Microsoft Teams가 Office 365 ProPlus(및 Office 365 Business)의 기존 설치에 업데이트 설치 시 포함됩니다. Teams가 추가되는 날짜는 사용 중인 업데이트 채널에 따라 다릅니다. 추가 정보는 [Office 365 ProPlus와 함께 Microsoft Teams 배포](https://docs.microsoft.com/ko-KR/deployoffice/teams-install)를 참조하세요.
+> - Office 365 ProPlus의 기존 설치에 대한 Microsoft 팀 - 7월 초부터 Microsoft Teams가 Office 365 ProPlus(및 Office 365 Business)의 기존 설치에 업데이트 설치 시 포함됩니다. Teams가 추가되는 날짜는 사용 중인 업데이트 채널에 따라 다릅니다. 추가 정보는 [Office 365 ProPlus와 함께 Microsoft Teams 배포](https://docs.microsoft.com/ko-KR/deployoffice/teams-install)를 참조하세요.
 
 ## <a name="version-1906-june-24"></a>버전 1906: 6월 24일
 *버전 1906(빌드 11727.20210)*
@@ -54,7 +54,7 @@ ms.locfileid: "35203717"
 - **Outlook 사용자 환경이 업데이트됨:** 출시 예정을 사용하여 이전에 미리 볼 수 있었던 간소화된 환경은 가장 중요한 작업에 집중할 수 있도록 설계되었습니다. 
   [자세한 정보](https://support.office.com/ko-KR/article/db503157-1b45-45d5-af52-e9c978cd8bed)
 
-- **이메일에서 잉크로 표시하세요!** 이제 Outlook 전자 메일에 그림을 그리고 주석을 달 수 있습니다. 
+- **그리기 기능:** 그림 위쪽에서 낙서를 하거나 그리기 캔버스를 추가하여 잉크로 내 생각을 전달할 수 있습니다. 
   [자세한 정보](https://support.office.com/ko-KR/article/3e928cae-7eb5-4c3f-8c60-28eb85afb7d5)
 
 ### <a name="word-feature-updates"></a>Word: 기능 업데이트

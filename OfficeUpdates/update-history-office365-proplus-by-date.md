@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 릴리스 정보에 대한 링크를 포함하여 Office 365 ProPlus 릴리스의 전체 목록을 날짜별로 구성해서 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 0e719fa7c142989d3099b1ce43f24b9b8c084316
-ms.sourcegitcommit: f83fafdefd4fdb5f8f21eec6c99553708b553b7a
+ms.openlocfilehash: 52cbaa1193d576b48770f1bd48b7b0db435be84b
+ms.sourcegitcommit: 6687d3d967294413101e7888d96750a4e389bd46
 ms.translationtype: HT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 06/25/2019
-ms.locfileid: "35203707"
+ms.locfileid: "35215329"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 ProPlus에 대한 업데이트 기록(날짜순)
 
@@ -32,7 +32,9 @@ Office 365 ProPlus는 새로운 기능, 보안 업데이트 및 비보안 업데
 |**채널**|**버전**|**빌드**|**릴리스 날짜**|**다음 이하 버전까지 지원**|
 |:-----|:-----|:-----|:-----|:-----|
 |월 단위<br/>|1906<br/>|11727.20210<br/>|2019년 6월 24일<br/>|1907 버전 출시<br/>|
+|반기(대상 지정)<br/>|1902<br/>|11328.20318<br/>|2019년 6월 11일<br/>|2019년 9월 10일<br/>|
 |반기<br/>|1808<br/>|10730.20348<br/>|2019년 6월 11일<br/>|2020년 3월 10일<br/>|
+|반기<br/>|1803<br/>|9126.2388<br/>|2019년 6월 11일<br/>|2019년 9월 10일<br/>|
 
 [//]: # (EOSTABLEEND)
 
