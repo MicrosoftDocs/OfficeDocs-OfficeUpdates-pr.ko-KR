@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 릴리스 정보에 대한 링크를 포함하여 Office 365 ProPlus 릴리스의 전체 목록을 날짜별로 구성해서 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 52cbaa1193d576b48770f1bd48b7b0db435be84b
-ms.sourcegitcommit: 6687d3d967294413101e7888d96750a4e389bd46
+ms.openlocfilehash: 2502e16e8ba6ed10617b2df0042ce1f8e7977bbe
+ms.sourcegitcommit: edc5a5ef00487215091a2e1bf978b33868e62e4a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35215329"
+ms.lasthandoff: 06/27/2019
+ms.locfileid: "35345575"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 ProPlus에 대한 업데이트 기록(날짜순)
 
@@ -31,7 +31,7 @@ Office 365 ProPlus는 새로운 기능, 보안 업데이트 및 비보안 업데
 
 |**채널**|**버전**|**빌드**|**릴리스 날짜**|**다음 이하 버전까지 지원**|
 |:-----|:-----|:-----|:-----|:-----|
-|월 단위<br/>|1906<br/>|11727.20210<br/>|2019년 6월 24일<br/>|1907 버전 출시<br/>|
+|월 단위<br/>|1906<br/>|11727.20230<br/>|2019년 6월 27일<br/>|1907 버전 출시<br/>|
 |반기(대상 지정)<br/>|1902<br/>|11328.20318<br/>|2019년 6월 11일<br/>|2019년 9월 10일<br/>|
 |반기<br/>|1808<br/>|10730.20348<br/>|2019년 6월 11일<br/>|2020년 3월 10일<br/>|
 |반기<br/>|1803<br/>|9126.2388<br/>|2019년 6월 11일<br/>|2019년 9월 10일<br/>|
@@ -47,6 +47,8 @@ Office 365 ProPlus는 새로운 기능, 보안 업데이트 및 비보안 업데
 
 |**년도**|**릴리스 날짜**|**월별 채널**|**반기별 채널(지정됨)**|**반기 채널**|
 |:-----|:-----|:-----|:-----|:-----|
+|2019|6월 27일|[버전 1906(빌드 11727.20230)](monthly-channel-2019.md#version-1906-june-27)| | |
+|2019|6월 26일|[버전 1906(빌드 11727.20224)](monthly-channel-2019.md#version-1906-june-26)| | |
 |2019|6월 24일|[버전 1906(빌드 11727.20210)](monthly-channel-2019.md#version-1906-june-24)| | |
 |2019|6월 11일|[버전 1905(빌드 11629.20246)](monthly-channel-2019.md#version-1905-june-11)|[버전 1902(빌드 11328.20318)](semi-annual-channel-targeted-2019.md#version-1902-june-11)|[버전 1808(빌드 10730.20348)](semi-annual-channel-2019.md#version-1808-june-11)<br/>[버전 1803(빌드 9126.2388)](semi-annual-channel-2019.md#version-1803-june-11)|
 |2019|6월 3일 |[버전 1905(빌드 11629.20214)](monthly-channel-2019.md#version-1905-june-3)| | |

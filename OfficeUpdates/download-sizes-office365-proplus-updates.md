@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 각 업데이트 채널에 대한 Office 365 ProPlus 업데이트의 대략적인 다운로드 크기 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: d5a915184658c9be53282986c057455b4e3362b5
-ms.sourcegitcommit: f83fafdefd4fdb5f8f21eec6c99553708b553b7a
+ms.openlocfilehash: d3d0fe11ec529c17f232eed13513e8149ad662c9
+ms.sourcegitcommit: edc5a5ef00487215091a2e1bf978b33868e62e4a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35203697"
+ms.lasthandoff: 06/27/2019
+ms.locfileid: "35345565"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 ProPlus 업데이트의 다운로드 크기
 
@@ -35,6 +35,38 @@ Microsoft는 대기업 고객들이 이러한 예정된 채널 업데이트에 �
 > - 다른 채널로 전환하는 경우(예: 반기 채널(대상 지정)에서 반기 채널로) 업데이트 크기가 표에 나오는 것보다 훨씬 더 커질 수 있습니다. 이로 인해 전체 다운로드가 필요할 수 있으며 그 규모는 1GB 이상일 수 있습니다.
 
 [//]: # (제거하지 마십시오)
+
+## <a name="june-27-2019"></a>2019년 6월 27일
+
+[//]: # (항목을 제거하지 마세요. 시작 2019년 6월 27일)
+
+### <a name="monthly-channel"></a>월별 채널
+
+가장 최근 버전은 버전 1906(빌드 11727.20230)입니다.
+
+|**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
+|:-----|:-----|:-----|
+|버전 1906(빌드 11727.20224) <br/> |2019년 6월 26일 <br/> |187<br/> |
+|버전 1906(빌드 11727.20210) <br/> |2019년 6월 24일 <br/> |287<br/> |
+
+
+[//]: # (콘텐츠를 제거하지 마세요 종료 2019년 6월 27일)
+
+## <a name="june-26-2019"></a>2019년 6월 26일
+
+[//]: # (항목을 제거하지 마세요. 시작 2019년 6월 26일)
+
+### <a name="monthly-channel"></a>월별 채널
+
+가장 최근 버전은 버전 1906(빌드 11727.20224)입니다.
+
+|**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
+|:-----|:-----|:-----|
+|버전 1906(빌드 11727.20210) <br/> |2019년 6월 24일 <br/> |60<br/> |
+|버전 1905(빌드 11629.20246) <br/> |2019년 6월 11일 <br/> |170<br/> |
+
+
+[//]: # (콘텐츠를 제거하지 마세요 종료 2019년 6월 26일)
 
 ## <a name="june-24-2019"></a>2019년 6월 24일
 

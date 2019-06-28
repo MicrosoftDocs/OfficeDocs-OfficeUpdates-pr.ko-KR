@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 83a63aafcddafeab5eae641b13f7563f030286a8
-ms.sourcegitcommit: 138a3eb0d7e9eda71fae28ee580441c88bd39fea
+ms.openlocfilehash: f8e2aaa1fe258bd00d49bfbc1c6b14a729a8bdfe
+ms.sourcegitcommit: edc5a5ef00487215091a2e1bf978b33868e62e4a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35226868"
+ms.lasthandoff: 06/27/2019
+ms.locfileid: "35345585"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -27,6 +27,25 @@ ms.locfileid: "35226868"
 
  > [!NOTE]
 > - Office 365 ProPlus의 기존 설치에 대한 Microsoft 팀 - 7월 초부터 Microsoft Teams가 Office 365 ProPlus(및 Office 365 Business)의 기존 설치에 업데이트 설치 시 포함됩니다. Teams가 추가되는 날짜는 사용 중인 업데이트 채널에 따라 다릅니다. 추가 정보는 [Office 365 ProPlus와 함께 Microsoft Teams 배포](https://docs.microsoft.com/ko-KR/deployoffice/teams-install)를 참조하세요.
+
+## <a name="version-1906-june-27"></a>버전 1906: 6월 27일
+*버전 1906(빌드 11727.20230)*
+
+### <a name="outlook-non-security-updates"></a>Outlook: 비보안 업데이트
+
+- POP3 사용자의 하위 집합에서 설정에 관계없이 일반 텍스트로 서식이 지정된 모든 전자 메일을 표시하는 문제를 해결합니다.  이 수정은 HTML 서식이 지정된 메시지의 보기를 복원합니다.
+
+## <a name="version-1906-june-26"></a>버전 1906: 6월 26일
+*버전 1906(빌드 11727.20224)*
+
+### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트
+
+- 도형 또는 양식 컨트롤에 할당된 매크로가 잘못된 오류 메시지를 표시하거나 잘못된 대상 범위에서 작동하는 Excel의 문제가 해결되었습니다.
+- 다른 사용자와 공동 작성하는 경우 표의 옆에 잘라내어 붙여 넣는 작업이 실패하는 문제를 해결했습니다.
+
+### <a name="outlook-non-security-updates"></a>Outlook: 비보안 업데이트
+
+- 대리인이 이미 모임 요청에 응답했는지 여부와 관련된 관리자에게 모호함을 야기하는 문제를 해결합니다.
 
 ## <a name="version-1906-june-24"></a>버전 1906: 6월 24일
 *버전 1906(빌드 11727.20210)*
