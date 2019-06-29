@@ -3,19 +3,19 @@ title: Office 참가자에 대한 릴리스 정보
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 6/21/2019
+ms.date: 6/28/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: d59dfd6abece5cefb49d2da86bf28ac24d1cebc7
-ms.sourcegitcommit: 61132166c48f967340a1579185728b5c3acd7bd8
+ms.openlocfilehash: b050450f851ddf70ec45d34319ad845b88ef3d58
+ms.sourcegitcommit: a25e1449c286ef70f68ed1eca5d303f2874050cc
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35130647"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35393342"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 참가자에 대한 릴리스 정보
 
@@ -27,6 +27,41 @@ ms.locfileid: "35130647"
 
  > [!NOTE]
 > - Office 365 ProPlus의 기존 설치에 대한 Microsoft Teams - 6월 말부터 Microsoft Teams가 Office 365 ProPlus(및 Office 365 Business)의 기존 설치에 업데이트 설치 시 포함됩니다. Teams가 추가되는 날짜는 사용 중인 업데이트 채널에 따라 다릅니다. 추가 정보는 [Office 365 ProPlus와 함께 Microsoft Teams 배포](https://docs.microsoft.com/ko-KR/deployoffice/teams-install)를 참조하세요.
+
+## <a name="june-28-2019"></a>2019년 6월 28일
+버전 1907 (빌드 11819.20002)
+
+## <a name="whats-new"></a>새로운 기능:
+
+### <a name="word-excel-powerpoint-and-visio"></a>Word, Excel, PowerPoint 및 Visio
+
+#### <a name="recommended-documents"></a>권장 문서
+
+관련 활동이 권장되는 문서를 찾습니다.
+
+## <a name="notable-fixes"></a>중요 수정 사항:
+
+### <a name="word"></a>Word 
+- 일부 사용자가 .DOC 파일을 열지 못할 수 있는 문제를 해결했습니다.
+- 설명이 제대로 로드되지 않도록 하는 문제가 해결되었습니다.
+
+### <a name="excel"></a>Excel
+- 파워 쿼리의 성능이 향상되었습니다.
+
+### <a name="powerpoint"></a>PowerPoint
+- 화면을 깜박이게 할 수 있는 Surface 장치에 펜을 사용하는 것과 관련된 문제를 해결했습니다.
+
+### <a name="outlook"></a>Outlook
+- 모임으로 변환할 때 약속 있음/없음 상태를 변경할 수 있는 문제가 해결되었습니다.
+- 애드혹 서식 파일을 사용하여 전자 메일을 보호하는 경우 잘못된 서식 파일 및 설명이 표시되는 문제를 해결했습니다.
+
+### <a name="access"></a>액세스
+- 다양한 성능 및 안정성 수정 사항입니다.
+
+### <a name="project"></a>Project
+- 다양한 성능 및 안정성 수정 사항입니다.
+
+</BR></BR>
 
 ## <a name="june-21-2019"></a>2019년 6월 21일
 버전 1907(빌드 11815.20002)
