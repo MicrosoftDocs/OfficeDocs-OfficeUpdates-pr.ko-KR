@@ -3,19 +3,19 @@ title: Office 참가자에 대한 릴리스 정보
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 6/28/2019
+ms.date: 7/5/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: b050450f851ddf70ec45d34319ad845b88ef3d58
-ms.sourcegitcommit: a25e1449c286ef70f68ed1eca5d303f2874050cc
+ms.openlocfilehash: 69d4e3cbe3bf6c57f08e5b8f3eb90f8abb47e459
+ms.sourcegitcommit: cb86c338e3a58b21bd6ed9dc5480388075c0194d
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35393342"
+ms.lasthandoff: 07/05/2019
+ms.locfileid: "35575169"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 참가자에 대한 릴리스 정보
 
@@ -27,6 +27,60 @@ ms.locfileid: "35393342"
 
  > [!NOTE]
 > - Office 365 ProPlus의 기존 설치에 대한 Microsoft Teams - 6월 말부터 Microsoft Teams가 Office 365 ProPlus(및 Office 365 Business)의 기존 설치에 업데이트 설치 시 포함됩니다. Teams가 추가되는 날짜는 사용 중인 업데이트 채널에 따라 다릅니다. 추가 정보는 [Office 365 ProPlus와 함께 Microsoft Teams 배포](https://docs.microsoft.com/ko-KR/deployoffice/teams-install)를 참조하세요.
+
+## <a name="july-5-2019"></a>2019년 7월 5일
+버전 1908 (빌드 11901.20002)
+
+## <a name="whats-new"></a>새로운 기능:
+
+### <a name="word-excel-powerpoint"></a>Word, Excel, PowerPoint
+
+#### <a name="sketchy-shapes"></a>도형 스케치!
+
+프레젠테이션 초안을 작성 중인가요? 스케치 스타일을 적용하여 아직 작업 중임을 보여줍니다. 이 기능을 사용하면 개체를 자유형 도형, 손으로 그린 도형으로 변환하지 않고 개인적인 손길을 담을 수 있습니다.
+
+## <a name="notable-fixes"></a>중요 수정 사항:
+
+### <a name="all"></a>모두
+- 리본 키 팁의 성능이 크게 향상되었습니다.
+- '준비 중인 서비스 보기' 대화 상자가 제대로 표시되지 않는 문제가 수정되었습니다.
+- 공동인증 갤러리 팝업에서 사진이 잘못 정렬될 수 있는 문제를 해결했습니다.
+
+### <a name="word"></a>Word 
+- 새로운 의견이 추가되지 않을 수 있는 문제가 수정되었습니다.
+- 테이블이 가끔 충돌을 일으킬 수 있는 문제가 수정되었습니다.
+- 유효하지 않은 데이터가 메일 병합 끝에 추가될 수 있는 문제가 수정되었습니다.
+- 일부 LaTeX 수식이 올바르게 렌더링되지 않는 문제가 수정되었습니다.
+
+### <a name="excel"></a>Excel
+- 차트 유형을 변경하는 경우 런타임 예외가 발생할 수 있는 문제를 해결했습니다.
+- 여러 창이 열려 있을 때 잘못된 리본이 표시될 수 있는 문제를 해결했습니다.
+- 매크로가 통합 문서의 두 번째 인스턴스를 열었을 때 오류가 발생할 수 있는 문제를 해결했습니다.
+- 통합 문서를 열거나 만들 때 또는 통합 문서 사이를 전환할 때 충돌이 발생하는 문제를 해결했습니다.
+- 사용자가 Teams에서 Word로 작성한 PDF를 열지 못하는 문제가 해결되었습니다.
+
+### <a name="powerpoint"></a>PowerPoint
+- PDF로 내보낼 때 차트 품질을 저하시키는 문제가 해결되었습니다.
+- 툴팁이 센터까지의 거리를 표시하지 못하게 하는 문제가 수정되었습니다.
+
+### <a name="outlook"></a>Outlook
+- 디스크 가득 참 오류가 표시되지 않는 문제가 수정되었습니다.
+- 모임 요청을 업데이트 할 때 첨부 파일이 중복 될 수 있는 문제가 수정되었습니다.
+
+### <a name="access"></a>Access
+- 일부 쿼리의 경우 큰 정수 값을 반환하지 못하게 하는 문제가 해결되었습니다.
+- Sql textbox를 편집할 수 없게 하는 문제가 해결되었습니다.
+- 일부 DPI 디스플레이에서 도구 설명을 표시 하는 데 어려움이 있는 문제를 해결했습니다.
+
+### <a name="project"></a>Project
+- 새 작업에서 플래그 값을 편집할 수 없게 하는 문제가 수정되었습니다.
+- 상태 업데이트로 인해 할당 및 작업에 대한 실제 시작 날짜가 잘못 설정될 수있는 문제가 수정되었습니다.
+- 일부 리소스가 초과 할당되었다고 잘못 표시될 수 있는 문제를 해결했습니다.
+- 서버에 연결된 상태에 Lag이 추가되고 소수점 구분 기호가 쉼표인 경우 TaskDependencies Add 메서드가 실패할 수 있는 문제가 수정되었습니다.
+- CSOM을 통해 로컬 사용자 정의 필드 조회 테이블 값을 업데이트 하는 경우 PCS가 충돌할 수 있는 문제가 해결되었습니다.
+- 소수를 포함하는 경우 전체 작업 시간값이 잘못된 것으로 표시되는 문제를 해결했습니다.
+
+</BR></BR>
 
 ## <a name="june-28-2019"></a>2019년 6월 28일
 버전 1907 (빌드 11819.20002)
