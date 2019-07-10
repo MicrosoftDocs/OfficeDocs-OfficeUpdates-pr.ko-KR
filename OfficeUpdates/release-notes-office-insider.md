@@ -10,12 +10,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 68d4862af628444ade76ebfa2e70e85753f83c28
-ms.sourcegitcommit: 36e3abcb2903810b8e0704564fa140fee9904bd7
+ms.openlocfilehash: c6d380fac5fa002179597a7e32002e1889482063
+ms.sourcegitcommit: eea73f35ff3045e556ae603f9c6e18fa4fed6158
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35587899"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35607372"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 참가자에 대한 릴리스 정보
 
@@ -29,7 +29,7 @@ ms.locfileid: "35587899"
 > - Office 365 ProPlus의 기존 설치에 대한 Microsoft Teams - 6월 말부터 Microsoft Teams가 Office 365 ProPlus(및 Office 365 Business)의 기존 설치에 업데이트 설치 시 포함됩니다. Teams가 추가되는 날짜는 사용 중인 업데이트 채널에 따라 다릅니다. 추가 정보는 [Office 365 ProPlus와 함께 Microsoft Teams 배포](https://docs.microsoft.com/ko-KR/deployoffice/teams-install)를 참조하세요.
 
 ## <a name="july-5-2019"></a>2019년 7월 5일
-버전 1908 (빌드 11901.20002)
+버전 1907 (빌드 11901.20018)
 
 ## <a name="whats-new"></a>새로운 기능:
 

@@ -1,5 +1,5 @@
 ---
-title: Mac용 Office 2016에 대한 릴리스 정보
+title: Mac용 Office 2016 업데이트 기록
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
@@ -10,14 +10,14 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 2018년 9월 이후부터 Mac용 Office 2016 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 607abf772306e7c98657080fdabe5e304eccb051
-ms.sourcegitcommit: eaa9ab73dea88c18d1d23474c21457d8656af821
+ms.openlocfilehash: 094e0654c5e92dee64d0f1ce3c74a0f9f2443b06
+ms.sourcegitcommit: 7a98878289dd61a6cfa7ea5e9a4ee90ad085b9bb
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "34935900"
+ms.lasthandoff: 06/20/2019
+ms.locfileid: "35110780"
 ---
-# <a name="release-notes-for-office-2016-for-mac"></a>Mac용 Office 2016에 대한 릴리스 정보
+# <a name="update-history-for-office-2016-for-mac"></a>Mac용 Office 2016 업데이트 기록
 
 Mac용 Office 2016은 소매점 또는 볼륨 라이선스 계약을 통해 일회용 구매 제품으로 사용할 수 있는 Office 버전입니다. 2020년 10월 13일까지 필요에 따라 보안 업데이트 및 버그 수정 사항이 지원됩니다. Mac용 Office 2016에서 지원되는 최소 macOS는 10.10(Yosemite)입니다.
 

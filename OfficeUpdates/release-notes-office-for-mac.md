@@ -3,19 +3,19 @@ title: Mac용 Office에 대한 릴리스 정보
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 6/14/2019
+ms.date: 6/28/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Office 356 구독자를 위한 Mac용 Office 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 38719e16466b6ed4885405e4265eddb43868c35d
-ms.sourcegitcommit: 241e7ece990d6ab11e1cd2aae491c4319f8b0ee6
+ms.openlocfilehash: 5ddf84e1bae91ad0a610859078e8523f5987b955
+ms.sourcegitcommit: e6c9f7c47fa3ef117b6b234d9ac17777102e89ad
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/18/2019
-ms.locfileid: "35060300"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35390976"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac용 Office에 대한 릴리스 정보
 
@@ -26,31 +26,46 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
 
   
 > [!NOTE]
-> - Mac용 Office 릴리스 및 추가 다운로드 링크 목록을 보려면 [Mac용 Office에 대한 업데이트 기록](update-history-office-for-mac.md)을 참조하세요. 
+> - Mac용 Office 릴리스, 업데이트 패키지 및 추가 다운로드 링크 목록을 보려면 [Mac용 Office에 대한 업데이트 기록](update-history-office-for-mac.md)을 참조하세요. 
 > - Office 참가자인 경우 [초기 참가자 빌드용 릴리스 정보](https://support.office.com/article/b3260859-2c1e-4f12-92a4-62a6997efb3a)를 참조하세요.
 > - 2018년 16.17 릴리스부터 릴리스 정보는 소매점 또는 볼륨 라이선스 계약을 통해 일회용 구매 제품으로 사용할 수 있는 Mac용 Office 버전인 Mac용 Office 2019에도 적용됩니다. 그렇지만 릴리스 정보에 나열된 일부 기능은 Office 365 구독이 있는 경우에만 사용할 수 있습니다.
 > - 버전 16.16 이하 버전의 릴리스 정보는 일회용 구매 제품으로 사용할 수 있는 Mac용 Office의 버전인 Mac용 Office 2016에도 적용됩니다. 16.16 이하 버전은 Mac용 Office 2016 볼륨 라이선스를 통해 정품 인증을 받을 수 있습니다. 버전 16.17 이상은 Mac용 Office 2016 볼륨 라이선스로 정품 인증을 받을 수 없습니다. 9월 이후의 Mac용 Office 2016 릴리스에 대한 내용은 [Mac용 Office 2016 릴리스 정보](release-notes-office-2016-mac.md)를 참조하세요.
-> - 다운로드 링크는 가장 최근 릴리스에 대해서만 제공됩니다.
-> - Microsoft 자동 업데이트는 Microsoft의 다양한 Mac 제품에 대한 업데이트를 제공합니다. 따라서 Mac용 Office를 실행하고 있지 않더라도 Microsoft 자동 업데이트를 업데이트하라는 알림을 받을 수 있습니다.
+> 
+> 
 > - 종종 일정 기간 월 단위 채널에 기능(및 때때로 수정 항목)을 출시하기도 합니다. 이를 통해 기능을 더 많은 대상 그룹에 출시하기 전에 모두 원활하게 작동하는지 확인할 수 있습니다. 따라서 아래에 설명된 문제가 보이지 않는 이상 결국 받게 되니 아무것도 걱정할 필요가 없습니다. [자세히 알아보기](https://support.office.com/ko-KR/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
 
   **참고:** Microsoft 자동 업데이트 (MAU) 릴리스 정보는 [MAU 출시 기록](https://docs.microsoft.com/ko-KR/officeupdates/release-history-microsoft-autoupdate) 페이지로 이동 되었습니다.<br/>
 
-## <a name="june-2019-release"></a>2019년 6월 릴리스
-
-**릴리스 날짜:** 2019년 6월 11일
-
+## <a name="june-11-2019-release"></a>2019년 6월 11일 릴리스
 *버전 16.26(빌드 19060901)*
 
- 이 릴리스는 다음과 같은 업데이트를 제공합니다.
 
-|**응용 프로그램**|**업데이트**|**보안 업데이트**|**업데이트 패키지용 다운로드 링크**|
-|:-----|:-----|:-----|:-----|
-|Word  <br/><br/>|@멘션으로 주의 끌기: 메모에 @멘션을 사용하여 입력이 필요하다는 사실을 동료들에게 알립니다. |[CVE-2019-1034](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1034): Microsoft Word 원격 코드 실행 취약성<br/><br/>[CVE-2019-1035](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1035): Microsoft Word 원격 코드 실행 취약성<br/>|[Word 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Word_16.26.19060901_Updater.pkg)<br/>|
-|Excel<br/>|@멘션으로 주의 끌기: 메모에 @멘션을 사용하여 입력이 필요하다는 사실을 동료들에게 알립니다.<br/><br/>**그룹화 필요성:** 피벗 테이블 날짜는 그룹으로 묶을 필요가 없습니다. Excel > 기본 설정 > 표 및 필터에서 자동 그룹화를 끕니다.<br/><br/>**아래 첨자 및 위 첨자의 빠른 사용:** 아래 첨자, 위 첨자, 취소선을 자주 사용한다면 리본 및 빠른 실행 도구 모음에 추가하여 쉽게 사용할 수 있습니다.| |[Excel 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.26.19060901_Updater.pkg)<br/>|
-|PowerPoint<br/>|@멘션으로 주의 끌기: 메모에 @멘션을 사용하여 입력이 필요하다는 사실을 동료들에게 알립니다.<br/><br/>**온라인 비디오의 새로운 홈:** 조직의 모든 사람이 볼 수 있도록 비디오를 Microsoft Stream에 저장하세요. 비디오 링크를 삽입하고 파일 크기의 일부로 멀티미디어 프레젠테이션을 즐겨보세요.<br/><br/>**라이브 캡션 및 자막:** 사용자가 발표하는 동안 사용자의 단어가 캡션으로 자동으로 표시되거나 원하는 언어의 자막으로 번역됩니다. 효과를 높이려면 헤드셋 마이크를 사용하세요.||[PowerPoint 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.26.19060901_Updater.pkg)<br/>|
-|Outlook|**한 번의 클릭으로 Outlook에서 OneNote로:** 단추를 클릭하면 Outlook 메시지와 모임 노트를 OneNote 전자 필기장에 저장할 수 있습니다. 보관함이나 물건을 보관할 수 있는 편리한 장소로 사용하세요. <br/> | |[Outlook 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.26.19060901_Updater.pkg) <br/>|
+### <a name="word-feature-updates"></a>Word: 기능 업데이트
+
+- **\@@멘션**으로 주의 끌기: 메모에 @멘션을 사용하여 입력이 필요하다는 사실을 동료들에게 알립니다.
+
+### <a name="word-security-updates"></a>Word: 보안 업데이트
+
+- [CVE-2019-1034](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1034): Microsoft Word 원격 코드 실행 취약성
+- [CVE-2019-1035](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1035): Microsoft Word 원격 코드 실행 취약성
+
+### <a name="excel-feature-updates"></a>Excel: 기능 업데이트
+
+- **\@@멘션**으로 주의 끌기: 메모에 @멘션을 사용하여 입력이 필요하다는 사실을 동료들에게 알립니다.
+- **그룹화 필요성:** 피벗 테이블 날짜는 그룹으로 묶을 필요가 없습니다. Excel > 기본 설정 > 표 및 필터에서 자동 그룹화를 끕니다.
+- **아래 첨자 및 위 첨자의 빠른 사용:** 아래 첨자, 위 첨자, 취소선을 자주 사용한다면 리본 및 빠른 실행 도구 모음에 추가하여 쉽게 사용할 수 있습니다.
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint: 기능 업데이트
+
+- **\@@멘션**으로 주의 끌기: 메모에 @멘션을 사용하여 입력이 필요하다는 사실을 동료들에게 알립니다.
+- **온라인 비디오의 새로운 홈:** 조직의 모든 사람이 볼 수 있도록 비디오를 Microsoft Stream에 저장하세요. 비디오 링크를 삽입하고 파일 크기의 일부로 멀티미디어 프레젠테이션을 즐겨보세요.
+- **라이브 캡션 및 자막:** 사용자가 발표하는 동안 사용자의 단어가 캡션으로 자동으로 표시되거나 원하는 언어의 자막으로 번역됩니다. 효과를 높이려면 헤드셋 마이크를 사용하세요.
+
+### <a name="outlook-feature-updates"></a>Outlook: 기능 업데이트
+
+- **한 번의 클릭으로 Outlook에서 OneNote로:** 단추를 클릭하면 Outlook 메시지와 모임 노트를 OneNote 전자 필기장에 저장할 수 있습니다. 보관함이나 물건을 보관할 수 있는 편리한 장소로 사용하세요.<br/><br/>
+
 
 ## <a name="may-2019-release"></a>2019년 5월 릴리스      
 
