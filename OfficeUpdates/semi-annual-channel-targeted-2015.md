@@ -1,5 +1,5 @@
 ---
-title: 2015에 세미콜론 연간 회의 채널 (대상) 릴리스에 대 한 릴리스 정보
+title: 2015의 반기 채널 (대상 지정) 릴리스에 대 한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
@@ -9,25 +9,25 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
-description: IT 전문가에 제공 릴리스 정보 세미콜론 연간 회의 채널 (대상) 릴리스에 대 한 Office 365 ProPlus에 대 한 2015에서
+description: 2015의 Office 365 ProPlus에 대 한 반기 채널 (대상 지정) 릴리스에 대 한 릴리스 정보를 IT 전문가에 게 제공 합니다.
 ms.openlocfilehash: 4b6eb5b96fddc57d8a1f64adfaeb10166d541c42
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "19556308"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32439143"
 ---
-# <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2015"></a>2015에 세미콜론 연간 회의 채널 (대상) 릴리스에 대 한 릴리스 정보
+# <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2015"></a>2015의 반기 채널 (대상 지정) 릴리스에 대 한 릴리스 정보
 
-이러한 릴리스 정보에서는 새로운 기능, 보안 업데이트 및 2015에서 Office 365 ProPlus에 대 한 세미콜론 연간 회의 채널 (대상) 업데이트에 포함 된 비보안 업데이트 하는 방법에 대 한 정보를 제공 합니다.
+이러한 릴리스 정보에서는 2015의 Office 365 ProPlus에 대 한 반기 채널 (대상 지정) 업데이트에 포함 된 새로운 기능, 보안 업데이트 및 비보안 업데이트에 대 한 정보를 제공 합니다.
  
 > [!NOTE]
 > - 또한 Visio Pro for Office 365 및 Project Online 데스크톱 클라이언트에 대한 새로운 기능, 보안 업데이트 및 비보안 업데이트에 대한 정보도 제공합니다.
 > - 이 정보는 일부 Office 365 계획에 제공되는 Office 버전(예: Business Premium)인 Office 365 Business에도 적용됩니다.
-> - 세미콜론 연간 회의 채널 (대상) 2017 년 9 월 하기 전에 지연 채널에 대 한 첫번째 릴리스 이름이 였습니다.
+> - 반기 채널 (대상 지정)은 9 월 2017 이전 지연 채널에 대 한 첫 번째 릴리스입니다.
 
 
-## <a name="version-1509-december-8"></a>버전 1509: 년 12 월 8
+## <a name="version-1509-december-8"></a>버전 1509:12 월 8 일
 *버전 1509(빌드 6001.1043)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote: 비보안 업데이트
@@ -56,7 +56,7 @@ ms.locfileid: "19556308"
 
 
 
-## <a name="version-1509-november-10"></a>버전 1509: 11 월 10 일
+## <a name="version-1509-november-10"></a>버전 1509:11 월 10 일
 *버전 1509(빌드 6001.1038)*
 
 ### <a name="access-security-updates"></a>Access: 보안 업데이트
@@ -125,7 +125,7 @@ ms.locfileid: "19556308"
 
 
 
-## <a name="version-1509-october-21"></a>버전 1509: 년 10 월 21 일
+## <a name="version-1509-october-21"></a>버전 1509:10 월 21 일
 *버전 1509(빌드 6001.1034)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote: 비보안 업데이트
@@ -168,7 +168,7 @@ ms.locfileid: "19556308"
 
 
 
-## <a name="version-1509-october-5"></a>버전 1509: 년 10 월 5
+## <a name="version-1509-october-5"></a>버전 1509:10 월 5 일
 *버전 1509(빌드 4229.1029)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote: 비보안 업데이트
@@ -193,7 +193,7 @@ ms.locfileid: "19556308"
 
 
 
-## <a name="version-1509-september-22"></a>버전 1509: 9 월 22
+## <a name="version-1509-september-22"></a>버전 1509:9 월 22 일
 *버전 1509(빌드 4229.1024)*
 
 이 채널의 첫 번째 릴리스입니다. 이 릴리스를 통해 Office 2016 응용 프로그램을 처음으로 제공합니다.

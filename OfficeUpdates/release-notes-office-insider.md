@@ -10,12 +10,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 69d4e3cbe3bf6c57f08e5b8f3eb90f8abb47e459
-ms.sourcegitcommit: cb86c338e3a58b21bd6ed9dc5480388075c0194d
+ms.openlocfilehash: 68d4862af628444ade76ebfa2e70e85753f83c28
+ms.sourcegitcommit: 36e3abcb2903810b8e0704564fa140fee9904bd7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/05/2019
-ms.locfileid: "35575169"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "35587899"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 참가자에 대한 릴리스 정보
 
@@ -138,7 +138,7 @@ ms.locfileid: "35575169"
 1. 전자 메일을 어두운 모드로 읽습니다. 내용을 읽을 수 없는 경우 읽기 창에서 태양 토글을 사용하여 밝은 배경으로 전환합니다. 
 2. 전자 메일을 어두운 모드로 작성합니다. 리본에서 태양 토글을 사용하여 밝은 배경에서 메시지가 어떻게 보이는지 미리 봅니다. 
 
-제대로 렌더링되지 않는 전자 메일을 발견하면 OutlookDarkModeFail에 첨부 파일로 보냅니다.
+제대로 렌더링되지 않는 전자 메일을 발견하면 OutlookDarkModeFail@service.microsoft.com에 첨부 파일로 보냅니다.
 
 #### <a name="get-location-suggestions"></a>위치 제안 받기
 
