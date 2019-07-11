@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: f8e2aaa1fe258bd00d49bfbc1c6b14a729a8bdfe
-ms.sourcegitcommit: edc5a5ef00487215091a2e1bf978b33868e62e4a
+ms.openlocfilehash: 0aaff25b48109f843c6eccbaf650da4006e83f1d
+ms.sourcegitcommit: 3583f7d48360ffc79d0d26b1b2385fec0d99be14
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/27/2019
-ms.locfileid: "35345585"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "35601517"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -27,6 +27,15 @@ ms.locfileid: "35345585"
 
  > [!NOTE]
 > - Office 365 ProPlus의 기존 설치에 대한 Microsoft 팀 - 7월 초부터 Microsoft Teams가 Office 365 ProPlus(및 Office 365 Business)의 기존 설치에 업데이트 설치 시 포함됩니다. Teams가 추가되는 날짜는 사용 중인 업데이트 채널에 따라 다릅니다. 추가 정보는 [Office 365 ProPlus와 함께 Microsoft Teams 배포](https://docs.microsoft.com/ko-KR/deployoffice/teams-install)를 참조하세요.
+
+## <a name="version-1906-july-09"></a>버전 1906: 7월 9일
+*버전 1906 (빌드 11727.20244)*
+
+나열된 보안 업데이트는 [여기](https://docs.microsoft.com/ko-KR/officeupdates/office365-proplus-security-updates)
+
+### <a name="outlook-non-security-updates"></a>Outlook: 비보안 업데이트
+
+ - 현재 폴더 검색에 간헐적으로 오류가 발생하는 문제를 해결합니다.
 
 ## <a name="version-1906-june-27"></a>버전 1906: 6월 27일
 *버전 1906(빌드 11727.20230)*

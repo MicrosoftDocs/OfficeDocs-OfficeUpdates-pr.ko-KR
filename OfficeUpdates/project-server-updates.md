@@ -3,7 +3,7 @@ title: Project Server 업데이트
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 04/10/2019
+ms.date: 07/10/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: project-server-itpro
@@ -13,12 +13,12 @@ ms.collection:
 - IT_ProjectAdmin_Top
 - RelNotes_Server
 description: 한 곳에서 Project Server 2013 및 Project Server 2010용 업데이트를 찾아서 관리합니다. 이 페이지의 링크를 사용하여 업데이트에 대해 자세히 알아보고 업데이트를 다운로드할 수 있습니다.
-ms.openlocfilehash: 75e8e5f56450363669c938156a121d5f87452593
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: dd399ffb58c6799f8e0ee21b7df3b2eec72472a9
+ms.sourcegitcommit: f0762345dc203481117f080f41fba451bffbac65
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32438803"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "35594596"
 ---
 # <a name="project-server-updates"></a>Project Server 업데이트
 
@@ -30,6 +30,9 @@ ms.locfileid: "32438803"
   
 |**릴리스 날짜**|**KB 번호**|
 |:-----|:-----|:-----|
+|2019년 7월  <br/> |[KB4475524](https://support.microsoft.com/kb/4475524) <br/>|
+|2019년 6월  <br/> |[KB4464600](https://support.microsoft.com/kb/4464600) <br/>|
+|2019년 5월  <br/> |[KB4464562](https://support.microsoft.com/kb/4464562) <br/>|
 |2019년 4월  <br/> |[KB4464513](https://support.microsoft.com/kb/4464513) <br/>|
 |2019년 3월  <br/> |[KB4462218](https://support.microsoft.com/kb/4462218) <br/>|
 |2019년 2월  <br/> |[KB4462151](https://support.microsoft.com/kb/4462151) <br/>|
@@ -87,6 +90,9 @@ ms.locfileid: "32438803"
 
 |**릴리스 날짜**|**KB 번호**|
 |:-----|:-----|:-----|
+|2019년 7월  <br/>  |[KB4475532](https://support.microsoft.com/kb/4475532) <br/>|
+|2019년 6월  <br/>  |[KB4475507](https://support.microsoft.com/kb/4475507) <br/>|
+|2019년 5월  <br/>  |[KB4464568](https://support.microsoft.com/kb/4464568) <br/>|
 |2019년 4월  <br/>  |[KB4464521](https://support.microsoft.com/kb/4464521) <br/>|
 |2019년 3월  <br/>  |[KB4462227](https://support.microsoft.com/kb/4462227) <br/>|
 |2019년 2월  <br/>  |[KB4462179](https://support.microsoft.com/kb/4462179) <br/>|
