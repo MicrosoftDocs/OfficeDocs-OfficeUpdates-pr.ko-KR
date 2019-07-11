@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 반기 채널(대상 지정) 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: eabd0a3bf3c7c44a74e0991b78e11e6d079dc7f3
-ms.sourcegitcommit: 2a0b5f0a6ef18194f8a8591ff2fd3e6894d162b2
+ms.openlocfilehash: 715250022d6bf9172f4e1c47d1437099a63b1ff1
+ms.sourcegitcommit: eea73f35ff3045e556ae603f9c6e18fa4fed6158
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/12/2019
-ms.locfileid: "34910398"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35607362"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019년 반기 채널(대상 지정) 릴리스에 대한 릴리스 정보
 
@@ -27,6 +27,49 @@ ms.locfileid: "34910398"
  
 > [!NOTE]
 > - Office 365 ProPlus의 각 업데이트 채널의 보안 업데이트 정보는 [보안 업데이트](office365-proplus-security-updates.md)에 별도로 열거될 것입니다.
+
+## <a name="version-1902-july-09"></a>버전 1902: 7월 9일
+*버전 1902(빌드 11328.20368)*
+
+보안 업데이트가 [여기](https://docs.microsoft.com/ko-KR/officeupdates/office365-proplus-security-updates)에 나열됨
+
+
+### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트
+- 필터링된 Excel 행을 삭제하는 경우 지나치게 속도가 느려지는 문제가 해결되었습니다.
+- 두 손가락으로 스크롤하면 회색 직사각형이 워크시트에 그려지고 Excel이 중단되는 문제가 해결되었습니다.
+
+
+### <a name="outlook-non-security-updates"></a>Outlook: 비보안 업데이트
+- 중국어 단어를 선택할 수 있도록 IME 후보 창이 열려 있도록 유지하는 것이 아니라 가끔씩 Outlook에서 영어 핀인 문자를 삽입하는 문제를 해결합니다.
+- 해당 회의실의 가용성을 초과하여 예약된 모임의 회의실이 제안되는 문제를 해결합니다.
+- 사용자가 대신에 마스터 되풀이 항목을 열기 위해 모임 되풀이 항목에 대한 예외 열기를 시도하는 문제를 해결합니다.
+- 지운 편지함 폴더의 항목에 대해 만료 날짜가 잘못 계산되는 문제를 해결합니다.
+
+
+### <a name="teams-non-security-updates"></a>Teams: Excel: 비보안 업데이트
+
+- 이제 Teams 설치자가 설치 완료 후 자동 실행을 해제하는 정책을 사용할 수 있습니다.
+
+
+### <a name="visio-non-security-updates"></a>Visio: 비보안 업데이트
+
+- riched20.dll을 찾을 수 없다고 표시된 오류 메시지에서 보듯이, Visio용 ActiveX 솔루션이 Office 365에서 작동하지 않는 문제를 해결합니다.
+
+
+### <a name="word--non-security-updates"></a>Word: 비보안 업데이트
+
+- 서식 파일 검색 창을 비활성화할 수 있도록 GPO 설정이 수정되었습니다.
+- 오프라인 상태에서 서버 전용 문서를 편집 한 후 일부 변경 내용이 분실되는 문제를 해결했습니다.
+- 문서 속성에 빠른 문서 요소를 사용하는 경우 성능이 향상되었습니다.
+- 서버의 첫 번째 다운로드 수정 버전이 실패하는 문제가 해결되었습니다.
+
+
+### <a name="office-suite--non-security-updates"></a>Office 제품군: 비보안 업데이트
+
+- 추가 Office 제품이나 언어 팩을 설치할 때 공유 컴퓨터 활성화를 사용하는 장치가 예기치 않게 사용자 기반 활성화로 되돌아가는 문제를 해결했습니다.
+- 프록시 인증이 SYSTEM으로 실행될 때 Office 업데이트를 차단하는 문제가 해결되었습니다.
+- Office 추가 기능이 사용자 프로필 변경 내용에서 사라지는 문제를 해결했습니다.
+
 
 ## <a name="version-1902-june-11"></a>버전 1902: 6월 11일
 *버전 1902(빌드 11328.20318)*
