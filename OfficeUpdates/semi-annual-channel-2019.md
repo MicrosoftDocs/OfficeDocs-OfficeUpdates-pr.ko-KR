@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 반기 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: c30fea0f6e77e25db238ead95a786ba99f69790a
-ms.sourcegitcommit: a01cd0d0d2efe0aa3d0efce1848b773aaa0eca1e
+ms.openlocfilehash: 041802476192d1ca6b684a46046aefa2c9ba2a73
+ms.sourcegitcommit: 9e7d201c887af0708df6ce48fba7f414b066dcd0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35605587"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35612147"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019년 반기 채널 릴리스에 대한 릴리스 정보
 
@@ -29,8 +29,7 @@ ms.locfileid: "35605587"
 
 ## <a name="version-1902-july-09"></a>버전 1902: 7월 9일
 *버전 1902(빌드 11328.20368)*
-
-보안 업데이트가 [여기](https://docs.microsoft.com/ko-KR/officeupdates/office365-proplus-security-updates)에 나열됨
+<br/>보안 업데이트가 [여기](https://docs.microsoft.com/ko-KR/officeupdates/office365-proplus-security-updates)에 나열됨
 
 
 ### <a name="access-feature-updates"></a>Access: 기능 업데이트
@@ -196,6 +195,26 @@ ms.locfileid: "35605587"
 - 링크된 그림을 다운로드 할 때 원인이 되는 고정 회귀의 중단
 - Word, Excel, PowerPoint에 붙여넣은 대형 EMF 파일의 흐림 수정.
 - 몇가지 케이스에서 문서가 읽기전용으로 열리는 등 버전 기록 분석 논리에서 버그가 수정.
+
+
+## <a name="version-1808-july-09"></a>버전 1808: 7월 9일
+*버전 1808(빌드 10730.20360)*
+<br/>보안 업데이트는 [여기](https://docs.microsoft.com/ko-KR/officeupdates/office365-proplus-security-updates)에 나열되어 있습니다.
+
+
+### <a name="word-non-security-updates"></a>Word: 비보안 업데이트
+
+- 문서 속성에 빠른 문서 요소를 사용하는 경우 성능이 향상되었습니다.
+- 파일을 체크 아웃할 때 서명 제거에 대한 문제가 해결되었습니다.
+
+### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
+
+- 가상화된 Windows에서 실행되는 Office 응용 프로그램에 영향을 주는 문제를 해결했습니다.
+
+
+## <a name="version-1803-july-09"></a>버전 1803: 7월 9일
+*버전 1803(빌드 9126.2428)*
+<br/>보안 업데이트는 [여기](https://docs.microsoft.com/ko-KR/officeupdates/office365-proplus-security-updates)에 나열되어 있습니다.
 
 
 ## <a name="version-1808-june-11"></a>버전 1808: 6월 11일
