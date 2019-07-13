@@ -3,19 +3,19 @@ title: Office 참가자에 대한 릴리스 정보
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 7/5/2019
+ms.date: 7/12/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: c6d380fac5fa002179597a7e32002e1889482063
-ms.sourcegitcommit: eea73f35ff3045e556ae603f9c6e18fa4fed6158
+ms.openlocfilehash: 29b2cf8edb700db4b887c603570a43bc62ca7356
+ms.sourcegitcommit: 433c9f63b2b868767c23672ccc1845d2d90327aa
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/10/2019
-ms.locfileid: "35607372"
+ms.lasthandoff: 07/12/2019
+ms.locfileid: "35643040"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 참가자에 대한 릴리스 정보
 
@@ -26,7 +26,40 @@ ms.locfileid: "35607372"
 > - 릴리스 정보 게시 날짜는 실제 빌드 릴리스 날짜와 일치하지 않을 수 있습니다.
 
  > [!NOTE]
-> - Office 365 ProPlus의 기존 설치에 대한 Microsoft Teams - 6월 말부터 Microsoft Teams가 Office 365 ProPlus(및 Office 365 Business)의 기존 설치에 업데이트 설치 시 포함됩니다. Teams가 추가되는 날짜는 사용 중인 업데이트 채널에 따라 다릅니다. 추가 정보는 [Office 365 ProPlus와 함께 Microsoft Teams 배포](https://docs.microsoft.com/ko-KR/deployoffice/teams-install)를 참조하세요.
+> - Office 365 ProPlus의 기존 설치에 대한 Microsoft Teams - 6월 말부터 Microsoft Teams가 Office 365 ProPlus(및 Office 365 Business)의 기존 설치에 업데이트 설치 시 포함됩니다. Teams가 추가되는 날짜는 사용 중인 업데이트 채널에 따라 다릅니다. 추가 정보는 [Office 365 ProPlus를 이용한 Microsoft Teams 배포](https://docs.microsoft.com/ko-KR/deployoffice/teams-install)를 참조하세요.
+
+## <a name="july-12-2019"></a>2019년 7월 12일
+버전 1907(빌드 11901.20038)
+
+## <a name="whats-new"></a>새로운 기능:
+
+### <a name="powerpoint"></a>PowerPoint
+ 
+#### <a name="use-ink-replay-in-your-presentations"></a>프레젠테이션에서 잉크 리플레이 사용하기
+ 
+PowerPoint에 잉크 리플레이 애니메이션을 적용하면 프레젠테이션을 더욱 잘 표현할 수 있고 보다 많은 정보를 전달할 수 있습니다. 
+
+## <a name="notable-fixes"></a>중요 수정 사항:
+
+### <a name="word"></a>Word 
+- 다양한 성능 및 안정성 수정 사항입니다.
+
+### <a name="excel"></a>Excel
+- 다양한 성능 및 안정성 수정 사항입니다.
+
+### <a name="powerpoint"></a>PowerPoint
+- 다양한 성능 및 안정성 수정 사항입니다.
+
+### <a name="outlook"></a>Outlook
+- 다양한 성능 및 안정성 수정 사항입니다.
+
+### <a name="access"></a>Access
+- 다양한 성능 및 안정성 수정 사항입니다.
+
+### <a name="project"></a>Project
+- 다양한 성능 및 안정성 수정 사항입니다.
+
+</BR></BR>
 
 ## <a name="july-5-2019"></a>2019년 7월 5일
 버전 1907 (빌드 11901.20018)
