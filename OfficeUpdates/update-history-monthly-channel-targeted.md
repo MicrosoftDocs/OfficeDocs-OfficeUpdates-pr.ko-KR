@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 월간 채널 업데이트 내역 제공 Windows 데스크톱의 대상 릴리스
-ms.openlocfilehash: f649456c3549647d8e80d44b1c5c1d8b13f818ce
-ms.sourcegitcommit: c75a988f6e9414866f0f0d73d0ea788c4ec33c4d
+ms.openlocfilehash: 000b1e225d0dc7400a04231ffe289c534ac1a451
+ms.sourcegitcommit: dbd7a9ad8194eaf6c1e560e6b1345adeddb9dcc8
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/11/2019
-ms.locfileid: "35630475"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35701511"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Windows용 월간(대상) 채널의 업데이트 내역
 
@@ -33,6 +33,9 @@ ms.locfileid: "35630475"
 > - Office 365 ProPlus의 기존 설치에 대한 Microsoft Teams - 6월 말부터 Microsoft Teams가 Office 365 ProPlus(및 Office 365 Business)의 기존 설치에 업데이트 설치 시 포함됩니다. Teams가 추가되는 날짜는 사용 중인 업데이트 채널에 따라 다릅니다. 추가 정보는 [Office 365 ProPlus와 함께 Microsoft Teams 배포](https://docs.microsoft.com/ko-KR/deployoffice/teams-install)를 참조하세요.
 
 [//]: # (제거하지 마세요)
+
+**2019년 7월 15일**<br/>
+버전 1907(빌드 11901.20080)<br/>
 
 **2019년 7월 9일**<br/>
 버전 1906(빌드 11727.20244)<br/>
