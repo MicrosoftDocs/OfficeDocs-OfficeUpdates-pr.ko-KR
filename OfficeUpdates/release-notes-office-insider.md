@@ -3,19 +3,19 @@ title: Office 참가자에 대한 릴리스 정보
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 7/12/2019
+ms.date: 7/19/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 29b2cf8edb700db4b887c603570a43bc62ca7356
-ms.sourcegitcommit: 433c9f63b2b868767c23672ccc1845d2d90327aa
+ms.openlocfilehash: ae18351dbb8d37786892e622bcb6c86624dcbb23
+ms.sourcegitcommit: bc0fc6203e00628704639923db8de54affbe2005
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/12/2019
-ms.locfileid: "35643040"
+ms.lasthandoff: 07/19/2019
+ms.locfileid: "35803165"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 참가자에 대한 릴리스 정보
 
@@ -26,7 +26,51 @@ ms.locfileid: "35643040"
 > - 릴리스 정보 게시 날짜는 실제 빌드 릴리스 날짜와 일치하지 않을 수 있습니다.
 
  > [!NOTE]
-> - Office 365 ProPlus의 기존 설치에 대한 Microsoft Teams - 6월 말부터 Microsoft Teams가 Office 365 ProPlus(및 Office 365 Business)의 기존 설치에 업데이트 설치 시 포함됩니다. Teams가 추가되는 날짜는 사용 중인 업데이트 채널에 따라 다릅니다. 추가 정보는 [Office 365 ProPlus를 이용한 Microsoft Teams 배포](https://docs.microsoft.com/ko-KR/deployoffice/teams-install)를 참조하세요.
+> - Office 365 ProPlus의 기존 설치에 대한 Microsoft Teams - 6월 말부터 Microsoft Teams가 Office 365 ProPlus(및 Office 365 Business)의 기존 설치에 업데이트 설치 시 포함됩니다. Teams가 추가되는 날짜는 사용 중인 업데이트 채널에 따라 다릅니다. 추가 정보는 [Office 365 ProPlus와 함께 Microsoft Teams 배포](https://docs.microsoft.com/ko-KR/deployoffice/teams-install)를 참조하세요.
+
+## <a name="july-19-2019"></a>2019년 7월 19일
+버전 1908 (빌드 11911.20000)
+
+## <a name="whats-new"></a>새로운 기능:
+
+### <a name="word"></a>Word
+
+#### <a name="learn-what-acronyms-mean-when-you-read-in-word-online"></a>Word Online에서 읽을 때 머리글자어를 의미하는 바를 알아보기
+
+머리글자어를 마주치면 조직 내에서 데이터를 사용하여 정의하려고 시도합니다.
+
+#### <a name="coauthoring-improvements"></a>공동 작성 개선
+
+실시간으로 다른 사용자가 콘텐츠 변경 내용을 받을 수 있도록 하여 더 높은 공동 작성 환경을 향상시켰습니다.
+
+## <a name="notable-fixes"></a>중요 수정 사항:
+
+### <a name="word"></a>Word 
+- BookMarkEnd 태그가 없는 문제를 해결했습니다.
+- 사용자가 특수 문자를 입력하는 동안 글꼴 선택 영역이 변경되는 문제를 해결했습니다.
+- 새 메모 카드에 빈 회신을 유발할 수도 있는 문제를 해결했습니다.
+- 전자 메일을 공유할 때 서식이 손실될 수 있는 문제를 해결했습니다.
+
+### <a name="excel"></a>Excel
+- 넓은 범위의 배열에서 종종 충돌이 발생하는 문제를 해결했습니다.
+- 필터링된 범위에서 데이터를 복사하는 성능이 크게 개선되었습니다.
+- 파일 이름에 특수 문자가 포함된 경우 일부 파일을 열지 못하도록 하는 문제가 해결되었습니다.
+
+### <a name="powerpoint"></a>PowerPoint
+- PowerPoint에서 새로 만든 섹션에 섹션 이름이 기본적으로 선택되지 않은 문제를 해결했습니다.
+- 4:3 디스플레이를 사용할 때 UI를 사용하기 어려워 질 수 있는 문제를 해결했습니다.
+
+### <a name="outlook"></a>Outlook
+- 사용할 수 있는 회의실이 나열되지 않도록 하는 문제를 해결했습니다.
+- 일부 POP3 사용자가 HTML 서식을 사용하지 못하게 하는 문제를 해결했습니다.
+
+### <a name="access"></a>Access
+- 다양한 성능 및 안정성 수정 사항입니다.
+
+### <a name="project"></a>Project
+- 다양한 성능 및 안정성 수정 사항입니다.
+
+</BR></BR>
 
 ## <a name="july-12-2019"></a>2019년 7월 12일
 버전 1907(빌드 11901.20038)
