@@ -3,19 +3,19 @@ title: MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 7/17/2019
+ms.date: 7/19/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT 전문가에게 MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록을 제공합니다.
-ms.openlocfilehash: e5905b289963cb91a61f2a29f3c97bd9df895610
-ms.sourcegitcommit: acb18b76345b4635d96c14bed1f0d9b0c219dc4f
+ms.openlocfilehash: ff8d4ef4bf8082a1c1d40dbf7c850f29c6689f20
+ms.sourcegitcommit: bdc3b17bf45b9ce2decbcfe752b1a1bf1efdbe9b
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2019
-ms.locfileid: "35759398"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35795544"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록
  
@@ -28,10 +28,12 @@ ms.locfileid: "35759398"
 > 
 > - 다운로드 링크는 Microsoft 자동 업데이트의 가장 최근 릴리스에 대해서만 제공됩니다.
 > - Microsoft 자동 업데이트는 Microsoft의 다양한 Mac 제품에 대한 업데이트를 제공합니다. 따라서 Mac용 Office를 실행하고 있지 않더라도 Microsoft 자동 업데이트를 업데이트하라는 알림을 받을 수 있습니다.
-  
+
+릴리스 정보를 확인하려면 [릴리스 노트](release-notes-office-for-mac.md)를 참조하세요.<br/><br/>
+
 ## <a name="july-2019-release"></a>2019년 7월 릴리스
 
-**릴리스 날짜:** 2019년 7월 16일
+**릴리스 날짜:** 2019년 7월 18일
 
 *Microsoft 자동 업데이트 4.13*
 
@@ -43,23 +45,23 @@ ms.locfileid: "35759398"
 
 **MAU 업데이트 링크:**
 
-[Microsoft 자동 업데이트 4.13 패키지 다운로드](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.13.19071500_Updater.pkg)<br/>
+[Microsoft 자동 업데이트 4.13 패키지 다운로드](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.13.19071800_Updater.pkg)<br/>
 <br/>
-**SHA-1/SHA-256 해시:**
+**SHA-256 해시:**
 
-2f86ed6bba92bb57ac1189ba561de8b5e36c90003c178d50d7c71960050ea667
+9FDCEAFA05AB070531ECEE50E1E977839C1E2DE2312569F816C59F35DE162B08
 <br/><br/>
 
 ## <a name="release-history"></a>릴리스 기록
 
 |**릴리스 날짜**|**버전**|**추가 정보**||
 |:-----|:-----|:-----|:-----|
-|2019년 7월 16일 <br/>|4.13 <br/> |  [릴리스 정보](release-notes-office-for-mac.md) <br/> ||
-|2019년 6월 11일 <br/>|4.12 <br/> |  <br/> ||
-|2019년 5월 14일 <br/>|4.11 <br/> | [릴리스 정보](release-notes-office-for-mac.md#May-2019-release) <br/> | <br/> |
-|2019년 4월 16일 <br/>|4.10 <br/> | [릴리스 정보](release-notes-office-for-mac.md#April-2019-release) <br/> |<br/> |
+|2019년 7월 18일 <br/>|4.13 <br/> |  <br/> ||
+|2019년 6월 11일 <br/>|4.12 <br/> | <br/> ||
+|2019년 5월 14일 <br/>|4.11 <br/> |  <br/> | <br/> |
+|2019년 4월 16일 <br/>|4.10 <br/> |  <br/> |<br/> |
 |2019년 3월 14일 <br/>|4.9.0 <br/> | [릴리스 정보](release-notes-office-for-mac.md#march-2019-release) <br/> | <br/> |
-|2019년 2월 26일 <br/>|4.8.0 <br/> | [릴리스 정보](release-notes-office-for-mac.md#january-2019-release) <br/> |<br/> |
+|2019년 2월 26일 <br/>|4.8.0 <br/> | [릴리스 정보](release-notes-office-for-mac.md#february-2019-release) <br/> |<br/> |
 |2019년 1월 16일 <br/>|4.7.0 <br/> | [릴리스 정보](release-notes-office-for-mac.md#january-2019-release) <br/> | |
 |2018년 12월 11일 <br/>|4.6.0 <br/> | [릴리스 정보](release-notes-office-for-mac.md#december-2018-release) <br/> ||
 |2018년 11월 14일 <br/> |4.5.0 <br/> |[릴리스 정보](release-notes-office-for-mac.md#november-2018-release) <br/> | |
