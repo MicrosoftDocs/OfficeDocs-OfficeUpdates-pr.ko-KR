@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 0aaff25b48109f843c6eccbaf650da4006e83f1d
-ms.sourcegitcommit: 3583f7d48360ffc79d0d26b1b2385fec0d99be14
+ms.openlocfilehash: 1677b097fd249eec67dee4600adcb212b26999b8
+ms.sourcegitcommit: b4644c48a3fb2106d9e4939e6b1b210b9be027e5
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35601517"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "35931168"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -27,6 +27,51 @@ ms.locfileid: "35601517"
 
  > [!NOTE]
 > - Office 365 ProPlus의 기존 설치에 대한 Microsoft 팀 - 7월 초부터 Microsoft Teams가 Office 365 ProPlus(및 Office 365 Business)의 기존 설치에 업데이트 설치 시 포함됩니다. Teams가 추가되는 날짜는 사용 중인 업데이트 채널에 따라 다릅니다. 추가 정보는 [Office 365 ProPlus와 함께 Microsoft Teams 배포](https://docs.microsoft.com/ko-KR/deployoffice/teams-install)를 참조하세요.
+
+## <a name="version-1907-july-29"></a>버전 1907: 7월 29일
+*버전 1907 (빌드 11901.20176)*
+* 다양한 버그 및 성능 수정 사항.
+
+### <a name="excel-feature-updates"></a>Excel: 기능 업데이트
+
+- **더 이상 브라우저에 바운싱하지 않음:** 브라우저나 앱에서 Office 문서에 대한 링크를 여는 방법을 결정합니다.
+
+- 파워 쿼리 기능 향상을 통한 신속한 코드:** 자동 완성 및 구문 색상을 사용하 여 신속하게 코드를 완성하세요. 함수, 열, 매개 변수를 쉽게 검색할 수 있습니다. 
+  [자세한 정보](https://support.office.com/ko-KR/article/66eef01e-0fd5-4d26-ab2b-e08378f74ac5)
+
+- **지도 차트 만들기:** 이 기능은 Excel의 지리 데이터 형식을 사용하여 등치 지역도 차트를 그리는 사용자에게 유용한 개선 사항입니다. 기능과 최종 사용자가 매핑하고자 하는 지역의 정확성의 통합성을 향상하는 이점을 최종 사용자에게 제공합니다. 추가적인 이점은 도시 폴리곤을 매핑할 수 있다는 점입니다. 
+  [자세한 정보](https://support.office.com/ko-KR/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+
+- **유사한 열의 테이블 조인:** 가져오기 및 변환 기능(파워 쿼리)은 테이블 병합을 위해 열을 비교하는 경우 근사 텍스트 매칭 논리(퍼지 매칭)를 특징으로 합니다. 
+  [자세한 정보](https://support.office.com/ko-KR/article/ffdd5082-c0c8-4c8e-a794-bd3962b90649)
+
+### <a name="outlook-feature-updates"></a>Outlook: 기능 업데이트
+
+- **사람을 검색할 때 전자 메일 제안 받기:** 검색 상자에 사람의 이름을 입력하면 가장 관련성이 높은 전자 메일 메시지가 검색 제안에 포함됩니다. 
+  [자세한 정보](https://support.office.com/ko-KR/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint: 기능 업데이트
+
+- **더 이상 브라우저에 바운싱하지 않음:** 브라우저나 앱에서 Office 문서에 대한 링크를 여는 방법을 결정합니다.
+
+- **온라인 비디오의 새로운 홈:** 조직의 모든 사람이 볼 수 있도록 비디오를 Microsoft Stream에 저장하세요. 비디오 링크를 삽입하고 파일 크기의 일부로 멀티미디어 프레젠테이션을 즐겨보세요. 
+  [자세한 정보](https://support.office.com/ko-KR/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
+
+- **지도 차트 만들기:** 이 기능은 Excel의 지리 데이터 형식을 사용하여 등치 지역도 차트를 그리는 사용자에게 유용한 개선 사항입니다. 기능과 최종 사용자가 매핑하고자 하는 지역의 정확성의 통합성을 향상하는 이점을 최종 사용자에게 제공합니다. 추가적인 이점은 도시 폴리곤을 매핑할 수 있다는 점입니다. 
+  [자세한 정보](https://support.office.com/ko-KR/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+
+### <a name="word-feature-updates"></a>Word: 기능 업데이트
+
+- **더 이상 혼란을 겪지 마세요:** Mac에서 자주 사용되는 기능이 Windows에 도입되었습니다! 보기 메뉴에서 포커스로 전환하면 주의를 산만하게 하는 요인들을 제거하고 작업에 집중할 수 있습니다. 
+  [자세한 정보](https://support.office.com/ko-KR/article/51af2fb2-194f-424b-ab7e-b65de9ec9292)
+
+- **더 이상 브라우저에 바운싱하지 않음:** 브라우저나 앱에서 Office 문서에 대한 링크를 여는 방법을 결정합니다.
+
+- **지도 차트 만들기:** 이 기능은 Excel의 지리 데이터 형식을 사용하여 등치 지역도 차트를 그리는 사용자에게 유용한 개선 사항입니다. 기능과 최종 사용자가 매핑하고자 하는 지역의 정확성의 통합성을 향상하는 이점을 최종 사용자에게 제공합니다. 추가적인 이점은 도시 폴리곤을 매핑할 수 있다는 점입니다. 
+  [자세한 정보](https://support.office.com/ko-KR/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+
+- **정확하게 지우기:** 두 개의 지우개 크기 중에 선택하고 작은 잉킹 결함을 수정하세요. 
+  [자세한 정보](https://support.office.com/ko-KR/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
 ## <a name="version-1906-july-09"></a>버전 1906: 7월 9일
 *버전 1906 (빌드 11727.20244)*
