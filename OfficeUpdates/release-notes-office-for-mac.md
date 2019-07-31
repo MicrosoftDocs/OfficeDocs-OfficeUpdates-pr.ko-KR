@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Office 356 구독자를 위한 Mac용 Office 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 86905ca4df7f2fd35c69ea4ec996c4275cbe5b9c
-ms.sourcegitcommit: acb18b76345b4635d96c14bed1f0d9b0c219dc4f
+ms.openlocfilehash: 04bd800cf823e9c3ad9400da0a004cca7bb19dad
+ms.sourcegitcommit: e3ff8b5b96149cb4bf5e011a11bddb57a9d760f9
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2019
-ms.locfileid: "35759458"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "35937626"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac용 Office에 대한 릴리스 정보
 
@@ -65,7 +65,7 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
 ### <a name="outlook-feature-updates"></a>Outlook: 기능 업데이트
 
 - **클라우드 파일에서 첨부 파일 공유:** 클라우드 파일을 메일 메시지에 손쉽게 첨부하여 공동 작업을 개선할 수 있습니다.<br/>
-
+- **읽기 창에서의 어두운 모드 지원:** 사용자가 수신하는 전자메일은 이제 어두운 환경에서 더 쉽게 볼 수 있도록 어두운 배경을 가지고 있습니다. macOS Mojave가 필요합니다. 
 ### <a name="outlook-security-updates"></a>Outlook: 보안 업데이트
 
 - [CVE-2019-1084](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1084): Microsoft Excel 정보 노출 취약성<br/><br/>
