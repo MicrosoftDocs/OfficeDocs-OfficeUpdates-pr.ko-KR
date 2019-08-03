@@ -3,19 +3,19 @@ title: Office 참가자에 대한 릴리스 정보
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 7/26/2019
+ms.date: 8/2/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: cc2966f80bdedb937de10ba909a4e60ba6169617
-ms.sourcegitcommit: da76d85450dc1743e839d4874d2e90af1b729391
+ms.openlocfilehash: 929d3747d64abb491787dec5cc32604230581614
+ms.sourcegitcommit: 58a9a2eb76f7cceda8f1a4ddd062512495f2f899
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/26/2019
-ms.locfileid: "35916971"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "36168333"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 참가자에 대한 릴리스 정보
 
@@ -27,6 +27,97 @@ ms.locfileid: "35916971"
 
  > [!NOTE]
 > - Office 365 ProPlus의 기존 설치에 대한 Microsoft Teams - 6월 말부터 Microsoft Teams가 Office 365 ProPlus(및 Office 365 Business)의 기존 설치에 업데이트 설치 시 포함됩니다. Teams가 추가되는 날짜는 사용 중인 업데이트 채널에 따라 다릅니다. 추가 정보는 [Office 365 ProPlus와 함께 Microsoft Teams 배포](https://docs.microsoft.com/ko-KR/deployoffice/teams-install)를 참조하세요.
+
+[//]: # (제거하지 마세요)
+
+
+## <a name="august-02-2019br"></a>**2019년 8월 2일**<br/>
+버전 1908 (빌드 11929.20002)<br/>
+
+### <a name="excel-feature-updates"></a>Excel 기능 업데이트:
+
+- **파일을 변환하여 접근성 향상:** 모든 사용자가 보다 쉽게 액세스할 수 있도록 파일을 최신 형식으로 업그레이드합니다.
+
+
+- **문서에 민감도 레이블 적용:** 조직의 정보 보호 정책을 항상 준수하기 위해 파일과 전자 메일에 민감도 레이블을 적용합니다.
+
+
+### <a name="outlook-feature-updates"></a>Outlook 기능 업데이트:
+
+- **문서에 민감도 레이블 적용:** 조직의 정보 보호 정책을 항상 준수하기 위해 파일과 전자 메일에 민감도 레이블을 적용합니다.
+
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint 기능 업데이트:
+
+- **파일을 변환하여 접근성 향상:** 모든 사용자가 보다 쉽게 액세스할 수 있도록 파일을 최신 형식으로 업그레이드합니다.
+
+
+- **문서에 민감도 레이블 적용:** 조직의 정보 보호 정책을 항상 준수하기 위해 파일과 전자 메일에 민감도 레이블을 적용합니다.
+
+
+### <a name="word-feature-updates"></a>Word 기능 업데이트:
+
+- **파일을 변환하여 접근성 향상:** 모든 사용자가 보다 쉽게 액세스할 수 있도록 파일을 최신 형식으로 업그레이드합니다.
+
+
+- **텍스트 복원을 위한 다시 쓰기:** 다른 방식으로 말하겠나요? 다시 쓰기를 사용하여 메시지를 작성하는 방법에 대한 다양한 제안 방식을 확인합니다.
+
+
+- **문서에 민감도 레이블 적용:** 조직의 정보 보호 정책을 항상 준수하기 위해 파일과 전자 메일에 민감도 레이블을 적용합니다.
+
+
+
+
+## <a name="non-security-updates"></a>비보안 업데이트:
+
+### <a name="access"></a>Access
+- 다양한 성능 및 안정성 수정 사항입니다.
+
+### <a name="excel"></a>Excel
+
+- <div><span>PDF로 인쇄할 때 &quot;모든 레이블이 반복&quot; 적용된 것으로 표시되는 문제가 해결되었습니다.</span></div>
+
+### <a name="office-suite"></a>Office 제품군
+
+- <div><span>사용자가 데스크톱에서 문서를 열지 못하도록 하는 문제가 해결되었습니다.</span></div>
+
+- <div><span>&quot;진행 중인 다른 설치&quot;의 잘못된 오류 메시지로 인해 업그레이드가 방지 될 수 있는 문제가 해결되었습니다.</span></div>
+
+- <div><span>보안 업데이트를 설치하면 사용자에게 오류 메시지가 표시되는 문제가 해결되었습니다.</span></div>
+
+- <div><span>커서가 사라질 수 있는 문제가 해결되었습니다.</span></div>
+
+- <div><span>홈 탭이 아니라 그리기 탭으로 사용자가 기본값을 가질 수 있는 문제가 해결되었습니다.</span></div>
+
+- <div><span>대규모 트리 보기에서 충돌이 발생할 수 있는 문제를 해결했습니다.</span></div>
+
+### <a name="outlook"></a>Outlook
+
+- <div></div><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;">반복되는 암호 프롬프트를 야기할 수 있는 문제를 해결했습니다.</span>
+
+- <div><span>전자 메일 주소를 올바르게 쿼리하지 못하는 문제를 해결했습니다.</span></div>
+
+- <div><span>사용자가 레거시 버전의 Outlook에서 만든 일정 항목을 열지 못하도록 하는 문제가 해결되었습니다.</span></div>
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>일부 애니메이션이 시작되지 않도록 할 수 있는 문제를 해결했습니다.</span></div>
+
+### <a name="project"></a>Project
+- 다양한 성능 및 안정성 수정 사항입니다.
+
+### <a name="word"></a>Word
+
+- <div><span>댓글에 대한 회신이 순서에 맞지 않게 표시될 수 있는 문제를 해결했습니다.</span></div>
+
+- <div><span>일부 경우에 메모가 아니라 힌트가 표시되는 문제를 해결했습니다.</span></div>
+
+- <div><span>사용자가 새 메모를 추가하려고 할 때 수정 창이 표시될 수 있는 문제를 해결했습니다.</span></div>
+
+- <div><span>실행 취소 드롭 다운 목록이 표시되지 않을 수 있는 문제를 해결했습니다.</span></div>
+
+- <div><span>메모가 추가되지 않을 수 있는 문제가 수정되었습니다.</span></div>
+
 
 ## <a name="july-26-2019"></a>2019년 7월 26일
 버전 1908 (빌드 11916.20000)

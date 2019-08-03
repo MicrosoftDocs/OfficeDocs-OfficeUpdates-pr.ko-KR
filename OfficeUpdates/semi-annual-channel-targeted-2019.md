@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 반기 채널(대상 지정) 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 715250022d6bf9172f4e1c47d1437099a63b1ff1
-ms.sourcegitcommit: eea73f35ff3045e556ae603f9c6e18fa4fed6158
+ms.openlocfilehash: c310abe1ae582684e7e59ffbd3b15939fbcc2039
+ms.sourcegitcommit: 03e9e308f4791aeebda4ad284591e8ddb973f56c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/10/2019
-ms.locfileid: "35607362"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36054810"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019년 반기 채널(대상 지정) 릴리스에 대한 릴리스 정보
 
@@ -189,6 +189,7 @@ ms.locfileid: "35607362"
 - **그림 뒤에 있는 내용 표시:** 워크시트에 그림을 넣고, 사전 설정을 선택하고, 투명도 변경을 확인합니다. 바로 이 기능으로요! [자세히 알아보기](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
 - **모든 가져오기 및 변환 팬 호출:** 가져오기 및 변환 작업을 많이 사용하는 편이라면 개선된 예제의 열 기능으로 유용하게 작업할 수 있습니다. 또한 많은 커넥터도 개선되었습니다. [자세한 정보](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
 - **고화질 디스플레이 지원 개선:** 여러 개의 모니터 또는 노트북 도크를 사용하는 경우 각 디스플레이의 배율 설정이 달라도 모든 디스플레이에서 Office 앱이 깔끔하게 표시됩니다. [자세한 정보](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
+- **빠른 조회** 더 빠른 답변을 얻을 수 있도록 VLOOKUP, HLOOKUP 및 MATCH 계산을 가속화했습니다. [자세한 정보](https://support.office.com/article/60f18521-2589-4734-89dd-ba4ee1f6c000)
 
 ### <a name="outlook-feature-updates"></a>Outlook: 기능 업데이트
 
