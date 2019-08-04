@@ -3,19 +3,19 @@ title: MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 7/19/2019
+ms.date: 7/31/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT 전문가에게 MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록을 제공합니다.
-ms.openlocfilehash: ff8d4ef4bf8082a1c1d40dbf7c850f29c6689f20
-ms.sourcegitcommit: bdc3b17bf45b9ce2decbcfe752b1a1bf1efdbe9b
+ms.openlocfilehash: 4dc2287a284ab4dd41113c87f16ed1f0cada682a
+ms.sourcegitcommit: 17facf664b8e512d51a2059fdfeea2693b4294cb
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35795544"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "35936349"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록
  
@@ -40,7 +40,7 @@ ms.locfileid: "35795544"
  **기능 업데이트:**
 
 - MAU에 대한 개인 정보 변경 내용: 필수 데이터 수집 알림이 규정 준수의 일부로 최종 사용자에게 표시됩니다.
-- MAU 업데이트 마감일: 이제 Mac 관리자가 MAU에 마감일을 설정하여 Mac 사용자에게 업데이트를 적용할 수 있습니다.
+- MAU 업데이트 마감일: 이제 Mac 관리자가 MAU에 마감일을 설정하여 Mac 사용자에게 업데이트를 적용할 수 있습니다. [자세한 정보](https://docs.microsoft.com/deployoffice/mac/mau-deadline)
 - 다양한 버그 및 성능 수정 사항.
 
 **MAU 업데이트 링크:**
@@ -51,13 +51,92 @@ ms.locfileid: "35795544"
 
 9FDCEAFA05AB070531ECEE50E1E977839C1E2DE2312569F816C59F35DE162B08
 <br/><br/>
+## <a name="june-2019-release"></a>2019년 6월 릴리스
+
+**릴리스 날짜:** 2019년 6월 27일
+
+*Microsoft 자동 업데이트 4.12*
+
+ **기능 업데이트:**
+
+- Apple OS 베타가 전체 업데이터에 대한 MAU 업데이트 실패를 일으키는 문제를 해결했습니다. 
+
+**MAU 업데이트 링크:**
+
+[Microsoft 자동 업데이트 4.12 패키지 다운로드](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.12.19062700_Updater.pkg)<br/>
+<br/>
+**SHA-256 해시:**
+
+85ce26ece89a256711f082e61b313c1ed6a22bfc402d4789a78a08022a96f6fa
+<br/><br/>
+
+**릴리스 날짜:** 2019년 6월 9일
+
+*Microsoft 자동 업데이트 4.12*
+
+ **기능 업데이트:**
+
+- 바이너리 델타 업데이트 : SSD 장치의 경우 작은 업데이트를 롤아웃하여 업데이트로 인한 대역폭 소비를 줄입니다.
+- 액세서리 앱 지원: 이제 MAU에서 Microsoft OneDrive와 같은 액세서리 앱을 지원합니다.
+- 복제본 향상 기능 설치 : 복제본 업데이트가 이제 보다 강력해지고 실패하지 않습니다.
+
+**MAU 업데이트 링크:**
+
+[Microsoft 자동 업데이트 4.12 패키지 다운로드](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.12.19060901_Updater.pkg)<br/>
+<br/>
+**SHA-256 해시:**
+
+ABCC7D58DA7DB1B8B24B9B1BE6B1DB93BDC97AE487EFB615EC5695B9E1CC0FC9
+<br/><br/>
+
+
+## <a name="may-2019-release"></a>2019년 5월 릴리스
+
+**릴리스 날짜:** 2019년 5월 14일
+
+*Microsoft 자동 업데이트 4.11*
+
+ **기능 업데이트:**
+
+- MAU에 대한 개인 정보 변경 내용: 필수 데이터 수집 알림이 규정 준수의 일부로 최종 사용자에게 표시됩니다.
+- MAU 업데이트 마감일: 이제 Mac 관리자가 MAU에 마감일을 설정하여 Mac 사용자에게 업데이트를 적용할 수 있습니다. [자세한 정보](https://docs.microsoft.com/deployoffice/mac/mau-deadline)
+- 다양한 버그 및 성능 수정 사항.
+
+**MAU 업데이트 링크:**
+
+[Microsoft 자동 업데이트 4.11 패키지 다운로드](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.11.19051201_Updater.pkg)<br/>
+<br/>
+**SHA-256 해시:**
+
+EE3403B79E536191E545E70708A99D3A33B384372F65C028490AFFB551CD1EE2
+<br/><br/>
+
+## <a name="april-2019-release"></a>2019년 4월 릴리스
+
+**릴리스 날짜:** 2019년 4월 16일
+
+*Microsoft 자동 업데이트 4.10*
+
+ **기능 업데이트:**
+
+- 설치시 복제 기능향상: SSD 장치의 경우, 사용 중인 앱의 복제에 관한 업데이트 공개하므로 업데이트로 인한 앱 가동 중지 시간이 줄어듭니다.
+- 설치 최적화: 업데이트 프로세스에서 병렬화된 복제를 사용하므로, 업데이트로 인한 앱 가동 중지 시간이 줄어듭니다.
+
+**MAU 업데이트 링크:**
+
+[Microsoft 자동 업데이트 4.10 패키지 다운로드](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.10.19041401_Updater.pkg)<br/>
+<br/>
+**SHA-256 해시:**
+
+FF676870D5B3521202095810B85DEF36538B59E00AEA44A2ED0D7EA8B3B99D6C
+<br/><br/>
 
 ## <a name="release-history"></a>릴리스 기록
 
 |**릴리스 날짜**|**버전**|**추가 정보**||
 |:-----|:-----|:-----|:-----|
 |2019년 7월 18일 <br/>|4.13 <br/> |  <br/> ||
-|2019년 6월 11일 <br/>|4.12 <br/> | <br/> ||
+|2019년 6월 27일 <br/>2019년 6월 9일|4.12 <br/> | <br/> ||
 |2019년 5월 14일 <br/>|4.11 <br/> |  <br/> | <br/> |
 |2019년 4월 16일 <br/>|4.10 <br/> |  <br/> |<br/> |
 |2019년 3월 14일 <br/>|4.9.0 <br/> | [릴리스 정보](release-notes-office-for-mac.md#march-2019-release) <br/> | <br/> |
