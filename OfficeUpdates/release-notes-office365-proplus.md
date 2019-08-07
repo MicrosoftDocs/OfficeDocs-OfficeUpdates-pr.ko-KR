@@ -3,31 +3,39 @@ title: Office 365 ProPlus 업데이트에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 1/8/2018
+ms.date: 7/23/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus의 최신 릴리스, 업데이트 채널 및 릴리스 정보와 업데이트 기록에 대한 링크 목록을 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 28fcd7169df09e40384b695083120f33856cfc4a
-ms.sourcegitcommit: 288bea365b4c0265fb9ff182b19ff4eb30b4c7d7
+ms.openlocfilehash: b100110d36b730901339c3db1d78edae64099612
+ms.sourcegitcommit: c8c625824fd574e9365f60afee5c816b5845a8db
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "34948784"
+ms.lasthandoff: 07/23/2019
+ms.locfileid: "35823957"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Office 365 ProPlus 업데이트에 대한 릴리스 정보
 
-> [!NOTE]
-> - 각 업데이트 채널에 대해 지원되는 버전을 나열한 표가 [Office 365 ProPlus의 업데이트 내역 (날짜순)](update-history-office365-proplus-by-date.md)으로 이동되었습니다.
+
+## <a name="security-updates-for-office-365-proplus-releases"></a>Office 365 ProPlus 릴리스의 보안 업데이트
+
+전체 보안 업데이트 목록은 다음 문서를 참조하세요.
+ - [Office 365 ProPlus의 보안 업데이트](office365-proplus-security-updates.md)
 
 
+## <a name="update-history-for-office-365-proplus-releases"></a>Office 365 ProPlus 릴리스의 업데이트 기록
 
-## <a name="update-history-for-office-365-proplus-releases"></a>Office 365 ProPlus 릴리스에 대한 업데이트 기록
+각 채널의 릴리스 및 지원되는 버전의 전체 목록은 다음 문서를 참조하세요.
+ - [Office 365 ProPlus의 업데이트 기록(날짜순)](update-history-office365-proplus-by-date.md)
 
-전체 릴리스 목록을 보려면 다음 문서를 참조하세요.
- - [Office 365 ProPlus에 대한 업데이트 기록(날짜순)](update-history-office365-proplus-by-date.md)
+
+ ## <a name="update-sizes-for-office-365-proplus-releases"></a>Office 365 ProPlus 릴리스의 업데이트 크기
+
+업데이트 릴리스 크기의 전체 목록을 보려면 다음 문서를 참조하세요.
+ - [Office 365 ProPlus 업데이트의 다운로드 크기](download-sizes-office365-proplus-updates.md)
 
 ## <a name="release-notes-for-office-365-proplus-releases"></a>Office 365 ProPlus의 릴리스 정보
 
@@ -41,6 +49,7 @@ ms.locfileid: "34948784"
 Office 365 ProPlus를 포함하는 모든 Office 365 구독 계획에 포함된 Mac용 Office의 업데이트에 대한 내용은 다음 문서를 참조하세요.
  - [Mac용 Office에 대한 업데이트 기록](update-history-office-for-mac.md)
  - [Mac용 Office에 대한 릴리스 정보](release-notes-office-for-mac.md)
+ - [MAU 릴리스 기록](release-history-microsoft-autoupdate.md)
 
 
 ## <a name="related-topics"></a>관련 항목
