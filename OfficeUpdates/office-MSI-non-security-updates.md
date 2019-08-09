@@ -3,19 +3,19 @@ title: Windows Installer(MSI)를 사용하는 Office 버전에 대한 최신 비
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 07/03/2019
+ms.date: 08/07/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Office 2016, Office 2013 및 Office 2010 영구 버전의 최신 비보안 업데이트 정보에 대한 링크를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 7dd49883aa369c02b2a41972a48a8f256403b497
-ms.sourcegitcommit: 74ea0d0bc86d111be5cbe93a8f02aa69dbb40c90
+ms.openlocfilehash: 4109b10a199d09b2bcf4515d9f63f1107de71846
+ms.sourcegitcommit: 092ddd24dee36b99293d3d9231bef014cc21fbc1
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "35430181"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36231593"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Windows Installer(MSI)를 사용하는 Office 버전에 대한 최신 비보안 업데이트
 
@@ -26,6 +26,30 @@ ms.locfileid: "35430181"
 > - 이 문서의 정보는 Office 365 ProPlus와 같은 Office 365 버전의 Office에는 적용되지 않습니다.
 > - Office 업데이트 설치에 대한 자세한 내용은 [Office 업데이트 설치](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)를 참조하세요.
 <br/><br/>
+
+## <a name="august-6-2019"></a>2019년 8월 6일
+
+**Office 2016**<br/>
+Microsoft Excel 2016에 대한 업데이트 ([KB4475550](https://support.microsoft.com/help/4475550))<br/>
+Microsoft Office 2016에 대한 업데이트 ([KB4475516](https://support.microsoft.com/help/4475516))<br/>
+Microsoft Office 2016에 대한 업데이트 ([KB3114528](https://support.microsoft.com/help/3114528))<br/>
+Microsoft Office 2016에 대한 업데이트 ([KB4475542](https://support.microsoft.com/help/4475542))<br/>
+Microsoft Office 2016에 대한 업데이트 ([KB3141456](https://support.microsoft.com/help/3141456))<br/>
+Microsoft Office 2016에 대한 업데이트 ([KB4464588](https://support.microsoft.com/help/4464588))<br/>
+Microsoft Office 2016에 대한 업데이트 ([KB4032254](https://support.microsoft.com/help/4032254))<br/>
+Microsoft Office 2016에 대한 업데이트 ([KB4475551](https://support.microsoft.com/help/4475551))<br/>
+Microsoft Office 2016에 대한 업데이트 ([KB4464535](https://support.microsoft.com/help/4464535))<br/>
+Microsoft Office 2016 언어 인터페이스 팩에 대한 업데이트 ([KB4475541](https://support.microsoft.com/help/4475541))<br/>
+Microsoft OneNote 2016에 대한 업데이트 ([KB4092450](https://support.microsoft.com/help/4092450))<br/>
+Microsoft PowerPoint 2016에 대한 업데이트 ([KB4464577](https://support.microsoft.com/help/4464577))<br/>
+Microsoft Project 2016에 대한 업데이트 ([KB4475544](https://support.microsoft.com/help/4475544))<br/>
+비즈니스용 Skype 2016에 대한 업데이트 ([KB4475548](https://support.microsoft.com/help/4475548))<br/>
+
+**Office 2013**<br/>
+Microsoft Office 2013에 대한 업데이트 ([KB4475556](https://support.microsoft.com/help/4475556))<br/>
+비즈니스용 Skype 2015에 대한 업데이트 ([KB4475564](https://support.microsoft.com/help/4475564))<br/><br/>
+
+
 
 ## <a name="july-2-2019"></a>2019년 7월 2일
 

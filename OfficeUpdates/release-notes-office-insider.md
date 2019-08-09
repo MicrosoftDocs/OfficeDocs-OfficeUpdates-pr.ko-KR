@@ -10,12 +10,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 929d3747d64abb491787dec5cc32604230581614
-ms.sourcegitcommit: 58a9a2eb76f7cceda8f1a4ddd062512495f2f899
+ms.openlocfilehash: 21bfa08b20bc7f809913cfb4ddf30da31ca58054
+ms.sourcegitcommit: 092ddd24dee36b99293d3d9231bef014cc21fbc1
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/02/2019
-ms.locfileid: "36168333"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36231603"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 참가자에 대한 릴리스 정보
 
@@ -60,7 +60,7 @@ ms.locfileid: "36168333"
 - **파일을 변환하여 접근성 향상:** 모든 사용자가 보다 쉽게 액세스할 수 있도록 파일을 최신 형식으로 업그레이드합니다.
 
 
-- **텍스트 복원을 위한 다시 쓰기:** 다른 방식으로 말하겠나요? 다시 쓰기를 사용하여 메시지를 작성하는 방법에 대한 다양한 제안 방식을 확인합니다.
+- **다른 방식으로 말하기:** 다르게 표현하는 경우 재작성은 도움을 줍니다. 재작성은 표현을 기교있게 만들어주는 대안을 제공합니다.
 
 
 - **문서에 민감도 레이블 적용:** 조직의 정보 보호 정책을 항상 준수하기 위해 파일과 전자 메일에 민감도 레이블을 적용합니다.
