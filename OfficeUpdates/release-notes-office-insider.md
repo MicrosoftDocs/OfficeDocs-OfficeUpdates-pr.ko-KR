@@ -10,12 +10,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 21bfa08b20bc7f809913cfb4ddf30da31ca58054
-ms.sourcegitcommit: 092ddd24dee36b99293d3d9231bef014cc21fbc1
+ms.openlocfilehash: c97fb384e093e8bbbc3e4e43b70de3b2cba773ee
+ms.sourcegitcommit: 03ffa84860ba8b6274641eedef588619ea389316
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36231603"
+ms.lasthandoff: 08/10/2019
+ms.locfileid: "36285985"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 참가자에 대한 릴리스 정보
 
@@ -29,6 +29,60 @@ ms.locfileid: "36231603"
 > - Office 365 ProPlus의 기존 설치에 대한 Microsoft Teams - 6월 말부터 Microsoft Teams가 Office 365 ProPlus(및 Office 365 Business)의 기존 설치에 업데이트 설치 시 포함됩니다. Teams가 추가되는 날짜는 사용 중인 업데이트 채널에 따라 다릅니다. 추가 정보는 [Office 365 ProPlus와 함께 Microsoft Teams 배포](https://docs.microsoft.com/ko-KR/deployoffice/teams-install)를 참조하세요.
 
 [//]: # (제거하지 마세요)
+
+
+## <a name="august-09-2019br"></a>**2019년 8월 9일**<br/>
+버전 1909 (빌드 12001.20000)<br/>
+
+### <a name="excel-feature-updates"></a>Excel 기능 업데이트:
+
+- **공동 작업이 쉬워졌습니다.** 공동 작성 기능이 향상되면 조건부 서식, 셀 스타일 등을 사용하여 작업할 때 변경 내용이 공동 작업자와 원활하게 통합됩니다.
+
+
+- **검색하여 즐겁게 사용해 보세요.** 원하는 아이콘을 쉽게 찾을 수 있도록 검색하여 아이콘 삽입을 추가했습니다. 그리고 선택할 때, 삽입 단추를 클릭하여 선택한 수를 알 수 있습니다.
+
+
+### <a name="office-suite-feature-updates"></a>Office 제품군 기능 업데이트:
+
+- **새 Office 앱 아이콘:** Office의 간단하고 강력하며 지능적인 경험을 반영하여 다시 디자인된 응용 프로그램 아이콘.
+
+
+### <a name="outlook-feature-updates"></a>Outlook 기능 업데이트:
+
+- **공격에 대비한 고급 보호:** Office 365 Advanced Threat Protection을 사용하면 전자 메일 제목, 첨부된 메시지, 서명된 메시지, 네트워크 경로 등의 하이퍼 링크를 통해 공격으로부터 보호할 수 있습니다.
+
+
+- **검색하여 즐겁게 사용해 보세요.** 원하는 아이콘을 쉽게 찾을 수 있도록 검색하여 아이콘 삽입을 추가했습니다. 그리고 선택할 때, 삽입 단추를 클릭하여 선택한 수를 알 수 있습니다.
+
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint 기능 업데이트:
+
+- **검색하여 즐겁게 사용해 보세요.** 원하는 아이콘을 쉽게 찾을 수 있도록 검색하여 아이콘 삽입을 추가했습니다. 그리고 선택할 때, 삽입 단추를 클릭하여 선택한 수를 알 수 있습니다.
+
+
+### <a name="word-feature-updates"></a>Word 기능 업데이트:
+
+- **다른 사용자가 변경 내용을 신속하게 확인할 수 있습니다.** 공동 작성 기능 향상을 통해 공동 작업자는 이전보다 훨씬 빠르게 변경 내용을 볼 수 있습니다.
+
+
+- **검색하여 즐겁게 사용해 보세요.** 원하는 아이콘을 쉽게 찾을 수 있도록 검색하여 아이콘 삽입을 추가했습니다. 그리고 선택할 때, 삽입 단추를 클릭하여 선택한 수를 알 수 있습니다.
+
+
+
+
+## <a name="non-security-updates"></a>비보안 업데이트:
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>모임이 취소된 후 모임 받는 사람이 두 가지 알림을 받던 문제를 해결했습니다.</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>사용자가 도형 및 아이콘에 윤곽선 없음 또는 채우기 없음을 선택할 때 충돌이 발생할 수 있는 문제를 해결했습니다.</span></div>
+
+
+
 
 
 ## <a name="august-02-2019br"></a>**2019년 8월 2일**<br/>
@@ -168,9 +222,6 @@ PDF를 만들면 액세스 가능성 검사기가 저장하기 전에 수정해�
 
 머리글자어를 마주치면 조직 내에서 데이터를 사용하여 정의하려고 시도합니다.
 
-#### <a name="coauthoring-improvements"></a>공동 작성 개선
-
-실시간으로 다른 사용자가 콘텐츠 변경 내용을 받을 수 있도록 하여 더 높은 공동 작성 환경을 향상시켰습니다.
 
 ## <a name="notable-fixes"></a>중요 수정 사항:
 
@@ -293,6 +344,12 @@ PowerPoint에 잉크 리플레이 애니메이션을 적용하면 프레젠테�
 
 ## <a name="whats-new"></a>새로운 기능:
 
+### <a name="excel"></a>Excel
+
+- **파워 쿼리 기능 향상을 통한 신속한 코드:** 자동 완성 및 구문 색상을 사용하 여 신속하게 코드를 완성하세요. 함수, 열, 매개 변수를 쉽게 검색할 수 있습니다.
+
+- **유사한 열의 테이블 조인:** 가져오기 및 변환 기능(파워 쿼리)은 테이블 병합을 위해 열을 비교하는 경우 근사 텍스트 매칭 논리(퍼지 매칭)를 특징으로 합니다.
+ 
 ### <a name="word-excel-powerpoint-and-visio"></a>Word, Excel, PowerPoint 및 Visio
 
 #### <a name="recommended-documents"></a>권장 문서
@@ -771,6 +828,18 @@ OneDrive 동기화 클라이언트 사용 및 Outlook 데스크톱의 파일 첨
 ## <a name="april-26-2019"></a>2019년 4월 26일
 버전 1905(빌드 11617.20002)
 
+## <a name="new-features"></a>새로운 기능
+
+### <a name="excel"></a>Excel
+
+#### <a name="coauthoring-improvements"></a>공동 작성 개선
+
+실시간으로 다른 사용자가 콘텐츠 변경 내용을 받을 수 있도록 하여 더 높은 공동 작성 환경을 향상시켰습니다.
+
+### <a name="visio"></a>Visio
+
+- **Power BI에서 Visio 시각적 개체 내보내기** Power BI 보고서를 PDF, PowerPoint 파일 등으로 내보낼 때 Power BI용 Visio 시각적 개체가 올바르게 표시됩니다.
+
 ## <a name="notable-fixes"></a>중요 수정 사항:
 
 ### <a name="word"></a>Word 
@@ -969,6 +1038,12 @@ Word 학습 도구는 페이지 테마 색을 추가로 지원하므로 페이�
 
 ## <a name="march-22-2019"></a>2019년 3월 22일
 버전 1904(빌드 11514.20004)
+
+## <a name="new-features"></a>새로운 기능
+
+- **개인 정보 제어:** 진단 데이터 및 연결된 환경에 대한 업데이트 및 향상된 신규 컨트롤 작업 자세한 정보<https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json>
+
+- **Office 아이콘이 새롭게 단장했습니다.** 간단하고 강력하며 지능적인 Office 환경을 반영하여 Office 아이콘이 다시 디자인되었습니다.
 
 ## <a name="notable-fixes"></a>중요 수정 사항:
 
