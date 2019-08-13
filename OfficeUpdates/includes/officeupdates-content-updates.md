@@ -3,15 +3,6 @@
 
 
 
-## <a name="week-of-july-01-2019"></a>01 년 7 월 1 일 주 2019
-
-
-| 게시된 날짜 |항목 제목 | 변경 사항 |
-|------|------------|--------|
-| 7/2/2019 | [Windows Installer(MSI)를 사용하는 Office 버전에 대한 최신 비보안 업데이트](/OfficeUpdates/office-msi-non-security-updates) | 수정한 날짜 |
-| 7/5/2019 | [Office 참가자에 대한 릴리스 정보](/OfficeUpdates/release-notes-office-insider) | 수정한 날짜 |
-
-
 ## <a name="week-of-july-08-2019"></a>7 월 8 일 주 2019
 
 
@@ -90,3 +81,17 @@
 | 8/1/2019 | [2019년 반기 채널 릴리스에 대한 릴리스 정보](/OfficeUpdates/semi-annual-channel-2019) | 수정한 날짜 |
 | 8/1/2019 | [2019년 반기 채널(대상 지정) 릴리스에 대한 릴리스 정보](/OfficeUpdates/semi-annual-channel-targeted-2019) | 수정한 날짜 |
 | 8/2/2019 | [Office 참가자에 대한 릴리스 정보](/OfficeUpdates/release-notes-office-insider) | 수정한 날짜 |
+
+
+## <a name="week-of-august-05-2019"></a>8 월 05 일 주 2019
+
+
+| 게시된 날짜 |항목 제목 | 변경 사항 |
+|------|------------|--------|
+| 8/5/2019 | [2019년 월별 채널 릴리스에 대한 릴리스 정보](/OfficeUpdates/monthly-channel-2019) | 수정한 날짜 |
+| 8/6/2019 | [Office 참가자 채널에 대 한 업데이트 기록](/OfficeUpdates/update-history-office-insider) | 수정한 날짜 |
+| 8/6/2019 | [Office 365 ProPlus 업데이트의 다운로드 크기](/OfficeUpdates/download-sizes-office365-proplus-updates) | 수정한 날짜 |
+| 8/6/2019 | [2019년 월별 채널 릴리스에 대한 릴리스 정보](/OfficeUpdates/monthly-channel-2019) | 수정한 날짜 |
+| 8/6/2019 | [Windows Installer(MSI)를 사용하는 Office 버전에 대한 최신 비보안 업데이트](/OfficeUpdates/office-msi-non-security-updates) | 수정한 날짜 |
+| 8/7/2019 | [Office 참가자에 대한 릴리스 정보](/OfficeUpdates/release-notes-office-insider) | 수정한 날짜 |
+| 8/9/2019 | [Office 참가자에 대한 릴리스 정보](/OfficeUpdates/release-notes-office-insider) | 수정한 날짜 |
