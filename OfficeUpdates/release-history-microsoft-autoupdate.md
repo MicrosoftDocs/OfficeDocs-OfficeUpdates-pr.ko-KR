@@ -3,19 +3,19 @@ title: MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 7/31/2019
+ms.date: 8/14/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT 전문가에게 MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록을 제공합니다.
-ms.openlocfilehash: 4dc2287a284ab4dd41113c87f16ed1f0cada682a
-ms.sourcegitcommit: 17facf664b8e512d51a2059fdfeea2693b4294cb
+ms.openlocfilehash: 6f9c5e78135b3311077445c6de6fb593b5796875
+ms.sourcegitcommit: ab7ce44030f562d10025ffd5de7555132b0f191c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35936349"
+ms.lasthandoff: 08/14/2019
+ms.locfileid: "36396592"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록
  
@@ -29,8 +29,27 @@ ms.locfileid: "35936349"
 > - 다운로드 링크는 Microsoft 자동 업데이트의 가장 최근 릴리스에 대해서만 제공됩니다.
 > - Microsoft 자동 업데이트는 Microsoft의 다양한 Mac 제품에 대한 업데이트를 제공합니다. 따라서 Mac용 Office를 실행하고 있지 않더라도 Microsoft 자동 업데이트를 업데이트하라는 알림을 받을 수 있습니다.
 
-릴리스 정보를 확인하려면 [릴리스 노트](release-notes-office-for-mac.md)를 참조하세요.<br/><br/>
+릴리스 정보를 확인하려면 [릴리스 정보](release-notes-office-for-mac.md)를 참고하십시오.<br/><br/>
 
+## <a name="august-2019-release"></a>2019년 8월 릴리스
+
+**릴리스 날짜:** 2019년 8월 13일
+
+*Microsoft 자동 업데이트 4.14*
+
+ **기능 업데이트:**
+
+- 보이스 오버 번역, 업데이트 성능 및 UI 개선을 위한 다양한 문제 해결
+- 문제 해결을 위한 원격 측정 및 수정 추가
+
+
+**MAU 업데이트 링크:**
+
+[Microsoft 자동 업데이트 4.14 패키지 다운로드](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.14.19081202_Updater.pkg)<br/>
+<br/>
+**SHA-256 해시:**
+
+76FA706E9E5B717D333B7EFB5AB95FCF9EE3E571A7FF171CA25E77CA6E9EBD97
 ## <a name="july-2019-release"></a>2019년 7월 릴리스
 
 **릴리스 날짜:** 2019년 7월 18일
