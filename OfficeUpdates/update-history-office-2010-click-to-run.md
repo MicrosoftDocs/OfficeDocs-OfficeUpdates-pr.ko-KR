@@ -3,19 +3,19 @@ title: Office 2010 간편 실행 제품에 대한 업데이트 기록
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 07/10/2019
+ms.date: 08/14/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: 간편 실행을 사용하는 Office 2010 영구 버전에 대한 업데이트 기록을 IT 전문가에게 제공합니다.
-ms.openlocfilehash: d393785c16090e6925ee6735b51ce290d1ff5a1c
-ms.sourcegitcommit: f0762345dc203481117f080f41fba451bffbac65
+ms.openlocfilehash: f12da7b89401b95d154dceba4cac27b25bff42a9
+ms.sourcegitcommit: 72b12def03a145b379c518a4e3c29e14585ca256
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35594566"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36384549"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Office 2010 간편 실행 제품에 대한 업데이트 기록
 
@@ -30,7 +30,7 @@ ms.locfileid: "35594566"
 이러한 제품 중 하나를 사용하고 있는 경우 최신 상태인지 확인하려면 Office 버전 번호를 확인하고 필요한 경우 Office 를 수동으로 업데이트하세요.
   
 > [!NOTE]
-> 최신 버전의 Office 2010는 **14.0.7235.5000**이며, 2019 년 7 월 9 일에 출시 되었습니다.
+> 최신 버전의 Office 2010는 **14.0.7236.5000**이며, 2019 년 8 월 13 일에 출시 되었습니다.
   
 Office의 버전을 확인하려면 다음을 수행합니다.
   
@@ -54,7 +54,8 @@ Office의 버전을 확인하려면 다음을 수행합니다.
   
 |**릴리스 연도**|**릴리스 날짜**|**버전 번호**|**추가 정보**|
 |:-----|:-----|:-----|:-----|
-|2019|7월 9일  <br/> |14.0.7235.5000  <br/> |[(영문) 4509295](https://support.microsoft.com/en-us/help/4509295) <br/> |
+|2019|8월 13일  <br/> |14.0.7236.5000  <br/> |[(영문) 4514418](https://support.microsoft.com/en-us/help/4514418) <br/> |
+||7월 9일  <br/> |14.0.7235.5000  <br/> |[(영문) 4509295](https://support.microsoft.com/en-us/help/4509295) <br/> |
 ||6월 11일  <br/> |14.0.7234.5000  <br/> |[(영문) 4505743](https://support.microsoft.com/en-us/help/4505743) <br/> |
 ||5월 14일  <br/> |14.0.7233.5000  <br/> |[(영문) 4501270](https://support.microsoft.com/en-us/help/4501270) <br/> |
 ||4월 9일  <br/> |14.0.7232.5000  <br/> |[KB 4495300](https://support.microsoft.com/en-us/help/4495300) <br/> |
