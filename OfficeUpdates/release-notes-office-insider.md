@@ -10,12 +10,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: c97fb384e093e8bbbc3e4e43b70de3b2cba773ee
-ms.sourcegitcommit: 03ffa84860ba8b6274641eedef588619ea389316
+ms.openlocfilehash: dc7b82e85b061d840aa4b780d22b7abfd63d9c23
+ms.sourcegitcommit: c74d193b1673075d4f0550bf37fa5f2fb9bd08c9
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/10/2019
-ms.locfileid: "36285985"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36302487"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 참가자에 대한 릴리스 정보
 
@@ -295,6 +295,10 @@ PowerPoint에 잉크 리플레이 애니메이션을 적용하면 프레젠테�
 #### <a name="sketchy-shapes"></a>도형 스케치!
 
 프레젠테이션 초안을 작성 중인가요? 스케치 스타일을 적용하여 아직 작업 중임을 보여줍니다. 이 기능을 사용하면 개체를 자유형 도형, 손으로 그린 도형으로 변환하지 않고 개인적인 손길을 담을 수 있습니다.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **유인물의 슬라이드 번호 인쇄 설정은 보다 쉬운 액세스를 위해 인쇄 메뉴로 이동했습니다:** 유인물 레이아웃을 선택할 때 인쇄 > 인쇄 레이아웃 드롭다운에서 찾을 수 있습니다. 또한 프레젠테이션마다 손쉽게 설정을 전환할 수 있습니다. 
 
 ## <a name="notable-fixes"></a>중요 수정 사항:
 

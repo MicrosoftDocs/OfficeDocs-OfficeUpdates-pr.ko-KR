@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 38bf1f7662af29427878afd9e015f30bb9b6e554
-ms.sourcegitcommit: 4a43961fb9786e6f8b7cc25ee45beaf62665db83
+ms.openlocfilehash: 6369209a28bebce07241d12a798dbf47a9a54183
+ms.sourcegitcommit: c74d193b1673075d4f0550bf37fa5f2fb9bd08c9
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36222966"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36302477"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -58,6 +58,8 @@ ms.locfileid: "36222966"
 
 - **지도 차트 만들기:** 이 기능은 Excel의 지리 데이터 형식을 사용하여 등치 지역도 차트를 그리는 사용자에게 유용한 개선 사항입니다. 기능과 최종 사용자가 매핑하고자 하는 지역의 정확성의 통합성을 향상하는 이점을 최종 사용자에게 제공합니다. 추가적인 이점은 도시 폴리곤을 매핑할 수 있다는 점입니다. 
   [자세한 정보](https://support.office.com/ko-KR/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+
+- **유인물의 슬라이드 번호 인쇄 설정은 보다 쉬운 액세스를 위해 인쇄 메뉴로 이동했습니다:** 유인물 레이아웃을 선택할 때 인쇄 > 인쇄 레이아웃 드롭다운에서 찾을 수 있습니다. 또한 프레젠테이션마다 손쉽게 설정을 전환할 수 있습니다. 
 
 ### <a name="word-feature-updates"></a>Word: 기능 업데이트
 
@@ -311,6 +313,7 @@ ms.locfileid: "36222966"
 
 - **Excel의 Insights:** Insights에서 사용자 범위 값을 제공합니다. Insights는 데이터 분석에 더욱 유연한 접근 방식을 제공하고 다른 사람들에게는 사용자의 데이터에 대한 새로운 관점을 제공합니다. [자세한 정보](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 
+
 - **콘텐츠 도달 범위 늘리기:**  접근성 높은 스프레드시트를 만들어야 하나요? 진행 중인 작업을 중단하지 않고 계속 접근성 검사를 실행하며 상태를 확인할 수 있습니다. 검토 > 접근성 검사를 클릭하여 검사를 시작해 보세요. 확인해야 할 결과를 발견하면 상태 표시줄에 알려드립니다.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 기능 업데이트
@@ -320,6 +323,10 @@ ms.locfileid: "36222966"
 - **콘텐츠 도달 범위 늘리기:**  접근성 높은 프레젠테이션을 만들어야 하나요? 진행 중인 작업을 중단하지 않고 계속 접근성 검사를 실행하며 상태를 확인할 수 있습니다. 검토 > 접근성 검사를 클릭하여 검사를 시작해 보세요. 확인해야 할 결과를 발견하면 상태 표시줄에 알려드립니다.
 
 - **다시 사용할 수 있는 경우, 새로 해야 하는 이유**  사용자가 작성했거나 다른 사용자가 공유하도록 한 슬라이드를 다시 사용하여 시간을 절약하세요.
+
+### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트
+
+- 사용자에게 통합 문서를 다시 열어서 변경 내용을 적용하라는 메시지가 표시되는 Excel의 병합 충돌 문제를 해결했습니다.
 
 ### <a name="skype-for-business-non-security-updates"></a>비즈니스용 Skype: 비보안 업데이트
 
