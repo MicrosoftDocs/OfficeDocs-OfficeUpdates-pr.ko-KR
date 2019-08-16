@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT 전문가에게 MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록을 제공합니다.
-ms.openlocfilehash: 6f9c5e78135b3311077445c6de6fb593b5796875
-ms.sourcegitcommit: ab7ce44030f562d10025ffd5de7555132b0f191c
+ms.openlocfilehash: 9b86b9c383805cc6f29bdeaad9416b951443f21a
+ms.sourcegitcommit: fa36d5fbddce8fc94c98eaf81acdfa2fce370958
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/14/2019
-ms.locfileid: "36396592"
+ms.lasthandoff: 08/15/2019
+ms.locfileid: "36429942"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록
  
@@ -45,7 +45,7 @@ ms.locfileid: "36396592"
 
 **MAU 업데이트 링크:**
 
-[Microsoft 자동 업데이트 4.14 패키지 다운로드](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.14.19081202_Updater.pkg)<br/>
+[Microsoft 자동 업데이트 4.14 패키지 다운로드](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
 <br/>
 **SHA-256 해시:**
 
