@@ -30,6 +30,8 @@
 ### [업데이트 기록 월 단위 채널(대상)](update-history-monthly-channel-targeted.md)
 ###[릴리스 노트 참가자 채널](release-notes-office-insider.md)
 
+## [ODT 릴리스 기록](ODT-release-history.md)
+
 # Mac용 Office
 ## [업데이트 기록(Office 365, 2019)](update-history-office-for-mac.md)
 ## [릴리스 정보(Office 365, 2019)](release-notes-office-for-mac.md)
