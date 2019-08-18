@@ -3,19 +3,18 @@ title: 2019년 월별 채널 릴리스에 대한 릴리스 정보
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 6/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 6369209a28bebce07241d12a798dbf47a9a54183
-ms.sourcegitcommit: c74d193b1673075d4f0550bf37fa5f2fb9bd08c9
+ms.openlocfilehash: a4ebd3ab963cc4f4b31a2b957347c957ccff5f51
+ms.sourcegitcommit: 65ea2540b23e2c9fe58f14d25ef1e393936df8e2
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36302477"
+ms.lasthandoff: 08/14/2019
+ms.locfileid: "36404482"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -26,7 +25,19 @@ ms.locfileid: "36302477"
 > - Microsoft는 일정 기간 동안 매달 기능(및 경우에 따라서는 수정 사항)을 롤아웃합니다. 이를 통해 기능을 좀 더 광범위한 대상에게 출시하기 전에 원활하게 작동하는지 확인합니다. 따라서 아래에 설명된 기능이 보이지 않더라도 곧 제공될 예정이므로 걱정할 필요가 없습니다. [자세히 알아보기](https://support.office.com/ko-KR/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
  > [!NOTE]
-> - Office 365 ProPlus의 기존 설치에 대한 Microsoft 팀 - 7월 초부터 Microsoft Teams가 Office 365 ProPlus(및 Office 365 Business)의 기존 설치에 업데이트 설치 시 포함됩니다. Teams가 추가되는 날짜는 사용 중인 업데이트 채널에 따라 다릅니다. 추가 정보는 [Office 365 ProPlus와 함께 Microsoft Teams 배포](https://docs.microsoft.com/ko-KR/deployoffice/teams-install)를 참조하세요.
+> - Office 365 ProPlus의 기존 설치에 대한 Microsoft 팀 - 7월 초부터 Microsoft Teams가 Office 365 ProPlus(및 Office 365 Business)의 기존 설치에 업데이트 설치 시 포함됩니다. Teams가 추가되는 날짜는 사용 중인 업데이트 채널에 따라 다릅니다. 추가 정보는 [Office 365 ProPlus를 사용한 Microsoft Teams 배포](https://docs.microsoft.com/ko-KR/deployoffice/teams-install)를 참조하세요.
+
+## <a name="version-1907-august-13"></a>버전 1907: 8월 13일
+*버전 1907 (빌드 11901.20218)*
+
+보안 업데이트가 [여기](https://docs.microsoft.com/ko-KR/officeupdates/office365-proplus-security-updates)에 나열되어 있습니다.
+
+### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트
+
+ - 다른 사용자와의 공동 작성 세션에서 트리거 할 수 있는 동안 피벗 테이블의 정렬 방식을 변경하고 새로 고치는 문제가 해결되었습니다.
+
+### <a name="outlook-non-security-updates"></a>Outlook: 비보안 업데이트
+  - 사서함을 기본 인증에서 최신 인증으로 업그레이드한 사용자가 Outlook 프로필에 연결된 잘못된 계정으로 끝나는 문제가 해결되었습니다.
 
 ## <a name="version-1907-july-29"></a>버전 1907: 7월 29일
 *버전 1907 (빌드 11901.20176)*
@@ -60,6 +71,7 @@ ms.locfileid: "36302477"
   [자세한 정보](https://support.office.com/ko-KR/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
 - **유인물의 슬라이드 번호 인쇄 설정은 보다 쉬운 액세스를 위해 인쇄 메뉴로 이동했습니다:** 유인물 레이아웃을 선택할 때 인쇄 > 인쇄 레이아웃 드롭다운에서 찾을 수 있습니다. 또한 프레젠테이션마다 손쉽게 설정을 전환할 수 있습니다. 
+  [자세한 정보](https://support.office.com/ko-KR/article/194d4320-aa03-478b-9300-df25f0d15dc4)
 
 ### <a name="word-feature-updates"></a>Word: 기능 업데이트
 
@@ -282,6 +294,8 @@ ms.locfileid: "36302477"
 
 ### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
 - 히라가나와 한자에서 새로운 연호 "레이와"의 철자가 틀리거나 비문법적 표현으로 잘못 식별되는 문제가 수정되었습니다.
+
+- 프록시 인증이 SYSTEM으로 실행될 때 Office 업데이트를 차단하는 문제가 해결되었습니다.
 
 ## <a name="version-1903-april-23"></a>버전 1903: 4월 23일
 *버전 1903(빌드 11425.20244)*
