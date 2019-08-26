@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Office 356 구독자를 위한 Mac용 Office 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 3b2065e8c457507ce70415e346befaac06395b27
-ms.sourcegitcommit: ab7ce44030f562d10025ffd5de7555132b0f191c
+ms.openlocfilehash: 2a7afe03d5c5ba0b99dad4844ae8c71b8abc9217
+ms.sourcegitcommit: 4880505c8bb9bf7692755ba54faa980a6bff94de
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/14/2019
-ms.locfileid: "36396602"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36567208"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac용 Office에 대한 릴리스 정보
 
@@ -30,8 +30,7 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
 > - Office 참가자인 경우 [초기 참가자 빌드용 릴리스 정보](https://support.office.com/article/b3260859-2c1e-4f12-92a4-62a6997efb3a)를 참조하세요.
 > - 2018년 16.17 릴리스부터 릴리스 정보는 소매점 또는 볼륨 라이선스 계약을 통해 일회용 구매 제품으로 사용할 수 있는 Mac용 Office 버전인 Mac용 Office 2019에도 적용됩니다. 그렇지만 릴리스 정보에 나열된 일부 기능은 Office 365 구독이 있는 경우에만 사용할 수 있습니다.
 > - 버전 16.16 이하 버전의 릴리스 정보는 일회용 구매 제품으로 사용할 수 있는 Mac용 Office의 버전인 Mac용 Office 2016에도 적용됩니다. 16.16 이하 버전은 Mac용 Office 2016 볼륨 라이선스를 통해 정품 인증을 받을 수 있습니다. 버전 16.17 이상은 Mac용 Office 2016 볼륨 라이선스로 정품 인증을 받을 수 없습니다. 9월 이후의 Mac용 Office 2016 릴리스에 대한 내용은 [Mac용 Office 2016 릴리스 정보](release-notes-office-2016-mac.md)를 참조하세요.
-> 
-> 
+> > 
 > - 종종 일정 기간 월 단위 채널에 기능(및 때때로 수정 항목)을 출시하기도 합니다. 이를 통해 기능을 더 많은 대상 그룹에 출시하기 전에 모두 원활하게 작동하는지 확인할 수 있습니다. 따라서 아래에 설명된 문제가 보이지 않는 이상 결국 받게 되니 아무것도 걱정할 필요가 없습니다. [자세히 알아보기](https://support.office.com/ko-KR/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
 
@@ -39,7 +38,6 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
 
 ## <a name="august-13-2019-release"></a>2019년 8월 13일 릴리스
 *버전 16.28 (빌드 19081202)*
-
 
 ### <a name="word-feature-updates"></a>Word: 기능 업데이트
 
@@ -52,18 +50,11 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
 - [CVE-2019-1201](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1201): Microsoft Word 원격 코드 실행 취약성
 - [CVE-2019-1205](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1205): Microsoft Word 원격 코드 실행 취약성
 
-
-
-
 ### <a name="excel-feature-updates"></a>Excel: 기능 업데이트
 
 - **그림 스케치:** 프레젠테이션에서 Office 도형에 손으로 그린 캐주얼한 모양을 넣을 수 있습니다. [자세한 정보](https://support.office.com/article/15967a38-117b-4e36-b588-253a8c464bf0)
 - **남은 작업에 중점:** 설명을 축소하고 열린 항목을 강조하려면 해결을 선택하세요.
 - **향상된 지도 차트:** 매핑된 위치에 대한 풍부한 정보를 볼 수 있는 Excel의 지리적 데이터 유형에 통합하여 지도 차트를 더 효율적으로 만들 수 있습니다. [자세한 정보](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
-
-
-
-
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 기능 업데이트
 
@@ -71,12 +62,12 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
 - **슬라이드 쇼 중에 영구적 잉크 입력:** 프레젠테이션을 진행하는 동안 슬라이드에 그리면 펜이 끝날 때까지 활성 상태로 유지됩니다. 주석도 저장합니다. [자세한 정보](https://support.office.com/article/80a78a11-cb5d-4dfc-a1ad-a26e877da770)
 - **향상된 지도 차트:** 매핑된 위치에 대한 풍부한 정보를 볼 수 있는 Excel의 지리적 데이터 유형에 통합하여 지도 차트를 더 효율적으로 만들 수 있습니다. [자세한 정보](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
-
-
-
 ### <a name="outlook-feature-updates"></a>Outlook: 기능 업데이트
 
 - **클라우드 파일에서 첨부 파일 공유:** 클라우드 파일을 메일 메시지에 손쉽게 첨부하여 공동 작업을 개선할 수 있습니다. [자세한 정보](https://support.office.com/article/96490541-8b0c-462e-aacf-fd939c1f22f3)
+
+### <a name="office-suite-feature-updates"></a>Office 제품군: 기능 업데이트
+- **개인 정보 제어:** 진단 데이터 및 연결된 환경에 대한 업데이트 및 향상된 신규 컨트롤 작업 [자세한 정보](https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json)
 
 ### <a name="office-suite-security-updates"></a>Office 제품군: 보안 업데이트
 
