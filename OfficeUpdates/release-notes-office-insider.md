@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 4d9125fa3f1765da7012737359a28b1e2d1adf68
-ms.sourcegitcommit: 79b250d484e34750a64d28d0883c59d8c7aa0e5a
+ms.openlocfilehash: f77370fab0937b4880738de0188b42db1d77dedc
+ms.sourcegitcommit: f84f754f105631e81585397a1795418ff26ea5d7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36393223"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36620527"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 참가자에 대한 릴리스 정보
 
@@ -28,6 +28,122 @@ ms.locfileid: "36393223"
 > - Office 365 ProPlus의 기존 설치에 대한 Microsoft Teams - 6월 말부터 Microsoft Teams가 Office 365 ProPlus(및 Office 365 Business)의 기존 설치에 업데이트 설치 시 포함됩니다. Teams가 추가되는 날짜는 사용 중인 업데이트 채널에 따라 다릅니다. 추가 정보는 [Office 365 ProPlus와 함께 Microsoft Teams 배포](https://docs.microsoft.com/ko-KR/deployoffice/teams-install)를 참조하세요.
 
 [//]: # (제거하지 마세요)
+
+
+## <a name="august-23-2019br"></a>**2019년 8월 23일**<br/>
+버전 1909 (빌드 12015.20004)<br/>
+
+
+
+## <a name="non-security-updates"></a>비보안 업데이트:
+
+### <a name="excel"></a>Excel
+
+- <div><span>병합된 셀이 있는 열을 삭제하는 성능이 크게 개선되었습니다.</span></div>
+
+
+### <a name="office-suite"></a>Office 제품군
+
+- <div><span>브라우저에서 볼 때 일부 유니 코드 문자가 표시되지 않는 문제가 해결되었습니다.</span></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>파일을 WebDAV 위치에 저장하지 못하는 문제가 해결되었습니다.</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>사용자가 한 메모를 클릭하면 다른 메모가 선택되는 문제가 해결되었습니다.</span></div>
+
+
+
+
+
+## <a name="august-16-2019br"></a>**2019년 8월 16일**<br/>
+버전 1909 (빌드 12013.20000)<br/>
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint 기능 업데이트:
+
+- **슬라이드 번호를 유인물에 인쇄:** 슬라이드 번호가 유인물에 자동으로 포함됩니다. 계속 사용 및 해제 여부를 설정할 수 있습니다.
+
+
+
+
+## <a name="non-security-updates"></a>비보안 업데이트:
+
+### <a name="excel"></a>Excel
+
+- <div><span>자동 저장이 활성화 될 수 있는 문제가 해결되었습니다.</span></div>
+
+
+- <div>셀 높이가 부정확하게 측정될 수 있는 문제가 해결되었습니다.</div>
+
+
+### <a name="office-suite"></a>Office 제품군
+
+- <div><span>댓글 기능의 성능을 크게 향상시키는 문제가 해결되었습니다.</span></div>
+
+
+- <div><span>검색 중에 화살표 키를 사용하면 충돌이 발생하는 문제가 해결되었습니다.</span></div>
+
+
+- <div><span>@ 기호가 특정 문자 뒤에 있으면 @멘션을 방해할 수 있는 문제가 해결되었습니다.</span></div>
+
+
+- <div><span>@멘션을 삭제할 때 때때로 충돌이 발생할 수 있는 문제가 해결되었습니다.</span></div>
+
+
+- <div><span>메모 카드에서 이모지가 제대로 표시되지 않도록 하는 문제가 해결되었습니다.</span></div>
+
+
+- <div><span>때때로 충돌을 일으킬 수 있는 활성 클립보드 관련 문제가 해결되었습니다.</span></div>
+
+
+- <div><span>빠른 실행 도구 모음 단추가 제대로 작동하지 않을 수 있는 문제가 해결되었습니다.</span></div>
+
+
+- <div><span>문서 서식 미리 보기가 배경으로 전환되지 않도록 하는 문제가 해결되었습니다.</span></div>
+
+### <a name="onenote"></a>OneNote
+
+- Office 테마가 검은색으로 설정된 경우 섹션 드롭다운 목록에서 섹션 이름이 공백으로 표시되는 문제가 해결되었습니다.
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>Outlook이 반복적으로 포커스를 얻거나 저하시킬 수 있는 이벤트 보내기 문제가 해결되었습니다.</span></div>
+
+
+- <div><span>폴더에 회신 게시 바로 가기가 작동하지 않는 문제가 해결되었습니다.</span></div>
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>공동 작업 시 때때로 문제를 일으킬 수 있는 제한된 보기 문제가 해결되었습니다.</span></div>
+
+
+- <div><span>메모 창의 작업이 제대로 표시되지 않도록 하는 문제가 해결되었습니다.</span></div>
+
+
+- <div><span>새 슬라이드를 삽입할 때 충돌이 발생하는 문제가 해결되었습니다.</span></div>
+
+
+### <a name="user-lifecycle"></a>사용자 수명 주기
+
+- <div><span>때때로 구독 기능이 사라지는 문제가 해결되었습니다.</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>하이퍼링크에 특정 문자가 포함된 경우 하이퍼링크가 손상되는 문제가 해결되었습니다.</span></div>
+
+
+- <div><span>해당 이미지의 설명을 볼 때 이미지 크기가 잘못될 수 있는 문제가 해결되었습니다.</span></div>
+
+
+- <div><span>글머리 기호 목록 드롭다운 메뉴에서 때때로 충돌이 발생할 수 있는 문제가 해결되었습니다.</span></div>
+
+
+
 
 
 ## <a name="august-09-2019br"></a>**2019년 8월 9일**<br/>
