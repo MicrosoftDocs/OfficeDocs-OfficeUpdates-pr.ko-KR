@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: d1303df71491b1ed244f70fcd4d135d308815d69
-ms.sourcegitcommit: a7326cf3aad7eb2a0f336d7558b4701a3a6037ca
+ms.openlocfilehash: 9a6e0bbc189ebb970647fae2f9810505e327cfd8
+ms.sourcegitcommit: ba31adfbc9514f2c98d8420923696b1b77872621
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/20/2019
-ms.locfileid: "36473448"
+ms.lasthandoff: 08/26/2019
+ms.locfileid: "36631240"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -25,6 +25,48 @@ ms.locfileid: "36473448"
   [자세한 정보](https://support.office.com/ko-KR/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- Office 365 ProPlus의 기존 설치에 대한 Microsoft Temas - 7월 초부터 Office 365 ProPlus(및 Office 365 Business)의 업데이트에 Microsoft Teams가 포함됩니다.  Teams가 추가되는 날짜는 사용 중인 업데이트 채널에 따라 다릅니다. 추가 정보는 [Office 365 ProPlus를 사용한 Microsoft Teams 배포](https://docs.microsoft.com/ko-KR/deployoffice/teams-install)를 참조하세요.
 
+
+## <a name="version-1908-august-26"></a>버전 1908: 8월 26일
+*버전 1908(빌드 11929.20254)*
+* 다양한 버그 및 성능 수정 사항.
+
+### <a name="excel-feature-updates"></a>Excel: 기능 업데이트
+
+- **그림 스케치:** 통합 문서에서 Office 도형에 손으로 그린 캐주얼한 모양을 넣을 수 있습니다. 
+  [자세한 정보](https://support.office.com/ko-KR/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
+
+- **검색하여 즐겁게 사용해 보세요.** 원하는 아이콘을 쉽게 찾을 수 있도록 검색하여 아이콘 삽입을 추가했습니다. 그리고 선택할 때, 삽입 단추를 클릭하여 선택한 수를 알 수 있습니다. 
+  [자세한 정보](https://support.office.com/ko-KR/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
+- **남은 작업에 중점:** 설명을 축소하고 열린 항목을 강조하려면 해결을 선택하세요.
+
+### <a name="office-suite-feature-updates"></a>Office 제품군: 기능 업데이트
+
+- **Office 아이콘이 새롭게 단장했습니다.** 간단하고 강력하며 지능적인 Office 환경을 반영하여 Office 아이콘이 다시 디자인되었습니다.
+
+### <a name="outlook-feature-updates"></a>Outlook: 기능 업데이트
+
+- **위치 제안 받기:** 약속 및 모임을 예약할 때 위치 필드에 입력을 시작하면 Outlook에 회의실, 주소 및 기타 최근 장소가 제안됩니다. 
+  [자세한 정보](https://support.office.com/ko-KR/article/1d8631be-611a-4e3d-9109-b153e4622d53)
+
+- **검색하여 즐겁게 사용해 보세요.** 원하는 아이콘을 쉽게 찾을 수 있도록 검색하여 아이콘 삽입을 추가했습니다. 그리고 선택할 때, 삽입 단추를 클릭하여 선택한 수를 알 수 있습니다. 
+  [자세한 정보](https://support.office.com/ko-KR/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint: 기능 업데이트
+
+- **그림 스케치:** 프레젠테이션에서 Office 도형에 손으로 그린 캐주얼한 모양을 넣을 수 있습니다. 
+  [자세한 정보](https://support.office.com/ko-KR/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
+
+- **검색하여 즐겁게 사용해 보세요.** 원하는 아이콘을 쉽게 찾을 수 있도록 검색하여 아이콘 삽입을 추가했습니다. 그리고 선택할 때, 삽입 단추를 클릭하여 선택한 수를 알 수 있습니다. 
+  [자세한 정보](https://support.office.com/ko-KR/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
+### <a name="word-feature-updates"></a>Word: 기능 업데이트
+
+- **그림 스케치:** 문서에서 Office 도형에 손으로 그린 캐주얼한 모양을 넣을 수 있습니다. 
+  [자세한 정보](https://support.office.com/ko-KR/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
+
+- **검색하여 즐겁게 사용해 보세요.** 원하는 아이콘을 쉽게 찾을 수 있도록 검색하여 아이콘 삽입을 추가했습니다. 그리고 선택할 때, 삽입 단추를 클릭하여 선택한 수를 알 수 있습니다. 
+  [자세한 정보](https://support.office.com/ko-KR/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ## <a name="version-1907-august-13"></a>버전 1907: 8월 13일
 *버전 1907 (빌드 11901.20218)*
