@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 반기 채널(대상 지정) 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: ff0d92073df62c8b12b9c78559a6189e7901e471
-ms.sourcegitcommit: 1b1bf8dde78540f7953f2faad614f3862c363921
+ms.openlocfilehash: 864b96c4bee92987e4595803804813f1571ebbd6
+ms.sourcegitcommit: e46cbcba082c5f2394cc3282a9edb756a33cbc85
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/21/2019
-ms.locfileid: "36488520"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36672898"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019년 반기 채널(대상 지정) 릴리스에 대한 릴리스 정보
 
@@ -182,8 +182,7 @@ ms.locfileid: "36488520"
 
 ### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
 
-- Office 업데이트의 일부가 배달 최적화 피어 캐싱을 사용하지 않는 문제가 해결되었습니다. 
-  [자세한 정보](https://docs.microsoft.com/ko-KR/windows/deployment/update/waas-delivery-optimization)
+- Office 업데이트의 일부가 배달 최적화 피어 캐싱을 사용하지 않는 문제가 해결되었습니다. [자세한 정보](https://docs.microsoft.com/ko-KR/windows/deployment/update/waas-delivery-optimization)
 - Office 배포 도구를 사용하여 Office를 설치하고 대소 문자가 일치하지 않는 경우, 제품이 제거되거나 활성화되지 않을 수 있는 버그를 수정합니다.
 - Windows 10 (버전 1803 이상) 장치에서 과도한 로그인 프롬프트를 유발하는 문제가 해결되었습니다.
 - 링크된 그림을 다운로드 할 때 원인이 되는 고정 회귀의 중단
@@ -222,8 +221,7 @@ ms.locfileid: "36488520"
 - **되풀이 범위의 새로운 기본값:** 되풀이 대화 상자에서 되풀이 범위의 기본값은 원래 "종료 날짜 없음"이었습니다. 이 기본값을 사용하면 기간이 긴 되풀이를 손쉽게 만들 수 있었지만, 시간이 지나면 손상될 가능성이 있었습니다. 기본값이 일정 관리의 권장 모범 사례를 따르도록, 이제 되풀이 대화 상자의 기본값이 "종료 날짜"로 변경됩니다.
 - **Outlook 미리 알림 대화 상자에서 Teams 모임에 참가:** Outlook이 사용자에게 예정된 모임을 미리 알릴 때 예정된 모임이 Teams 온라인 모임인 경우 온라인 참석 단추를 표시합니다. 이는 Outlook 미리 알림 대화 상자의 비즈니스용 Skype 모임 참가 기능과 비슷합니다.
 - **지난 이벤트에 대한 미리 알림 표시 안 함:** 이벤트가 종료된 후에 이벤트의 미리 알림을 자동으로 해제하도록 일정을 설정할 수 있습니다. [자세한 정보](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
-- **안전한 링크 뒤에 URL 표시:** 안전한 링크는 전자 메일에 수신된 악의적인 URL로부터 보호하지만 원래 URL을 숨깁니다. 원래 URL을 보려면 URL에 마우스를 올리세요. Advanced Threat Protection 라이선스가 필요합니다. 
-  [자세한 정보](https://products.office.com/ko-KR/exchange/advance-threat-protection)
+- **안전한 링크 뒤에 URL 표시:** 안전한 링크는 전자 메일에 수신된 악의적인 URL로부터 보호하지만 원래 URL을 숨깁니다. 원래 URL을 보려면 URL에 마우스를 올리세요. Advanced Threat Protection 라이선스가 필요합니다. [자세한 정보](https://products.office.com/ko-KR/exchange/advance-threat-protection)
 - **확대/축소 및 고정:** 메시지를 읽을 때마다 확대/축소를 조정하지 않고, 모든 메시지에 사용할 기본값을 선택합니다. [자세한 정보](https://support.office.com/article/56c090bc-e148-44a7-bd06-1290edd38983)
 - **메시지 암호화: 암호화 전용 IRM 정책:** Office 365 메시지 암호화 사용자를 위해 옵션 > 권한 메뉴에 새로운 암호화 전용 옵션이 표시됩니다. 이 옵션을 사용하여 메시지를 암호화하고 조직 내부 또는 외부의 원하는 사람에게 메시지를 보낼 수 있습니다.
 - **숨은 참조에 포함되어 있을 경우 표시되는 경고:** 내가 숨은 참조에 포함되어 있을 때 실수로 메일에 전체 회신하기 전에 숨은 참조 정보 팁이 경고를 표시합니다.
@@ -242,7 +240,7 @@ ms.locfileid: "36488520"
 - **스케치를 세련되게 변형:** 손으로 그린 텍스트와 도형을 세련된 다이어그램으로 바꾸어 드립니다. 시작하려면 잉크 스트로크만 선택하면 됩니다. [자세히 알아보기](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 - **그림 뒤에 있는 내용 표시:** 워크시트에 그림을 넣고, 사전 설정을 선택하고, 투명도 변경을 확인합니다. 바로 이 기능으로요! [자세히 알아보기](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
 - **멋진 슬라이드 만들기:** 잉크를 표준 도형 및 텍스트로 변환한 후, PowerPoint Designer에서 스마트한 슬라이드 디자인 아이디어를 가져옵니다. [자세한 정보](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
-- **Microsoft Stream에 게시:** Microsoft Stream을 사용하여 조직 내에서 프레젠테이션을 비디오로 더 안전하게 공유할 수 있습니다. [자세한 정보](https://support.office.com/article/C140551F-CB37-4818-B5D4-3E30815C3E83)
+- **Microsoft Stream에 게시:** Microsoft Stream을 사용하여 조직 내에서 프레젠테이션을 비디오로 더 안전하게 공유할 수 있습니다. [자세한 정보](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83)
 - **4K 비디오로 내보내기:** 프레젠테이션을 동영상으로 내보낼 때 4K 해상도를 선택할 수 있습니다.  [자세한 정보](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83)
 - **필터가 적용된 SVG 삽입:** Office 사용자는 이제 필터가 적용된 SVG를 삽입할 수 있습니다. [자세히 알아보기](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
@@ -274,8 +272,7 @@ ms.locfileid: "36488520"
 ### <a name="office-suite-feature-updates"></a>Office 제품군: 기능 업데이트
 
 - **이제 Office 타사 응용 프로그램에서 office.js API를 사용하는 SVG 삽입 지원:** Office에서 추가 기능으로도 알려져 있는 타사 응용 프로그램에 SVG 삽입 기능이 제공되므로 SVG 개인 컬렉션을 Office에 연결할 수 있습니다. 개발자들은 Office.js API를 통해 이 기능을 사용할 수 있습니다.
-- **Microsoft Teams 설치:**  Office 365 ProPlus를 새로 설치하면 Microsoft Teams가 기본적으로 설치됩니다. 
-  [자세한 정보](https://docs.microsoft.com/ko-KR/DeployOffice/teams-install)
+- **Microsoft Teams 설치:**  Office 365 ProPlus를 새로 설치하면 Microsoft Teams가 기본적으로 설치됩니다. [자세한 정보](https://docs.microsoft.com/ko-KR/DeployOffice/teams-install)
 
 ### <a name="skype-for-business-feature-updates"></a>비즈니스용 Skype: 기능 업데이트
 
@@ -301,8 +298,7 @@ ms.locfileid: "36488520"
 
 ### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
 
-- 
-  [O365 Office 중앙 집중식 배포](https://docs.microsoft.com/ko-KR/office/dev/add-ins/publish/centralized-deployment)를 사용하여 배포된 추가 기능이 중지되고 사용할 수 없는 문제를 해결했습니다.
+- [O365 Office 중앙 집중식 배포](https://docs.microsoft.com/ko-KR/office/dev/add-ins/publish/centralized-deployment)를 사용하여 배포된 추가 기능이 중지되고 사용할 수 없는 문제를 해결했습니다.
 
 
 ## <a name="version-1808-january-8"></a>버전 1808: 1월 8일
