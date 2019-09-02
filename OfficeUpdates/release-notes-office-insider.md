@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: f77370fab0937b4880738de0188b42db1d77dedc
-ms.sourcegitcommit: f84f754f105631e81585397a1795418ff26ea5d7
+ms.openlocfilehash: 0e33b8b29604cf5ada95a5d996dc8959750a0f7b
+ms.sourcegitcommit: 309b405d7fdfe3ca7d6c9da179b6c7ddb34378b1
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36620527"
+ms.lasthandoff: 08/30/2019
+ms.locfileid: "36693885"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 참가자에 대한 릴리스 정보
 
@@ -29,6 +29,101 @@ ms.locfileid: "36620527"
 
 [//]: # (제거하지 마세요)
 
+
+## <a name="version-1909-august-30"></a>버전 1909: 8월 30일
+*버전 1909 (빌드 12026.20000)*
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="powerpoint"></a>PowerPoint
+
+- **그림을 SVG로 저장:** 이미지 품질이 손실되지 않도록 크기를 조정할 수 있는 스케일 가능한 벡터 그래픽으로 차트, 도형 또는 기타 그림을 저장합니다. [자세한 정보](https://support.office.com/ko-KR/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="non-security-updates"></a>비보안 업데이트
+### <a name="excel"></a>Excel
+
+- <div><span>민감도&nbsp;<span style="display:inline !important;background-color:rgba(255, 255, 255, 1);">에 대한 키 설명이</span> &nbsp;<span style="display:inline !important;background-color:rgba(255, 255, 255, 1);">다른 키 설명과 충돌하는 문제를 해결했습니다.</span></span></div>
+
+- <div><span>저장을 시도할 때 공유 통합 문서를 작업하는 동안 발생한 문제를 해결했습니다.</span></div>
+
+- <div><span>Excel에 '\Excel\Add-in Manager' 레지스트리 값에 있는 처음 16개의 추가 기능만 나열되는 문제를 해결했습니다.<span style="display:inline !important;background-color:rgba(255, 255, 255, 1);"></span></span></div>
+
+
+- <div><span>Frequency() 함수가 잘못된 결과를 반환하는 문제를 해결했습니다.</span></div>
+
+
+- <div><span>색 기준 필터링의 성능이 크게 향상되었습니다.</span></div>
+
+
+- <div><span>마우스를 움직일 때 마우스 클릭 이벤트로 해석될 수 있는 Surface 사용자의 문제를 해결했습니다.</span></div>
+
+
+- <div><span>찾기/바꾸기 대화 상자에서 키보드 탐색을 방해하는 문제를 해결했습니다.</span></div>
+
+
+- <div><span>일부 글꼴 이름이 제대로 표시되지 않는 문제를 해결했습니다.</span></div>
+
+
+- <div><span>CSV가 지원되는 파일 형식으로 표시되지 않는 문제를 해결했습니다.</span></div>
+
+
+### <a name="access"></a>Access
+
+- <div>사용자가 공유 데이터베이스를 사용하는 경우 &quot;일관성이 없는 상태&quot; 오류가 표시되는 문제를 해결했습니다.</div>
+
+
+- <div><span>날짜 선택기가 표시되지 않아야 할 때 나타나는 문제를 해결했습니다.</span></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>일부 POP3 사용자에게 HTML 콘텐츠가 표시되지 않는 문제를 해결했습니다.</span></div>
+
+
+- <div><span>기능을 사용할 수 없는 환경에서 작업할 때 연락처 카드의 오버플로 메뉴에서 기능이 없는 'Planner' 링크를 제거하는 문제를 해결했습니다.</span></div>
+
+### <a name="onenote"></a>OneNote
+
+- <div><span>&nbsp;OneNote 백그라운드 동기화가 때때로 포커스를 가로채는 문제를 해결했습니다.</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>3D 턴테이블의 회전 방향에 영향을 주는 문제를 해결했습니다.</span></div>
+
+- <div><span>특수 문자가 포함된 경우 일부 하이퍼링크가 작동하지 않는 문제가 해결되었습니다.</span></div>
+
+- <div><span>한 번에 여러 메모 창이 열리는 문제를 해결했습니다.</span></div>
+
+### <a name="project"></a>Project
+
+- <div><span>Team Planner 보기를 인쇄한 후에 종종 충돌이 발생할 수 있는 문제를 해결했습니다.</span></div>
+
+### <a name="word"></a>Word
+
+- <div><span>세로 텍스트 상자의 멀티 바이트 문자가 읽기용 보기에 겹쳐서 표시되는 문제를 해결했습니다.<br></span></div>
+
+- <div><span>&nbsp;<span style="display:inline !important;background-color:rgba(255, 255, 255, 1);color:rgba(0, 0, 0, 0.9);">추가 기능 마법사에서 사용자가 작업을 수행하는 경우 일본어 우편 엽서와 인사말 카드 관련 추가 리소스를 찾지 못하는 문제를 해결했습니다.</span></span></div>
+
+- <div><span>제한된 보기에서 제목 표시줄 사용자 인터페이스에 문제를 일으킬 수있는 문제를 해결했습니다.</span></div>
+
+### <a name="office-suite"></a>Office 제품군
+
+- <div><span><span style="display:inline !important;background-color:rgba(255, 255, 255, 1);">일반 셰이프와 연결선 셰이프를 모두 포함하는 선택 영역에서 셰이프를 변경하면 파일 문제가 손상되는 문제를 해결했습니다.</span></span></div>
+
+- <div><span><span style="display:inline !important;background-color:rgba(255, 255, 255, 1);color:rgba(0, 0, 0, 0.9);">여러 외부 디스플레이에서 Dock/Dock 해제를 사용할 때 문제가 발생하는 문제를 해결했습니다.</span></span></div>
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="august-23-2019br"></a>**2019년 8월 23일**<br/>
 버전 1909 (빌드 12015.20004)<br/>
@@ -413,8 +508,7 @@ PowerPoint에 잉크 리플레이 애니메이션을 적용하면 프레젠테�
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **유인물의 슬라이드 번호 인쇄 설정은 보다 쉬운 액세스를 위해 인쇄 메뉴로 이동했습니다:** 유인물 레이아웃을 선택할 때 인쇄 > 인쇄 레이아웃 드롭다운에서 찾을 수 있습니다. 또한 프레젠테이션마다 손쉽게 설정을 전환할 수 있습니다. 
-  [자세한 정보](https://support.office.com/ko-KR/article/194d4320-aa03-478b-9300-df25f0d15dc4)
+- **유인물의 슬라이드 번호 인쇄 설정은 보다 쉬운 액세스를 위해 인쇄 메뉴로 이동했습니다:** 유인물 레이아웃을 선택할 때 인쇄 > 인쇄 레이아웃 드롭다운에서 찾을 수 있습니다. 또한 프레젠테이션마다 손쉽게 설정을 전환할 수 있습니다. [자세한 정보](https://support.office.com/ko-KR/article/194d4320-aa03-478b-9300-df25f0d15dc4)
 
 ## <a name="notable-fixes"></a>중요 수정 사항:
 
@@ -1038,6 +1132,14 @@ OneDrive 동기화 클라이언트 사용 및 Outlook 데스크톱의 파일 첨
 
 ## <a name="april-12-2019"></a>2019년 4월 12일
 버전 1905 (빌드 11601.20042)
+
+## <a name="whats-new"></a>새로운 기능:
+
+### <a name="access"></a>Access
+
+#### <a name="get-smart-with-microsoft-graph"></a>Microsoft Graph를 활용하여 스마트해지기
+
+지능형 데이터를 가져오거나 링크하고, 지능형 기술을 이용하여 데스크톱 데이터베이스를 다시 만들 수 있습니다.
 
 ## <a name="notable-fixes"></a>중요 수정 사항:
 
