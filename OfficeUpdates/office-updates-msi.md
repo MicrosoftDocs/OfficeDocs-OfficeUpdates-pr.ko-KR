@@ -54,14 +54,11 @@ ms.locfileid: "35594497"
 
 [2019년 6월용 보안 및 비보안 업데이트: KB4505743](https://support.microsoft.com/help/4505743)
 
+[2019년 5월용 보안 및 비보안 업데이트: KB4501270](https://support.microsoft.com/ko-KR/help/4501270)
 
-  [2019년 5월용 보안 및 비보안 업데이트: KB4501270](https://support.microsoft.com/ko-KR/help/4501270)
+[2019년 4월용 보안 및 비보안 업데이트: KB4495300](https://support.microsoft.com/ko-KR/help/4495300)
 
-
-  [2019년 4월용 보안 및 비보안 업데이트: KB4495300](https://support.microsoft.com/ko-KR/help/4495300)
-
-
-  [2019년 3월용 보안 및 비보안 업데이트: KB4491754](https://support.microsoft.com/ko-KR/help/4491754) 
+[2019년 3월용 보안 및 비보안 업데이트: KB4491754](https://support.microsoft.com/ko-KR/help/4491754) 
 
 [2019년 2월용 보안 및 비보안 업데이트: KB4488446](https://support.microsoft.com/help/4488446)
 

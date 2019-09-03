@@ -56,7 +56,6 @@ Office 365 및 온-프레미스 환경과의 Outlook 호환성은 배포에 대�
 
 |**최신 SP(서비스 팩)**|**최소 필수 업데이트**|**최신 PU(공개 업데이트)**|
 |:-----|:-----|:-----|
-|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br><br><br><br/> |2015년 10월 PU <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  MAPI/HTTP용 Office 2010의 2015년 4월 PU <br/> 
-  [KB2956191](https://support.microsoft.com/ko-KR/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |2019년 7월 PU <br/>[KB4475509](https://support.microsoft.com/help/4475509) <br><br><br><br/>|
+|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br><br><br><br/> |2015년 10월 PU <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  MAPI/HTTP용 Office 2010의 2015년 4월 PU <br/> [KB2956191](https://support.microsoft.com/ko-KR/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |2019년 7월 PU <br/>[KB4475509](https://support.microsoft.com/help/4475509) <br><br><br><br/>|
    
 

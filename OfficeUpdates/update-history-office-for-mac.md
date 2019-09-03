@@ -53,8 +53,7 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
 
 다음 표에서는 IT 전문가에게 유용할 수 있는 Microsoft의 기타 Mac 프로그램용 다운로드 링크를 포함하여, 최신 패키지에 대한 정보를 제공합니다. 빌드 날짜는 버전 번호 다음에 괄호로 묶여 YYMMDD 형식으로 표시됩니다.
 
-
-  **참고:** Microsoft 자동 업데이트 (MAU) 릴리스 정보는 [MAU 출시 기록](https://docs.microsoft.com/ko-KR/officeupdates/release-history-microsoft-autoupdate) 페이지로 이동 되었습니다.<br/><br/>
+**참고:** Microsoft 자동 업데이트 (MAU) 릴리스 정보는 [MAU 출시 기록](https://docs.microsoft.com/ko-KR/officeupdates/release-history-microsoft-autoupdate) 페이지로 이동 되었습니다.<br/><br/>
 
   
 |**프로그램**|**버전**|**패키지**|**추가 정보**|**SHA-1/SHA-256 해시**|

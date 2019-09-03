@@ -144,8 +144,7 @@ ms.locfileid: "35919122"
 **Twitter의 office 참가자**<br/> @OfficeInsider에서, 우리는 참가자 배포에 관해 자주 게시하고 참가자를 위한 특별 이벤트를 주최합니다.<br/> 
 [Twitter에서 팔로우](https://go.microsoft.com/fwlink/?linkid=717717)<br/> 
 
-
-  [
+[
   ![Facebook 아이콘을 보여주는 이미지](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/ko-KR/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)       
 
 

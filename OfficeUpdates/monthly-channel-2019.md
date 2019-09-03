@@ -21,8 +21,7 @@ ms.locfileid: "36631240"
 이 릴리스 정보는 Office 365용 Visio Pro, Project Online 데스크톱 클라이언트 및 Office 365 Business를 비롯한 2019년 Office 365 ProPlus의 월별 채널 업데이트에 포함된 새로운 기능 및 비보안 업데이트에 관한 정보를 제공합니다.
  
  > [!NOTE]
->- Microsoft는 일정 기간 동안 매월 기능(및 경우에 따라 수정 사항)을 롤아웃합니다.  아래에서 설명했던 내용이 바로 보이지 않으면 곧 예측할 수 있습니다. 
-  [자세한 정보](https://support.office.com/ko-KR/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+>- Microsoft는 일정 기간 동안 매월 기능(및 경우에 따라 수정 사항)을 롤아웃합니다.  아래에서 설명했던 내용이 바로 보이지 않으면 곧 예측할 수 있습니다. [자세한 정보](https://support.office.com/ko-KR/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- Office 365 ProPlus의 기존 설치에 대한 Microsoft Temas - 7월 초부터 Office 365 ProPlus(및 Office 365 Business)의 업데이트에 Microsoft Teams가 포함됩니다.  Teams가 추가되는 날짜는 사용 중인 업데이트 채널에 따라 다릅니다. 추가 정보는 [Office 365 ProPlus를 사용한 Microsoft Teams 배포](https://docs.microsoft.com/ko-KR/deployoffice/teams-install)를 참조하세요.
 
 
@@ -32,11 +31,9 @@ ms.locfileid: "36631240"
 
 ### <a name="excel-feature-updates"></a>Excel: 기능 업데이트
 
-- **그림 스케치:** 통합 문서에서 Office 도형에 손으로 그린 캐주얼한 모양을 넣을 수 있습니다. 
-  [자세한 정보](https://support.office.com/ko-KR/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
+- **그림 스케치:** 통합 문서에서 Office 도형에 손으로 그린 캐주얼한 모양을 넣을 수 있습니다. [자세한 정보](https://support.office.com/ko-KR/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
 
-- **검색하여 즐겁게 사용해 보세요.** 원하는 아이콘을 쉽게 찾을 수 있도록 검색하여 아이콘 삽입을 추가했습니다. 그리고 선택할 때, 삽입 단추를 클릭하여 선택한 수를 알 수 있습니다. 
-  [자세한 정보](https://support.office.com/ko-KR/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **검색하여 즐겁게 사용해 보세요.** 원하는 아이콘을 쉽게 찾을 수 있도록 검색하여 아이콘 삽입을 추가했습니다. 그리고 선택할 때, 삽입 단추를 클릭하여 선택한 수를 알 수 있습니다. [자세한 정보](https://support.office.com/ko-KR/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 - **남은 작업에 중점:** 설명을 축소하고 열린 항목을 강조하려면 해결을 선택하세요.
 
@@ -46,27 +43,21 @@ ms.locfileid: "36631240"
 
 ### <a name="outlook-feature-updates"></a>Outlook: 기능 업데이트
 
-- **위치 제안 받기:** 약속 및 모임을 예약할 때 위치 필드에 입력을 시작하면 Outlook에 회의실, 주소 및 기타 최근 장소가 제안됩니다. 
-  [자세한 정보](https://support.office.com/ko-KR/article/1d8631be-611a-4e3d-9109-b153e4622d53)
+- **위치 제안 받기:** 약속 및 모임을 예약할 때 위치 필드에 입력을 시작하면 Outlook에 회의실, 주소 및 기타 최근 장소가 제안됩니다. [자세한 정보](https://support.office.com/ko-KR/article/1d8631be-611a-4e3d-9109-b153e4622d53)
 
-- **검색하여 즐겁게 사용해 보세요.** 원하는 아이콘을 쉽게 찾을 수 있도록 검색하여 아이콘 삽입을 추가했습니다. 그리고 선택할 때, 삽입 단추를 클릭하여 선택한 수를 알 수 있습니다. 
-  [자세한 정보](https://support.office.com/ko-KR/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **검색하여 즐겁게 사용해 보세요.** 원하는 아이콘을 쉽게 찾을 수 있도록 검색하여 아이콘 삽입을 추가했습니다. 그리고 선택할 때, 삽입 단추를 클릭하여 선택한 수를 알 수 있습니다. [자세한 정보](https://support.office.com/ko-KR/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 기능 업데이트
 
-- **그림 스케치:** 프레젠테이션에서 Office 도형에 손으로 그린 캐주얼한 모양을 넣을 수 있습니다. 
-  [자세한 정보](https://support.office.com/ko-KR/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
+- **그림 스케치:** 프레젠테이션에서 Office 도형에 손으로 그린 캐주얼한 모양을 넣을 수 있습니다. [자세한 정보](https://support.office.com/ko-KR/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
 
-- **검색하여 즐겁게 사용해 보세요.** 원하는 아이콘을 쉽게 찾을 수 있도록 검색하여 아이콘 삽입을 추가했습니다. 그리고 선택할 때, 삽입 단추를 클릭하여 선택한 수를 알 수 있습니다. 
-  [자세한 정보](https://support.office.com/ko-KR/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **검색하여 즐겁게 사용해 보세요.** 원하는 아이콘을 쉽게 찾을 수 있도록 검색하여 아이콘 삽입을 추가했습니다. 그리고 선택할 때, 삽입 단추를 클릭하여 선택한 수를 알 수 있습니다. [자세한 정보](https://support.office.com/ko-KR/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="word-feature-updates"></a>Word: 기능 업데이트
 
-- **그림 스케치:** 문서에서 Office 도형에 손으로 그린 캐주얼한 모양을 넣을 수 있습니다. 
-  [자세한 정보](https://support.office.com/ko-KR/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
+- **그림 스케치:** 문서에서 Office 도형에 손으로 그린 캐주얼한 모양을 넣을 수 있습니다. [자세한 정보](https://support.office.com/ko-KR/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
 
-- **검색하여 즐겁게 사용해 보세요.** 원하는 아이콘을 쉽게 찾을 수 있도록 검색하여 아이콘 삽입을 추가했습니다. 그리고 선택할 때, 삽입 단추를 클릭하여 선택한 수를 알 수 있습니다. 
-  [자세한 정보](https://support.office.com/ko-KR/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **검색하여 즐겁게 사용해 보세요.** 원하는 아이콘을 쉽게 찾을 수 있도록 검색하여 아이콘 삽입을 추가했습니다. 그리고 선택할 때, 삽입 단추를 클릭하여 선택한 수를 알 수 있습니다. [자세한 정보](https://support.office.com/ko-KR/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ## <a name="version-1907-august-13"></a>버전 1907: 8월 13일
 *버전 1907 (빌드 11901.20218)*
@@ -90,42 +81,33 @@ ms.locfileid: "36631240"
 
 - **파워 쿼리 기능 향상을 통한 신속한 코드:** 자동 완성 및 구문 색상을 사용하 여 신속하게 코드를 완성하세요. 함수, 열, 매개 변수를 쉽게 검색할 수 있습니다.
 
-- **지도 차트 만들기:** 이 기능은 Excel의 지리 데이터 형식을 사용하여 등치 지역도 차트를 그리는 사용자에게 유용한 개선 사항입니다. 기능과 최종 사용자가 매핑하고자 하는 지역의 정확성의 통합성을 향상하는 이점을 최종 사용자에게 제공합니다. 추가적인 이점은 도시 폴리곤을 매핑할 수 있다는 점입니다. 
-  [자세한 정보](https://support.office.com/ko-KR/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+- **지도 차트 만들기:** 이 기능은 Excel의 지리 데이터 형식을 사용하여 등치 지역도 차트를 그리는 사용자에게 유용한 개선 사항입니다. 기능과 최종 사용자가 매핑하고자 하는 지역의 정확성의 통합성을 향상하는 이점을 최종 사용자에게 제공합니다. 추가적인 이점은 도시 폴리곤을 매핑할 수 있다는 점입니다. [자세한 정보](https://support.office.com/ko-KR/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
-- **유사한 열의 테이블 조인:** 가져오기 및 변환 기능(파워 쿼리)은 테이블 병합을 위해 열을 비교하는 경우 근사 텍스트 매칭 논리(퍼지 매칭)를 특징으로 합니다. 
-  [자세한 정보](https://support.office.com/ko-KR/article/ffdd5082-c0c8-4c8e-a794-bd3962b90649)
+- **유사한 열의 테이블 조인:** 가져오기 및 변환 기능(파워 쿼리)은 테이블 병합을 위해 열을 비교하는 경우 근사 텍스트 매칭 논리(퍼지 매칭)를 특징으로 합니다. [자세한 정보](https://support.office.com/ko-KR/article/ffdd5082-c0c8-4c8e-a794-bd3962b90649)
 
 ### <a name="outlook-feature-updates"></a>Outlook: 기능 업데이트
 
-- **사람을 검색할 때 전자 메일 제안 받기:** 검색 상자에 사람의 이름을 입력하면 가장 관련성이 높은 전자 메일 메시지가 검색 제안에 포함됩니다. 
-  [자세한 정보](https://support.office.com/ko-KR/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
+- **사람을 검색할 때 전자 메일 제안 받기:** 검색 상자에 사람의 이름을 입력하면 가장 관련성이 높은 전자 메일 메시지가 검색 제안에 포함됩니다. [자세한 정보](https://support.office.com/ko-KR/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 기능 업데이트
 
 - **더 이상 브라우저에 바운싱하지 않음:** 브라우저나 앱에서 Office 문서에 대한 링크를 여는 방법을 결정합니다.
 
-- **온라인 비디오의 새로운 홈:** 조직의 모든 사람이 볼 수 있도록 비디오를 Microsoft Stream에 저장하세요. 비디오 링크를 삽입하고 파일 크기의 일부로 멀티미디어 프레젠테이션을 즐겨보세요. 
-  [자세한 정보](https://support.office.com/ko-KR/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
+- **온라인 비디오의 새로운 홈:** 조직의 모든 사람이 볼 수 있도록 비디오를 Microsoft Stream에 저장하세요. 비디오 링크를 삽입하고 파일 크기의 일부로 멀티미디어 프레젠테이션을 즐겨보세요. [자세한 정보](https://support.office.com/ko-KR/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
 
-- **지도 차트 만들기:** 이 기능은 Excel의 지리 데이터 형식을 사용하여 등치 지역도 차트를 그리는 사용자에게 유용한 개선 사항입니다. 기능과 최종 사용자가 매핑하고자 하는 지역의 정확성의 통합성을 향상하는 이점을 최종 사용자에게 제공합니다. 추가적인 이점은 도시 폴리곤을 매핑할 수 있다는 점입니다. 
-  [자세한 정보](https://support.office.com/ko-KR/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+- **지도 차트 만들기:** 이 기능은 Excel의 지리 데이터 형식을 사용하여 등치 지역도 차트를 그리는 사용자에게 유용한 개선 사항입니다. 기능과 최종 사용자가 매핑하고자 하는 지역의 정확성의 통합성을 향상하는 이점을 최종 사용자에게 제공합니다. 추가적인 이점은 도시 폴리곤을 매핑할 수 있다는 점입니다. [자세한 정보](https://support.office.com/ko-KR/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
-- **유인물의 슬라이드 번호 인쇄 설정은 보다 쉬운 액세스를 위해 인쇄 메뉴로 이동했습니다:** 유인물 레이아웃을 선택할 때 인쇄 > 인쇄 레이아웃 드롭다운에서 찾을 수 있습니다. 또한 프레젠테이션마다 손쉽게 설정을 전환할 수 있습니다. 
-  [자세한 정보](https://support.office.com/ko-KR/article/194d4320-aa03-478b-9300-df25f0d15dc4)
+- **유인물의 슬라이드 번호 인쇄 설정은 보다 쉬운 액세스를 위해 인쇄 메뉴로 이동했습니다:** 유인물 레이아웃을 선택할 때 인쇄 > 인쇄 레이아웃 드롭다운에서 찾을 수 있습니다. 또한 프레젠테이션마다 손쉽게 설정을 전환할 수 있습니다. [자세한 정보](https://support.office.com/ko-KR/article/194d4320-aa03-478b-9300-df25f0d15dc4)
 
 ### <a name="word-feature-updates"></a>Word: 기능 업데이트
 
-- **더 이상 혼란을 겪지 마세요:** Mac에서 자주 사용되는 기능이 Windows에 도입되었습니다! 보기 메뉴에서 포커스로 전환하면 주의를 산만하게 하는 요인들을 제거하고 작업에 집중할 수 있습니다. 
-  [자세한 정보](https://support.office.com/ko-KR/article/51af2fb2-194f-424b-ab7e-b65de9ec9292)
+- **더 이상 혼란을 겪지 마세요:** Mac에서 자주 사용되는 기능이 Windows에 도입되었습니다! 보기 메뉴에서 포커스로 전환하면 주의를 산만하게 하는 요인들을 제거하고 작업에 집중할 수 있습니다. [자세한 정보](https://support.office.com/ko-KR/article/51af2fb2-194f-424b-ab7e-b65de9ec9292)
 
 - **더 이상 브라우저에 바운싱하지 않음:** 브라우저나 앱에서 Office 문서에 대한 링크를 여는 방법을 결정합니다.
 
-- **지도 차트 만들기:** 이 기능은 Excel의 지리 데이터 형식을 사용하여 등치 지역도 차트를 그리는 사용자에게 유용한 개선 사항입니다. 기능과 최종 사용자가 매핑하고자 하는 지역의 정확성의 통합성을 향상하는 이점을 최종 사용자에게 제공합니다. 추가적인 이점은 도시 폴리곤을 매핑할 수 있다는 점입니다. 
-  [자세한 정보](https://support.office.com/ko-KR/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+- **지도 차트 만들기:** 이 기능은 Excel의 지리 데이터 형식을 사용하여 등치 지역도 차트를 그리는 사용자에게 유용한 개선 사항입니다. 기능과 최종 사용자가 매핑하고자 하는 지역의 정확성의 통합성을 향상하는 이점을 최종 사용자에게 제공합니다. 추가적인 이점은 도시 폴리곤을 매핑할 수 있다는 점입니다. [자세한 정보](https://support.office.com/ko-KR/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
-- **정확하게 지우기:** 두 개의 지우개 크기 중에 선택하고 작은 잉킹 결함을 수정하세요. 
-  [자세한 정보](https://support.office.com/ko-KR/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+- **정확하게 지우기:** 두 개의 지우개 크기 중에 선택하고 작은 잉킹 결함을 수정하세요. [자세한 정보](https://support.office.com/ko-KR/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
 ## <a name="version-1906-july-09"></a>버전 1906: 7월 9일
 *버전 1906 (빌드 11727.20244)*
@@ -161,28 +143,23 @@ ms.locfileid: "36631240"
 
 ### <a name="excel-feature-updates"></a>Excel: 기능 업데이트
 
-- **생동감 있는 워크시트 보기:** 애니메이션 3D 그래픽을 삽입하여 워크북을 통해 심장 박동, 행성 궤도, 공룡 난동 모습 등을 표시합니다. 
-  [자세한 정보](https://support.office.com/ko-KR/article/6f08009a-3da5-400d-a706-8e23f304cd72)
+- **생동감 있는 워크시트 보기:** 애니메이션 3D 그래픽을 삽입하여 워크북을 통해 심장 박동, 행성 궤도, 공룡 난동 모습 등을 표시합니다. [자세한 정보](https://support.office.com/ko-KR/article/6f08009a-3da5-400d-a706-8e23f304cd72)
 
 ### <a name="outlook-feature-updates"></a>Outlook: 기능 업데이트
 
-- **사용자 지정이 가능한 간단한 리본:** 가장 많이 사용하는 단추가 한 행에 표시되어 간편합니다. 클래식 및 요약 보기 간의 간편한 전화 및 명령 고정/고정 해제 
-  [자세한 정보](https://support.office.com/ko-KR/article/44bef9c3-295d-4092-b7f0-f471fa629a98)
+- **사용자 지정이 가능한 간단한 리본:** 가장 많이 사용하는 단추가 한 행에 표시되어 간편합니다. 클래식 및 요약 보기 간의 간편한 전화 및 명령 고정/고정 해제 [자세한 정보](https://support.office.com/ko-KR/article/44bef9c3-295d-4092-b7f0-f471fa629a98)
 
 - **자주 하는 작업 선택:** 플래그 및 삭제를 사용하지 않나요? [보관] 또는 [읽은 상태로 표시]는 어떤가요? 가장 많이 사용하는 명령으로 빠른 작업 메뉴를 사용자 지정합니다.
 
 - **여러 폴더가 포함된 사서함의 공유 폴더 동기화가 향상됨:** 수년 동안 공유 사서함을 동기화하는 경우 Outlook이 최대 500개 폴더로 제한되었습니다. 이 변경을 통해 Outlook은 이 500개 폴더 제한이 더 이상 적용되지 않도록 동기화 방식을 개선했습니다.
 
-- **중요 받은 편지함 설정은 장치 간에 동일 하게 유지:** 이제 중요 받은 편지함의 기본 설정이 클라우드에 저장됩니다. Outlook을 사용하여 웹상의 Outlook과 모든 컴퓨터에서 Outlook for Windows를 사용하고 동일한 환경을 경험할 수 있습니다. 
-  [자세한 정보](https://support.office.com/ko-KR/article/d77a442e-a86c-4bf8-b3dd-5571ae556986)
+- **중요 받은 편지함 설정은 장치 간에 동일 하게 유지:** 이제 중요 받은 편지함의 기본 설정이 클라우드에 저장됩니다. Outlook을 사용하여 웹상의 Outlook과 모든 컴퓨터에서 Outlook for Windows를 사용하고 동일한 환경을 경험할 수 있습니다. [자세한 정보](https://support.office.com/ko-KR/article/d77a442e-a86c-4bf8-b3dd-5571ae556986)
 
 - **보통 또는 더 좁은 간격 선택:** 더 좁은 간격을 사용하면 항목 간에 더 넓은 공백을 할지 또는 더 좁은 레이아웃을 사용하여 더 많은 항목을 표시할지를 결정할 수 있습니다.
 
-- **Outlook 사용자 환경이 업데이트됨:** 출시 예정을 사용하여 이전에 미리 볼 수 있었던 간소화된 환경은 가장 중요한 작업에 집중할 수 있도록 설계되었습니다. 
-  [자세한 정보](https://support.office.com/ko-KR/article/db503157-1b45-45d5-af52-e9c978cd8bed)
+- **Outlook 사용자 환경이 업데이트됨:** 출시 예정을 사용하여 이전에 미리 볼 수 있었던 간소화된 환경은 가장 중요한 작업에 집중할 수 있도록 설계되었습니다. [자세한 정보](https://support.office.com/ko-KR/article/db503157-1b45-45d5-af52-e9c978cd8bed)
 
-- **그리기 기능:** 그림 위쪽에서 낙서를 하거나 그리기 캔버스를 추가하여 잉크로 내 생각을 전달할 수 있습니다. 
-  [자세한 정보](https://support.office.com/ko-KR/article/3e928cae-7eb5-4c3f-8c60-28eb85afb7d5)
+- **그리기 기능:** 그림 위쪽에서 낙서를 하거나 그리기 캔버스를 추가하여 잉크로 내 생각을 전달할 수 있습니다. [자세한 정보](https://support.office.com/ko-KR/article/3e928cae-7eb5-4c3f-8c60-28eb85afb7d5)
 
 ### <a name="word-feature-updates"></a>Word: 기능 업데이트
 
@@ -291,7 +268,7 @@ ms.locfileid: "36631240"
 ## <a name="version-1904-may-14"></a>버전 1904: M5월 14일 
 *버전 1904(빌드 11601.20204)*
 
- - 보안 업데이트는 [여기](https://docs.microsoft.com/ko-KR/OfficeUpdates/office365-proplus-security-updates)에 나열됩니다.
+ - 보안 업데이트는 [여기](https://docs.microsoft.com/ko-KR/officeupdates/office365-proplus-security-updates)에 나열됩니다.
 
 ## <a name="version-1904-may-8"></a>버전 1904: 5월 8일
 *버전 1904(빌드 11601.20178)*
@@ -356,7 +333,7 @@ ms.locfileid: "36631240"
 ## <a name="version-1903-april-9"></a>버전 1903: 4월 9일
 *버전 1903(빌드 11425.20204)* 
 
-- 보안 업데이트는 [여기](https://docs.microsoft.com/ko-KR/OfficeUpdates/office365-proplus-security-updates)에 나열되어 있습니다.
+- 보안 업데이트는 [여기](https://docs.microsoft.com/ko-KR/officeupdates/office365-proplus-security-updates)에 나열되어 있습니다.
 
 ### <a name="skype-for-business-non-security-updates"></a>비즈니스용 Skype: 비보안 업데이트
 - Lync(비즈니스용 Skype)에서 참가자가 7 명 이상인 온라인 모임에서 모임 창이 사라질 수있는 문제가 해결되었습니다.
@@ -421,8 +398,7 @@ ms.locfileid: "36631240"
 
 ### <a name="outlook-feature-updates"></a>Outlook: 기능 업데이트
 
-- 
-  **연달아 있는 모임 사이에 시간 넣기: **모임이 기본적으로 5~10분 일찍 끝나도록 설정하여 참석자에게 잠시 숨을 돌리거나 장소를 이동할 시간을 줄 수 있습니다. [자세히 알아보기](https://support.office.com/ko-KR/article/Schedule-a-meeting-with-other-people-5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F#BKMK_endmeetingsearly)
+- **연달아 있는 모임 사이에 시간 넣기: **모임이 기본적으로 5~10분 일찍 끝나도록 설정하여 참석자에게 잠시 숨을 돌리거나 장소를 이동할 시간을 줄 수 있습니다. [자세히 알아보기](https://support.office.com/ko-KR/article/Schedule-a-meeting-with-other-people-5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F#BKMK_endmeetingsearly)
 - **소리내어 읽기를 사용하여 전자 메일 듣기:** Outlook에서 텍스트를 강조 표시하며 전자 메일을 소리내어 읽어 줍니다. 소리내어 읽기를 설정하려면 접근성 설정으로 이동하세요. [자세히 알아보기](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
 - **필터가 적용된 SVG 삽입:** Office 사용자는 이제 필터가 적용된 SVG를 삽입할 수 있습니다. [자세히 알아보기](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
@@ -441,8 +417,7 @@ ms.locfileid: "36631240"
  
 ### <a name="office-suite-feature-updates"></a>Office 제품군: 기능 업데이트
 
-- 
-  **Microsoft Teams 설치:**  Office 365 ProPlus를 새로 설치하면 Microsoft Teams가 기본적으로 설치됩니다. [자세히 알아보기](https://docs.microsoft.com/ko-KR/DeployOffice/teams-install)
+- **Microsoft Teams 설치:**  Office 365 ProPlus를 새로 설치하면 Microsoft Teams가 기본적으로 설치됩니다. [자세히 알아보기](https://docs.microsoft.com/ko-KR/deployoffice/teams-install)
 
 ## <a name="version-1901-february-12"></a>버전 1901: 2월 12일
 *버전 1901(빌드 11231.20174)* 
