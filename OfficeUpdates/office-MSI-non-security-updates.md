@@ -3,19 +3,19 @@ title: Windows Installer(MSI)를 사용하는 Office 버전에 대한 최신 비
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 08/07/2019
+ms.date: 09/04/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Office 2016, Office 2013 및 Office 2010 영구 버전의 최신 비보안 업데이트 정보에 대한 링크를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 4109b10a199d09b2bcf4515d9f63f1107de71846
-ms.sourcegitcommit: 092ddd24dee36b99293d3d9231bef014cc21fbc1
+ms.openlocfilehash: 8e9dbe270b0cd2104f73f363b865f6c3d8b498df
+ms.sourcegitcommit: bd6e681bdde320ee6d55f7d4e4434d4f0cde7a81
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36231593"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "36713541"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Windows Installer(MSI)를 사용하는 Office 버전에 대한 최신 비보안 업데이트
 
@@ -26,6 +26,23 @@ ms.locfileid: "36231593"
 > - 이 문서의 정보는 Office 365 ProPlus와 같은 Office 365 버전의 Office에는 적용되지 않습니다.
 > - Office 업데이트 설치에 대한 자세한 내용은 [Office 업데이트 설치](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)를 참조하세요.
 <br/><br/>
+
+## <a name="september-3-2019"></a>2019년 9월 3일
+
+**Office 2016**<br/>
+Microsoft Office 2016에 대한 업데이트([KB3114852](https://support.microsoft.com/help/3114852))<br/>
+Microsoft Office 2016에 대한 업데이트([KB4011629](https://support.microsoft.com/help/4011629))<br/>
+Microsoft Office 2016에 대한 업데이트([KB4464531](https://support.microsoft.com/help/4464531))<br/>
+Microsoft Office 2016에 대한 업데이트([KB4464584](https://support.microsoft.com/help/4464584))<br/>
+Microsoft Office 2016에 대한 업데이트([KB4475580](https://support.microsoft.com/help/4475580))<br/>
+Microsoft Outlook 2016에 대한 업데이트([KB4475593](https://support.microsoft.com/help/4475593))<br/>
+Microsoft Word 2016에 대한 업데이트([KB4475592](https://support.microsoft.com/help/4475592))<br/>
+비즈니스용 Skype 2016에 대한 업데이트([KB4475577](https://support.microsoft.com/help/4475577))<br/>
+
+**Office 2013**<br/>
+Microsoft Office 2013에 대한 업데이트([KB4475562](https://support.microsoft.com/help/4475562))<br/><br/>
+
+
 
 ## <a name="august-6-2019"></a>2019년 8월 6일
 
