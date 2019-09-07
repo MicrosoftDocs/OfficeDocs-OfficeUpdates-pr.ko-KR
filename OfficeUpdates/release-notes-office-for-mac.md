@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Office 356 구독자를 위한 Mac용 Office 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 2a7afe03d5c5ba0b99dad4844ae8c71b8abc9217
-ms.sourcegitcommit: 4880505c8bb9bf7692755ba54faa980a6bff94de
+ms.openlocfilehash: e5a7cf72e1b8c98f877f469c664139a3663d4ff4
+ms.sourcegitcommit: fc06058bc54e91f57e3a147e6f3a02565e245e9f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36567208"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36758212"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac용 Office에 대한 릴리스 정보
 
@@ -115,6 +115,7 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
 ### <a name="word-feature-updates"></a>Word: 기능 업데이트
 
 - **\@@멘션**으로 주의 끌기: 메모에 @멘션을 사용하여 입력이 필요하다는 사실을 동료들에게 알립니다.
+- **공동 작성 향상**: 문서를 공동 작성하는 경우 Word 성능이 향상 됩니다.
 
 ### <a name="word-security-updates"></a>Word: 보안 업데이트
 
