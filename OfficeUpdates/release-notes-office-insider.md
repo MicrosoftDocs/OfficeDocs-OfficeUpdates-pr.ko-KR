@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 0e33b8b29604cf5ada95a5d996dc8959750a0f7b
-ms.sourcegitcommit: 309b405d7fdfe3ca7d6c9da179b6c7ddb34378b1
+ms.openlocfilehash: e670e0faf90aa736a5270bd525c5020c0f547524
+ms.sourcegitcommit: 899d752cdb5c5b77c6247499ea4ac74b5ac5cc9a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/30/2019
-ms.locfileid: "36693885"
+ms.lasthandoff: 09/06/2019
+ms.locfileid: "36785415"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 참가자에 대한 릴리스 정보
 
@@ -29,6 +29,60 @@ ms.locfileid: "36693885"
 
 [//]: # (제거하지 마세요)
 
+
+## <a name="version-1910-september-06"></a>버전 1910: 9월 6일
+*버전 1910(빌드 12030.20004)*
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="excel"></a>Excel
+
+- **준비, 설정, 그리기:** Surface 펜을 들어 그리기를 시작할 수 있습니다. [자세한 정보](https://support.office.com/ko-KR/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **준비, 설정, 그리기:** Surface 펜을 들어 그리기를 시작할 수 있습니다. [자세한 정보](https://support.office.com/ko-KR/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+### <a name="word"></a>Word
+
+- **준비, 설정, 그리기:** Surface 펜을 들어 그리기를 시작할 수 있습니다. [자세한 정보](https://support.office.com/ko-KR/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="non-security-updates"></a>비보안 업데이트
+### <a name="excel"></a>Excel
+
+- <div><span>리본에 있는 글꼴 이름이 사용중인 글꼴과 다를 수 있는 문제가 해결되었습니다.</span></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>Internet Explorer에서 제한된 사이트에 대해 보호 모드가 해제된 경우 Outlook에서 부적절한 리소스 소비가 발생할 수 있는 문제를 해결했습니다.</span></div>
+
+
+- <div><span>ANSI 원본의 텍스트를 붙여넣을 때 유니코드 문자가 표시될 수 있는 문제를 해결했습니다.</span></div>
+
+
+- <div><span>일부 사용자가 그룹 일정 보기에서 오프라인으로 잘못 표시되는 문제를 해결했습니다.</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>표 서식이 손실될 수 있는 문제를 해결했습니다.</span></div>
+
+
+- <div><span>Ctrl + v 단축키가 손상될 수 있는 문제를 해결했습니다.</span></div>
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-1909-august-30"></a>버전 1909: 8월 30일
 *버전 1909 (빌드 12026.20000)*
