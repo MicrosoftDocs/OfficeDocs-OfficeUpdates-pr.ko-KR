@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 반기 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: fbd9e068fe2a258020e81b06550656d781fb447f
-ms.sourcegitcommit: e46cbcba082c5f2394cc3282a9edb756a33cbc85
+ms.openlocfilehash: 9d7decd6b91045b9a7669428749c4fc3d7b3cc0d
+ms.sourcegitcommit: 1c1b860767b1ebeb1b5183f44c086be6d3d68704
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36672908"
+ms.lasthandoff: 09/11/2019
+ms.locfileid: "36838299"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019년 반기 채널 릴리스에 대한 릴리스 정보
 
@@ -23,6 +23,45 @@ ms.locfileid: "36672908"
 > [!NOTE]
 > - Microsoft는 일정 기간 동안 반기 채널 기능(및 경우에 따라 수정 사항)을 롤아웃합니다. 아래에서 설명했던 내용이 바로 보이지 않으면 곧 예측할 수 있습니다. [자세한 정보](https://support.office.com/ko-KR/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - 반기 채널 사용자가 Office 포털에서 Windows 10용 Office 365를 다운로드 및 설치하면 기본적으로 OneNote 2016이 포함되지 않습니다.
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-1902-september-10"></a>버전 1902: 9월 10일
+*버전 1902 (빌드 11328.20420)*
+
+보안 업데이트가 [여기](https://docs.microsoft.com/ko-KR/officeupdates/office365-proplus-security-updates)에 나열되어 있습니다.
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="non-security-updates"></a>비보안 업데이트
+### <a name="access"></a>Access
+
+- Microsoft Access의 특정 쿼리가 이전 빌드에서 더 느리게 실행되게 하는 문제가 해결되었습니다.
+
+### <a name="outlook"></a>Outlook
+
+- 사용자가 클라우드 첨부를 사용할 때 “해당 파일을 찾을 수 없습니다. 경로 및 파일 이름이 맞는지 확인하세요”의 오류 메시지가 나타나는 일시적인 서비스 문제가 해결되었습니다. [자세한 정보](https://support.office.com/ko-KR/article/outlook-unable-to-attach-onedrive-or-sharepoint-files-to-emails-136951bb-60dc-478a-b916-6ee39e62c37a)
+
+- Outlook에서 OneDrive 또는 Sharepoint로 업로드 된 파일의 이름이 밑줄로 인해 여러 개의 문자로 변경되는 오류가 해결되었습니다.
+
+### <a name="word"></a>Word
+
+- 사용자가 Word 문서에서 공동작업하는 동안 오류 메시지를 받는 문제가 해결되었습니다.
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-1808-september-10"></a>버전 1808: 9월 10일
+*버전 1808 (빌드 10730.20380)*
+
+보안 업데이트가 [여기](https://docs.microsoft.com/ko-KR/officeupdates/office365-proplus-security-updates)에 나열되어 있습니다.
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="non-security-updates"></a>비보안 업데이트
+### <a name="access"></a>Access
+
+- Microsoft Access의 특정 쿼리가 이전 빌드에서 더 느리게 실행되게 하는 문제가 해결되었습니다.
 
 ## <a name="version-1902-august-13"></a>버전 1902: 8월 13일
 *버전 1902 (빌드 11328.20392)*

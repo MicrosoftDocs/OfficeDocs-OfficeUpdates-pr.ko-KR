@@ -3,19 +3,19 @@ title: MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 8/14/2019
+ms.date: 9/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT 전문가에게 MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록을 제공합니다.
-ms.openlocfilehash: 9b86b9c383805cc6f29bdeaad9416b951443f21a
-ms.sourcegitcommit: fa36d5fbddce8fc94c98eaf81acdfa2fce370958
+ms.openlocfilehash: e4340d6a2d77f7b99febad35f8a5c046f89f023c
+ms.sourcegitcommit: 1c1b860767b1ebeb1b5183f44c086be6d3d68704
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/15/2019
-ms.locfileid: "36429942"
+ms.lasthandoff: 09/11/2019
+ms.locfileid: "36838188"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록
  
@@ -29,8 +29,28 @@ ms.locfileid: "36429942"
 > - 다운로드 링크는 Microsoft 자동 업데이트의 가장 최근 릴리스에 대해서만 제공됩니다.
 > - Microsoft 자동 업데이트는 Microsoft의 다양한 Mac 제품에 대한 업데이트를 제공합니다. 따라서 Mac용 Office를 실행하고 있지 않더라도 Microsoft 자동 업데이트를 업데이트하라는 알림을 받을 수 있습니다.
 
-릴리스 정보를 확인하려면 [릴리스 정보](release-notes-office-for-mac.md)를 참고하십시오.<br/><br/>
+릴리스 정보를 확인하려면 [릴리스 정보](release-notes-office-for-mac.md)를 참고하세요.<br/><br/>
 
+## <a name="september-2019-release"></a>2019년 9월 릴리스
+
+**릴리스 날짜:** 2019년 9월 10일
+
+*Microsoft 자동 업데이트 4.15*
+
+ **기능 업데이트:**
+
+- MAU Update 마감일 알림은 최종 사용자에게 마감 시간을 로컬 디바이스의 시간 형식으로 표시합니다.
+- 이제 MAU AU 데몬을 Microsoft Update Assistant라고 합니다.
+- 'msupdate' 명령을 실행할 때 포그라운드 앱에서 포커스가 없어지는 문제가 해결되었습니다.
+
+
+**MAU 업데이트 링크:**
+
+[Microsoft 자동 업데이트 4.15 패키지 다운로드](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 해시:**
+
+E5D4EADF632745115CD4819DAB3B1A1838FA8263ECDDC6E621AEA19A3C84F6F7<br/><br/>
 ## <a name="august-2019-release"></a>2019년 8월 릴리스
 
 **릴리스 날짜:** 2019년 8월 13일
@@ -49,7 +69,7 @@ ms.locfileid: "36429942"
 <br/>
 **SHA-256 해시:**
 
-76FA706E9E5B717D333B7EFB5AB95FCF9EE3E571A7FF171CA25E77CA6E9EBD97
+76FA706E9E5B717D333B7EFB5AB95FCF9EE3E571A7FF171CA25E77CA6E9EBD97<br/><br/>
 ## <a name="july-2019-release"></a>2019년 7월 릴리스
 
 **릴리스 날짜:** 2019년 7월 18일
@@ -154,6 +174,8 @@ FF676870D5B3521202095810B85DEF36538B59E00AEA44A2ED0D7EA8B3B99D6C
 
 |**릴리스 날짜**|**버전**|**추가 정보**||
 |:-----|:-----|:-----|:-----|
+|2019년 9월 10일 <br/>|4.15 <br/> |  <br/> ||
+|2019년 8월 13일 <br/>|4.14 <br/> |  <br/> ||
 |2019년 7월 18일 <br/>|4.13 <br/> |  <br/> ||
 |2019년 6월 27일 <br/>2019년 6월 9일|4.12 <br/> | <br/> ||
 |2019년 5월 14일 <br/>|4.11 <br/> |  <br/> | <br/> |
