@@ -465,8 +465,7 @@ ms.locfileid: "33568608"
 -   [CVE-2018-0950](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0950): Microsoft Office 정보 노출 취약성
 -   [CVE-2018-1026](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-1026): Microsoft Office 원격 코드 실행 취약성
 -   [CVE-2018-1030](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-1030): Microsoft Office 원격 코드 실행 취약성
--   
-  **보안상의 이유로 Office에서 Flash, Silverlight 및 Shockwave 컨트롤이 활성화되지 않도록 차단:** 보안상의 이유로 Windows의 Office 365용 Microsoft Office의 새 빌드는 Flash, Silverlight 및 Shockwave 컨트롤의 활성화를 차단합니다. [여기](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729) 및 [여기](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US)에서 자세히 알아보세요.
+-   **보안상의 이유로 Office에서 Flash, Silverlight 및 Shockwave 컨트롤이 활성화되지 않도록 차단:** 보안상의 이유로 Windows의 Office 365용 Microsoft Office의 새 빌드는 Flash, Silverlight 및 Shockwave 컨트롤의 활성화를 차단합니다. [여기](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729) 및 [여기](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US)에서 자세히 알아보세요.
 
 ## <a name="version-1803-march-27"></a>버전 1803: 3월 27일
 *버전 1803(빌드 9126.2116)*
