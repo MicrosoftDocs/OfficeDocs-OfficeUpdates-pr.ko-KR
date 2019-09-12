@@ -3,19 +3,19 @@ title: Mac용 Office에 대한 릴리스 정보
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 8/14/2019
+ms.date: 9/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Office 356 구독자를 위한 Mac용 Office 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: e5a7cf72e1b8c98f877f469c664139a3663d4ff4
-ms.sourcegitcommit: fc06058bc54e91f57e3a147e6f3a02565e245e9f
+ms.openlocfilehash: 9459036de8424fcd9a9c0dc86a4f69aa8e8d88fa
+ms.sourcegitcommit: 1c1b860767b1ebeb1b5183f44c086be6d3d68704
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36758212"
+ms.lasthandoff: 09/11/2019
+ms.locfileid: "36838245"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac용 Office에 대한 릴리스 정보
 
@@ -34,6 +34,31 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
 > - 종종 일정 기간 월 단위 채널에 기능(및 때때로 수정 항목)을 출시하기도 합니다. 이를 통해 기능을 더 많은 대상 그룹에 출시하기 전에 모두 원활하게 작동하는지 확인할 수 있습니다. 따라서 아래에 설명된 문제가 보이지 않는 이상 결국 받게 되니 아무것도 걱정할 필요가 없습니다. [자세히 알아보기](https://support.office.com/ko-KR/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
 **참고:** Microsoft 자동 업데이트 (MAU) 릴리스 정보는 [MAU 릴리스 기록](https://docs.microsoft.com/ko-KR/officeupdates/release-history-microsoft-autoupdate) 페이지로 이동 되었습니다.<br/>
+
+## <a name="september-10-2019-release"></a>2019년 9월 10일 릴리스
+*버전 16.29 (빌드 19090802)*
+
+### <a name="word-feature-updates"></a>Word: 기능 업데이트
+
+- 다양한 성능 문제가 수정되었습니다.
+### <a name="excel--feature-updates"></a>Excel: 기능 업데이트
+
+- **전체 색상 시트 탭:** 워크시트에 대한 탭 색상을 선택하는 경우 쉽게 볼 수 있도록 전체 탭이 채워집니다.
+
+- **Mac의 로컬 파일에서 데이터 새로 고침:** Text, CSV, XLSX, XML 및 JSON 파일에서 Mac의 Power Query 쿼리를 새로 고침하세요. 
+
+ ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
+
+- [CVE-2019-1263](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1263): Microsoft Excel 정보 노출 취약성
+- [CVE-2019-1297](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1297): Microsoft Excel 원격 코드 실행 취약성
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint: 기능 업데이트
+
+- 다양한 성능 문제가 수정되었습니다.
+
+### <a name="outlook-feature-updates"></a>Outlook: 기능 업데이트
+
+- 다양한 성능 문제가 수정되었습니다.
 
 ## <a name="august-13-2019-release"></a>2019년 8월 13일 릴리스
 *버전 16.28 (빌드 19081202)*
