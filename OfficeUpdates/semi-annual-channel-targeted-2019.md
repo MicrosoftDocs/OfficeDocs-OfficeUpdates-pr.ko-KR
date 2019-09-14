@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 반기 채널(대상 지정) 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 6f03d240a0d61521398f37a4a813bd1e89a7a6ac
-ms.sourcegitcommit: 1c1b860767b1ebeb1b5183f44c086be6d3d68704
+ms.openlocfilehash: 5bf729562ac8c1f1dfa0c7741c87147080d62857
+ms.sourcegitcommit: 89effb1372d21b8cefa2fc5b64ce9294f8c303ac
 ms.translationtype: HT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 09/11/2019
-ms.locfileid: "36838289"
+ms.locfileid: "36841047"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019년 반기 채널(대상 지정) 릴리스에 대한 릴리스 정보
 
@@ -22,6 +22,9 @@ ms.locfileid: "36838289"
  
 > [!NOTE]
 > - Microsoft는 일정 기간 동안 반기 채널(대상) 기능(및 경우에 따라 수정 사항)을 롤아웃합니다. 아래에서 설명했던 내용이 바로 보이지 않으면 곧 예측할 수 있습니다. [자세한 정보](https://support.office.com/ko-KR/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+
+ > [!NOTE]
+> - Microsoft Teams는 버전 1902부터 반기 채널(대상 지정)의 새 설치에 포함됩니다. 버전 1908 이상으로 업데이트 되는 경우 기존 반기 채널(대상 지정) 설치에 Teams가 추가됩니다. 자세한 내용은 [Office 365 ProPlus와 함께 Microsoft Teams 배포](https://docs.microsoft.com/ko-KR/deployoffice/teams-install)를 참조하세요.
 
  
 ## <a name="version-1908-september-10"></a>버전 1908: 9월 10일
@@ -139,6 +142,8 @@ ms.locfileid: "36838289"
 - **더 이상 혼란을 겪지 마세요:** Mac에서 자주 사용되는 기능이 Windows에 도입되었습니다. 보기 메뉴에서 포커스로 전환하면 주의를 산만하게 하는 요인들을 제거하고 작업에 집중할 수 있습니다. [자세한 정보](https://support.office.com/ko-KR/article/51af2fb2-194f-424b-ab7e-b65de9ec9292)
 
 ### <a name="office-suite"></a>Office 제품군
+
+- **Microsoft Teams 설치:** Teams가 Office 365 ProPlus의 기존 설치에 추가되었습니다. [자세한 정보](https://docs.microsoft.com/ko-KR/deployoffice/teams-install)
 
 - **정보 위치에서 새로 노출된 단추와 문서 공유 및 문서 업로드:** 이전에는 문서 저장 경로 뒤에서만 공유, 클립보드에 경로 복사 및 파일 위치 열기 단추에 액세스할 수 있었습니다. 이제 정보 위치에 이러한 단추가 명확하게 표시됩니다. 파일 > 정보로 이동하면 평소처럼 이러한 단추가 표시됩니다.
 
@@ -475,7 +480,7 @@ ms.locfileid: "36838289"
 ### <a name="office-suite-feature-updates"></a>Office 제품군: 기능 업데이트
 
 - **이제 Office 타사 응용 프로그램에서 office.js API를 사용하는 SVG 삽입 지원:** Office에서 추가 기능으로도 알려져 있는 타사 응용 프로그램에 SVG 삽입 기능이 제공되므로 SVG 개인 컬렉션을 Office에 연결할 수 있습니다. 개발자들은 Office.js API를 통해 이 기능을 사용할 수 있습니다.
-- **Microsoft Teams 설치:**  Office 365 ProPlus를 새로 설치하면 Microsoft Teams가 기본적으로 설치됩니다. [자세한 정보](https://docs.microsoft.com/ko-KR/DeployOffice/teams-install)
+- **Microsoft Teams 설치:**  Office 365 ProPlus를 새로 설치하면 Microsoft Teams가 기본적으로 설치됩니다. [자세한 정보](https://docs.microsoft.com/ko-KR/deployoffice/teams-install)
 
 ### <a name="skype-for-business-feature-updates"></a>비즈니스용 Skype: 기능 업데이트
 

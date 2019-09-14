@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 9a6e0bbc189ebb970647fae2f9810505e327cfd8
-ms.sourcegitcommit: ba31adfbc9514f2c98d8420923696b1b77872621
+ms.openlocfilehash: 7972f00672f3f195695617a10d22a98d8a25ebe3
+ms.sourcegitcommit: f8b6acb84a922aa7fadb4c789bbd49f95c560c62
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "36631240"
+ms.lasthandoff: 09/13/2019
+ms.locfileid: "36973387"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -24,6 +24,37 @@ ms.locfileid: "36631240"
 >- Microsoft는 일정 기간 동안 매월 기능(및 경우에 따라 수정 사항)을 롤아웃합니다.  아래에서 설명했던 내용이 바로 보이지 않으면 곧 예측할 수 있습니다. [자세한 정보](https://support.office.com/ko-KR/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- Office 365 ProPlus의 기존 설치에 대한 Microsoft Temas - 7월 초부터 Office 365 ProPlus(및 Office 365 Business)의 업데이트에 Microsoft Teams가 포함됩니다.  Teams가 추가되는 날짜는 사용 중인 업데이트 채널에 따라 다릅니다. 추가 정보는 [Office 365 ProPlus를 사용한 Microsoft Teams 배포](https://docs.microsoft.com/ko-KR/deployoffice/teams-install)를 참조하세요.
 
+## <a name="version-1908-september-10"></a>버전 1908: 9월 10일
+*버전 1908 (빌드 11929.20300)*
+
+보안 업데이트가 [여기](https://docs.microsoft.com/ko-KR/officeupdates/office365-proplus-security-updates)에 나열되어 있습니다.
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="non-security-updates"></a>비보안 업데이트
+### <a name="outlook"></a>Outlook
+
+- 사용자가 화면 판독기를 통해 위치 제안에 액세스할 수 없게 된 문제가 해결되었습니다.
+
+- 일부 사용자가 Outlook에 대한 클라우드 설정을 검색할 때 인증 오류가 발생하는 문제가 해결되었습니다.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- PowerPoint 비디오 컨트롤에 대해 액세스 가능한 이름을 복원하는 문제가 해결되었습니다.
+
+- 일부 애니메이션이 시작되지 않도록 하는 문제를 해결했습니다.
+
+### <a name="word"></a>Word
+
+- SharePoint 2016에 저장된 파일을 공유하려고 할 때 "죄송합니다. 어떤 요인으로 인해 이 파일을 공유할 수 없습니다."라는 메시지가 표시되는 문제가 해결되었습니다.
+
+### <a name="office-suite"></a>Office 제품군
+
+- 큰 트리뷰가 실패하는 문제가 해결되었습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-1908-august-26"></a>버전 1908: 8월 26일
 *버전 1908(빌드 11929.20254)*
@@ -96,6 +127,8 @@ ms.locfileid: "36631240"
 - **온라인 비디오의 새로운 홈:** 조직의 모든 사람이 볼 수 있도록 비디오를 Microsoft Stream에 저장하세요. 비디오 링크를 삽입하고 파일 크기의 일부로 멀티미디어 프레젠테이션을 즐겨보세요. [자세한 정보](https://support.office.com/ko-KR/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
 
 - **지도 차트 만들기:** 이 기능은 Excel의 지리 데이터 형식을 사용하여 등치 지역도 차트를 그리는 사용자에게 유용한 개선 사항입니다. 기능과 최종 사용자가 매핑하고자 하는 지역의 정확성의 통합성을 향상하는 이점을 최종 사용자에게 제공합니다. 추가적인 이점은 도시 폴리곤을 매핑할 수 있다는 점입니다. [자세한 정보](https://support.office.com/ko-KR/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+
+- **프레젠테이션에 액세스할 수 있도록 슬라이드 제목 추가:** 접근성 검사를 사용하면 누락된 슬라이드 제목을 찾아 수정하는 데 도움이됩니다.
 
 - **유인물의 슬라이드 번호 인쇄 설정은 보다 쉬운 액세스를 위해 인쇄 메뉴로 이동했습니다:** 유인물 레이아웃을 선택할 때 인쇄 > 인쇄 레이아웃 드롭다운에서 찾을 수 있습니다. 또한 프레젠테이션마다 손쉽게 설정을 전환할 수 있습니다. [자세한 정보](https://support.office.com/ko-KR/article/194d4320-aa03-478b-9300-df25f0d15dc4)
 
