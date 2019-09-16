@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: e670e0faf90aa736a5270bd525c5020c0f547524
-ms.sourcegitcommit: 899d752cdb5c5b77c6247499ea4ac74b5ac5cc9a
+ms.openlocfilehash: 22fccba2af26eb0f8effd8ff516fbb57fb26fcfb
+ms.sourcegitcommit: d4f156d8437e56965f74a3add79f7aa7a42c00ed
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/06/2019
-ms.locfileid: "36785415"
+ms.lasthandoff: 09/12/2019
+ms.locfileid: "36972859"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 참가자에 대한 릴리스 정보
 
@@ -91,6 +91,11 @@ ms.locfileid: "36785415"
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
 ### <a name="feature-updates"></a>기능 업데이트
+
+### <a name="access"></a>Access
+
+- **연결된 표 빠르게 찾기:** 새 검색 상자를 사용하여 연결된 표를 간편하게 찾을 수 있습니다.
+
 ### <a name="powerpoint"></a>PowerPoint
 
 - **그림을 SVG로 저장:** 이미지 품질이 손실되지 않도록 크기를 조정할 수 있는 스케일 가능한 벡터 그래픽으로 차트, 도형 또는 기타 그림을 저장합니다. [자세한 정보](https://support.office.com/ko-KR/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
@@ -560,9 +565,18 @@ PowerPoint에 잉크 리플레이 애니메이션을 적용하면 프레젠테�
 
 프레젠테이션 초안을 작성 중인가요? 스케치 스타일을 적용하여 아직 작업 중임을 보여줍니다. 이 기능을 사용하면 개체를 자유형 도형, 손으로 그린 도형으로 변환하지 않고 개인적인 손길을 담을 수 있습니다.
 
+### <a name="excel"></a>Excel
+
+- **더 빠른 파일 공유**: 파일을 열지 않고 최근에 사용한 목록에서 문서를 바로 공유할 수 있습니다.
 ### <a name="powerpoint"></a>PowerPoint
 
 - **유인물의 슬라이드 번호 인쇄 설정은 보다 쉬운 액세스를 위해 인쇄 메뉴로 이동했습니다:** 유인물 레이아웃을 선택할 때 인쇄 > 인쇄 레이아웃 드롭다운에서 찾을 수 있습니다. 또한 프레젠테이션마다 손쉽게 설정을 전환할 수 있습니다. [자세한 정보](https://support.office.com/ko-KR/article/194d4320-aa03-478b-9300-df25f0d15dc4)
+
+- **더 빠른 파일 공유**: 파일을 열지 않고 최근에 사용한 목록에서 문서를 바로 공유할 수 있습니다.
+
+### <a name="word"></a>Word
+
+- **더 빠른 파일 공유**: 파일을 열지 않고 최근에 사용한 목록에서 문서를 바로 공유할 수 있습니다.
 
 ## <a name="notable-fixes"></a>중요 수정 사항:
 
@@ -617,6 +631,10 @@ PowerPoint에 잉크 리플레이 애니메이션을 적용하면 프레젠테�
 - **파워 쿼리 기능 향상을 통한 신속한 코드:** 자동 완성 및 구문 색상을 사용하 여 신속하게 코드를 완성하세요. 함수, 열, 매개 변수를 쉽게 검색할 수 있습니다.
 
 - **유사한 열의 테이블 조인:** 가져오기 및 변환 기능(파워 쿼리)은 테이블 병합을 위해 열을 비교하는 경우 근사 텍스트 매칭 논리(퍼지 매칭)를 특징으로 합니다.
+
+### <a name="word"></a>Word
+
+- **공동 작성 향상** : 공동 작성 시 신뢰도가 향상될 수 있습니다.
  
 ### <a name="word-excel-powerpoint-and-visio"></a>Word, Excel, PowerPoint 및 Visio
 
@@ -1036,6 +1054,12 @@ OneDrive 동기화 클라이언트 사용 및 Outlook 데스크톱의 파일 첨
 ## <a name="may-10-2019"></a>2019년 5월 10일
 버전 1906(빌드 11702.20000)
 
+## <a name="whats-new"></a>새로운 기능:
+
+### <a name="outlook"></a>Outlook
+
+**화면에 더 많은 메시지 맞춤:** 메시지 사이의 간격을 조정하려면 보기 > 더 좁은 간격 사용을 선택합니다.
+
 ## <a name="notable-fixes"></a>중요 수정 사항:
 
 ### <a name="all"></a>모두
@@ -1063,6 +1087,12 @@ OneDrive 동기화 클라이언트 사용 및 Outlook 데스크톱의 파일 첨
 
 ## <a name="may-3-2019"></a>2019년 5월 3일
 버전 1906(빌드 11629.20008)
+
+## <a name="whats-new"></a>새로운 기능:
+
+### <a name="outlook"></a>Outlook
+
+**모든 암호화 옵션을 한 곳에서 확인:** 전자 메일 메시지 보호 방법을 선택하려면 옵션 > 암호화로 이동합니다.
 
 ## <a name="notable-fixes"></a>중요 수정 사항:
 
@@ -1097,6 +1127,10 @@ OneDrive 동기화 클라이언트 사용 및 Outlook 데스크톱의 파일 첨
 버전 1905(빌드 11617.20002)
 
 ## <a name="new-features"></a>새로운 기능
+
+### <a name="outlook"></a>Outlook
+
+**공유 일정 업데이트 속도 향상:** Office 365의 공유 일정의 경우 Outlook에서 REST API를 사용하여 해당 일정을 업데이트할 수 있습니다. 미리 보기를 설정하여 공유 일정에 보다 빠르고 신뢰할 수 있는 업데이트를 설정합니다.
 
 ### <a name="excel"></a>Excel
 
@@ -1135,6 +1169,10 @@ OneDrive 동기화 클라이언트 사용 및 Outlook 데스크톱의 파일 첨
 버전 1905 (빌드 11609.20002)
 
 ## <a name="whats-new"></a>새로운 기능:
+
+### <a name="outlook"></a>Outlook
+
+**사람을 검색할 때 전자 메일 제안 받기:** 검색 상자에 사람의 이름을 입력하면 가장 관련성이 높은 전자 메일 메시지가 검색 제안에 포함됩니다.
 
 ### <a name="excel"></a>Excel
 
