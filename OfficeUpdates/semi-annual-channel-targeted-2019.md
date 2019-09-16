@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 반기 채널(대상 지정) 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 5bf729562ac8c1f1dfa0c7741c87147080d62857
-ms.sourcegitcommit: 89effb1372d21b8cefa2fc5b64ce9294f8c303ac
+ms.openlocfilehash: 3b3438087d34c0ce05606498e2eafea60ee516a6
+ms.sourcegitcommit: d4f156d8437e56965f74a3add79f7aa7a42c00ed
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/11/2019
-ms.locfileid: "36841047"
+ms.lasthandoff: 09/12/2019
+ms.locfileid: "36972819"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019년 반기 채널(대상 지정) 릴리스에 대한 릴리스 정보
 
@@ -219,7 +219,9 @@ ms.locfileid: "36841047"
 
 ### <a name="word"></a>Word
 
-- 사용자가 Word 문서에서 공동작업하는 동안 오류 메시지를 받는 문제가 해결되었습니다.
+- 사용자가 Word 문서에서 공동 작업하는 동안 오류 메시지를 받는 문제가 해결되었습니다.
+
+- SharePoint 2016에 저장된 파일을 공유하려고 할 때 "죄송합니다. 어떤 요인으로 인해 이 파일을 공유할 수 없습니다."라는 메시지가 표시되는 문제가 해결되었습니다.
 
 
 ### <a name="office-suite"></a>Office 제품군
