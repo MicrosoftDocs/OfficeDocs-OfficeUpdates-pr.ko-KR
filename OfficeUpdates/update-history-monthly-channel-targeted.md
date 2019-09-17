@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 월간 채널 업데이트 내역 제공 Windows 데스크톱의 대상 릴리스
-ms.openlocfilehash: 97418d7e2550bb4cd00795e37fc467a35fecb264
-ms.sourcegitcommit: 40287cc78e58338d63dc01c5361dc46417f51a5e
-ms.translationtype: HT
+ms.openlocfilehash: d906239f2973a7d8f5e3b7585f27b8a77c02db94
+ms.sourcegitcommit: 387fdd3ae168f420e1ed93ce7d486c5e0ff39e88
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/28/2019
-ms.locfileid: "35919122"
+ms.lasthandoff: 09/16/2019
+ms.locfileid: "36998624"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Windows용 월간(대상) 채널의 업데이트 내역
 
@@ -23,60 +23,75 @@ ms.locfileid: "35919122"
 
 ## <a name="office-insider-versions-and-builds"></a>Office 참가자 버전 및 빌드
 
-이전에 이후 참가자라고 했던 월 단위 채널(대상 지정) 수준에 등록한 경우 중요한 수정 또는 보안 업데이트가 포함된 후속 빌드와 함께 새 Office 기능 업데이트를 대략 한 달에 한 번 받습니다. 다음 목록에는 **가장 최근에 릴리스된 빌드 순서로** 나열된 최근 월 단위 채널(대상 지정) 버전이 나와 있습니다. 새 빌드에는 이전 빌드에 포함된 모든 업데이트가 포함됩니다. 릴리스 정보를 찾으려면 [Office 참가자의 새로운 기능](https://support.office.com/ko-KR/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24)을 참조하세요.
+이전에 이후 참가자라고 했던 월 단위 채널(대상 지정) 수준에 등록한 경우 중요한 수정 또는 보안 업데이트가 포함된 후속 빌드와 함께 새 Office 기능 업데이트를 대략 한 달에 한 번 받습니다. 다음 목록에는 **가장 최근에 릴리스된 빌드 순서로** 나열된 최근 월 단위 채널(대상 지정) 버전이 나와 있습니다. 새 빌드에는 이전 빌드에 포함된 모든 업데이트가 포함됩니다. 릴리스 정보를 찾으려면 [Office 참가자의 새로운 기능](https://support.office.com/en-us/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24)을 참조하세요.
 
 > [!NOTE]
 > - 업데이트 내역에는 릴리스된 모든 빌드가 나열됩니다.
 > - 릴리스 정보는 더 느린 흐름에 업데이트되며 릴리스 정보 게시 빌드 번호까지 여러 빌드에 대한 업데이트 컴파일이 될 수 있습니다.
 
  > [!NOTE]
-> - Office 365 ProPlus의 기존 설치에 대한 Microsoft Teams - 6월 말부터 Microsoft Teams가 Office 365 ProPlus(및 Office 365 Business)의 기존 설치에 업데이트 설치 시 포함됩니다. Teams가 추가되는 날짜는 사용 중인 업데이트 채널에 따라 다릅니다. 추가 정보는 [Office 365 ProPlus와 함께 Microsoft Teams 배포](https://docs.microsoft.com/ko-KR/deployoffice/teams-install)를 참조하세요.
+> - Microsoft 팀에서 Office 365 ProPlus의 기존 설치를 진행 하는 경우-지난 6 월부터 시작 하는 microsoft 팀은 이러한 설치 업데이트 시 Office 365 ProPlus (및 Office 365 Business)의 기존 설치에 포함 됩니다. 팀이 추가 되는 날짜는 사용 중인 업데이트 채널에 따라 달라 집니다. 자세한 내용은 [Office 365 ProPlus를 사용 하 여 Microsoft 팀 배포](https://docs.microsoft.com/en-us/deployoffice/teams-install) 를 참조 하세요.
 
-[//]: # (제거하지 마세요)
+[//]: # (제거하지 마십시오)
 
-**2019년 7월 27일**<br/>
+**2019 년 9 월 16 일**<br/>
+버전 1909 (빌드 12026.20190)<br/>
+
+**2019년 9월 10일**<br/>
+버전 1909 (빌드 12026.20108)<br/>
+
+**8 월 25 일, 2019**<br/>
+버전 1908 (빌드 11929.20254)<br/>
+
+**2019 년 8 월 16 일**<br/>
+버전 1908 (빌드 11929.20182)<br/>
+
+**2019 년 8 월 13 일**<br/>
+버전 1908 (빌드 11929.20114)<br/>
+
+**2019 년 7 월 27 일**<br/>
 버전 1907 (빌드 11901.20176)<br/>
 
-**2019년 7월 25일**<br/>
-버전 1907(빌드 11901.20156)<br/>
+**7 월 25 일, 2019**<br/>
+버전 1907 (빌드 11901.20156)<br/>
 
-**2019년 7월 22일**<br/>
-버전 1907(빌드 11901.20120)<br/>
+**2019 년 7 월 22 일**<br/>
+버전 1907 (빌드 11901.20120)<br/>
 
-**2019년 7월 15일**<br/>
-버전 1907(빌드 11901.20080)<br/>
+**7 월 15 일 2019**<br/>
+버전 1907 (빌드 11901.20080)<br/>
 
-**2019년 7월 9일**<br/>
-버전 1906(빌드 11727.20244)<br/>
+**2019 년 7 월 9 일**<br/>
+버전 1906 (빌드 11727.20244)<br/>
 
-**2019년 6월 27일**<br/>
-버전 1906(빌드 11727.20230)<br/>
+**2019 년 6 월 27 일**<br/>
+버전 1906 (빌드 11727.20230)<br/>
 
-**2019년 6월 26일**<br/>
-버전 1906(빌드 11727.20224)<br/>
+**2019 년 6 월 26 일**<br/>
+버전 1906 (빌드 11727.20224)<br/>
 
-**2019년 6월 23일**<br/>
+**2019 년 6 월 23 일**<br/>
 버전 1906 (빌드 11727.20210)<br/>
 
-**2019년 6월 20일**<br/>
-버전 1906(빌드 11727.20188)<br/>
+**2019 년 6 월 20 일**<br/>
+버전 1906 (빌드 11727.20188)<br/>
 
-**2019년 6월 11일**<br/>
+**2019 년 6 월 11 일**<br/>
 버전 1906 (빌드 11727.20104)<br/>
 
-**2019년 6월 3일**<br/>
-버전 1905(빌드 11629.20214)<br/>
+**2019 년 6 월 03 일**<br/>
+버전 1905 (빌드 11629.20214)<br/>
 
-**2019년 5월 25일**<br/>
+**5 월 25 일, 2019**<br/>
 버전 1905 (빌드 11629.20196)<br/>
 
-**2019년 5월 22일**<br/> 버전 1905(빌드 11629.20164)<br/>
+**5 월 22 일, 2019**<br/> 버전 1905 (빌드 11629.20164)<br/>
 
-**2019년 5월 16일**<br/>
-버전 1905(빌드 11629.20136)<br/>
+**5 월 16 일, 2019**<br/>
+버전 1905 (빌드 11629.20136)<br/>
 
-**2019년 5월 14일**<br/>
-버전 1904(빌드 11601.20204)<br/>
+**5 월 14 일 2019**<br/>
+버전 1904 (빌드 11601.20204)<br/>
 
 **2019년 5월 8일**<br/>
 버전 1904(빌드 11601.20178)<br/>
@@ -144,8 +159,9 @@ ms.locfileid: "35919122"
 **Twitter의 office 참가자**<br/> @OfficeInsider에서, 우리는 참가자 배포에 관해 자주 게시하고 참가자를 위한 특별 이벤트를 주최합니다.<br/> 
 [Twitter에서 팔로우](https://go.microsoft.com/fwlink/?linkid=717717)<br/> 
 
-[
-  ![Facebook 아이콘을 보여주는 이미지](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/ko-KR/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)       
+
+  [
+  ![Facebook 아이콘을 보여주는 이미지](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)       
 
 
 **새 기능을 먼저 받아보세요**
