@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 7972f00672f3f195695617a10d22a98d8a25ebe3
-ms.sourcegitcommit: f8b6acb84a922aa7fadb4c789bbd49f95c560c62
+ms.openlocfilehash: 39d280c0752083408c2cd3b8b370cdf04e1efd23
+ms.sourcegitcommit: d1718077f44805d5a7d0a7a0288847413a3e9d4f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/13/2019
-ms.locfileid: "36973387"
+ms.lasthandoff: 09/17/2019
+ms.locfileid: "37011678"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -128,7 +128,7 @@ ms.locfileid: "36973387"
 
 - **지도 차트 만들기:** 이 기능은 Excel의 지리 데이터 형식을 사용하여 등치 지역도 차트를 그리는 사용자에게 유용한 개선 사항입니다. 기능과 최종 사용자가 매핑하고자 하는 지역의 정확성의 통합성을 향상하는 이점을 최종 사용자에게 제공합니다. 추가적인 이점은 도시 폴리곤을 매핑할 수 있다는 점입니다. [자세한 정보](https://support.office.com/ko-KR/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
-- **프레젠테이션에 액세스할 수 있도록 슬라이드 제목 추가:** 접근성 검사를 사용하면 누락된 슬라이드 제목을 찾아 수정하는 데 도움이됩니다.
+- **프레젠테이션에 액세스할 수 있도록 슬라이드 제목 추가:** 접근성 검사를 사용하면 누락된 슬라이드 제목을 찾아 수정하는데 도움이됩니다. [자세한 정보](https://support.office.com/article/c5286802-495a-4b47-a8ae-212fb8a7dc74)
 
 - **유인물의 슬라이드 번호 인쇄 설정은 보다 쉬운 액세스를 위해 인쇄 메뉴로 이동했습니다:** 유인물 레이아웃을 선택할 때 인쇄 > 인쇄 레이아웃 드롭다운에서 찾을 수 있습니다. 또한 프레젠테이션마다 손쉽게 설정을 전환할 수 있습니다. [자세한 정보](https://support.office.com/ko-KR/article/194d4320-aa03-478b-9300-df25f0d15dc4)
 
