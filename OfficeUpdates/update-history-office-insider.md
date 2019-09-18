@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 참가자에게 Windows Desktop용 월 단위 채널 참가자 빠른 릴리스에 대한 업데이트 내역을 제공합니다.
-ms.openlocfilehash: aa36eeaa6eb95cbbf0675f0f6852fc43bfedda87
-ms.sourcegitcommit: ba31adfbc9514f2c98d8420923696b1b77872621
+ms.openlocfilehash: f83de6b5c8a56e0bc7ff83c3c4ac039171839ebc
+ms.sourcegitcommit: 387fdd3ae168f420e1ed93ce7d486c5e0ff39e88
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "36631250"
+ms.lasthandoff: 09/16/2019
+ms.locfileid: "36998634"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Office 참가자 채널에 대한 업데이트 기록
 
@@ -24,8 +24,6 @@ ms.locfileid: "36631250"
 > - 업데이트 내역에는 릴리스된 모든 빌드가 나열됩니다.
 > - 릴리스 정보는 더 느린 흐름에 업데이트되며 릴리스 정보 게시 빌드 번호까지 여러 빌드에 대한 업데이트 컴파일이 될 수 있습니다.
 
-
-
 ## <a name="office-insider-versions-and-builds"></a>Office 참가자 버전 및 빌드
 
 Insider 수준에 등록하면 새로운 기능과 개선 사항으로 자주 업데이트됩니다. 다음 목록은 최근 Insider 버전 및 빌드의 내역을 보여 주며, **가장 최근에 릴리스 된 빌드가 가장 먼저 나열**됩니다. 새 빌드에는 이전 빌드에 포함 된 모든 업데이트가 포함됩니다. 
@@ -33,6 +31,18 @@ Insider 수준에 등록하면 새로운 기능과 개선 사항으로 자주 �
 릴리스 정보를 찾으려면 [Windows용 Office의 내부 관리자 릴리스 정보](https://docs.microsoft.com/ko-KR/OfficeUpdates/release-notes-office-insider)를 참조하십시오.
 
 [//]: # (제거하지 마세요)
+
+**2019년 9월 16일**<br/>
+버전 1910(빌드 12112.20000)<br/>
+
+**2019년 9월 10일**<br/>
+버전 1910(빌드 12105.20000)<br/>
+
+**2019년 9월 4일**<br/>
+버전 1910(빌드 12030.20004)<br/>
+
+**2019년 8월 28일**<br/>
+버전 1909(빌드 12026.20000)<br/>
 
 **2019년 8월 26일**<br/>
 버전 1909(빌드 12022.20000)<br/>
@@ -126,7 +136,6 @@ Insider 수준에 등록하면 새로운 기능과 개선 사항으로 자주 �
 **2019년 1월 17일**<br/> 버전 1902(빌드 11231.20080)<br/>
 
 **2019년 1월 10일**<br/> 버전 1902(빌드 11231.20066)<br/> 
-
 
 ## <a name="insider-community"></a>참가자 커뮤니티
 
