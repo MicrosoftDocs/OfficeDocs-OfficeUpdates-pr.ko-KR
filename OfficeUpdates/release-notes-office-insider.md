@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 22fccba2af26eb0f8effd8ff516fbb57fb26fcfb
-ms.sourcegitcommit: d4f156d8437e56965f74a3add79f7aa7a42c00ed
+ms.openlocfilehash: 372816fa81f0f5284a795f02edd9b1b4bb00c3f6
+ms.sourcegitcommit: d92c236702bae7efd84bd21b539cb7343b6973ba
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2019
-ms.locfileid: "36972859"
+ms.lasthandoff: 09/13/2019
+ms.locfileid: "36980454"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 참가자에 대한 릴리스 정보
 
@@ -29,6 +29,44 @@ ms.locfileid: "36972859"
 
 [//]: # (제거하지 마세요)
 
+
+## <a name="version-1910-september-13"></a>버전 1910: 9월 13일
+*버전 1910 (빌드 12105.20000)*
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="non-security-updates"></a>비보안 업데이트
+### <a name="excel"></a>Excel
+
+- <div><span>사용자가 일부 보호 시트에 하이퍼링크를 붙여넣지 못하는 문제가 해결되었습니다.</span></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>간단한 보기에서 UI가 정지되는 문제가 해결되었습니다.</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>사용자가 PDF로 인쇄할 때 오류가 발생하는 문제가 해결되었습니다.</span></div>
+
+
+### <a name="project"></a>Project
+
+- <div><span>보호된 작업을 사용하도록 설정한 경우 요약 작업의 작업 값을 변경하면 충돌이 발생하는 <span style="display:inline !important;background-color:rgb(255, 255, 255);font-size:13.33px;">문제가 해결되었습니다.</span></span></div>
+
+
+- <font size=2 style="background-color:rgb(255, 255, 255);">이벤트를 엔터프라이즈 일정과 동기화할 수 없는 문제가 해결되었습니다.</font>
+
+
+### <a name="office-suite"></a>Office 제품군
+
+- <div><span>파일의 로컬 버전을 삭제하라는 경고가 반복되는 문제가 해결되었습니다.</span></div>
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-1910-september-06"></a>버전 1910: 9월 6일
 *버전 1910(빌드 12030.20004)*
