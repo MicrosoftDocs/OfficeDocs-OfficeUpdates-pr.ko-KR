@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 월간 채널 업데이트 내역 제공 Windows 데스크톱의 대상 릴리스
-ms.openlocfilehash: d906239f2973a7d8f5e3b7585f27b8a77c02db94
-ms.sourcegitcommit: 387fdd3ae168f420e1ed93ce7d486c5e0ff39e88
+ms.openlocfilehash: dd415a14bef7aac3aa907a4847ee2e52e47d584c
+ms.sourcegitcommit: 85de4fbe2104e3dcea6f6487aa263778d16c1dc3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "36998624"
+ms.lasthandoff: 09/24/2019
+ms.locfileid: "37131670"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Windows용 월간(대상) 채널의 업데이트 내역
 
@@ -33,6 +33,9 @@ ms.locfileid: "36998624"
 > - Microsoft 팀에서 Office 365 ProPlus의 기존 설치를 진행 하는 경우-지난 6 월부터 시작 하는 microsoft 팀은 이러한 설치 업데이트 시 Office 365 ProPlus (및 Office 365 Business)의 기존 설치에 포함 됩니다. 팀이 추가 되는 날짜는 사용 중인 업데이트 채널에 따라 달라 집니다. 자세한 내용은 [Office 365 ProPlus를 사용 하 여 Microsoft 팀 배포](https://docs.microsoft.com/en-us/deployoffice/teams-install) 를 참조 하세요.
 
 [//]: # (제거하지 마십시오)
+
+**2019 년 9 월 23 일**<br/>
+버전 1909 (빌드 12026.20248)<br/>
 
 **2019 년 9 월 16 일**<br/>
 버전 1909 (빌드 12026.20190)<br/>
