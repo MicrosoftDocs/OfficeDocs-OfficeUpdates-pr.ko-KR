@@ -3,19 +3,19 @@ title: Mac용 Office에 대한 릴리스 정보
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 9/11/2019
+ms.date: 9/19/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Office 356 구독자를 위한 Mac용 Office 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 9459036de8424fcd9a9c0dc86a4f69aa8e8d88fa
-ms.sourcegitcommit: 1c1b860767b1ebeb1b5183f44c086be6d3d68704
+ms.openlocfilehash: 4908b1e9cabf7bf273fe301a332841c0581a1c0c
+ms.sourcegitcommit: 2d7022fa8948c721aa334245d499a32f39c50d3d
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/11/2019
-ms.locfileid: "36838245"
+ms.lasthandoff: 09/19/2019
+ms.locfileid: "37040696"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac용 Office에 대한 릴리스 정보
 
@@ -33,7 +33,22 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
 > > 
 > - 종종 일정 기간 월 단위 채널에 기능(및 때때로 수정 항목)을 출시하기도 합니다. 이를 통해 기능을 더 많은 대상 그룹에 출시하기 전에 모두 원활하게 작동하는지 확인할 수 있습니다. 따라서 아래에 설명된 문제가 보이지 않는 이상 결국 받게 되니 아무것도 걱정할 필요가 없습니다. [자세히 알아보기](https://support.office.com/ko-KR/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
-**참고:** Microsoft 자동 업데이트 (MAU) 릴리스 정보는 [MAU 릴리스 기록](https://docs.microsoft.com/ko-KR/officeupdates/release-history-microsoft-autoupdate) 페이지로 이동 되었습니다.<br/>
+**참고:** Microsoft 자동 업데이트 (MAU) 릴리스 정보는 [MAU 릴리스 기록](https://docs.microsoft.com/ko-KR/officeupdates/release-history-microsoft-autoupdate) 페이지로 이동되었습니다.<br/>
+
+## <a name="september-18-2019-release"></a>2019년 9월 18일 릴리스
+*버전 16.29.1(빌드 19091700)*
+
+### <a name="word-feature-updates"></a>Word: 기능 업데이트
+
+- Office에 로그인하지 않은 경우 최근 열었던 문서 목록과 관련된 문제를 해결 했습니다.
+
+### <a name="excel--feature-updates"></a>Excel: 기능 업데이트
+
+- Office에 로그인하지 않은 경우 최근 열었던 문서 목록과 관련된 문제를 해결 했습니다.
+
+ ### <a name="powerpoint-feature-updates"></a>PowerPoint: 기능 업데이트
+
+- Office에 로그인하지 않은 경우 최근 열었던 문서 목록과 관련된 문제를 해결 했습니다.<br/><br/>
 
 ## <a name="september-10-2019-release"></a>2019년 9월 10일 릴리스
 *버전 16.29 (빌드 19090802)*

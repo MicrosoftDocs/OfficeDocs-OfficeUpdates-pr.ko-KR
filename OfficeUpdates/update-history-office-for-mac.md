@@ -3,19 +3,19 @@ title: Mac용 Office에 대한 업데이트 기록
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/11/2019
+ms.date: 9/19/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 다운로드 패키지 및 업데이트 기록에 대한 링크를 포함하여 Mac용 Office의 최신 업데이트에 대한 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 98aeb08b677f55715043ea370fca1e18c8912c90
-ms.sourcegitcommit: 1c1b860767b1ebeb1b5183f44c086be6d3d68704
+ms.openlocfilehash: fe8ed14ca1e7b9c431979e27c170d1e8357dc86d
+ms.sourcegitcommit: 2d7022fa8948c721aa334245d499a32f39c50d3d
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/11/2019
-ms.locfileid: "36838262"
+ms.lasthandoff: 09/19/2019
+ms.locfileid: "37040706"
 ---
 # <a name="update-history-for-office-for-mac"></a>Mac용 Office에 대한 업데이트 기록
   
@@ -33,7 +33,16 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
 
 다음 표에는 Office 제품군 및 개별 응용 프로그램에 대한 최신 패키지가 나와 있습니다. Office 제품군은 모든 개별 응용 프로그램(예: Word, PowerPoint, Excel)을 포함합니다. 모든 패키지는 64비트 전용입니다. 빌드 날짜는 버전 번호 다음에 괄호로 묶여 YYMMDD 형식으로 표시됩니다. 응용 프로그램이 아직 설치되지 않은 경우 이 설치 패키지가 사용되지만 기존 설치를 업데이트하는 데는 업데이트 패키지가 사용됩니다.
 
-릴리스 정보를 확인하려면 [릴리스 노트](release-notes-office-for-mac.md)를 참조하세요.
+릴리스 정보를 확인하려면 [릴리스 정보](release-notes-office-for-mac.md)를 참고하세요.
+
+### <a name="september-18-2019"></a>2019년 9월 18일
+버전 16.29.1(19091700)
+ 
+|**응용 프로그램**|**다운로드 링크**||
+|:-----|:-----|:-----|
+|Word  <br/> | [업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.29.19091700_Updater.pkg) <br/> | <br/> |
+|Excel  <br/> | [업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.29.19091700_Updater.pkg) <br/> | <br/> |
+|PowerPoint  <br/> | [업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.29.19091700_Updater.pkg) <br/> | <br/> |
 
 ### <a name="september-10-2019"></a>2019년 9월 10일
 버전 16.29(19090802)
@@ -72,6 +81,7 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
   
 |**릴리스 날짜**|**버전**|**설치 패키지**|**업데이트 패키지**|
 |:-----|:-----|:-----|:-----|:-----|
+2019년 9월 18일  <br/> |16.29.1(19091700)  <br/> | |[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.29.19091700_Updater.pkg), [Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.29.19091700_Updater.pkg), [PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.29.19091700_Updater.pkg) <br/>
 2019년 9월 10일  <br/> |16.29(19090802)  <br/> | [Office 제품군(Teams 포함)](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.29.19090802_BusinessPro_Installer.pkg) <br/> <br/>[Office 제품군(Teams 포함 안 함)](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.29.19090802_Installer.pkg)  |[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.29.19090802_Updater.pkg), [Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.29.19090802_Updater.pkg), [PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.29.19090802_Updater.pkg), [Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.29.19090802_Updater.pkg), [OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.29.19090802_Updater.pkg) <br/>
 2019년 8월 13일  <br/> |16.28 (19081202)  <br/> | [Office 제품군(Teams 포함)](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.28.19081202_BusinessPro_Installer.pkg) <br/> <br/>[Office 제품군(Teams 포함 안 함)](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.28.19081202_Installer.pkg)  |[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.28.19081202_Updater.pkg), [Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.28.19081202_Updater.pkg), [PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.28.19081202_Updater.pkg), [Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.28.19081202_Updater.pkg), [OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.28.19081202_Updater.pkg) <br/>
 2019년 7월 16일  <br/> |16.27(19071500)  <br/> | [Office 제품군(Teams 포함)](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.27.19071500_BusinessPro_Installer.pkg) <br/> <br/>[Office 제품군(Teams 포함 안 함)](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.27.19071500_Installer.pkg)  |[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.27.19071500_Updater.pkg), [Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.27.19071500_Updater.pkg), [PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.27.19071500_Updater.pkg), [Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.27.19071500_Updater.pkg), [OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.27.19071500_Updater.pkg) <br/>
