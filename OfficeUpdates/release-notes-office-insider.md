@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 372816fa81f0f5284a795f02edd9b1b4bb00c3f6
-ms.sourcegitcommit: d92c236702bae7efd84bd21b539cb7343b6973ba
+ms.openlocfilehash: 7b27ee8a99e987aea1d4e9f89e2816f570bbbe74
+ms.sourcegitcommit: a3d7811ec43bc314f1a90cbd2de5fb2a105c794a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/13/2019
-ms.locfileid: "36980454"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37300495"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 참가자에 대한 릴리스 정보
 
@@ -29,6 +29,92 @@ ms.locfileid: "36980454"
 
 [//]: # (제거하지 마세요)
 
+
+## <a name="version-1910-september-27"></a>버전 1910: 9월 27일
+*버전 1910 (빌드 12119.20000)*
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="non-security-updates"></a>비보안 업데이트
+### <a name="excel"></a>Excel
+
+- <div><span>시리즈 컬렉션을 변경할 때 분산형 차트가 제대로 렌더링되지 않을 수 있는 문제를 해결했습니다.</span></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>공유 일정 폴더와 상호 작용하는 경우에 사용 권한 오류가 보고될 수 있는 문제를 해결했습니다.</span></div>
+
+
+- <div><span>사용자가 일정에 첨부 파일을 추가하지 못하도록 하는 문제를 해결했습니다.</span></div>
+
+
+- <div><span>디지털 서명된 메시지에 회신할 때 오류 메시지가 표시되는 문제를 해결했습니다.</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>Deskjet 프린터로 인쇄할 때 배율 문제가 발생할 수 있는 문제를 해결 했습니다.</span></div>
+
+
+### <a name="office-suite"></a>Office 제품군
+
+- <div><span>보통 굵기의 텍스트에 잘못된 스타일이 적용되는 문제를 해결했습니다.</span></div>
+
+
+- <div><span>보류 중인 업로드가 있는 파일을 닫으면 사용자에게 잘못된 오류 메시지가 나타날 수 있는 문제를 해결했습니다.</span></div>
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-1910-september-20"></a>버전 1910: 9월 20일
+*버전 1910 (빌드 12112.20000)*
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="non-security-updates"></a>비보안 업데이트
+### <a name="excel"></a>Excel
+
+- <div><span>Excel을 시작 시 가끔 중단이 되는 문제를 수정했습니다.</span></div>
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>사용할 수 있는 회의실 수가 많은 경우 회의실 선택 성능을 크게 개선하였습니다.</span></div>
+
+
+- <div><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;">Office 365에서 최신 인증으로 마이그레이션할 때 Outlook에 여러 메일함이 있는 고객의 메일함 동기화를 방지할 수 있는 문제를 수정했습니다.</span><br></div>
+
+
+- <div><span>드롭다운 메뉴에 서명 레이블의 일부 문자가 표시되지 않는 문제를 수정했습니다.</span></div>
+
+
+### <a name="project"></a>Project
+
+- <div><span>엔터프라이즈 리소스를 로컬 리소스로 바꿀 때 충돌이 발생하는 문제를 수정했습니다.</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>초안 보기에서 동기식 스크롤링이 제대로 작동하지 않는 문제를 수정했습니다.</span></div>
+
+
+- <div>처음으로 문서를 저장한 후 도구 조언이 제대로 표시되지 않는 문제를 수정했습니다.</div>
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-1910-september-13"></a>버전 1910: 9월 13일
 *버전 1910 (빌드 12105.20000)*
@@ -856,7 +942,7 @@ PowerPoint에 잉크 리플레이 애니메이션을 적용하면 프레젠테�
 
 #### <a name="open-document-links-in-word"></a>Word로 문서 링크 열기
 
-Office에서 문서 링크를 클릭 시 기본 설정을 업데이트하여 Word 앱에서 기본적으로 열리도록 할 수 있습니다.  기본 설정을 업데이트하려면 파일 ->옵션->고급->링크 처리로 이동합니다. 자세한 정보: https://support.office.com/ko-KR/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+Office에서 문서 링크를 클릭 시 기본 설정을 업데이트하여 Word 앱에서 기본적으로 열리도록 할 수 있습니다.  기본 설정을 업데이트하려면 파일 ->옵션->고급->링크 처리로 이동합니다. 자세한 정보: https://support.office.com/en-us/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
 
 ##### <a name="getting-started"></a>시작하기:
 
@@ -877,7 +963,7 @@ Office에서 문서 링크를 클릭 시 기본 설정을 업데이트하여 Wor
 
 #### <a name="open-presentation-links-in-powerpoint"></a>PowerPoint에서 프레젠테이션을 링크를 엽니다.
 
-Office에서 프레젠테이션 링크를 클릭 시 기본 설정을 업데이트하여 PowerPoint 앱에서 기본적으로 열리도록 할 수 있습니다. 기본 설정을 업데이트하려면 파일 ->옵션->고급->링크 처리로 이동합니다. 자세한 정보: https://support.office.com/ko-KR/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+Office에서 프레젠테이션 링크를 클릭 시 기본 설정을 업데이트하여 PowerPoint 앱에서 기본적으로 열리도록 할 수 있습니다. 기본 설정을 업데이트하려면 파일 ->옵션->고급->링크 처리로 이동합니다. 자세한 정보: https://support.office.com/en-us/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
 
 ##### <a name="getting-started"></a>시작하기:
 
@@ -898,7 +984,7 @@ Office에서 프레젠테이션 링크를 클릭 시 기본 설정을 업데이�
 
 #### <a name="open-workbook-links-in-excel"></a>Excel에서 워크북 링크 열기
 
-Office에서 워크북 링크를 클릭 시 기본 설정을 업데이트하여 Excel 앱에서 기본적으로 열리도록 할 수 있습니다. 기본 설정을 업데이트하려면 파일->옵션->고급->링크 처리로 이동합니다. 자세한 정보: https://support.office.com/ko-KR/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+Office에서 워크북 링크를 클릭 시 기본 설정을 업데이트하여 Excel 앱에서 기본적으로 열리도록 할 수 있습니다. 기본 설정을 업데이트하려면 파일->옵션->고급->링크 처리로 이동합니다. 자세한 정보: https://support.office.com/en-us/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
 
 ##### <a name="getting-started"></a>시작하기:
 
