@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus의 알려진 문제에 대한 정보를 제공합니다.
-ms.openlocfilehash: a8b385e197a6f61c10797bf160101cdd70285aaf
-ms.sourcegitcommit: a6d8dba3ee51727c2d3a2dad89cb986595c1a7b8
+ms.openlocfilehash: 7c24098c7a160c3d6391bc8e8e51a73d69c44b0c
+ms.sourcegitcommit: a5da36df390868d76bddfc78e9481ed8e9c5b673
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/20/2019
-ms.locfileid: "37068060"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "37275499"
 ---
 # <a name="office-365-proplus-known-issues"></a>Office 365 ProPlus의 알려진 문제
 
@@ -31,13 +31,17 @@ ms.locfileid: "37068060"
 
 |요약|조사하는 중|해결됨|
 |:-------------------------------------------------------------------------------------|:-----|:-----|
+|**Excel**
+일부 보호된 시트에서 하이퍼링크를 붙여 넣을 수 없는 문제가 있습니다.|월별 및 SACT 버전 1908 및 SAC 버전 1902||
+Excel 아이디어 기능에서, Win32 클라이언트에 있는 아이디어 단추를 클릭하여 추가 기능을 로드할 때 오류가 발생했습니다.|월 단위 버전 1908||
+추가 기능 관리자에서 검색할 때 16개의 추가 기능만 표시되는 문제를 발견했습니다.|월간 및 SACT 버전 1908||
 |**Outlook**
 파일이 WebDAV 위치에 저장되지 않는 문제를 발견하였습니다.|월간 버전 1909||
 |**프로젝트**
-다음의 시나리오를 고려합니다. 프로젝트를 엽니다. 파일 메뉴를 클릭하고 내보내기를 클릭한 다음 PDF/XPS 생성 버튼을 클릭합니다. 찾아보기 대화 상자에서 파일 이름을 입력하고 확인을 클릭합니다. 이 경우 XPS 파일의 PDF가 만들어지지 않은 것을 확인할 수 있습니다. |SAC 버전 1902||
+파일 메뉴에서 PDF/XPS를 만들 때 파일이 만들어지지 않는 문제가 발견되었습니다. |SAC 버전 1902||
 |**Word**
-사용자가 파일을 열 때 발생하는 문제를 확인했습니다.|월간 버전 1908||
-OneDrive 동기화 엔진에서 동기화되는 Office 파일의 경우, 저장 및 다른 이름으로 저장하는 경우에는 필요 속성 및 콘텐츠 형식 요구 사항과 같은 문서 메타 데이터가 더 이상 유효하지 않습니다.|SAC 버전 1902||
+사용자가 파일을 열 때 발생하는 문제를 확인했습니다.|월 단위 버전 1908||
+OneDrive 동기화 엔진에서 동기화되는 Office 파일의 경우, 저장 및 다른 이름으로 저장하는 경우에는 필요 속성 및 콘텐츠 형식 요구 사항과 같은 문서 메타데이터가 더 이상 유효성 검사되지 않는 문제가 발견되었습니다.|SAC 버전 1902||
 
 ## <a name="may-2019---sample"></a>2019 5월 - 샘플
 
