@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2018년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 5c8a5e252be302622dab9f041bfd84b4b511f8f2
-ms.sourcegitcommit: 6b645cfab4e6b232ccc97f9805cd1c168783ba43
+ms.openlocfilehash: a56ceef84a0af1ad73e17079ad68b904ed6a9e96
+ms.sourcegitcommit: 5a70fb551b56a39dfd597b5ff2b73d74e5054d15
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37350279"
+ms.lasthandoff: 10/02/2019
+ms.locfileid: "37375814"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -58,8 +58,6 @@ ms.locfileid: "37350279"
 - **확대/축소 및 고정:** 메시지를 읽을 때마다 확대/축소를 조정하지 않고, 모든 메시지에 사용할 기본값을 선택합니다. [자세히 알아보기](https://support.office.com/article/56c090bc-e148-44a7-bd06-1290edd38983)
 - **메시지를 전달하는 동안에도 작업 지속 가능:** Outlook이 이제 백그라운드에서 메시지를 전달합니다. 따라서 폴더 간에 많은 메시지를 주고 받는 동안에도 작업을 계속할 수 있습니다.
 - **중요 받은 편지함 설정 및 해제 기능 개선:** 중요 받은 편지함을 사용하지 않는 고객의 경우 모든 폴더의 메시지 목록의 읽지 않음 탭을 다시 제공했습니다. 플래그가 지정된 항목을 더 쉽게 찾을 수 있도록 플래그별 정렬을 추가했습니다. 마지막으로 중요 받은 편지함에 검색을 통한 더 효과적인 상호 작용 모델이 적용됩니다. 사용자가 검색을 시작할 때까지 중요 받은 편지함이 있는 받은 편지함이 유지되고 검색이 완료되면 '결과' 텍스트가 표시됩니다.
-- **SMIME 암호화 및 서명된 전자 메일에서 기본적으로 외부 콘텐츠 다운로드 차단:** SMIME 프로토콜의 취약점으로 인해 Outlook에서는 암호화되었거나 SMIME를 통해 서명된 메시지에 외부 콘텐츠 다운로드를 차단합니다. 사용자는 Outlook UI를 통해 한 번 클릭으로 외부 콘텐츠를 다운로드할 수 없어 보안 취약점으로부터 보호합니다. 사용자가 이전 동작으로 되돌릴 수 있도록 허용하는 새로운 옵션이 옵션 대화 상자에 있습니다.
-- ** Outlook에서 사용자의 LinkedIn 세부 정보 보기:** 이제 연락처의 프로필 카드를 열면 LinkedIn 프로필을확인하여 사용자에 대한 더 많은 정보를 얻을 수 있습니다.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 기능 업데이트
 
@@ -179,7 +177,6 @@ ms.locfileid: "37350279"
 - **빠른 조회** 더 빠른 답변을 얻을 수 있도록 VLOOKUP, HLOOKUP 및 MATCH 계산을 가속화했습니다. [자세히 알아보기](https://support.office.com/article/60f18521-2589-4734-89dd-ba4ee1f6c000)
 - **가져오기 및 변환 팬 모두 호출** 가져오기 및 변환 작업을 많이 사용하는 편이라면 개선된 예제의 열 기능으로 유용하게 작업할 수 있습니다. 또한 많은 커넥터도 개선되었습니다. [자세히 알아보기](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
 - **새로운 모습의 리본 아이콘** 모든 기능은 동일하게 작동하니 걱정하지 마세요. 새 아이콘은 모든 크기의 화면에서 잘 보입니다. [자세히 알아보기](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
-- **Office 파일을 빠르게 시작 - 업데이트된 시작 환경을 사용하여 쉽게 파일 만들기 및 열기** 새롭게 디자인된 Word, PowerPoint 및 Excel용 Office 시작 페이지를 사용하면 새 문서를 보다 쉽게 시작하고 최근에 사용한 문서의 중단했던 위치에서 다시 시작하고 다른 사람들과 공동 작업할 공유 문서를 찾는데 도움을 줍니다.
 
 ### <a name="outlook-feature-updates"></a>Outlook: 기능 업데이트
 - **출시 예정 기능 확인** 출시 전에 새로운 사용자 환경을 체험해 보고 의견을 보내 주세요. [자세히 알아보기](https://support.office.com/article/d4b7db49-b4e0-4f98-a0dc-156952e551e2)
@@ -190,15 +187,12 @@ ms.locfileid: "37350279"
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 기능 업데이트
 - **슬라이드에 생동감 주기** 화면에서 애니메이션 3D 그래픽을 삽입하여 심장 박동, 행성 궤도 및 공룡 난동 모습을 표시합니다. [자세히 알아보기](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
 - **새로운 모습의 리본 아이콘** 모든 기능은 동일하게 작동하니 걱정하지 마세요. 새 아이콘은 모든 크기의 화면에서 잘 보입니다. [자세히 알아보기](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
-- **대상 그룹에 퀴즈를 내거나 설문 조사하기** 슬라이드에 퀴즈 또는 설문 조사를 넣습니다. Office가 응답을 수집하고 저장합니다. [자세한 정보](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
-- **Office 파일을 빠르게 시작 - 업데이트된 시작 환경을 사용하여 쉽게 파일 만들기 및 열기** 새롭게 디자인된 Word, PowerPoint 및 Excel용 Office 시작 페이지를 사용하면 새 문서를 보다 쉽게 시작하고 최근에 사용한 문서의 중단했던 위치에서 다시 시작하고 다른 사람들과 공동 작업할 공유 문서를 찾는데 도움을 줍니다.
 
 ### <a name="word-feature-updates"></a>Word: 기능 업데이트
 - **\@mentions로 주의 끌기** 메모에 @mentions를 사용하여 입력이 필요하다는 사실을 동료들에게 알립니다. [자세히 알아보기](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 - **새로운 모습의 리본 아이콘** 모든 기능은 동일하게 작동하니 걱정하지 마세요. 새 아이콘은 모든 크기의 화면에서 잘 보입니다. [자세히 알아보기](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 - **수식 편집기 변환기** 변환기를 사용하여 Microsoft 수식 편집기로 만든 수식을 Office Math ML 형식으로 변환하여 편집할 수 있습니다.
 - **평범한 문서를 훌륭한 문서로 개선하기:** 모든 장치에서 문서가 잘 보이도록 공유하기 쉬운 대화형의 웹 페이지로 변환합니다. [자세한 정보](https://support.office.com/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)
-- **Office 파일을 빠르게 시작 - 업데이트된 시작 환경을 사용하여 쉽게 파일 만들기 및 열기** 새롭게 디자인된 Word, PowerPoint 및 Excel용 Office 시작 페이지를 사용하면 새 문서를 보다 쉽게 시작하고 최근에 사용한 문서의 중단했던 위치에서 다시 시작하고 다른 사람들과 공동 작업할 공유 문서를 찾는데 도움을 줍니다.
 
 ## <a name="version-1808-september-11"></a>버전 1808: 9월 11일
 *버전 1808(빌드 10730.20102)*
@@ -267,7 +261,6 @@ ms.locfileid: "37350279"
 ### <a name="outlook-feature-updates"></a>Outlook: 기능 업데이트
 - **Outlook 추가 기능 경고:** 가끔씩 Outlook COM 추가 기능에 문제가 발생하여 Outlook의 나머지 속도가 느려질 수 있습니다. 이러한 문제는 Outlook 폴더 사이의 전환, 새 이메일의 도착, Calendar 항목 열기 등과 같은 이벤트의 대기 시간 때문에 일어날 수 있습니다. 이러한 문제가 발생하면 Outlook의 알림 표시줄에 경고 메시지가 표시됩니다.
 - **Outlook 미리 알림 대화 상자에서 Teams 모임에 참가:** Outlook이 사용자에게 예정된 모임을 미리 알릴 때 예정된 모임이 Teams 온라인 모임인 경우 온라인 참석 단추를 표시합니다. 이는 Outlook 미리 알림 대화 상자의 비즈니스용 Skype 모임 참가 기능과 비슷합니다.
-- **향상된 추가 기능 알림** 향상된 추가 기능 알림
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 기능 업데이트
  - **하이퍼링크 색상:** 하이퍼링크가 더 이상 파란색으로만 표시되지 않습니다. 원하는 색상을 적용해보세요. [자세히 알아보기](https://support.office.com/article/988ed94c-82e9-4e2c-96a1-7ffd2c382ce8)
@@ -304,18 +297,16 @@ ms.locfileid: "37350279"
 
 ### <a name="excel-feature-updates"></a>Excel: 기능 업데이트
 - **향상된 셀 및 수식 입력줄 편집:** 이제 Ctrl+A를 사용하여 셀이나 수식 입력줄에서 텍스트를 선택할 수 있습니다. 이모지 및 기타 복잡한 문자에 대한 지원도 개선되었습니다. [자세히 알아보기](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
- - **개선된 SVG 지원:** 필터가 적용된 SVG를 삽입할 수 있습니다. [자세히 알아보기](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **개선된 SVG 지원:** 필터가 적용된 SVG를 삽입할 수 있습니다. [자세히 알아보기](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="outlook-feature-updates"></a>Outlook: 기능 업데이트
 - **되풀이 기본값:** 약속 되풀이 대화 상자("되풀이 범위" 아래)에서는 “끝 날짜 지정하지 않음” 대신 “끝 날짜”가 기본 설정이고 첫 번째로 표시되며, 기본 끝 날짜가 설정됩니다.
 - **접근성 검사 개선:** 접근성 검사에서는 메시지에 보다 쉽게 액세스할 수 있도록 국제 표준 및 권장 사항에 대한 지원을 업데이트했습니다. [자세히 알아보기](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
-- **Outlook 데스크톱에서 그룹 ‘팔로잉'에 대한 문자열을 개선합니다.** Outlook에서 그룹의 문자열을 변경하여 현재 "구독/구독 취소"를 "팔로우/팔로우 중지"로 변경합니다.
+
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 기능 업데이트
 - **개선된 SVG 지원:** 필터가 적용된 SVG를 삽입할 수 있습니다. [자세히 알아보기](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 - **펜으로 슬라이드 제목 쓰기:** 펜을 사용하여 제목을 잉크로 쓰면 PowerPoint에서 텍스트로 변환합니다. [자세히 알아보기](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
-- **대용량 파일을 증분 방식으로 열기:** 프레젠테이션의 일부(예: 대형 비디오 또는 이미지)가 아직 다운로드를 완료하지 않은 경우에도 대규모 Powerpoint 프레젠테이션을 다운로드하고, 열고, 공유할 수 있습니다.
-
 
 ### <a name="project-feature-updates"></a>Project: 기능 업데이트
  - **최근 저장 위치 유지:** Project에서는 다른 프로젝트를 저장한 위치 목록을 유지합니다. 프로젝트를 저장할 준비가 되면 최근 저장 위치 중 하나를 선택하여 편리하게 저장할 수 있습니다.
@@ -436,7 +427,6 @@ ms.locfileid: "37350279"
 -   **미리 알림 누락 방지:** 미리 알림이 작업 중인 창 위에 팝업되도록 설정합니다. 그렇지 않은 경우 Outlook이 주의를 끌기 위해 작업 표시줄에서 깜박입니다. [자세히 알아보기](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
 -   **삭제된 항목을 읽은 상태로 표시:** 이제 삭제하는 모든 메시지를 읽은 상태로 설정할 수 있습니다. 파일 \> 옵션 \> 메일 \> 기타로 이동하여 옵트인합니다.
 -   **암호화 옵션:** Office 365 메시지 암호화 사용자는 메시지를 암호화한 후 조직 내부 또는 외부의 누구에게나 보낼 수 있습니다. 암호화 옵션은 메시지를 만들 때 옵션 \> 사용 권한 아래에 표시됩니다. [자세한 정보](https://aka.ms/omeoverview)
-- **일정 보기에서 참가하는 모든 그룹 표시 지원** 이 기능을 사용하면 사용자가 일정 보기 왼쪽 탐색창에서 모든 참가하는 최근 그룹을 보고 그룹의 일정을 개인 일정이나 다른 그룹의 일정과 손쉽게 겹쳐서 볼 수 있습니다. 이전에는 즐겨찾기 그룹만 이 목록에 나타났습니다.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 기능 업데이트
 -   **잉크 변환:** 메모와 그림을 낙서한 후, 읽을 수 있는 텍스트와 정돈된 모양으로 세련되게 변환합니다. [자세한 정보](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)

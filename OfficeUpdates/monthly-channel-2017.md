@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: 2017의 Office 365 ProPlus에 대 한 월별 채널 릴리스에 대 한 릴리스 정보를 IT 전문가에 게 제공 합니다.
-ms.openlocfilehash: 517ba74ece85e4a4386189d7787f5fb46f8050a4
-ms.sourcegitcommit: 6b645cfab4e6b232ccc97f9805cd1c168783ba43
+ms.openlocfilehash: f889d383aa44fb6cc735b130d27f8ecc92aa51ca
+ms.sourcegitcommit: 5a70fb551b56a39dfd597b5ff2b73d74e5054d15
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37350259"
+ms.lasthandoff: 10/02/2019
+ms.locfileid: "37375824"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2017"></a>2017의 월별 채널 릴리스에 대 한 릴리스 정보
 
@@ -539,7 +539,6 @@ ms.locfileid: "37350259"
 -   **온라인 사진 삽입:** 선택한 이미지 및 속성 정보에 대한 새 방문 페이지가 이미지를 사용하여 자동 삽입됩니다.
 -   **Azure Data Lake Store 커넥터:** 이제 사용자가 Azure Data Lake Store에서 데이터를 가져올 수 있습니다.
 -   **향상된 "예제에서 열 추가" 기능:** 제안, 더 많은 날짜/시간 작업 및 추가 변환을 지원합니다.
-- **내게 필요한 옵션 작성** 됨 간편 하 게 설정을 검색 하 여 Access > 간편 하 게 응용 프로그램에 보다 쉽게 액세스할 수 있도록 합니다.
 
 ### <a name="outlook-feature-updates"></a>Outlook: 기능 업데이트
 -   **새 계정 구성:** 필요한 수동 단계가 줄어든 새 마법사로 새 계정을 설정합니다.
@@ -547,7 +546,6 @@ ms.locfileid: "37350259"
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 기능 업데이트
 -   **펜 사용자 지정:** 잉크 입력을 위해 펜 및 형광펜의 개인 설정을 선택합니다. 사용자 지정 설정을 모든 Windows PC에서 사용할 수 있습니다.
 -   **온라인 사진 삽입:** 선택한 이미지 및 속성 정보에 대한 새 방문 페이지가 이미지를 사용하여 자동 삽입됩니다.
-- **내게 필요한 옵션 작성** 됨 간편 하 게 설정을 검색 하 여 Access > 간편 하 게 응용 프로그램에 보다 쉽게 액세스할 수 있도록 합니다.
 
 ### <a name="project-non-security-updates"></a>Project: 비보안 업데이트
 -   프로젝트를 XML 파일 형식으로 저장하면 시간대별 기본값이 초기값과 일치하지 않는 문제를 해결합니다.
@@ -567,12 +565,6 @@ ms.locfileid: "37350259"
 ### <a name="word-feature-updates"></a>Word: 기능 업데이트
 - **펜 사용자 지정:** 잉크 입력을 위해 펜 및 형광펜의 개인 설정을 선택합니다. 사용자 지정 설정을 모든 Windows PC에서 사용할 수 있습니다.
 - **온라인 사진 삽입:** 선택한 이미지 및 속성 정보에 대한 새 방문 페이지가 이미지를 사용하여 자동 삽입됩니다.
-- **내게 필요한 옵션 작성** 됨 간편 하 게 설정을 검색 하 여 Access > 간편 하 게 응용 프로그램에 보다 쉽게 액세스할 수 있도록 합니다.
-
-### <a name="office-suite-feature-updates"></a>Office 제품군: 기능 업데이트
-- **Office 문서의 악성 링크에서 보호 된 상태로 유지** Safelinks는 Office 문서에서 웹 (http/https) 링크를 클릭 하는 데 걸리는 시간을 제공 하는 엔터프라이즈 기능입니다.
-
-
 
 ## <a name="version-1705-june-13"></a>버전 1705:6 월 13 일
 *버전 1705(빌드 8201.2102)*
@@ -625,8 +617,6 @@ ms.locfileid: "37350259"
 -   **동영상의 선택 캡션:** 동영상에 더 쉽게 액세스할 수 있도록 선택 캡션을 추가합니다. [추가 정보](https://support.office.com/article/a16745e1-b3da-4428-b2a7-ff0c8b758d0b)
 -   **향상된 디자이너 기능:** 이제 디자이너에서 슬라이드에 추가된 차트에 대한 디자인 아이디어를 추천합니다.
 -   **WIP (Windows Information Protection) 지원:**    PowerPoint는 이제 인식 된 앱 이며 구성 된 정책에 따라 보호할 사항을 정확히 결정 하면서 회사 및 개인 데이터를 구분할 수 있습니다.   [추가 정보](https://aka.ms/wiptechnet)
-- **이미지에 보다 쉽게 액세스할 수 있도록 설정** 지능형 서비스는 시각 장애인을 위해 사용자가 문서에 보다 쉽게 액세스할 수 있도록 그림에 대 한 대체 텍스트를 생성 합니다.
-- **PowerPoint Designer에서 다양 한 유형의 슬라이드 변환** 이제 디자이너에서 슬라이드에 추가 된 차트에 대 한 디자인 아이디어를 추천 합니다.
 
 ### <a name="project-non-security-updates"></a>Project: 비보안 업데이트
 -   Project Online에서 각 EPT(Enterprise 프로젝트 템플릿)가 프로젝트 사이트에 대한 자체 URL을 갖게 되므로 사이트에 대한 올바른 위치를 표시하도록 프로젝트 사이트 만들기 대화 상자를 수정합니다.
@@ -657,9 +647,6 @@ ms.locfileid: "37350259"
 -   **편집기 창의 향상된 쓰기 지원:** 편집기 창에서 고급 맞춤법, 문법 및 쓰기 스타일 권장 사항을 볼 수 있습니다. 보조 기술에 대한 향상된 지원을 통해 이러한 창 기능에 액세스할 수 있습니다.
 -   **대체 텍스트 만들기:** 클라우드 기반 서비스는 문서의 그림에 대한 대체 텍스트를 자동으로 생성합니다.
 -   **WIP (Windows Information Protection) 지원:**    Word는 이제 인식 된 앱 이며 구성 된 정책에 따라 보호할 사항을 정확히 결정 하면서 회사 및 개인 데이터를 구분할 수 있습니다.   [추가 정보](https://aka.ms/wiptechnet)
-- **이미지에 보다 쉽게 액세스할 수 있도록 설정** 지능형 서비스는 시각 장애인을 위해 사용자가 문서에 보다 쉽게 액세스할 수 있도록 그림에 대 한 대체 텍스트를 생성 합니다.
-
-
 
 ## <a name="version-1704-june-1"></a>버전 1704:6 월 1 일
 *버전 1704(빌드 8067.2157)*
