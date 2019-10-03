@@ -9,20 +9,107 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 39d280c0752083408c2cd3b8b370cdf04e1efd23
-ms.sourcegitcommit: d1718077f44805d5a7d0a7a0288847413a3e9d4f
+ms.openlocfilehash: f35e65c7ddf3288063d578f4515de38c037b60ba
+ms.sourcegitcommit: 6b645cfab4e6b232ccc97f9805cd1c168783ba43
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/17/2019
-ms.locfileid: "37011678"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37350269"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019년 월별 채널 릴리스에 대한 릴리스 정보
 
 이 릴리스 정보는 Office 365용 Visio Pro, Project Online 데스크톱 클라이언트 및 Office 365 Business를 비롯한 2019년 Office 365 ProPlus의 월별 채널 업데이트에 포함된 새로운 기능 및 비보안 업데이트에 관한 정보를 제공합니다.
  
  > [!NOTE]
->- Microsoft는 일정 기간 동안 매월 기능(및 경우에 따라 수정 사항)을 롤아웃합니다.  아래에서 설명했던 내용이 바로 보이지 않으면 곧 예측할 수 있습니다. [자세한 정보](https://support.office.com/ko-KR/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+>- Microsoft는 일정 기간 동안 매월 기능(및 경우에 따라 수정 사항)을 롤아웃합니다.  아래에서 설명했던 내용이 바로 보이지 않으면 곧 예측할 수 있습니다. [자세한 정보](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- Office 365 ProPlus의 기존 설치에 대한 Microsoft Temas - 7월 초부터 Office 365 ProPlus(및 Office 365 Business)의 업데이트에 Microsoft Teams가 포함됩니다.  Teams가 추가되는 날짜는 사용 중인 업데이트 채널에 따라 다릅니다. 추가 정보는 [Office 365 ProPlus를 사용한 Microsoft Teams 배포](https://docs.microsoft.com/ko-KR/deployoffice/teams-install)를 참조하세요.
+
+## <a name="version-1909-september-30"></a>버전 1909: 09 월 30 일
+*버전 1909 (빌드 12026.20264)*
+* 다양한 버그 및 성능 수정 사항.
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="access"></a>Access
+
+- **연결된 표 빠르게 찾기:** 새 검색 상자를 사용하여 연결된 표를 간편하게 찾을 수 있습니다. [자세한 정보](https://support.office.com/ko-KR/article/1d9346d6-953d-4f85-a9ce-4caec2262797)
+
+### <a name="excel"></a>Excel
+
+- **더 빠른 파일 공유**: 파일을 열지 않고 최근에 사용한 목록에서 문서를 바로 공유할 수 있습니다.
+
+### <a name="outlook"></a>Outlook
+
+- **Outlook의 링크 삽입 메뉴는 테넌트 관리자가 정의한 사용 권한을 포함하는 링크를 삽입합니다:** Outlook의 가장 최근 삽입한 링크에 있는 링크는 이미 사용 권한이 있었던 사용자들에게만 작동했었던 링크를 삽입합니다. 이는 종종 사용자들 간에 문서에 대한 액세스 권한을 요청하는 전자 메일을 주고 받게 하였습니다. 당사는 이제 이러한 환경을 업데이트하여 이제 링크는 테넌트 관리자가 설정한 기본 사용 권한과 함께 삽입됩니다.
+
+- **Outlook 시각적 새로 고침:** 이 기능은 Outlook의 핵심 환경의 시각적 새로 고침의 일부로서 읽기 창 및 검사기에서 메일 메시지의 배치 방법을 업데이트 합니다.
+
+- **공유 일정 업데이트 속도 향상:** Office 365의 공유 일정의 경우 Outlook에서 REST API를 사용하여 해당 일정을 업데이트할 수 있습니다. 미리 보기를 설정하여 공유 일정에 보다 빠르고 신뢰할 수 있는 업데이트를 설정합니다.
+
+- **검색 결과에서 관련 메시지 확인:** Outlook은 검색 용어를 분석하고 검색 결과 상단에 가장 관련성이 높은 전자 메일 메시지를 보여줍니다. 또한 상위 결과 섹션에 날짜별로 정렬된 모든 결과도 볼 수 있습니다.
+
+- **해당 사용자에게 메일 보내기: ** 받는 사람: 줄을 클릭하고 제안 연락처에서 선택합니다. 사진 및 현재 상태 표시기는 해당 사용자를 선택하는데 도움이 됩니다.
+
+- **공격에 대비한 고급 보호:** Office 365 Advanced Threat Protection을 사용하면 전자 메일 제목, 첨부된 메시지, 서명된 메시지, 네트워크 경로 등의 하이퍼 링크를 통해 공격으로부터 보호할 수 있습니다.
+
+- **다른 조명에서 메시지 보기:** 태양/달 단추를 사용하여 읽기 창에서 밝은 배경과 어두운 배경 간에 전환을 합니다. [자세한 정보](https://support.office.com/ko-KR/article/3e2446e0-9a7b-4189-9af9-57fb94d02ae3)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **그림을 SVG로 저장:** 이미지 품질이 손실되지 않도록 크기를 조정할 수 있는 스케일 가능한 벡터 그래픽으로 차트, 도형 또는 기타 그림을 저장합니다. [자세한 정보](https://support.office.com/ko-KR/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+- **잉크-스턴트 재생:** 잉크 그림을 애니메이션으로 만들어 슬라이드 쇼 진행 중에 앞뒤로 재생할 수 있도록 합니다. [자세한 정보](https://support.office.com/ko-KR/article/fa4f044f-810b-43fe-b774-da04a0b37496)
+
+- **더 빠른 파일 공유**: 파일을 열지 않고 최근에 사용한 목록에서 문서를 바로 공유할 수 있습니다.
+
+### <a name="word"></a>Word
+
+- **다른 방식으로 말하기:** 다르게 표현하는 경우 재작성은 도움을 줍니다. 재작성은 표현을 기교있게 만들어주는 대안을 제공합니다.
+
+- **공동 작성 향상** : 공동 작성 시 신뢰도가 향상될 수 있습니다.
+
+- **더 빠른 파일 공유**: 파일을 열지 않고 최근에 사용한 목록에서 문서를 바로 공유할 수 있습니다.
+
+- **다른 사용자가 변경 내용을 신속하게 확인할 수 있습니다.** 공동 작성 기능 향상을 통해 공동 작업자는 이전보다 훨씬 빠르게 변경 내용을 볼 수 있습니다.
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="non-security-updates"></a>비보안 업데이트
+### <a name="excel"></a>Excel
+
+- <div><span style="background-color:rgb(255, 255, 255);display:inline !important;">일부 보호된 시트에서 하이퍼링크를 붙여 넣을 수 없는 문제를 해결했습니다.</span><br></div>
+
+
+- <div>추가 기능 관리자에서 검색할 시 &nbsp;<span style="font-size:13.3333px;background-color:rgb(255, 255, 255);display:inline !important;">를 표시하기 위한 16개 이상의 추가 기능을 활성화하였습니다.</span></div>
+- <div>Excel 아이디어 기능에서, Win32 클라이언트에 있는 아이디어 버튼을 클릭하여 추가 기능을 로드할 때 발생하는 오류를 수정했습니다.&nbsp;</div>
+
+### <a name="outlook"></a>Outlook
+
+- <div>일부 safelinks에서 간단한 호버 URLl이 표시되지 않게 하는 문제를 해결했습니다.</div>
+
+
+- <span style="background-color:rgb(255, 255, 255);display:inline !important;">Outlook에서 Python 첨부 파일도 또한 차단하기 위해 첨부 파일 차단 논리를 업데이트하였습니다.</span>
+
+
+- <span style="background-color:rgb(255, 255, 255);display:inline !important;">Outlook 프로세스에서 메모리 누수가 사용자에게 관찰되는 문제를 해결했습니다.</span>
+
+- 파일을 WebDAV 위치에 저장하지 못하는 문제를 수정했습니다.
+
+
+### <a name="office-suite"></a>Office 제품군
+
+- <div><p style="margin:0in 0in 0.0001pt;font-size:11pt;font-family:Calibri, sans-serif;">파일을 열 때 사용자에게 발생하는 문제를 수정했습니다.</p></div>
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-1908-september-10"></a>버전 1908: 9월 10일
 *버전 1908 (빌드 11929.20300)*
