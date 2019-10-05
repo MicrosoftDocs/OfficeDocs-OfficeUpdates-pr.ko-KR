@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: f35e65c7ddf3288063d578f4515de38c037b60ba
-ms.sourcegitcommit: 6b645cfab4e6b232ccc97f9805cd1c168783ba43
+ms.openlocfilehash: 839e57a08aa9d38f7a9e473175968f2e91c9d28d
+ms.sourcegitcommit: 01ac73d10be11b830776836c70d0a0efe4e7aafc
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37350269"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "37391302"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -63,6 +63,10 @@ ms.locfileid: "37350269"
 - **잉크-스턴트 재생:** 잉크 그림을 애니메이션으로 만들어 슬라이드 쇼 진행 중에 앞뒤로 재생할 수 있도록 합니다. [자세한 정보](https://support.office.com/ko-KR/article/fa4f044f-810b-43fe-b774-da04a0b37496)
 
 - **더 빠른 파일 공유**: 파일을 열지 않고 최근에 사용한 목록에서 문서를 바로 공유할 수 있습니다.
+
+### <a name="visio"></a>Visio
+
+- **Microsoft Flow와 Visio를 사용하여 비즈니스 워크플로를 설계하고 자동화:** Visio를 사용하여 워크플로 다이어그램을 디자인하고 Microsoft 플로로 내보내기를 하여 자동화합니다.
 
 ### <a name="word"></a>Word
 
@@ -528,6 +532,7 @@ ms.locfileid: "37350269"
 - **수식만 쓰세요, 서식은 PowerPoint가 알아서 지정해 드립니다:** 손글씨로 쓴 수학 식을 표준 문자로 변경해 드리겠습니다. 잉크 수식 변환을 선택하고 필기를 선택하기만 하면 됩니다. [자세히 알아보기](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 - **변경 내용을 실시간으로 저장:** 파일을 OneDrive에 업로드하여 모든 업데이트를 자동으로 저장할 수 있습니다.
 - **필터가 적용된 SVG 삽입:** Office 사용자는 이제 필터가 적용된 SVG를 삽입할 수 있습니다. [자세히 알아보기](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **이제 대용량 파일이 빠르게 열립니다: ** 이미지, 동영상 및 기타 대규모 요소들은 이제 OneDrive 또는 SharePoint에 저장된 파일을 열 때 백그라운드로 다운로드됩니다.
 
 ### <a name="word-feature-updates"></a>Word: 기능 업데이트
 
