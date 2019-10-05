@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 7b27ee8a99e987aea1d4e9f89e2816f570bbbe74
-ms.sourcegitcommit: a3d7811ec43bc314f1a90cbd2de5fb2a105c794a
+ms.openlocfilehash: 164383bff371e64336a2c9fb5c93cb3d5723ba3a
+ms.sourcegitcommit: 54722a89dde19941dfc9ad959f128a5c67f79023
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37300495"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "37400147"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 참가자에 대한 릴리스 정보
 
@@ -29,6 +29,78 @@ ms.locfileid: "37300495"
 
 [//]: # (제거하지 마세요)
 
+
+## <a name="version-1910-october-04"></a>버전 1910: 10월 4일
+*버전 1910 (빌드 12126.20000)*
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="excel"></a>Excel
+
+- **데이터 시각화 도우미 추가 기능:** Excel에서 빠르게 Visio 플로차트를 만들 수 있습니다. [자세한 정보](https://support.office.com/ko-KR/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="non-security-updates"></a>비보안 업데이트
+### <a name="excel"></a>Excel
+
+- <div><span>인쇄 미리 보기의 인쇄 영역이 올바르지 않았던 문제를 수정했습니다.</span></div>
+
+
+- <div><span>공동 작성 세션이 진행되는 동안 피벗 테이블을 새로 고칠 수 없었던 문제를 수정했습니다.</span></div>
+
+
+### <a name="access"></a>Access
+
+- <div>사용자가 공유 데이터베이스를 사용하는 경우 &quot;일관성이 없는 상태&quot; 오류가 표시되는 문제를 해결했습니다.</div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>메일 폴더의 복제를 발생시킬 수 있었던 문제를 수정했습니다.</span></div>
+
+
+- <div><span>S/MIME 암호화 전자 메일을 보내려고 할 때 잘못된 오류 메시지를 발생시킬 수 있었던 문제를 수정했습니다.</span></div>
+
+
+- <div><span>사용자가 Skype에서 '부재 중 대화' 메시지를 받을 시 때때로 충돌이 발생할 수 있는 문제를 수정했습니다.</span></div>
+
+
+- <div><span>메모리 누수를 발생시킬 수 있는 문제를 수정했습니다.</span></div>
+
+
+- <div><span>초안으로 저장할 때 보낸 사람 이름을 변경할 수 있었던 문제를 수정했습니다.</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span></span></div>슬라이드 마스터 및 슬라이드 레이아웃에서 머리글/바닥글/슬라이드 번호 플레이스홀더에 텍스트를 붙여 넣은 후 TextRanges를 중단시킬 수 있었던 문제를 수정했습니다.
+
+
+- <div><span></span></div>하이퍼링크를 사용하여 텍스트를 붙여넣을 때 하이퍼링크를 만들지 못하게 하였던 문제를 수정했습니다.
+
+
+- <div>통계가 제대로 작동하지 않도록 하였던 문제를 수정했습니다.</div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>글꼴 색이 적용되지 않았던 문제를 수정했습니다.</span></div>
+
+
+### <a name="office-suite"></a>Office 제품군
+
+- <div>해당 기능을 사용하지 않도록 설정한 경우 버전 기록을 제공할 수 있었던 문제를 수정했습니다.</div>
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-1910-september-27"></a>버전 1910: 9월 27일
 *버전 1910 (빌드 12119.20000)*
