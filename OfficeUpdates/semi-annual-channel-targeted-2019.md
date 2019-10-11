@@ -9,24 +9,59 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 반기 채널(대상 지정) 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 3426e637cc5875cf8b463645ac8fba1af317eda1
-ms.sourcegitcommit: 01ac73d10be11b830776836c70d0a0efe4e7aafc
+ms.openlocfilehash: ecf9078bbde72572a96d97c97fc165a3678cd993
+ms.sourcegitcommit: b7303cf1e168500bcb2efe71dec23c9096715894
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "37391272"
+ms.lasthandoff: 10/09/2019
+ms.locfileid: "37427698"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019년 반기 채널(대상 지정) 릴리스에 대한 릴리스 정보
 
 이 릴리스 정보는 Office 365용 Visio Pro, Project Online 데스크톱 클라이언트 및 Office 365 Business를 비롯한 2019년 Office 365 ProPlus의 반기 채널(대상) 업데이트에 포함된 새로운 기능 및 비보안 업데이트에 관한 정보를 제공합니다.
- 
+
 > [!NOTE]
 > - Microsoft는 일정 기간 동안 반기 채널(대상) 기능(및 경우에 따라 수정 사항)을 롤아웃합니다. 아래에서 설명했던 내용이 바로 보이지 않으면 곧 예측할 수 있습니다. [자세한 정보](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
-
- > [!NOTE]
 > - Microsoft Teams는 버전 1902부터 반기 채널(대상 지정)의 새 설치에 포함됩니다. 버전 1908 이상으로 업데이트 되는 경우 기존 반기 채널(대상 지정) 설치에 Teams가 추가됩니다. 자세한 내용은 [Office 365 ProPlus와 함께 Microsoft Teams 배포](https://docs.microsoft.com/ko-KR/deployoffice/teams-install)를 참조하세요.
 
- 
+## <a name="version-1908-october-08"></a>버전 1908: 10월 8일
+*버전 1908 (빌드 11929.20388)*
+
+보안 업데이트는 [여기](https://docs.microsoft.com/ko-KR/officeupdates/office365-proplus-security-updates)에 나열되어 있습니다.
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="non-security-updates"></a>비보안 업데이트
+### <a name="excel"></a>Excel
+
+- 일부 보호된 시트에서 하이퍼링크를 붙여 넣을 수 없는 문제를 해결했습니다.
+
+- 추가 기능 관리자에서 검색할 시 16개 이상의 추가 기능을 표시하기 위한 문제를 수정했습니다.
+
+- Excel 아이디어 기능에서, Win32 클라이언트에 있는 아이디어 버튼을 클릭하여 추가 기능을 로드할 때 발생하는 오류를 수정했습니다.
+
+### <a name="outlook"></a>Outlook
+
+- 일부 safelinks에서 간단한 호버 URLl이 표시되지 않게 하는 문제를 해결했습니다.
+
+- Outlook에서 Python 첨부 파일도 또한 차단하기 위해 첨부 파일 차단 논리를 업데이트하였습니다.
+
+- Outlook 프로세스에서 메모리 누수가 사용자에게 관찰되는 문제를 해결했습니다.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- PowerPoint에서 공동 작성 및 오프라인 편집을 수반하는 세션에서 데이터가 손실될 수 있는 문제를 수정했습니다.
+
+### <a name="office-suite"></a>Office 제품군
+
+- 사용자가 파일을 열 때 발생하는 충돌 문제를 수정했습니다.
+
+- 백스테이지의 정보 위치판에 접근성 정보가 표시 되지 않는 문제를 수정했습니다.
+
+- 이전에 중단되었을 수 있는 다운로드를 다시 시작하여 Office 업데이트를 다운로드 시의 안정성을 개선했습니다.
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
 ## <a name="version-1908-september-10"></a>버전 1908: 9월 10일
 *버전 1908 (빌드 11929.20300)*
 

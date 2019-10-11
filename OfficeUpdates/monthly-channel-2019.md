@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: aebb9804268114f6716f3d283ac516b26c25c211
-ms.sourcegitcommit: 54722a89dde19941dfc9ad959f128a5c67f79023
+ms.openlocfilehash: 5171b3c95e42d23c140fe8f662dae84c129b1b4f
+ms.sourcegitcommit: b7303cf1e168500bcb2efe71dec23c9096715894
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "37400137"
+ms.lasthandoff: 10/09/2019
+ms.locfileid: "37427688"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -24,10 +24,31 @@ ms.locfileid: "37400137"
 >- Microsoft는 일정 기간 동안 매월 기능(및 경우에 따라 수정 사항)을 롤아웃합니다.  아래에서 설명했던 내용이 바로 보이지 않으면 곧 예측할 수 있습니다. [자세한 정보](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- Office 365 ProPlus의 기존 설치에 대한 Microsoft Temas - 7월 초부터 Office 365 ProPlus(및 Office 365 Business)의 업데이트에 Microsoft Teams가 포함됩니다.  Teams가 추가되는 날짜는 사용 중인 업데이트 채널에 따라 다릅니다. 추가 정보는 [Office 365 ProPlus를 사용한 Microsoft Teams 배포](https://docs.microsoft.com/ko-KR/deployoffice/teams-install)를 참조하세요.
 
+## <a name="version-1909-october-08"></a>버전 1909: 10월 8일
+*버전 1909 (빌드 12026.20320)*
+
+보안 업데이트는 [여기](https://docs.microsoft.com/ko-KR/officeupdates/office365-proplus-security-updates)에 나열되어 있습니다.
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="non-security-updates"></a>비보안 업데이트
+
+### <a name="outlook"></a>Outlook
+
+- Outlook에서 Python 첨부 파일도 또한 차단하기 위해 첨부 파일 차단 논리 문제를 수정했습니다.
+
+- 사용자가 되풀이되는 일정 항목의 일부 인스턴스를 열 수 없는 문제를 해결했습니다.
+
+- Outlook 프로세스에서 메모리 누수가 사용자에게 관찰되는 문제를 해결했습니다.
+
+- 사용자가 프로필을 만드는 동안 충돌이 발생하는 문제를 해결했습니다.
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
 ## <a name="version-1909-september-30"></a>버전 1909: 09 월 30 일
 *버전 1909 (빌드 12026.20264)*
 * 다양한 버그 및 성능 수정 사항.
-
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
@@ -240,7 +261,7 @@ ms.locfileid: "37400137"
 
 ### <a name="outlook-non-security-updates"></a>Outlook: 비보안 업데이트
 
- - 현재 폴더 검색에 간헐적으로 오류가 발생하는 문제를 해결합니다.
+- 현재 폴더 검색에 간헐적으로 오류가 발생하는 문제를 해결합니다.
 
 ## <a name="version-1906-june-27"></a>버전 1906: 6월 27일
 *버전 1906(빌드 11727.20230)*
@@ -532,7 +553,7 @@ ms.locfileid: "37400137"
 - **수식만 쓰세요, 서식은 PowerPoint가 알아서 지정해 드립니다:** 손글씨로 쓴 수학 식을 표준 문자로 변경해 드리겠습니다. 잉크 수식 변환을 선택하고 필기를 선택하기만 하면 됩니다. [자세히 알아보기](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 - **변경 내용을 실시간으로 저장:** 파일을 OneDrive에 업로드하여 모든 업데이트를 자동으로 저장할 수 있습니다.
 - **필터가 적용된 SVG 삽입:** Office 사용자는 이제 필터가 적용된 SVG를 삽입할 수 있습니다. [자세히 알아보기](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
-- **이제 대용량 파일이 빠르게 열립니다: ** 이미지, 동영상 및 기타 대규모 요소들은 이제 OneDrive 또는 SharePoint에 저장된 파일을 열 때 백그라운드로 다운로드됩니다.
+- **이제 큰 파일이 열리는 속도 향상:** OneDrive 또는 SharePoint에 저장된 파일을 열 때 이미지, 비디오 및 다른 큰 요소가 백그라운드에서 계속 다운로드됩니다.
 
 ### <a name="word-feature-updates"></a>Word: 기능 업데이트
 
