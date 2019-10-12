@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 반기 채널(대상 지정) 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: ecf9078bbde72572a96d97c97fc165a3678cd993
-ms.sourcegitcommit: b7303cf1e168500bcb2efe71dec23c9096715894
+ms.openlocfilehash: da3ed0689645e665ee2e6c265ed42e22b16e15ab
+ms.sourcegitcommit: d4aaac5012137e1131fdccb189d2c8b43c49946f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 10/09/2019
-ms.locfileid: "37427698"
+ms.locfileid: "37437670"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019년 반기 채널(대상 지정) 릴리스에 대한 릴리스 정보
 
@@ -59,6 +59,8 @@ ms.locfileid: "37427698"
 - 백스테이지의 정보 위치판에 접근성 정보가 표시 되지 않는 문제를 수정했습니다.
 
 - 이전에 중단되었을 수 있는 다운로드를 다시 시작하여 Office 업데이트를 다운로드 시의 안정성을 개선했습니다.
+
+- Office 고객의 보안을 위해 Microsoft Office 업데이트는 이제 SHA-2 알고리듬 만을 사용하여 서명됩니다.
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
