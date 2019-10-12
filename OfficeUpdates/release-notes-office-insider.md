@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 164383bff371e64336a2c9fb5c93cb3d5723ba3a
-ms.sourcegitcommit: 54722a89dde19941dfc9ad959f128a5c67f79023
+ms.openlocfilehash: d55140544fff10e89ae061ba137d0516a8a9b181
+ms.sourcegitcommit: 9adeb1f93a176a586c2e12f7692141c4de3c1d9b
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "37400147"
+ms.lasthandoff: 10/11/2019
+ms.locfileid: "37471333"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 참가자에 대한 릴리스 정보
 
@@ -29,6 +29,51 @@ ms.locfileid: "37400147"
 
 [//]: # (제거하지 마세요)
 
+
+## <a name="version-1910-october-11"></a>버전 1910: 10월 11일
+*버전 1910 (빌드 12130.20112)*
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="non-security-updates"></a>비보안 업데이트
+### <a name="excel"></a>Excel
+
+- <div>OneDrive에서 파일을 개체로 삽입하는 경우 발생 하는 문제를 해결했습니다.</div>
+
+
+- <div>일부 콘텐츠에 하이퍼링크 서식이 제대로 적용 되지 않는 문제를 해결했습니다.</div>
+
+
+- <div>구조적 절대 참조를 포함하는 수식이 잘못 조정 될 수 있는 문제를 해결했습니다.</div>
+
+
+- <div>이전 버전의 Office에서 작성한 통합 문서를 현재 버전의 Office에서 열었을 때 Excel이 중단될 수 있는 문제를 해결했습니다.</div>
+
+
+- <div>Excel에서 복사한 콘텐츠를 다른 Office 응용 프로그램에 붙여 넣을 시 정확히 표시되지 않는 문제를 해결했습니다.</div>
+
+
+- <div>차트 템플릿을 사용하여 차트를 삽입할 때 미리 보기에 사용되는 색 수정</div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div>AirSpace WinComp에서 실행 시 ARC 장치의 연결이 끊어질 수 있는 문제를 확인 했습니다.</div>
+
+
+### <a name="word"></a>Word
+
+- <div>OneDrive에서 파일을 개체로 삽입하는 경우 발생 하는 문제를 해결했습니다.</div>
+
+
+- <div>그래픽 콘텐츠가 전자 메일 스레드에서 삭제되 게 하는 문제를 수정하기 위해 복구 단계를 개선했습니다.<span></div>
+
+
+
+[//]: # (버그의 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-1910-october-04"></a>버전 1910: 10월 4일
 *버전 1910 (빌드 12126.20000)*
