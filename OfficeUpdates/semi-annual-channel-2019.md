@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 반기 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: b17a06e0bd38e7bdb8d0d91de27fa4f09a962eba
-ms.sourcegitcommit: 01ac73d10be11b830776836c70d0a0efe4e7aafc
+ms.openlocfilehash: 35c36de78ffe34da4565bb2996a81d73b178cfcc
+ms.sourcegitcommit: f0366356e2da83813c99a59e9ce3e60338d11dcc
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "37391322"
+ms.lasthandoff: 10/11/2019
+ms.locfileid: "37453588"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019년 반기 채널 릴리스에 대한 릴리스 정보
 
@@ -25,6 +25,39 @@ ms.locfileid: "37391322"
 > - 반기 채널 사용자가 Office 포털에서 Windows 10용 Office 365를 다운로드 및 설치하면 기본적으로 OneNote 2016이 포함되지 않습니다.
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-1902-october-08"></a>버전 1902: 10월 8일
+*버전 1902(빌드 11328.20438)*
+
+보안 업데이트는 [여기](https://docs.microsoft.com/ko-KR/officeupdates/office365-proplus-security-updates)에 나열되어 있습니다.
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="non-security-updates"></a>비보안 업데이트
+### <a name="excel"></a>Excel
+
+- 일부 보호된 시트에서 하이퍼링크를 붙여 넣을 수 없는 문제를 해결했습니다.
+
+### <a name="project"></a>Project
+
+- 다음 시나리오에서 XPS 파일의 PDF가 만들어지지 않는 문제가 해결되었습니다.</div><ul><li>프로젝트를 엽니다.</li><li>파일 메뉴를 클릭하고 내보내기를 클릭한 다음 <b>PDF/XPS 만들기</b> 단추를 클릭합니다.</li><li>찾아보기 대화 상자에서 파일 이름을 입력하고 확인을 클릭합니다.</li></ul>
+
+### <a name="word"></a>Word
+
+- Windows 현재 빌드의 JAWS가 Caps + 오른쪽 화살표를 사용할 시 단어를 알리지 않는 문제를 해결했습니다.
+
+### <a name="office-suite"></a>Office 제품군
+
+- 이제 사용자는 필수 속성이 누락된 OneDrive 동기화 클라이언트에서 동기화한 Office 파일을 저장할 수 있습니다. 파일>정보로 이동하여 문서 backstage에서 문서 속성을 보고 편집할 수 있습니다. 이 변경을 통해 성능이 개선됩니다.
+
+- 로그인 후 &quot;내 계정 수정&quot; 알림이 사라지지 않는 문제를 해결했습니다.
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-1808-october-08"></a>버전 1808: 10월 8일
+*버전 1808(빌드 10730.20386)*
+
+보안 업데이트는 [여기](https://docs.microsoft.com/ko-KR/officeupdates/office365-proplus-security-updates)에 나열되어 있습니다.
 
 ## <a name="version-1902-september-10"></a>버전 1902: 9월 10일
 *버전 1902 (빌드 11328.20420)*
@@ -159,7 +192,7 @@ ms.locfileid: "37391322"
 - **Microsoft Stream에 게시:** Microsoft Stream을 사용하여 조직 내에서 프레젠테이션을 비디오로 더 안전하게 공유할 수 있습니다. [자세한 정보](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83)
 - **4K 비디오로 내보내기:** 프레젠테이션을 동영상으로 내보낼 때 4K 해상도를 선택할 수 있습니다.  [자세한 정보](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83)
 - **필터가 적용된 SVG 삽입:** Office 사용자는 이제 필터가 적용된 SVG를 삽입할 수 있습니다. [자세히 알아보기](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
-- **이제 큰 파일이 더 빨리 열림:** OneDrive 또는 SharePoint에 저장된 파일을 열 때 이미지, 비디오 및 다른 큰 요소가 백그라운드에서 계속 다운로드됩니다.
+- **이제 큰 파일이 열리는 속도 향상:** OneDrive 또는 SharePoint에 저장된 파일을 열 때 이미지, 비디오 및 다른 큰 요소가 백그라운드에서 계속 다운로드됩니다.
 
 ### <a name="word-feature-updates"></a>Word: 기능 업데이트
 
