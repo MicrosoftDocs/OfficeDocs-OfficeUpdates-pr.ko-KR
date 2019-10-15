@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 참가자에게 Windows Desktop용 월 단위 채널 참가자 빠른 릴리스에 대한 업데이트 내역을 제공합니다.
-ms.openlocfilehash: f83de6b5c8a56e0bc7ff83c3c4ac039171839ebc
-ms.sourcegitcommit: 387fdd3ae168f420e1ed93ce7d486c5e0ff39e88
+ms.openlocfilehash: dbae84384185ba68b75ab69cfd979aee6e641a5c
+ms.sourcegitcommit: 9c4a7d9d2a2171e009e4e46ec5e46eaec6b78f10
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "36998634"
+ms.lasthandoff: 10/14/2019
+ms.locfileid: "37501806"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Office 참가자 채널에 대한 업데이트 기록
 
@@ -26,11 +26,23 @@ ms.locfileid: "36998634"
 
 ## <a name="office-insider-versions-and-builds"></a>Office 참가자 버전 및 빌드
 
-Insider 수준에 등록하면 새로운 기능과 개선 사항으로 자주 업데이트됩니다. 다음 목록은 최근 Insider 버전 및 빌드의 내역을 보여 주며, **가장 최근에 릴리스 된 빌드가 가장 먼저 나열**됩니다. 새 빌드에는 이전 빌드에 포함 된 모든 업데이트가 포함됩니다. 
+Insider 수준에 등록하면 새로운 기능과 개선 사항으로 자주 업데이트됩니다. 다음 목록은 최근 Insider 버전 및 빌드의 내역을 보여 주며, **가장 최근에 릴리스 된 빌드가 가장 먼저 나열**됩니다. 새 빌드에는 이전 빌드에 포함 된 모든 업데이트가 포함됩니다.
 
 릴리스 정보를 찾으려면 [Windows용 Office의 내부 관리자 릴리스 정보](https://docs.microsoft.com/ko-KR/OfficeUpdates/release-notes-office-insider)를 참조하십시오.
 
 [//]: # (제거하지 마세요)
+
+**2019년 10월 14일**<br/>
+버전 1911(빌드 12209.20010)<br/>
+
+**2019년 10월 8일**<br/>
+버전 1910(빌드 12130.20112)<br/>
+
+**2019년 9월 30일**<br/>
+버전 1910(빌드 12126.20000)<br/>
+
+**2019년 9월 23일**<br/>
+버전 1910(빌드 12119.20000)<br/>
 
 **2019년 9월 16일**<br/>
 버전 1910(빌드 12112.20000)<br/>
@@ -148,7 +160,7 @@ Insider 수준에 등록하면 새로운 기능과 개선 사항으로 자주 �
 [Twitter에서 팔로우](https://go.microsoft.com/fwlink/?linkid=717717)<br/> 
 
 [
-  ![Facebook 아이콘을 보여주는 이미지](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/ko-KR/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)
+  ![Facebook 아이콘을 보여주는 이미지](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)
 
 
 **새 기능을 먼저 받아보세요**

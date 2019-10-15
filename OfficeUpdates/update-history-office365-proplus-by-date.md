@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 릴리스 정보에 대한 링크를 포함하여 Office 365 ProPlus 릴리스의 전체 목록을 날짜별로 구성해서 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 33c5882494fc6dc407eb9cd1438d65008935173d
-ms.sourcegitcommit: ba31adfbc9514f2c98d8420923696b1b77872621
+ms.openlocfilehash: f7555a84f2e95d03eec5d438678deb69a186a464
+ms.sourcegitcommit: 49683ab7e2807057042defb376a31b332369d617
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "36631234"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37508873"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 ProPlus에 대한 업데이트 기록(날짜순)
 
@@ -25,22 +25,20 @@ Office 365 ProPlus는 새로운 기능, 보안 업데이트 및 비보안 업데
 > - 이 표는 릴리스 날짜순으로 정렬되어 가장 최근의 릴리스가 먼저 나열됩니다. 
 > - 업데이트 채널에 대한 자세한 내용은 [Office 365 ProPlus 업데이트 채널 개요](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)를 참조하세요.
 
-다음 표에는 각 업데이트 채널에 대한 지원되는 버전 및 최신 빌드 번호가 나와 있습니다. 
+다음 표에는 각 업데이트 채널에 대한 지원되는 버전 및 최신 빌드 번호가 나와 있습니다.
 
 [//]: # (EOSTABLESTART)
 
 |**채널**|**버전**|**빌드**|**릴리스 날짜**|**다음 이하 버전까지 지원**|
 |:-----|:-----|:-----|:-----|:-----|
-|월 단위<br/>|1908<br/>|11929.20254<br/>|2019년 8월 26일<br/>|1909 버전 출시<br/>|
-|반기(대상 지정)<br/>|1902<br/>|11328.20392<br/>|2019년 8월 13일<br/>|2019년 9월 10일<br/>|
-|반기<br/>|1902<br/>|11328.20392<br/>|2019년 8월 13일<br/>|2020년 9월 8일<br/>|
-|반기<br/>|1808<br/>|10730.20370<br/>|2019년 8월 13일<br/>|2020년 3월 10일<br/>|
-|반기<br/>|1803<br/>|9126.2432<br/>|2019년 8월 13일<br/>|2019년 9월 10일<br/>|
+|월간<br/>|1909<br/>|12026.20334<br/>|2019년 10월 14일<br/>|1910 버전 출시<br/>|
+|반기(대상 지정)<br/>|1908<br/>|11929.20396<br/>|2019년 10월 14일<br/>|2020년 3월 10일<br/>|
+|반기<br/>|1902<br/>|11328.20438<br/>|2019년 10월 8일<br/>|2020년 9월 8일<br/>|
+|반기<br/>|1808<br/>|10730.20386<br/>|2019년 10월 8일<br/>|2020년 3월 10일<br/>|
 
 [//]: # (EOSTABLEEND)
 
 이전 버전의 Office 365 ProPlus에서 가장 최근 릴리스로 업데이트할 경우 대략적인 다운로드 크기에 대한 내용은 [Office 365 ProPlus 업데이트의 다운로드 크기](download-sizes-office365-proplus-updates.md)를 참조하세요.
-
 
 다음 표에서는 월별, 반기(대상 지정) 및 반기의 업데이트 채널에 릴리스된 각 Office 365 ProPlus 업데이트에 대한 버전 및 빌드 번호 목록을 제공합니다. 표의 각 항목은 해당 릴리스에 대한 릴리스 정보에 직접 연결됩니다. 릴리스 정보는 Office 365 ProPlus에 대한 업데이트에 포함된 기능, 보안 업데이트 및 비보안 업데이트에 대한 정보를 제공합니다.  
 
@@ -48,6 +46,10 @@ Office 365 ProPlus는 새로운 기능, 보안 업데이트 및 비보안 업데
 
 |**년도**|**릴리스 날짜**|**월별 채널**|**반기별 채널(지정됨)**|**반기 채널**|
 |:-----|:-----|:-----|:-----|:-----|
+|2019|10월 14일|[버전 1909(빌드 12026.20334)](monthly-channel-2019.md#version-1909-october-14)|[버전 1908(빌드 11929.20396)](semi-annual-channel-targeted-2019.md#version-1908-october-14)| |
+|2019|10월 8일|[버전 1909 (빌드 12026.20320)](monthly-channel-2019.md#version-1909-october-8)|[버전 1908 (빌드 11929.20388)](semi-annual-channel-targeted-2019.md#version-1908-october-8)|[버전 1902(빌드 11328.20438)](semi-annual-channel-2019.md#version-1902-october-8)<br/>[버전 1808(빌드 10730.20386)](semi-annual-channel-2019.md#version-1808-october-8)|
+|2019|9월 30일|[버전 1909 (빌드 12026.20264)](monthly-channel-2019.md#version-1909-september-30)| | |
+|2019|9월 10일|[버전 1908 (빌드 11929.20300)](monthly-channel-2019.md#version-1908-september-10)|[버전 1908 (빌드 11929.20300)](semi-annual-channel-targeted-2019.md#version-1908-september-10)|[버전 1902 (빌드 11328.20420)](semi-annual-channel-2019.md#version-1902-september-10)<br/>[버전 1808 (빌드 10730.20380)](semi-annual-channel-2019.md#version-1808-september-10)|
 |2019|8월 26일|[버전 1908(빌드 11929.20254)](monthly-channel-2019.md#version-1908-august-26)| | |
 |2019|8월 13일|[버전 1907(빌드 11901.20218)](monthly-channel-2019.md#version-1907-august-13)|[버전 1902(빌드 11328.20392)](semi-annual-channel-targeted-2019.md#version-1902-august-13)|[버전 1902(빌드 11328.20392)](semi-annual-channel-2019.md#version-1902-august-13)<br/>[버전 1808(빌드 10730.20370)](semi-annual-channel-2019.md#version-1808-august-13)<br/>[버전 1803(빌드 9126.2432)](semi-annual-channel-2019.md#version-1803-august-13)|
 |2019|7월 29일|[버전 1907 (빌드 11901.20176)](monthly-channel-2019.md#version-1907-july-29)| | |
