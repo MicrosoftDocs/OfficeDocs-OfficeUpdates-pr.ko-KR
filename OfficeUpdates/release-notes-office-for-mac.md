@@ -3,19 +3,19 @@ title: Mac용 Office에 대한 릴리스 정보
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 9/19/2019
+ms.date: 10/16/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Office 356 구독자를 위한 Mac용 Office 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 4908b1e9cabf7bf273fe301a332841c0581a1c0c
-ms.sourcegitcommit: 2d7022fa8948c721aa334245d499a32f39c50d3d
+ms.openlocfilehash: fd48bba268faa49e78d4ce6100a895d2597cc224
+ms.sourcegitcommit: 5dfdc197f7b08cd6ba44c20b3e540c3ebf5c4bde
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2019
-ms.locfileid: "37040696"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37523144"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac용 Office에 대한 릴리스 정보
 
@@ -31,9 +31,36 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
 > - 2018년 16.17 릴리스부터 릴리스 정보는 소매점 또는 볼륨 라이선스 계약을 통해 일회용 구매 제품으로 사용할 수 있는 Mac용 Office 버전인 Mac용 Office 2019에도 적용됩니다. 그렇지만 릴리스 정보에 나열된 일부 기능은 Office 365 구독이 있는 경우에만 사용할 수 있습니다.
 > - 버전 16.16 이하 버전의 릴리스 정보는 일회용 구매 제품으로 사용할 수 있는 Mac용 Office의 버전인 Mac용 Office 2016에도 적용됩니다. 16.16 이하 버전은 Mac용 Office 2016 볼륨 라이선스를 통해 정품 인증을 받을 수 있습니다. 버전 16.17 이상은 Mac용 Office 2016 볼륨 라이선스로 정품 인증을 받을 수 없습니다. 9월 이후의 Mac용 Office 2016 릴리스에 대한 내용은 [Mac용 Office 2016 릴리스 정보](release-notes-office-2016-mac.md)를 참조하세요.
 > > 
-> - 종종 일정 기간 월 단위 채널에 기능(및 때때로 수정 항목)을 출시하기도 합니다. 이를 통해 기능을 더 많은 대상 그룹에 출시하기 전에 모두 원활하게 작동하는지 확인할 수 있습니다. 따라서 아래에 설명된 문제가 보이지 않는 이상 결국 받게 되니 아무것도 걱정할 필요가 없습니다. [자세히 알아보기](https://support.office.com/ko-KR/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+> - 종종 일정 기간 월 단위 채널에 기능(및 때때로 수정 항목)을 출시하기도 합니다. 이를 통해 기능을 더 많은 대상 그룹에 출시하기 전에 모두 원활하게 작동하는지 확인할 수 있습니다. 따라서 아래에 설명된 문제가 보이지 않는 이상 결국 받게 되니 아무것도 걱정할 필요가 없습니다. [자세히 알아보기](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
-**참고:** Microsoft 자동 업데이트 (MAU) 릴리스 정보는 [MAU 릴리스 기록](https://docs.microsoft.com/ko-KR/officeupdates/release-history-microsoft-autoupdate) 페이지로 이동되었습니다.<br/>
+**참고:** Microsoft AutoUpdate (MAU) 릴리스 정보는 [MAU 출시 기록](https://docs.microsoft.com/ko-KR/officeupdates/release-history-microsoft-autoupdate) 페이지로 이동했습니다.<br/>
+
+## <a name="october-15-2019-release"></a>2019년 10월 15일 릴리스
+*버전 16.30 (빌드 19101301)*
+
+### <a name="word-feature-updates"></a>Word: 기능 업데이트
+
+- **Word에서 PDF 편집:** PDF를 열고 Word 문서로 변환한 후 편집을 시작합니다.
+### <a name="excel--feature-updates"></a>Excel: 기능 업데이트
+
+- **Visio 데이터 시각화 도우미 Excel 추가 기능:** Excel 내에서 데이터를 세련된 Visio 다이어그램으로 쉽고 빠르게 시각화합니다. [자세한 정보](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+
+
+ ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
+
+- [CVE-2019-1327](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1327): Microsoft Excel 원격 코드 실행 취약성
+- [CVE-2019-1331](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1331): Microsoft Excel 원격 코드 실행 취약성
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint: 기능 업데이트
+
+- **잉크-스턴트 재생:** 잉크 그림을 애니메이션으로 만들어 슬라이드 쇼 진행 중에 앞뒤로 재생할 수 있도록 합니다. [자세한 정보](https://support.office.com/article/fa4f044f-810b-43fe-b774-da04a0b37496
+)
+
+
+### <a name="outlook-feature-updates"></a>Outlook: 기능 업데이트
+
+- 다양한 성능 문제가 수정되었습니다.<br/><br/>
 
 ## <a name="september-18-2019-release"></a>2019년 9월 18일 릴리스
 *버전 16.29.1(빌드 19091700)*
