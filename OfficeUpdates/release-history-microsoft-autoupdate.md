@@ -3,19 +3,19 @@ title: MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/11/2019
+ms.date: 10/16/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT 전문가에게 MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록을 제공합니다.
-ms.openlocfilehash: e4340d6a2d77f7b99febad35f8a5c046f89f023c
-ms.sourcegitcommit: 1c1b860767b1ebeb1b5183f44c086be6d3d68704
+ms.openlocfilehash: a8a80b68ef3b63a85aeca4e1786623244980c45b
+ms.sourcegitcommit: 5dfdc197f7b08cd6ba44c20b3e540c3ebf5c4bde
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/11/2019
-ms.locfileid: "36838188"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37523104"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록
  
@@ -31,6 +31,24 @@ ms.locfileid: "36838188"
 
 릴리스 정보를 확인하려면 [릴리스 정보](release-notes-office-for-mac.md)를 참고하세요.<br/><br/>
 
+## <a name="october-2019-release"></a>2019년 10월 릴리스
+
+**릴리스 날짜:** 2019년 10월 15일
+
+*Microsoft 자동 업데이트 4.16*
+
+ **기능 업데이트:**
+
+- Microsoft 자동 업데이트 4.16부터 이제 모든 고객에게 향상 된 최종 사용자 환경이 제공됩니다.
+
+
+**MAU 업데이트 링크:**
+
+[Microsoft 자동 업데이트 4.16 패키지 다운로드](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 해시:**
+
+5BEA94F8AA2BD4F4398B3E5EDE0EA2F406440B8ACAD46B3DACE904824B41052C<br/><br/>
 ## <a name="september-2019-release"></a>2019년 9월 릴리스
 
 **릴리스 날짜:** 2019년 9월 10일
