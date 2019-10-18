@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Office 356 구독자를 위한 Mac용 Office 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: fd48bba268faa49e78d4ce6100a895d2597cc224
-ms.sourcegitcommit: 5dfdc197f7b08cd6ba44c20b3e540c3ebf5c4bde
+ms.openlocfilehash: e9e6dc1442a2b7b50f968b09a059e35f42bf0a33
+ms.sourcegitcommit: bd2285bb5931e247232bb31c47f7fcc8147360d4
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523144"
+ms.lasthandoff: 10/17/2019
+ms.locfileid: "37564759"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac용 Office에 대한 릴리스 정보
 
@@ -43,7 +43,7 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
 - **Word에서 PDF 편집:** PDF를 열고 Word 문서로 변환한 후 편집을 시작합니다.
 ### <a name="excel--feature-updates"></a>Excel: 기능 업데이트
 
-- **Visio 데이터 시각화 도우미 Excel 추가 기능:** Excel 내에서 데이터를 세련된 Visio 다이어그램으로 쉽고 빠르게 시각화합니다. [자세한 정보](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- 다양한 성능 문제가 수정되었습니다.
 
 
 

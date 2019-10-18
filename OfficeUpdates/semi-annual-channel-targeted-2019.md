@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 반기 채널(대상 지정) 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 932a52dd77bd7ab10217faef92fbc0cef02fca07
-ms.sourcegitcommit: 49683ab7e2807057042defb376a31b332369d617
+ms.openlocfilehash: 1416d7cfba623a37b0f206790e445b11d4be87e7
+ms.sourcegitcommit: 5dfdc197f7b08cd6ba44c20b3e540c3ebf5c4bde
 ms.translationtype: HT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 10/15/2019
-ms.locfileid: "37508853"
+ms.locfileid: "37523134"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019년 반기 채널(대상 지정) 릴리스에 대한 릴리스 정보
 
@@ -23,6 +23,14 @@ ms.locfileid: "37508853"
 > [!NOTE]
 > - Microsoft는 일정 기간 동안 반기 채널(대상) 기능(및 경우에 따라 수정 사항)을 롤아웃합니다. 아래에서 설명했던 내용이 바로 보이지 않으면 곧 예측할 수 있습니다. [자세한 정보](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - Microsoft Teams는 버전 1902부터 반기 채널(대상 지정)의 새 설치에 포함됩니다. 버전 1908 이상으로 업데이트 되는 경우 기존 반기 채널(대상 지정) 설치에 Teams가 추가됩니다. 자세한 내용은 [Office 365 ProPlus와 함께 Microsoft Teams 배포](https://docs.microsoft.com/ko-KR/deployoffice/teams-install)를 참조하세요.
+
+## <a name="version-1909-october-15"></a>버전 1909: 10월 15일
+*버전 1908(빌드 11929.20396)*
+
+### <a name="non-security-updates"></a>비보안 업데이트
+
+### <a name="office-suite"></a>Office 제품군
+- 2019년 10월 14일에 게시한 저장 문제를 해결하기 위해 클라우드 저장 대화 상자를 일시적으로 사용하지 않도록 설정했습니다. 이 기능은 7일 동안의 캐시 기간이 지나면 다시 사용할 수 있습니다.
 
 ## <a name="version-1908-october-14"></a>버전 1908: 10월 14일
 *버전 1908(빌드 11929.20396)*
@@ -37,7 +45,7 @@ ms.locfileid: "37508853"
 
 ### <a name="office-suite"></a>Office 제품군
 
-- 사용자가 Word, Excel 및 PowerPoint 문서를 저장할 수 없는 문제가 해결되었습니다.  이 문제는 새 파일을 만든 후 저장 아이콘을 클릭하거나 Ctrl + S를 눌러 "다른 이름으로 저장 모델 대화 상자" 옵션을 표시하는 사용자에게 영향을 줍니다.
+- 사용자가 Word, Excel 및 PowerPoint 문서를 저장할 수 없는 문제가 해결되었습니다.  이 문제는 새 파일을 만든 후 저장 아이콘을 클릭하거나 Ctrl + S를 눌러 "다른 이름으로 저장 대화 상자" 옵션을 표시하는 사용자에게 영향을 줍니다.
 
 - 특정 상황에서 Office 바로 가기가 업데이트 후에 사라지는 문제를 해결했습니다.  이 업데이트는 Office 바로 가기를 게시할 때 안정성을 높입니다.
 
