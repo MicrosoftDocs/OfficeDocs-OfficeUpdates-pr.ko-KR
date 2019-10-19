@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus의 최신 릴리스, 업데이트 채널 및 릴리스 정보와 업데이트 기록에 대한 링크 목록을 IT 전문가에게 제공합니다.
-ms.openlocfilehash: b100110d36b730901339c3db1d78edae64099612
-ms.sourcegitcommit: c8c625824fd574e9365f60afee5c816b5845a8db
+ms.openlocfilehash: 4743df1d8d437972d0ec8800e2a2e232d7eda7b1
+ms.sourcegitcommit: a553f26c5b5f8035bd2217ad6f03dd56535f9349
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/23/2019
-ms.locfileid: "35823957"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36444571"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Office 365 ProPlus 업데이트에 대한 릴리스 정보
 
@@ -44,6 +44,10 @@ ms.locfileid: "35823957"
  - 반기 (대상 지정): [2019](semi-annual-channel-targeted-2019.md), [2018](semi-annual-channel-targeted-2018.md), [2017](semi-annual-channel-targeted-2017.md), [2016](semi-annual-channel-targeted-2016.md)
  - 반기: [2019](semi-annual-channel-2019.md), [2018](semi-annual-channel-2018.md), [2017](semi-annual-channel-2017.md), [2016](semi-annual-channel-2016.md)
 
+ ## <a name="release-history-for-office-deployment-tool"></a>Office 배포 도구에 대한 릴리스 기록
+ Office 배포 도구 릴리스의 전체 목록을 보려면 다음 문서를 참조하세요.
+ - [Office 배포 도구에 대한 릴리스 기록](ODT-release-history.md)
+
 ## <a name="office-for-mac-release-information"></a>Mac용 Microsoft Office 릴리스 정보
 
 Office 365 ProPlus를 포함하는 모든 Office 365 구독 계획에 포함된 Mac용 Office의 업데이트에 대한 내용은 다음 문서를 참조하세요.
@@ -54,7 +58,7 @@ Office 365 ProPlus를 포함하는 모든 Office 365 구독 계획에 포함된 
 
 ## <a name="related-topics"></a>관련 항목
 
-- [Office 365 ProPlus의 업데이트 채널 개요](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
+- [Office 365 ProPlus의 업데이트 채널 개요](https://docs.microsoft.com/deployoffice/overview-of-update-channels-for-office-365-proplus)
 - [Office 배포](https://docs.microsoft.com/deployoffice/)
 - [Office 365의 새로운 기능](https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426)
 - [Office 365 로드맵](https://products.office.com/business/office-365-roadmap)

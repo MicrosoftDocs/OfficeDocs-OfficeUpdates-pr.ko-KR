@@ -3,7 +3,7 @@ title: Project Server 업데이트
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 07/10/2019
+ms.date: 10/9/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: project-server-itpro
@@ -13,12 +13,12 @@ ms.collection:
 - IT_ProjectAdmin_Top
 - RelNotes_Server
 description: 한 곳에서 Project Server 2013 및 Project Server 2010용 업데이트를 찾아서 관리합니다. 이 페이지의 링크를 사용하여 업데이트에 대해 자세히 알아보고 업데이트를 다운로드할 수 있습니다.
-ms.openlocfilehash: dd399ffb58c6799f8e0ee21b7df3b2eec72472a9
-ms.sourcegitcommit: f0762345dc203481117f080f41fba451bffbac65
+ms.openlocfilehash: a6bd8b68cd841f1e1e142dc2d2fc31428dbca157
+ms.sourcegitcommit: a553f26c5b5f8035bd2217ad6f03dd56535f9349
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35594596"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37424073"
 ---
 # <a name="project-server-updates"></a>Project Server 업데이트
 
@@ -30,6 +30,9 @@ ms.locfileid: "35594596"
   
 |**릴리스 날짜**|**KB 번호**|
 |:-----|:-----|:-----|
+|2019년 10월  <br/> |[KB4484120](https://support.microsoft.com/kb/4484120) <br/>|
+|2019년 9월  <br/> |[KB4484093](https://support.microsoft.com/kb/4484093) <br/>|
+|2019년 8월  <br/> |[KB4475560](https://support.microsoft.com/kb/4475560) <br/>|
 |2019년 7월  <br/> |[KB4475524](https://support.microsoft.com/kb/4475524) <br/>|
 |2019년 6월  <br/> |[KB4464600](https://support.microsoft.com/kb/4464600) <br/>|
 |2019년 5월  <br/> |[KB4464562](https://support.microsoft.com/kb/4464562) <br/>|
@@ -90,6 +93,9 @@ ms.locfileid: "35594596"
 
 |**릴리스 날짜**|**KB 번호**|
 |:-----|:-----|:-----|
+|2019년 10월  <br/>  |[KB4484128](https://support.microsoft.com/kb/4484128) <br/>|
+|2019년 9월  <br/>  |[KB4475600](https://support.microsoft.com/kb/4475600) <br/>|
+|2019년 8월  <br/>  |[KB4475570](https://support.microsoft.com/kb/4475570) <br/>|
 |2019년 7월  <br/>  |[KB4475532](https://support.microsoft.com/kb/4475532) <br/>|
 |2019년 6월  <br/>  |[KB4475507](https://support.microsoft.com/kb/4475507) <br/>|
 |2019년 5월  <br/>  |[KB4464568](https://support.microsoft.com/kb/4464568) <br/>|
