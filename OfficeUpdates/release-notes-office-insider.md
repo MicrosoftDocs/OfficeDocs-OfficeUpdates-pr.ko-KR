@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: d55140544fff10e89ae061ba137d0516a8a9b181
-ms.sourcegitcommit: 9adeb1f93a176a586c2e12f7692141c4de3c1d9b
+ms.openlocfilehash: 688f469ac559bd60f8bb309c49af83c5d33751b7
+ms.sourcegitcommit: a553f26c5b5f8035bd2217ad6f03dd56535f9349
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "37471333"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37595326"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 참가자에 대한 릴리스 정보
 
@@ -29,6 +29,92 @@ ms.locfileid: "37471333"
 
 [//]: # (제거하지 마세요)
 
+
+## <a name="version-1911-october-18"></a>버전 1911: 10월 18일
+*버전 1911(빌드 12209.20010)*
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="outlook"></a>Outlook
+
+- **가장 필요로 하는 사용자에게 접속할 수 있는 메일 보내기:** Outlook에서 접속할 수 있는 콘텐츠를 선호하는 사용자에게 전자 메일을 보낼 때 콘텐츠에 액세스가 가능한 지 확인하는 데 도움이 되는 메일 팁을 표시합니다.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **모든 사용자를 위한 프레젠테이션 최적화: ** 접근성 검사기는 기능은 스크린 리더를 염두에 두고 슬라이드에서 개체를 정렬하는데 도움을 줍니다.
+
+### <a name="office-suite"></a>Office 제품군
+
+- **업로드 센터가 주의를 요하는 파일들로 대체됩니다: ** 업로드 센터가 파일 > 열기 아래의 Office 응용 프로그램 내에 표시되는 주의를 요하는 파일들로 대체됩니다. 이 새로운 환경은 업로드 센터와 비교 시 더욱 최신이고, 통합적이며 개입성이 낮습니다.
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="non-security-updates"></a>비보안 업데이트
+### <a name="excel"></a>Excel
+
+- <div><span>자동 맞춤을 사용하여 행 높이를 조정할 때 확인란 컨트롤이 축소되었던 문제를 해결했습니다.</span></div>
+
+
+- <div><span>스크롤 후 셀을 선택하면 잘못된 셀이 선택되었던 문제를 해결했습니다.</span></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>디지털로 서명된 첨부 파일을 사용하여 전자 메일에 서명할 때 디지털 서명이 훼손되는 문제를 확인했습니다.</span></div>
+
+
+- <div><span>메시지 본문에 끌어넣기를 한 후 긴 파일 이름이 잘리는 문제를 확인했습니다.</span></div>
+
+
+- <div>리본이 자동으로 숨기기로 설정된 경우 검색 상자가 사라지는 문제를 확인했습니다.</div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span></span></div><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;">슬라이드 미리 보기의 가로 세로 비율이 제대로 잠기거나 해제되지 않는 문제를 확인했습니다.</span>
+
+
+### <a name="security"></a>보안
+
+- <div><span>환영 메시지에 유효하지 않은 링크가 포함되는 문제를 확인했습니다.</span></div>
+
+
+### <a name="project"></a>프로젝트
+
+- <div>업데이트 작업을 수행하는 동안 입력한 메모가 보존되지 않는 문제를 확인했습니다.<br></div>
+
+
+- <div>사용자가 파일을 잠글 수 있지만 오류 메시지에 사용자 이름이 표시되지 않는 문제를 확인했습니다.</div>
+
+
+- <div><span>읽기 전용 프로젝트를 열 때 사용자가 여러 메시지를 받을 수 있는 문제를 확인했습니다.</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>스크린 리더를 사용하는 동안 의견을 볼 때 발생하는 문제를 확인했습니다.</span></div>
+
+
+- <div><span>일부 비평이 맞춤법이나 문법의 비평으로 오인되는 문제를 확인했습니다.</span></div>
+
+
+- <div><span>새 의견 대화 상자에서 간혹 포커스가 맞지 않는 문제를 확인했습니다.</span></div>
+
+
+### <a name="office-suite"></a>Office 제품군
+
+- <div><span>&quot;진행 중인 다른 설치&quot;의 잘못된 오류 메시지로 인해 업그레이드를 하지 못했던 문제를 수정했습니다.</span></div>
+
+- <div><span>로컬 리소스에서 클라우드 리소스로의 동기화에 영향을 줄 수 있는 문제를 확인했습니다.</span></div>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-1910-october-11"></a>버전 1910: 10월 11일
 *버전 1910 (빌드 12130.20112)*
@@ -69,7 +155,7 @@ ms.locfileid: "37471333"
 - <div>OneDrive에서 파일을 개체로 삽입하는 경우 발생 하는 문제를 해결했습니다.</div>
 
 
-- <div>그래픽 콘텐츠가 전자 메일 스레드에서 삭제되 게 하는 문제를 수정하기 위해 복구 단계를 개선했습니다.<span></div>
+- <div>그래픽 콘텐츠가 전자 메일 스레드에서 삭제되 게 하는 문제를 수정하기 위해 복구 단계를 개선했습니다.<span>&nbsp;</span></div>
 
 
 

@@ -3,19 +3,19 @@ title: Windows Installer(MSI)를 사용하는 Office 버전에 대한 최신 비
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Office 2016, Office 2013 및 Office 2010 영구 버전의 최신 비보안 업데이트 정보에 대한 링크를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 8e9dbe270b0cd2104f73f363b865f6c3d8b498df
-ms.sourcegitcommit: bd6e681bdde320ee6d55f7d4e4434d4f0cde7a81
+ms.openlocfilehash: 59b615d4abf9e6af5dd69d242900648f659992b5
+ms.sourcegitcommit: a553f26c5b5f8035bd2217ad6f03dd56535f9349
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36713541"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37342771"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Windows Installer(MSI)를 사용하는 Office 버전에 대한 최신 비보안 업데이트
 
@@ -26,6 +26,23 @@ ms.locfileid: "36713541"
 > - 이 문서의 정보는 Office 365 ProPlus와 같은 Office 365 버전의 Office에는 적용되지 않습니다.
 > - Office 업데이트 설치에 대한 자세한 내용은 [Office 업데이트 설치](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)를 참조하세요.
 <br/><br/>
+
+## <a name="october-1-2019"></a>2019년 10월 1일
+
+**Office 2016**<br/>
+Microsoft Office 2016에 대한 업데이트([KB4475585](https://support.microsoft.com/help/4475585)) <br/> Microsoft Office 2016에 대한 업데이트([KB4484114](https://support.microsoft.com/help/4484114)) <br/>
+Microsoft Office 2016 언어 인터페이스 팩에 대한 업데이트([KB4475582](https://support.microsoft.com/help/4475582))<br/>
+Microsoft Outlook 2016에 대한 업데이트([KB4484107](https://support.microsoft.com/help/4484107)) <br/>
+Microsoft PowerPoint 2016에 대한 업데이트 ([KB4475578](https://support.microsoft.com/help/4475578)) <br/>
+Microsoft Project 2016에 대한 업데이트([KB4484116](https://support.microsoft.com/help/4484116)) <br/>
+Microsoft Word 2016에 대한 업데이트([KB4484105](https://support.microsoft.com/help/4484105)) <br/>
+비즈니스용 Skype 2016에 대한 업데이트([KB4484102](https://support.microsoft.com/help/4484102)) <br/>
+
+**Office 2013**<br/>
+Microsoft Outlook 2013에 대한 업데이트([KB4484096](https://support.microsoft.com/help/4484096))<br/>
+
+**Office 2010**<br/>
+Microsoft Outlook 2010에 대한 업데이트([KB4475604](https://support.microsoft.com/help/4475604))<br/><br/>
 
 ## <a name="september-3-2019"></a>2019년 9월 3일
 
