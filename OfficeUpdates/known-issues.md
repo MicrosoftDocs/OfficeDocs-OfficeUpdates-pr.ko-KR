@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus의 알려진 문제에 대한 정보를 제공합니다.
-ms.openlocfilehash: 60706952efab5ec1379cbe260442b5865f599f28
-ms.sourcegitcommit: 34571aa50b48a2111dee315f0ebf2e5f90cdf434
+ms.openlocfilehash: 8872d045698d314bcd2d911df744a696cbd60c5f
+ms.sourcegitcommit: d0863aa4ffd223e663bbbf4be0182192b127795e
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37574376"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37593779"
 ---
 # <a name="office-365-proplus-known-issues"></a>Office 365 ProPlus의 알려진 문제
 
@@ -33,6 +33,7 @@ ms.locfileid: "37574376"
 |요약|영향을 받는 응용 프로그램|
 |:-------------------------------------------------------------------------------------|:---------------------|
 |첫 번째 항목을 발견한 후 대화 상자에서 포커스가 있던 위치를 변경시키는 찾기 및 바꾸기 기능의 문제를 발견했습니다. <br><br> **해결된 버전**: <br> SACT 버전 1908(16.0.11929.20396)|Excel<br><br>
+|색을 기준으로 필터링하는 성능에 문제를 확인했습니다. <br><br> **해결된 버전**: <br>월간 버전 1909(16.0.12026.20264) <br>|Excel<br><br>
 |기본 일정의 항목을 그룹 일정에 복사할 때 사용 권한 오류가 발생하는 문제를 확인했습니다.<br><br> **상태: 조사 중**|Outlook<br><br>
 |Win7에서 모든 앱의 리본 메뉴에서 도형 갤러리 삽입을 표시하는 데 약 4초가 걸리는 성능 문제를 확인했습니다.<br><br> **해결된 버전**: <br>월간 버전 1909(16.0.12026.20264) <br> SACT 버전 1908(16.0.11929.20396)|PowerPoint<br><br>
 |특정 상황에서 Office 바로 가기가 다음 업데이트 후 사라질 수 있는 문제를 발견했습니다.  <br><br> **상태: 조사 중**|Office 제품군<br><br>
