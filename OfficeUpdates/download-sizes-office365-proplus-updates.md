@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 각 업데이트 채널에 대한 Office 365 ProPlus 업데이트의 대략적인 다운로드 크기 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 3a89ea83f16fe302326b963d712f08f4f1573a32
-ms.sourcegitcommit: 49683ab7e2807057042defb376a31b332369d617
+ms.openlocfilehash: fb4ebbf2fcad1b01b204601d09aec2b69dccd085
+ms.sourcegitcommit: a7df5bc43c95aeefb16cd4296eef29921d75f818
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37508843"
+ms.lasthandoff: 10/23/2019
+ms.locfileid: "37644119"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 ProPlus 업데이트의 다운로드 크기
 
@@ -29,6 +29,21 @@ Microsoft의 목표는 기업 고객이 네트워크 대역폭 사용률을 계�
 > - 지난 4개월 동안의 릴리스만 표시됩니다.
 
 [//]: # (제거하지 마세요)
+
+## <a name="october-22-2019"></a>2019년 10월 22일
+
+[//]: # (항목을 제거하지 마세요. 시작 2019년 10월 22일)
+
+### <a name="monthly-channel"></a>월별 채널
+
+가장 최근 릴리스는 버전 1909 (빌드 12026.20344)입니다.
+
+|**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
+|:-----|:-----|:-----|
+|버전 1909 (빌드 12026.20334) <br/> |2019년 10월 14일 <br/> |58<br/> |
+|버전 1909 (빌드 12026.20320) <br/> |2019년 10월 8일 <br/> |58<br/> |
+
+[//]: # (콘텐츠를 제거하지 마세요 종료 2019년 10월 22일)
 
 ## <a name="october-14-2019"></a>2019년 10월 14일
 

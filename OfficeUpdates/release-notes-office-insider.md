@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 688f469ac559bd60f8bb309c49af83c5d33751b7
-ms.sourcegitcommit: a553f26c5b5f8035bd2217ad6f03dd56535f9349
+ms.openlocfilehash: 84c2c6eab8a590979e5578e7e4bd1fb1ca1df8a9
+ms.sourcegitcommit: d5f74908719192bf15836140fca7d160de2bccd1
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37595326"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37653441"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 참가자에 대한 릴리스 정보
 
@@ -78,15 +78,9 @@ ms.locfileid: "37595326"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- <div><span></span></div><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;">슬라이드 미리 보기의 가로 세로 비율이 제대로 잠기거나 해제되지 않는 문제를 확인했습니다.</span>
+- <div><span>슬라이드 미리 보기의 가로 세로 비율이 제대로 잠기거나 해제되지 않는 문제를 확인했습니다.</span></div>
 
-
-### <a name="security"></a>보안
-
-- <div><span>환영 메시지에 유효하지 않은 링크가 포함되는 문제를 확인했습니다.</span></div>
-
-
-### <a name="project"></a>프로젝트
+### <a name="project"></a>Project
 
 - <div>업데이트 작업을 수행하는 동안 입력한 메모가 보존되지 않는 문제를 확인했습니다.<br></div>
 
@@ -113,6 +107,9 @@ ms.locfileid: "37595326"
 - <div><span>&quot;진행 중인 다른 설치&quot;의 잘못된 오류 메시지로 인해 업그레이드를 하지 못했던 문제를 수정했습니다.</span></div>
 
 - <div><span>로컬 리소스에서 클라우드 리소스로의 동기화에 영향을 줄 수 있는 문제를 확인했습니다.</span></div>
+
+- <div><span>환영 메시지에 유효하지 않은 링크가 포함되는 문제를 확인했습니다.</span></div>
+
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 

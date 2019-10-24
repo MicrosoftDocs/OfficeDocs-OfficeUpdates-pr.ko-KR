@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 2943fc287038498cd62c42932aebb5c216676619
-ms.sourcegitcommit: 5787a23a670c1b2412e7437d33124f6c5b80550c
+ms.openlocfilehash: f60a8ef5b2f4613ab4e5e4d49dbc6db06a5656cf
+ms.sourcegitcommit: a7df5bc43c95aeefb16cd4296eef29921d75f818
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "37553825"
+ms.lasthandoff: 10/23/2019
+ms.locfileid: "37644189"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -24,12 +24,31 @@ ms.locfileid: "37553825"
 >- Microsoft는 일정 기간 동안 매월 기능(및 경우에 따라 수정 사항)을 롤아웃합니다.  아래에서 설명했던 내용이 바로 보이지 않으면 곧 예측할 수 있습니다. [자세한 정보](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- Office 365 ProPlus의 기존 설치에 대한 Microsoft Temas - 7월 초부터 Office 365 ProPlus(및 Office 365 Business)의 업데이트에 Microsoft Teams가 포함됩니다.  Teams가 추가되는 날짜는 사용 중인 업데이트 채널에 따라 다릅니다. 추가 정보는 [Office 365 ProPlus를 사용한 Microsoft Teams 배포](https://docs.microsoft.com/ko-KR/deployoffice/teams-install)를 참조하세요.
 
+## <a name="version-1909-october-22"></a>버전 1909: 10월 22일
+*버전 1909 (빌드 12026.20344)*
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="non-security-updates"></a>비보안 업데이트
+### <a name="project"></a>Project
+- 읽기 전용 프로젝트를 열 때 사용자가 메시지 여러 개를 받을 수 있는 문제를 해결했습니다.
+
+### <a name="office-suite"></a>Office 제품군
+
+- Office 고객의 보안을 위해 Microsoft Office 업데이트는 이제 SHA-2 알고리듬 만을 사용하여 서명됩니다.<br></div>
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+
 ## <a name="october-15"></a>10월 15일
 
 ### <a name="non-security-updates"></a>비보안 업데이트
 
 ### <a name="office-suite"></a>Office 제품군
 - 12130.20184 이전 빌드에 대해 2019년 10월 14일에 게시한 저장 문제를 해결하기 위해 클라우드 저장 대화 상자를 일시적으로 사용하지 않도록 설정했습니다. 이 기능은 곧 다시 활성화됩니다.
+
 
 ## <a name="version-1909-october-14"></a>버전 1909: 10월 14일
 *버전 1909(빌드 12026.20334)*

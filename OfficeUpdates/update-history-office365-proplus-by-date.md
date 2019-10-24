@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 릴리스 정보에 대한 링크를 포함하여 Office 365 ProPlus 릴리스의 전체 목록을 날짜별로 구성해서 IT 전문가에게 제공합니다.
-ms.openlocfilehash: f7555a84f2e95d03eec5d438678deb69a186a464
-ms.sourcegitcommit: 49683ab7e2807057042defb376a31b332369d617
+ms.openlocfilehash: 8a335b131dae72d251d409aa15c413dd58bff91c
+ms.sourcegitcommit: a7df5bc43c95aeefb16cd4296eef29921d75f818
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37508873"
+ms.lasthandoff: 10/23/2019
+ms.locfileid: "37644179"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 ProPlus에 대한 업데이트 기록(날짜순)
 
@@ -22,7 +22,7 @@ Office 365 ProPlus는 새로운 기능, 보안 업데이트 및 비보안 업데
 
 > [!NOTE]
 > - 이러한 버전 및 빌드 번호는 Office 365 Business, Visio Pro for Office 365 및 Project Online 데스크톱 클라이언트에도 적용됩니다. Office 365 Business는 Business Premium과 같은 일부 Office 365 계획에 포함된 Office 버전입니다.
-> - 이 표는 릴리스 날짜순으로 정렬되어 가장 최근의 릴리스가 먼저 나열됩니다. 
+> - 이 표는 릴리스 날짜순으로 정렬되어 가장 최근의 릴리스가 먼저 나열됩니다.
 > - 업데이트 채널에 대한 자세한 내용은 [Office 365 ProPlus 업데이트 채널 개요](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)를 참조하세요.
 
 다음 표에는 각 업데이트 채널에 대한 지원되는 버전 및 최신 빌드 번호가 나와 있습니다.
@@ -31,7 +31,7 @@ Office 365 ProPlus는 새로운 기능, 보안 업데이트 및 비보안 업데
 
 |**채널**|**버전**|**빌드**|**릴리스 날짜**|**다음 이하 버전까지 지원**|
 |:-----|:-----|:-----|:-----|:-----|
-|월간<br/>|1909<br/>|12026.20334<br/>|2019년 10월 14일<br/>|1910 버전 출시<br/>|
+|월간<br/>|1909<br/>|12026.20344<br/>|2019년 10월 22일<br/>|1910 버전 출시<br/>|
 |반기(대상 지정)<br/>|1908<br/>|11929.20396<br/>|2019년 10월 14일<br/>|2020년 3월 10일<br/>|
 |반기<br/>|1902<br/>|11328.20438<br/>|2019년 10월 8일<br/>|2020년 9월 8일<br/>|
 |반기<br/>|1808<br/>|10730.20386<br/>|2019년 10월 8일<br/>|2020년 3월 10일<br/>|
@@ -46,7 +46,8 @@ Office 365 ProPlus는 새로운 기능, 보안 업데이트 및 비보안 업데
 
 |**년도**|**릴리스 날짜**|**월별 채널**|**반기별 채널(지정됨)**|**반기 채널**|
 |:-----|:-----|:-----|:-----|:-----|
-|2019|10월 14일|[버전 1909(빌드 12026.20334)](monthly-channel-2019.md#version-1909-october-14)|[버전 1908(빌드 11929.20396)](semi-annual-channel-targeted-2019.md#version-1908-october-14)| |
+|2019년|10월 22일|[버전 1909 (빌드 12026.20344)](monthly-channel-2019.md#version-1909-october-22)| | |
+|2019년|10월 14일|[버전 1909(빌드 12026.20334)](monthly-channel-2019.md#version-1909-october-14)|[버전 1908(빌드 11929.20396)](semi-annual-channel-targeted-2019.md#version-1908-october-14)| |
 |2019|10월 8일|[버전 1909 (빌드 12026.20320)](monthly-channel-2019.md#version-1909-october-8)|[버전 1908 (빌드 11929.20388)](semi-annual-channel-targeted-2019.md#version-1908-october-8)|[버전 1902(빌드 11328.20438)](semi-annual-channel-2019.md#version-1902-october-8)<br/>[버전 1808(빌드 10730.20386)](semi-annual-channel-2019.md#version-1808-october-8)|
 |2019|9월 30일|[버전 1909 (빌드 12026.20264)](monthly-channel-2019.md#version-1909-september-30)| | |
 |2019|9월 10일|[버전 1908 (빌드 11929.20300)](monthly-channel-2019.md#version-1908-september-10)|[버전 1908 (빌드 11929.20300)](semi-annual-channel-targeted-2019.md#version-1908-september-10)|[버전 1902 (빌드 11328.20420)](semi-annual-channel-2019.md#version-1902-september-10)<br/>[버전 1808 (빌드 10730.20380)](semi-annual-channel-2019.md#version-1808-september-10)|
