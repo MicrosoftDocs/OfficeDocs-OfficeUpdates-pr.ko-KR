@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 월간 채널 업데이트 내역 제공 Windows 데스크톱의 대상 릴리스
-ms.openlocfilehash: 830179b4afed238c40bccaaa22d873cac227915a
-ms.sourcegitcommit: 49683ab7e2807057042defb376a31b332369d617
+ms.openlocfilehash: cddcd92805a9abeeb0ab31fe2822a251335ef87f
+ms.sourcegitcommit: a7df5bc43c95aeefb16cd4296eef29921d75f818
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37508883"
+ms.lasthandoff: 10/23/2019
+ms.locfileid: "37644139"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Windows용 월간(대상) 채널의 업데이트 내역
 
@@ -34,22 +34,25 @@ ms.locfileid: "37508883"
 
 [//]: # (제거하지 마세요)
 
-**2019 년 10 월 14 일**<br/>
+**2019 년 10 월 22 일**<br/>
+버전 1910 (빌드 12130.20210)<br/>
+
+**2019년 10월 14일**<br/>
 버전 1910 (빌드 12130.20184)<br/>
 
-**2019 년 10 월 14 일**<br/>
+**2019년 10월 14일**<br/>
 버전 1910 (빌드 12130.20178)<br/>
 
-**2019 년 10 월 8 일**<br/>
+**2019년 10월 8일**<br/>
 버전 1909 (빌드 12026.20320)<br/>
 
 **2019 년 9 월 28 일**<br/>
 버전 1909 (빌드 12026.20264)<br/>
 
-**2019 년 9 월 23 일**<br/>
+**2019년 9월 23일**<br/>
 버전 1909 (빌드 12026.20248)<br/>
 
-**2019 년 9 월 16 일**<br/>
+**2019년 9월 16일**<br/>
 버전 1909 (빌드 12026.20190)<br/>
 
 **2019년 9월 10일**<br/>
@@ -70,14 +73,14 @@ ms.locfileid: "37508883"
 **7 월 25 일, 2019**<br/>
 버전 1907 (빌드 11901.20156)<br/>
 
-**2019 년 7 월 22 일**<br/>
+**2019년 7월 22일**<br/>
 버전 1907 (빌드 11901.20120)<br/>
 
-**7 월 15 일 2019**<br/>
+**2019년 7월 15일**<br/>
 버전 1907 (빌드 11901.20080)<br/>
 
 **2019년 7월 9일**<br/>
-버전 1906(빌드 11727.20244)<br/>
+버전 1906 (빌드 11727.20244)<br/>
 
 **2019년 6월 27일**<br/>
 버전 1906(빌드 11727.20230)<br/>
@@ -174,8 +177,7 @@ ms.locfileid: "37508883"
 **Twitter의 office 참가자**<br/> @OfficeInsider에서, 우리는 참가자 배포에 관해 자주 게시하고 참가자를 위한 특별 이벤트를 주최합니다.<br/> 
 [Twitter에서 팔로우](https://go.microsoft.com/fwlink/?linkid=717717)<br/> 
 
-
-  [
+[
   ![Facebook 아이콘을 보여주는 이미지](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)       
 
 
