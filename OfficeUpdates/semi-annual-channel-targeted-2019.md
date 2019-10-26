@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 반기 채널(대상 지정) 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: b7d3805f0305556362573c43606dcdc6f6755247
-ms.sourcegitcommit: 5787a23a670c1b2412e7437d33124f6c5b80550c
+ms.openlocfilehash: 8f023bc4e4155b17cb35ad85874b0c045f043da5
+ms.sourcegitcommit: 33bb47548810efeb6cd5c727c3487192fe6364a8
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "37553815"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37732998"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019년 반기 채널(대상 지정) 릴리스에 대한 릴리스 정보
 
@@ -198,7 +198,7 @@ ms.locfileid: "37553815"
 
 - **콘텐츠 도달 범위 늘리기:** 접근성 높은 문서를 만들어야 하나요? 진행 중인 작업을 중단하지 않고 계속 접근성 검사를 실행하며 상태를 확인할 수 있습니다. 검토 > 접근성 검사를 클릭하여 검사를 시작해 보세요. 확인해야 할 결과를 발견하면 상태 표시줄에 알려드립니다.
 
-- **페이지에 색상 추가하기:** 새 페이지 색상은 전체 흰색 또는 전체 검은색 배경이 자신에게 적합하지 않은 경우 변경하기가 매우 쉽다는 것을 의미합니다.
+- **더 많은 페이지 색상을 사용하도록 학습 도구 모드에 추가 지원 제공:** Word의 학습 도구에 페이지 테마 색상에 대한 지원이 추가되어, 페이지의 배경색을 변경할 수 있습니다. 많은 사람들이 흑백 또는 검정색 배경으로 읽는 것에 어려움을 느끼고 있으므로 PC 및 Mac의 Word에서 색상 선택을 확장했습니다.
 
 - **원활하게 전환:** 새 계정 관리자는 모든 Office 365 작업 및 개인 계정을 한 곳에 표시합니다. 회사 및 개인 계정 간 전환이 매우 용이합니다. [자세한 정보](https://support.office.com/ko-KR/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
 
