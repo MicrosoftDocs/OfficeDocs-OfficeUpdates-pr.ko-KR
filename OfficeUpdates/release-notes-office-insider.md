@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 84c2c6eab8a590979e5578e7e4bd1fb1ca1df8a9
-ms.sourcegitcommit: d5f74908719192bf15836140fca7d160de2bccd1
+ms.openlocfilehash: 22f4c64af414ed85db06bb4e7771f091076940ef
+ms.sourcegitcommit: 33bb47548810efeb6cd5c727c3487192fe6364a8
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37653441"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37733012"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 참가자에 대한 릴리스 정보
 
@@ -29,6 +29,97 @@ ms.locfileid: "37653441"
 
 [//]: # (제거하지 마세요)
 
+
+## <a name="version-1911-october-25"></a>버전 1911: 10월 25일
+*버전 1911(빌드 12215.20006)*
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="visio"></a>Visio
+
+- **Excel에서 세련된 Visio  다이어그램 만들기** Excel 내에서 데이터를 세련된 Visio 다이어그램으로 쉽고 빠르게 시각화합니다. [자세한 정보](https://support.office.com/ko-KR/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+### <a name="word"></a>Word
+
+- **공동 작성 개선:** 실시간으로 다른 사용자가 콘텐츠 변경 내용을 받을 수 있도록 하여 더 높은 공동 작성 환경을 향상시켰습니다.
+
+- **다른 사용자가 변경 내용을 신속하게 확인할 수 있습니다:** 공동 작성 기능 향상을 통해 공동 작업자는 이전보다 훨씬 빠르게 변경 내용을 볼 수 있습니다.
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="access"></a>Access
+
+- <div><span>레코드 수가 올바르지 않을 수 있습니다.</span></div>
+
+
+### <a name="excel"></a>Excel
+
+- <div><span>병합된 셀이 있는 열을 삭제하는 성능이 크게 개선되었습니다.</span></div>
+
+
+- <div><span>사용자가 Office 365 Excel 통합 문서 형식으로 저장하지 못할 수 있습니다.</span></div>
+
+
+- <div><span>확인란을 제대로 렌더링할 수 없습니다.</span></div>
+
+
+- <div><span>차트 크기에 대한 변경 내용을 저장할 수 없습니다.</span></div>
+
+
+- <div><span>일부 VBA 함수는 새 차트 종류에서 오류를 반환합니다.</span></div>
+
+
+- <div><span>데이터 원본 대화 상자 선택에서 일부 필드의 대/소문자를 구분 하지 않습니다.</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>차트 크기에 대한 변경 내용을 저장할 수 없습니다.</span></div>
+
+
+### <a name="publisher"></a>Publisher
+
+- <div><span>도형이 그래픽 테두리 외부에 표시될 수 있습니다.</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>도형이 그래픽 테두리 외부에 표시될 수 있습니다.</span></div>
+
+
+- <div><span>텍스트를 강조 표시하는 것이 어려울 수 있습니다.</span></div>
+
+
+- <div><span>사용자가 편집기의 개별 항목으로 이동하지 못하게 할 수 있습니다.</span></div>
+
+
+- <div><span>문법 또는 맞춤법 오류가 강조 표시되지 않을 수 있습니다.</span></div>
+
+
+- <div><span>차트 크기에 대한 변경 내용을 저장할 수 없습니다.</span></div>
+
+
+- <div><span>@멘션에 서식 적용 후 연락처 카드를 열지 못할 수 있습니다.</span></div>
+
+
+- <div><span>사용자가 Word, Excel 및 PowerPoint 문서를 저장할 수 없는 문제가 해결되었습니다.&nbsp; 이 문제는 새 파일을 만든 후 저장 아이콘을 클릭하거나 Ctrl + S를 눌러 &quot;다른 이름으로 저장 모델 대화 상자&quot; 옵션을 표시하는 사용자에게 영향을 줍니다.</span></div>
+
+
+### <a name="office-suite"></a>Office 제품군
+
+- <div><span>Windows 7에서 도형을 사용하는 경우의 성능 문제</span></div>
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-1911-october-18"></a>버전 1911: 10월 18일
 *버전 1911(빌드 12209.20010)*
