@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: f60a8ef5b2f4613ab4e5e4d49dbc6db06a5656cf
-ms.sourcegitcommit: a7df5bc43c95aeefb16cd4296eef29921d75f818
+ms.openlocfilehash: b8481a71f1f861a9c8a0aace797c1f8dd46dd54b
+ms.sourcegitcommit: 28b363a14142849ada83979106d2ff8ecfb9df9d
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/23/2019
-ms.locfileid: "37644189"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37890027"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -23,6 +23,55 @@ ms.locfileid: "37644189"
  > [!NOTE]
 >- Microsoft는 일정 기간 동안 매월 기능(및 경우에 따라 수정 사항)을 롤아웃합니다.  아래에서 설명했던 내용이 바로 보이지 않으면 곧 예측할 수 있습니다. [자세한 정보](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- Office 365 ProPlus의 기존 설치에 대한 Microsoft Temas - 7월 초부터 Office 365 ProPlus(및 Office 365 Business)의 업데이트에 Microsoft Teams가 포함됩니다.  Teams가 추가되는 날짜는 사용 중인 업데이트 채널에 따라 다릅니다. 추가 정보는 [Office 365 ProPlus를 사용한 Microsoft Teams 배포](https://docs.microsoft.com/ko-KR/deployoffice/teams-install)를 참조하세요.
+
+## <a name="version-1910-october-30"></a>버전 1910: 10월 30일
+*버전 1910 (빌드 12130.20272)*
+* 다양한 버그 및 성능 수정 사항.
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+
+
+### <a name="excel"></a>Excel
+
+- ** 더 많은 접근 가능한 PDF 만들기:** PDF를 만들면 액세스 가능성 검사기가 저장하기 전에 수정해야 할 접근성 문제를 해결합니다. [자세한 정보](https://support.office.com/ko-KR/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+
+- **파일을 변환하여 접근성 향상:** 모든 사용자가 보다 쉽게 액세스할 수 있도록 파일을 최신 형식으로 업그레이드합니다.
+
+- **문서에 민감도 레이블 적용:** 조직의 정보 보호 정책을 항상 준수하기 위해 파일과 전자 메일에 민감도 레이블을 적용합니다.
+
+### <a name="outlook"></a>Outlook
+
+- **오류가 발생한 후 Outlook 업그레이드를 위한 메시지 표시:** Outlook에서 차후 버전에서 해결 된 오류가 발생하는 경우 Outlook은 고객이 업그레이드를 하고 수정 사항을 받도록 메시지를 표시합니다.
+
+- **문서에 민감도 레이블 적용:** 조직의 정보 보호 정책을 항상 준수하기 위해 파일과 전자 메일에 민감도 레이블을 적용합니다.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- ** 더 많은 접근 가능한 PDF 만들기:** PDF를 만들면 액세스 가능성 검사기가 저장하기 전에 수정해야 할 접근성 문제를 해결합니다. [자세한 정보](https://support.office.com/ko-KR/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+
+- **파일을 변환하여 접근성 향상:** 모든 사용자가 보다 쉽게 액세스할 수 있도록 파일을 최신 형식으로 업그레이드합니다.
+
+- **문서에 민감도 레이블 적용:** 조직의 정보 보호 정책을 항상 준수하기 위해 파일과 전자 메일에 민감도 레이블을 적용합니다.
+
+### <a name="word"></a>Word
+
+- **공동 작성 기능 개선**: 문서를 공동 작성 시 변경 내용 추적 기능을 사용하여 Word의 성능을 개선했습니다.
+
+- ** 더 많은 접근 가능한 PDF 만들기:** PDF를 만들면 액세스 가능성 검사기가 저장하기 전에 수정해야 할 접근성 문제를 해결합니다. [자세한 정보](https://support.office.com/ko-KR/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+
+- **파일을 변환하여 접근성 향상:** 모든 사용자가 보다 쉽게 액세스할 수 있도록 파일을 최신 형식으로 업그레이드합니다.
+
+- **3D 개체의 병합으로 발생하는 문서 손상 문제를 해결했습니다.:** 3D 개체의 병합으로 발생하는 문서 손상 문제를 해결했습니다.
+
+- **문서에 민감도 레이블 적용:** 조직의 정보 보호 정책을 항상 준수하기 위해 파일과 전자 메일에 민감도 레이블을 적용합니다.
+### <a name="office-suite"></a>Office 제품군
+
+- **Office 365 ProPlus의 기존의 설치에 Microsoft Teams를 설치** 6월말부터 Microsoft Teams가 Office 365 ProPlus(및 Office 365 Business)의 기존 설치에 업데이트를 설치 시 포함됩니다. Teams가 추가되는 날짜는 사용 중인 업데이트 채널에 따라 다릅니다. 추가 정보는 Office 365 ProPlus에 Microsoft Teams 배포를 참조하세요. [자세한 정보](https://docs.microsoft.com/ko-KR/deployoffice/teams-install)
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-1909-october-22"></a>버전 1909: 10월 22일
 *버전 1909 (빌드 12026.20344)*
