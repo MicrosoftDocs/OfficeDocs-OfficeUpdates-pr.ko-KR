@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 반기 채널(대상 지정) 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 8f023bc4e4155b17cb35ad85874b0c045f043da5
-ms.sourcegitcommit: 33bb47548810efeb6cd5c727c3487192fe6364a8
+ms.openlocfilehash: c763167c1d2634c2c5baab54d3db2998921918ef
+ms.sourcegitcommit: 28b363a14142849ada83979106d2ff8ecfb9df9d
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37732998"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37890037"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019년 반기 채널(대상 지정) 릴리스에 대한 릴리스 정보
 
@@ -131,8 +131,6 @@ ms.locfileid: "37732998"
 - **연달아 있는 모임 사이에 시간 넣기: **모임이 기본적으로 5~10분 일찍 끝나도록 설정하여 참석자에게 잠시 숨을 돌리거나 장소를 이동할 시간을 줄 수 있습니다.
 
 - **밈하는 항목 표시:** 텍스트 또는 정적 이미지로 가능하지 않은 경우 애니메이션 GIF를 의도하는 바를 나타냅니다. [자세히 알아보기](https://support.office.com/ko-KR/article/114bb251-861f-41cd-b20f-7e7289630c5b)
-
-- **중요 받은 편지함 설정은 장치 간에 동일하게 유지:** 이제 중요 받은 편지함의 기본 설정이 클라우드에 저장됩니다. Outlook을 사용하여 웹상의 Outlook과 모든 컴퓨터에서 Outlook for Windows를 사용하고 동일한 환경을 경험할 수 있습니다. [자세한 정보](https://support.office.com/ko-KR/article/d77a442e-a86c-4bf8-b3dd-5571ae556986)
 
 - **Outlook 사용자 환경이 업데이트됨:** 출시 예정을 사용하여 이전에 미리 볼 수 있었던 간소화된 환경은 가장 중요한 작업에 집중할 수 있도록 설계되었습니다. [자세한 정보](https://support.office.com/ko-KR/article/db503157-1b45-45d5-af52-e9c978cd8bed)
 
