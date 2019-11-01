@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: IT 전문가에게 ODT(Office 배포 도구)의 릴리스 기록을 제공합니다.
-ms.openlocfilehash: 1622ddf9a89767c2d0e456737362eecf4123b3fd
-ms.sourcegitcommit: a5da36df390868d76bddfc78e9481ed8e9c5b673
+ms.openlocfilehash: 65dbad6110d38fd98fb7b6df94c2a54df2f89459
+ms.sourcegitcommit: 6570d42ebb04c11b9aa40dac7825ae8da9694e10
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "37275489"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37902404"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Office 배포 도구에 대한 릴리스 기록
 
@@ -28,6 +28,14 @@ ODT를 사용하여 Office 설치를 더 강력하게 제어할 수 있습니다
  **설치 방법**: 다운로드한 다음 Office 배포 도구 실행 파일(setup.exe) 및 샘플 구성 파일(configuration.xml)이 포함된 자동 압축 풀기 실행 파일을 실행합니다. 
 
 [Office 배포 도구 다운로드](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
+
+
+## <a name="october-31-2019"></a>2019년 10월 31일
+
+버전 16.0.12130.20272
+- 비즈니스용 Skype Basic 2019가 2019 영구 엔터프라이즈 볼륨 라이선스 제품과 함께 설치되는 문제 해결
+- 프록시를 사용할 경우에 특정 조건에서 예기치 않게 ODT 다운로드 모드가 실패하는 문제 해결
+- ODT 다운로드 모드에서 포트 80 이외의 다른 포트를 사용하여 HTTP를 통한 다운로드를 할 수 있도록 하는 새로운 기능
 
 
 ## <a name="july-10-2019"></a>2019년 7월 10일
