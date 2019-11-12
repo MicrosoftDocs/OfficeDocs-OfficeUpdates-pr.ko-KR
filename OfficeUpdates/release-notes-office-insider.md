@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 22f4c64af414ed85db06bb4e7771f091076940ef
-ms.sourcegitcommit: 33bb47548810efeb6cd5c727c3487192fe6364a8
+ms.openlocfilehash: 1c66699a53334e4da5c390bdfaae3455829b5b22
+ms.sourcegitcommit: 0488f84954e573c68209e28a2d11cf2010c6f588
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37733012"
+ms.lasthandoff: 11/08/2019
+ms.locfileid: "38076422"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 참가자에 대한 릴리스 정보
 
@@ -29,6 +29,168 @@ ms.locfileid: "37733012"
 
 [//]: # (제거하지 마세요)
 
+
+## <a name="version-1912-november-08"></a>버전 1912: 11월 8일
+*버전 1912 (빌드 12231.20000)*
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="user-lifecycle"></a>사용자 수명 주기
+
+- **AFO 활성화에 대한 경험 개선:** 고객이 새 PC와 함께 제공되는 Office를 활성화할 때 표시되는 화면 업데이트
+
+### <a name="word"></a>Word
+
+- **Word의 새롭고 향상된 온라인 비디오 경험:** 새 비디오를 삽입하고 Word에서 기존 비디오를 재생하는 데 도움이 되는 새롭고 보다 안전한 온라인 비디오 경험
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="outlook"></a>Outlook
+
+- <div><span>교차 폴더 콘텐츠와 관련된 간헐적인 충돌</span></div>
+
+
+### <a name="office-suite"></a>Office 제품군
+
+- <div><span>Excel에서 PowerPoint로 차트를 붙여넣으면 차트 크기가 줄어들 수 있습니다.</span></div>
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-1911-november-01"></a>버전 1911: 11월 1일
+*버전 1911 (빌드 12228.20020)*
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="excel"></a>Excel
+
+- **SVG 개체와 함께 컨텍스트를 가져오세요!:** 이제 Office에서 이러한 개체를 변환할 때 지도, 차트 및 기타 SVG 벡터의 텍스트를 유지할 수 있습니다
+
+- **Surface 펜을 집어들 때 펜 옵션보기:** Word, Excel 또는 PowerPoint에서 Surface 펜을 처음 집어들면 그리기 탭이 활성화되어 펜 색상을 쉽게 선택할 수 있습니다.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **SVG 개체와 함께 컨텍스트를 가져오세요!:** 이제 Office에서 이러한 개체를 변환할 때 지도, 차트 및 기타 SVG 벡터의 텍스트를 유지할 수 있습니다
+
+- **Surface 펜을 집어들 때 펜 옵션보기:** Word, Excel 또는 PowerPoint에서 Surface 펜을 처음 집어들면 그리기 탭이 활성화되어 펜 색상을 쉽게 선택할 수 있습니다.
+
+### <a name="visio"></a>Visio
+
+- **Excel에서 세련된 Visio  다이어그램 만들기** Excel 내에서 데이터를 세련된 Visio 다이어그램으로 쉽고 빠르게 시각화합니다. [자세한 정보](https://support.office.com/ko-KR/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+### <a name="word"></a>Word
+
+- **Surface 펜을 집어들 때 펜 옵션보기:** Word, Excel 또는 PowerPoint에서 Surface 펜을 처음 집어들면 그리기 탭이 활성화되어 펜 색상을 쉽게 선택할 수 있습니다.
+
+- **공동 작성 개선:** 실시간으로 다른 사용자가 콘텐츠 변경 내용을 받을 수 있도록 하여 더 높은 공동 작성 환경을 향상시켰습니다.
+
+- **다른 사용자가 변경 내용을 신속하게 확인할 수 있습니다:** 공동 작성 기능 향상을 통해 공동 작업자는 이전보다 훨씬 빠르게 변경 내용을 볼 수 있습니다.
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- <div><span>신뢰할 수 없는 네트워크 공유에서 보호되는 파일을 편집할 때 Excel이 중단될 수 있는 문제를 해결했습니다.</span></div>
+
+
+- <div>다른 시트의 데이터를 참조하는 스파크 라인이 포함된 시트를 삭제하면 파일을 다시 열 때 손상된 것으로 식별될 수 있는 문제가 해결되었습니다.</div>
+
+
+- <div>보고서 필터를 SQL 태뷸러 서버에 대한 쿼리의 나머지 피벗 테이블과 함께 변환할 때 잘못된 결과가 발생할 수 있는 문제가 해결되었습니다.</span></div>
+
+
+- <div><span>내레이터와 돋보기를 동시에 사용하면 충돌이 발생할 수 있습니다.</span></div>
+
+
+- <div><span>내레이터와 돋보기를 동시에 사용하면 충돌이 발생할 수 있습니다.</span></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div>전달된 전자 메일에 포함된 이미지가 누락될 수 있음</div>
+
+
+- <div><span>회의실 찾기 도구에 사용 가능한 회의실에 대해 &quot;없음&quot;이 표시될 수 있습니다.</span></div>
+
+
+- <div><span>사용자가 엄격한 테넌트 제한이 있는 Outlook 프로필을 만들지 못할 수도 있습니다.</div></span>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>내레이터와 돋보기를 동시에 사용하면 충돌이 발생할 수 있습니다.</span></div>
+
+
+### <a name="project"></a>Project
+
+- <div><span>사용자가 작업을 완료로 표시할 수 없으며, 이는 99%로 설정됩니다.</span></div>
+
+
+- <div>평준화로 초과 할당을 해결할 수 없습니다.</div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>내레이터와 돋보기를 동시에 사용하면 충돌이 발생할 수 있습니다.</span></div>
+
+
+- <div><span>레거시 문서를 연 다음 정보 탭으로 이동하면 충돌이 발생할 수 있습니다.</span></div>
+
+
+- <div><span>컨텍스트 메뉴에 교정 제안이 표시되지 않습니다.</span></div>
+
+
+- <div><span>콘텐츠 정책이 메모에 제대로 적용 되지 않습니다.</span></div>
+
+
+- <div><span>어두운 텍스트를 사용하여 쓰여진 레거시 메모가 어두운 모드에서 표시 되지 않습니다.</span></div>
+
+
+- <div><span>한국어/영어 자동 고침을 사용하는 경우 잘못된 문자가 표시될 수 있습니다.</span></div>
+
+
+- <div><span>상위 정책 레이블이 우선 순위를 가져야할 때 하위 정책 레이블이 적용될 수 있습니다.</div></span>
+
+
+- <div><span>cid 링크: Outlook 메시지의 이미지&nbsp;를 요청할 때 성공적으로 깨질 수 있습니다.</div></span>
+
+
+- <div><span>내레이터와 돋보기를 동시에 사용하면 충돌이 발생할 수 있습니다.</span></div>
+
+
+- <div><span>탐색 창에서 검색이 실패할 수 있습니다.</span></div>
+
+
+### <a name="office-suite"></a>Office 제품군
+
+- <div><span>일부 드로잉이 미리보기 또는 슬라이드 쇼에서 표시되지 않을 수 있습니다.</span></div>
+
+
+- <div><span>세로 텍스트 상자에서 일부 가타카나 문자가 잘못 표시될 수 있습니다.</span></div>
+
+
+- <div>연결되지 않은 네트워크 공유에 파일을 저장하면 충돌이 발생할 수 있습니다.</div>
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-1911-october-25"></a>버전 1911: 10월 25일
 *버전 1911(빌드 12215.20006)*
