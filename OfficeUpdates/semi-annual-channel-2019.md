@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 반기 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 35c36de78ffe34da4565bb2996a81d73b178cfcc
-ms.sourcegitcommit: f0366356e2da83813c99a59e9ce3e60338d11dcc
+ms.openlocfilehash: d0445d53b34dee6f072d8153d2235b77591e0351
+ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "37453588"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38289818"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019년 반기 채널 릴리스에 대한 릴리스 정보
 
@@ -23,6 +23,57 @@ ms.locfileid: "37453588"
 > [!NOTE]
 > - Microsoft는 일정 기간 동안 반기 채널 기능(및 경우에 따라 수정 사항)을 롤아웃합니다. 아래에서 설명했던 내용이 바로 보이지 않으면 곧 예측할 수 있습니다. [자세한 정보](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - 반기 채널 사용자가 Office 포털에서 Windows 10용 Office 365를 다운로드 및 설치하면 기본적으로 OneNote 2016이 포함되지 않습니다.
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-1902-november-12"></a>버전 1902: 11월 12일
+*버전 1902(빌드 11328.20468)*
+
+나열된 보안 업데이트는 [여기](https://docs.microsoft.com/ko-KR/officeupdates/office365-proplus-security-updates)
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+
+### <a name="excel"></a>Excel
+
+- 범위를 삭제한 후 입력된 값이 표시되는 데 지연이 되는 문제를 해결했습니다.
+- 이전 버전의 Office에서 작성한 통합 문서를 현재 버전의 Office에서 열었을 때 Excel이 중단될 수 있는 문제를 해결했습니다.
+
+### <a name="outlook"></a>Outlook
+
+- 토스트 알림을 사용하도록 설정했을 때 사용자가 메모리 누수를 보게되는 문제를 해결했습니다.
+- 고객에게 Outlook에서의 메모리 누수가 눈에 띄도록 하는 문제를 해결했습니다.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 안정성 픽스: 타사 추가 기능으로 인해 PowerPoint에서 오류가 발생하는 문제를 해결했습니다.
+
+### <a name="office-suite"></a>Office 제품군
+
+- Win7에서 모든 앱의 리본 메뉴에서 도형 갤러리 삽입을 표시하는 데 약 4초가 걸리는 성능 문제를 해결했습니다.
+- 업데이트 후에 시작 메뉴 바로 가기와 Office 파일 확장명이 예기치 않게 사라지는 문제를 해결 했습니다.
+- Office 고객의 보안을 위해 Microsoft Office 업데이트는 이제 SHA-2 알고리듬 만을 사용하여 서명됩니다.
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-1808-november-12"></a>버전 1808: 11월 12일
+*버전 1808 (빌드 10730.20416)*
+
+보안 업데이트는 [여기](https://docs.microsoft.com/ko-KR/officeupdates/office365-proplus-security-updates)에 나열되어 있습니다.
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+
+### <a name="outlook"></a>Outlook
+
+- 동기화 창 외부에 있는 항목을 로컬 저장소에서 Exchange Online 메일함으로 이동할 때 "모두"가 아닌 "메일을 오프라인 설정으로 유지”를 사용하는 사용자에게 데이터 누수가 보이는 문제를 다룹니다.
+
+### <a name="office-suite"></a>Office 제품군
+
+- Office 고객의 보안을 위해 Microsoft Office 업데이트는 이제 SHA-2 알고리듬 만을 사용하여 서명됩니다.
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
