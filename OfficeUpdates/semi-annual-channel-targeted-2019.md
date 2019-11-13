@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 반기 채널(대상 지정) 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: c763167c1d2634c2c5baab54d3db2998921918ef
-ms.sourcegitcommit: 28b363a14142849ada83979106d2ff8ecfb9df9d
+ms.openlocfilehash: 790003f78fb43db66e7ec89274313559b04c13cf
+ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890037"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38289838"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019년 반기 채널(대상 지정) 릴리스에 대한 릴리스 정보
 
@@ -23,6 +23,57 @@ ms.locfileid: "37890037"
 > [!NOTE]
 > - Microsoft는 일정 기간 동안 반기 채널(대상) 기능(및 경우에 따라 수정 사항)을 롤아웃합니다. 아래에서 설명했던 내용이 바로 보이지 않으면 곧 예측할 수 있습니다. [자세한 정보](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - Microsoft Teams는 버전 1902부터 반기 채널(대상 지정)의 새 설치에 포함됩니다. 버전 1908 이상으로 업데이트 되는 경우 기존 반기 채널(대상 지정) 설치에 Teams가 추가됩니다. 자세한 내용은 [Office 365 ProPlus와 함께 Microsoft Teams 배포](https://docs.microsoft.com/ko-KR/deployoffice/teams-install)를 참조하세요.
+
+## <a name="version-1908-november-12"></a>버전 1908: 11월 12일
+*버전 1908(빌드 11929.20436)*
+
+나열된 보안 업데이트는 [여기](https://docs.microsoft.com/ko-KR/officeupdates/office365-proplus-security-updates)
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+
+### <a name="excel"></a>Excel
+
+- 차트 템플릿을 사용하여 차트를 삽입할 때 미리 보기에 사용되는 색을 수정합니다.
+- 시리즈 컬렉션을 변경할 때 분산형 차트가 제대로 렌더링되지 않을 수 있는 문제를 해결했습니다.
+- 매크로가 실행되는 사용자 지정 속성을 변경할 때 공동 작성 작업을 중단시키는 문제를 해결했습니다.
+- 함수를 동기적으로 실행하게 만드는 비동기적인 사용자 정의 함수의 성능 문제를 해결했습니다.
+- 색 기준 필터링의 성능이 크게 향상되었습니다.
+- 이전 버전의 Office에서 작성한 통합 문서를 현재 버전의 Office에서 열었을 때 Excel이 중단될 수 있는 문제를 해결했습니다.
+- cid 링크: Outlook 메시지의 이미지는 이제 요청 시 성공적으로 나누어질 수 있습니다.
+
+### <a name="outlook"></a>Outlook
+
+- cid 링크: Outlook 메시지의 이미지는 이제 요청 시 성공적으로 나누어질 수 있습니다.
+- 기본 일정의 항목을 그룹 일정에 복사할 때 사용 권한 오류가 발생하는 문제를 해결했습니다.
+- 매우 긴 Outlook 세션에서 메모리 누수를 발생시키는 문제를 해결했습니다.
+- 사용자가 특정 Safelinks와 상호 작용할 때 Outlook에서 오류가 발생하는 문제를 해결했습니다.
+- 일부 AutoDiscover 응답을 처리할 때 사용자에게 오류가 발생하는 문제를 해결했습니다.
+- 보조 Exchange 계정을 추가할 때 일부 사용자에게 만들어진 중복된 특수 폴더를 보이게 하였던 문제를 해결했습니다.
+- 피드백 검색 환경을 중단시키는 문제를 해결했습니다.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- cid 링크: Outlook 메시지의 이미지는 이제 요청 시 성공적으로 나누어질 수 있습니다.</div>
+- 안정성 픽스: 타사 추가 기능으로 인해 PowerPoint에서 오류가 발생하는 문제를 해결했습니다.
+
+### <a name="project"></a>Project
+
+- 모두 균등화 명령이 리소스의 초과 할당을 제대로 해결하지 못하던 문제를 해결했습니다.
+- 과업에 대한 작업이 0인 과제가 있는 경우 해당 과업이 완성으로 표시되지 않고 항상 99%로 표시되는 문제를 해결했습니다.
+- 읽기 전용 프로젝트를 열 때 사용자가 여러 메시지를 받을 수 있는 문제를 확인했습니다.
+
+### <a name="word"></a>Word
+
+- cid 링크: Outlook 메시지의 이미지는 이제 요청 시 성공적으로 나누어질 수 있습니다.
+- 종료 시 앱이 중단될 수 있는 다양한 문제를 해결했습니다. 또한 특정 추가 기능 관련 오류도 해결했습니다.
+
+### <a name="office-suite"></a>Office 제품군
+
+- 타사의 플러그인에서 Textbox/Shape Autofit 속성과 관련된 문제를 해결했습니다.
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="october-15"></a>10월 15일
 
