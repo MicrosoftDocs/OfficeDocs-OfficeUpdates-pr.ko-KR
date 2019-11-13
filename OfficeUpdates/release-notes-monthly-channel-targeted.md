@@ -9,71 +9,57 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 이후 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: df80726c0403abe949436368b3d55b26e0cc39c1
-ms.sourcegitcommit: a3a8b07e171e61f3dde1530a0c067d621db07feb
+ms.openlocfilehash: 219abb58ae3fc51b869adf52885e4cce2bbdb9d1
+ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "37993723"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38282116"
 ---
-# <a name="release-notes-for-office-monthly-channel-targeted"></a><span data-ttu-id="47212-103">Office 릴리스 정보 월 단위 채널(대상 지정)</span><span class="sxs-lookup"><span data-stu-id="47212-103">Release Notes for Office Monthly Channel (Targeted)</span></span>
+# <a name="release-notes-for-office-monthly-channel-targeted"></a><span data-ttu-id="acbc0-103">Office 릴리스 정보 월 단위 채널(대상 지정)</span><span class="sxs-lookup"><span data-stu-id="acbc0-103">Release Notes for Office Monthly Channel (Targeted)</span></span>
 
-<span data-ttu-id="47212-104">이 문서에는 Windows 데스크톱용 Word, Excel, PowerPoint, Outlook, Access 및 Project 의 참가자 빌드에 대한 릴리스 정보가 포함되어 있습니다.</span><span class="sxs-lookup"><span data-stu-id="47212-104">This article contains release notes for Insider builds of Word, Excel, PowerPoint, Outlook, Access, and Project for Windows desktop.</span></span> <span data-ttu-id="47212-105">매주 Microsoft는 흥미로운 새 기능, 중요한 수정 사항, 알리고자 하는 중요한 문제를 강조합니다.</span><span class="sxs-lookup"><span data-stu-id="47212-105">Every week, we’ll highlight interesting new features, important fixes, and any significant issues we want you to know about.</span></span> <span data-ttu-id="47212-106">Microsoft는 일정 기간 동안 자주 참가자들에게 기능을 배포하며 때로는 수정 사항도 배포합니다.</span><span class="sxs-lookup"><span data-stu-id="47212-106">Note that we often roll out features (and sometimes even fixes) to Insiders over a period of time.</span></span> <span data-ttu-id="47212-107">이로서 더욱 광범위한 사용자들에게 기능을 릴리스하기 전에 원활하게 작동하는지 확인할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="47212-107">This allows us to ensure that things are working smoothly before releasing the feature to a wider audience.</span></span> <span data-ttu-id="47212-108">따라서 아래에 설명된 기능이 보이지 않더라도 곧 제공되게 되므로 걱정할 필요가 없습니다.</span><span class="sxs-lookup"><span data-stu-id="47212-108">So, if you don’t see something described below, don't worry you'll get it eventually.</span></span>  
+<span data-ttu-id="acbc0-104">이 문서는 Windows 데스크톱용 Word, Excel, PowerPoint, Outlook, Access 및 Project 의 월별 채널(대상 지정) 빌드에 대한 릴리스 정보를 포함합니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-104">This article contains release notes for Insider builds of Word, Excel, PowerPoint, Outlook, Access, and Project for Windows desktop.</span></span> <span data-ttu-id="acbc0-105">매주 Microsoft는 흥미로운 새 기능, 중요한 수정 사항, 알리고자 하는 중요한 문제를 강조합니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-105">Every week, we’ll highlight interesting new features, important fixes, and any significant issues we want you to know about.</span></span> <span data-ttu-id="acbc0-106">Microsoft는 일정 기간 동안 종종 월별 채널로(대상 지정) 기능(및 경우에 따라 수정 사항)을 출시함을 참고하십시오.</span><span class="sxs-lookup"><span data-stu-id="acbc0-106">Note that we often roll out features (and sometimes even fixes) to Insiders over a period of time.</span></span> <span data-ttu-id="acbc0-107">이로서 더욱 광범위한 사용자들에게 기능을 릴리스하기 전에 원활하게 작동하는지 확인할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-107">This allows us to ensure that things are working smoothly before releasing the feature to a wider audience.</span></span> <span data-ttu-id="acbc0-108">따라서 아래에 설명된 기능이 보이지 않더라도 곧 제공되게 되므로 걱정할 필요가 없습니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-108">So, if you don’t see something described below, don't worry you'll get it eventually.</span></span>  
 
 > [!NOTE]
-> - <span data-ttu-id="47212-109">릴리스 정보는 매주 게시되며 여러 빌드의 컴파일일 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="47212-109">Release notes are posted weekly and may be a compilation of multiple builds</span></span>
-> - <span data-ttu-id="47212-110">릴리스 정보 게시 날짜는 실제 빌드 릴리스 날짜와 일치하지 않을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="47212-110">The release notes publication date may not match the actual build release date</span></span>
-> - <span data-ttu-id="47212-111">Office 365 ProPlus의 기존 설치에 대한 Microsoft Teams - 6월 말부터 Microsoft Teams가 Office 365 ProPlus(및 Office 365 Business)의 기존 설치에 업데이트 설치 시 포함됩니다.</span><span class="sxs-lookup"><span data-stu-id="47212-111">Microsoft Teams on existing installations of Office 365 ProPlus - Beginning in late June, Microsoft Teams will be included in existing installations of Office 365 ProPlus (and Office 365 Business) upon updates of these installations.</span></span> <span data-ttu-id="47212-112">Teams가 추가되는 날짜는 사용 중인 업데이트 채널에 따라 다릅니다.</span><span class="sxs-lookup"><span data-stu-id="47212-112">The date when Teams will be added depends on which update channel you're using.</span></span> <span data-ttu-id="47212-113">추가 정보는 [Office 365 ProPlus와 함께 Microsoft Teams 배포](https://docs.microsoft.com/ko-KR/deployoffice/teams-install)를 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="47212-113">Please refer to [Deploy Microsoft Teams with Office 365 ProPlus](https://docs.microsoft.com/ko-KR/deployoffice/teams-install) for additional information.</span></span>
+> - <span data-ttu-id="acbc0-109">릴리스 정보 게시 날짜는 실제 빌드 릴리스 날짜와 일치하지 않을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-109">The release notes publication date may not match the actual build release date</span></span>
+> - <span data-ttu-id="acbc0-110">Office 365 ProPlus의 기존 설치에 대한 Microsoft Teams - 6월 말부터 Microsoft Teams가 Office 365 ProPlus(및 Office 365 Business)의 기존 설치에 업데이트 설치 시 포함됩니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-110">Microsoft Teams on existing installations of Office 365 ProPlus - Beginning in late June, Microsoft Teams will be included in existing installations of Office 365 ProPlus (and Office 365 Business) upon updates of these installations.</span></span> <span data-ttu-id="acbc0-111">Teams가 추가되는 날짜는 사용 중인 업데이트 채널에 따라 다릅니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-111">The date when Teams will be added depends on which update channel you're using.</span></span> <span data-ttu-id="acbc0-112">추가 정보는 [Office 365 ProPlus와 함께 Microsoft Teams 배포](https://docs.microsoft.com/ko-KR/deployoffice/teams-install)를 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="acbc0-112">Please refer to [Deploy Microsoft Teams with Office 365 ProPlus](https://docs.microsoft.com/ko-KR/deployoffice/teams-install) for additional information.</span></span>
 
 [//]: # (제거하지 마세요)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-## <a name="version-1910-october-28"></a><span data-ttu-id="47212-116">버전 1910: 10월 28일</span><span class="sxs-lookup"><span data-stu-id="47212-116">Version 1910: October 28</span></span>
-<span data-ttu-id="47212-117">*버전 1910 (빌드 12130.20272)*</span><span class="sxs-lookup"><span data-stu-id="47212-117">*Version 1910 (Build 12130.20272)*</span></span>
+## <a name="version-1911-november-12"></a><span data-ttu-id="acbc0-115">버전 1911: 11월 12일</span><span class="sxs-lookup"><span data-stu-id="acbc0-115">Version 1911: November 01</span></span>
+<span data-ttu-id="acbc0-116">*버전 1911 (빌드 12228.20120)*</span><span class="sxs-lookup"><span data-stu-id="acbc0-116">*Version 1911 (Build 12228.20020)*</span></span>
 
+<span data-ttu-id="acbc0-117">나열된 보안 업데이트는 [여기](https://docs.microsoft.com/ko-KR/officeupdates/office365-proplus-security-updates)</span><span class="sxs-lookup"><span data-stu-id="acbc0-117">Security updates listed [here](https://docs.microsoft.com/ko-KR/officeupdates/office365-proplus-security-updates)</span></span>
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="feature-updates"></a><span data-ttu-id="47212-119">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="47212-119">Feature updates</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="acbc0-119">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="acbc0-119">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="acbc0-120">Excel</span><span class="sxs-lookup"><span data-stu-id="acbc0-120">Excel</span></span>
 
-### <a name="excel"></a><span data-ttu-id="47212-120">Excel</span><span class="sxs-lookup"><span data-stu-id="47212-120">Excel</span></span>
+- <span data-ttu-id="acbc0-121">**데이터 시각화 도우미 추가 기능:** Excel에서 빠르게 Visio 플로차트를 만들 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-121">**Data visualizer add-in:** Quickly create Visio flowcharts from Excel.</span></span> [<span data-ttu-id="acbc0-122">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="acbc0-122">Learn more</span></span>](https://support.office.com/ko-KR/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
-- <span data-ttu-id="47212-121">\*\* 더 많은 접근 가능한 PDF 만들기:\*\* PDF를 만들면 액세스 가능성 검사기가 저장하기 전에 수정해야 할 접근성 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="47212-121">**Create more accessible PDFs:** Create a PDF and the accessibility checker will point out accessibility issues to fix before you save.</span></span> [<span data-ttu-id="47212-122">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="47212-122">Learn more</span></span>](https://support.office.com/ko-KR/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+### <a name="outlook"></a><span data-ttu-id="acbc0-123">Outlook</span><span class="sxs-lookup"><span data-stu-id="acbc0-123">Outlook</span></span>
 
-- <span data-ttu-id="47212-123">**파일을 변환하여 접근성 향상:** 모든 사용자가 보다 쉽게 액세스할 수 있도록 파일을 최신 형식으로 업그레이드합니다.</span><span class="sxs-lookup"><span data-stu-id="47212-123">**Convert files to improve accessibility:** Upgrade your files to the modern format to make them more accessible for everyone.</span></span>
+- <span data-ttu-id="acbc0-124">**가장 필요로 하는 사용자에게 접속할 수 있는 메일 보내기:** Outlook에서 접속할 수 있는 콘텐츠를 선호하는 사용자에게 전자 메일을 보낼 때 콘텐츠에 액세스가 가능한 지 확인하는 데 도움이 되는 메일 팁을 표시합니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-124">**Send accessible mail to those who need it most:** Outlook will display a mail tip to help you ensure that your content is accessible when sending to a user who prefers accessible content</span></span>
 
-- <span data-ttu-id="47212-124">**민감도 레이블을 문서 및 전자 메일에 적용:** 조직의 정보 보호 정책을 계속 준수하기 위해 파일 및 전자 메일에 민감도 레이블을 적용합니다.</span><span class="sxs-lookup"><span data-stu-id="47212-124">**Apply sensitivity labels to your documents:** Apply sensitivity labels to your files and emails to keep them compliant with your organization's information protection policies.</span></span> [<span data-ttu-id="47212-125">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="47212-125">Learn more</span></span>](https://aka.ms/officemipdocs)
+### <a name="powerpoint"></a><span data-ttu-id="acbc0-125">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="acbc0-125">PowerPoint</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="47212-126">Outlook</span><span class="sxs-lookup"><span data-stu-id="47212-126">Outlook</span></span>
+- <span data-ttu-id="acbc0-126">\*\*모든 사용자를 위한 프레젠테이션 최적화: \*\* 접근성 검사기는 기능은 스크린 리더를 염두에 두고 슬라이드에서 개체를 정렬하는데 도움을 줍니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-126">**Optimize your presentation for all:** Accessibility Checker helps you arrange objects on your slides with screen readers in mind.</span></span>
 
-- <span data-ttu-id="47212-127">**오류가 발생한 후 Outlook 업그레이드를 위한 메시지 표시:** Outlook에서 차후 버전에서 해결 된 오류가 발생하는 경우 Outlook은 고객이 업그레이드를 하고 수정 사항을 받도록 메시지를 표시합니다.</span><span class="sxs-lookup"><span data-stu-id="47212-127">**Receive a prompt to upgrade Outlook following an error:** When Outlook encounters an error that is fixed in a later version, Outlook will prompt customers to upgrade and receive the fix</span></span>
+### <a name="visio"></a><span data-ttu-id="acbc0-127">Visio</span><span class="sxs-lookup"><span data-stu-id="acbc0-127">Visio</span></span>
 
-- <span data-ttu-id="47212-128">**민감도 레이블을 문서 및 전자 메일에 적용:** 조직의 정보 보호 정책을 계속 준수하기 위해 파일 및 전자 메일에 민감도 레이블을 적용합니다.</span><span class="sxs-lookup"><span data-stu-id="47212-128">**Apply sensitivity labels to your documents:** Apply sensitivity labels to your files and emails to keep them compliant with your organization's information protection policies.</span></span> [<span data-ttu-id="47212-129">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="47212-129">Learn more</span></span>](https://aka.ms/officemipdocs)
+- <span data-ttu-id="acbc0-128">**Excel에서 세련된 Visio  다이어그램 만들기** Excel 내에서 데이터를 세련된 Visio 다이어그램으로 쉽고 빠르게 시각화합니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-128">**Make polished Visio diagrams in Excel:** Quickly and easily visualize your data into polished Visio diagrams within Excel.</span></span> [<span data-ttu-id="acbc0-129">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="acbc0-129">Learn more</span></span>](https://support.office.com/ko-KR/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
-### <a name="powerpoint"></a><span data-ttu-id="47212-130">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="47212-130">PowerPoint</span></span>
+### <a name="word"></a><span data-ttu-id="acbc0-130">Word</span><span class="sxs-lookup"><span data-stu-id="acbc0-130">Word</span></span>
 
-- <span data-ttu-id="47212-131">\*\* 더 많은 접근 가능한 PDF 만들기:\*\* PDF를 만들면 액세스 가능성 검사기가 저장하기 전에 수정해야 할 접근성 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="47212-131">**Create more accessible PDFs:** Create a PDF and the accessibility checker will point out accessibility issues to fix before you save.</span></span> [<span data-ttu-id="47212-132">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="47212-132">Learn more</span></span>](https://support.office.com/ko-KR/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+- <span data-ttu-id="acbc0-131">**공동 작성 개선:** 실시간으로 다른 사용자가 콘텐츠 변경 내용을 받을 수 있도록 하여 더 높은 공동 작성 환경을 향상시켰습니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-131">**Coauthoring improvements:** Improved the coauthoring experience by making it more likely that content changes will be received by others in real time.</span></span>
 
-- <span data-ttu-id="47212-133">**파일을 변환하여 접근성 향상:** 모든 사용자가 보다 쉽게 액세스할 수 있도록 파일을 최신 형식으로 업그레이드합니다.</span><span class="sxs-lookup"><span data-stu-id="47212-133">**Convert files to improve accessibility:** Upgrade your files to the modern format to make them more accessible for everyone.</span></span>
+### <a name="office-suite"></a><span data-ttu-id="acbc0-132">Office 제품군</span><span class="sxs-lookup"><span data-stu-id="acbc0-132">Office Suite</span></span>
 
-- <span data-ttu-id="47212-134">**민감도 레이블을 문서 및 전자 메일에 적용:** 조직의 정보 보호 정책을 계속 준수하기 위해 파일 및 전자 메일에 민감도 레이블을 적용합니다.</span><span class="sxs-lookup"><span data-stu-id="47212-134">**Apply sensitivity labels to your documents:** Apply sensitivity labels to your files and emails to keep them compliant with your organization's information protection policies.</span></span> [<span data-ttu-id="47212-135">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="47212-135">Learn more</span></span>](https://aka.ms/officemipdocs)
+- <span data-ttu-id="acbc0-133">\*\*업로드 센터가 주의를 요하는 파일들로 대체됩니다: \*\* 업로드 센터가 파일 > 열기 아래의 Office 응용 프로그램 내에 표시되는 주의를 요하는 파일들로 대체됩니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-133">**The Upload Center is being replaced by the Files Needing Attention experience:** The Upload Center is being replaced by the Files Needing Attention experience that will show up inside the Office applications under File > Open.</span></span> <span data-ttu-id="acbc0-134">이 새로운 환경은 업로드 센터와 비교 시 더욱 최신이고, 통합적이며 개입성이 낮습니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-134">This new experience is more modern, integrated, and less intrusive compared to the Upload Center.</span></span>
 
-### <a name="word"></a><span data-ttu-id="47212-136">Word</span><span class="sxs-lookup"><span data-stu-id="47212-136">Word</span></span>
-
-- <span data-ttu-id="47212-137">**공동 작성 기능 개선**: 문서를 공동 작성 시 변경 내용 추적 기능을 사용하여 Word의 성능을 개선했습니다.</span><span class="sxs-lookup"><span data-stu-id="47212-137">**Coauthoring improvements:** Improved Word performance when coauthoring in documents with tracked changes.</span></span>
-
-- <span data-ttu-id="47212-138">\*\* 더 많은 접근 가능한 PDF 만들기:\*\* PDF를 만들면 액세스 가능성 검사기가 저장하기 전에 수정해야 할 접근성 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="47212-138">**Create more accessible PDFs:** Create a PDF and the accessibility checker will point out accessibility issues to fix before you save.</span></span> [<span data-ttu-id="47212-139">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="47212-139">Learn more</span></span>](https://support.office.com/ko-KR/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
-
-- <span data-ttu-id="47212-140">**파일을 변환하여 접근성 향상:** 모든 사용자가 보다 쉽게 액세스할 수 있도록 파일을 최신 형식으로 업그레이드합니다.</span><span class="sxs-lookup"><span data-stu-id="47212-140">**Convert files to improve accessibility:** Upgrade your files to the modern format to make them more accessible for everyone.</span></span>
-
-- <span data-ttu-id="47212-141">**3D 개체의 병합으로 발생하는 문서 손상 문제를 해결했습니다.:** 3D 개체의 병합으로 발생하는 문서 손상 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="47212-141">**Fixed a document corruption issue caused by merge of 3D objects.:** Fixed a document corruption issue caused by merge of 3D objects.</span></span>
-
-- <span data-ttu-id="47212-142">**민감도 레이블을 문서 및 전자 메일에 적용:** 조직의 정보 보호 정책을 계속 준수하기 위해 파일 및 전자 메일에 민감도 레이블을 적용합니다.</span><span class="sxs-lookup"><span data-stu-id="47212-142">**Apply sensitivity labels to your documents:** Apply sensitivity labels to your files and emails to keep them compliant with your organization's information protection policies.</span></span> [<span data-ttu-id="47212-143">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="47212-143">Learn more</span></span>](https://aka.ms/officemipdocs)
-
-### <a name="office-suite"></a><span data-ttu-id="47212-144">Office 제품군</span><span class="sxs-lookup"><span data-stu-id="47212-144">Office Suite</span></span>
-
-- <span data-ttu-id="47212-145">**Office 365 ProPlus의 기존의 설치에 Microsoft Teams를 설치** 6월말부터 Microsoft Teams가 Office 365 ProPlus(및 Office 365 Business)의 기존 설치에 업데이트를 설치 시 포함됩니다.</span><span class="sxs-lookup"><span data-stu-id="47212-145">**Install Microsoft Teams on existing installations of Office 365 ProPlus:** Beginning in late June, Microsoft Teams will be included in existing installations of Office 365 ProPlus (and Office 365 Business) upon updates of these installations.</span></span> <span data-ttu-id="47212-146">Teams가 추가되는 날짜는 사용 중인 업데이트 채널에 따라 다릅니다.</span><span class="sxs-lookup"><span data-stu-id="47212-146">The date when Teams will be added depends on which update channel you're using.</span></span> <span data-ttu-id="47212-147">추가 정보는 Office 365 ProPlus에 Microsoft Teams 배포를 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="47212-147">Please refer to Deploy Microsoft Teams with Office 365 ProPlus for additional information.</span></span> [<span data-ttu-id="47212-148">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="47212-148">Learn More</span></span>](https://docs.microsoft.com/ko-KR/deployoffice/teams-install)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
@@ -81,85 +67,88 @@ ms.locfileid: "37993723"
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="resolved-issues"></a><span data-ttu-id="47212-151">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="47212-151">Resolved issues</span></span>
-### <a name="access"></a><span data-ttu-id="47212-152">Access</span><span class="sxs-lookup"><span data-stu-id="47212-152">Access</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="acbc0-137">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="acbc0-137">Resolved issues</span></span>
+### <a name="access"></a><span data-ttu-id="acbc0-138">Access</span><span class="sxs-lookup"><span data-stu-id="acbc0-138">Access</span></span>
 
-- <span data-ttu-id="47212-153">사용자가 공유 데이터베이스를 사용하는 경우 "일관성이 없는 상태" 오류가 표시되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="47212-153">We fixed an issue where users could receive an inconsistent state error when using a shared database.</span></span>
+- <span data-ttu-id="acbc0-139">레코드 수가 올바르지 않을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-139">The record count could be incorrect</span></span>
 
-### <a name="excel"></a><span data-ttu-id="47212-154">Excel</span><span class="sxs-lookup"><span data-stu-id="47212-154">Excel</span></span>
+### <a name="excel"></a><span data-ttu-id="acbc0-140">Excel</span><span class="sxs-lookup"><span data-stu-id="acbc0-140">Excel</span></span>
 
-- <span data-ttu-id="47212-155">함수를 동기적으로 실행하게 만드는 비동기적인 사용자 정의 함수의 성능 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="47212-155">We resolved an performance issue with Asynchronous User-Defined Functions that was causing them to be run Synchronously.</span></span>
-- <span data-ttu-id="47212-156">이전 버전의 Office에서 작성한 통합 문서를 현재 버전의 Office에서 열었을 때 Excel이 중단될 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="47212-156">Resolved an issue where workbooks created in earlier versions of Office could cause Excel to hang when opened in current versions of Office</span></span>
-- <span data-ttu-id="47212-157">사용자가 일부 보호 시트에 하이퍼링크를 붙여넣지 못하게 할 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="47212-157">We fixed an issue which could prevent a user from pasting hyperlinks in some protected sheets.</span></span>
-- <span data-ttu-id="47212-158">리본에 있는 글꼴 이름이 사용중인 글꼴과 다를 수 있는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="47212-158">We fixed an issue which could cause the font name in the ribbon to be different from the font being used.</span></span>
-- <span data-ttu-id="47212-159">일부 콘텐츠에 하이퍼링크 서식이 제대로 적용되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="47212-159">Resolved an issue where the hyperlink format could not be properly applied to some content</span></span>
-- <span data-ttu-id="47212-160">구조적 절대 참조를 포함하는 수식이 잘못 조정될 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="47212-160">Resolved an issue where formulas containing structured absolute references may be adjusted incorrectly</span></span>
-- <span data-ttu-id="47212-161">Excel에서 복사한 콘텐츠를 다른 Office 응용 프로그램에 붙여 넣을 시 정확히 표시되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="47212-161">Resolved an issue where content copied from Excel could appear incorrect when pasted into other Office applications</span></span>
-- <span data-ttu-id="47212-162">시리즈 컬렉션을 변경할 때 분산형 차트가 제대로 렌더링되지 않을 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="47212-162">We fixed an issue which could have caused scatter line charts from rendering properly when changing the series collection.</span></span>
-- <span data-ttu-id="47212-163">Excel을 시작할 때 가끔 중단되는 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="47212-163">We fixed an issue where Excel could sometimes hang at launch.</span></span>
-- <span data-ttu-id="47212-164">OneDrive에서 파일을 개체로 삽입하는 경우 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="47212-164">Resolved an issue in inserting files as object from OneDrive</span></span>
-- <span data-ttu-id="47212-165">공동 작성 세션이 진행되는 동안 피벗 테이블을 새로 고칠 수 없었던 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="47212-165">We fixed an issue which could have prevented pivot tables from being refreshed during a co-authoring session.</span></span>
-- <span data-ttu-id="47212-166">인쇄 미리 보기의 인쇄 영역이 올바르지 않았던 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="47212-166">We fixed an issue where the print area in print preview was not correct.</span></span>
-- <span data-ttu-id="47212-167">차트 템플릿을 사용하여 차트를 삽입할 때 미리 보기에 사용되는 색을 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="47212-167">Fix to correct colors used in previews when inserting charts using chart templates</span></span>
+- <span data-ttu-id="acbc0-141">다른 시트의 데이터를 참조하는 스파크 라인이 포함된 시트를 삭제하면 파일을 다시 열 때 손상된 것으로 식별될 수 있는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-141">Resolved an issue where deleting sheets containing sparklines referencing data on another sheet could cause the file to be identified as corrupted when re-opened.</span></span>
+- <span data-ttu-id="acbc0-142">차트 크기에 대한 변경 내용을 저장할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-142">Changes to a chart size could not be saved</span></span>
+- <span data-ttu-id="acbc0-143">확인란을 제대로 렌더링할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-143">Checkboxes could not render correctly</span></span>
+- <span data-ttu-id="acbc0-144">일부 필드에서는 데이터 원본 선택 대화 상자의 대/소문자가 구분되지 않았습니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-144">Select Data Source dialogs were not case sensitive for some fields</span></span>
+- <span data-ttu-id="acbc0-145">일부 VBA 함수는 새로운 차트에서 오류를 반환합니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-145">Some VBA functions would return an error on new chart types</span></span>
+- <span data-ttu-id="acbc0-146">사용자가 Office 365 Excel 통합 문서 형식으로 저장을 하지 못할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-146">Users could be prevented from saving in Office 365 Excel Workbook format</span></span>
+- <span data-ttu-id="acbc0-147">자동 맞춤을 사용하여 행 높이를 조정할 때 확인란 컨트롤이 축소되었던 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-147">Resolved an issue where check box controls could shrink when using autofit to adjust row height</span></span>
+- <span data-ttu-id="acbc0-148">보고서 필터를 SQL 태뷸러 서버에 대한 쿼리의 나머지 피벗 테이블과 함께 변환할 때 잘못된 결과가 발생할 수 있는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-148">Resolved an Issue where you may get incorrect results when converting report filters along with the rest of the PivotTable for queries to SQL tabular servers.</span></span>
+- <span data-ttu-id="acbc0-149">신뢰할 수 없는 네트워크 공유에서 보호되는 파일을 편집할 때 Excel이 오류를 발생시킬 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-149">Resolved an issue where Excel may crash when editing a protected file from an untrusted network share</span></span>
+- <span data-ttu-id="acbc0-150">내레이터와 돋보기를 동시에 사용하면 오류가 발생할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-150">Using Narrator and Magnifier at the same time may result in a crash</span></span>
+- <span data-ttu-id="acbc0-151">스크롤 후 셀을 선택하면 잘못된 셀이 선택되었던 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-151">Resolved an issue where selecting a cell after scrolling could result in the wrong cell being selected</span></span>
+- <span data-ttu-id="acbc0-152">병합된 셀이 있는 열을 삭제하는 성능이 크게 개선되었습니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-152">We significantly improved the performance of deleting columns with merged cells</span></span>
 
-### <a name="onenote"></a><span data-ttu-id="47212-168">OneNote</span><span class="sxs-lookup"><span data-stu-id="47212-168">OneNote</span></span>
+### <a name="onenote"></a><span data-ttu-id="acbc0-153">OneNote</span><span class="sxs-lookup"><span data-stu-id="acbc0-153">OneNote</span></span>
 
-- <span data-ttu-id="47212-169">복사한 페이지로의 링크가 새로 복사한 페이지가 아닌 원본 페이지로 이동시킬 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="47212-169">We fixed an issue where a link to a copied page could navigate to the original page instead of the newly copied one</span></span>
+- <span data-ttu-id="acbc0-154">로컬 리소스에서 클라우드 리소스로의 동기화에 영향을 줄 수 있는 문제를 확인했습니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-154">Identified an issue which could affect syncing from a local resource to a cloud resource</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="47212-170">Outlook</span><span class="sxs-lookup"><span data-stu-id="47212-170">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="acbc0-155">Outlook</span><span class="sxs-lookup"><span data-stu-id="acbc0-155">Outlook</span></span>
 
-- <span data-ttu-id="47212-171">Internet Explorer에서 제한된 사이트에 대해 보호 모드가 해제되었을 때 Outlook에서 부적절한 리소스 사용을 일으킬 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="47212-171">We fixed an issue that could result in inappropriate resource consumption by Outlook when Protected Mode is disabled for Restricted Sites in Internet Explorer.</span></span>
-- <span data-ttu-id="47212-172">Office 365에서 최신 인증으로 마이그레이션할 때 Outlook에 여러 메일함이 있는 고객의 메일함 동기화를 방지할 수 있는 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="47212-172">We fixed an issue that can prevent mailbox sync for customers with multiple mailboxes in Outlook when migrating to modern authentication in Office 365.</span></span>
-- <span data-ttu-id="47212-173">드롭다운 메뉴에 서명 레이블의 일부 문자가 표시되지 않는 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="47212-173">We fixed an issue where some characters in signature labels would not display in the dropdown menu.</span></span>
-- <span data-ttu-id="47212-174">사용할 수 있는 회의실 수가 많은 경우 회의실 선택 성능을 크게 개선하였습니다.</span><span class="sxs-lookup"><span data-stu-id="47212-174">We significantly improved the performance of room selection when there are a large number of rooms available.</span></span>
-- <span data-ttu-id="47212-175">사용자가 일정에 첨부 파일을 추가하지 못하도록 하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="47212-175">We fixed an issue which could have prevented users from adding attachments to calendars.</span></span>
-- <span data-ttu-id="47212-176">디지털 서명된 메시지에 회신할 때 오류 메시지가 표시되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="47212-176">We fixed an issue which caused error messages to display when replying to a digitally signed message.</span></span>
-- <span data-ttu-id="47212-177">검색 결과에 확장된 비행 결과 검색이 표시되지 않도록 하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="47212-177">We fixed an issue which prevented Expanded Find Flight results from appearing in search results</span></span>
-- <span data-ttu-id="47212-178">간단한 보기에서 UI가 정지되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="47212-178">We fixed an issue where the UI could get stuck in a compact view.</span></span>
-- <span data-ttu-id="47212-179">일부 사용자가 그룹 일정 보기에서 오프라인으로 잘못 표시되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="47212-179">We fixed an issue where some users would incorrectly appear as Offline in a Group Schedule view.</span></span>
-- <span data-ttu-id="47212-180">ANSI 원본에서 텍스트를 붙여넣을 때 유니코드 문자가 나타날 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="47212-180">We fixed an issue which could sometimes cause Unicode characters to appear when pasting text from an ANSI source.</span></span>
-- <span data-ttu-id="47212-181">메일 폴더의 복제를 발생시킬 수 있었던 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="47212-181">We fixed an issue which could have caused duplication of mail folders.</span></span>
-- <span data-ttu-id="47212-182">S/MIME 암호화 전자 메일을 보내려고 할 때 잘못된 오류 메시지를 발생시킬 수 있었던 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="47212-182">We fixed an issue which could have caused an incorrect error message when attempting to send s/MIME encrypted e-mail.</span></span>
-- <span data-ttu-id="47212-183">사용자가 Skype에서 '부재 중 대화' 메시지를 받을 시 때때로 충돌이 발생할 수 있는 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="47212-183">We fixed an issue which could sometimes result in a crash when a user receives a 'Missed Conversation' message from Skype.</span></span>
-- <span data-ttu-id="47212-184">메모리 누수를 발생시킬 수 있는 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="47212-184">We fixed an issue which could have resulted in a memory leak.</span></span>
-- <span data-ttu-id="47212-185">공유 일정 폴더와 상호 작용하는 경우에 사용 권한 오류가 보고될 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="47212-185">We fixed an issue which could have reported permission errors when interacting with shared calendar folders.</span></span>
-- <span data-ttu-id="47212-186">초안으로 저장할 때 보낸 사람 이름을 변경할 수 있었던 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="47212-186">We fixed an issue which could have caused the senders name to change when saved as a draft.</span></span>
+- <span data-ttu-id="acbc0-156">회의실 찾기 도구가 사용 가능한 회의실을 &quot;없음&quot;으로 표시할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-156">Room Finder tool may be displaying None for available rooms</span></span>
+- <span data-ttu-id="acbc0-157">리본이 자동으로 숨기기로 설정된 경우 검색 상자가 사라지는 문제를 확인했습니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-157">Identified an issue where the search box could disappear when the ribbon is set to hide automatically</span></span>
+- <span data-ttu-id="acbc0-158">디지털로 서명된 첨부 파일을 사용하여 전자 메일에 서명할 때 디지털 서명이 훼손되는 문제를 확인했습니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-158">Identified an issue which could cause digital signatures to become broken when signing an e-mail with a digitally signed attachment</span></span>
+- <span data-ttu-id="acbc0-159">전달된 전자 메일에 포함된 이미지가 누락될 수 있음</span><span class="sxs-lookup"><span data-stu-id="acbc0-159">A forwarded e-mail may be missing embedded images</span></span>
+- <span data-ttu-id="acbc0-160">사용자가 엄격한 테넌트 제한이 있는 Outlook 프로필을 만들지 못할 수도 있습니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-160">Users may not be able to create Outlook profiles with strict tenant restriction</span></span>
+- <span data-ttu-id="acbc0-161">메시지 본문에 끌어넣기를 한 후 긴 파일 이름이 잘리는 문제를 확인했습니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-161">Identified an issue where long filenames were truncated after draging and droping to the message body</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="47212-187">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="47212-187">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="acbc0-162">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="acbc0-162">PowerPoint</span></span>
 
-- <span data-ttu-id="47212-188">사용자가 PDF로 인쇄할 때 오류가 발생할 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="47212-188">We fixed an issue where a user could experience an error upon printing to PDF.</span></span>
-- <span data-ttu-id="47212-189">AirSpace WinComp에서 실행 시 ARC 장치의 연결이 끊어질 수 있는 문제를 확인했습니다.</span><span class="sxs-lookup"><span data-stu-id="47212-189">Identified an issue where ARC Devices could lose connection when running under AirSpace WinComp</span></span>
-- <span data-ttu-id="47212-190">하이퍼링크를 사용하여 텍스트를 붙여넣을 때 하이퍼링크를 만들지 못하게 하였던 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="47212-190">We fixed an issue which prevented hyperlink from being created when pasting text with hyperlink.</span></span>
-- <span data-ttu-id="47212-191">통계가 제대로 작동하지 않도록 하였던 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="47212-191">We fixed an issue which would prevent statistics from working correctly.</span></span>
-- <span data-ttu-id="47212-192">슬라이드 마스터 및 슬라이드 레이아웃에서 머리글/바닥글/슬라이드 번호 플레이스홀더에 텍스트를 붙여 넣은 후 TextRanges를 중단시킬 수 있었던 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="47212-192">We fixed an issue which could cause TextRanges to become broken after pasting text into the header/footer/slide number placeholders on slide master and slide layout.</span></span>
+- <span data-ttu-id="acbc0-163">차트 크기에 대한 변경 내용을 저장할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-163">Changes to a chart size could not be saved</span></span>
+- <span data-ttu-id="acbc0-164">내레이터와 돋보기를 동시에 사용하면 오류가 발생할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-164">Using Narrator and Magnifier at the same time may result in a crash</span></span>
+- <span data-ttu-id="acbc0-165">슬라이드 미리 보기의 가로 세로 비율이 제대로 잠기거나 해제되지 않는 문제를 확인했습니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-165">Identified an issue where aspect ratio for the slide preview was not being properly locked/unlocked</span></span>
 
-### <a name="project"></a><span data-ttu-id="47212-193">Project</span><span class="sxs-lookup"><span data-stu-id="47212-193">Project</span></span>
+### <a name="project"></a><span data-ttu-id="acbc0-166">Project</span><span class="sxs-lookup"><span data-stu-id="acbc0-166">Project</span></span>
 
-- <span data-ttu-id="47212-194">엔터프라이즈 리소스를 로컬 리소스로 바꿀 때 충돌이 발생하는 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="47212-194">We fixed an issue which could cause a crash when replacing an enterprise resource with a local resource.</span></span>
-- <span data-ttu-id="47212-195">프로젝트가 마스터 프로젝트를 통해 Project Web App에 저장될 때 하위 프로젝트 로컬 리소스, 요율 및 기타 속성이 저장되지 않던 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="47212-195">Fixed an issue when projects are saved to Project Web App via a master project that the subprojects local resources, rates and other properties may not be saved.</span></span>
-- <span data-ttu-id="47212-196">보호된 작업을 사용하도록 설정한 경우 요약 작업의 작업 값을 변경하면 충돌이 발생할 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="47212-196">We fixed an issue where changes to a work value on a summary task could cause a crash if protected work is enabled.</span></span>
-- <span data-ttu-id="47212-197">마스터 프로젝트가 있고 마스터 프로젝트의 로컬 사용자 정의 필드 값을 복사하여 삽입된 프로젝트에 붙여넣는 경우 일부 정보가 제대로 저장되지 않던 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="47212-197">Fixed an issue where if you have a master project and copy/paste local custom field values from the master project to an inserted project, some information on the task is not correctly saved.</span></span>
-- <span data-ttu-id="47212-198">이벤트를 엔터프라이즈 일정과 동기화할 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="47212-198">We fixed an issue which could inhibit the ability to sync events with enterprise calendars.</span></span>
+- <span data-ttu-id="acbc0-167">업데이트 작업을 수행하는 동안 입력한 메모가 보존되지 않는 문제를 확인했습니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-167">Identified an issue where notes might not persist if entered while doing update tasks</span></span>
+- <span data-ttu-id="acbc0-168">사용자가 작업을 완료로 표시할 수 없으며, 이는 99%로 설정됩니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-168">User is unable to mark a task as complete, and it gets set to 99%</span></span>
+- <span data-ttu-id="acbc0-169">평준화로 초과 할당을 해결할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-169">Overallocations are not resolved by leveling</span></span>
+- <span data-ttu-id="acbc0-170">읽기 전용 프로젝트를 열 때 사용자가 여러 메시지를 받을 수 있는 문제를 확인했습니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-170">Identified an issue where users could get several messages when opening a read-only project.</span></span>
+- <span data-ttu-id="acbc0-171">사용자가 파일을 잠글 수 있지만 오류 메시지에 사용자 이름이 표시되지 않는 문제를 확인했습니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-171">Identified an issue where a file could be locked by a user, but no username would be displayed in the error message</span></span>
 
-### <a name="word"></a><span data-ttu-id="47212-199">Word</span><span class="sxs-lookup"><span data-stu-id="47212-199">Word</span></span>
+### <a name="publisher"></a><span data-ttu-id="acbc0-172">게시자</span><span class="sxs-lookup"><span data-stu-id="acbc0-172">Publisher</span></span>
 
-- <span data-ttu-id="47212-200">Ctrl + v 단축키가 손상될 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="47212-200">We fixed an issue which could break the ctrl+v keyboard shortcut.</span></span>
-- <span data-ttu-id="47212-201">초안 보기에서 동기식 스크롤링이 제대로 작동하지 않는 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="47212-201">We fixed an issue which could prevent synchronous scrolling from working properly in draft view.</span></span>
-- <span data-ttu-id="47212-202">Deskjet 프린터로 인쇄할 때 배율 문제가 발생할 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="47212-202">We fixed an issue which could have caused scaling issues when printing to Deskjet printers.</span></span>
-- <span data-ttu-id="47212-203">처음으로 문서를 저장한 후 도구 조언이 제대로 표시되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="47212-203">We fixed an issue which could prevent Tool Tips from displaying properly after saving a document for the first time.</span></span>
-- <span data-ttu-id="47212-204">표 서식이 손실될 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="47212-204">We fixed an issue where table formatting could be lost.</span></span>
-- <span data-ttu-id="47212-205">OneDrive에서 파일을 개체로 삽입하는 경우 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="47212-205">Resolved an issue in inserting files as object from OneDrive</span></span>
-- <span data-ttu-id="47212-206">글꼴 색이 적용되지 않았던 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="47212-206">We fixed an issue where font colors were not being committed.</span></span>
+- <span data-ttu-id="acbc0-173">도형이 그래픽 테두리 외부에 표시될 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-173">Shapes could appear outside of the graphics border</span></span>
 
-### <a name="office-suite"></a><span data-ttu-id="47212-207">Office 제품군</span><span class="sxs-lookup"><span data-stu-id="47212-207">Office Suite</span></span>
+### <a name="word"></a><span data-ttu-id="acbc0-174">Word</span><span class="sxs-lookup"><span data-stu-id="acbc0-174">Word</span></span>
 
-- <span data-ttu-id="47212-208">보류 중인 업로드가 있는 파일을 닫으면 사용자에게 잘못된 오류 메시지가 나타날 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="47212-208">We fixed an issue where a user could be given an incorrect error message when closing a file with a pending upload.</span></span>
-- <span data-ttu-id="47212-209">파일의 로컬 버전을 삭제하라는 경고가 반복될 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="47212-209">We fixed an issue which could cause a repeated warning to discard local versions of a file.</span></span>
-- <span data-ttu-id="47212-210">해당 기능을 사용하지 않도록 설정한 경우 버전 기록을 제공할 수 있었던 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="47212-210">We fixed an issue which could offer version history when that feature was disabled.</span></span>
-- <span data-ttu-id="47212-211">Outlook 기본 인증 프롬프트에 로그인 이름이 이제는 미리 채워집니다.</span><span class="sxs-lookup"><span data-stu-id="47212-211">Login name is now being pre-populated for basic auth prompts in Outlook</span></span>
-- <span data-ttu-id="47212-212">보통 굵기의 텍스트에 잘못된 스타일이 적용되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="47212-212">We fixed an issue where medium bold text could be incorrectly styled.</span></span>
+- <span data-ttu-id="acbc0-175">컨텍스트 메뉴에 교정 제안이 표시되지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-175">Proofing suggestins are not displaying in contextual menus</span></span>
+- <span data-ttu-id="acbc0-176">차트 크기에 대한 변경 내용을 저장할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-176">Changes to a chart size could not be saved</span></span>
+- <span data-ttu-id="acbc0-177">도형이 그래픽 테두리 외부에 표시될 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-177">Shapes could appear outside of the graphics border</span></span>
+- <span data-ttu-id="acbc0-178">스크린 리더를 사용하는 동안 의견을 볼 때 발생하는 문제를 확인했습니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-178">Identified an issue when viewing comments while using a screen reader</span></span>
+- <span data-ttu-id="acbc0-179">일부 비평이 맞춤법이나 문법의 비평으로 오인되는 문제를 확인했습니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-179">Identified an issue where some critiques were misidentified as being spelling or grammar critiques</span></span>
+- <span data-ttu-id="acbc0-180">cid 링크: Outlook 메시지의 이미지는 이제 요청 시 성공적으로 나누어질 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-180">The links of cid: images from Outlook messagescan now be successfully broken when requested.</span></span>
+- <span data-ttu-id="acbc0-181">한국어/영어 자동 고침을 사용하는 경우 잘못된 문자가 표시될 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-181">Incorrect characters may appear when using Korean/English autocorrect</span></span>
+- <span data-ttu-id="acbc0-182">탐색 창에서 검색이 실패할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-182">Searching from the Navigation pane may fail</span></span>
+- <span data-ttu-id="acbc0-183">내레이터와 돋보기를 동시에 사용하면 오류가 발생할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-183">Using Narrator and Magnifier at the same time may result in a crash</span></span>
+- <span data-ttu-id="acbc0-184">콘텐츠 정책이 메모에 제대로 적용되지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-184">Content policies are being incorrectly applied to comments</span></span>
+- <span data-ttu-id="acbc0-185">상위 정책 레이블이 우선 순위를 가져야할 때 하위 정책 레이블이 적용될 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-185">Lower policy labels may be applied when a higher policy label should have taken priority</span></span>
+- <span data-ttu-id="acbc0-186">레거시 문서를 연 다음 정보 탭으로 이동하면 오류가 발생할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-186">Opening legacy documents and then going to the Info tab can cause a crash</span></span>
+- <span data-ttu-id="acbc0-187">새 의견 대화 상자에서 간혹 포커스가 맞지 않는 문제를 확인했습니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-187">Identified an issue where a new comment dialog could sometimes not obtain focus</span></span>
+- <span data-ttu-id="acbc0-188">@멘션에 서식 적용 후 연락처 카드를 열지 못할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-188">A contact card could be prevented from opening after apply formatting to an @ mention</span></span>
+- <span data-ttu-id="acbc0-189">텍스트를 강조 표시하는 것이 어려울 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-189">Highlighting text could be challenging</span></span>
+- <span data-ttu-id="acbc0-190">사용자가 Word, Excel 및 PowerPoint 문서를 저장할 수 없는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-190">Resolved an issue where users may be unable to save Word, Excel, and PowerPoint documents.</span></span> <span data-ttu-id="acbc0-191">이 문제는 새 파일을 만든 후 저장 아이콘을 클릭하거나 Ctrl + S를 눌러 "다른 이름으로 저장" 옵션을 가져오는 사용자에게 영향을 줍니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-191">This issue affects users that create a new file and bring up the "Save as Dialog" option after clicking on the Save icon or pressing Ctrl + S.</span></span>
+- <span data-ttu-id="acbc0-192">어두운 텍스트를 사용하여 쓰여진 레거시 메모가 어두운 모드에서 표시되지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-192">Legacy comments written with dark text is not visible in Dark Mode</span></span>
+- <span data-ttu-id="acbc0-193">사용자가 편집기의 개별 항목으로 이동하지 못할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-193">A user could be prevented from navigating to an individual item in the editor</span></span>
+- <span data-ttu-id="acbc0-194">문법 또는 맞춤법 오류가 강조 표시되지 않을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-194">Grammar or spelling errors might not be highlighted</span></span>
 
+### <a name="office-suite"></a><span data-ttu-id="acbc0-195">Office 제품군</span><span class="sxs-lookup"><span data-stu-id="acbc0-195">Office Suite</span></span>
 
+- <span data-ttu-id="acbc0-196">일부 드로잉이 미리보기 또는 슬라이드 쇼에서 표시되지 않을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-196">Some drawings may not display in preview or slide shows</span></span>
+- <span data-ttu-id="acbc0-197">“진행 중인 다른 설치”의 잘못된 오류 메시지로 인해 업그레이드를 하지 못했던 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-197">We fixed an issue where an upgrade could be prevented by a incorrect error message of Another install in progress</span></span>
+- <span data-ttu-id="acbc0-198">세로 텍스트 상자에서 일부 가타카나 문자가 잘못 표시될 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-198">Some katakana characters may display incorrectly in a vertical text box</span></span>
+- <span data-ttu-id="acbc0-199">연결되지 않은 네트워크 공유에 파일을 저장하면 오류가 발생할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="acbc0-199">Attempting to save a file to a disconnected network share may result in a crash</span></span>
+- <span data-ttu-id="acbc0-200">Windows 7에서 도형을 사용하는 경우의 성능 문제.</span><span class="sxs-lookup"><span data-stu-id="acbc0-200">Performance issue when using Shapes on Windows 7</span></span>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
