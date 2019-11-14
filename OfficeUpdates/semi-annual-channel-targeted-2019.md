@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 반기 채널(대상 지정) 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 790003f78fb43db66e7ec89274313559b04c13cf
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: f57ae4f07bbf8838e2c82eeb28534d2ac364bf24
+ms.sourcegitcommit: 4ff072b2b611be960cbd8c7f810b31b2751c4c88
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38289838"
+ms.lasthandoff: 11/13/2019
+ms.locfileid: "38312138"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019년 반기 채널(대상 지정) 릴리스에 대한 릴리스 정보
 
@@ -256,8 +256,6 @@ ms.locfileid: "38289838"
 ### <a name="office-suite"></a>Office 제품군
 
 - **Microsoft Teams 설치:** Teams가 Office 365 ProPlus의 기존 설치에 추가되었습니다. [자세한 정보](https://docs.microsoft.com/ko-KR/deployoffice/teams-install)
-
-- **정보 위치에서 새로 노출된 단추와 문서 공유 및 문서 업로드:** 이전에는 문서 저장 경로 뒤에서만 공유, 클립보드에 경로 복사 및 파일 위치 열기 단추에 액세스할 수 있었습니다. 이제 정보 위치에 이러한 단추가 명확하게 표시됩니다. 파일 > 정보로 이동하면 평소처럼 이러한 단추가 표시됩니다.
 
 - **변경 내용을 실시간으로 저장:** 파일을 OneDrive에 업로드하여 모든 업데이트를 자동으로 저장할 수 있습니다.
 
