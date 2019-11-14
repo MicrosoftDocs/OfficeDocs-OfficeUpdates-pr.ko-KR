@@ -3,7 +3,7 @@ title: Project Server 업데이트
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 10/9/2019
+ms.date: 11/13/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: project-server-itpro
@@ -13,12 +13,12 @@ ms.collection:
 - IT_ProjectAdmin_Top
 - RelNotes_Server
 description: 한 곳에서 Project Server 2013 및 Project Server 2010용 업데이트를 찾아서 관리합니다. 이 페이지의 링크를 사용하여 업데이트에 대해 자세히 알아보고 업데이트를 다운로드할 수 있습니다.
-ms.openlocfilehash: a6bd8b68cd841f1e1e142dc2d2fc31428dbca157
-ms.sourcegitcommit: a553f26c5b5f8035bd2217ad6f03dd56535f9349
+ms.openlocfilehash: 18c878a03339e1e830e0b28f37340959dd20ba63
+ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37424073"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38282156"
 ---
 # <a name="project-server-updates"></a>Project Server 업데이트
 
@@ -30,6 +30,7 @@ ms.locfileid: "37424073"
   
 |**릴리스 날짜**|**KB 번호**|
 |:-----|:-----|:-----|
+|2019년 11월  <br/> |[KB4484154](https://support.microsoft.com/kb/4484154) <br/>|
 |2019년 10월  <br/> |[KB4484120](https://support.microsoft.com/kb/4484120) <br/>|
 |2019년 9월  <br/> |[KB4484093](https://support.microsoft.com/kb/4484093) <br/>|
 |2019년 8월  <br/> |[KB4475560](https://support.microsoft.com/kb/4475560) <br/>|
@@ -93,6 +94,7 @@ ms.locfileid: "37424073"
 
 |**릴리스 날짜**|**KB 번호**|
 |:-----|:-----|:-----|
+|2019년 11월  <br/>  |[KB4484161](https://support.microsoft.com/kb/4484161) <br/>|
 |2019년 10월  <br/>  |[KB4484128](https://support.microsoft.com/kb/4484128) <br/>|
 |2019년 9월  <br/>  |[KB4475600](https://support.microsoft.com/kb/4475600) <br/>|
 |2019년 8월  <br/>  |[KB4475570](https://support.microsoft.com/kb/4475570) <br/>|

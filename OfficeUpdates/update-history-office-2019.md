@@ -3,19 +3,19 @@ title: Office 2016 C2R 및 Office 2019의 업데이트 기록
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 10/9/2019
+ms.date: 11/13/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: C2R(간편 실행)을 사용하는 Office 2016 및 2019 영구 버전에 대한 업데이트 기록을 IT 전문가에게 제공합니다.
-ms.openlocfilehash: ad5f3a3177bd7d51dfc041460a1383e3657571cf
-ms.sourcegitcommit: a553f26c5b5f8035bd2217ad6f03dd56535f9349
+ms.openlocfilehash: c35ff76b7ac742c7a8bb14361413c311dda0a593
+ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37424103"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38282266"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Office 2016 C2R 및 Office 2019의 업데이트 기록
 
@@ -39,12 +39,13 @@ Microsoft는 Office 2016 C2R(간편 실행) 버전과 Office 2019의 보안 및 
 
 |**릴리스 날짜**|**버전 번호**|**추가 정보**|
 |:-----|:-----|:-----|
+|2019년 11월 12일   |버전 1808 (빌드 10352.20042)  |[CVE-2019-1402](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1402) <br/> [CVE-2019-1446](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1446) <br/> [CVE-2019-1448](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1448) <br/> [CVE-2019-1449](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1449) <br/>  |
 |2019년 10월 8일   |버전 1808 (빌드 10351.20054)  |[CVE-2019-1327](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1327) <br/> [CVE-2019-1331](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1331) <br/> |
 |2019년 9월 10일   |버전 1808(빌드 10350.20019)  |[CVE-2019-1246](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1246) <br/> [CVE-2019-1263](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1263) <br/> [CVE-2019-1264](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1264) <br/> [CVE-2019-1297](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1297) <br/>  |
 |2019년 8월 13일   |버전 1808(빌드 10349.20017)  |[CVE-2019-1155](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1155) <br/> [CVE-2019-1199](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1199) <br/> [CVE-2019-1200](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1200) <br/> [CVE-2019-1201](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1201) <br/> [CVE-2019-1204](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1204) <br/> [CVE-2019-1205](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1205) <br/>  |
 |2019년 7월 9일   |버전 1808 (빌드 10348.20020)  |[CVE-2019-1084](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1084) <br/> [CVE-2019-1109](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1109) <br/> [CVE-2019-1110](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1110) <br/> [CVE-2019-1111](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1111) <br/> [CVE-2019-1112](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1112) <br/>|
 |2019년 6월 11일   |버전 1808 (빌드 10346.20002)  |[CVE-2019-1034](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1034) <br/> [CVE-2019-1035](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1035) <br/> |
-|2019년 5월 14일   |버전 1808 (빌드 10344.20008)  |[CVE-2019-0945](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-0945) <br/> [CVE-2019-0946](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-0946) <br/> [CVE-2019-0953](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-0953) <br/>|
+
 
 
 
@@ -56,12 +57,12 @@ Microsoft는 Office 2016 C2R(간편 실행) 버전과 Office 2019의 보안 및 
 
 |**릴리스 날짜**|**버전 번호**|**추가 정보**|
 |:-----|:-----|:-----|
+|2019년 11월 12일   |버전 1910 (빌드 12130.20344)  |[CVE-2019-1402](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1402) <br/> [CVE-2019-1446](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1446) <br/> [CVE-2019-1448](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1448) <br/> [CVE-2019-1449](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1449) <br/>  |
 |2019년 10월 8일   |버전 1909 (빌드 12026.20320)  |[CVE-2019-1327](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1327) <br/> [CVE-2019-1331](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1331) <br/> |
 |2019년 9월 10일   |버전 1908(빌드 11929.20300)  |[CVE-2019-1246](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1246) <br/> [CVE-2019-1263](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1263) <br/> [CVE-2019-1264](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1264) <br/> [CVE-2019-1297](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1297) <br/>  |
 |2019년 8월 13일   |버전 1907 (빌드 11901.20218)  |[CVE-2019-1155](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1155) <br/> [CVE-2019-1199](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1199) <br/> [CVE-2019-1200](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1200) <br/> [CVE-2019-1201](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1201) <br/> [CVE-2019-1204](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1204) <br/> [CVE-2019-1205](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1205) <br/>  |
 |2019년 7월 9일   |버전 1906 (빌드 11727.20244)  |[CVE-2019-1084](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1084) <br/> [CVE-2019-1109](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1109) <br/> [CVE-2019-1110](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1110) <br/> [CVE-2019-1111](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1111) <br/> [CVE-2019-1112](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1112) <br/>|
 |2019년 6월 11일   |버전 1905(빌드 11629.20246)  |[CVE-2019-1034](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1034) <br/> [CVE-2019-1035](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1035) <br/> |
-|2019년 5월 14일   |버전 1904(빌드 11601.20204)  |[CVE-2019-0945](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-0945) <br/> [CVE-2019-0946](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-0946) <br/> [CVE-2019-0953](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-0953) <br/>|
 
 
 

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT 전문가에게 Office 365 ProPlus 보안 업데이트에 대한 릴리스 정보를 제공합니다.
-ms.openlocfilehash: 3aba613d5ecbe9bf2b9c2de29e4356248980db89
-ms.sourcegitcommit: a553f26c5b5f8035bd2217ad6f03dd56535f9349
+ms.openlocfilehash: 76e51f729663364d3c1ff68ba0c9a4c1ad5bd20c
+ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37424063"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38289666"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Office 365 ProPlus 보안 업데이트에 대한 릴리스 정보
 
@@ -25,6 +25,22 @@ ms.locfileid: "37424063"
 > - 이 정보는 일부 Office 365 계획에 제공되는 Office 버전(예: Business Premium)인 Office 365 Business에도 적용됩니다.  
 
 [//]: # (공백으로 사용하므로, 위의 선을 삭제하지 마세요.)  
+
+## <a name="november-12-2019"></a>2019년 11월 12일
+월별 채널: 버전 1910 (빌드 12130.20344)  
+반기 채널(대상 지정): 버전 1908 (빌드 11929.20436)  
+반기 채널: 버전 1902 (빌드 11328.20468)  
+반기 채널: 버전 1808 (빌드 10730.20416)  
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2019-1448](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1448)
+-   [CVE-2019-1446](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1446)
+
+### <a name="office-suite"></a>Office 제품군
+
+-   [CVE-2019-1449](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1449)
+-   [CVE-2019-1402](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1402)
 
 ## <a name="october-08-2019"></a>2019년 10월 8일
 월별 채널: 버전 1909 (빌드 12026.20320) 이상  

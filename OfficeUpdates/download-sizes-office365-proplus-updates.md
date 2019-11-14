@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 각 업데이트 채널에 대한 Office 365 ProPlus 업데이트의 대략적인 다운로드 크기 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 9aed6048b81cf6e4bfd750875b8bc7608e0a251e
-ms.sourcegitcommit: a3a8b07e171e61f3dde1530a0c067d621db07feb
+ms.openlocfilehash: 5900ce9c86c2d1e1cd653c538dcb1db34d6c1c4d
+ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "37993713"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38282186"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 ProPlus 업데이트의 다운로드 크기
 
@@ -30,13 +30,21 @@ Microsoft의 목표는 기업 고객이 네트워크 대역폭 사용률을 계�
 
 [//]: # (제거하지 마세요)
 
-## <a name="november-5-2019"></a>2019년 11월 5일
+## <a name="november-12-2019"></a>2019년 11월 12일
 
-[//]: # (예상 항목을 제거하지 마세요. 시작)
+### <a name="monthly-channel"></a>월별 채널
+
+가장 최근 버전은 버전 1910 (빌드 12130.20344)입니다.
+
+|**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
+|:-----|:-----|:-----|
+|버전 1910 (빌드 12130.20272) <br/> |2019년 10월 30일 <br/> |61<br/> |
+|버전 1909 (빌드 12026.20344) <br/> |2019년 10월 22일 <br/> |156<br/> |
+
 
 ### <a name="semi-annual-channel"></a>반기 채널
 
-<i>예상된 릴리스는 버전 1902 (빌드 11328.20468)입니다.</i>
+가장 최근 버전은 버전 1902 (빌드 11328.20468)입니다.
 
 |**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
 |:-----|:-----|:-----|
@@ -44,9 +52,11 @@ Microsoft의 목표는 기업 고객이 네트워크 대역폭 사용률을 계�
 |버전 1902 (빌드 11328.20420) <br/> |2019년 9월 10일 <br/> |70<br/> |
 
 
+[//]: # (항목을 제거하지 마세요. 시작 2019년 11월 12일)
+
 ### <a name="semi-annual-targeted-channel"></a>반기 (대상 지정) 채널
 
-<i>예상된 릴리스는 버전 1908 (빌드 11929.20436)입니다.</i>
+가장 최근 릴리스는 버전 1908 (빌드 11929.20436)입니다.
 
 |**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
 |:-----|:-----|:-----|
@@ -54,7 +64,12 @@ Microsoft의 목표는 기업 고객이 네트워크 대역폭 사용률을 계�
 |버전 1908(빌드 11929.20388) <br/> |2019년 10월 8일 <br/> |66<br/> |
 
 
-[//]: # (예상 항목을 제거하지 마세요. 종료)
+[//]: # (항목을 제거하지 마세요 종료 2019년 11월 12일)
+
+## <a name="november-5-2019"></a>2019년 11월 5일
+
+
+
 
 ## <a name="october-30-2019"></a>2019년 10월 30일
 
