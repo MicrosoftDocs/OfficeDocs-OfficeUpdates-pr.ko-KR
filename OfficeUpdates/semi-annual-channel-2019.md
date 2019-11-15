@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 반기 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: d0445d53b34dee6f072d8153d2235b77591e0351
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: c79cdc9a9c11f12acfaeab511cd27f234ceda0eb
+ms.sourcegitcommit: 4027fcf35a0e3da959e83179d798c0981c4a0000
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38289818"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38402444"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019년 반기 채널 릴리스에 대한 릴리스 정보
 
@@ -43,7 +43,7 @@ ms.locfileid: "38289818"
 ### <a name="outlook"></a>Outlook
 
 - 토스트 알림을 사용하도록 설정했을 때 사용자가 메모리 누수를 보게되는 문제를 해결했습니다.
-- 고객에게 Outlook에서의 메모리 누수가 눈에 띄도록 하는 문제를 해결했습니다.
+- Outlook에서의 메모리 누수를 고객이 알게 되는 문제를 해결했습니다.
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -304,7 +304,7 @@ ms.locfileid: "38289818"
 ### <a name="outlook-non-security-updates"></a>Outlook: 비보안 업데이트
 
 - "그룹화 기준"에 두 번째 조건을 추가할 때 고객에게 작업이 표시되지 않는 문제를 해결했습니다.
-- 마이그레이션된 항목의 일부 필드를 편집할 수 없는 문제를 처리합니다. 
+- 마이그레이션된 항목의 일부 필드를 편집할 수 없는 문제를 처리합니다.
 - 시스템 작업 표시줄이 화면의 왼쪽이나 위쪽에 있을 때 윈도우가 올바른 위치에 나타나지 않는 문제가 수정되었습니다.
 - 연락처 카드에 사진을 로드 할 때 고객에게 충돌이 발생하는 문제를 해결합니다.
 - 일부 고객이 Office 응용 프로그램을 시작할 때 충돌을 일으키는 문제를 해결합니다.
