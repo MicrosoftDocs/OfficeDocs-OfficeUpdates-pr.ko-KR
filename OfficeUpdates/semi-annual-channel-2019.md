@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 반기 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: c79cdc9a9c11f12acfaeab511cd27f234ceda0eb
-ms.sourcegitcommit: 4027fcf35a0e3da959e83179d798c0981c4a0000
+ms.openlocfilehash: 76ebf594ea392deea85b5e1e941ac0803918ab8a
+ms.sourcegitcommit: 5400b7e701c098648937b0a0f4a5e6a50bff3fb1
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38402444"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "38669827"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019년 반기 채널 릴리스에 대한 릴리스 정보
 
@@ -48,6 +48,10 @@ ms.locfileid: "38402444"
 ### <a name="powerpoint"></a>PowerPoint
 
 - 안정성 픽스: 타사 추가 기능으로 인해 PowerPoint에서 오류가 발생하는 문제를 해결했습니다.
+
+### <a name="word"></a>Word
+
+- 일부 특수 문자를 확정하려고 할 때 글꼴이 MS Mincho로 변경되는 문제를 해결했습니다.
 
 ### <a name="office-suite"></a>Office 제품군
 

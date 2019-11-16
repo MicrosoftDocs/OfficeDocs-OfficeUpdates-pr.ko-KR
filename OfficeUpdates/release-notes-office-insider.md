@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 1c66699a53334e4da5c390bdfaae3455829b5b22
-ms.sourcegitcommit: 0488f84954e573c68209e28a2d11cf2010c6f588
+ms.openlocfilehash: 5cf8d0186852bf1dff2cefaa00c5f636082415e5
+ms.sourcegitcommit: 5400b7e701c098648937b0a0f4a5e6a50bff3fb1
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/08/2019
-ms.locfileid: "38076422"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "38669837"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 참가자에 대한 릴리스 정보
 
@@ -29,6 +29,79 @@ ms.locfileid: "38076422"
 
 [//]: # (제거하지 마세요)
 
+
+## <a name="version-1912-november-15"></a>버전 1912: 11월 15일
+*버전 1912 (빌드 12307.20000)*
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="insights-services"></a>Insights Services
+
+- **Excel의 아이디어의 자연 언어 쿼리:** 데이터에 대한 자연 언어 질문을 할 수 있는 Excel 아이디어의 새로운 기능
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- <div><span>일부 지역화의 경우 텍스트를 열로 기능이 실패할 수 있습니다.</span></div>
+
+
+- <h5>셀 내에서 동적 배열 수식을 편집할 때 텍스트가 셀 경계선 외부에 정렬될 수 있습니다.<br></h5>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div>그룹 정책을 통해 S/MIME 구성을 적용하는 기능이 추가되었습니다.</div>
+
+
+- <div><span>포함된 이미지가 예상보다 작게 표시될 수 있습니다.</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>텍스트에서 포커스를 이동한 후 커서가 사라질 수 있습니다.</span></div>
+
+
+### <a name="project"></a>Project
+
+- <div><span>사용자에 게 라이선스와 관련된 오류가 발생할 수 있습니다.</span></div>
+
+
+- <div><span>날짜 선택기에서 때때로 오늘 단추가 올바르지 않은 날짜를 설정할 수 있습니다.</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>마우스 오른쪽 단추를 클릭하면 전체 단어가 선택되지 않는 경우가 있습니다.</span></div>
+
+
+- <div>제안된 형식으로 변환한 후에는 커서가 개체 내에서 계속 활성 상태로 유지될 수 있습니다.</div>
+
+
+- <div>일부 시나리오에서 메시지의 이미지가 제대로 크기 조절되지 않을 수 있습니다.</div>
+
+
+- <div>일부 테마에서 선택된 메모를 확인하기 어렵습니다.</div>
+
+
+- <div><span>이제 창 전환기에서 숨겨진 경우 메모 힌트를 선택해도 최신 메모 창이 표시됩니다.</span></div>
+
+
+### <a name="office-suite"></a>Office 제품군
+
+- <div><span>메모를 회신하면 텍스트 상자가 창 가장자리를 벗어나 세로로 확장될 수 있습니다.</span></div>
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-1912-november-08"></a>버전 1912: 11월 8일
 *버전 1912 (빌드 12231.20000)*
