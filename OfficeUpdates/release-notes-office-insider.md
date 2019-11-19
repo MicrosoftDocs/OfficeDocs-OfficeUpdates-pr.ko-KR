@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 5cf8d0186852bf1dff2cefaa00c5f636082415e5
-ms.sourcegitcommit: 5400b7e701c098648937b0a0f4a5e6a50bff3fb1
+ms.openlocfilehash: c0128f82e5b00e5e6b0e13d56073732d2be3a73e
+ms.sourcegitcommit: 31531d8a7be9a65ac361168901c40c260dcbac46
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "38669837"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38704497"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 참가자에 대한 릴리스 정보
 
@@ -54,7 +54,7 @@ ms.locfileid: "38669837"
 - <div><span>일부 지역화의 경우 텍스트를 열로 기능이 실패할 수 있습니다.</span></div>
 
 
-- <h5>셀 내에서 동적 배열 수식을 편집할 때 텍스트가 셀 경계선 외부에 정렬될 수 있습니다.<br></h5>
+- <div>셀 내에서 동적 배열 수식을 편집할 때 텍스트가 셀 경계선 외부에 정렬될 수 있습니다.</div>
 
 
 ### <a name="outlook"></a>Outlook

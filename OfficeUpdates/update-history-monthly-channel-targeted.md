@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 월간 채널 업데이트 내역 제공 Windows 데스크톱의 대상 릴리스
-ms.openlocfilehash: 70e61e0157e1fa50194801b5ba43fe54245fa1f7
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: 9444d679ae3d84a8eab9746e5fcdf429a844e07e
+ms.sourcegitcommit: 31531d8a7be9a65ac361168901c40c260dcbac46
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38289858"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38704507"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Windows용 월간(대상) 채널의 업데이트 내역
 
@@ -32,7 +32,10 @@ ms.locfileid: "38289858"
 
 [//]: # (제거하지 마세요)
 
-**2019 년 11 월 12 일**<br/>
+**11 월 15 일 2019**<br/>
+버전 1911 (빌드 12228.20206)<br/>
+
+**2019년 11월 12일**<br/>
 버전 1911 (빌드 12228.20120)<br/>
 
 **2019 년 10 월 28 일**<br/>
