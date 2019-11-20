@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 354a0b0310cfcc84bcadc9e5b4f34581026fbd6f
-ms.sourcegitcommit: 31531d8a7be9a65ac361168901c40c260dcbac46
+ms.openlocfilehash: 47eb6d76610dd9f2bbed62b7fbb5dde979daebc5
+ms.sourcegitcommit: 14a61d37299ee3decb77b048ab12730e616292f7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 11/19/2019
-ms.locfileid: "38704467"
+ms.locfileid: "38724056"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -22,7 +22,7 @@ ms.locfileid: "38704467"
  
  > [!NOTE]
 >- Microsoft는 일정 기간 동안 매월 기능(및 경우에 따라 수정 사항)을 롤아웃합니다.  아래에서 설명했던 내용이 바로 보이지 않으면 곧 예측할 수 있습니다. [자세한 정보](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
->- Office 365 ProPlus의 기존 설치에 대한 Microsoft Temas - 7월 초부터 Office 365 ProPlus(및 Office 365 Business)의 업데이트에 Microsoft Teams가 포함됩니다.  Teams가 추가되는 날짜는 사용 중인 업데이트 채널에 따라 다릅니다. 추가 정보는 [Office 365 ProPlus를 사용한 Microsoft Teams 배포](https://docs.microsoft.com/ko-KR/deployoffice/teams-install)를 참조하세요.
+>- Office 365 ProPlus의 기존 설치에 대한 Microsoft Temas - 7월 초부터 Office 365 ProPlus(및 Office 365 Business)의 업데이트에 Microsoft Teams가 포함됩니다.  Teams가 추가되는 날짜는 사용 중인 업데이트 채널에 따라 다릅니다. 추가 정보는 [Office 365 ProPlus를 사용한 Microsoft Teams 배포](https://docs.microsoft.com/DeployOffice/teams-install)를 참조하세요.
 
 ## <a name="version-1910-november-18"></a>버전 1910: 11월 18일
 *버전 1910 (빌드 12130.20390)*
@@ -44,7 +44,7 @@ ms.locfileid: "38704467"
 ## <a name="version-1910-november-12"></a>버전 1910: 11월 12일
 *버전 1910 (빌드 12130.20344)*
 
-나열된 보안 업데이트는 [여기](https://docs.microsoft.com/ko-KR/officeupdates/office365-proplus-security-updates)
+나열된 보안 업데이트는 [여기](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -106,7 +106,7 @@ ms.locfileid: "38704467"
 
 ### <a name="office-suite"></a>Office 제품군
 
-- **Office 365 ProPlus의 기존의 설치에 Microsoft Teams를 설치** 6월말부터 Microsoft Teams가 Office 365 ProPlus(및 Office 365 Business)의 기존 설치에 업데이트를 설치 시 포함됩니다. Teams가 추가되는 날짜는 사용 중인 업데이트 채널에 따라 다릅니다. 추가 정보는 Office 365 ProPlus에 Microsoft Teams 배포를 참조하세요. [자세한 정보](https://docs.microsoft.com/ko-KR/deployoffice/teams-install)
+- **Office 365 ProPlus의 기존의 설치에 Microsoft Teams를 설치** 6월말부터 Microsoft Teams가 Office 365 ProPlus(및 Office 365 Business)의 기존 설치에 업데이트를 설치 시 포함됩니다. Teams가 추가되는 날짜는 사용 중인 업데이트 채널에 따라 다릅니다. 추가 정보는 Office 365 ProPlus에 Microsoft Teams 배포를 참조하세요. [자세한 정보](https://docs.microsoft.com/DeployOffice/teams-install)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
@@ -149,7 +149,7 @@ ms.locfileid: "38704467"
 ## <a name="version-1909-october-08"></a>버전 1909: 10월 8일
 *버전 1909 (빌드 12026.20320)*
 
-보안 업데이트는 [여기](https://docs.microsoft.com/ko-KR/officeupdates/office365-proplus-security-updates)에 나열되어 있습니다.
+보안 업데이트는 [여기](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)에 나열되어 있습니다.
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
@@ -261,7 +261,7 @@ ms.locfileid: "38704467"
 ## <a name="version-1908-september-10"></a>버전 1908: 9월 10일
 *버전 1908 (빌드 11929.20300)*
 
-보안 업데이트가 [여기](https://docs.microsoft.com/ko-KR/officeupdates/office365-proplus-security-updates)에 나열되어 있습니다.
+보안 업데이트가 [여기](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)에 나열되어 있습니다.
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
@@ -327,16 +327,18 @@ ms.locfileid: "38704467"
 ## <a name="version-1907-august-13"></a>버전 1907: 8월 13일
 *버전 1907 (빌드 11901.20218)*
 
-보안 업데이트가 [여기](https://docs.microsoft.com/ko-KR/officeupdates/office365-proplus-security-updates)에 나열되어 있습니다.
+보안 업데이트가 [여기](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)에 나열되어 있습니다.
 
 ### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트
 
- - 다른 사용자와의 공동 작성 세션에서 트리거 할 수 있는 동안 피벗 테이블의 정렬 방식을 변경하고 새로 고치는 문제가 해결되었습니다.
+- 다른 사용자와의 공동 작성 세션에서 트리거 할 수 있는 동안 피벗 테이블의 정렬 방식을 변경하고 새로 고치는 문제가 해결되었습니다.
 
 ### <a name="outlook-non-security-updates"></a>Outlook: 비보안 업데이트
-  - 사서함을 기본 인증에서 최신 인증으로 업그레이드한 사용자가 Outlook 프로필에 연결된 잘못된 계정으로 끝나는 문제가 해결되었습니다.
+
+- 사서함을 기본 인증에서 최신 인증으로 업그레이드한 사용자가 Outlook 프로필에 연결된 잘못된 계정으로 끝나는 문제가 해결되었습니다.
 
 ## <a name="version-1907-july-29"></a>버전 1907: 7월 29일
+
 *버전 1907 (빌드 11901.20176)*
 * 다양한 버그 및 성능 수정 사항.
 
@@ -379,7 +381,7 @@ ms.locfileid: "38704467"
 ## <a name="version-1906-july-09"></a>버전 1906: 7월 9일
 *버전 1906 (빌드 11727.20244)*
 
-나열된 보안 업데이트는 [여기](https://docs.microsoft.com/ko-KR/officeupdates/office365-proplus-security-updates)
+나열된 보안 업데이트는 [여기](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
 
 ### <a name="outlook-non-security-updates"></a>Outlook: 비보안 업데이트
 
@@ -445,7 +447,7 @@ ms.locfileid: "38704467"
 
 ## <a name="version-1905-june-11"></a>버전 1905: 6월 11일
 *버전 1905(빌드 11629.20246)*
-<br/>나열된 보안 업데이트는 [여기](https://docs.microsoft.com/ko-KR/officeupdates/office365-proplus-security-updates)
+<br/>나열된 보안 업데이트는 [여기](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
 
 ### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트
 
@@ -535,7 +537,7 @@ ms.locfileid: "38704467"
 ## <a name="version-1904-may-14"></a>버전 1904: M5월 14일 
 *버전 1904(빌드 11601.20204)*
 
- - 보안 업데이트는 [여기](https://docs.microsoft.com/ko-KR/officeupdates/office365-proplus-security-updates)에 나열됩니다.
+- 보안 업데이트는 [여기](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)에 나열됩니다.
 
 ## <a name="version-1904-may-8"></a>버전 1904: 5월 8일
 *버전 1904(빌드 11601.20178)*
@@ -600,7 +602,7 @@ ms.locfileid: "38704467"
 ## <a name="version-1903-april-9"></a>버전 1903: 4월 9일
 *버전 1903(빌드 11425.20204)* 
 
-- 보안 업데이트는 [여기](https://docs.microsoft.com/ko-KR/officeupdates/office365-proplus-security-updates)에 나열되어 있습니다.
+- 보안 업데이트는 [여기](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)에 나열되어 있습니다.
 
 ### <a name="skype-for-business-non-security-updates"></a>비즈니스용 Skype: 비보안 업데이트
 - Lync(비즈니스용 Skype)에서 참가자가 7 명 이상인 온라인 모임에서 모임 창이 사라질 수있는 문제가 해결되었습니다.
@@ -685,7 +687,7 @@ ms.locfileid: "38704467"
  
 ### <a name="office-suite-feature-updates"></a>Office 제품군: 기능 업데이트
 
-- **Microsoft Teams 설치:**  Office 365 ProPlus를 새로 설치하면 Microsoft Teams가 기본적으로 설치됩니다. [자세히 알아보기](https://docs.microsoft.com/ko-KR/deployoffice/teams-install)
+- **Microsoft Teams 설치:**  Office 365 ProPlus를 새로 설치하면 Microsoft Teams가 기본적으로 설치됩니다. [자세히 알아보기](https://docs.microsoft.com/DeployOffice/teams-install)
 
 ## <a name="version-1901-february-12"></a>버전 1901: 2월 12일
 *버전 1901(빌드 11231.20174)* 
