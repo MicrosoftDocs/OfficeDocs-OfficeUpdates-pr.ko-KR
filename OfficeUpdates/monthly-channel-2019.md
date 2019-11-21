@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 47eb6d76610dd9f2bbed62b7fbb5dde979daebc5
-ms.sourcegitcommit: 14a61d37299ee3decb77b048ab12730e616292f7
+ms.openlocfilehash: 1672e1968c489d4a05b785b779a832c0cbfda46f
+ms.sourcegitcommit: ef6ec784e9bd8d7e39a9a0a989adc66612f6349b
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38724056"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "38753795"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -26,18 +26,20 @@ ms.locfileid: "38724056"
 
 ## <a name="version-1910-november-18"></a>버전 1910: 11월 18일
 *버전 1910 (빌드 12130.20390)*
-* 다양한 버그 및 성능 수정 사항.
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
 ### <a name="resolved-issues"></a>해결된 문제
+
+### <a name="access"></a>Access
+
+- 업데이트 쿼리를 실행하면 "쿼리가 손상되었습니다"라는 오류 메시지가 잘못 발생하는 문제가 해결되었습니다.
+
 ### <a name="outlook"></a>Outlook
 
 - 사용자에게 모임에서의 위치 필드의 예상치 않은 변경이 표시되는 문제를 해결했습니다.
 
 - 사용자가 계정 만들기 컨텍스트에서 지원 센터에 문의하려고 할 때 &quot;확인&quot; 버튼이 있는 빈 메시지 상자가 표시되는 문제를 해결했습니다.
-
-
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
@@ -68,7 +70,6 @@ ms.locfileid: "38724056"
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
 ### <a name="feature-updates"></a>기능 업데이트
-
 
 ### <a name="excel"></a>Excel
 

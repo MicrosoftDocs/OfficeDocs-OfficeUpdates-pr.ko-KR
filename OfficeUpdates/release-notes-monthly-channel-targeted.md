@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 이후 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 242760e78e844c506c0fd097ab5acf930a9e7f48
-ms.sourcegitcommit: 14a61d37299ee3decb77b048ab12730e616292f7
+ms.openlocfilehash: c0c94dc4bfbc6e8e215b5c8d7b713e61abf3c651
+ms.sourcegitcommit: ef6ec784e9bd8d7e39a9a0a989adc66612f6349b
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38724066"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "38753805"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 릴리스 정보 월 단위 채널(대상 지정)
 
@@ -27,6 +27,19 @@ ms.locfileid: "38724066"
 [//]: # (제거하지 마세요)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+## <a name="version-1911-november-20"></a>버전 1911: 11월 20일
+*버전 1911 (빌드 12228.20250)*
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="outlook"></a>Outlook
+
+- **고급 그룹 전자 메일 설정:** 이 기능을 사용하면 그룹 사용자가 전자 메일이나 이벤트를 받은 편지함에서 받거나 팔로우하도록 사용자 지정할 수 있습니다.
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-1911-november-15"></a>버전 1911: 11월 15일
 *버전 1911 (빌드 12228.20206)*
