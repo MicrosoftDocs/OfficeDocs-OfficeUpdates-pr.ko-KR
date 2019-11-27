@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 이후 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: d986ac947e9e7c5a839c7f6b8b7a35afa06256ba
-ms.sourcegitcommit: 48d0a5842f174e2dbd37df8dd88720a203734e90
+ms.openlocfilehash: 5abaa516f750daa60b0a2538f8d75f7a1b3fb71b
+ms.sourcegitcommit: d54d66f9c5f68a3a20ebb5f1004fb6c3ad9f62cc
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/25/2019
-ms.locfileid: "39256595"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39603692"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 릴리스 정보 월 단위 채널(대상 지정)
 
@@ -27,7 +27,6 @@ ms.locfileid: "39256595"
 [//]: # (제거하지 마세요)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
-
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
