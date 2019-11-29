@@ -3,19 +3,19 @@ title: Office 2016 C2R 및 Office 2019의 업데이트 기록
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 11/13/2019
+ms.date: 11/23/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: C2R(간편 실행)을 사용하는 Office 2016 및 2019 영구 버전에 대한 업데이트 기록을 IT 전문가에게 제공합니다.
-ms.openlocfilehash: c35ff76b7ac742c7a8bb14361413c311dda0a593
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: 9b5fe442ee64a0b820d99b0be217a82522966cc2
+ms.sourcegitcommit: 35a8d41cd61fc1a27cc543b06f5d715c7913ac11
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38282266"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39621393"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Office 2016 C2R 및 Office 2019의 업데이트 기록
 
@@ -57,6 +57,8 @@ Microsoft는 Office 2016 C2R(간편 실행) 버전과 Office 2019의 보안 및 
 
 |**릴리스 날짜**|**버전 번호**|**추가 정보**|
 |:-----|:-----|:-----|
+|2019년 11월 22일   |버전 1910 (빌드 12130.20410)  |다양한 버그 및 성능 수정 사항.<br/>  |
+|2019년 11월 18일   |버전 1910 (빌드 12130.20390)  |다양한 버그 및 성능 수정 사항.<br/>  |
 |2019년 11월 12일   |버전 1910 (빌드 12130.20344)  |[CVE-2019-1402](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1402) <br/> [CVE-2019-1446](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1446) <br/> [CVE-2019-1448](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1448) <br/> [CVE-2019-1449](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1449) <br/>  |
 |2019년 10월 8일   |버전 1909 (빌드 12026.20320)  |[CVE-2019-1327](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1327) <br/> [CVE-2019-1331](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1331) <br/> |
 |2019년 9월 10일   |버전 1908(빌드 11929.20300)  |[CVE-2019-1246](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1246) <br/> [CVE-2019-1263](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1263) <br/> [CVE-2019-1264](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1264) <br/> [CVE-2019-1297](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1297) <br/>  |
