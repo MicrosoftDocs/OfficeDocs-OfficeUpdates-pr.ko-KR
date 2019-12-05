@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 각 업데이트 채널에 대한 Office 365 ProPlus 업데이트의 대략적인 다운로드 크기 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 272cf6e9cf743c164c8b0af0d5fb7e50a07bd865
-ms.sourcegitcommit: 82bdb4c2eaa7c6a14956b572111300dcba7fd9a8
+ms.openlocfilehash: edf447e781009bd7fa137e12f754f657fbc36160
+ms.sourcegitcommit: 9651345dd5885fa89677b9043f435ad61cb1c15f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/23/2019
-ms.locfileid: "39208981"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39810886"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 ProPlus 업데이트의 다운로드 크기
 
@@ -29,6 +29,31 @@ Microsoft의 목표는 기업 고객이 네트워크 대역폭 사용률을 계�
 > - 지난 4개월 동안의 릴리스만 표시됩니다.
 
 [//]: # (제거하지 마세요)
+
+## <a name="december-3-2019"></a>2019년 12월 3일
+
+[//]: # (예상 항목을 제거하지 마세요. 시작)
+
+### <a name="semi-annual-channel"></a>반기 채널
+
+<i>예상된 릴리스는 버전 1902 (빌드 11328.20488)입니다.</i>
+
+|**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
+|:-----|:-----|:-----|
+|버전 1902 (빌드 11328.20480) <br/> |2019년 11월 22일 <br/> |61<br/> |
+|버전 1902(빌드 11328.20468) <br/> |2019년 11월 12일 <br/> |64<br/> |
+
+### <a name="semi-annual-targeted-channel"></a>반기 (대상 지정) 채널
+
+<i>예상된 릴리스는 버전 1908 (빌드 11929.20510)입니다.</i>
+
+|**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
+|:-----|:-----|:-----|
+|버전 1908 (빌드 11929.20494) <br/> |2019년 11월 22일 <br/> |285<br/> |
+|버전 1908(빌드 11929.20436) <br/> |2019년 11월 12일 <br/> |59<br/> |
+
+
+[//]: # (예상 항목을 제거하지 마세요. 종료)
 
 ## <a name="november-22-2019"></a>2019년 11월 22일
 
