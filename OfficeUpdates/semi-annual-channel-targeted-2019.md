@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 반기 채널(대상 지정) 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: ad38d452524ad3fd9ee90e435c55f6ffa6a009e3
-ms.sourcegitcommit: d42cb920d5533cc1fcbdf97e7f186af9bf4a9633
+ms.openlocfilehash: 45a382ee14fc4d9b2e92b7b911f1c8d1cb1ac67a
+ms.sourcegitcommit: cdd69a3af5873fd60a3dabc010339acc19265db3
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/25/2019
-ms.locfileid: "39254347"
+ms.lasthandoff: 12/06/2019
+ms.locfileid: "39890452"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019년 반기 채널(대상 지정) 릴리스에 대한 릴리스 정보
 
@@ -42,6 +42,10 @@ ms.locfileid: "39254347"
 
 - 인쇄 미리 보기의 인쇄 영역이 올바르지 않았던 문제를 해결했습니다.
 
+- 신뢰할 수 없는 네트워크 공유에서 보호되는 파일을 편집할 때 Excel이 오류를 발생시킬 수 있습니다.
+
+- 통합 문서가 열려있지 않은 상태에서 최근 파일을 검색할 때 충돌이 발생할 수 있는 문제를 해결했습니다.
+
 ### <a name="outlook"></a>Outlook
 
 - 사용자가 계정 만들기 컨텍스트에서 지원 센터에 문의하려고 할 때 &quot;확인&quot; 버튼이 있는 빈 메시지 상자가 표시되는 문제를 해결했습니다.
@@ -51,6 +55,8 @@ ms.locfileid: "39254347"
 - 사용자가 Modern Groups에 대한 검색 실패를 보게 되는 문제를 해결했습니다.
 
 - 사용자가 &quot;놓친 대화 메시지&quot;에서 규칙을 만들려고 할 때 충돌이 발생하는 문제를 해결했습니다.
+
+- 사용자가 Modern Groups에 대한 검색 실패를 보게 되는 문제를 해결합니다.
 
 ### <a name="word"></a>Word
 
