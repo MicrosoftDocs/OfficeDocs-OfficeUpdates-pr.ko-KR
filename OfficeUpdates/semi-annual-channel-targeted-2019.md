@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 반기 채널(대상 지정) 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 45a382ee14fc4d9b2e92b7b911f1c8d1cb1ac67a
-ms.sourcegitcommit: cdd69a3af5873fd60a3dabc010339acc19265db3
+ms.openlocfilehash: 8521872143f0330dd8ff7fd4092556503501b4a1
+ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/06/2019
-ms.locfileid: "39890452"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39961975"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019년 반기 채널(대상 지정) 릴리스에 대한 릴리스 정보
 
@@ -23,6 +23,58 @@ ms.locfileid: "39890452"
 > [!NOTE]
 > - Microsoft는 일정 기간 동안 반기 채널(대상) 기능(및 경우에 따라 수정 사항)을 롤아웃합니다. 아래에서 설명했던 내용이 바로 보이지 않으면 곧 예측할 수 있습니다. [자세한 정보](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - Microsoft Teams는 버전 1902부터 반기 채널(대상 지정)의 새 설치에 포함됩니다. 버전 1908 이상으로 업데이트 되는 경우 기존 반기 채널(대상 지정) 설치에 Teams가 추가됩니다. 자세한 내용은 [Office 365 ProPlus와 함께 Microsoft Teams 배포](https://docs.microsoft.com/DeployOffice/teams-install)를 참조하세요.
+
+## <a name="version-1908-december-10"></a>버전 1908: 12월 10일
+*버전 1908 (빌드 11929.20516)*
+
+나열된 보안 업데이트는 [여기](https://docs.microsoft.com/ko-KR/officeupdates/office365-proplus-security-updates)
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="access"></a>Access
+
+- 원격 테이블(예: SQL Server 테이블)로의 참조를 포함하는 통합 쿼리가 Access를 닫고 다시 시작하도록 할 수 있는 문제를 해결했습니다.
+
+- 합계와 같은 집계가 결과를 정수로 줄일 수 있는 문제를 해결했습니다.
+
+### <a name="excel"></a>Excel
+
+- 스크롤 후 셀을 선택하면 잘못된 셀이 선택되었던 문제를 해결했습니다.
+
+- OLAP PivotTable의 필터가 큐브에서 제거된 값으로 설정되었던 문제를 해결했습니다.
+
+- 이 변경 사항은 소프트웨어 렌더링을 활용하여 특정 인텔 그래픽 드라이버에 발생하는 문제를 우회합니다.
+
+- Lookup 함수에서 오류가 반환될 수 있는 문제를 해결했습니다.
+
+- 병합된 셀이 있는 열을 삭제하는 성능이 크게 개선됨.
+
+- 최소화된 창을 활성화하는 매크로 런타임 오류를 발생시켰던 문제를 해결했습니다.
+
+### <a name="outlook"></a>Outlook
+
+- SMIME 알고리듬 선택의 문제를 수정하였습니다.
+
+- 규칙 대화 상자를 열 때 &quot;이 컴퓨터의 규칙이 Microsoft Exchange의 규칙과 일치하지 않습니다&quot; 프롬프트가 표시되는 문제를 해결했습니다.
+
+- 웹 추가 기능이 디지털 권한 관리 메시지에 액세스하지 않아야 함에도 액세스하게 만드는 문제를 해결했습니다.
+
+### <a name="word"></a>Word
+
+- 때때로 무한 루프로 들어가는 변경 내용 추적 기능 상의 문제를 해결했습니다.
+
+### <a name="office-suite"></a>Office 제품군
+
+- PowerPoint의 세로 텍스트 상자에서 가타카나 반각글자가 제대로 회전하지 않는 문제를 해결했습니다.
+
+- Office 업데이트에서 로컬 또는 네트워크 공유 또는 Configuration Manager에서 제공하는 위치와 같은 의도된 원본 대신 Office CDN에서 파일을 예기치 않게 다운로드했을 수 있는 문제를 해결하였습니다.
+
+- Office 고객의 보안을 위해 Microsoft Office 업데이트는 이제 SHA-2 알고리듬 만을 사용하여 서명됩니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-1908-november-22"></a>버전 1908: 11월 22일
 *버전 1908(빌드 11929.20494)*

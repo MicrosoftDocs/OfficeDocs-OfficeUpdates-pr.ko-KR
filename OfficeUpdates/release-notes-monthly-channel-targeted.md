@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 이후 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: a1ad777f8794fe2ec85b583ebd51dcdfe6b07f06
-ms.sourcegitcommit: 2008f3580435cc725ca36b2f762e5adf4df7f89a
+ms.openlocfilehash: f6187b1c78133d5e8e89c7a9927e7ff037804c4c
+ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "39668048"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39961743"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 릴리스 정보 월 단위 채널(대상 지정)
 
@@ -30,6 +30,52 @@ ms.locfileid: "39668048"
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
+## <a name="version-1911-december-10"></a>버전 1911: 12월 10일
+*버전 1911 (빌드 12228.20364)*
+
+나열된 보안 업데이트는 [여기](https://docs.microsoft.com/ko-KR/officeupdates/office365-proplus-security-updates)
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="excel"></a>Excel
+
+- **파일을 변환하여 접근성 향상:** 모든 사용자가 보다 쉽게 액세스할 수 있도록 파일을 최신 형식으로 업그레이드합니다.
+
+- ** 더 많은 접근 가능한 PDF 만들기:** PDF를 만들면 액세스 가능성 검사기가 저장하기 전에 수정해야 할 접근성 문제를 해결합니다. [자세한 정보](https://support.office.com/ko-KR/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+
+### <a name="outlook"></a>Outlook
+
+- **그룹 명명 정책:** 그룹 명명 정책을 사용하면 IT 관리자가 조직의 사용자가 만든 그룹의 이름을 표준화하고 관리할 수 있습니다. 관리자는 그룹 이름을 만들 때 특정 접두사와 접미사를 추가하도록 요구할 수 있으며, 특정 단어를 사용할 수 없도록 차단할 수 있습니다. 이는 그룹 이름에 부적절한 단어의 사용을 최소화하는데 도움을 줄뿐만 아니라 IT가 해당 디렉터리의 그룹의 표현을 관리하는 데 도움이 됩니다. 명명 정책은 또한 팀 사이트를 배포하는 조직이 부서를 기준으로 분류하는데 도움을 줍니다.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **잉크 스턴트 재생:** 슬라이드에 잉크를 쓸 때 슬라이드 쇼 중에 잉크의 실제 그리기를 재생하기 위한 재생 애니메이션을 적용합니다. [자세한 정보](https://support.office.com/ko-KR/article/fa4f044f-810b-43fe-b774-da04a0b37496)
+
+- **파일을 변환하여 접근성 향상:** 모든 사용자가 보다 쉽게 액세스할 수 있도록 파일을 최신 형식으로 업그레이드합니다.
+
+- ** 더 많은 접근 가능한 PDF 만들기:** PDF를 만들면 액세스 가능성 검사기가 저장하기 전에 수정해야 할 접근성 문제를 해결합니다.
+
+### <a name="word"></a>Word
+
+- **다른 사용자가 변경 내용을 신속하게 확인할 수 있습니다.** 공동 작성 기능 향상을 통해 공동 작업자는 이전보다 훨씬 빠르게 변경 내용을 볼 수 있습니다.
+
+- **파일을 변환하여 접근성 향상:** 모든 사용자가 보다 쉽게 액세스할 수 있도록 파일을 최신 형식으로 업그레이드합니다.
+
+- ** 더 많은 접근 가능한 PDF 만들기:** PDF를 만들면 액세스 가능성 검사기가 저장하기 전에 수정해야 할 접근성 문제를 해결합니다. [자세한 정보](https://support.office.com/ko-KR/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+
+## <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- 이 변경 사항은 소프트웨어 렌더링을 활용하여 특정 인텔 그래픽 드라이버에 발생하는 문제를 우회합니다.
+
+- 피벗 차트의 오른쪽 클릭 메뉴를 수정하여 세부 정보를 표시하는 옵션을 사용할 수 있도록 하였습니다.
+
+### <a name="outlook"></a>Outlook
+
+- 웹 추가 기능이 디지털 권한 관리 메시지에 액세스하게 만드는 문제를 해결했습니다.
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-1911-november-20"></a>버전 1911: 11월 20일
 *버전 1911 (빌드 12228.20250)*
@@ -78,7 +124,6 @@ ms.locfileid: "39668048"
 ### <a name="office-suite"></a>Office 제품군
 
 - **업로드 센터가 주의를 요하는 파일들로 대체됩니다: ** 업로드 센터가 파일 > 열기 아래의 Office 응용 프로그램 내에 표시되는 주의를 요하는 파일들로 대체됩니다. 이 새로운 환경은 업로드 센터와 비교 시 더욱 최신이고, 통합적이며 개입성이 낮습니다.
-
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 

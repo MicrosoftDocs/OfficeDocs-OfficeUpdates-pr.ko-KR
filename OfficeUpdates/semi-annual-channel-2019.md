@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 반기 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 58bbbc3e37e0347f18f075d4d29126caf78e5439
-ms.sourcegitcommit: d42cb920d5533cc1fcbdf97e7f186af9bf4a9633
+ms.openlocfilehash: c014a790374d1b3143033774b4acd7e5e5f9aaa2
+ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/25/2019
-ms.locfileid: "39254367"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39961985"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019년 반기 채널 릴리스에 대한 릴리스 정보
 
@@ -26,9 +26,47 @@ ms.locfileid: "39254367"
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
+
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-1902-december-10"></a>버전 1902: 12월 10일
+*버전 1902(빌드 11328.20492)*
+
+나열된 보안 업데이트는 [여기](https://docs.microsoft.com/ko-KR/officeupdates/office365-proplus-security-updates)
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- 이 변경 사항은 소프트웨어 렌더링을 활용하여 특정 인텔 그래픽 드라이버에 발생하는 문제를 우회합니다.
+
+### <a name="outlook"></a>Outlook
+
+- Outlook에서 내년 일정 항목에 잘못된 시간이 표시될 수 있습니다. [자세한 정보](https://docs.microsoft.com/ko-KR/outlook/troubleshoot/calendars/calendar-items-display-incorrect-time)
+
+- 고객이 &quot;놓친 대화 메시지&quot;에서 규칙을 만들려고 할 때 충돌이 발생하는 문제를 해결합니다.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 경우에 따라 레이아웃 문제가 있던 노트 페이지에서의 인쇄 관련 문제를 해결했습니다.
+
+## <a name="version-1808-december-10"></a>버전 1808: 12월 10일
+*버전 1808 (빌드 10730.20426)*
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="outlook"></a>Outlook
+
+- Outlook에서 내년 일정 항목에 잘못된 시간이 표시될 수 있습니다. [자세한 정보](https://docs.microsoft.com/ko-KR/outlook/troubleshoot/calendars/calendar-items-display-incorrect-time)
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
 ## <a name="version-1902-november-22"></a>버전 1902: 11월 22일
 *버전 1902(빌드 11328.20480)*
-
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
