@@ -3,26 +3,26 @@ title: Office 2013에 대한 업데이트 기록
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 11/13/2019
+ms.date: 12/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 간편 실행을 사용하는 Office 2013 영구 버전에 대한 업데이트 기록을 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 91da43b4e86d47dd4f614124fb0661acbe508ada
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: 08c372300adbde8298b2b66d19fafc74162fb2cc
+ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38289828"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39961935"
 ---
 # <a name="update-history-for-office-2013"></a>Office 2013에 대한 업데이트 기록
 
-대부분의 Office 2013 제품은 간편 실행이라는 기술을 사용하여 자동으로 최신 상태로 유지됩니다. 최신 상태인지 확인하려는 경우 Office 버전 번호를 확인하고 필요한 경우 Office를 직접 업데이트합니다.
+대부분의 Office 2013 제품은 간편 실행이라는 기술을 사용하여 자동으로 최신 상태로 유지됩니다. 최신 상태인지 확인하려는 경우 Office 버전 번호를 확인하고 필요한 경우 Office를 직접 수동으로 업데이트합니다.
   
 > [!NOTE]
-> 최신 버전의 Office 2013은 2019년 11월 12일에 릴리스된 **15.0.5189.1000**입니다.
+> 최신 버전의 Office 2013은 2019년 12월 10일에 릴리스된 **15.0.5197.1000**입니다.
   
 Office의 버전을 확인하려면 다음을 수행합니다.
   
@@ -46,9 +46,10 @@ Office의 버전을 확인하려면 다음을 수행합니다.
   
 |**릴리스 연도**|**릴리스 날짜**|**버전 번호**|**추가 정보**|
 |:-----|:-----|:-----|:-----|
-|2019년|11월 12일   |15.0.5189.1000   |[KB 4527848 ](https://support.microsoft.com/ko-KR/help/4527848 )  |
-||10월 8일   |15.0.5179.1000   |[KB 4522242 ](https://support.microsoft.com/ko-KR/help/4522242 )  |
-||9월 10일   |15.0.5172.1000   |[KB 4517986 ](https://support.microsoft.com/ko-KR/help/4517986 )  |
+|2019|12월 10일   |15.0.5197.1000   |[KB 4532624  ](https://support.microsoft.com/ko-KR/help/4532624)  |
+||11월 12일   |15.0.5189.1000   |[KB 4527848 ](https://support.microsoft.com/ko-KR/help/4527848)  |
+||10월 8일   |15.0.5179.1000   |[KB 4522242 ](https://support.microsoft.com/ko-KR/help/4522242)  |
+||9월 10일   |15.0.5172.1000   |[KB 4517986 ](https://support.microsoft.com/ko-KR/help/4517986)  |
 ||8월 13일   |15.0.5163.1000   |[KB 4514418](https://support.microsoft.com/ko-KR/help/4514418)  |
 ||7월 9일   |15.0.5153.1001   |[KB 4509295](https://support.microsoft.com/ko-KR/help/4509295)  |
 ||6월 11일   |15.0.5145.1001   |[KB 4505743](https://support.microsoft.com/ko-KR/help/4505743)  |
