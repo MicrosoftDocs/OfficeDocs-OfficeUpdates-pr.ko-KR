@@ -3,19 +3,19 @@ title: MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/13/2019
+ms.date: 12/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT 전문가에게 MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록을 제공합니다.
-ms.openlocfilehash: 620c5d32848db366e110c799e5fef23c7fbf3455
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: c4fa1fa339d50ea94a95af16174f1e00c4f280ee
+ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38289656"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39961803"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록
  
@@ -30,6 +30,25 @@ ms.locfileid: "38289656"
 > - Microsoft 자동 업데이트는 Microsoft의 다양한 Mac 제품에 대한 업데이트를 제공합니다. 따라서 Mac용 Office를 실행하고 있지 않더라도 Microsoft 자동 업데이트를 업데이트하라는 알림을 받을 수 있습니다.
 
 릴리스 정보를 확인하려면 [릴리스 정보](release-notes-office-for-mac.md)를 참고하세요.<br/><br/>
+
+## <a name="december-2019-release"></a>2019년 12월 릴리스
+
+**릴리스 날짜:** 2019년 12월 10일
+
+*Microsoft 자동 업데이트 4.18*
+
+ **기능 업데이트:**
+
+- 앱 당 채널: Mac 관리자가 앱 당 다양한 채널 또는 유효성 검사 링에 가입할 수 있습니다. 
+
+
+**MAU 업데이트 링크:**
+
+[Microsoft 자동 업데이트 4.18 패키지 다운로드](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 해시:**
+
+3AC34987AE344C6B097081DE15350DC9126FF7B5A00E24105AACD80E6F4DFCAF<br/><br/>
 
 ## <a name="november-2019-release"></a>2019년 11월 릴리스
 
