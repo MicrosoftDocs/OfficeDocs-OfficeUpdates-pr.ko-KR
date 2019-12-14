@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 반기 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: c014a790374d1b3143033774b4acd7e5e5f9aaa2
-ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
+ms.openlocfilehash: f991dfa99e668dc8cc06918c0d5e5c9a418f4ed7
+ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39961985"
+ms.lasthandoff: 12/14/2019
+ms.locfileid: "40023729"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019년 반기 채널 릴리스에 대한 릴리스 정보
 
@@ -35,7 +35,7 @@ ms.locfileid: "39961985"
 ## <a name="version-1902-december-10"></a>버전 1902: 12월 10일
 *버전 1902(빌드 11328.20492)*
 
-나열된 보안 업데이트는 [여기](https://docs.microsoft.com/ko-KR/officeupdates/office365-proplus-security-updates)
+나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -47,7 +47,7 @@ ms.locfileid: "39961985"
 
 ### <a name="outlook"></a>Outlook
 
-- Outlook에서 내년 일정 항목에 잘못된 시간이 표시될 수 있습니다. [자세한 정보](https://docs.microsoft.com/ko-KR/outlook/troubleshoot/calendars/calendar-items-display-incorrect-time)
+- Outlook에서 내년 일정 항목에 잘못된 시간이 표시될 수 있습니다. [자세한 정보](https://docs.microsoft.com/outlook/troubleshoot/calendars/calendar-items-display-incorrect-time)
 
 - 고객이 &quot;놓친 대화 메시지&quot;에서 규칙을 만들려고 할 때 충돌이 발생하는 문제를 해결합니다.
 
@@ -61,7 +61,7 @@ ms.locfileid: "39961985"
 ### <a name="resolved-issues"></a>해결된 문제
 ### <a name="outlook"></a>Outlook
 
-- Outlook에서 내년 일정 항목에 잘못된 시간이 표시될 수 있습니다. [자세한 정보](https://docs.microsoft.com/ko-KR/outlook/troubleshoot/calendars/calendar-items-display-incorrect-time)
+- Outlook에서 내년 일정 항목에 잘못된 시간이 표시될 수 있습니다. [자세한 정보](https://docs.microsoft.com/outlook/troubleshoot/calendars/calendar-items-display-incorrect-time)
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
@@ -249,7 +249,7 @@ ms.locfileid: "39961985"
 보안 업데이트가 [여기](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)에 나열되어 있습니다.
 
 ### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
-- 특정한 경우에 Office JavaScript 라이브러리에서 API 설정이 수행되지 않는 문제가 해결되었습니다. [자세한 정보](https://support.microsoft.com/ko-KR/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
+- 특정한 경우에 Office JavaScript 라이브러리에서 API 설정이 수행되지 않는 문제가 해결되었습니다. [자세한 정보](https://support.microsoft.com/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
 
 
 ## <a name="version-1803-august-13"></a>버전 1803 8월 13일
@@ -258,7 +258,7 @@ ms.locfileid: "39961985"
 보안 업데이트가 [여기](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)에 나열되어 있습니다.
 
 ### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
-- 특정한 경우에 Office JavaScript 라이브러리에서 API 설정이 수행되지 않는 문제가 해결되었습니다. [자세한 정보](https://support.microsoft.com/ko-KR/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
+- 특정한 경우에 Office JavaScript 라이브러리에서 API 설정이 수행되지 않는 문제가 해결되었습니다. [자세한 정보](https://support.microsoft.com/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
 
 
 ## <a name="version-1902-july-09"></a>버전 1902: 7월 9일

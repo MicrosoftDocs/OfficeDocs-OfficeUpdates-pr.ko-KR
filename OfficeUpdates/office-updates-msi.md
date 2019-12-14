@@ -10,12 +10,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Office 2016, Office 2013 및 Office 2010 영구 버전의 최신 업데이트 정보에 대한 링크를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: c274cef54692cdb8f793edc78292cca275be8001
-ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
+ms.openlocfilehash: 12389950564e67e2fe79efa1243695cc4e60c57f
+ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39961763"
+ms.lasthandoff: 12/14/2019
+ms.locfileid: "40023563"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Windows Installer(MSI)를 사용하는 Office 버전에 대한 최신 업데이트
 
@@ -64,11 +64,11 @@ ms.locfileid: "39961763"
 
 [2019년 6월용 보안 및 비보안 업데이트: KB4505743](https://support.microsoft.com/help/4505743)
 
-[2019년 5월용 보안 및 비보안 업데이트: KB4501270](https://support.microsoft.com/ko-KR/help/4501270)
+[2019년 5월용 보안 및 비보안 업데이트: KB4501270](https://support.microsoft.com/help/4501270)
 
-[2019년 4월용 보안 및 비보안 업데이트: KB4495300](https://support.microsoft.com/ko-KR/help/4495300)
+[2019년 4월용 보안 및 비보안 업데이트: KB4495300](https://support.microsoft.com/help/4495300)
 
-[2019년 3월용 보안 및 비보안 업데이트: KB4491754](https://support.microsoft.com/ko-KR/help/4491754) 
+[2019년 3월용 보안 및 비보안 업데이트: KB4491754](https://support.microsoft.com/help/4491754) 
 
 [2019년 2월용 보안 및 비보안 업데이트: KB4488446](https://support.microsoft.com/help/4488446)
 

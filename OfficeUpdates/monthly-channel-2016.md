@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: 2016의 Office 365 ProPlus에 대 한 월별 채널 릴리스에 대 한 릴리스 정보를 IT 전문가에 게 제공 합니다.
-ms.openlocfilehash: 7a5f8b13f06fc236cedc50d394d361dc1d797dfd
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: 74d992e9f6129772e04ea1245cd2ced8d4a1006e
+ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32438773"
+ms.lasthandoff: 12/14/2019
+ms.locfileid: "40023593"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2016"></a>2016의 월별 채널 릴리스에 대 한 릴리스 정보
 
@@ -81,7 +81,7 @@ ms.locfileid: "32438773"
 
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business: 기능 업데이트
 
--   **ui를 "공유"로 업데이트:** "프레젠테이션 데스크톱"을 "화면 공유" 및 "현재 프로그램"을 "공유 창"으로 변경 하는 것과 같은 ui 요소의 "현재 상태"를 "공유"로 변경 합니다.
+-   **Ui를 "공유"로 업데이트:** "프레젠테이션 데스크톱"을 "화면 공유" 및 "현재 프로그램"을 "공유 창"으로 변경 하는 것과 같은 ui 요소의 "현재 상태"를 "공유"로 변경 합니다.
 -   **"내 번호" 사용 안 함:** DisableDisplayMyNumber 레지스트리 항목을 사용하여 다이얼 패드에서 "내 번호"를 사용하지 않도록 설정합니다.
 
 ### <a name="skype-for-business-non-security-updates"></a>비즈니스용 Skype: 비보안 업데이트
@@ -632,7 +632,7 @@ ms.locfileid: "32438773"
 *버전 1605(빌드 6965.2053)*
 
 ### <a name="excel-feature-updates"></a>Excel: 기능 업데이트
--   **다음과 같은 & 변환 기능을 활용할 수 있습니다.** 향상 된 데이터 변환 및 고급 쿼리에 대 한 데이터 연결 기능 [추가 정보](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
+-   **향상 된 & 변환을** 제공 합니다. 향상 된 데이터 변환 및 고급 쿼리에 대 한 데이터 연결 기능 [추가 정보](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 
 ### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트
 -   여러 워크시트를 포함하는 통합 문서에서 데이터 유효성 검사 드롭다운 목록이 손상되고 자체적으로 복제되는 문제를 해결합니다.
@@ -839,7 +839,7 @@ ms.locfileid: "32438773"
 
 ### <a name="outlook-non-security-updates"></a>Outlook: 비보안 업데이트
 -   POP3을 사용하도록 구성된 경우 Outlook에서 메일 메시지를 다운로드한 후에 서버의 모든 메일 메시지가 받은 편지함에서 삭제되는 문제를 해결합니다. [이 문제에 대한 자세한 내용](https://support.microsoft.com/kb/3145116)
--   p o p 3을 사용 하도록 구성 된 경우 메일 메시지를 여러 번 다운로드 하 여 중복 항목을 일으키는 문제를 해결 합니다. [이 문제에 대한 자세한 내용](https://support.microsoft.com/kb/3145116)
+-   P o p 3을 사용 하도록 구성 된 경우 메일 메시지를 여러 번 다운로드 하 여 중복 항목을 일으키는 문제를 해결 합니다. [이 문제에 대한 자세한 내용](https://support.microsoft.com/kb/3145116)
 
 
 
@@ -931,7 +931,7 @@ ms.locfileid: "32438773"
 -   Application.OnKey()를 사용하여 키 입력을 중단하면 Excel이 중단되는 문제를 해결합니다.
 
 ### <a name="word-non-security-updates"></a>Word: 비보안 업데이트
--   문서를 편집할 때 Word에서 문서 서식이 제대로 표시되지 않는 문제를 해결합니다. [이 문제에 대한 자세한 내용](https://answers.microsoft.com/en-us/office/forum/office_2016-word/word-2016-doesnt-display-your-document-formatting/b7bb4017-8ae5-41ab-881b-03199d24ba83)
+-   문서를 편집할 때 Word에서 문서 서식이 제대로 표시되지 않는 문제를 해결합니다. [이 문제에 대한 자세한 내용](https://answers.microsoft.com/office/forum/office_2016-word/word-2016-doesnt-display-your-document-formatting/b7bb4017-8ae5-41ab-881b-03199d24ba83)
 
 
 
