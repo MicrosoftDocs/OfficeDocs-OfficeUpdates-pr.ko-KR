@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 참가자에게 Windows Desktop용 월 단위 채널 참가자 빠른 릴리스에 대한 업데이트 내역을 제공합니다.
-ms.openlocfilehash: eec5c93ec1e6f5b35c9dd90f8114dfe42f3f7ad6
-ms.sourcegitcommit: b259312e6a28ce767d11dc75e85844d209b94d88
+ms.openlocfilehash: 83aa929d5be14f8020f3f349e525c525da79b33a
+ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/05/2019
-ms.locfileid: "39857866"
+ms.lasthandoff: 12/14/2019
+ms.locfileid: "40023769"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Office 참가자 채널에 대한 업데이트 기록
 
@@ -31,6 +31,9 @@ Insider 수준에 등록하면 새로운 기능과 개선 사항으로 자주 �
 릴리스 정보를 찾으려면 [Windows용 Office의 내부 관리자 릴리스 정보](https://docs.microsoft.com/OfficeUpdates/release-notes-office-insider)를 참조하십시오.
 
 [//]: # (제거하지 마세요)
+
+**2019년 12월 12일**<br/>
+버전 2001(빌드 12410.20000)<br/>
 
 **2019년 12월 2일**<br/>
 버전 1912 (빌드 12325.20012)<br/>
@@ -177,8 +180,7 @@ Insider 수준에 등록하면 새로운 기능과 개선 사항으로 자주 �
 **Twitter의 office 참가자**<br/> @OfficeInsider에서, 우리는 참가자 배포에 관해 자주 게시하고 참가자를 위한 특별 이벤트를 주최합니다.<br/> 
 [Twitter에서 팔로우](https://go.microsoft.com/fwlink/?linkid=717717)<br/> 
 
-[
-  ![Facebook 아이콘을 보여주는 이미지](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)
+[![Facebook 아이콘을 보여주는 이미지](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)
 
 
 **새 기능을 먼저 받아보세요**
