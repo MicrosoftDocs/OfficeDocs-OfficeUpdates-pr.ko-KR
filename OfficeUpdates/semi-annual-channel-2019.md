@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 반기 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: f991dfa99e668dc8cc06918c0d5e5c9a418f4ed7
-ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
+ms.openlocfilehash: 589fbe7d9b156fbd42bfda2808e27ebd6185ed6a
+ms.sourcegitcommit: 519689175e202f7059ab9e49d70ea0ce6d23075e
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/14/2019
-ms.locfileid: "40023729"
+ms.lasthandoff: 12/18/2019
+ms.locfileid: "40302967"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019년 반기 채널 릴리스에 대한 릴리스 정보
 
@@ -422,7 +422,7 @@ ms.locfileid: "40023729"
  - Windows 10에서 최근 파일 목록이 많은 사용자에게 삭제된 것처럼 표시되는 문제가 수정되었습니다.
  - 진행 중인 관리자 트리거 업데이트가 있는 경우에도 최종 사용자에게 Office 업데이트 비즈니스 막대가 표시되는 문제가 수정되었습니다.
  - 간헐적으로 발생하는 빈 로그인 프롬프트와 관련된 문제가 수정되었습니다.
- - Office 업데이트의 일부가 배달 최적화 피어 캐싱을 사용하지 않는 문제가 해결되었습니다. [자세한 정보]("https://docs.microsoft.com/windows/deployment/update/waas-delivery-optimization)
+ - Office 업데이트의 일부가 배달 최적화 피어 캐싱을 사용하지 않는 문제가 해결되었습니다. [자세한 정보](https://docs.microsoft.com/windows/deployment/update/waas-delivery-optimization)
 - Office 배포 도구를 사용하여 Office를 설치하고 대소 문자가 일치하지 않는 경우, 제품이 제거되거나 활성화되지 않을 수 있는 버그를 수정합니다.
 - Windows 10 (버전 1803 이상) 장치에서 과도한 로그인 프롬프트를 유발하는 문제가 해결되었습니다.
 - 링크된 그림을 다운로드 할 때 원인이 되는 고정 회귀의 중단

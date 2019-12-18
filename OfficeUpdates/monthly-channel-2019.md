@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 69b4f1a573d412e665554f9c697cbce9e3003b27
-ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
+ms.openlocfilehash: 4d5c623be109cc8a0b21b3c90e91ca981ca2c2e8
+ms.sourcegitcommit: 519689175e202f7059ab9e49d70ea0ce6d23075e
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/14/2019
-ms.locfileid: "40023603"
+ms.lasthandoff: 12/18/2019
+ms.locfileid: "40302977"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -154,8 +154,6 @@ ms.locfileid: "40023603"
 - **민감도 레이블을 문서 및 전자 메일에 적용:** 조직의 정보 보호 정책을 계속 준수하기 위해 파일 및 전자 메일에 민감도 레이블을 적용합니다. [자세한 정보](https://aka.ms/officemipdocs)
 
 ### <a name="outlook"></a>Outlook
-
-- **오류가 발생한 후 Outlook 업그레이드를 위한 메시지 표시:** Outlook에서 차후 버전에서 해결 된 오류가 발생하는 경우 Outlook은 고객이 업그레이드를 하고 수정 사항을 받도록 메시지를 표시합니다.
 
 - **민감도 레이블을 문서 및 전자 메일에 적용:** 조직의 정보 보호 정책을 계속 준수하기 위해 파일 및 전자 메일에 민감도 레이블을 적용합니다. [자세한 정보](https://aka.ms/officemipdocs)
 
