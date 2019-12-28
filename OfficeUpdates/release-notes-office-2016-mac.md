@@ -10,19 +10,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 2018년 9월 이후부터 Mac용 Office 2016 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 7f489b97cf41119d1fc7bd884e2dde46434cb048
-ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
+ms.openlocfilehash: 2d001ad0d7ef43ef5484267f16b5c388a146cb23
+ms.sourcegitcommit: 2152c5d7b0b98398c1f31f659d68a8e74001acea
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39962215"
+ms.lasthandoff: 12/27/2019
+ms.locfileid: "40889283"
 ---
 # <a name="update-history-for-office-2016-for-mac"></a>Mac용 Office 2016 업데이트 기록
 
 Mac용 Office 2016은 소매점 또는 볼륨 라이선스 계약을 통해 일회용 구매 제품으로 사용할 수 있는 Office 버전입니다. 2020년 10월 13일까지 필요에 따라 보안 업데이트 및 버그 수정 사항이 지원됩니다. Mac용 Office 2016에서 지원되는 최소 macOS는 10.10(Yosemite)입니다.
 
 > [!NOTE]
-> - 보안상의 이유로 Microsoft는 SHA-1을 더 이상 사용하지 않습니다. [자세히 알아보기](https://docs.microsoft.com/ko-KR/security-updates/SecurityAdvisories/2017/4010323)
+> - 보안상의 이유로 Microsoft는 SHA-1을 더 이상 사용하지 않습니다. [자세히 알아보기](https://docs.microsoft.com/security-updates/SecurityAdvisories/2017/4010323)
 > - 2018년 9월 이전 Mac용 Office 2016 릴리스에 대한 릴리스 정보는 [Mac용 Office 릴리스 정보](release-notes-office-for-mac.md)를 참조하세요.  
 > - Office 365 구독에 제공되는 Mac용 Office 버전에 대한 릴리스 정보는 Mac용 Office [릴리스 정보](release-notes-office-for-mac.md) 및 [업데이트 기록](update-history-office-for-mac.md)을 참조하세요.
 > - Mac용 Office 2019는 일회용 구매 제품으로 사용할 수 있는 가장 최신 버전입니다. Mac용 Office 2019 릴리스 정보에 대해서는 Mac용 Office [릴리스 정보](release-notes-office-for-mac.md) 및 [업데이트 기록](update-history-office-for-mac.md)을 참조하세요.

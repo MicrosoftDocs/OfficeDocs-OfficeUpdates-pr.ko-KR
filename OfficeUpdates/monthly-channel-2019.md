@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 4d5c623be109cc8a0b21b3c90e91ca981ca2c2e8
-ms.sourcegitcommit: 519689175e202f7059ab9e49d70ea0ce6d23075e
+ms.openlocfilehash: 10c4d76d44d2ba8a66f22bfff49bb8c115d30d17
+ms.sourcegitcommit: 2152c5d7b0b98398c1f31f659d68a8e74001acea
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40302977"
+ms.lasthandoff: 12/27/2019
+ms.locfileid: "40889293"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019년 월별 채널 릴리스에 대한 릴리스 정보
 
 이 릴리스 정보는 Office 365용 Visio Pro, Project Online 데스크톱 클라이언트 및 Office 365 Business를 비롯한 2019년 Office 365 ProPlus의 월별 채널 업데이트에 포함된 새로운 기능 및 비보안 업데이트에 관한 정보를 제공합니다.
 
  > [!NOTE]
->- Microsoft는 일정 기간 동안 매월 기능(및 경우에 따라 수정 사항)을 롤아웃합니다.  아래에서 설명했던 내용이 바로 보이지 않으면 곧 예측할 수 있습니다. [자세한 정보](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+>- Microsoft는 일정 기간 동안 매월 기능(및 경우에 따라 수정 사항)을 롤아웃합니다.  아래에서 설명했던 내용이 바로 보이지 않으면 곧 예측할 수 있습니다. [자세한 정보](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 >- Office 365 ProPlus의 기존 설치에 대한 Microsoft Temas - 7월 초부터 Office 365 ProPlus(및 Office 365 Business)의 업데이트에 Microsoft Teams가 포함됩니다.  Teams가 추가되는 날짜는 사용 중인 업데이트 채널에 따라 다릅니다. 추가 정보는 [Office 365 ProPlus를 사용한 Microsoft Teams 배포](https://docs.microsoft.com/DeployOffice/teams-install)를 참조하세요.
 
 ## <a name="version-1911-december-10"></a>버전 1911: 12월 10일
@@ -513,7 +513,7 @@ ms.locfileid: "40302977"
 
 - "모임에서 비디오 자르기 및 가운데 맞춤" 설정을 사용하는 경우 4K 모니터에서 모임에 있는 비디오를 올바르게 자르기
 
-- 여러 네트워크 어댑터를 사용하여 Windows 10 컴퓨터에서 레거시 Office Communicator 클라이언트로 파일을 전송할 수 있습니다. [자세한 정보](help/4508477)
+- 여러 네트워크 어댑터를 사용하여 Windows 10 컴퓨터에서 레거시 Office Communicator 클라이언트로 파일을 전송할 수 있습니다.
 
 - 비즈니스용 Skype와 Microsoft Teams 참가자 사이의 통신 환경이 개선됨
 

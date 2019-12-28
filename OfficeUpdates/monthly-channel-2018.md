@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2018년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: c66e613b976653cf1bd6a221dbae87bbb79cc2e2
-ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
+ms.openlocfilehash: 0e9cd5d74e0f981704f533e30d90789608eab522
+ms.sourcegitcommit: 2152c5d7b0b98398c1f31f659d68a8e74001acea
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/14/2019
-ms.locfileid: "40023653"
+ms.lasthandoff: 12/27/2019
+ms.locfileid: "40889323"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -24,7 +24,7 @@ ms.locfileid: "40023653"
  > [!NOTE]
 > - 또한 Visio Pro for Office 365 및 Project Online 데스크톱 클라이언트에 대한 새로운 기능, 보안 업데이트 및 비보안 업데이트에 대한 정보도 제공합니다.
 > - 이 정보는 일부 Office 365 계획에 제공되는 Office 버전(예: Business Premium)인 Office 365 Business에도 적용됩니다.
-> - Microsoft는 일정 기간 동안 매달 기능(및 경우에 따라서는 수정 사항)을 롤아웃합니다. 이를 통해 기능을 좀 더 광범위한 대상에게 출시하기 전에 원활하게 작동하는지 확인합니다. 따라서 아래에 설명된 기능이 보이지 않더라도 곧 제공될 예정이므로 걱정할 필요가 없습니다. [자세히 알아보기](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+> - Microsoft는 일정 기간 동안 매달 기능(및 경우에 따라서는 수정 사항)을 롤아웃합니다. 이를 통해 기능을 좀 더 광범위한 대상에게 출시하기 전에 원활하게 작동하는지 확인합니다. 따라서 아래에 설명된 기능이 보이지 않더라도 곧 제공될 예정이므로 걱정할 필요가 없습니다. [자세히 알아보기](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 > - Office 365 ProPlus의 각 업데이트 채널의 보안 업데이트 정보는 [보안 업데이트](office365-proplus-security-updates.md)에 별도로 열거될 것입니다. 
 
 ## <a name="version-1811-december-11"></a>버전 1811: 12 월 11일
@@ -180,7 +180,7 @@ ms.locfileid: "40023653"
 
 ### <a name="outlook-feature-updates"></a>Outlook: 기능 업데이트
 - **출시 예정 기능 확인** 출시 전에 새로운 사용자 환경을 체험해 보고 의견을 보내 주세요. [자세히 알아보기](https://support.office.com/article/d4b7db49-b4e0-4f98-a0dc-156952e551e2)
-- **안전한 링크 뒤에 URL 표시:** 안전한 링크는 전자 메일에 수신된 악의적인 URL로부터 보호하지만 원래 URL을 숨깁니다. 원래 URL을 보려면 URL에 마우스를 올리세요. Advanced Threat Protection 라이선스가 필요합니다. [자세한 정보](https://products.office.com/ko-KR/exchange/advance-threat-protection)
+- **안전한 링크 뒤에 URL 표시:** 안전한 링크는 전자 메일에 수신된 악의적인 URL로부터 보호하지만 원래 URL을 숨깁니다. 원래 URL을 보려면 URL에 마우스를 올리세요. Advanced Threat Protection 라이선스가 필요합니다. [자세한 정보](https://products.office.com/exchange/advance-threat-protection)
 - **검색 시 제안된 맞춤법 표시** 검색한 후 Outlook에서 맞춤법 수정 사항을 포함하는 제안된 검색 쿼리를 제공합니다.
 - **새로운 모습의 리본 아이콘** 모든 기능은 동일하게 작동하니 걱정하지 마세요. 새 아이콘은 모든 크기의 화면에서 잘 보입니다. [자세히 알아보기](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
@@ -460,7 +460,7 @@ ms.locfileid: "40023653"
 -   [CVE-2018-0950](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0950): Microsoft Office 정보 노출 취약성
 -   [CVE-2018-1026](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-1026): Microsoft Office 원격 코드 실행 취약성
 -   [CVE-2018-1030](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-1030): Microsoft Office 원격 코드 실행 취약성
--   **보안상의 이유로 Office에서 Flash, Silverlight 및 Shockwave 컨트롤이 활성화되지 않도록 차단:** 보안상의 이유로 Windows의 Office 365용 Microsoft Office의 새 빌드는 Flash, Silverlight 및 Shockwave 컨트롤의 활성화를 차단합니다. [여기](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729) 및 [여기](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US)에서 자세히 알아보세요.
+-   **보안상의 이유로 Office에서 Flash, Silverlight 및 Shockwave 컨트롤이 활성화되지 않도록 차단:** 보안상의 이유로 Windows의 Office 365용 Microsoft Office의 새 빌드는 Flash, Silverlight 및 Shockwave 컨트롤의 활성화를 차단합니다. [여기](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729) 및 [여기](https://support.office.com/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1)에서 자세히 알아보세요.
 
 ## <a name="version-1803-march-27"></a>버전 1803: 3월 27일
 *버전 1803(빌드 9126.2116)*

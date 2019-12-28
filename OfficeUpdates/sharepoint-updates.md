@@ -14,12 +14,12 @@ ms.collection:
 - RelNotes_Server
 ms.assetid: 4b32dfba-1af6-4077-9a92-7cec8f220f20
 description: SharePoint Server 2016, SharePoint 2013 및 SharePoint 2010에 대한 업데이트를 한 위치에서 찾고 관리합니다. 업데이트에 대한 자세한 내용을 알아본 후 업데이트를 다운로드하려면 이 페이지의 링크를 사용하세요.
-ms.openlocfilehash: c572d3ffb93b4d0c8c9e970234ff134e291a3da2
-ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
+ms.openlocfilehash: a726b1a103d0956d966c60cfbb334f4a7de71678
+ms.sourcegitcommit: 2152c5d7b0b98398c1f31f659d68a8e74001acea
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/14/2019
-ms.locfileid: "40023739"
+ms.lasthandoff: 12/27/2019
+ms.locfileid: "40889333"
 ---
 # <a name="sharepoint-updates"></a>SharePoint 업데이트
 
@@ -258,7 +258,7 @@ SharePoint 업데이트 외에, SharePoint에 필요한 관련 제품의 다음 
   
 - SharePoint가 있는 Windows Server AppFabric
   
-  - [AppFabric](https://msdn.microsoft.com/ko-KR/library/aa139641.aspx)
+  - [AppFabric](https://msdn.microsoft.com/library/aa139641.aspx)
   - [SharePoint가 있는 AppFabric 주요 개념](https://blogs.msdn.microsoft.com/besidethepoint/2013/03/27/appfabric-caching-and-sharepoint-concepts-and-examples-part-1/)
   - [AppFabric 업데이트](https://blogs.msdn.microsoft.com/distributedservices/2014/02/26/how-to-update-windows-server-appfabric-1-1-with-cumulative-update-packages/)
   
@@ -270,7 +270,7 @@ SharePoint 업데이트 외에, SharePoint에 필요한 관련 제품의 다음 
 
 ## <a name="related-topics"></a>관련 항목
 
-- [SharePoint Server 2019용 소프트웨어 업데이트 설치](https://docs.microsoft.com/ko-KR/SharePoint/upgrade-and-update/deploy-updates-for-sharepoint-server-2016)
+- [SharePoint Server 2019용 소프트웨어 업데이트 설치](https://docs.microsoft.com/SharePoint/upgrade-and-update/deploy-updates-for-sharepoint-server-2016)
 - [SharePoint Server 2016용 소프트웨어 업데이트 설치](https://docs.microsoft.com/SharePoint/upgrade-and-update/install-a-software-update)
 - [SharePoint Server 2013의 소프트웨어 업데이트 개요](https://docs.microsoft.com/SharePoint/upgrade-and-update/software-updates-overview-for-sharepoint-server-2013)
 - [SharePoint Server 2013용 소프트웨어 업데이트 배포 준비](https://docs.microsoft.com/SharePoint/upgrade-and-update/prepare-to-deploy-software-updates)

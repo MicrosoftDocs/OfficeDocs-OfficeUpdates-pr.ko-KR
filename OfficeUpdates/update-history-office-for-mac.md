@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 다운로드 패키지 및 업데이트 기록에 대한 링크를 포함하여 Mac용 Office의 최신 업데이트에 대한 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 91ae5036b889a0113281cfd438eb5b19987940ec
-ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
+ms.openlocfilehash: 5749572870fba13ba51ded6928a491d30d46c5a8
+ms.sourcegitcommit: 2152c5d7b0b98398c1f31f659d68a8e74001acea
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39962265"
+ms.lasthandoff: 12/27/2019
+ms.locfileid: "40889313"
 ---
 # <a name="update-history-for-office-for-mac"></a>Mac용 Office에 대한 업데이트 기록
   
@@ -23,7 +23,7 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
 
 > [!NOTE]
 > - Office 제품군 설치 패키지를 사용하는 경우 버전 16.21부터 Microsoft Teams가 ***새*** 설치에 기본적으로 설치됩니다. 자세한 내용은 [Mac에 Microsoft Teams 설치](https://docs.microsoft.com/DeployOffice/teams-install#microsoft-teams-installations-on-a-mac)를 참조하세요.  
-> - 보안상의 이유로 Microsoft는 SHA-1을 더 이상 사용하지 않습니다. [자세히 알아보기](https://docs.microsoft.com/ko-KR/security-updates/SecurityAdvisories/2017/4010323)
+> - 보안상의 이유로 Microsoft는 SHA-1을 더 이상 사용하지 않습니다. [자세히 알아보기](https://docs.microsoft.com/security-updates/SecurityAdvisories/2017/4010323)
 > - 이 정보는 2018년 9월 16.17 릴리스부터 Mac용 Office 버전인 Mac용 Office 2019에도 적용되며, 소매점 또는 볼륨 라이선스 계약을 통해 일회용 구매 제품으로 사용할 수 있습니다.
 > - 버전 16.16 및 이전 버전에 대한 업데이트 기록 정보는 일회용 구매 제품으로 사용할 수 있는 Mac용 Office의 버전인 Mac용 Office 2016에도 적용됩니다. 16.16 이하 버전은 Mac용 Office 2016 볼륨 라이선스를 통해 정품 인증을 받을 수 있습니다. 버전 16.17 이상은 Mac용 Office 2016 볼륨 라이선스로 정품 인증을 받을 수 없습니다. 9월 이후의 Mac용 Office 2016 릴리스에 대한 내용은 [Mac용 Office 2016 릴리스 정보](release-notes-office-2016-mac.md)를 참조하세요.
 > - 지정된 Mac용 Office 릴리스에 포함된 기능, 보안 업데이트 및 비보안 업데이트에 대한 내용은 [Mac용 Office에 대한 릴리스 정보](release-notes-office-for-mac.md)를 참조하세요.
@@ -54,7 +54,7 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
 
 다음 표에서는 IT 전문가에게 유용할 수 있는 Microsoft의 기타 Mac 프로그램용 다운로드 링크를 포함하여, 최신 패키지에 대한 정보를 제공합니다. 빌드 날짜는 버전 번호 다음에 괄호로 묶여 YYMMDD 형식으로 표시됩니다.
 
-**참고:** Microsoft 자동 업데이트 (MAU) 릴리스 정보는 [MAU 출시 기록](https://docs.microsoft.com/ko-KR/officeupdates/release-history-microsoft-autoupdate) 페이지로 이동 되었습니다.<br/><br/>
+**참고:** Microsoft 자동 업데이트 (MAU) 릴리스 정보는 [MAU 출시 기록](https://docs.microsoft.com/officeupdates/release-history-microsoft-autoupdate) 페이지로 이동 되었습니다.<br/><br/>
 
   
 |**프로그램**|**버전**|**패키지**|**추가 정보**|**SHA-1/SHA-256 해시**|

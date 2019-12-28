@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 이후 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: c3fd98c4c475dff6a571b773948464dedf618cad
-ms.sourcegitcommit: f6921c3de1d0e6faaec5a6d2471791fdfa02528d
+ms.openlocfilehash: 3e02226778b4ffb8b3d57361fcd0b6cff86820d5
+ms.sourcegitcommit: 2152c5d7b0b98398c1f31f659d68a8e74001acea
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/19/2019
-ms.locfileid: "40795742"
+ms.lasthandoff: 12/27/2019
+ms.locfileid: "40889303"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 릴리스 정보 월 단위 채널(대상 지정)
 
@@ -39,7 +39,7 @@ ms.locfileid: "40795742"
 ### <a name="feature-updates"></a>기능 업데이트
 ### <a name="word"></a>Word
 
-- **더욱 안전한 비디오 환경:** 보안 강화는 더욱 안전한 온라인 비디오 환경을 의미합니다. [자세한 정보](https://support.office.com/ko-KR/article/bf11b812-0243-4f53-a1f9-432fbf7ace2c)
+- **더욱 안전한 비디오 환경:** 보안 강화는 더욱 안전한 온라인 비디오 환경을 의미합니다. [자세한 정보](https://support.office.com/article/bf11b812-0243-4f53-a1f9-432fbf7ace2c)
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
