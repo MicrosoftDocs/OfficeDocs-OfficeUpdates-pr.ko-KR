@@ -3,19 +3,19 @@ title: Windows Installer(MSI)를 사용하는 Office 버전에 대한 최신 비
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 12/04/2019
+ms.date: 1/08/2020
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Office 2016, Office 2013 및 Office 2010 영구 버전의 최신 비보안 업데이트 정보에 대한 링크를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 85c94bef062f0ed71bbdcbfd1f1fd0684ba206be
-ms.sourcegitcommit: 37fc7174310b0a4dc6a816d675b8e1b7d9302ffd
+ms.openlocfilehash: 5bbc11ef2d5c2612fb8f76929522b36a6d1aad39
+ms.sourcegitcommit: 1cf47498ccc05d5933fd27dcf89b786157b419a2
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "39678650"
+ms.lasthandoff: 01/07/2020
+ms.locfileid: "40961655"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Windows Installer(MSI)를 사용하는 Office 버전에 대한 최신 비보안 업데이트
 
@@ -26,6 +26,21 @@ ms.locfileid: "39678650"
 > - 이 문서의 정보는 Office 365 ProPlus와 같은 Office 365 버전의 Office에는 적용되지 않습니다.
 > - Office 업데이트 설치에 대한 자세한 내용은 [Office 업데이트 설치](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)를 참조하세요.
 <br/><br/>
+
+## <a name="january-7-2020"></a>2020년 1월 7일
+
+**Office 2016**<br/>
+Microsoft Office 2016에 대한 업데이트 ([KB4464586](https://support.microsoft.com/help/4464586)) <br/>
+Microsoft Office 2016에 대한 업데이트([KB4484168](https://support.microsoft.com/help/4484168)) <br/>
+Microsoft Office 2016에 대한 업데이트([KB4484218](https://support.microsoft.com/help/4484218)) <br/>
+Microsoft Outlook 2016에 대한 업데이트([KB4484212](https://support.microsoft.com/help/4484212)) <br/>
+Microsoft PowerPoint 2016에 대한 업데이트([KB4484216](https://support.microsoft.com/help/4484216)) <br/>
+Microsoft Project 2016에 대한 업데이트 ([KB4484140](https://support.microsoft.com/help/4484140)) <br/>
+Microsoft Visio 2016에 대한 업데이트([KB4464575](https://support.microsoft.com/help/4464575)) <br/>
+Microsoft Visio Viewer 2016에 대한 업데이트([KB2920709](https://support.microsoft.com/help/2920709)) <br/>
+Microsoft Word 2016에 대한 업데이트([KB4484219](https://support.microsoft.com/help/4484219)) <br/>
+비즈니스용 Skype 2016에 대한 업데이트([KB4484213](https://support.microsoft.com/help/4484213)) <br/>
+
 
 ## <a name="december-3-2019"></a>2019년 12월 3일
 
