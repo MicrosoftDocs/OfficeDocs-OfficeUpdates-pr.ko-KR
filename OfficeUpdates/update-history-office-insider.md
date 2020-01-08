@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 참가자에게 Windows Desktop용 월 단위 채널 참가자 빠른 릴리스에 대한 업데이트 내역을 제공합니다.
-ms.openlocfilehash: 2061eede817a48e2b2ddecfdde5802ded52ae03e
-ms.sourcegitcommit: e98fd276315194ca861f00d6bcd2795f13edf5d0
+ms.openlocfilehash: 1e02083cb16af31428b6cf17d8edcd13a9f25c97
+ms.sourcegitcommit: 3c821543e73a4e1117ef856e555bc6c894f6deae
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/31/2019
-ms.locfileid: "40918464"
+ms.lasthandoff: 01/07/2020
+ms.locfileid: "40948091"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Office 참가자 채널에 대한 업데이트 기록
 
@@ -32,6 +32,9 @@ Insider 수준에 등록하면 새로운 기능과 개선 사항으로 자주 �
 
 [//]: # (제거하지 마세요)
 
+**2020년 1월 6일**<br/>
+버전 2001(빌드 12430.20000)<br/>
+
 **2019년 12월 30일**<br/>
 버전 2001 (빌드 12425.20000)<br/>
 
@@ -43,7 +46,6 @@ Insider 수준에 등록하면 새로운 기능과 개선 사항으로 자주 �
 
 **2019년 11월 18일**<br/>
 버전 1912 (빌드 12312.20002) (롤백됨) <br/>
-
 **2019년 11월 12일**<br/>
 버전 1912 (빌드 12307.20000)<br/>
 

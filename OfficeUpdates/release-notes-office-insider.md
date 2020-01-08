@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 860ec2d6bbd8623442ecc10657fee71a62c8d89d
-ms.sourcegitcommit: 941b77865c5b2d92e0f98b961fc702e865589ec3
+ms.openlocfilehash: b136c43128f6f995057f35c7b47c9e517c457097
+ms.sourcegitcommit: 78fb0c27e6b75aefcfcbd1b0ac7d17c1b53f86e0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/13/2019
-ms.locfileid: "40019854"
+ms.lasthandoff: 01/07/2020
+ms.locfileid: "40951096"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 참가자에 대한 릴리스 정보
 
@@ -26,6 +26,41 @@ ms.locfileid: "40019854"
 > - Office 365 ProPlus의 기존 설치에 대한 Microsoft Teams - 6월 말부터 Microsoft Teams가 Office 365 ProPlus(및 Office 365 Business)의 기존 설치에 업데이트 설치 시 포함됩니다. Teams가 추가되는 날짜는 사용 중인 업데이트 채널에 따라 다릅니다. 추가 정보는 [Office 365 ProPlus와 함께 Microsoft Teams 배포](https://docs.microsoft.com/deployoffice/teams-install)를 참조하세요.
 
 [//]: # (제거하지 마세요)
+
+## <a name="version-2001-january-03"></a>버전 2001: 1월 3일
+*버전 2001(빌드 12425.20000)*
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+
+### <a name="excel"></a>Excel
+- 일부 테두리 선이 A4 크기 용지에서 예상한 대로 인쇄되지 않을 수 있습니다.
+- VBA를 사용하여 시트에서 차트 개체의 머리글/바닥글에 이미지를 추가하면 오류가 발생할 수 있습니다.
+- 차트 축의 서식을 지정할 때 레이블 간격이 255로 제한되었습니다.
+- 데이터 원본의 URL이 잘린 XML 쿼리를 새로 고치는 동안 오류가 발생하는 문제를 해결했습니다.
+- 통합 문서 통계는 개인용 매크로 통합 문서를 포함하여 열려 있는 모든 통합 문서에서 매크로 개수를 보고합니다.
+
+### <a name="outlook"></a>Outlook
+- 폴더를 전환하면 메일 목록/메일 미리 보기가 잠시 동안 흰색으로 깜박일 수 있습니다. 이 동작은 어둡게 모드에서 더 뚜렷했습니다.
+
+### <a name="powerpoint"></a>PowerPoint
+- Shape.Paste 메서드를 호출하면 붙여 넣은 도형에 포커스가 생기는 개체 모델 문제를 해결했습니다.&nbsp;
+- 복사/붙여넣기 시나리오 개선: &nbsp;프로그래밍 방법으로 PowerPoint 슬라이드에서 도형을 복사하여 루프의 다른 슬라이드에 붙여 넣으면 예외 오류가 발생할 수 있습니다.&nbsp;
+- 구역 머리글을 축소하고 확장한 후에는 슬라이드의 구역 머리글에 있는 애니메이션이 올바르게 렌더링되지 않습니다.
+
+### <a name="project"></a>Project
+- 작업 및 자원 활용 현황 보기에서 텍스트 래핑이 작동하지 않는 문제를 해결했습니다.
+- 자원에 둘 이상의 비용 종류가 있는 경우 과제의 비용 금액이 정확하지 않을 수 있는 문제가 해결되었습니다.
+
+### <a name="word"></a>Word
+- 수식에 텍스트 콘텐츠 컨트롤과 같은 컨트롤을 삽입한 다음 파일을 저장하고 열면 읽을 수 없는 콘텐츠 오류가 발생할 수 있습니다.
+- 공동 작성시 Word 온라인을 사용하여 메모를 추가하는 경우 Word 데스크톱에 표시되지 않을 수 있습니다.
+
+### <a name="office-suite"></a>Office 제품군
+- 라이선스가 하나만 있는 라이선스를 변경할 때 유효한 라이선스에 잘못된 만료 날짜가 표시되는 문제를 제거했습니다.
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2001-december-13"></a>버전 2001: 12월 13일
 *버전 2001 (빌드 12410.20000)*
@@ -232,7 +267,7 @@ ms.locfileid: "40019854"
 - **Surface 펜을 집어들 때 펜 옵션보기:** Word, Excel 또는 PowerPoint에서 Surface 펜을 처음 집어들면 그리기 탭이 활성화되어 펜 색상을 쉽게 선택할 수 있습니다.
 
 ### <a name="visio"></a>Visio
-- **Excel에서 세련된 Visio 다이어그램 만들기** Excel 내에서 데이터를 세련된 Visio 다이어그램으로 쉽고 빠르게 시각화합니다. [자세히 알아보기](https://support.office.com/ko-KR/article/bee3b5aa-aaaf-4401-acc6-276b711c763c).
+- **Excel에서 세련된 Visio 다이어그램 만들기** Excel 내에서 데이터를 세련된 Visio 다이어그램으로 쉽고 빠르게 시각화합니다. [자세히 알아보기](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c).
 
 ### <a name="word"></a>Word
 - **Surface 펜을 집어들 때 펜 옵션보기:** Word, Excel 또는 PowerPoint에서 Surface 펜을 처음 집어들면 그리기 탭이 활성화되어 펜 색상을 쉽게 선택할 수 있습니다.
@@ -294,7 +329,7 @@ ms.locfileid: "40019854"
 ### <a name="feature-updates"></a>기능 업데이트
 ### <a name="visio"></a>Visio
 
-- **Excel에서 세련된 Visio  다이어그램 만들기** Excel 내에서 데이터를 세련된 Visio 다이어그램으로 쉽고 빠르게 시각화합니다. [자세한 정보](https://support.office.com/ko-KR/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **Excel에서 세련된 Visio  다이어그램 만들기** Excel 내에서 데이터를 세련된 Visio 다이어그램으로 쉽고 빠르게 시각화합니다. [자세한 정보](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 ### <a name="word"></a>Word
 
@@ -513,7 +548,7 @@ ms.locfileid: "40019854"
 ### <a name="feature-updates"></a>기능 업데이트
 ### <a name="excel"></a>Excel
 
-- **데이터 시각화 도우미 추가 기능:** Excel에서 빠르게 Visio 플로차트를 만들 수 있습니다. [자세한 정보](https://support.office.com/ko-KR/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **데이터 시각화 도우미 추가 기능:** Excel에서 빠르게 Visio 플로차트를 만들 수 있습니다. [자세한 정보](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
@@ -709,15 +744,15 @@ ms.locfileid: "40019854"
 ### <a name="feature-updates"></a>기능 업데이트
 ### <a name="excel"></a>Excel
 
-- **준비, 설정, 그리기:** Surface 펜을 들어 그리기를 시작할 수 있습니다. [자세한 정보](https://support.office.com/ko-KR/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+- **준비, 설정, 그리기:** Surface 펜을 들어 그리기를 시작할 수 있습니다. [자세한 정보](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **준비, 설정, 그리기:** Surface 펜을 들어 그리기를 시작할 수 있습니다. [자세한 정보](https://support.office.com/ko-KR/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+- **준비, 설정, 그리기:** Surface 펜을 들어 그리기를 시작할 수 있습니다. [자세한 정보](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
 ### <a name="word"></a>Word
 
-- **준비, 설정, 그리기:** Surface 펜을 들어 그리기를 시작할 수 있습니다. [자세한 정보](https://support.office.com/ko-KR/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+- **준비, 설정, 그리기:** Surface 펜을 들어 그리기를 시작할 수 있습니다. [자세한 정보](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -768,7 +803,7 @@ ms.locfileid: "40019854"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **그림을 SVG로 저장:** 이미지 품질이 손실되지 않도록 크기를 조정할 수 있는 스케일 가능한 벡터 그래픽으로 차트, 도형 또는 기타 그림을 저장합니다. [자세한 정보](https://support.office.com/ko-KR/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+- **그림을 SVG로 저장:** 이미지 품질이 손실되지 않도록 크기를 조정할 수 있는 스케일 가능한 벡터 그래픽으로 차트, 도형 또는 기타 그림을 저장합니다. [자세한 정보](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
@@ -1240,7 +1275,7 @@ PowerPoint에 잉크 리플레이 애니메이션을 적용하면 프레젠테�
 - **더 빠른 파일 공유**: 파일을 열지 않고 최근에 사용한 목록에서 문서를 바로 공유할 수 있습니다.
 ### <a name="powerpoint"></a>PowerPoint
 
-- **유인물의 슬라이드 번호 인쇄 설정은 보다 쉬운 액세스를 위해 인쇄 메뉴로 이동했습니다:** 유인물 레이아웃을 선택할 때 인쇄 > 인쇄 레이아웃 드롭다운에서 찾을 수 있습니다. 또한 프레젠테이션마다 손쉽게 설정을 전환할 수 있습니다. [자세한 정보](https://support.office.com/ko-KR/article/194d4320-aa03-478b-9300-df25f0d15dc4)
+- **유인물의 슬라이드 번호 인쇄 설정은 보다 쉬운 액세스를 위해 인쇄 메뉴로 이동했습니다:** 유인물 레이아웃을 선택할 때 인쇄 > 인쇄 레이아웃 드롭다운에서 찾을 수 있습니다. 또한 프레젠테이션마다 손쉽게 설정을 전환할 수 있습니다. [자세한 정보](https://support.office.com/article/194d4320-aa03-478b-9300-df25f0d15dc4)
 
 - **더 빠른 파일 공유**: 파일을 열지 않고 최근에 사용한 목록에서 문서를 바로 공유할 수 있습니다.
 
@@ -1488,7 +1523,7 @@ PowerPoint에 잉크 리플레이 애니메이션을 적용하면 프레젠테�
 
 #### <a name="open-document-links-in-word"></a>Word로 문서 링크 열기
 
-Office에서 문서 링크를 클릭 시 기본 설정을 업데이트하여 Word 앱에서 기본적으로 열리도록 할 수 있습니다.  기본 설정을 업데이트하려면 파일 ->옵션->고급->링크 처리로 이동합니다. 자세한 정보: https://support.office.com/en-us/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+Office에서 문서 링크를 클릭 시 기본 설정을 업데이트하여 Word 앱에서 기본적으로 열리도록 할 수 있습니다.  기본 설정을 업데이트하려면 파일 ->옵션->고급->링크 처리로 이동합니다. 자세한 정보: https://support.office.com/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
 
 ##### <a name="getting-started"></a>시작하기:
 
@@ -1509,7 +1544,7 @@ Office에서 문서 링크를 클릭 시 기본 설정을 업데이트하여 Wor
 
 #### <a name="open-presentation-links-in-powerpoint"></a>PowerPoint에서 프레젠테이션을 링크를 엽니다.
 
-Office에서 프레젠테이션 링크를 클릭 시 기본 설정을 업데이트하여 PowerPoint 앱에서 기본적으로 열리도록 할 수 있습니다. 기본 설정을 업데이트하려면 파일 ->옵션->고급->링크 처리로 이동합니다. 자세한 정보: https://support.office.com/en-us/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+Office에서 프레젠테이션 링크를 클릭 시 기본 설정을 업데이트하여 PowerPoint 앱에서 기본적으로 열리도록 할 수 있습니다. 기본 설정을 업데이트하려면 파일 ->옵션->고급->링크 처리로 이동합니다. 자세한 정보: https://support.office.com/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
 
 ##### <a name="getting-started"></a>시작하기:
 
@@ -1530,7 +1565,7 @@ Office에서 프레젠테이션 링크를 클릭 시 기본 설정을 업데이�
 
 #### <a name="open-workbook-links-in-excel"></a>Excel에서 워크북 링크 열기
 
-Office에서 워크북 링크를 클릭 시 기본 설정을 업데이트하여 Excel 앱에서 기본적으로 열리도록 할 수 있습니다. 기본 설정을 업데이트하려면 파일->옵션->고급->링크 처리로 이동합니다. 자세한 정보: https://support.office.com/en-us/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+Office에서 워크북 링크를 클릭 시 기본 설정을 업데이트하여 Excel 앱에서 기본적으로 열리도록 할 수 있습니다. 기본 설정을 업데이트하려면 파일->옵션->고급->링크 처리로 이동합니다. 자세한 정보: https://support.office.com/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
 
 ##### <a name="getting-started"></a>시작하기:
 
