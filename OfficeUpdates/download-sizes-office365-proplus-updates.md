@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 각 업데이트 채널에 대한 Office 365 ProPlus 업데이트의 대략적인 다운로드 크기 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: f713c681387b0e1031d1d11093bba0a103fc0dec
-ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
+ms.openlocfilehash: 230c17cabf76400452e337a9d5045c6d7be85f02
+ms.sourcegitcommit: f59095492cd5301eff069f004dcae56624345cf4
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39961723"
+ms.lasthandoff: 01/09/2020
+ms.locfileid: "40995548"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 ProPlus 업데이트의 다운로드 크기
 
@@ -29,6 +29,22 @@ Microsoft의 목표는 기업 고객이 네트워크 대역폭 사용률을 계�
 > - 지난 4개월 동안의 릴리스만 표시됩니다.
 
 [//]: # (제거하지 마세요)
+
+## <a name="january-8-2020"></a>2020년 1월 8일
+
+[//]: # (항목을 제거하지 마세요. 시작 2020년 1월 8일)
+
+### <a name="monthly-channel"></a>월별 채널
+
+가장 최근 릴리스는 버전 1912(빌드 12325.20288)입니다.
+
+|**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
+|:-----|:-----|:-----|
+|버전 1911(빌드 12228.20364) <br/> |2019년 12월 10일 <br/> |142<br/> |
+|버전 1911 (빌드 12228.20332) <br/> |2019년 12월 3일 <br/> |145<br/> |
+
+
+[//]: # (콘텐츠를 제거하지 마세요 종료 2020년 1월 8일)
 
 ## <a name="december-10-2019"></a>2019년 12월 10일
 
