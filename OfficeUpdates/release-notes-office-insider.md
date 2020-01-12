@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: b136c43128f6f995057f35c7b47c9e517c457097
-ms.sourcegitcommit: 78fb0c27e6b75aefcfcbd1b0ac7d17c1b53f86e0
+ms.openlocfilehash: 5d4d18cfff0ee6460c8356b61533e77295ab723b
+ms.sourcegitcommit: 9ff490c13fbe6cbe61d34876d36b1717e15014cb
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/07/2020
-ms.locfileid: "40951096"
+ms.lasthandoff: 01/10/2020
+ms.locfileid: "41022053"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 참가자에 대한 릴리스 정보
 
@@ -26,6 +26,38 @@ ms.locfileid: "40951096"
 > - Office 365 ProPlus의 기존 설치에 대한 Microsoft Teams - 6월 말부터 Microsoft Teams가 Office 365 ProPlus(및 Office 365 Business)의 기존 설치에 업데이트 설치 시 포함됩니다. Teams가 추가되는 날짜는 사용 중인 업데이트 채널에 따라 다릅니다. 추가 정보는 [Office 365 ProPlus와 함께 Microsoft Teams 배포](https://docs.microsoft.com/deployoffice/teams-install)를 참조하세요.
 
 [//]: # (제거하지 마세요)
+
+## <a name="version-2001-january-10"></a>버전 2001: 1월 10일
+*버전 2001(빌드 12430.20000)*
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="excel"></a>Excel
+- **도형을 그림으로 저장:** 몇 번의 클릭만으로 도형, 아이콘 또는 기타 개체를 그림 파일로 저장하여 다른 곳에서 다시 사용할 수 있습니다. [자세한 정보](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+### <a name="outlook"></a>Outlook
+- **이제 사용자는 Word/Excel/Outlook에서 개체를 Windows용 그림으로 저장할 수 있습니다.:** PowerPoint에서 이미 표시되는 기능을 사용하여 사용자는 이제 Word, Excel 및 Outlook에서 개체를 그림으로 저장할 수 있습니다. 개체에는 도형, 아이콘, 그림 등이 포함됩니다. 이는 마우스 오른쪽 단추를 클릭하여 메뉴를 통해 액세스할 수 있습니다.
+
+### <a name="word"></a>Word
+- **주변에 도형을 그려 Word에서 잉크를 쉽게 선택할 수 있습니다.:** 그리기 탭의 올가미 도구를 사용하면 잉크로 그린 개체를 선택하는 데 도움이 됩니다. 개별 스트로크를 선택하거나 단어 전체를 선택 합니다. 잉크 수가 많고 일부 잉크만을 사용하려는 경우 유용합니다. [자세한 정보](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+- **도형을 그림으로 저장:** 몇 번의 클릭만으로 도형, 아이콘 또는 기타 개체를 그림 파일로 저장하여 다른 곳에서 다시 사용할 수 있습니다. [자세한 정보](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="onenote"></a>OneNote
+- 100% 해상도에서는 페이지 탭이 너무 작게 표시되고 함께 닫힐 수 있습니다.
+
+### <a name="word"></a>Word
+- 다수의 메모 집합에서 메모 목록 끝에 있는 메모를 삭제하면 창이 맨 위로 스크롤될 수 있습니다.
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2001-january-03"></a>버전 2001: 1월 3일
 *버전 2001(빌드 12425.20000)*
