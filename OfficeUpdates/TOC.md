@@ -28,7 +28,7 @@
 ### [릴리스 노트 참가자 채널](release-notes-office-insider.md)
 ### [릴리스 정보 월 단위 채널(대상 지정)](release-notes-monthly-channel-targeted.md)
 
-## [업데이트 기록 Office Windows 7](update-history-office-Win7.md)
+## [Windows 7 업데이트 기록](update-history-office-Win7.md)
 
 ## [ODT 릴리스 기록](ODT-release-history.md)
 
