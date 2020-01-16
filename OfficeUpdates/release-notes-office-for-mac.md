@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Office 356 구독자를 위한 Mac용 Office 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 52b4d6774090c8bd8fc85f510b2f0282d6ebee1d
-ms.sourcegitcommit: 18b353e9edfaa8a4f3d6681866b584bdf4f35ee6
+ms.openlocfilehash: 2f43ce3fa752bc749fcb39cf9e9a792133ced7e4
+ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "39982268"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "41122297"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac용 Office에 대한 릴리스 정보
 
@@ -33,6 +33,45 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
 
 
 
+[//]: # (제거하지 마세요)
+
+
+## <a name="january-14-2020"></a>2020년 1월 14일
+*버전 16.33 (빌드 20011301)*
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="excel"></a>Excel
+
+- **다중값을 반환하는 공식을 입력:** 다중값을 반환하는 공식을 신속히 입력하면 자동으로 인접한 셀들로 입력됩니다. [자세한 정보](https://support.office.com/article/5c2c9cbb-def8-409a-b380-2fbf91b20aa3)
+
+- **Mac에서 VBA를 사용하여 쿼리를 만들고 관리:** Mac에서 VBA를 사용하여 지원되는 원본에 대한 파워 쿼리를 만들기 및 관리.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **GIF 즉시 만들기:** 하나의 슬라이드, 하나의 프레임. PowerPoint에서 쉽게 루핑 GIF를 만들 수 있습니다. [자세한 정보](https://support.office.com/article/a598753e-92de-4f1b-8393-714db4d334b4)
+
+### <a name="word"></a>Word
+
+- **사용자에게 기본으로 제공되는 접근성: 높은 수준의 Sierra 지원** 로터 및 개선된 지원 받기에 언어, 링크, 표 등을 포함했습니다.
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+
+[//]: # (보안 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+
+### <a name="security-updates"></a>보안 업데이트
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-0650](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0650)
+-   [CVE-2020-0651](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0651)
+
+[//]: # (보안 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="december-10-2019"></a>2019년 12월 10일
 *버전 16.32 (빌드 19120802)*

@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 이후 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 6e0b9a578a8ed68c693ec254ddd304bfbcd9a85e
-ms.sourcegitcommit: f59095492cd5301eff069f004dcae56624345cf4
+ms.openlocfilehash: a58fd969078411936719b79db9ef090db1bd7ef3
+ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/09/2020
-ms.locfileid: "40995558"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "41122007"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 릴리스 정보 월 단위 채널(대상 지정)
 
@@ -30,35 +30,35 @@ ms.locfileid: "40995558"
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
+## <a name="version-2001-january-14"></a>버전 2001: 1월 14일
+*버전 2001(빌드 12430.20050)*
+
+[여기](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates) 나열된 보안 업데이트
+
 ## <a name="version-1912-january-08"></a>버전 1912: 1월 8일
 *버전 1912(빌드 12325.20288)*
 
 ## <a name="version-1912-january-07"></a>버전 1912: 1월 7일
 *버전 1912(빌드 12325.20280)*
 
-
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
 ### <a name="resolved-issues"></a>해결된 문제
 ### <a name="outlook"></a>Outlook
 
-- <div>사용자가 일부 상황에서 표시된 SMTP 주소와 일치하지 않는 주소로 보낸 전자 메일을 보게 되는 문제를 해결합니다.</div>
-
-
+- 사용자가 일부 상황에서 표시된 SMTP 주소와 일치하지 않는 주소로 보낸 전자 메일을 보게 되는 문제를 해결했습니다.</div>
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-1912-january-06"></a>버전 1912: 1월 6일
 *버전 1912 (빌드 12325.20264)*
 
-
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
 ### <a name="feature-updates"></a>기능 업데이트
 ### <a name="powerpoint"></a>PowerPoint
 
-- **GIF 즉시 만들기:** 하나의 슬라이드, 하나의 프레임. PowerPoint에서 쉽게 루핑 GIF를 만들 수 있습니다. [자세한 정보](https://support.office.com/ko-KR/article/a598753e-92de-4f1b-8393-714db4d334b4)
-
+- **GIF 즉시 만들기:** 하나의 슬라이드, 하나의 프레임. PowerPoint에서 쉽게 루핑 GIF를 만들 수 있습니다. [자세한 정보](https://support.office.com/article/a598753e-92de-4f1b-8393-714db4d334b4)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 

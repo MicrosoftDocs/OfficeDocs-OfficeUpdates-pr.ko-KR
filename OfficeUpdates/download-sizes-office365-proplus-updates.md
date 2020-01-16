@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 각 업데이트 채널에 대한 Office 365 ProPlus 업데이트의 대략적인 다운로드 크기 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: cd63909491b0a9c3c838c3357fd8cfd4b0a98ced
-ms.sourcegitcommit: 7878888296fd804525e07ef84947f8133ab7dcba
+ms.openlocfilehash: 9499ba80668b7512888b27f32caef11454c0c1a3
+ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/09/2020
-ms.locfileid: "41004326"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "41122127"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 ProPlus 업데이트의 다운로드 크기
 
@@ -30,13 +30,24 @@ Microsoft의 목표는 기업 고객이 네트워크 대역폭 사용률을 계�
 
 [//]: # (제거하지 마세요)
 
-## <a name="january-9-2020"></a>2020년 1월 9일
+## <a name="january-14-2020"></a>2020년 1월 14일
 
-[//]: # (예상 항목을 제거하지 마세요. 시작)
+[//]: # (컨텐츠를 제거하지 마세요. 2020년 1월 14일 시작)
+
+### <a name="monthly-channel"></a>월별 채널
+
+가장 최근 릴리스는 버전 1912(빌드 12325.20298)입니다.
+
+|**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
+|:-----|:-----|:-----|
+|버전 1912(빌드 12325.20288) <br/> |2020년 1월 8일 <br/> |46<br/> |
+|버전 1911(빌드 12228.20364) <br/> |2019년 12월 10일 <br/> |151<br/> |
+
+
 
 ### <a name="semi-annual-channel"></a>반기 채널
 
-<i>예상된 릴리스는 버전 1908(빌드 11929.20562)입니다.</i>
+가장 최근 릴리스는 버전 1908(빌드 11929.20562)입니다.
 
 |**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
 |:-----|:-----|:-----|
@@ -44,9 +55,9 @@ Microsoft의 목표는 기업 고객이 네트워크 대역폭 사용률을 계�
 |버전 1902 (빌드 11328.20480) <br/> |2019년 11월 22일 <br/> |337<br/> |
 
 
-### <a name="semi-annual-targeted-channel"></a>반기(대상 지정) 채널
+### <a name="semi-annual-targeted-channel"></a>반기 (대상 지정) 채널
 
-<i>예상된 릴리스는 버전 1908(빌드 11929.20562)입니다.</i>
+가장 최근 릴리스는 버전 1908(빌드 11929.20562)입니다.
 
 |**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
 |:-----|:-----|:-----|
@@ -54,7 +65,8 @@ Microsoft의 목표는 기업 고객이 네트워크 대역폭 사용률을 계�
 |버전 1908 (빌드 11929.20494) <br/> |2019년 11월 22일 <br/> |64<br/> |
 
 
-[//]: # (예상 항목을 제거하지 마세요. 종료)
+[//]: # (콘텐츠를 제거하지 마세요 종료 2020년 1월 14일)
+
 
 ## <a name="january-8-2020"></a>2020년 1월 8일
 
