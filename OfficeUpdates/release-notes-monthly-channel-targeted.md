@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 이후 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: a58fd969078411936719b79db9ef090db1bd7ef3
-ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
+ms.openlocfilehash: a3edffcc7a997e4dc2e512518a6a8050f60f7141
+ms.sourcegitcommit: 9b7d0cbf39e67f308c6c24821d3a736a43521e85
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "41122007"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41231861"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 릴리스 정보 월 단위 채널(대상 지정)
 
@@ -29,6 +29,24 @@ ms.locfileid: "41122007"
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2001-january-17"></a>버전 2001: 1월 17일
+*버전 2001(빌드 12430.20120)*
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="word"></a>Word
+
+- **주변에 도형을 그려 Word에서 잉크를 쉽게 선택할 수 있습니다.:** 그리기 탭의 올가미 도구를 사용하면 잉크로 그린 개체를 선택하는 데 도움이 됩니다. 개별 스트로크를 선택하거나 단어 전체를 선택 합니다. 잉크 수가 많고 일부 잉크만을 사용하려는 경우 유용합니다. [자세한 정보](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- Excel 클라이언트로 인해 빌드 12430.20050를 사용하고 32비트 버전의 Excel을 실행하는 사용자를 위한 영어 외 언어 버전 2001에서 인쇄, 매크로 실행, 확대/축소,... 등의 여러 시나리오에서 문제가 발생합니다. 
 
 ## <a name="version-2001-january-14"></a>버전 2001: 1월 14일
 *버전 2001(빌드 12430.20050)*

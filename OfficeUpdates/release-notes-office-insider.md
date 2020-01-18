@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 5d4d18cfff0ee6460c8356b61533e77295ab723b
-ms.sourcegitcommit: 9ff490c13fbe6cbe61d34876d36b1717e15014cb
+ms.openlocfilehash: 3889a3f93c8b83129928c95fd9880472de0be8eb
+ms.sourcegitcommit: f042b25b15960fc4911a7e7d8500dcfd992ee95c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/10/2020
-ms.locfileid: "41022053"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41230086"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 참가자에 대한 릴리스 정보
 
@@ -26,6 +26,37 @@ ms.locfileid: "41022053"
 > - Office 365 ProPlus의 기존 설치에 대한 Microsoft Teams - 6월 말부터 Microsoft Teams가 Office 365 ProPlus(및 Office 365 Business)의 기존 설치에 업데이트 설치 시 포함됩니다. Teams가 추가되는 날짜는 사용 중인 업데이트 채널에 따라 다릅니다. 추가 정보는 [Office 365 ProPlus와 함께 Microsoft Teams 배포](https://docs.microsoft.com/deployoffice/teams-install)를 참조하세요.
 
 [//]: # (제거하지 마세요)
+
+## <a name="version-2002-january-17"></a>버전 2002: 1월 17일
+*버전 2002(빌드 12508.20000)*
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="word"></a>Word
+
+- **멘션 및 댓글 알림 전자 메일에 이제 미리 보기가 포함됩니다**: 이제 멘션 및 댓글에 대한 전자 메일 알림에 댓글 텍스트와 참조 항목에 대한 컨텍스트의 미리 보기가 포함됩니다.
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- 일부 경우에 접근성 검사에 도형에 대한 추천 항목이 나타나지 않습니다.
+
+### <a name="outlook"></a>Outlook
+
+- 왼쪽 탐색 창의 '즐겨찾는 사람’에 저장된 폴더는 간헐적으로 사라질 수 있습니다.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- PowerPoint 잉크 애니메이션에서 잉크가 완전히 렌더링되지 않거나 건너뛰기될 수 있는 문제가 해결되었습니다.
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2001-january-10"></a>버전 2001: 1월 10일
 *버전 2001(빌드 12430.20000)*
