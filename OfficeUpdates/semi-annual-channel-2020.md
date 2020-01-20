@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Office 365 ProPlus에 대한 반기 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: d91f3ed15a726c96891eee51e4b53de4db71928b
-ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
+ms.openlocfilehash: 0b31c340e651f3a2862c7fa996c060ce86b5a724
+ms.sourcegitcommit: 8c07d6182c66a7ea9e44d0bb7550a7a1d44877eb
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "41122267"
+ms.lasthandoff: 01/16/2020
+ms.locfileid: "41214542"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>2020년 반기 채널 릴리스에 대한 릴리스 정보
 
@@ -39,6 +39,8 @@ ms.locfileid: "41122267"
 - **데이터베이스 개체에 탭 유지:** 활성 탭이 무엇인지 명확하게 구분할 수 있고, 간편하게 끌어서 순서를 변경할 수 있고, 클릭 한 번으로 데이터베이스 개체를 닫을 수 있습니다.
 
 - **원활하게 전환:** 새 계정 관리자는 모든 Office 365 작업 및 개인 계정을 한 곳에 표시합니다. 회사 및 개인 계정 간 전환이 매우 용이합니다. [자세한 정보](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+
+- **더 많은 공간을 사용하여 확대/축소:** 확대/축소 상자의 크기를 키우고, 글꼴을 변경할 수 있습니다. 확대/축소에 이러한 설정이 모두 저장됩니다. [자세한 정보](https://support.office.com/article/9a62d165-67f8-4790-bad8-a2c2e83dcedf)
 
 ### <a name="excel"></a>Excel
 
@@ -80,8 +82,6 @@ ms.locfileid: "41122267"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **모핑 전환 개선 사항:** 완벽하게 전환해 보세요. 더 원활한 전환으로 SmartArt 및 표 모핑
-
 - **더 나은 변신:** 셰이프에 이름을 지정하여 셰이프의 모핑 과정을 더 효율적으로 관리하세요. [자세한 정보](https://support.office.com/article/bc7f48ff-f152-4ee8-9081-d3121788024f)
 
 - **해당 파일 찾기:** 최근에 작업한 파일을 찾으십니까? 파일>홈페이지의 검색 상자에 입력하기만 하면 원하는 파일을 찾을 수 있습니다.
@@ -118,7 +118,7 @@ ms.locfileid: "41122267"
 
 ### <a name="word"></a>Word
 
-- **페이지에 색상 추가하기:** 새 페이지 색상은 전체 흰색 또는 전체 검은색 배경이 자신에게 적합하지 않은 경우 변경하기가 매우 쉽다는 것을 의미합니다.
+- **더 많은 페이지 색상을 사용하도록 학습 도구 모드에 추가 지원 제공:** Word의 학습 도구에 페이지 테마 색상에 대한 지원이 추가되어, 페이지의 배경색을 변경할 수 있습니다. 많은 사람들이 흑백 또는 검정색 배경으로 읽는 것에 어려움을 느끼고 있으므로 PC 및 Mac의 Word에서 색상 선택을 확장했습니다.
 
 - **잉크 편집기로 자연스럽게 편집 가능:** 펜을 사용하여 단일 스트로크로 단어를 분할 또는 조인하거나, 새 줄을 추가하거나, 단어를 삽입할 수 있습니다. [자세한 정보](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
 
@@ -147,6 +147,8 @@ ms.locfileid: "41122267"
 - **개인 정보 제어:** 진단 데이터 및 연결된 환경에 대한 업데이트 및 향상된 신규 컨트롤 작업 [자세한 정보](https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json)
 
 - **Office 아이콘이 새롭게 단장했습니다.** 간단하고 강력하며 지능적인 Office 환경을 반영하여 Office 아이콘이 다시 디자인되었습니다.
+
+- **Microsoft Teams 설치:** Office 365 ProPlus를 새로 설치하면 Microsoft Teams가 기본적으로 설치됩니다. [자세한 정보](https://docs.microsoft.com/DeployOffice/teams-install)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
