@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 릴리스 정보에 대한 링크를 포함하여 Office 365 ProPlus 릴리스의 전체 목록을 날짜별로 구성해서 IT 전문가에게 제공합니다.
-ms.openlocfilehash: df1e3c5c12943e5cc6474d50200c329689b9af25
-ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
+ms.openlocfilehash: 76dbb5c9889b231476f0f1c123109869e4412cf0
+ms.sourcegitcommit: e836e4fa968630fbe51b48d8319a1bfa5a441345
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "41122357"
+ms.lasthandoff: 01/23/2020
+ms.locfileid: "41475235"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 ProPlus에 대한 업데이트 기록(날짜순)
 
@@ -31,7 +31,7 @@ Office 365 ProPlus는 새로운 기능, 보안 업데이트 및 비보안 업데
 
 |**채널**|**버전**|**빌드**|**릴리스 날짜**|**다음 이하 버전까지 지원**|
 |:-----|:-----|:-----|:-----|:-----|
-|월간<br/>|1912<br/>|12325.20298<br/>|2020년 1월 14일<br/>|2001 버전 출시<br/>|
+|월간<br/>|1912<br/>|12325.20344<br/>|2020년 1월 22일<br/>|2001 버전 출시<br/>|
 |반기(대상 지정)<br/>|1908<br/>|11929.20562<br/>|2020년 1월 14일<br/>|2020년 3월 10일<br/>|
 |반기<br/>|1908<br/>|11929.20562<br/>|2020년 1월 14일<br/>|2021년 3월 9일<br/>|
 |반기<br/>|1902<br/>|11328.20512<br/>|2020년 1월 14일<br/>|2020년 9월 8일<br/>|
@@ -47,6 +47,7 @@ Office 365 ProPlus는 새로운 기능, 보안 업데이트 및 비보안 업데
 
 |**년도**|**릴리스 날짜**|**월별 채널**|**반기별 채널(지정됨)**|**반기 채널**|
 |:-----|:-----|:-----|:-----|:-----|
+|2020|1월 22일|[버전 1912(빌드 12325.20344)](monthly-channel-2020.md#version-1912-january-22)| | |
 |2020|1월 14일|[버전 1912 (빌드 12325.20298)](monthly-channel-2020.md#version-1912-january-14) |[버전 1908 (빌드 11929.20562)](semi-annual-channel-targeted-2020.md#version-1908-january-14)|[버전 1908 (빌드 11929.20562)](semi-annual-channel-2020.md#version-1908-january-14)<br/>[버전 1902 (빌드 11328.20512)](semi-annual-channel-2020.md#version-1902-january-14)<br/>[버전 1808 (빌드 10730.20432)](semi-annual-channel-2020.md#version-1808-january-14)|
 |2020|1월 8일|[버전 1912(빌드 12325.20288)](monthly-channel-2020.md#version-1912-january-8)| | |
 |2019|12월 10일|[버전 1911 (빌드 12228.20364)](monthly-channel-2019.md#version-1911-december-10)|[버전 1908 (빌드 11929.20516)](semi-annual-channel-targeted-2019.md#version-1911-december-10)  |[버전 1902 (빌드 11328.20492)](semi-annual-channel-2019.md#version-1902-december-10)<br/>[버전 1808 (빌드 10730.20426)](semi-annual-channel-2019.md#version-1808-december-10)|
