@@ -3,19 +3,19 @@ title: Office 2016 C2R 및 Office 2019의 업데이트 기록
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 1/15/2020
+ms.date: 1/23/2020
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: C2R(간편 실행)을 사용하는 Office 2016 및 2019 영구 버전에 대한 업데이트 기록을 IT 전문가에게 제공합니다.
-ms.openlocfilehash: f06fabf6b50544b1d0a8776767da3a1843312277
-ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
+ms.openlocfilehash: 5b0dad68a65a5fce15e6fa363de8b20ac31e4bea
+ms.sourcegitcommit: d1eb4fe4ab2606a94e786011de3f77635ee3b987
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "41122307"
+ms.lasthandoff: 01/24/2020
+ms.locfileid: "41519157"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Office 2016 C2R 및 Office 2019의 업데이트 기록
 
@@ -58,6 +58,7 @@ Microsoft는 Office 2016 C2R(간편 실행) 버전과 Office 2019의 보안 및 
 
 |**릴리스 날짜**|**버전 번호**|**추가 정보**|
 |:-----|:-----|:-----|
+|2020년 1월 22일   |버전 1912 (빌드 12325.20344)  |다양한 버그 및 성능 수정 사항. <br/>  |
 |2020년 1월 14일   |버전 1912(빌드 12325.20298)  |[CVE-2020-0650](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0650) <br/> [CVE-2020-0651](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0651) <br/> [CVE-2020-0652](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0652) <br/>  |
 |2020년 1월 8일   |버전 1912(빌드 12325.20288)  |다양한 버그 및 성능 수정 사항. <br/>  |
 |2019년 12월 10일   |버전 1911 (빌드 12228.20364)  |[CVE-2019-1400](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1400) <br/> [CVE-2019-1461](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1461) <br/> [CVE-2019-1462](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1462) <br/> [CVE-2019-1463](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1463) <br/> [CVE-2019-1464](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1464) <br/> |
