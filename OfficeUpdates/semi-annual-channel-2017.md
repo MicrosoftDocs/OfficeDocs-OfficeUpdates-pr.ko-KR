@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: 2017의 Office 365 ProPlus에 대 한 반기 채널 릴리스에 대 한 릴리스 정보를 IT 전문가에 게 제공 합니다.
-ms.openlocfilehash: 97df90f17529a2c3336e19a2954b6c596e7d3410
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: 9d3a8a62656e52fd556920745d64ba2d1da47b1f
+ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32439233"
+ms.lasthandoff: 01/30/2020
+ms.locfileid: "41629265"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2017"></a>2017 년 반기 채널 릴리스에 대 한 릴리스 정보
 
@@ -388,7 +388,7 @@ ms.locfileid: "32439233"
 ### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
 -   일부 프로그램 파일이 서명되는 방식으로 인해 바이러스 백신 프로그램이 이러한 파일에 플래그를 지정하는 문제와 WIP(Windows Information Protection)의 데이터 보호 및 액세스에 발생하는 문제를 수정합니다.
 -   새 소식 대화 상자가 나타나지 않는 문제를 해결합니다.
--   System Center Configuration Manager를 사용하면 Office 2013에서 Office 2016으로의 자동 업그레이드가 실패하는 문제를 수정합니다.
+-   Configuration Manager를 사용 하는 경우 Office 2013에서 Office 2016로의 무인 업그레이드에 실패 하는 문제를 해결 합니다.
 -   회사 카탈로그를 통해 스토어에서 배포된 레거시 추가 기능이 로드되지 않는 문제를 수정합니다.
 
 
@@ -742,7 +742,7 @@ ms.locfileid: "32439233"
 -   Office 문서에 SVG 이미지를 삽입한 후에 문서를 저장했다가 다시 열 경우 SVG 이미지가 사라지는 문제를 해결합니다.
 -   Fix an issue where Office shows the following error message during activation for non-English users: "The maximum length of the product key is 25 characters."
 -   프레임의 z 좌표가 제대로 작동하지 않거나 잘못 표시되게 만들 수 있는 VBA 양식의 문제를 해결합니다.
--   System Center Configuration Manager에 의해 트리거된 업데이트가 레지스트리의 UpdateChannel 설정을 잘못된 업데이트 채널로 변경하는 문제를 해결합니다.
+-   Configuration Manager에서 업데이트 잘못 된 레지스트리 내의 UpdateChannel 설정이 유효한 업데이트 채널이 아닌 항목으로 변경 되는 문제를 해결 합니다.
 
 
 
@@ -1064,7 +1064,7 @@ ms.locfileid: "32439233"
 
 ### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
 -   프레임의 z 좌표가 제대로 작동하지 않거나 잘못 표시되게 만들 수 있는 VBA 양식의 문제를 해결합니다.
--   System Center Configuration Manager에 의해 트리거된 업데이트가 레지스트리의 UpdateChannel 설정을 잘못된 업데이트 채널로 변경하는 문제를 해결합니다.
+-   Configuration Manager에서 업데이트 잘못 된 레지스트리 내의 UpdateChannel 설정이 유효한 업데이트 채널이 아닌 항목으로 변경 되는 문제를 해결 합니다.
 -   OneDrive 동기화 클라이언트를 사용하여 비즈니스용 OneDrive 사이트에서 로컬 컴퓨터로 파일을 동기화할 때, URL에서 연 다시 동기화 된 파일을 저장하면 Word, Excel 또는 PowerPoint가 중단되는 문제를 해결합니다.
 -   양식 컨트롤이 들어 있는 매크로 사용 파일을 열려고 할 때 투명 레이블 컨트롤을 불투명하게 표시하고, 기존 양식이 더 이상 예상대로 표시되거나 작동되지 않게 하고, Office 응용 프로그램이 응답하지 않게 하는 VBA 양식 컨트롤 문제를 해결합니다.
 -   관리되는 메타데이터 속성을 사용할 때 설정된 메타데이터 값 대신, 파일 \> 정보 아래의 속성 섹션에 "세부 정보 표시" 단추가 나타나는 문제를 수정합니다.

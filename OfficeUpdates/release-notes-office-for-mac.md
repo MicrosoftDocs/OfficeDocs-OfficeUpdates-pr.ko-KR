@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Office 356 구독자를 위한 Mac용 Office 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 2f43ce3fa752bc749fcb39cf9e9a792133ced7e4
-ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
+ms.openlocfilehash: ea7f2bd55b0aa1088eec2219b562f28b83985a2f
+ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "41122297"
+ms.lasthandoff: 01/30/2020
+ms.locfileid: "41629225"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac용 Office에 대한 릴리스 정보
 
@@ -483,8 +483,8 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
 |**애플리케이션**|**기능 업데이트**|**보안 업데이트**|**업데이트 패키지용 다운로드 링크**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/>| **어두운 모드를 사용하여 눈에 편안함을 주기:** 어두운 배경은 빛이 약한 환경에서 눈에 더 편안합니다. MacOS Mojave가 필요합니다. <br/><br/>  **텍스트의 모양을 유지:** 글꼴을 포함하여 모든 컴퓨터에서 문서의 텍스트 모양이 같도록 합니다. 더는 당황하지 않아도 됩니다. [자세히 알아보기](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/><br/>**문서에 포함된 글꼴 보기:** 파일에 포함 된 글꼴을 Mac Word에서 렌더링할 수 있습니다.<br/><br/>**포커스 모드 호출 가능 상태 표시줄:** 포커스 모드에서는 호출 가능한 상태 표시줄을 사용하여 간편하게 단어 개수를 확인하고 확대/축소 배율에 액세스할 수 있습니다.<br/><br/>**포커스 모드로 더 많은 것을 얻으세요:** 보내주신 의견을 반영했습니다. 이제 확대/축소 수준 설정 시 포커스 모드가 열리며 또한 스크롤하는 동안 페이지 번호가 표시됩니다.| |[Word 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.20.18120801_Updater.pkg) <br/>|
-|Excel  <br/>|  **어두운 모드를 사용하여 눈에 편안함을 주기:** 어두운 배경은 빛이 약한 환경에서 눈에 더 편안합니다. macOS Mojave가 필요합니다. <br/><br/> | [CVE-2018-8597](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8597): Microsoft Excel 원격 코드 실행 취약성 <br/><br/> [CVE-2018-8627](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8627): Microsoft Excel 정보 노출 취약성 |[Excel 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.20.18120801_Updater.pkg) <br/>|
-|PowerPoint  <br/>| **어두운 모드를 사용하여 눈에 편안함을 주기:** 어두운 배경은 빛이 약한 환경에서 눈에 더 편안합니다. macOS Mojave가 필요합니다. <br/><br/>  **iPhone에서 즉시 PowerPoint로:** Apple 연속성 카메라를 사용하여 iPhone에서 사진을 슬라이드에 삽입합니다. MacOS Mojave가 필요합니다. [자세히 알아보기](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> |[CVE-2018-8628](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8628): Microsoft PowerPoint 원격 코드 실행 취약성 <br/>|[PowerPoint 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.20.18120801_Updater.pkg) <br/>|
+|Excel  <br/>|  **어두운 모드를 사용하여 눈에 편안함을 주기:** 어두운 배경은 빛이 약한 환경에서 눈에 더 편안합니다. MacOS Mojave가 필요합니다. <br/><br/> | [CVE-2018-8597](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8597): Microsoft Excel 원격 코드 실행 취약성 <br/><br/> [CVE-2018-8627](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8627): Microsoft Excel 정보 노출 취약성 |[Excel 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.20.18120801_Updater.pkg) <br/>|
+|PowerPoint  <br/>| **어두운 모드를 사용하여 눈에 편안함을 주기:** 어두운 배경은 빛이 약한 환경에서 눈에 더 편안합니다. MacOS Mojave가 필요합니다. <br/><br/>  **iPhone에서 즉시 PowerPoint로:** Apple 연속성 카메라를 사용하여 iPhone에서 사진을 슬라이드에 삽입합니다. MacOS Mojave가 필요합니다. [자세히 알아보기](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> |[CVE-2018-8628](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8628): Microsoft PowerPoint 원격 코드 실행 취약성 <br/>|[PowerPoint 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.20.18120801_Updater.pkg) <br/>|
 |Outlook  <br/>|  **어두운 모드를 사용하여 눈에 편안함을 주기:** 어두운 배경은 빛이 약한 환경에서 눈에 더 편안합니다. MacOS Mojave가 필요합니다. <br/><br/>  **일정 공유:** 가족과 친과, 동료와 캘린더를 공유합니다. Mac, PC 또는 클라우드 버전의 Outlook에서 공유된 캘린더를 엽니다. [자세히 알아보기](https://support.office.com/article/365-b576ecc3-0945-4d75-85f1-5efafb8a37b4) <br/><br/> **모임 전달 해제:** 참석자가 모임을 다른 사람에게 전달하지 못하도록 합니다. [잫자세히 알아보기](https://support.office.com/article/8cd354e5-b319-403e-8dd2-88b8ee89b4dd) <br/><br/> **팀을 사용하여 모임에 연결:** 원격 팀과 함께 작업하세요? Outlook에서 팀을 사용하여 모임을 예약하고 온라인으로 참여합니다. [자세히 알아보기](https://support.office.com/article/883cc15c-580f-441a-92ea-0992c00a9b0f) <br/><br/>**모임에 참여하는 사람 알아보기:** 캘린더에 있는 모든 모임 또는 이벤트를 클릭하여 누가 참여할 계획인지 알아봅니다.<br/><br/> **세 가지 표준 시간대 보기:** 표준 시간대가 다른 지역 간에 모임을 예약해야 하나요? 여러 표준 시간대를 캘린더에 추가하여 모든 사람의 가용성을 쉽게 확인하고 모두가 참여할 수 있는 시간을 선택할 수 있습니다. [자세히 알아보기](https://support.office.com/article/938d9db9-14ae-4203-ab91-b2d183429382)<br/><br/>  ||[Outlook 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.20.18120801_Updater.pkg) <br/>|
 |Microsoft 자동 업데이트 4.6 <br/>| SHA-1 대신 SHA-256 해시를 포함하도록 업데이트된 보안 카탈로그 <br/>|<br/> | [Microsoft 자동 업데이트의 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.6.18120801_Updater.pkg)|
 |Office 제품군  <br/>|**새로운 모습의 리본 아이콘:** 모든 기능은 동일하니 걱정하지 마세요. 또한 모든 아이콘은 모든 크기의 화면에서 멋지게 보입니다. [자세한 정보](https://support.office.com/article/a6cdf19a-b2bd-4be1-9515-d74a37aa59bf)<br/><br/>**업데이트된 대체 텍스트 창:** 유용한 캡션을 추가하거나 요소를 장식용으로 표시하여 콘텐츠의 접근성을 높일 수 있습니다. |<br/>||
@@ -933,66 +933,3 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
 |Word  <br/> |오크, 마호가니 및 흑연을 비롯한 추가 포커스 모드를 선택할 수 있습니다. Office 365 구독자만 해당합니다. [자세한 정보](https://support.office.com/article/51af2fb2-194f-424b-ab7e-b65de9ec9292.aspx) <br/> |큰 문서를 편집할 때 나타나는 입력 또는 스크롤 지연 및 성능 저하를 비롯한 다양한 성능 문제를 해결합니다.  |
 |Microsoft 자동 업데이트  <br/> |추가 로깅 및 문제 해결 기능입니다.  <br/> |버전 번호가 3.8.3으로 업데이트되었습니다.  |
    
-## <a name="december-2016-release"></a>2016년 12월 릴리스
-
-
- **릴리스 날짜:** 2016년 12월 15일 
-  
- *버전 15.29.1(빌드 16121500)* 
-  
-이 릴리스는 파일 경로의 첫 부분에 공백이나 특정 문자가 포함되어 있는 경우 Word, Excel 또는 PowerPoint에서 파일을 열거나 저장할 때 발생하는 문제를 해결합니다.
-
-<br/><br/>
-  
- **릴리스 날짜:** 2016년 12월 13일 
-  
- *버전 15.29.0(빌드 16120900)* 
-  
-이 릴리스는 다음과 같은 업데이트를 제공합니다.
-  
-|**응용 프로그램**|**기능 업데이트**|**비보안 업데이트**|**보안 업데이트**|
-|:-----|:-----|:-----|:-----|
-|Word  <br/> | PDF로 변환할 때 하이퍼링크가 계속 작동하면서 문서 재현성이 유지됩니다. [자세한 정보](https://support.office.com/article/aa183751-1f09-4b8b-88a4-099a0c7528da) <br/>  <br/> 접근성 높은 문서를 만들고, 문서를 읽고 편집하기 위한 기타 보조 기술과 VoiceOver를 사용하기 위한 지원이 개선되었습니다. [자세한 정보](https://support.office.com/article/c681eb25-549e-4d1d-a970-e52450c701de) |
-|Excel  <br/> | 접근성 높은 문서를 만들고 VoiceOver 및 기타 보조 기술을 사용하여 문서를 읽고 편집하는 기능에 대한 지원이 개선되었습니다. [자세한 정보](https://support.office.com/article/1d014a46-3416-413d-909d-51c817e83580#PickTab=Mac) <br/> | 데이터 유효성 검사를 사용하는 경우 오류 메시지 상자에 텍스트를 입력하면 Excel이 중단되는 문제를 해결합니다.  <br/> |Microsoft 보안 공지 [MS16-148](https://technet.microsoft.com/library/security/MS16-148): Microsoft Office용 보안 업데이트(3204068)   |
-|PowerPoint  <br/> | 접근성 높은 문서를 만들고, 문서를 읽고 편집하기 위한 기타 보조 기술과 VoiceOver를 사용하기 위한 지원이 개선되었습니다. [자세한 정보](https://support.office.com/article/8f6382e8-280e-4c33-9fc0-1cd98065aca7) |
-|Office 제품군  <br/> | 3개의 추가 언어, 그리스어, 헝가리어 및 슬로바키아어가 지원됩니다.  <br/> ||Microsoft 보안 공지 [MS16-148](https://technet.microsoft.com/library/security/MS16-148): Microsoft Office용 보안 업데이트(3204068)  |
-|Microsoft 자동 업데이트  <br/> || - 버전 번호가 3.8.2로 업데이트되었습니다.  <br/> - 안정성이 개선되고 버그가 약간 수정되었습니다.  <br/> |Microsoft 보안 공지 [MS16-148](https://technet.microsoft.com/library/security/MS16-148): Microsoft Office용 보안 업데이트(3204068)  |
-   
-## <a name="november-2016-release"></a>2016년 11월 릴리스
-
-
- **릴리스 날짜:** 2016년 11월 17일 
-  
- *버전 15.28.0(빌드 16111700)* 
-  
-이 릴리스는 Exchange Server 2010의 Outlook 및 공용 폴더 관련 문제를 해결합니다. 
-
-<br/><br/>
-  
- **릴리스 날짜:** 2016년 11월 15일 
-  
- *버전 15.28.0(빌드 16111501)* 
-  
-이 릴리스는 개별 응용 프로그램의 업데이트 패키지 관련 문제를 해결합니다.
-
-<br/><br/>
-  
-
- **릴리스 날짜:** 2016년 11월 15일 
-  
- *버전 15.28.0(빌드 16111300)* 
-  
-이 릴리스는 다음과 같은 업데이트를 제공합니다.
-  
-|**응용 프로그램**|**기능 업데이트**|**비보안 업데이트**|**보안 업데이트**|
-|:-----|:-----|:-----|:-----|
-|Word  <br/> |체코어, 헝가리어, 한국어, 노르웨이어, 폴란드어, 러시아어, 터키어에 대한 새 문법이 지원됩니다.  <br/> | 특정 테두리 콘텐츠가 있는 Excel 스프레드시트가 문서에 포함될 경우 Word에서 문서를 저장하지 못하는 문제를 해결합니다.  <br/> |Microsoft 보안 공지 [MS16-133](https://technet.microsoft.com/library/security/MS16-133): Microsoft Office용 보안 업데이트(3199168) |
-|Excel  <br/> || Excel이 NetApp FAS 장치와 같은 특정 엔터프라이즈 저장소 구성에 대한 변경 내용을 저장하지 못하는 장기적인 문제를 해결합니다. 이제 Excel은 Word와 동일한 파일 저장 패턴을 채택합니다.  <br/> |Microsoft 보안 공지 [MS16-133](https://technet.microsoft.com/library/security/MS16-133): Microsoft Office용 보안 업데이트(3199168)  <br/> |
-|PowerPoint  <br/> |Windows용 PowerPoint 2016에서 확대/축소 명령을 사용하여 만든 대화형 요약 및 자동 탐색 링크를 봅니다.  <br/> | 이미지가 렌더링되지 않고 및 rID#으로 참조되는 오류로 바뀌는 문제를 해결합니다.  ||
-|Outlook  <br/> |접근성 검사를 사용하여 이미지나 초대를 작성할 때 발생하는 접근성 문제를 찾아서 해결합니다. [자세한 정보](https://support.office.com/article/3b84295e-d55b-49f1-b443-523ec45a5232) <br/> | 전자 메일을 작성할 때 자동 언어 검색 관련 문제를 해결합니다. ||
-|Office 제품군  <br/> || - 접근성 요구 사항이 있는 사용자에 맞게 획기적으로 개선되었습니다.  <br/><br/>  - 마지막 충돌 로그를 디스크에 저장하도록 Microsoft 오류 보고를 구성할 수 있습니다(기본값 com.microsofterrorreporting IsStoreLastCrashEnabled -bool TRUE). <br/> <br/>  - E1/K1 사용자에 대한 정품 인증 메시지가 개선되었습니다. 더 이상 오류가 발생되었다고 표시되지 않으며 보기 전용 환경이제 공됩니다.  <br/><br/> - 설치 관리자 및 업데이트 관리자 파일 이름 형식이 변경되었습니다. 예를 들어 Microsoft_Office_2016_15.28.0_161113_Installer.pkg 대신 Microsoft_Office_2016_15.28.16111300_Installer.pkg가 사용됩니다.  ||
-|Microsoft 자동 업데이트  <br/> |업데이트를 자동으로 감지, 다운로드 및 설치하기 위한 새로운 옵션이 포함되어 있습니다.  <br/> | - 버전 번호가 3.8.1로 업데이트되었습니다.  <br/> <br/>- 이전 버전의 Microsoft Silverlight가 설치되어 있을 때 MAU가 작동 중단될 수 있는 문제를 수정합니다. 특히 Silverlight가 null LCID로 등록된 경우의 문제가 해결되었습니다.  <br/><br/>  - ManifestServer 기본 설정을 사용할 때 MAU가 작동 중단될 수 있는 문제를 수정합니다.  <br/><br/> - Microsoft AU 디먼 번들 표시 이름이 "Microsoft 업데이트 도우미"로 변경되었습니다.  <br/><br/> - 2016 앱용 MAU XML 피드가 더 이상 트리거 사전을 포함하지 않으며 버전 검색을 위해 "업데이트 버전"을 활용합니다.  <br/><br/> - MAU가 이제 앱 업데이트 창에 전체 버전 문자열을 표시합니다. 예를 들어 15.28이 아니라 15.28.16110300을 표시합니다.  ||
-   
-
-   
-

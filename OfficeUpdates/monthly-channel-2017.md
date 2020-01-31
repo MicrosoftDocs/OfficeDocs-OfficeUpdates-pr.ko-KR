@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: 2017의 Office 365 ProPlus에 대 한 월별 채널 릴리스에 대 한 릴리스 정보를 IT 전문가에 게 제공 합니다.
-ms.openlocfilehash: f889d383aa44fb6cc735b130d27f8ecc92aa51ca
-ms.sourcegitcommit: 5a70fb551b56a39dfd597b5ff2b73d74e5054d15
+ms.openlocfilehash: 7c3523a10f3fe5db8f38e792e0061b0eed2745bf
+ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37375824"
+ms.lasthandoff: 01/30/2020
+ms.locfileid: "41629255"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2017"></a>2017의 월별 채널 릴리스에 대 한 릴리스 정보
 
@@ -72,7 +72,7 @@ ms.locfileid: "37375824"
 -   **사이트와 그룹에 대한 빠른 액세스:** 파일 메뉴를 사용하여 자주 사용하는 사이트와 그룹에 저장된 문서를 사용할 수 있습니다.
 
 ### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
--   Office 365 클라이언트 업데이트가 System Center Configuration Manager에 의해 관리되도록 Office COM 개체가 사용 가능하게 업데이트될 때 지금 업데이트 옵션이 파일 \> 계정 \> 업데이트 옵션에서 숨겨집니다.
+-   Office COM 개체를 사용 하도록 설정 하 \> 여 \> office 365 클라이언트 업데이트를 Configuration Manager에서 관리 하도록 하는 경우 지금 업데이트 옵션은 파일 계정 업데이트 옵션에서 숨겨집니다.
 
 
 ## <a name="version-1710-november-27"></a>버전 1710:11 월 27 일
