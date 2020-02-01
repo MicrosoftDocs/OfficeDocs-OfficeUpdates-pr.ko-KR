@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 반기 채널(대상 지정) 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 8521872143f0330dd8ff7fd4092556503501b4a1
-ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
+ms.openlocfilehash: 2384ed54f8e18e89981cdd875d46bfd9ba7e95a5
+ms.sourcegitcommit: b27bfae6a18d6adc6e1498d019ff0064ee2308b6
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39961975"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41576574"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019년 반기 채널(대상 지정) 릴리스에 대한 릴리스 정보
 
@@ -27,7 +27,7 @@ ms.locfileid: "39961975"
 ## <a name="version-1908-december-10"></a>버전 1908: 12월 10일
 *버전 1908 (빌드 11929.20516)*
 
-나열된 보안 업데이트는 [여기](https://docs.microsoft.com/ko-KR/officeupdates/office365-proplus-security-updates)
+나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
@@ -365,7 +365,7 @@ ms.locfileid: "39961975"
 
 - **Office 아이콘이 새롭게 단장했습니다.** 간단하고 강력하며 지능적인 Office 환경을 반영하여 Office 아이콘이 다시 디자인되었습니다.
 
-- **Microsoft Teams 설치:** Office 365 ProPlus를 새로 설치하면 Microsoft Teams가 기본적으로 설치됩니다. [자세한 정보](https://docs.microsoft.com/DeployOffice/teams-install)
+- **Microsoft Teams 설치:** Microsoft Teams는 기본적으로 Office 365 ProPlus 기존 설치에 설치됩니다. [자세한 정보](https://docs.microsoft.com/DeployOffice/teams-install)
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -695,7 +695,7 @@ ms.locfileid: "39961975"
 ### <a name="office-suite-feature-updates"></a>Office 제품군: 기능 업데이트
 
 - **이제 Office 타사 응용 프로그램에서 office.js API를 사용하는 SVG 삽입 지원:** Office에서 추가 기능으로도 알려져 있는 타사 응용 프로그램에 SVG 삽입 기능이 제공되므로 SVG 개인 컬렉션을 Office에 연결할 수 있습니다. 개발자들은 Office.js API를 통해 이 기능을 사용할 수 있습니다.
-- **Microsoft Teams 설치:**  Office 365 ProPlus를 새로 설치하면 Microsoft Teams가 기본적으로 설치됩니다. [자세한 정보](https://docs.microsoft.com/DeployOffice/teams-install)
+- **Microsoft Teams 설치:** Microsoft Teams는 기본적으로 Office 365 ProPlus 기존 설치에 설치됩니다. [자세한 정보](https://docs.microsoft.com/DeployOffice/teams-install)
 
 ### <a name="skype-for-business-feature-updates"></a>비즈니스용 Skype: 기능 업데이트
 
