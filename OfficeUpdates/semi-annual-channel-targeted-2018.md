@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2018년 Office 365 ProPlus에 대한 반기 채널(대상 지정) 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: ef2d238cd2219c9a72857f813528ef6806d53049
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: 827436fccc1ba336e216d3d2b18d48a4b7168a12
+ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32439103"
+ms.lasthandoff: 01/30/2020
+ms.locfileid: "41629305"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>2018년 반기 채널(대상 지정) 릴리스에 대한 릴리스 정보
 
@@ -299,7 +299,7 @@ ms.locfileid: "32439103"
 -   [CVE-2018-0950](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0950): Microsoft Office 정보 노출 취약성
 -   [CVE-2018-1026](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-1026): Microsoft Office 원격 코드 실행 취약성
 -   [CVE-2018-1030](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-1030): Microsoft Office 원격 코드 실행 취약성
--   **보안상의 이유로 Office에서 Flash, Silverlight 및 Shockwave 컨트롤이 활성화되지 않도록 차단:** 보안상의 이유로 Windows의 Office 365용 Microsoft Office의 새 빌드는 Flash, Silverlight 및 Shockwave 컨트롤의 활성화를 차단합니다. [여기](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729) 및 [여기](https://support.office.com/ko-KR/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US)에서 자세히 알아보세요.
+-   **보안상의 이유로 Office에서 Flash, Silverlight 및 Shockwave 컨트롤이 활성화되지 않도록 차단:** 보안상의 이유로 Windows의 Office 365용 Microsoft Office의 새 빌드는 Flash, Silverlight 및 Shockwave 컨트롤의 활성화를 차단합니다. [여기](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729) 및 [여기](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US)에서 자세히 알아보세요.
 
 ### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
 -  특정 시나리오에서 업데이트 설치 시간이 오래 걸리는 문제를 해결했습니다.
@@ -350,7 +350,7 @@ ms.locfileid: "32439103"
 ### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
 -   특정 시나리오에서 업데이트 설치 시간이 오래 걸리는 버그를 수정합니다. 
 -   SVG 테스트가 실패하는 문제를 해결합니다.
--   System Center Configuration Manager를 사용하여 Office 응용 프로그램을 실행하는 클라이언트에 업데이트를 배포할 때 Office 응용 프로그램이 실행되는 동안 장치를 다시 시작한 후에 업데이트가 적용되지 않는 문제를 해결합니다.
+-   Configuration Manager를 사용하여 Office 응용 프로그램을 실행하는 클라이언트에 업데이트를 배포할 때 Office 응용 프로그램이 실행되는 동안 장치를 다시 시작한 후에 업데이트가 적용되지 않는 문제를 해결합니다.
 
 
 ## <a name="version-1803-june-12"></a>버전 1803: 6월 12일
@@ -375,7 +375,7 @@ ms.locfileid: "32439103"
 -   시간 표시 막대 보기의 시간 표시 막대에 기존 작업 추가 대화 상자에서 첫 번째 요약 작업의 작업만 표시되는 문제를 해결합니다.
 
 ### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
--   System Center Configuration Manager를 사용하여 Office 응용 프로그램을 실행하는 클라이언트에 업데이트를 배포할 때 Office 응용 프로그램이 실행되는 동안 장치를 다시 시작한 후에 업데이트가 적용되지 않는 문제를 해결합니다.
+-   Configuration Manager를 사용하여 Office 응용 프로그램을 실행하는 클라이언트에 업데이트를 배포할 때 Office 응용 프로그램이 실행되는 동안 장치를 다시 시작한 후에 업데이트가 적용되지 않는 문제를 해결합니다.
 
 
 
@@ -714,7 +714,7 @@ ms.locfileid: "32439103"
 
 ### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
 -   응용 프로그램을 열 때 안전 모드에서 시작된다는 메시지가 표시된 후 응용 프로그램이 열리지 않는 문제를 해결합니다.
--   Office 365 클라이언트 업데이트가 System Center Configuration Manager에 의해 관리되도록 Office COM 개체가 사용 가능하게 업데이트될 때 지금 업데이트 옵션이 파일 \> 계정 \> 업데이트 옵션에서 숨겨집니다.
+-   Office 365 클라이언트 업데이트가 Configuration Manager에 의해 관리되도록 Office COM 개체가 사용 가능하게 업데이트될 때 지금 업데이트 옵션이 파일 \> 계정 \> 업데이트 옵션에서 숨겨집니다.
 -   사용자가 Office 정품 인증 대화 상자를 사용하여 Office의 정품을 인증하려고 시도하면 Office 앱이 중지하는 문제를 수정합니다.
 -   동적 DPI 환경의 Office 추가 기능에서 확대/축소 및 배율 조정 시 발생하는 문제를 해결합니다.
 -   Office 365 ProPlus가 현재 설치되어 있더라도 Office CSP(구성 서비스 공급자)의 CurrentStatus 노드가 빈 문자열을 반환하는 문제를 해결합니다.
