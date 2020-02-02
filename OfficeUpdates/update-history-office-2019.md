@@ -3,19 +3,19 @@ title: Office 2016 C2R 및 Office 2019의 업데이트 기록
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 1/23/2020
+ms.date: 1/31/2020
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: C2R(간편 실행)을 사용하는 Office 2016 및 2019 영구 버전에 대한 업데이트 기록을 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 5b0dad68a65a5fce15e6fa363de8b20ac31e4bea
-ms.sourcegitcommit: d1eb4fe4ab2606a94e786011de3f77635ee3b987
+ms.openlocfilehash: 03b593cc62807efef4f4c902d32ba7dec2aadf89
+ms.sourcegitcommit: 5534ba17ff0437b4dc25213f364c714397911e6a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/24/2020
-ms.locfileid: "41519157"
+ms.lasthandoff: 02/01/2020
+ms.locfileid: "41650776"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Office 2016 C2R 및 Office 2019의 업데이트 기록
 
@@ -58,6 +58,7 @@ Microsoft는 Office 2016 C2R(간편 실행) 버전과 Office 2019의 보안 및 
 
 |**릴리스 날짜**|**버전 번호**|**추가 정보**|
 |:-----|:-----|:-----|
+|2020년 1월 30일   |버전 2001 (빌드 12430.20184)  |다양한 버그 및 성능 수정 사항. <br/>  |
 |2020년 1월 22일   |버전 1912 (빌드 12325.20344)  |다양한 버그 및 성능 수정 사항. <br/>  |
 |2020년 1월 14일   |버전 1912(빌드 12325.20298)  |[CVE-2020-0650](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0650) <br/> [CVE-2020-0651](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0651) <br/> [CVE-2020-0652](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0652) <br/>  |
 |2020년 1월 8일   |버전 1912(빌드 12325.20288)  |다양한 버그 및 성능 수정 사항. <br/>  |

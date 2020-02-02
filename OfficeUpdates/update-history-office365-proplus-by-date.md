@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 릴리스 정보에 대한 링크를 포함하여 Office 365 ProPlus 릴리스의 전체 목록을 날짜별로 구성해서 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 76dbb5c9889b231476f0f1c123109869e4412cf0
-ms.sourcegitcommit: e836e4fa968630fbe51b48d8319a1bfa5a441345
+ms.openlocfilehash: a94cdd19bdfa085381ff053749a506aafc91eac5
+ms.sourcegitcommit: 5534ba17ff0437b4dc25213f364c714397911e6a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/23/2020
-ms.locfileid: "41475235"
+ms.lasthandoff: 02/01/2020
+ms.locfileid: "41650826"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 ProPlus에 대한 업데이트 기록(날짜순)
 
@@ -47,6 +47,7 @@ Office 365 ProPlus는 새로운 기능, 보안 업데이트 및 비보안 업데
 
 |**년도**|**릴리스 날짜**|**월별 채널**|**반기별 채널(지정됨)**|**반기 채널**|
 |:-----|:-----|:-----|:-----|:-----|
+|2020|1월 30일|[버전 2001 (빌드 12430.20184)](monthly-channel-2020.md#version-2001-january-30)| | |
 |2020|1월 22일|[버전 1912(빌드 12325.20344)](monthly-channel-2020.md#version-1912-january-22)| | |
 |2020|1월 14일|[버전 1912 (빌드 12325.20298)](monthly-channel-2020.md#version-1912-january-14) |[버전 1908 (빌드 11929.20562)](semi-annual-channel-targeted-2020.md#version-1908-january-14)|[버전 1908 (빌드 11929.20562)](semi-annual-channel-2020.md#version-1908-january-14)<br/>[버전 1902 (빌드 11328.20512)](semi-annual-channel-2020.md#version-1902-january-14)<br/>[버전 1808 (빌드 10730.20432)](semi-annual-channel-2020.md#version-1808-january-14)|
 |2020|1월 8일|[버전 1912(빌드 12325.20288)](monthly-channel-2020.md#version-1912-january-8)| | |
