@@ -3,19 +3,19 @@ title: Windows Installer(MSI)를 사용하는 Office 버전에 대한 최신 비
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 1/08/2020
+ms.date: 2/05/2020
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Office 2016, Office 2013 및 Office 2010 영구 버전의 최신 비보안 업데이트 정보에 대한 링크를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 5bbc11ef2d5c2612fb8f76929522b36a6d1aad39
-ms.sourcegitcommit: 1cf47498ccc05d5933fd27dcf89b786157b419a2
+ms.openlocfilehash: a52a84cbd9a068bad61492730bf870798833f1b3
+ms.sourcegitcommit: fd8217398475375ef1a403f9aac2bb615447eb74
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/07/2020
-ms.locfileid: "40961655"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41721819"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Windows Installer(MSI)를 사용하는 Office 버전에 대한 최신 비보안 업데이트
 
@@ -26,6 +26,12 @@ ms.locfileid: "40961655"
 > - 이 문서의 정보는 Office 365 ProPlus와 같은 Office 365 버전의 Office에는 적용되지 않습니다.
 > - Office 업데이트 설치에 대한 자세한 내용은 [Office 업데이트 설치](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)를 참조하세요.
 <br/><br/>
+
+## <a name="february-4-2020"></a>2020년 2월 4일
+
+**Office 2016**<br/>
+Microsoft Project 2016에 대한 업데이트 ([KB4484253](https://support.microsoft.com/help/4484253)) <br/>
+Microsoft Word 2016에 대한 업데이트([KB4484249](https://support.microsoft.com/help/4484249)) <br/>
 
 ## <a name="january-7-2020"></a>2020년 1월 7일
 
