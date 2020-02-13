@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 89ce9133b52a016c05b5ab4282f8820ce1e538cf
-ms.sourcegitcommit: 65dfebaad3ea5e0ccdf3cf29f8bca8c24a886e05
+ms.openlocfilehash: 8ffbc6900746ae11caf5b6e7d39a15b0d87a4a20
+ms.sourcegitcommit: e9b03ec15c386e14680ed6c6693483bd24b224c4
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41711306"
+ms.lasthandoff: 02/11/2020
+ms.locfileid: "41931964"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 참가자에 대한 릴리스 정보
 
@@ -26,6 +26,65 @@ ms.locfileid: "41711306"
 > - Office 365 ProPlus의 기존 설치에 대한 Microsoft Teams - 6월 말부터 Microsoft Teams가 Office 365 ProPlus(및 Office 365 Business)의 기존 설치에 업데이트 설치 시 포함됩니다. Teams가 추가되는 날짜는 사용 중인 업데이트 채널에 따라 다릅니다. 추가 정보는 [Office 365 ProPlus와 함께 Microsoft Teams 배포](https://docs.microsoft.com/deployoffice/teams-install)를 참조하세요.
 
 [//]: # (제거하지 마세요)
+
+## <a name="version-2002-february-07"></a>버전 2002: 2월 7일
+*버전 2002 (빌드 12527.20040)*
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="access"></a>Access
+
+- **Query Designer, SQL 보기 및 관계 창에서 생산성을 향상시킬 수 있습니다.** 테이블을 마우스 오른쪽 단추로 클릭하여 열고 디자인하고 크기를 조정하고 숨겨보세요. SQL 보기에서 텍스트를 검색하고 바꾸세요. 관계 창에서 테이블을 여러 개 선택하세요.
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="access"></a>Access
+
+- 이 업데이트는 ADODB 사용시 발생하는 문제를 해결합니다. VB 코드의 레코더 개체에서 오류가 잘못 보고될 수 있습니다.
+
+- 이 업데이트는 Microsoft Access에서 연결된 SQL Server 테이블의 ID 열이 식별되지 않아서 행이 올바르지 않게 삭제된 것으로 보고되는 문제를 해결합니다.
+
+### <a name="excel"></a>Excel
+
+- 동적 배열에서 Text To Columns를 사용할 때 Excel이 중단되는 문제를 수정했습니다.
+
+### <a name="outlook"></a>Outlook
+
+- 월 보기를 사용하여 일정을 스크롤할 때 이전 일정 이벤트가 표시되지 않는 문제가 해결되었습니다.
+
+- Citrix 환경에서 30개 이상의 캘린더를 볼 때 사용자에게 충돌이 발생하는 문제를 해결합니다.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 이벤트 처리기가 실행 중인 경우, 파일을 닫은 후 PowerPoint에서 프레젠테이션 모음의 해당 파일을 즉시 제거하지 않는 문제가 해결되었습니다. 따라서 개체 모델에서 보고한 열려 있는 프레젠테이션 수가 올바르지 않아 PowerPoint가 종료되지 않습니다.
+
+- 형광펜 관련 문제를 해결했습니다. 어두운 형광펜 색상의 텍스트는 흑백 모드에서 검은 색으로 인쇄됩니다.
+
+### <a name="word"></a>Word
+
+- 목차를 업데이트하고 스크롤하면 때때로 문서 위에 회색 영역이 표시될 수 있습니다.
+
+- 문서를 공동 작성하는 경우 루트 메모의 초안 버전이 유지되지 않는 문제가 해결되었습니다.
+
+- 메모 카드 간에 앞뒤로 이동할 때 때때로 선택 강조 표시로 처음 선택한 메모가 표시되는 문제가 해결되었습니다.
+
+- 메모가 작성되었지만 게시되지 않고 사용자가 파일을 저장하려고 하는 경우 '찾아보기'를 사용하여 파일을 저장하지 못하는 문제를 해결했습니다.
+
+- SlideTrack을 활성화하고 메모 창을 닫으면 Ctrl+Alt+M을 눌러 메모 창을 열지 못할 수 있습니다.
+
+- 테이블에 @mention을 추가할 때 '이 문서의 테이블이 손상되었습니다'라는 오류 메시지가 생성될 수 있는 문제가 해결되었습니다.
+
+### <a name="office-suite"></a>Office 제품군
+
+- 노르웨이 니노르스크(nn-no) 교정 도구 패키지가 잘못 설치될 수 있는 문제를 해결합니다.
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2002-january-31"></a>버전 2002: 1월 31일
 *버전 2002(빌드 12513.20010)*
