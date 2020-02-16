@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 각 업데이트 채널에 대한 Office 365 ProPlus 업데이트의 대략적인 다운로드 크기 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: d35878ad780bad5659b9e12d6b5efe6b921cab44
-ms.sourcegitcommit: 8175a89ddb651d8118d1c0a4823622dd1d05cb57
+ms.openlocfilehash: ce7902418228e610097f76cc676870d132afa30c
+ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/06/2020
-ms.locfileid: "41830772"
+ms.lasthandoff: 02/14/2020
+ms.locfileid: "41978616"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 ProPlus 업데이트의 다운로드 크기
 
@@ -30,29 +30,45 @@ Microsoft의 목표는 기업 고객이 네트워크 대역폭 사용률을 계�
 
 [//]: # (제거하지 마세요)
 
-## <a name="february-6-2020"></a>2020년 2월 6일
+## <a name="february-11-2020"></a>2020년 2월 11일
 
-[//]: # (예상 항목을 제거하지 마세요. 시작)
+[//]: # (콘텐츠를 제거하지 마세요. 시작 2020년 2월 11일)
+
+### <a name="monthly-channel"></a>월별 채널
+
+가장 최근 릴리스는 버전 2001 (빌드 12430.20264)입니다.
+
+|**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
+|:-----|:-----|:-----|
+|버전 2001 (빌드 12430.20184) <br/> |2020년 1월 30일 <br/> |54<br/> |
+|버전 1912 (빌드 12325.20344) <br/> |2020년 1월 22일 <br/> |137<br/> |
+
+
 
 ### <a name="semi-annual-channel"></a>반기 채널
 
-<i>예상된 릴리스는 버전 1908(11929.20592)입니다.</i>
+가장 최근 릴리스는 버전 1908 (빌드 11929.20606)입니다.
 
 |**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
 |:-----|:-----|:-----|
 |버전 1908(빌드 11929.20562) <br/> |2020년 1월 14일 <br/> |65<br/> |
 |버전 1902(빌드 11328.20492) <br/> |2019년 12월 10일 <br/> |339<br/> |
 
+
 ### <a name="semi-annual-targeted-channel"></a>반기 (대상 지정) 채널
 
-<i>예상된 릴리스는 버전 1908(11929.20606)입니다.</i>
+가장 최근 릴리스는 버전 1908 (빌드 11929.20606)입니다.
 
 |**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
 |:-----|:-----|:-----|
 |버전 1908(빌드 11929.20562) <br/> |2020년 1월 14일 <br/> |65<br/> |
 |버전 1908(빌드 11929.20516) <br/> |2019년 12월 10일 <br/> |68<br/> |
 
-[//]: # (예상 항목을 제거하지 마세요. 종료)
+
+[//]: # (컨텐츠를 제거하지 마세요. 종료 2020년 2월 11일)
+
+
+
 
 ## <a name="january-30-2020"></a>2020년 1월 30일
 

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Office 365 ProPlus에 대한 반기 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 78d8cf069bd7e5a3dca76ca8a28262a278433237
-ms.sourcegitcommit: b27bfae6a18d6adc6e1498d019ff0064ee2308b6
+ms.openlocfilehash: 974a5db6f3bfba2bb20cd75f4e35a2777ea94ca8
+ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41576591"
+ms.lasthandoff: 02/14/2020
+ms.locfileid: "41978586"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>2020년 반기 채널 릴리스에 대한 릴리스 정보
 
@@ -25,6 +25,103 @@ ms.locfileid: "41576591"
 >- Microsoft는 일정 기간 동안 반기 채널 기능(및 경우에 따라 수정 사항)을 롤아웃합니다. 아래에서 설명했던 내용이 바로 보이지 않으면 곧 예측할 수 있습니다. [자세한 정보](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 >- 반기 채널 사용자가 Office 포털에서 Windows 10용 Office 365를 다운로드 및 설치하면 기본적으로 OneNote 2016이 포함되지 않습니다.
 
+
+## <a name="version-1908-february-11"></a>버전 1908: 2월 11일
+*버전 1908 (빌드 11929.20606)*
+
+[여기](https://docs.microsoft.com/ko-KR/officeupdates/office365-proplus-security-updates) 나열된 보안 업데이트
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- 이 업데이트는 VBA를 사용하여 차트의 머리글/바닥글에 이미지를 추가할 때마다 오류가 발생하는 문제를 해결합니다.
+
+- 인쇄 미리보기 또는 인쇄시 그룹 상자 컨트롤의 테두리가 보이지 않던 문제를 수정했습니다.
+
+- 사용자가 영문이 아닌 일부 문자의 집합을 사용 시 변경 내용을 저장할 때 오류가 발생할 수 있습니다.
+
+- 차트가 포함된 통합 문서를 저장할 때 차트 머리글의 이미지 파일 크기가 커지는 문제가 해결되었습니다.
+
+
+- 선택 범위를 상호 참조 도서와 동기화하여 상호 참조 도서에서 DBCS 문자가 손상되는 문제를 수정했습니다.
+
+- 자동 맞춤을 사용하여 행 높이를 조정할 때 확인란 컨트롤이 축소될 수있는 문제를 해결했습니다.
+
+
+### <a name="outlook"></a>Outlook
+
+- 잘못된 보낸 사람 주소를 지정할 때 사용자에게 충돌이 발생하는 문제를 해결했습니다.
+
+- 충돌 메시지를 처리할 때 사용자에게 동기화 오류가 발생하는 문제를 해결했습니다.
+
+- Outlook을 시작할 때 사용자가 프로필을 로딩할 때 화면이 중단되는 문제를 해결했습니다.
+
+- 보기를 변경할 때 사용자에게 간헐적인 충돌이 발생하는 문제를 해결했습니다.
+
+
+- Citrix 환경에서 30개 이상의 캘린더를 볼 때 사용자에게 충돌이 발생하는 문제를 해결했습니다. [여기](https://support.microsoft.com/ko-KR/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen)에는 이전 버전에 대해 문서화된 개별 KB가 있습니다.
+
+- 사용자가 공유 일정 폴더를 OST와 동기화하는 데 문제가있어 이러한 폴더와 상호 작용할 때 권한 오류가 발생하는 문제를 해결합니다.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 복사-붙여넣기 시나리오 개선 파워포인트 슬라이드에서 셰이프를 복사하고 루프의 다른 슬라이드에 붙여넣기 작업은 예외적으로 실패할 수 있습니다.
+
+
+- 공동 작업 사용자 간에 성능이 저하되는 문제를 해결했습니다.
+
+- 점진적으로 열린 파일에 둘 이상의 포함된 미디어 스트림이있는 슬라이드가 포함되어 있을 때 발생할 수있는 문제를 수정했습니다.
+
+- PowerPoint를 처음 시작할 때 신뢰할 수 없는 추가 기능에 대해 보안 경고 메시지 표시줄이 나타나지 않는 문제가 수정되었습니다.
+
+### <a name="project"></a>프로젝트
+
+- 기본 일정이 변경될 때 리소스 일정이 업데이트되지 않아 작업 표와 프로젝트 계획 간에 실제 작업이 다를 수 있는 문제가 해결되었습니다.
+
+### <a name="word"></a>Word
+
+- 더 이상 사용되지 않는 API에서 이동하여 Word의 충돌 문제가 해결되었습니다.
+
+### <a name="office-suite"></a>Office 제품군
+
+- 이 변경은 손상된 파일을 연 후 이미지를 올바르게 렌더링하는 문제를 해결합니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-1902-february-11"></a>버전 1902: 2월 11일
+*버전 1902 (빌드 11328.20526)*
+
+[여기](https://docs.microsoft.com/ko-KR/officeupdates/office365-proplus-security-updates) 나열된 보안 업데이트
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="outlook"></a>Outlook
+
+- 암호화된 전자 메일을 보낼 때 사용자에게 "암호화 알고리즘이 지원되지 않습니다." 오류가 표시되는 문제를 해결합니다.
+
+
+### <a name="word"></a>Word
+
+- 더 이상 사용되지 않는 API에서 이동하여 Word의 충돌 문제가 해결되었습니다.
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+## <a name="version-1808-february-11"></a>버전 1808: 2월 11일
+*버전 1808 (빌드 10730.20438)*
+
+[여기](https://docs.microsoft.com/ko-KR/officeupdates/office365-proplus-security-updates) 나열된 보안 업데이트
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-1908-january-14"></a>버전 1908: 1월 14일
 *버전 1908(빌드 11929.20562)*
@@ -148,7 +245,7 @@ ms.locfileid: "41576591"
 
 - **Office 아이콘이 새롭게 단장했습니다.** 간단하고 강력하며 지능적인 Office 환경을 반영하여 Office 아이콘이 다시 디자인되었습니다.
 
-- **Microsoft Teams 설치:** 기존 Office 365 ProPlus에 Microsoft Teams가 기본적으로 설치됩니다. [자세한 정보](https://docs.microsoft.com/DeployOffice/teams-install)
+- **Microsoft Teams 설치:** Microsoft Teams는 기본적으로 Office 365 ProPlus 기존 설치에 설치됩니다. [자세한 정보](https://docs.microsoft.com/DeployOffice/teams-install)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 

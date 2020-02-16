@@ -3,19 +3,18 @@ title: MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 1/15/2020
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT 전문가에게 MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록을 제공합니다.
-ms.openlocfilehash: 9d81237da3cb66bbfe2242e270ca416e709ec30e
-ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
+ms.openlocfilehash: ea4c4a71c501be72e744e53b9ac3681a9ef9e5bc
+ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "41122287"
+ms.lasthandoff: 02/14/2020
+ms.locfileid: "41978726"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록
  
@@ -30,6 +29,26 @@ ms.locfileid: "41122287"
 > - Microsoft 자동 업데이트는 Microsoft의 다양한 Mac 제품에 대한 업데이트를 제공합니다. 따라서 Mac용 Office를 실행하고 있지 않더라도 Microsoft 자동 업데이트를 업데이트하라는 알림을 받을 수 있습니다.
 
 릴리스 정보를 확인하려면 [릴리스 정보](release-notes-office-for-mac.md)를 참고하세요.<br/><br/>
+
+## <a name="february-2020-release"></a>2020년 2월 릴리스
+
+**릴리스 날짜:** 2020년 2월 11일
+
+*Microsoft 자동 업데이트 4.20*
+
+ **기능 업데이트:**
+
+- 장치에서 하나 이상의 앱이 MAU에 등록된 경우에만 Microsoft 자동 업데이트 UI가 시작됩니다.
+- 버그 수정 및 개선 사항
+
+
+**MAU 업데이트 링크:**
+
+[Microsoft 자동 업데이트 4.20 패키지 다운로드](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 해시:**
+
+397EAABFC230E801C571917BEED548A988C716F121077ED43669FF012FE9D7CE<br/><br/>
 
 ## <a name="january-2020-release"></a>2020년 1월 릴리스
 
