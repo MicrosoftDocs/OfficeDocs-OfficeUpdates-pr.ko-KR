@@ -3,7 +3,6 @@ title: Project Server 업데이트
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 1/15/2020
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: project-server-itpro
@@ -13,12 +12,12 @@ ms.collection:
 - IT_ProjectAdmin_Top
 - RelNotes_Server
 description: 한 곳에서 Project Server 2013 및 Project Server 2010용 업데이트를 찾아서 관리합니다. 이 페이지의 링크를 사용하여 업데이트에 대해 자세히 알아보고 업데이트를 다운로드할 수 있습니다.
-ms.openlocfilehash: 61d23f221d8149c213c79fc42b118246dd75d01a
-ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
+ms.openlocfilehash: bc7e9ee67c7f27204fd3e44d47c18a14449c2f97
+ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "41122257"
+ms.lasthandoff: 02/14/2020
+ms.locfileid: "41978646"
 ---
 # <a name="project-server-updates"></a>Project Server 업데이트
 
@@ -30,6 +29,7 @@ ms.locfileid: "41122257"
   
 |**릴리스 날짜**|**KB 번호**|
 |:-----|:-----|:-----|
+|2020년 2월  <br/> |[KB4484262](https://support.microsoft.com/kb/4484262) <br/>|
 |2020년 1월  <br/> |[KB4484230](https://support.microsoft.com/kb/4484230) <br/>|
 |2019년 12월  <br/> |[KB4484187](https://support.microsoft.com/kb/4484187) <br/>|
 |2019년 11월  <br/> |[KB4484154](https://support.microsoft.com/kb/4484154) <br/>|
