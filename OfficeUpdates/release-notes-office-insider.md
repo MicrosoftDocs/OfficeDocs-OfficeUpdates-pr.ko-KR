@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 8ffbc6900746ae11caf5b6e7d39a15b0d87a4a20
-ms.sourcegitcommit: e9b03ec15c386e14680ed6c6693483bd24b224c4
+ms.openlocfilehash: f403048ef51f48be9f4939e46e10324f110b3c80
+ms.sourcegitcommit: 38f19728803d3e3a20b16932a92cbb400dcdfb29
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/11/2020
-ms.locfileid: "41931964"
+ms.lasthandoff: 02/19/2020
+ms.locfileid: "42155447"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 참가자에 대한 릴리스 정보
 
@@ -26,6 +26,51 @@ ms.locfileid: "41931964"
 > - Office 365 ProPlus의 기존 설치에 대한 Microsoft Teams - 6월 말부터 Microsoft Teams가 Office 365 ProPlus(및 Office 365 Business)의 기존 설치에 업데이트 설치 시 포함됩니다. Teams가 추가되는 날짜는 사용 중인 업데이트 채널에 따라 다릅니다. 추가 정보는 [Office 365 ProPlus와 함께 Microsoft Teams 배포](https://docs.microsoft.com/deployoffice/teams-install)를 참조하세요.
 
 [//]: # (제거하지 마세요)
+
+## <a name="version-2003-february-14"></a>버전 2003: 2월 14일
+*버전 2003 (빌드 12607.20000)*
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="outlook"></a>Outlook
+
+- **종속적인 Wi-Fi 네트워크에 대한 새로운 경험: ** 로그인하기 위해 웹 페이지가 필요한 Wi-Fi 네트워크에 가입한 적이 있습니까? 이제 Outlook이 이를 감지하여 연결하는 데 도움을 줍니다.
+
+### <a name="word"></a>Word
+
+- **그리기 도구 상자에서 잉크 편집기 찾기: ** 그리기를 선택한 다음 잉크 편집기 펜을 선택하여 손가락이나 디지털 펜으로 문서를 편집하십시오. [자세한 정보](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
+
+### <a name="office-suite"></a>Office 제품군
+
+- **더 명확한 상태 표시줄 아이콘:** 상태 표시줄 아이콘을 쉽게 볼 수 있습니다.
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="outlook"></a>Outlook
+
+- 사용자가 "약속 있음/없음 옵션" 일정 권한 대화 상자에 액세스하지 못하는 문제를 해결했습니다.
+
+- 다른 시간대에서 보낸 되풀이 모임 인스턴스를 열 때 "죄송합니다. 이 항목을 여는 데 문제가 있습니다"라는 경고가 표시되는 문제를 수정했습니다.
+
+- 해당 메시지에서 첨부 파일을 끌어서 놓은 후 사용자가 .msg 파일을 다시 열 수 없는 문제를 해결했습니다.
+
+- 첨부 파일 이름에 괄호가 포함된 경우 Outlook에서 OneDrive로 파일 첨부 파일을 업로드한 후 파일 이름이 변경될 수 있는 문제가 수정되었습니다.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Excel 차트가 포함된 PowerPoint 또는 Word에서 문서를 저장하지 못하는 문제를 수정했습니다.
+
+### <a name="word"></a>Word
+
+- PDF로 내보낼 때 문서의 그림이 투명성을 잃는 문제가 수정되었습니다.
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2002-february-07"></a>버전 2002: 2월 7일
 *버전 2002 (빌드 12527.20040)*
