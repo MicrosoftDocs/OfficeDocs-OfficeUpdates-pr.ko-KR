@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 35d4a8383dcfcb81a872901337cb5f36ed6166e6
-ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
+ms.openlocfilehash: f7255ceead96026615d4e8a8c56826ebf53c41b3
+ms.sourcegitcommit: 220736aa7c6bf7466beba7f3291f068546c3c77e
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/14/2020
-ms.locfileid: "41978606"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "42228367"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>2020년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -24,6 +24,10 @@ ms.locfileid: "41978606"
 >
 >- Microsoft는 일정 기간 동안 매월 기능(및 경우에 따라 수정 사항)을 롤아웃합니다.  아래에서 설명했던 내용이 바로 보이지 않으면 곧 예측할 수 있습니다. [자세한 정보](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 >- Office 365 ProPlus의 기존 설치에 대한 Microsoft Temas - 7월 초부터 Office 365 ProPlus(및 Office 365 Business)의 업데이트에 Microsoft Teams가 포함됩니다.  Teams가 추가되는 날짜는 사용 중인 업데이트 채널에 따라 다릅니다. 추가 정보는 [Office 365 ProPlus와 함께 Microsoft Teams 배포](https://docs.microsoft.com/deployoffice/teams-install)를 참조하세요.
+
+## <a name="version-2001-february-19"></a>버전 2001: 2월 19일
+*버전 2001 (빌드 12430.20288)*
+* 다양한 버그 및 성능 수정 사항.
 
 ## <a name="version-2001-february-11"></a>버전 2001: 2월 11일
 *버전 2001 (빌드 12430.20264)*

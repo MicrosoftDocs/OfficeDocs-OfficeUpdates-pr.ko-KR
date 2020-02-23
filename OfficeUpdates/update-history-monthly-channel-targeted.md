@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 월간 채널 업데이트 내역 제공 Windows 데스크톱의 대상 릴리스
-ms.openlocfilehash: 09f89fca4aa4dcbba075771c1fc4034f488a8a09
-ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
+ms.openlocfilehash: 47fa4d07049434dde545f768b7e178552673e453
+ms.sourcegitcommit: 220736aa7c6bf7466beba7f3291f068546c3c77e
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/14/2020
-ms.locfileid: "41978766"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "42228427"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Windows용 월간(대상) 채널의 업데이트 내역
 
@@ -30,6 +30,12 @@ ms.locfileid: "41978766"
 > - Office 365 ProPlus의 기존 설치에 대한 Microsoft Teams - 6월 말부터 Microsoft Teams가 Office 365 ProPlus(및 Office 365 Business)의 기존 설치에 업데이트 설치 시 포함됩니다. Teams가 추가되는 날짜는 사용 중인 업데이트 채널에 따라 다릅니다. 추가 정보는 [Office 365 ProPlus와 함께 Microsoft Teams 배포](https://docs.microsoft.com/deployoffice/teams-install)를 참조하세요.
 
 [//]: # (제거하지 마세요)
+
+**2020년 2월 21일**<br/>
+버전 2002(빌드 12527.20174)<br/>
+
+**2020년 2월 18일**<br/>
+버전 2002(빌드 12527.20138)<br/>
 
 **2020년 2월 11일**<br/>
 버전 2002 (빌드 12527.20092)<br/>
