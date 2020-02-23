@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 이후 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 37292929bc5d1301d662a8ced97c7cabc6d273de
-ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
+ms.openlocfilehash: 34ca75e8083c2386a7b779975b01579fda80d11b
+ms.sourcegitcommit: 220736aa7c6bf7466beba7f3291f068546c3c77e
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/14/2020
-ms.locfileid: "41978706"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "42228381"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 릴리스 정보 월 단위 채널(대상 지정)
 
@@ -30,10 +30,61 @@ ms.locfileid: "41978706"
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
+## <a name="version-2002-february-21"></a>버전 2002: 2월 21일
+*버전 2002(빌드 12527.20174)*
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="access"></a>Access
+
+- **Query Designer, SQL 보기 및 관계 창에서 생산성을 향상시킬 수 있습니다.** 테이블을 마우스 오른쪽 단추로 클릭하여 열고 디자인하고 크기를 조정하고 숨겨보세요. SQL 보기에서 텍스트를 검색하고 바꾸세요. 관계 창에서 테이블을 여러 개 선택하세요.
+
+### <a name="outlook"></a>Outlook
+
+- **종속적인 Wi-Fi 네트워크에 대한 새로운 경험: ** 로그인하기 위해 웹 페이지가 필요한 Wi-Fi 네트워크에 가입한 적이 있습니까? 이제 Outlook이 이를 감지하여 연결하는 데 도움을 줍니다.
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- <div style="box-sizing:border-box;">CUBEVALUE 함수가 때때로 잘못된 결과를 반환하는 문제가 해결되었습니다.&nbsp;</div><div><span style="display:inline !important;"></span><br></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div>모임 위치 필드의 쉼표가 세미콜론으로 바뀌는 문제를 해결합니다.</div>
+
+
+- <div>여러 창에서 동일한 항목을 볼 때 충돌이 발생할 수 있는 문제를 해결합니다.</div>
+
+
+- <div>동기화 슬라이더가 더 작은 설정으로 설정되어 있어도 Outlook이 예기치 않게 모든 메일을 동기화시키는 문제를 해결했습니다. &nbsp;</div>
+
+
+- <div>검은색 테마를 사용한 사용자에게 &quot;보낸 사람&quot; 드롭다운에 흰색 배경에 흰색 텍스트가 표시되는 문제를 해결합니다.</div>
+
+
+- <div><span style="display:inline !important;">이 변경으로 메시지 헤더에서 여러 줄 제목을 볼 수 있습니다.</span><br></div>
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2002-february-18"></a>버전 2002: 2월 18일
+*버전 2002(빌드 12527.20138)*
+
 ## <a name="version-2002-february-11"></a>버전 2002: 2월 11일
 *버전 2002 (빌드 12527.20092)*
 
-[여기](https://docs.microsoft.com/ko-KR/officeupdates/office365-proplus-security-updates) 나열된 보안 업데이트
+[여기](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates) 나열된 보안 업데이트
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
