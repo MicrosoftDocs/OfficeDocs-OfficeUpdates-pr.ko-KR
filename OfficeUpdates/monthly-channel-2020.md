@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: f7255ceead96026615d4e8a8c56826ebf53c41b3
-ms.sourcegitcommit: 220736aa7c6bf7466beba7f3291f068546c3c77e
+ms.openlocfilehash: e20199d7db1f236b86a99b1f748afcc9c5bd7426
+ms.sourcegitcommit: 192019a147f486bc97be39064a6f3c31060555c5
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "42228367"
+ms.lasthandoff: 02/26/2020
+ms.locfileid: "42278589"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>2020년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -24,6 +24,47 @@ ms.locfileid: "42228367"
 >
 >- Microsoft는 일정 기간 동안 매월 기능(및 경우에 따라 수정 사항)을 롤아웃합니다.  아래에서 설명했던 내용이 바로 보이지 않으면 곧 예측할 수 있습니다. [자세한 정보](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 >- Office 365 ProPlus의 기존 설치에 대한 Microsoft Temas - 7월 초부터 Office 365 ProPlus(및 Office 365 Business)의 업데이트에 Microsoft Teams가 포함됩니다.  Teams가 추가되는 날짜는 사용 중인 업데이트 채널에 따라 다릅니다. 추가 정보는 [Office 365 ProPlus와 함께 Microsoft Teams 배포](https://docs.microsoft.com/deployoffice/teams-install)를 참조하세요.
+
+## <a name="version-2002-february-25"></a>버전 2002: 2월 25일
+*버전 2002 (빌드 12527.20194)*
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="outlook"></a>Outlook
+
+- **Outlook 폴더 창으로 업데이트**: Aesthetic v1과 함께 제공되는 새 폴더 목록에는 모양과 느낌이 업데이트되고 그룹은 폴더 및 즐겨 찾기와 동일한 계층 구조로 올라갑니다.
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- CUBEVALUE 함수가 때때로 잘못된 결과를 반환하는 문제가 해결되었습니다.
+
+### <a name="outlook"></a>Outlook
+
+- 모임 위치 필드의 쉼표가 세미콜론으로 바뀌는 문제를 해결합니다.
+
+- 여러 창에서 동일한 항목을 볼 때 충돌이 발생할 수 있는 문제를 해결합니다.
+
+- 일부 시나리오에서 플래그가 지정된 항목 강조 표시를 사용하지 않도록 설정하는 옵션이 무시되는 문제를 해결합니다.
+
+- 동기화 슬라이더가 더 작은 설정으로 설정되어 있어도 Outlook이 예기치 않게 모든 메일을 동기화시키는 문제를 해결합니다.
+
+
+- 검은색 테마를 사용한 사용자에게 &quot;보낸 사람&quot; 드롭다운에 흰색 배경에 흰색 텍스트가 표시되는 문제를 해결합니다.
+
+
+- 이 변경으로 메시지 헤더에서 여러 줄 제목을 볼 수 있습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2001-february-19"></a>버전 2001: 2월 19일
 *버전 2001 (빌드 12430.20288)*
