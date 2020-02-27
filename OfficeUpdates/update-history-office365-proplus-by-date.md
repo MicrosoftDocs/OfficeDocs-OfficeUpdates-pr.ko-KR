@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 릴리스 정보에 대한 링크를 포함하여 Office 365 ProPlus 릴리스의 전체 목록을 날짜별로 구성해서 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 96858f48b71291a3094c7c9968bd1515b0d21848
-ms.sourcegitcommit: 220736aa7c6bf7466beba7f3291f068546c3c77e
+ms.openlocfilehash: bbbd7106d1da3edb232ac5e8d1ea74280a0ff564
+ms.sourcegitcommit: 192019a147f486bc97be39064a6f3c31060555c5
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "42228386"
+ms.lasthandoff: 02/26/2020
+ms.locfileid: "42278599"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 ProPlus에 대한 업데이트 기록(날짜순)
 
@@ -31,7 +31,7 @@ Office 365 ProPlus는 새로운 기능, 보안 업데이트 및 비보안 업데
 
 |**채널**|**버전**|**빌드**|**릴리스 날짜**|**다음 이하 버전까지 지원**|
 |:-----|:-----|:-----|:-----|:-----|
-|월간<br/>|2001<br/>|12430.20288<br/>|2020년 2월 19일<br/>|2002 버전 출시<br/>|
+|월간<br/>|2002<br/>|12527.20194<br/>|2020년 2월 25일<br/>|2003 버전 출시<br/>|
 |반기(대상 지정)<br/>|1908<br/>|11929.20606<br/>|2020년 2월 11일<br/>|2020년 3월 10일<br/>|
 |반기<br/>|1908<br/>|11929.20606<br/>|2020년 2월 11일<br/>|2021년 3월 9일<br/>|
 |반기<br/>|1902<br/>|11328.20526<br/>|2020년 2월 11일<br/>|2020년 9월 8일<br/>|
@@ -47,6 +47,7 @@ Office 365 ProPlus는 새로운 기능, 보안 업데이트 및 비보안 업데
 
 |**년도**|**릴리스 날짜**|**월별 채널**|**반기별 채널(지정됨)**|**반기 채널**|
 |:-----|:-----|:-----|:-----|:-----|
+|2020|2월 25일|[버전 2002 (빌드 12527.20194)](monthly-channel-2020.md#version-2002-february-25)| | |
 |2020|2월 19일|[버전 2001 (빌드 12430.20288)](monthly-channel-2020.md#version-2001-february-19)| | |
 |2020|2월 11일|[버전 2001 (빌드 12430.20264)](monthly-channel-2020.md#version-2001-february-11)|[버전 1908 (빌드 11929.20606)](semi-annual-channel-targeted-2020.md#version-1908-february-11)|[버전 1908 (빌드 11929.20606)](semi-annual-channel-2020.md#version-1908-february-11)<br/>[버전 1902 (빌드 11328.20526)](semi-annual-channel-2020.md#version-1902-february-11)<br/>[버전 1808 (빌드 10730.20438)](semi-annual-channel-2020.md#version-1808-february-11)|
 |2020|1월 30일|[버전 2001 (빌드 12430.20184)](monthly-channel-2020.md#version-2001-january-30)| | |
