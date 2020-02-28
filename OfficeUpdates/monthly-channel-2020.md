@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: e20199d7db1f236b86a99b1f748afcc9c5bd7426
-ms.sourcegitcommit: 192019a147f486bc97be39064a6f3c31060555c5
+ms.openlocfilehash: bc018a0f362bfbe62c8f8d637bd85d5ae59fd208
+ms.sourcegitcommit: b85764e80564afc70882eac3911a296dcee486dc
 ms.translationtype: HT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 02/26/2020
-ms.locfileid: "42278589"
+ms.locfileid: "42282832"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>2020년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -31,9 +31,22 @@ ms.locfileid: "42278589"
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
 ### <a name="feature-updates"></a>기능 업데이트
-### <a name="outlook"></a>Outlook
+### <a name="excel"></a>Excel
 
-- **Outlook 폴더 창으로 업데이트**: Aesthetic v1과 함께 제공되는 새 폴더 목록에는 모양과 느낌이 업데이트되고 그룹은 폴더 및 즐겨 찾기와 동일한 계층 구조로 올라갑니다.
+ - **                                                        이제 사용자는 Word 및 Excel에서 개체를 SVG로 저장할 수 있습니다.** 사용자는 차트, 도형, 잉크, 아이콘, 사진 등의 개체를 SVG로 저장할 수 있습니다.  [자세히 알아보기](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+- **통합 문서 통계:** 셀, 수식, 차트, 표 등이 자동으로 계산됩니다.
+
+- **쿼리 편집기의 데이터 프로파일링:** 열에서 데이터를 한눈에 분석하고 오류와 비어 있는 값을 식별하며 배포 히스토그램을 표시하는 기능 등을 사용할 수 있습니다.
+
+### <a name="outlook"></a>Outlook
+- **Outlook 폴더 창으로 업데이트:**  Aesthetic v1과 함께 제공되는 새 폴더 목록은 모양과 느낌이 업데이트되고 그룹은 폴더 및 즐겨 찾기와 동일한 계층 구조로 올라갑니다.
+
+### <a name="word"></a>Word
+
+- **                                                        이제 사용자는 Word 및 Excel에서 개체를 SVG로 저장할 수 있습니다.** 사용자는 차트, 도형, 잉크, 아이콘, 사진 등의 개체를 SVG로 저장할 수 있습니다.  [자세히 알아보기](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
