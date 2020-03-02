@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Windows 7용 Office 365 ProPlus의 업데이트 기록에 대한 릴리스 노트를 고객에게 제공합니다.
-ms.openlocfilehash: 57dc775623bda52d3a265f75df3304d7b165c768
-ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
+ms.openlocfilehash: 787ecad94262a996d29e416a808742250140129a
+ms.sourcegitcommit: a1b7e6268b7409711c48461bf80c5f511c817444
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "41122374"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42345127"
 ---
 # <a name="update-history-for-office-365-proplus-on-windows-7"></a>Windows 7에서의 Office 365 ProPlus의 업데이트 기록 
 
@@ -35,6 +35,12 @@ ms.locfileid: "41122374"
 이 확장된 버전 2002의 가용성은 또한 월간 및 반기(대상 지정)와 같은 다른 업데이트 채널에도 적용되지만, Windows 7을 실행하는 장치에만 적용됩니다.
 
 ##
+
+
+[//]: # (제거하지 마세요)
+
+
+
 
 > [!NOTE]
 > Office를 사용하는 데 발생한 문제에 대해 도움이 필요하면 [Microsoft의 Answers 포럼](https://answers.microsoft.com/) 또는 [기술 커뮤니티](https://techcommunity.microsoft.com/)에 질문을 게시하거나 [지원 서비스](https://support.microsoft.com/contactus)에 문의할 수 있습니다.

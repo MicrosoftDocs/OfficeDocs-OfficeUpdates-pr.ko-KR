@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 이후 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 0ffaf4f5b95f0a94e5efd4ba64da233f47076ec0
-ms.sourcegitcommit: 5b67d3d0509788c923442c71e48e17d397f94b09
+ms.openlocfilehash: ab61d74b3f6631e93ddf5352b65bf239e6063abc
+ms.sourcegitcommit: a1b7e6268b7409711c48461bf80c5f511c817444
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/24/2020
-ms.locfileid: "42260769"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42345137"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 릴리스 정보 월 단위 채널(대상 지정)
 
@@ -29,6 +29,18 @@ ms.locfileid: "42260769"
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2002-march-01"></a>버전 2002: 3월 1일
+*버전 2002 (빌드 12527.20242)*
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="outlook"></a>Outlook
+
+- <div>타사 응용 프로그램에서 전자 메일을 보낼 수 없는 문제를 해결합니다.</div>
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2002-february-24"></a>버전 2002: 2월 24일
 *버전 2002 (빌드 12527.20194)*
