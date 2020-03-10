@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 371be87b4ba3405aeaa103591ca05dadf7578e7e
-ms.sourcegitcommit: a1b7e6268b7409711c48461bf80c5f511c817444
+ms.openlocfilehash: 98f2ec2386cc214cbe5912d428b781610d953aca
+ms.sourcegitcommit: 4be8cb98eca74452720348595f0b8cfeaba4cef8
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42345147"
+ms.lasthandoff: 03/09/2020
+ms.locfileid: "42568864"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 참가자에 대한 릴리스 정보
 
@@ -26,6 +26,36 @@ ms.locfileid: "42345147"
 > - Office 365 ProPlus의 기존 설치에 대한 Microsoft Teams - 6월 말부터 Microsoft Teams가 Office 365 ProPlus(및 Office 365 Business)의 기존 설치에 업데이트 설치 시 포함됩니다. Teams가 추가되는 날짜는 사용 중인 업데이트 채널에 따라 다릅니다. 추가 정보는 [Office 365 ProPlus와 함께 Microsoft Teams 배포](https://docs.microsoft.com/deployoffice/teams-install)를 참조하세요.
 
 [//]: # (제거하지 마세요)
+
+## <a name="version-2003-march-06"></a>버전 2003: 3월 6일
+*버전 2003(빌드 12624.20086)*
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="outlook"></a>Outlook
+
+- Outlook Web Access로 규칙을 만들 때 Exchange 서버에 유지되지 않아 충돌이 발생하는 문제를 수정했습니다.
+- 어두운 모드의 Outlook에서 '보낸 사람:' 입력란에 드롭다운 목록이 표시되지 않는 문제를 수정했습니다.
+- 사용자가 다른 응용 프로그램에서 파일을 열 때 파일 탐색기를 통해 파일을 전자 메일 메시지에 첨부할 수 없는 문제를 해결합니다.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 축소판 그림 위로 마우스를 가져가면 권장 축소판 그림이 깜박이는 문제가 해결되었습니다. 경우에 따라 PowerPoint가 중단될 수 있습니다.
+
+### <a name="word"></a>Word
+
+- 편집에 대해 보호된 문서의 비교 기능 문제가 해결되었습니다.
+
+### <a name="office-suite"></a>Office 제품군
+
+- Word/Excel/PowerPoint에서 UPN(사용자 계정 이름)이 더 이상 대소문자를 구분하지 않아 SharePoint에서 파일 작업시 오류가 줄어듭니다.
+
+- File \ Options 대화 상자의 '확인'단추가 회색으로 표시되고 기능에는 영향을 미치지 않는 외관상의 문제가 수정되었습니다.
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
 ## <a name="version-2003-february-28"></a>버전 2003: 2월 28일
 *버전 2003 (빌드 12619.20002)*
@@ -2537,7 +2567,7 @@ OneDrive for Business에 docm 파일을 만들고 동료와 공유하고 공동 
 #### <a name="getting-started"></a>시작:
 
 - 두 개체를 같은 개체로 처리하도록 모핑을 사용하기 위해 사용자는 선택 창을 사용하여 도형 이름을 바꿀 수 있습니다.
-- 이름은 "!!"로 시작해야 합니다. 모핑에서 이름을 사용하여 기본 일치 동작을 무시하도록 하려면, 예를 들어 “!!이름”
+- 이름은 “!!”로 시작해야 합니다. 모핑에서 이름을 사용하여 기본 일치 동작을 무시하도록 하려면, 예를 들어 “!!이름”
 - 사용자는 계속 “!!”로 시작하지 않는 셰이프 이름을 바꿀 수 있습니다. 모핑 작동 방식의 변경에 대해 우려할 필요가 없습니다.
 
 #### <a name="scenarios-to-try"></a>시도해 볼 시나리오:
