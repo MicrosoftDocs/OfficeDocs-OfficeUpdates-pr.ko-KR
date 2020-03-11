@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: 2017의 Office 365 ProPlus에 대 한 월별 채널 릴리스에 대 한 릴리스 정보를 IT 전문가에 게 제공 합니다.
 ms.openlocfilehash: 7c3523a10f3fe5db8f38e792e0061b0eed2745bf
-ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
+ms.sourcegitcommit: 59f243dfec169ff246cd68ca7f796fde696e2981
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/30/2020
-ms.locfileid: "41629255"
+ms.lasthandoff: 03/06/2020
+ms.locfileid: "42549269"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2017"></a>2017의 월별 채널 릴리스에 대 한 릴리스 정보
 
@@ -72,7 +72,7 @@ ms.locfileid: "41629255"
 -   **사이트와 그룹에 대한 빠른 액세스:** 파일 메뉴를 사용하여 자주 사용하는 사이트와 그룹에 저장된 문서를 사용할 수 있습니다.
 
 ### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
--   Office COM 개체를 사용 하도록 설정 하 \> 여 \> office 365 클라이언트 업데이트를 Configuration Manager에서 관리 하도록 하는 경우 지금 업데이트 옵션은 파일 계정 업데이트 옵션에서 숨겨집니다.
+-   Office 365 클라이언트 업데이트가 Configuration Manager에 의해 관리되도록 Office COM 개체가 사용 가능하게 업데이트될 때 지금 업데이트 옵션이 파일 \> 계정 \> 업데이트 옵션에서 숨겨집니다.
 
 
 ## <a name="version-1710-november-27"></a>버전 1710:11 월 27 일
@@ -628,7 +628,7 @@ ms.locfileid: "41629255"
 -   Project 클라이언트에서 상태 승인 프로세스를 시작할 경우 프로젝트가 절대 완료되지 않고 사용 불가능 상태가 되는 문제를 수정합니다.
 -   중국어 및 영어 단어를 사용할 경우 인쇄 미리 보기 중에 작업 이름이 제대로 배치되지 못하는 문제를 수정합니다.
 
-### <a name="skype-for-business-feature-updates"></a>Skype for Business: 기능 업데이트
+### <a name="skype-for-business-feature-updates"></a>비즈니스용 Skype: 기능 업데이트
 -   **링크 삽입:** IM 및 그룹 채팅에 링크를 추가하고, 전체 URL 대신 링크를 적절히 설명하는 텍스트를 제공합니다.
 -   **Screen sharing notification:** A notification displays in the conversation window when you’re sharing a screen in an IM conversation or when screen sharing continues after you leave a meeting. The notification reminds you that you are still sharing your screen and makes it easy to stop sharing by using the “Stop Sharing” button.
 -   **WIP(Windows Information Protection) 지원:** 비즈니스용 Skype는 이제 WIP 작업 전용 앱으로 지원됩니다.허용된 앱 목록에 Skype를 추가하면 Skype에서 개인 데이터를 처리하지 않음을 Windows에 나타냅니다.Windows가 비즈니스용 Skype 대신 데이터를 보호 합니다.   [추가 정보](https://aka.ms/wiptechnet)
