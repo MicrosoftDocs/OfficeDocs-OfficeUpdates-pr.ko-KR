@@ -10,11 +10,11 @@ localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 반기 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
 ms.openlocfilehash: de069e864ee597379553958a3b839261ce13d04a
-ms.sourcegitcommit: 59f243dfec169ff246cd68ca7f796fde696e2981
+ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/06/2020
-ms.locfileid: "42549319"
+ms.lasthandoff: 03/13/2020
+ms.locfileid: "42615071"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019년 반기 채널 릴리스에 대한 릴리스 정보
 
