@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT 전문가에게 MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록을 제공합니다.
-ms.openlocfilehash: 25aec4548d1cc6aacd0993a5c88a363370774be5
-ms.sourcegitcommit: 6d822269cc24b803dce007a19c5600c1921d110a
+ms.openlocfilehash: b18b35e7e719669decac4b47b47a41595a5c127f
+ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "42403797"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42586495"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록
  
@@ -29,6 +29,26 @@ ms.locfileid: "42403797"
 > - Microsoft 자동 업데이트는 Microsoft의 다양한 Mac 제품에 대한 업데이트를 제공합니다. 따라서 Mac용 Office를 실행하고 있지 않더라도 Microsoft 자동 업데이트를 업데이트하라는 알림을 받을 수 있습니다.
 
 릴리스 정보를 확인하려면 [릴리스 정보](release-notes-office-for-mac.md)를 참고하세요.<br/><br/>
+
+## <a name="march-2020-release"></a>2020년 3월 릴리스
+
+**릴리스 날짜:** 2020년 3월 10일
+
+*Microsoft Auto Update 4.21*
+
+ **기능 업데이트:**
+
+- Word, Excel 및 PowerPoint에 대해 Microsoft AutoUpdate의 자동 업데이트 모드에서 창을 열지 않고 실행하거나 Docstage 상태를 실행하는 상태 복원이 실행되었습니다. 이제 자동 업데이트 모드에서 최종 사용자가 상태 복원을 통해 업데이트할 수 있는 앱을 종료할 필요가 없으므로 업데이트가 더 조용해집니다.
+
+
+**MAU 업데이트 링크:**
+
+[Microsoft Auto Update 4.21 패키지 다운로드](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 해시:**
+
+46887320AD18BAA9239629A6CFDE83339EBCAA5562822FDFCFEA74D65D0D4FB6
+<br/><br/>
 
 ## <a name="february-2020-release"></a>2020년 2월 릴리스
 
