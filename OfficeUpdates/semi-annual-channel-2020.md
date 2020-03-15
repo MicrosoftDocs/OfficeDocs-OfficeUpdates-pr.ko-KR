@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Office 365 ProPlus에 대한 반기 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 974a5db6f3bfba2bb20cd75f4e35a2777ea94ca8
-ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
+ms.openlocfilehash: 534e73bc6da5a7ee6d8100a925f6f1ce3dfec82d
+ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/14/2020
-ms.locfileid: "41978586"
+ms.lasthandoff: 03/13/2020
+ms.locfileid: "42615016"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>2020년 반기 채널 릴리스에 대한 릴리스 정보
 
@@ -26,8 +26,51 @@ ms.locfileid: "41978586"
 >- 반기 채널 사용자가 Office 포털에서 Windows 10용 Office 365를 다운로드 및 설치하면 기본적으로 OneNote 2016이 포함되지 않습니다.
 
 
+
+
+## <a name="version-1908-march-10"></a>버전 1908: 3월 10일
+*버전 1908 (빌드 11929.20648)*
+
+나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- <div><span>통합 문서에 외부 링크가 있는 경우 일부 사용자가 여러 개의 팝업 창을 경험하는 문제를 해결했습니다.&nbsp;</span></div>
+
+
+- <div><span style="display:inline !important;">일부 현지의 경우 텍스트를 열로 기능이 실패할 수 있습니다.</span><br></div>
+
+
+- <div style="box-sizing:border-box;"><span style="box-sizing:border-box;">사용자가 숨겨진 명명된 범위에 액세스하는 경우 오류가 발생할 수 있습니다</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div>Shape 관련 문제를 해결했습니다. 붙여넣기 방법: 사용자가 &nbsp;Shape를 사용하여 셰이프를 복사하고 붙여 넣는 경우. 붙여넣기 방법. &nbsp;<span style="font-size:13.3333px;display:inline !important;">선택 대상이 붙여넣기한 셰이프로 변경됩니다.</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div>일부 경우에 기존 파일을 저장하면 항상 다른 이름으로 저장 대화 상자가 나타나고 파일이 실제로는 저장되지 않는 문제가 해결되었습니다.<br></div>
+
+
+### <a name="office-suite"></a>Office 제품군
+
+- <div><span>이 변경 사항은 마커가 포함된 일부 분산형 차트의 느린 렌더링 문제를 해결합니다.</span></div>
+
+## <a name="version-1902-march-10"></a>버전 1902: 3월 10일
+*버전 1902 (빌드 11328.20554)*
+
+나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
 ## <a name="version-1908-february-11"></a>버전 1908: 2월 11일
-*버전 1908 (빌드 11929.20606)*
+*버전 1908(빌드 11929.20606)*
 
 [여기](https://docs.microsoft.com/ko-KR/officeupdates/office365-proplus-security-updates) 나열된 보안 업데이트
 
@@ -39,7 +82,7 @@ ms.locfileid: "41978586"
 
 - 이 업데이트는 VBA를 사용하여 차트의 머리글/바닥글에 이미지를 추가할 때마다 오류가 발생하는 문제를 해결합니다.
 
-- 인쇄 미리보기 또는 인쇄시 그룹 상자 컨트롤의 테두리가 보이지 않던 문제를 수정했습니다.
+- 인쇄 미리보기 또는 인쇄 시 그룹 상자 컨트롤의 테두리가 보이지 않던 문제를 수정했습니다.
 
 - 사용자가 영문이 아닌 일부 문자의 집합을 사용 시 변경 내용을 저장할 때 오류가 발생할 수 있습니다.
 
@@ -69,18 +112,18 @@ ms.locfileid: "41978586"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- 복사-붙여넣기 시나리오 개선 파워포인트 슬라이드에서 셰이프를 복사하고 루프의 다른 슬라이드에 붙여넣기 작업은 예외적으로 실패할 수 있습니다.
+- 복사-붙여넣기 시나리오 개선 파워포인트 슬라이드에서 도형을 복사하고 루프의 다른 슬라이드에 붙여넣을 때 예외적으로 실패할 수 있습니다.
 
 
 - 공동 작업 사용자 간에 성능이 저하되는 문제를 해결했습니다.
 
-- 점진적으로 열린 파일에 둘 이상의 포함된 미디어 스트림이있는 슬라이드가 포함되어 있을 때 발생할 수있는 문제를 수정했습니다.
+- 증분 방식으로 열린 파일에 둘 이상의 포함된 미디어 스트림이 있는 슬라이드가 포함되어 있을 때 발생할 수있는 문제를 수정했습니다.
 
 - PowerPoint를 처음 시작할 때 신뢰할 수 없는 추가 기능에 대해 보안 경고 메시지 표시줄이 나타나지 않는 문제가 수정되었습니다.
 
-### <a name="project"></a>프로젝트
+### <a name="project"></a>Project
 
-- 기본 일정이 변경될 때 리소스 일정이 업데이트되지 않아 작업 표와 프로젝트 계획 간에 실제 작업이 다를 수 있는 문제가 해결되었습니다.
+- 기본 일정이 변경될 때 리소스 일정이 업데이트되지 않아 작업표와 프로젝트 계획 간에 실제 작업이 다를 수 있는 문제가 해결되었습니다.
 
 ### <a name="word"></a>Word
 
