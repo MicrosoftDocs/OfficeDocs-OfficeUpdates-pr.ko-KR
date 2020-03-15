@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 이후 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 5fa1063319b61a278d9d68f7ed1f18b7535d9de9
-ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
+ms.openlocfilehash: 110cdc2014c68ff69a8f244f92450404f1ba81cb
+ms.sourcegitcommit: 4e509f91fd46e9df26ff0d2d775adc9bf58efa6e
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42586575"
+ms.lasthandoff: 03/13/2020
+ms.locfileid: "42622132"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 릴리스 정보 월 단위 채널(대상 지정)
 
@@ -35,8 +35,17 @@ ms.locfileid: "42586575"
 
 나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
-
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="excel"></a>Excel
+- **민감도 레이블**: 조직에서 사용자 지정 권한에 대한 메시지를 표시하도록 구성한 민감도 레이블을 적용할 수 있습니다. [자세한 정보](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+
+### <a name="powerpoint"></a>PowerPoint
+- **민감도 레이블**: 조직에서 사용자 지정 권한에 대한 메시지를 표시하도록 구성한 민감도 레이블을 적용할 수 있습니다. [자세한 정보](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+
+### <a name="word"></a>Word
+- **민감도 레이블**: 조직에서 사용자 지정 권한에 대한 메시지를 표시하도록 구성한 민감도 레이블을 적용할 수 있습니다. [자세한 정보](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+</br>
 
 ### <a name="resolved-issues"></a>해결된 문제
 ### <a name="excel"></a>Excel
@@ -60,6 +69,8 @@ ms.locfileid: "42586575"
 - 이번 변경으로 추가 기능에서 noSelect 잠금을 사용하는 도형이 포함된 문서/통합 문서의 호스트 항목을 요청하는 경우 발생하는 앱(Excel, Word)의 잠재적인 충돌 및 개체 모델의 런타임 오류가 해결되었습니다.
 
 - 설정을 동기화하는 경우 Outlook 사용자에게 충돌이 발생하는 문제를 해결합니다.
+
+
 
 ### <a name="outlook"></a>Outlook
 
@@ -95,6 +106,8 @@ ms.locfileid: "42586575"
 
 - Excel 차트가 포함된 PowerPoint 또는 Word에서 문서를 저장하지 못하는 문제를 수정했습니다.
 
+
+
 ### <a name="project"></a>Project
 
 - 작업이 완료됨으로 표시된 후 작업 완료율이 100%보다 낮은 값으로 잘못 변경되는 문제가 해결되었습니다.
@@ -125,7 +138,8 @@ ms.locfileid: "42586575"
 
 - 편집에 대해 보호된 문서의 비교 기능 문제가 해결되었습니다.
 
-- PDF로 내보낼 때 문서에서 그림의 투명성이 손실되는 문제가 수정되었습니다.
+
+
 
 ### <a name="office-suite"></a>Office 제품군
 
