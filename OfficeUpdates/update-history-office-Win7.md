@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Windows 7용 Office 365 ProPlus의 업데이트 기록에 대한 릴리스 노트를 고객에게 제공합니다.
-ms.openlocfilehash: 64964bc3e806179414c77568c04f449f105fbef3
-ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
+ms.openlocfilehash: 7502414f60401159e5fab6493c5a8577abe2a721
+ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42586365"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42612464"
 ---
 # <a name="update-history-for-office-365-proplus-on-windows-7"></a>Windows 7에서의 Office 365 ProPlus의 업데이트 기록 
 
@@ -34,8 +34,11 @@ ms.locfileid: "42586365"
 
 이 확장된 버전 2002의 가용성은 또한 월간 및 반기(대상 지정)와 같은 다른 업데이트 채널에도 적용되지만, Windows 7을 실행하는 장치에만 적용됩니다.
 
-##
+Windows 7을 실행하는 장치에 2002 버전의 이전 버전이 여전히 지원되는 한 계속 배포할 수 있습니다. 예를 들어 버전 1908이 반기 채널에 대해 지원받지 못하는 2021년 3월까지 Windows 7을 실행하는 장치에서 계속 반기 채널의 버전 1908을 사용할 수 있습니다.
 
+매월 둘째주 화요일에는 필요에 따라 보안 업데이트가 포함된 버전 2002의 새 빌드가 릴리스됩니다. 각 아키텍처(x86 또는 x64)에 대한 빌드는 하나만 존재하고 배포된 업데이트 채널에만 사용될 수 있습니다. 각 채널에 대한 버전 2002의 별도 빌드가 없습니다. 예를 들어 동일한 빌드를 사용하여 월간 채널을 사용하거나 반기 채널을 사용하는 Windows 7을 실행하는 장치를 업데이트할 수 있습니다.
+
+##
 
 [//]: # (제거하지 마세요)
 
