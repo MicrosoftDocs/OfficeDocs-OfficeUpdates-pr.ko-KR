@@ -1,5 +1,5 @@
 ---
-title: Office에 대한 업데이트 기록 Windows 7
+title: Windows 7용 Office 업데이트 기록
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Windows 7용 Office 365 ProPlus의 업데이트 기록에 대한 릴리스 노트를 고객에게 제공합니다.
-ms.openlocfilehash: 7502414f60401159e5fab6493c5a8577abe2a721
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: 09bfdeddfdf7b2c09bbd5145c909b24b6da505e1
+ms.sourcegitcommit: e2633701e5a00bd20a5f166e95fcb156461973ae
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42612464"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "42890155"
 ---
 # <a name="update-history-for-office-365-proplus-on-windows-7"></a>Windows 7에서의 Office 365 ProPlus의 업데이트 기록 
 

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Office 365 ProPlus에 대한 반기 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 534e73bc6da5a7ee6d8100a925f6f1ce3dfec82d
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: b4a6ef107e4bd4904192d4c6e6d100194b2948b9
+ms.sourcegitcommit: e2633701e5a00bd20a5f166e95fcb156461973ae
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42615016"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "42890125"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>2020년 반기 채널 릴리스에 대한 릴리스 정보
 
@@ -72,7 +72,7 @@ ms.locfileid: "42615016"
 ## <a name="version-1908-february-11"></a>버전 1908: 2월 11일
 *버전 1908(빌드 11929.20606)*
 
-[여기](https://docs.microsoft.com/ko-KR/officeupdates/office365-proplus-security-updates) 나열된 보안 업데이트
+[여기](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates) 나열된 보안 업데이트
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -105,7 +105,7 @@ ms.locfileid: "42615016"
 - 보기를 변경할 때 사용자에게 간헐적인 충돌이 발생하는 문제를 해결했습니다.
 
 
-- Citrix 환경에서 30개 이상의 캘린더를 볼 때 사용자에게 충돌이 발생하는 문제를 해결했습니다. [여기](https://support.microsoft.com/ko-KR/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen)에는 이전 버전에 대해 문서화된 개별 KB가 있습니다.
+- Citrix 환경에서 30개 이상의 캘린더를 볼 때 사용자에게 충돌이 발생하는 문제를 해결했습니다. [여기](https://support.microsoft.com/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen)에는 이전 버전에 대해 문서화된 개별 KB가 있습니다.
 
 - 사용자가 공유 일정 폴더를 OST와 동기화하는 데 문제가있어 이러한 폴더와 상호 작용할 때 권한 오류가 발생하는 문제를 해결합니다.
 
@@ -140,7 +140,7 @@ ms.locfileid: "42615016"
 ## <a name="version-1902-february-11"></a>버전 1902: 2월 11일
 *버전 1902 (빌드 11328.20526)*
 
-[여기](https://docs.microsoft.com/ko-KR/officeupdates/office365-proplus-security-updates) 나열된 보안 업데이트
+[여기](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates) 나열된 보안 업데이트
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -162,7 +162,7 @@ ms.locfileid: "42615016"
 ## <a name="version-1808-february-11"></a>버전 1808: 2월 11일
 *버전 1808 (빌드 10730.20438)*
 
-[여기](https://docs.microsoft.com/ko-KR/officeupdates/office365-proplus-security-updates) 나열된 보안 업데이트
+[여기](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates) 나열된 보안 업데이트
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
