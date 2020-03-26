@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: C2R(간편 실행)을 사용하는 Office 2016 및 2019 영구 버전에 대한 업데이트 기록을 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 8bd48123203d1cf061d595f8e8ff851cef309c45
-ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
+ms.openlocfilehash: 2b816a44d0ca102510aa595c1705a9de2395efcf
+ms.sourcegitcommit: 9e7fd0ee5eb91854508f3d09682dadd530e3a440
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42586395"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42959376"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Office 2016 C2R 및 Office 2019의 업데이트 기록
 
@@ -59,7 +59,8 @@ Microsoft는 Office 2016 C2R(간편 실행) 버전과 Office 2019의 보안 및 
 
 |**릴리스 날짜**|**버전 번호**|**추가 정보**|
 |:-----|:-----|:-----|
-|2020년 3월 10일   |버전 2002 (빌드 12527.20278)  |[CVE-2020-0850](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0850) <br/> [CVE-2020-0851](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0851) <br/> [CVE-2020-0855](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0855) <br/> [CVE-2020-0892](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0892) <br/>  |
+|2020년 3월 25일|버전 2003 (빌드 12624.20320)  |다양한 버그 및 성능 수정 사항. <br/>  |
+|2020년 3월 10일|버전 2002 (빌드 12527.20278)  |[CVE-2020-0850](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0850) <br/> [CVE-2020-0851](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0851) <br/> [CVE-2020-0855](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0855) <br/> [CVE-2020-0892](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0892) <br/>  |
 |2020년 3월 1일   |버전 2002 (빌드 12527.20242)  |타사 응용 프로그램에서 Outlook에서 전자 메일을 보낼 수 없는 문제를 해결합니다. <br/>  |
 |2020년 2월 25일   |버전 2002 (빌드 12527.20194)  |다양한 버그 및 성능 수정 사항. <br/>  |
 |2020년 2월 11일   |버전 2001 (빌드 12430.20264)  |[CVE-2020-0696](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0696) <br/> [CVE-2020-0697](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0697) <br/> [CVE-2020-0759](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0759) <br/>  |
