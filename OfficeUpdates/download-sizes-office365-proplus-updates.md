@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 각 업데이트 채널에 대한 Office 365 ProPlus 업데이트의 대략적인 다운로드 크기 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 5d77b6ec5df86de35ef51c6ea8fa16ce9285b9a4
-ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
+ms.openlocfilehash: 14bf6f3d1223d728a4c666cad103e017746fab8e
+ms.sourcegitcommit: 1735c163ca50f3802e4fd6696285b49a0f28001c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42586405"
+ms.lasthandoff: 03/25/2020
+ms.locfileid: "42953018"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 ProPlus 업데이트의 다운로드 크기
 
@@ -29,6 +29,22 @@ Microsoft의 목표는 기업 고객이 네트워크 대역폭 사용률을 계�
 > - 지난 4개월 동안의 릴리스만 표시됩니다.
 
 [//]: # (제거하지 마세요)
+
+## <a name="march-25-2020"></a>2020년 3월 25일
+
+[//]: # (콘텐츠를 제거하지 마세요. 시작 2020년 3월 25일)
+
+### <a name="monthly-channel"></a>월 단위 채널
+
+가장 최근 버전은 버전 2003 (빌드 12624.20320)입니다.
+
+|**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
+|:-----|:-----|:-----|
+|버전 2002 (빌드 12527.20278) <br/> |2020년 3월 10일 <br/> |171<br/> |
+|버전 2002 (빌드 12527.20242) <br/> |2020년 3월 1일 <br/> |172<br/> |
+
+
+[//]: # (컨텐츠를 제거하지 마세요. 종료 2020년 3월 25일)
 
 ## <a name="march-10-2020"></a>2020년 3월 10일
 

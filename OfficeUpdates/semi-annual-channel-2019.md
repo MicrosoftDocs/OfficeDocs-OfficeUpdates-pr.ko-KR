@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 반기 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: de069e864ee597379553958a3b839261ce13d04a
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: d94ed6de9109afbea9f4be9abb8625fb2eedc735
+ms.sourcegitcommit: 9e7fd0ee5eb91854508f3d09682dadd530e3a440
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42615071"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42959386"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019년 반기 채널 릴리스에 대한 릴리스 정보
 
 이 릴리스 정보는 Office 365용 Visio Pro, Project Online 데스크톱 클라이언트 및 Office 365 Business를 비롯한 2019년 Office 365 ProPlus의 반기 채널 업데이트에 포함된 새로운 기능 및 비보안 업데이트에 관한 정보를 제공합니다.
 
 > [!NOTE]
-> - Microsoft는 일정 기간 동안 반기 채널 기능(및 경우에 따라 수정 사항)을 롤아웃합니다. 아래에서 설명했던 내용이 바로 보이지 않으면 곧 예측할 수 있습니다. [자세한 정보](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
+> - Microsoft는 일정 기간 동안 반기 채널 기능(및 경우에 따라 수정 사항)을 롤아웃합니다. 아래에서 설명했던 내용이 바로 보이지 않는다면 곧 사용할 수 있습니다. [자세한 정보](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 > - 반기 채널 사용자가 Office 포털에서 Windows 10용 Office 365를 다운로드 및 설치하면 기본적으로 OneNote 2016이 포함되지 않습니다.
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -180,6 +180,7 @@ ms.locfileid: "42615071"
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-1808-october-08"></a>버전 1808: 10월 8일
+
 *버전 1808(빌드 10730.20386)*
 
 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)에 나열되어 있습니다.
@@ -299,7 +300,7 @@ ms.locfileid: "42615071"
 - **확대/축소 및 고정:** 메시지를 읽을 때마다 확대/축소를 조정하지 않고, 모든 메시지에 사용할 기본값을 선택합니다. [자세한 정보](https://support.office.com/article/56c090bc-e148-44a7-bd06-1290edd38983)
 - **메시지 암호화: 암호화 전용 IRM 정책:** Office 365 메시지 암호화 사용자를 위해 옵션 > 권한 메뉴에 새로운 암호화 전용 옵션이 표시됩니다. 이 옵션을 사용하여 메시지를 암호화하고 조직 내부 또는 외부의 원하는 사람에게 메시지를 보낼 수 있습니다.
 - **숨은 참조에 포함되어 있을 경우 표시되는 경고:** 내가 숨은 참조에 포함되어 있을 때 실수로 메일에 전체 회신하기 전에 숨은 참조 정보 팁이 경고를 표시합니다.
-- **더 스마트해진 받는 사람: 줄:** 받는 사람: 줄을 클릭하여 메시지에 주소를 지정하려고 하면 선택할 수 있는 추천 받는 사람이 표시됩니다. 또한 사진도 확인할 수 있으므로 올바른 사람에게 보내는지도 알 수 있습니다. [자세한 정보](https://support.office.com/article/147208AF-CA8E-4CDF-B71F-77BA81A54069)
+- **더 스마트해진 받는 사람: 줄:** 받는 사람: 줄을 클릭하여 메시지에 주소를 지정하려고 하면 선택할 수 있는 추천 받는 사람이 표시됩니다. 또한, 사진도 볼 수 있어서 올바른 사람에게 보내는지 확인할 수 있습니다. [자세한 정보](https://support.office.com/article/147208AF-CA8E-4CDF-B71F-77BA81A54069)
 - **필터가 적용된 SVG 삽입:** Office 사용자는 이제 필터가 적용된 SVG를 삽입할 수 있습니다. [자세히 알아보기](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 - **고화질 디스플레이 지원 개선:** 여러 개의 모니터 또는 노트북 도크를 사용하는 경우 각 디스플레이의 배율 설정이 달라도 모든 디스플레이에서 Office 앱이 깔끔하게 표시됩니다. [자세한 정보](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
 
@@ -332,7 +333,7 @@ ms.locfileid: "42615071"
 
 ### <a name="project-feature-updates"></a>Project: 기능 업데이트
 
-- **작업 보드 카드에 자세한 정보 표시:** 제목만으로 이야기를 전달하지 못할 경우 중요한 세부 사항을 표시하도록 작업 보드 카드를 사용자 지정합니다. [자세한 정보](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)
+- **작업 보드 카드에 자세한 정보 표시:** 제목만으로 이야기를 전달하지 못할 경우, 중요한 세부 사항을 표시하도록 작업 보드 카드를 사용자 지정합니다. [자세한 정보](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)
 - **새로운 모습의 Office:**  Office 앱의 아이콘이 최신 아이콘으로 업데이트되어 더 간편하고 접근성이 높아졌습니다. 또한 Office 앱에서 사용할 수 있는 풍부한 공동 작업 기능이 두드러지게 표시되도록 리본 디자인이 업데이트되었습니다.
 
 ### <a name="publisher-feature-updates"></a>Publisher: 기능 업데이트
@@ -418,7 +419,7 @@ ms.locfileid: "42615071"
  - "실행 취소" 작업 후 VBA에서 잘못된 도형 채우기 상태를 보고할 때 발생하는 버그를 해결했습니다.
  - 이 문제는 Apache WebDAV 폴더에 파일을 저장할 수 없는 문제를 해결합니다.
  - 고객이 일부 클라우드 저장 파일을 열 때 Office가 갑자기 닫히는 문제를 해결합니다.
- - 히라가나와 한자에서 새로운 연호 "레이와"의 철자가 틀리거나 비문법적 표현으로 잘못 식별되는 문제가 수정되었습니다.
+ - 히라가나와 한자에서 새로운 연호 "레이와"의 철자가 틀리거나 비문법적 표현으로 잘못 식별되는 문제를 수정했습니다.
  - Windows 10에서 최근 파일 목록이 많은 사용자에게 삭제된 것처럼 표시되는 문제가 수정되었습니다.
  - 진행 중인 관리자 트리거 업데이트가 있는 경우에도 최종 사용자에게 Office 업데이트 비즈니스 막대가 표시되는 문제가 수정되었습니다.
  - 간헐적으로 발생하는 빈 로그인 프롬프트와 관련된 문제가 수정되었습니다.
@@ -477,7 +478,7 @@ ms.locfileid: "42615071"
  - SharePoint에서 추가된 관련 사용자를 편집하면 충돌할 수 있는 문제가 수정되었습니다.
 
 ### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
- - 히라가나와 한자에서 새로운 연호 "레이와"의 철자가 틀리거나 비문법적 표현으로 잘못 식별되는 문제가 수정되었습니다.
+ - 히라가나와 한자에서 새로운 연호 "레이와"의 철자가 틀리거나 비문법적 표현으로 잘못 식별되는 문제를 수정했습니다.
   
 ## <a name="version-1803-may-14"></a>버전 1803: 5월 14일
 *버전 1803(빌드 9126.2387)*
@@ -486,7 +487,7 @@ ms.locfileid: "42615071"
  - 마이그레이션된 항목의 일부 필드를 편집할 수 없는 문제를 처리합니다.
 
 ### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
- - 히라가나와 한자에서 새로운 연호 "레이와"의 철자가 틀리거나 비문법적 표현으로 잘못 식별되는 문제가 수정되었습니다.
+ - 히라가나와 한자에서 새로운 연호 "레이와"의 철자가 틀리거나 비문법적 표현으로 잘못 식별되는 문제를 수정했습니다.
 
 ## <a name="version-1808-april-9"></a>버전 1808: 4월 9일
 *버전 1808(빌드 10730.20334)*
