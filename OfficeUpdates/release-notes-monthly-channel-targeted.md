@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 이후 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 7c4ab50059d5c0a0700caab507d58035a4a2c9e7
-ms.sourcegitcommit: f4e194fab33de686fb38450c3fd73cbfa2b9d4f9
+ms.openlocfilehash: bf8c3aa36a0b6f31fe209a2b8ad504485b591542
+ms.sourcegitcommit: ee61dcf8fd0ae2e15db586fec9d15897aa712254
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42706958"
+ms.lasthandoff: 03/25/2020
+ms.locfileid: "42951708"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 릴리스 정보 월 단위 채널(대상 지정)
 
@@ -27,6 +27,35 @@ ms.locfileid: "42706958"
 [//]: # (제거하지 마세요)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2003-march-25"></a>버전 2003: 3월 25일
+*버전 2003 (빌드 12624.20320)*
+
+- 다양한 버그 및 성능 수정 사항.
+
+## <a name="version-2003-march-23"></a>버전 2003: 3월 23일
+*버전 2003 (빌드 12624.20296)*
+
+- 다양한 버그 및 성능 수정 사항.
+
+## <a name="version-2003-march-21"></a>버전 2003: 3월 21일
+*버전 2003 (빌드 12624.20276)*
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="outlook"></a>Outlook
+
+- **받은 편지함을 벗어나지 않고 모임 참가:** 온라인 모임에 참가하기 위해 일정으로 전환할 필요가 없습니다. 일정을 할 일 창에 고정하고 클릭 한 번만으로 모든 모임에 참여하세요.
+
+- **완전히 새로워진 일정:** 지난 해, Microsoft는 새로워진 메일 환경을 제공했으며, 올해에는 일정이 새롭게 바뀌었습니다. 업데이트가 새로 제공되지만 노련한 Outlook 사용자에게는 익숙하므로 바로 시작하여 생산성을 높일 수 있습니다.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **슬라이드 쇼 중에 슬라이드 업데이트:** 프레젠테이션을 진행하는 동안 다른 작성자가 변경한 슬라이드를 업데이트합니다.
+
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
