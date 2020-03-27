@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Office 365 ProPlus에 대한 반기 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: b4a6ef107e4bd4904192d4c6e6d100194b2948b9
-ms.sourcegitcommit: e2633701e5a00bd20a5f166e95fcb156461973ae
+ms.openlocfilehash: a38ca822b48a15c2f2765bda0545b23d0ea05309
+ms.sourcegitcommit: e3e5b778e6f50c47cab7212bb53247e948592fba
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "42890125"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42926303"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>2020년 반기 채널 릴리스에 대한 릴리스 정보
 
@@ -23,7 +23,7 @@ ms.locfileid: "42890125"
 > [!NOTE]
 >
 >- Microsoft는 일정 기간 동안 반기 채널 기능(및 경우에 따라 수정 사항)을 롤아웃합니다. 아래에서 설명했던 내용이 바로 보이지 않으면 곧 예측할 수 있습니다. [자세한 정보](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
->- 반기 채널 사용자가 Office 포털에서 Windows 10용 Office 365를 다운로드 및 설치하면 기본적으로 OneNote 2016이 포함되지 않습니다.
+>- 반기 채널의 사용자가 Office Portal에서 Windows 10에 Office 365를 다운로드하여 설치하면 OneNote 2016이 기본적으로 포함됩니다.
 
 
 
