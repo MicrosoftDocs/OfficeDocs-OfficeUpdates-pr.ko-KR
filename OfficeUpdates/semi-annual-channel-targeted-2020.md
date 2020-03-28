@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Office 365 ProPlus에 대한 반기 채널(대상 지정) 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 54ec0f4ceaaf2b60e3bce99065154b7399345a29
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: 3015dec03cba319ffeaa8a97794b5236ffd6c879
+ms.sourcegitcommit: 2a7fa66d0cc399e8ae5d824dab7b84a460cc2c9f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42615104"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42982507"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2020"></a>2020년 반기 채널(대상 지정) 릴리스에 대한 릴리스 정보
 
@@ -144,6 +144,8 @@ ms.locfileid: "42615104"
 - **재개발 대신 재사용:** 사용자가 작성했거나 다른 사용자가 공유하도록 한 슬라이드를 다시 사용하여 시간을 절약하세요. [자세한 정보](https://support.office.com/article/4772661f-ced0-446b-bb28-878dfa8c23f1)
 
 - **Office 365용 PowerPoint에서 필기 잉크를 도형, 텍스트 또는 수학으로 변경:** 몇 번의 스트로크만으로 자유형 잉크를 Office 도형, 텍스트 또는 수식으로 변경합니다. [자세한 정보](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+
+- **멋진 슬라이드 만들기:** 잉크를 표준 도형 및 텍스트로 변환한 후, PowerPoint Designer에서 스마트한 슬라이드 디자인 아이디어를 가져옵니다. [자세한 정보](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
 
 ### <a name="visio"></a>Visio
 
