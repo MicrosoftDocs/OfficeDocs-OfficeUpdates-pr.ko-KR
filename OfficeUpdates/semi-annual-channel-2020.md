@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Office 365 ProPlus에 대한 반기 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 972d3b9e94c15c60b44ab5fed06bc4eb20caf313
-ms.sourcegitcommit: 75fe62b67f652ff4a527e8bf674546ff5d14fc26
+ms.openlocfilehash: bfee11b418a3f35fb7ba2d293bbab60b4c42e240
+ms.sourcegitcommit: 251e261d62e807532414ad33904ddb58813867eb
 ms.translationtype: HT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 03/27/2020
-ms.locfileid: "42983898"
+ms.locfileid: "43024530"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>2020년 반기 채널 릴리스에 대한 릴리스 정보
 
@@ -39,28 +39,28 @@ ms.locfileid: "42983898"
 ### <a name="resolved-issues"></a>해결된 문제
 ### <a name="excel"></a>Excel
 
-- <div><span>통합 문서에 외부 링크가 있는 경우 일부 사용자가 여러 개의 팝업 창을 경험하는 문제를 해결했습니다.&nbsp;</span></div>
+- 통합 문서에 외부 링크가 있는 경우 일부 사용자에게 여러 개의 팝업 창이 표시되는 문제를 해결했습니다.
 
 
-- <div><span style="display:inline !important;">일부 현지의 경우 텍스트를 열로 기능이 실패할 수 있습니다.</span><br></div>
+- 일부 현지의 경우 텍스트를 열로 기능이 실패할 수 있습니다.
 
 
-- <div style="box-sizing:border-box;"><span style="box-sizing:border-box;">사용자가 숨겨진 명명된 범위에 액세스하는 경우 오류가 발생할 수 있습니다</span></div>
+- 사용자가 숨겨진 명명된 범위에 액세스하는 경우 오류가 발생할 수 있습니다.
 
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- <div>Shape 관련 문제를 해결했습니다. 붙여넣기 방법: 사용자가 &nbsp;Shape를 사용하여 셰이프를 복사하고 붙여 넣는 경우. 붙여넣기 방법. &nbsp;<span style="font-size:13.3333px;display:inline !important;">선택 대상이 붙여넣기한 셰이프로 변경됩니다.</span></div>
+- Shape 관련 문제를 해결했습니다. 붙여넣기 방법: 사용자가 Shape를 사용하여 셰이프를 복사하고 붙여 넣는 경우. 붙여넣기 방법. 선택 대상이 붙여넣기한 셰이프로 변경됩니다.
 
 
 ### <a name="word"></a>Word
 
-- <div>일부 경우에 기존 파일을 저장하면 항상 다른 이름으로 저장 대화 상자가 나타나고 파일이 실제로는 저장되지 않는 문제가 해결되었습니다.<br></div>
+- 일부 경우에 기존 파일을 저장하면 항상 다른 이름으로 저장 대화 상자가 나타나고 파일이 실제로는 저장되지 않는 문제가 해결되었습니다.
 
 
 ### <a name="office-suite"></a>Office 제품군
 
-- <div><span>이 변경 사항은 마커가 포함된 일부 분산형 차트의 느린 렌더링 문제를 해결합니다.</span></div>
+- 이 변경 사항은 마커가 포함된 일부 분산형 차트의 느린 렌더링 문제를 해결합니다.
 
 ## <a name="version-1902-march-10"></a>버전 1902: 3월 10일
 *버전 1902 (빌드 11328.20554)*
