@@ -9,16 +9,24 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT 전문가에게 Office 365 ProPlus 보안 업데이트에 대한 릴리스 정보를 제공합니다.
-ms.openlocfilehash: 95dcbdcc49a9022fc0e07639b5311f3a4e481b48
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: 6233ae7f80c5a139b2f8de169f1293b1c05a19ad
+ms.sourcegitcommit: ddefa52be7376fad84cbcb5554d6f9e9f06c4c60
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42615015"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43046093"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Office 365 ProPlus 보안 업데이트에 대한 릴리스 정보
 
 이러한 릴리스 정보는 Office 365 ProPlus의 업데이트에 포함된 보안 픽스에 대한 정보를 제공합니다.
+
+
+> [!IMPORTANT]
+> Office 365 ProPlus가 **엔터프라이즈용 Microsoft 365 앱**으로 이름이 변경됩니다. 이름을 변경하는 방법에 대한 자세한 내용은 [이 블로그 게시물을 참조하세요](https://go.microsoft.com/fwlink/p/?linkid=2120533). 
+>
+> 이 변경 사항이 적용되는 시기 및 관리자가 수행해야 하는 작업에 대한 자세한 내용은 [이 문서를 참조하세요](https://go.microsoft.com/fwlink/p/?linkid=2123420).
+
+
  
 > [!NOTE]
 > - 또한 Visio Pro for Office 365 및 Project Online 데스크톱 클라이언트의 보안 업데이트에 대한 정보도 제공합니다.
