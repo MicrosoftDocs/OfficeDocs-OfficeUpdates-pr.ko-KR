@@ -9,16 +9,24 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 릴리스 정보에 대한 링크를 포함하여 Office 365 ProPlus 릴리스의 전체 목록을 날짜별로 구성해서 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 3390ed2aaf7be5b1676c3bb373ce51082b89b374
-ms.sourcegitcommit: 9e7fd0ee5eb91854508f3d09682dadd530e3a440
+ms.openlocfilehash: 34802aa3e76bf9db7e0a44b8baa6844445598da8
+ms.sourcegitcommit: ddefa52be7376fad84cbcb5554d6f9e9f06c4c60
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42959366"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43046133"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 ProPlus에 대한 업데이트 기록(날짜순)
 
-Office 365 ProPlus는 새로운 기능, 보안 업데이트 및 비보안 업데이트로 정기적으로 업데이트됩니다. 이러한 업데이트를 [업데이트 채널](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)을 사용하여 릴리스됩니다. 각 업데이트 채널의 각 릴리스에는 버전 및 빌드 번호가 할당되어 표시됩니다. 
+Office 365 ProPlus는 새로운 기능, 보안 업데이트 및 비보안 업데이트로 정기적으로 업데이트됩니다. 이러한 업데이트를 [업데이트 채널](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)을 사용하여 릴리스됩니다. 각 업데이트 채널의 각 릴리스에는 버전 및 빌드 번호가 할당되어 표시됩니다.
+
+
+> [!IMPORTANT]
+> Office 365 ProPlus가 **엔터프라이즈용 Microsoft 365 앱**으로 이름이 변경됩니다. 이름을 변경하는 방법에 대한 자세한 내용은 [이 블로그 게시물을 참조하세요](https://go.microsoft.com/fwlink/p/?linkid=2120533). 
+>
+> 이 변경 사항이 적용되는 시기 및 관리자가 수행해야 하는 작업에 대한 자세한 내용은 [이 문서를 참조하세요](https://go.microsoft.com/fwlink/p/?linkid=2123420).
+
+
 
 > [!NOTE]
 > - 이러한 버전 및 빌드 번호는 Office 365 Business, Visio Pro for Office 365 및 Project Online 데스크톱 클라이언트에도 적용됩니다. Office 365 Business는 Business Premium과 같은 일부 Office 365 계획에 포함된 Office 버전입니다.
