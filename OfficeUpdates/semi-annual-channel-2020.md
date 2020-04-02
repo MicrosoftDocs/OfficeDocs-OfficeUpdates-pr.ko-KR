@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Office 365 ProPlus에 대한 반기 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: bfee11b418a3f35fb7ba2d293bbab60b4c42e240
-ms.sourcegitcommit: 251e261d62e807532414ad33904ddb58813867eb
+ms.openlocfilehash: ebcf5fde37793b290e5c8fff1e33462a207c3a55
+ms.sourcegitcommit: 937711535d3b08b7d04ef8a8a6cffe038968ce5f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43024530"
+ms.lasthandoff: 03/31/2020
+ms.locfileid: "43076278"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>2020년 반기 채널 릴리스에 대한 릴리스 정보
 
@@ -200,6 +200,8 @@ ms.locfileid: "43024530"
 
 - **파워 쿼리 기능 향상을 통한 신속한 코드:** 자동 완성 및 구문 색상을 사용하여 신속하게 코드를 완성하세요. 함수, 열, 매개 변수를 쉽게 검색할 수 있습니다.
 
+- **검색하여 즐겁게 사용해 보세요.** 원하는 아이콘을 쉽게 찾을 수 있도록 검색하여 아이콘 삽입을 추가했습니다. 그리고 선택할 때, 삽입 단추를 클릭하여 선택한 수를 알 수 있습니다. [자세한 정보](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
 ### <a name="outlook"></a>Outlook
 
 - **Outlook 사용자 환경이 업데이트됨:** 출시 예정을 사용하여 이전에 미리 볼 수 있었던 간소화된 환경은 가장 중요한 작업에 집중할 수 있도록 설계되었습니다. [자세한 정보](https://support.office.com/article/db503157-1b45-45d5-af52-e9c978cd8bed)
@@ -218,6 +220,8 @@ ms.locfileid: "43024530"
 
 - **동기화 제한 문제 해결:** Outlook의 기능 향상으로 폴더 제한이 사라지고 공유된 편지함을 동기화할 수 있습니다.
 
+- **검색하여 즐겁게 사용해 보세요.** 원하는 아이콘을 쉽게 찾을 수 있도록 검색하여 아이콘 삽입을 추가했습니다. 그리고 선택할 때, 삽입 단추를 클릭하여 선택한 수를 알 수 있습니다. [자세한 정보](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
 ### <a name="powerpoint"></a>PowerPoint
 
 - **더 나은 변신:** 셰이프에 이름을 지정하여 셰이프의 모핑 과정을 더 효율적으로 관리하세요. [자세한 정보](https://support.office.com/article/bc7f48ff-f152-4ee8-9081-d3121788024f)
@@ -235,6 +239,8 @@ ms.locfileid: "43024530"
 - **대상 그룹에 퀴즈를 내거나 설문 조사하기:** 슬라이드에 퀴즈 또는 설문 조사를 넣습니다. Office가 응답을 수집하고 저장합니다. [자세한 정보](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
 
 - **그 어느 때보다 쉬운 온라인 비디오 삽입:** 슬라이드에 Vimeo 또는 YouTube 비디오를 삽입해야 하나요? 비디오 페이지 링크만 있으면 됩니다. [자세히 알아보기](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
+
+- **검색하여 즐겁게 사용해 보세요.** 원하는 아이콘을 쉽게 찾을 수 있도록 검색하여 아이콘 삽입을 추가했습니다. 그리고 선택할 때, 삽입 단추를 클릭하여 선택한 수를 알 수 있습니다. [자세한 정보](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="project"></a>Project
 
@@ -275,6 +281,8 @@ ms.locfileid: "43024530"
 - **변경 내용을 실시간으로 저장:** 파일을 OneDrive에 업로드하여 모든 업데이트를 자동으로 저장할 수 있습니다.
 
 - **\@멘션으로 주의 끌기:** 메모에 @멘션을 사용하여 입력이 필요하다는 사실을 동료들에게 알립니다. [자세한 정보](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
+
+- **검색하여 즐겁게 사용해 보세요.** 원하는 아이콘을 쉽게 찾을 수 있도록 검색하여 아이콘 삽입을 추가했습니다. 그리고 선택할 때, 삽입 단추를 클릭하여 선택한 수를 알 수 있습니다. [자세한 정보](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="office-suite"></a>Office 제품군
 

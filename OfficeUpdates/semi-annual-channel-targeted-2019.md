@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 반기 채널(대상 지정) 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 6047a39a1db741ed60a8fc265fa7b9333339fe8a
-ms.sourcegitcommit: 2a7fa66d0cc399e8ae5d824dab7b84a460cc2c9f
+ms.openlocfilehash: d535c5748afb3dba80096509e48f1f32128c1790
+ms.sourcegitcommit: 937711535d3b08b7d04ef8a8a6cffe038968ce5f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42982519"
+ms.lasthandoff: 03/31/2020
+ms.locfileid: "43076295"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019년 반기 채널(대상 지정) 릴리스에 대한 릴리스 정보
 
@@ -277,6 +277,8 @@ ms.locfileid: "42982519"
 
 - **파워 쿼리 기능 향상을 통한 신속한 코드:** 자동 완성 및 구문 색상을 사용하여 신속하게 코드를 완성하세요. 함수, 열, 매개 변수를 쉽게 검색할 수 있습니다.
 
+- **검색하여 즐겁게 사용해 보세요.** 원하는 아이콘을 쉽게 찾을 수 있도록 검색하여 아이콘 삽입을 추가했습니다. 그리고 선택할 때, 삽입 단추를 클릭하여 선택한 수를 알 수 있습니다. [자세한 정보](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
 ### <a name="outlook"></a>Outlook
 
 - **메시지를 전달하는 동안에도 작업 지속 가능:** Outlook이 이제 백그라운드에서 메시지를 전달합니다. 따라서 폴더 간에 많은 메시지를 주고 받는 동안에도 작업을 계속할 수 있습니다.
@@ -297,6 +299,8 @@ ms.locfileid: "42982519"
 
 - **동기화 제한 문제 해결:** Outlook의 기능 향상으로 폴더 제한이 사라지고 공유된 편지함을 동기화할 수 있습니다.
 
+- **검색하여 즐겁게 사용해 보세요.** 원하는 아이콘을 쉽게 찾을 수 있도록 검색하여 아이콘 삽입을 추가했습니다. 그리고 선택할 때, 삽입 단추를 클릭하여 선택한 수를 알 수 있습니다. [자세한 정보](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
 ### <a name="powerpoint"></a>PowerPoint
 
 - **대상 그룹에 퀴즈를 내거나 설문 조사하기:** 슬라이드에 퀴즈 또는 설문 조사를 넣습니다. Office가 응답을 수집하고 저장합니다. [자세한 정보](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
@@ -314,6 +318,8 @@ ms.locfileid: "42982519"
 - **원활하게 전환:** 새 계정 관리자는 모든 Office 365 작업 및 개인 계정을 한 곳에 표시합니다. 회사 및 개인 계정 간 전환이 매우 용이합니다. [자세한 정보](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
 
 - **온라인 비디오의 새로운 홈:** 조직의 모든 사람이 볼 수 있도록 비디오를 Microsoft Stream에 저장하세요. 비디오 링크를 삽입하고 파일 크기의 일부로 멀티미디어 프레젠테이션을 즐겨보세요. [자세한 정보](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
+
+- **검색하여 즐겁게 사용해 보세요.** 원하는 아이콘을 쉽게 찾을 수 있도록 검색하여 아이콘 삽입을 추가했습니다. 그리고 선택할 때, 삽입 단추를 클릭하여 선택한 수를 알 수 있습니다. [자세한 정보](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="project"></a>Project
 
@@ -354,6 +360,8 @@ ms.locfileid: "42982519"
 - **원활하게 전환:** 새 계정 관리자는 모든 Office 365 작업 및 개인 계정을 한 곳에 표시합니다. 회사 및 개인 계정 간 전환이 매우 용이합니다. [자세한 정보](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
 
 - **더 이상 혼란을 겪지 마세요:** Mac에서 자주 사용되는 기능이 Windows에 도입되었습니다. 보기 메뉴에서 포커스로 전환하면 주의를 산만하게 하는 요인들을 제거하고 작업에 집중할 수 있습니다. [자세한 정보](https://support.office.com/article/51af2fb2-194f-424b-ab7e-b65de9ec9292)
+
+- **검색하여 즐겁게 사용해 보세요.** 원하는 아이콘을 쉽게 찾을 수 있도록 검색하여 아이콘 삽입을 추가했습니다. 그리고 선택할 때, 삽입 단추를 클릭하여 선택한 수를 알 수 있습니다. [자세한 정보](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="office-suite"></a>Office 제품군
 
