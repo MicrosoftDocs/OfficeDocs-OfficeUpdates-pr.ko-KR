@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: c976d6efb890e2a9245eb2d1730a8df520e733c5
-ms.sourcegitcommit: a406af1a6bfdd36158fe427159cf27c2c1dad902
+ms.openlocfilehash: 1ad39564413906ae45b977b57c7336f19b15e1f9
+ms.sourcegitcommit: 6f8ebfd45430efe3eb3bf43823202cbdd974f5ed
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43030925"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43081787"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>2020년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -24,6 +24,28 @@ ms.locfileid: "43030925"
 >
 >- Microsoft는 일정 기간 동안 매월 기능(및 경우에 따라 수정 사항)을 롤아웃합니다.  아래에서 설명했던 내용이 바로 보이지 않으면 곧 예측할 수 있습니다. [자세한 정보](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 >- Office 365 ProPlus의 기존 설치에 대한 Microsoft Temas - 7월 초부터 Office 365 ProPlus(및 Office 365 Business)의 업데이트에 Microsoft Teams가 포함됩니다.  Teams가 추가되는 날짜는 사용 중인 업데이트 채널에 따라 다릅니다. 추가 정보는 [Office 365 ProPlus와 함께 Microsoft Teams 배포](https://docs.microsoft.com/deployoffice/teams-install)를 참조하세요.
+
+## <a name="version-2003-march-31"></a>버전 2003: 3월 31일
+*버전 2003 (빌드 12624.20382)*
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="onenote"></a>OneNote
+
+- 휴지통으로 페이지 이동을 일시적으로 비활성화하여 동기화 및 서버 안정성이 향상되었습니다. 대신 페이지를 삭제하려는 사용자에게는 페이지를 영구적으로 삭제할 것인지 묻는 대화 상자가 표시됩니다.
+
+- InfoBar를 통해 사용자에게 Microsoft OneNote의 임시 조정에 대해 알리고 전 세계적으로 사용하는 동안 동기화 및 서비스 가용성을 향상시킬 수 있습니다.
+
+- 페이지 버전 기록이 생성되는 빈도를 일시적으로 변경하여 동기화 및 서비스 안정성이 향상되었습니다.
+
+### <a name="project"></a>Project
+
+- 실제 작업 시간을 보호하는 설정이 설정된 경우 사용자가 기간별 초기 작업 시간을 입력할 수 없는 문제가 수정되었습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2003-march-25"></a>버전 2003: 3월 25일
 *버전 2003 (빌드 12624.20320)*
@@ -61,11 +83,17 @@ ms.locfileid: "43030925"
 
 - 서식 파일에서 차트를 만들 때 성능 문제를 해결했습니다.
 
+### <a name="onenote"></a>OneNote
+
+- 새로운 내장 첨부 파일의 최대 허용 크기를 50MB로 일시적으로 줄여 동기화 및 서비스 안정성을 개선했습니다. 이 제한을 초과하는 파일의 경우 사용자는 파일을 OneDrive에 업로드하고 OneNote에 링크를 삽입할 수 있습니다.
+
+- OneNote 2016에서 앱 내 비디오 녹화를 일시적으로 사용하지 않도록 설정하여 동기화 및 서비스 안정성을 향상시켰습니다. 로컬 노트북은 이 조치의 영향을받지 않습니다.
+
+- OneNote 2016에서 동기화 빈도를 일시적으로 조정하여 동기화 및 서비스 안정성을 개선했습니다.
 
 ### <a name="outlook"></a>Outlook
 
 - 사용자가 종료 후 작업 관리자에 남아 있는 Outlook 프로세스를 보게 되는 문제를 해결했습니다.
-
 
 ### <a name="powerpoint"></a>PowerPoint
 

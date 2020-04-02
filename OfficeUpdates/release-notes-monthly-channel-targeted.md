@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 이후 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: bf8c3aa36a0b6f31fe209a2b8ad504485b591542
-ms.sourcegitcommit: ee61dcf8fd0ae2e15db586fec9d15897aa712254
+ms.openlocfilehash: 5b3cc2b72424536ec294fe9881bab82d16a5bb11
+ms.sourcegitcommit: 937711535d3b08b7d04ef8a8a6cffe038968ce5f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42951708"
+ms.lasthandoff: 03/31/2020
+ms.locfileid: "43076279"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 릴리스 정보 월 단위 채널(대상 지정)
 
@@ -29,6 +29,32 @@ ms.locfileid: "42951708"
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2003-march-31"></a>버전 2003: 3월 31일
+*버전 2003 (빌드 12624.20382)*
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="access"></a>Access
+
+- **"테이블 추가" 작업 창:** Access의 새로운 "테이블 추가" 작업 창이 마침내 나왔습니다! 이 기능을 사용하면 쿼리 및 관계 보기에 대한 "테이블 표시" 대화 상자를 탐색하지 않고도 쿼리 창에 추가하거나 제거할 테이블을 손쉽게 선택/여러 개 선택할 수 있습니다. 여기에는 연결된 테이블을 표시하는 새로운 "링크" 탭, 현재 목록을 필터링하는 검색 상자, "끌어다 놓기" 동작 등이 포함됩니다.
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="project"></a>Project
+
+- <div><span style="display:inline !important;">실제 작업 시간을 보호하는 설정이 설정된 경우 사용자가 기간별 초기 작업 시간을 입력할 수 없는 문제가 수정되었습니다.</span><br></div>
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2003-march-25"></a>버전 2003: 3월 25일
 *버전 2003 (빌드 12624.20320)*
