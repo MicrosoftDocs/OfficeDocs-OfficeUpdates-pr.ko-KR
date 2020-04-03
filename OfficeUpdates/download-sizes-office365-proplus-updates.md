@@ -9,173 +9,189 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 각 업데이트 채널에 대한 Office 365 ProPlus 업데이트의 대략적인 다운로드 크기 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: c1a9d8828d928a800fe3f1778fcfa429adc7dee0
-ms.sourcegitcommit: ddefa52be7376fad84cbcb5554d6f9e9f06c4c60
+ms.openlocfilehash: e09cf62186fc223897d1c57ac4f54d7749712821
+ms.sourcegitcommit: 937711535d3b08b7d04ef8a8a6cffe038968ce5f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43046103"
+ms.lasthandoff: 03/31/2020
+ms.locfileid: "43076251"
 ---
-# <a name="download-sizes-for-updates-to-office-365-proplus"></a><span data-ttu-id="7f6c8-103">Office 365 ProPlus 업데이트의 다운로드 크기</span><span class="sxs-lookup"><span data-stu-id="7f6c8-103">Download sizes for updates to Office 365 ProPlus</span></span>
+# <a name="download-sizes-for-updates-to-office-365-proplus"></a><span data-ttu-id="1a80c-103">Office 365 ProPlus 업데이트의 다운로드 크기</span><span class="sxs-lookup"><span data-stu-id="1a80c-103">Download sizes for updates to Office 365 ProPlus</span></span>
 
-<span data-ttu-id="7f6c8-104">Microsoft의 목표는 기업 고객이 네트워크 대역폭 사용률을 계획하는 데 도움이 되도록 미리 업데이트 크기 정보를 제공하는 것입니다.</span><span class="sxs-lookup"><span data-stu-id="7f6c8-104">Our goal is to provide update size information, if possible, in advance to help enterprise customers plan network bandwidth utilization.</span></span>
+<span data-ttu-id="1a80c-104">Microsoft의 목표는 기업 고객이 네트워크 대역폭 사용률을 계획하는 데 도움이 되도록 미리 업데이트 크기 정보를 제공하는 것입니다.</span><span class="sxs-lookup"><span data-stu-id="1a80c-104">Our goal is to provide update size information, if possible, in advance to help enterprise customers plan network bandwidth utilization.</span></span>
 
-<span data-ttu-id="7f6c8-105">다음 표에는 이전 버전의 Office 365 ProPlus에서 최신 릴리스로 업데이트할 때의 대략적인 다운로드 크기가 나와 있습니다.</span><span class="sxs-lookup"><span data-stu-id="7f6c8-105">The following tables show the approximate download size when updating from the previous release of Office 365 ProPlus to the most current release.</span></span> <span data-ttu-id="7f6c8-106">실제 다운로드 크기는 50MB 정도까지 달라질 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="7f6c8-106">Actual download sizes might vary, by as much as 50 mb.</span></span> <span data-ttu-id="7f6c8-107">이전 릴리스에서 현재 릴리스로 업데이트하는 경우 다운로드 크기가 더 커질 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="7f6c8-107">If you are updating from an older release to the current release, your download size could be larger.</span></span>
+<span data-ttu-id="1a80c-105">다음 표에는 이전 버전의 Office 365 ProPlus에서 최신 릴리스로 업데이트할 때의 대략적인 다운로드 크기가 나와 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a80c-105">The following tables show the approximate download size when updating from the previous release of Office 365 ProPlus to the most current release.</span></span> <span data-ttu-id="1a80c-106">실제 다운로드 크기는 50MB 정도까지 달라질 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a80c-106">Actual download sizes might vary, by as much as 50 mb.</span></span> <span data-ttu-id="1a80c-107">이전 릴리스에서 현재 릴리스로 업데이트하는 경우 다운로드 크기가 더 커질 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a80c-107">If you are updating from an older release to the current release, your download size could be larger.</span></span>
 
-<span data-ttu-id="7f6c8-108">다른 채널로 전환하는 경우(예: 반기 채널(대상 지정)에서 반기 채널로), 업데이트 크기가 표에 나오는 것보다 훨씬 클 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="7f6c8-108">If you are switching to a different channel, for example from Semi-Annual Channel (Targeted) to Semi-Annual Channel, your update size could be considerably larger than what's listed in the table.</span></span> <span data-ttu-id="7f6c8-109">이 경우 전체 다운로드가 필요할 수 있으며 1GB 이상일 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="7f6c8-109">It could entail a full download, which could be at least 1 GB.</span></span>
+<span data-ttu-id="1a80c-108">다른 채널로 전환하는 경우(예: 반기 채널(대상 지정)에서 반기 채널로), 업데이트 크기가 표에 나오는 것보다 훨씬 클 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a80c-108">If you are switching to a different channel, for example from Semi-Annual Channel (Targeted) to Semi-Annual Channel, your update size could be considerably larger than what's listed in the table.</span></span> <span data-ttu-id="1a80c-109">이 경우 전체 다운로드가 필요할 수 있으며 1GB 이상일 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a80c-109">It could entail a full download, which could be at least 1 GB.</span></span>
 
 
 > [!IMPORTANT]
-> <span data-ttu-id="7f6c8-110">Office 365 ProPlus가 **엔터프라이즈용 Microsoft 365 앱**으로 이름이 변경됩니다.</span><span class="sxs-lookup"><span data-stu-id="7f6c8-110">Office 365 ProPlus is being renamed to **Microsoft 365 Apps for enterprise**.</span></span> <span data-ttu-id="7f6c8-111">이름을 변경하는 방법에 대한 자세한 내용은 [이 블로그 게시물을 참조하세요](https://go.microsoft.com/fwlink/p/?linkid=2120533).</span><span class="sxs-lookup"><span data-stu-id="7f6c8-111">To learn more about this name change, [read this blog post](https://go.microsoft.com/fwlink/p/?linkid=2120533).</span></span> 
+> <span data-ttu-id="1a80c-110">Office 365 ProPlus가 **엔터프라이즈용 Microsoft 365 앱**으로 이름이 변경됩니다.</span><span class="sxs-lookup"><span data-stu-id="1a80c-110">Office 365 ProPlus is being renamed to **Microsoft 365 Apps for enterprise**.</span></span> <span data-ttu-id="1a80c-111">이름을 변경하는 방법에 대한 자세한 내용은 [이 블로그 게시물을 참조하세요](https://go.microsoft.com/fwlink/p/?linkid=2120533).</span><span class="sxs-lookup"><span data-stu-id="1a80c-111">To learn more about this name change, [read this blog post](https://go.microsoft.com/fwlink/p/?linkid=2120533).</span></span> 
 >
-> <span data-ttu-id="7f6c8-112">이 변경 사항이 적용되는 시기 및 관리자가 수행해야 하는 작업에 대한 자세한 내용은 [이 문서를 참조하세요](https://go.microsoft.com/fwlink/p/?linkid=2123420).</span><span class="sxs-lookup"><span data-stu-id="7f6c8-112">For details of when this change takes effect, and what actions admins might need to take, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2123420).</span></span>
+> <span data-ttu-id="1a80c-112">이 변경 사항이 적용되는 시기 및 관리자가 수행해야 하는 작업에 대한 자세한 내용은 [이 문서를 참조하세요](https://go.microsoft.com/fwlink/p/?linkid=2123420).</span><span class="sxs-lookup"><span data-stu-id="1a80c-112">For details of when this change takes effect, and what actions admins might need to take, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2123420).</span></span>
 
 
 
 > [!NOTE]
-> - <span data-ttu-id="7f6c8-113">표에 나열된 대략적인 다운로드 크기는 Office 365 ProPlus en-us x64 버전에만 적용됩니다.</span><span class="sxs-lookup"><span data-stu-id="7f6c8-113">The approximate download size listed in the tables only applies to the en-us x64 version of Office 365 ProPlus.</span></span>
-> - <span data-ttu-id="7f6c8-114">지난 4개월 동안의 릴리스만 표시됩니다.</span><span class="sxs-lookup"><span data-stu-id="7f6c8-114">Releases from the last four months are listed.</span></span>
+> - <span data-ttu-id="1a80c-113">표에 나열된 대략적인 다운로드 크기는 Office 365 ProPlus en-us x64 버전에만 적용됩니다.</span><span class="sxs-lookup"><span data-stu-id="1a80c-113">The approximate download size listed in the tables only applies to the en-us x64 version of Office 365 ProPlus.</span></span>
+> - <span data-ttu-id="1a80c-114">지난 4개월 동안의 릴리스만 표시됩니다.</span><span class="sxs-lookup"><span data-stu-id="1a80c-114">Releases from the last four months are listed.</span></span>
 
 [//]: # (제거하지 마세요)
 
-## <a name="march-25-2020"></a><span data-ttu-id="7f6c8-116">2020년 3월 25일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-116">March 25, 2020</span></span>
+## <a name="march-31-2020"></a><span data-ttu-id="1a80c-116">2020년 3월 31일</span><span class="sxs-lookup"><span data-stu-id="1a80c-116">March 31, 2020</span></span>
+
+[//]: # (콘텐츠를 제거하지 마세요. 시작 2020년 3월 31일)
+
+### <a name="monthly-channel"></a><span data-ttu-id="1a80c-118">월별 채널</span><span class="sxs-lookup"><span data-stu-id="1a80c-118">Monthly Channel</span></span>
+
+<span data-ttu-id="1a80c-119">가장 최근 버전은 버전 2003 (빌드 12624.20382)입니다.</span><span class="sxs-lookup"><span data-stu-id="1a80c-119">The most current release is Version 2003 (Build 12624.20382).</span></span>
+
+|<span data-ttu-id="1a80c-120">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="1a80c-120">**Release upgrading from**</span></span>|<span data-ttu-id="1a80c-121">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="1a80c-121">**Release date**</span></span>|<span data-ttu-id="1a80c-122">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="1a80c-122">**Approximate download size (in MB)**</span></span>|
+|:-----|:-----|:-----|
+|<span data-ttu-id="1a80c-123">버전 2003 (빌드 12624.20320)</span><span class="sxs-lookup"><span data-stu-id="1a80c-123">Version 2003 (Build 12624.20320)</span></span> <br/> |<span data-ttu-id="1a80c-124">2020년 3월 25일</span><span class="sxs-lookup"><span data-stu-id="1a80c-124">March 25, 2020</span></span> <br/> |<span data-ttu-id="1a80c-125">64</span><span class="sxs-lookup"><span data-stu-id="1a80c-125">64</span></span><br/> |
+|<span data-ttu-id="1a80c-126">버전 2002 (빌드 12527.20278)</span><span class="sxs-lookup"><span data-stu-id="1a80c-126">Version 2002 (Build 12527.20278)</span></span> <br/> |<span data-ttu-id="1a80c-127">2020년 3월 10일</span><span class="sxs-lookup"><span data-stu-id="1a80c-127">March 10, 2020</span></span> <br/> |<span data-ttu-id="1a80c-128">168</span><span class="sxs-lookup"><span data-stu-id="1a80c-128">168</span></span><br/> |
+
+
+[//]: # (콘텐츠를 제거하지 마세요. 종료 2020년 3월 31일)
+
+## <a name="march-25-2020"></a><span data-ttu-id="1a80c-130">2020년 3월 25일</span><span class="sxs-lookup"><span data-stu-id="1a80c-130">March 25, 2020</span></span>
 
 [//]: # (콘텐츠를 제거하지 마세요. 시작 2020년 3월 25일)
 
-### <a name="monthly-channel"></a><span data-ttu-id="7f6c8-118">월 단위 채널</span><span class="sxs-lookup"><span data-stu-id="7f6c8-118">Monthly Channel</span></span>
+### <a name="monthly-channel"></a><span data-ttu-id="1a80c-132">월 단위 채널</span><span class="sxs-lookup"><span data-stu-id="1a80c-132">Monthly Channel</span></span>
 
-<span data-ttu-id="7f6c8-119">가장 최근 버전은 버전 2003 (빌드 12624.20320)입니다.</span><span class="sxs-lookup"><span data-stu-id="7f6c8-119">The most current release is Version 2003 (Build 12624.20320).</span></span>
+<span data-ttu-id="1a80c-133">가장 최근 버전은 버전 2003 (빌드 12624.20320)입니다.</span><span class="sxs-lookup"><span data-stu-id="1a80c-133">The most current release is Version 2003 (Build 12624.20320).</span></span>
 
-|<span data-ttu-id="7f6c8-120">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-120">**Release upgrading from**</span></span>|<span data-ttu-id="7f6c8-121">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-121">**Release date**</span></span>|<span data-ttu-id="7f6c8-122">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-122">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="1a80c-134">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="1a80c-134">**Release upgrading from**</span></span>|<span data-ttu-id="1a80c-135">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="1a80c-135">**Release date**</span></span>|<span data-ttu-id="1a80c-136">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="1a80c-136">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="7f6c8-123">버전 2002 (빌드 12527.20278)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-123">Version 2002 (Build 12527.20278)</span></span> <br/> |<span data-ttu-id="7f6c8-124">2020년 3월 10일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-124">March 10, 2020</span></span> <br/> |<span data-ttu-id="7f6c8-125">171</span><span class="sxs-lookup"><span data-stu-id="7f6c8-125">171</span></span><br/> |
-|<span data-ttu-id="7f6c8-126">버전 2002 (빌드 12527.20242)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-126">Version 2002 (Build 12527.20242)</span></span> <br/> |<span data-ttu-id="7f6c8-127">2020년 3월 1일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-127">March 1, 2020</span></span> <br/> |<span data-ttu-id="7f6c8-128">172</span><span class="sxs-lookup"><span data-stu-id="7f6c8-128">172</span></span><br/> |
+|<span data-ttu-id="1a80c-137">버전 2002 (빌드 12527.20278)</span><span class="sxs-lookup"><span data-stu-id="1a80c-137">Version 2002 (Build 12527.20278)</span></span> <br/> |<span data-ttu-id="1a80c-138">2020년 3월 10일</span><span class="sxs-lookup"><span data-stu-id="1a80c-138">March 10, 2020</span></span> <br/> |<span data-ttu-id="1a80c-139">171</span><span class="sxs-lookup"><span data-stu-id="1a80c-139">171</span></span><br/> |
+|<span data-ttu-id="1a80c-140">버전 2002 (빌드 12527.20242)</span><span class="sxs-lookup"><span data-stu-id="1a80c-140">Version 2002 (Build 12527.20242)</span></span> <br/> |<span data-ttu-id="1a80c-141">2020년 3월 1일</span><span class="sxs-lookup"><span data-stu-id="1a80c-141">March 1, 2020</span></span> <br/> |<span data-ttu-id="1a80c-142">172</span><span class="sxs-lookup"><span data-stu-id="1a80c-142">172</span></span><br/> |
 
 
 [//]: # (컨텐츠를 제거하지 마세요. 종료 2020년 3월 25일)
 
-## <a name="march-10-2020"></a><span data-ttu-id="7f6c8-130">2020년 3월 10일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-130">March 10, 2020</span></span>
+## <a name="march-10-2020"></a><span data-ttu-id="1a80c-144">2020년 3월 10일</span><span class="sxs-lookup"><span data-stu-id="1a80c-144">March 10, 2020</span></span>
 
-### <a name="monthly-channel"></a><span data-ttu-id="7f6c8-131">월별 채널</span><span class="sxs-lookup"><span data-stu-id="7f6c8-131">Monthly Channel</span></span>
+### <a name="monthly-channel"></a><span data-ttu-id="1a80c-145">월별 채널</span><span class="sxs-lookup"><span data-stu-id="1a80c-145">Monthly Channel</span></span>
 
-<span data-ttu-id="7f6c8-132">가장 최근 릴리스는 버전 2002 (빌드 12527.20278)입니다.</span><span class="sxs-lookup"><span data-stu-id="7f6c8-132">The most current release is Version 2002 (Build 12527.20278).</span></span>
+<span data-ttu-id="1a80c-146">가장 최근 릴리스는 버전 2002 (빌드 12527.20278)입니다.</span><span class="sxs-lookup"><span data-stu-id="1a80c-146">The most current release is Version 2002 (Build 12527.20278).</span></span>
 
-|<span data-ttu-id="7f6c8-133">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-133">**Release upgrading from**</span></span>|<span data-ttu-id="7f6c8-134">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-134">**Release date**</span></span>|<span data-ttu-id="7f6c8-135">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-135">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="1a80c-147">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="1a80c-147">**Release upgrading from**</span></span>|<span data-ttu-id="1a80c-148">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="1a80c-148">**Release date**</span></span>|<span data-ttu-id="1a80c-149">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="1a80c-149">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="7f6c8-136">버전 2002 (빌드 12527.20242)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-136">Version 2002 (Build 12527.20242)</span></span> <br/> |<span data-ttu-id="7f6c8-137">2020년 3월 1일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-137">March 1, 2020</span></span> <br/> |<span data-ttu-id="7f6c8-138">40</span><span class="sxs-lookup"><span data-stu-id="7f6c8-138">40</span></span><br/> |
-|<span data-ttu-id="7f6c8-139">버전 2002 (빌드 12527.20194)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-139">Version 2002 (Build 12527.20194)</span></span> <br/> |<span data-ttu-id="7f6c8-140">2020년 2월 25일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-140">February 25, 2020</span></span> <br/> |<span data-ttu-id="7f6c8-141">266</span><span class="sxs-lookup"><span data-stu-id="7f6c8-141">266</span></span><br/> |
+|<span data-ttu-id="1a80c-150">버전 2002 (빌드 12527.20242)</span><span class="sxs-lookup"><span data-stu-id="1a80c-150">Version 2002 (Build 12527.20242)</span></span> <br/> |<span data-ttu-id="1a80c-151">2020년 3월 1일</span><span class="sxs-lookup"><span data-stu-id="1a80c-151">March 1, 2020</span></span> <br/> |<span data-ttu-id="1a80c-152">40</span><span class="sxs-lookup"><span data-stu-id="1a80c-152">40</span></span><br/> |
+|<span data-ttu-id="1a80c-153">버전 2002 (빌드 12527.20194)</span><span class="sxs-lookup"><span data-stu-id="1a80c-153">Version 2002 (Build 12527.20194)</span></span> <br/> |<span data-ttu-id="1a80c-154">2020년 2월 25일</span><span class="sxs-lookup"><span data-stu-id="1a80c-154">February 25, 2020</span></span> <br/> |<span data-ttu-id="1a80c-155">266</span><span class="sxs-lookup"><span data-stu-id="1a80c-155">266</span></span><br/> |
 
 
 [//]: # (콘텐츠를 제거하지 마세요. 시작 2020년 3월 10일)
 
-### <a name="semi-annual-channel"></a><span data-ttu-id="7f6c8-143">반기 채널</span><span class="sxs-lookup"><span data-stu-id="7f6c8-143">Semi-Annual Channel</span></span>
+### <a name="semi-annual-channel"></a><span data-ttu-id="1a80c-157">반기 채널</span><span class="sxs-lookup"><span data-stu-id="1a80c-157">Semi-Annual Channel</span></span>
 
-<span data-ttu-id="7f6c8-144">가장 최근 릴리스는 버전 1908 (빌드 11929.20648)입니다.</span><span class="sxs-lookup"><span data-stu-id="7f6c8-144">The most current release is Version 1908 (Build 11929.20648).</span></span>
+<span data-ttu-id="1a80c-158">가장 최근 릴리스는 버전 1908 (빌드 11929.20648)입니다.</span><span class="sxs-lookup"><span data-stu-id="1a80c-158">The most current release is Version 1908 (Build 11929.20648).</span></span>
 
-|<span data-ttu-id="7f6c8-145">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-145">**Release upgrading from**</span></span>|<span data-ttu-id="7f6c8-146">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-146">**Release date**</span></span>|<span data-ttu-id="7f6c8-147">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-147">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="1a80c-159">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="1a80c-159">**Release upgrading from**</span></span>|<span data-ttu-id="1a80c-160">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="1a80c-160">**Release date**</span></span>|<span data-ttu-id="1a80c-161">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="1a80c-161">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="7f6c8-148">버전 1908(빌드 11929.20606)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-148">Version 1908 (Build 11929.20606)</span></span> <br/> |<span data-ttu-id="7f6c8-149">2020년 2월 11일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-149">February 11, 2020</span></span> <br/> |<span data-ttu-id="7f6c8-150">64</span><span class="sxs-lookup"><span data-stu-id="7f6c8-150">64</span></span><br/> |
-|<span data-ttu-id="7f6c8-151">버전 1908(빌드 11929.20562)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-151">Version 1908 (Build 11929.20562)</span></span> <br/> |<span data-ttu-id="7f6c8-152">2020년 1월 14일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-152">January 14, 2020</span></span> <br/> |<span data-ttu-id="7f6c8-153">73</span><span class="sxs-lookup"><span data-stu-id="7f6c8-153">73</span></span><br/> |
+|<span data-ttu-id="1a80c-162">버전 1908(빌드 11929.20606)</span><span class="sxs-lookup"><span data-stu-id="1a80c-162">Version 1908 (Build 11929.20606)</span></span> <br/> |<span data-ttu-id="1a80c-163">2020년 2월 11일</span><span class="sxs-lookup"><span data-stu-id="1a80c-163">February 11, 2020</span></span> <br/> |<span data-ttu-id="1a80c-164">64</span><span class="sxs-lookup"><span data-stu-id="1a80c-164">64</span></span><br/> |
+|<span data-ttu-id="1a80c-165">버전 1908(빌드 11929.20562)</span><span class="sxs-lookup"><span data-stu-id="1a80c-165">Version 1908 (Build 11929.20562)</span></span> <br/> |<span data-ttu-id="1a80c-166">2020년 1월 14일</span><span class="sxs-lookup"><span data-stu-id="1a80c-166">January 14, 2020</span></span> <br/> |<span data-ttu-id="1a80c-167">73</span><span class="sxs-lookup"><span data-stu-id="1a80c-167">73</span></span><br/> |
 
 
-### <a name="semi-annual-targeted-channel"></a><span data-ttu-id="7f6c8-154">반기(대상 지정) 채널</span><span class="sxs-lookup"><span data-stu-id="7f6c8-154">Semi-Annual (Targeted) Channel</span></span>
+### <a name="semi-annual-targeted-channel"></a><span data-ttu-id="1a80c-168">반기(대상 지정) 채널</span><span class="sxs-lookup"><span data-stu-id="1a80c-168">Semi-Annual (Targeted) Channel</span></span>
 
-<span data-ttu-id="7f6c8-155">가장 최근 릴리스는 버전 2002 (빌드 12527.20278)입니다.</span><span class="sxs-lookup"><span data-stu-id="7f6c8-155">The most current release is Version 2002 (Build 12527.20278).</span></span>
+<span data-ttu-id="1a80c-169">가장 최근 릴리스는 버전 2002 (빌드 12527.20278)입니다.</span><span class="sxs-lookup"><span data-stu-id="1a80c-169">The most current release is Version 2002 (Build 12527.20278).</span></span>
 
-|<span data-ttu-id="7f6c8-156">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-156">**Release upgrading from**</span></span>|<span data-ttu-id="7f6c8-157">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-157">**Release date**</span></span>|<span data-ttu-id="7f6c8-158">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-158">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="1a80c-170">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="1a80c-170">**Release upgrading from**</span></span>|<span data-ttu-id="1a80c-171">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="1a80c-171">**Release date**</span></span>|<span data-ttu-id="1a80c-172">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="1a80c-172">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="7f6c8-159">버전 1908(빌드 11929.20606)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-159">Version 1908 (Build 11929.20606)</span></span> <br/> |<span data-ttu-id="7f6c8-160">2020년 2월 11일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-160">February 11, 2020</span></span> <br/> |<span data-ttu-id="7f6c8-161">291</span><span class="sxs-lookup"><span data-stu-id="7f6c8-161">291</span></span><br/> |
-|<span data-ttu-id="7f6c8-162">버전 1908(빌드 11929.20562)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-162">Version 1908 (Build 11929.20562)</span></span> <br/> |<span data-ttu-id="7f6c8-163">2020년 1월 14일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-163">January 14, 2020</span></span> <br/> |<span data-ttu-id="7f6c8-164">292</span><span class="sxs-lookup"><span data-stu-id="7f6c8-164">292</span></span><br/> |
+|<span data-ttu-id="1a80c-173">버전 1908(빌드 11929.20606)</span><span class="sxs-lookup"><span data-stu-id="1a80c-173">Version 1908 (Build 11929.20606)</span></span> <br/> |<span data-ttu-id="1a80c-174">2020년 2월 11일</span><span class="sxs-lookup"><span data-stu-id="1a80c-174">February 11, 2020</span></span> <br/> |<span data-ttu-id="1a80c-175">291</span><span class="sxs-lookup"><span data-stu-id="1a80c-175">291</span></span><br/> |
+|<span data-ttu-id="1a80c-176">버전 1908(빌드 11929.20562)</span><span class="sxs-lookup"><span data-stu-id="1a80c-176">Version 1908 (Build 11929.20562)</span></span> <br/> |<span data-ttu-id="1a80c-177">2020년 1월 14일</span><span class="sxs-lookup"><span data-stu-id="1a80c-177">January 14, 2020</span></span> <br/> |<span data-ttu-id="1a80c-178">292</span><span class="sxs-lookup"><span data-stu-id="1a80c-178">292</span></span><br/> |
 
 
 [//]: # (컨텐츠를 제거하지 마세요. 종료 2020년 3월 10일)
 
-## <a name="march-6-2020"></a><span data-ttu-id="7f6c8-166">2020년 3월 6일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-166">March 6, 2020</span></span>
+## <a name="march-6-2020"></a><span data-ttu-id="1a80c-180">2020년 3월 6일</span><span class="sxs-lookup"><span data-stu-id="1a80c-180">March 6, 2020</span></span>
 
 
 
 
-## <a name="march-1-2020"></a><span data-ttu-id="7f6c8-167">2020년 3월 1일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-167">March 1, 2020</span></span>
+## <a name="march-1-2020"></a><span data-ttu-id="1a80c-181">2020년 3월 1일</span><span class="sxs-lookup"><span data-stu-id="1a80c-181">March 1, 2020</span></span>
 
 [//]: # (콘텐츠를 제거하지 마세요. 시작 2020년 3월 1일)
 
-### <a name="monthly-channel"></a><span data-ttu-id="7f6c8-169">월별 채널</span><span class="sxs-lookup"><span data-stu-id="7f6c8-169">Monthly Channel</span></span>
+### <a name="monthly-channel"></a><span data-ttu-id="1a80c-183">월별 채널</span><span class="sxs-lookup"><span data-stu-id="1a80c-183">Monthly Channel</span></span>
 
-<span data-ttu-id="7f6c8-170">가장 최근 릴리스는 버전 2002 (빌드 12527.20242)입니다.</span><span class="sxs-lookup"><span data-stu-id="7f6c8-170">The most current release is Version 2002 (Build 12527.20242).</span></span>
+<span data-ttu-id="1a80c-184">가장 최근 릴리스는 버전 2002 (빌드 12527.20242)입니다.</span><span class="sxs-lookup"><span data-stu-id="1a80c-184">The most current release is Version 2002 (Build 12527.20242).</span></span>
 
-|<span data-ttu-id="7f6c8-171">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-171">**Release upgrading from**</span></span>|<span data-ttu-id="7f6c8-172">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-172">**Release date**</span></span>|<span data-ttu-id="7f6c8-173">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-173">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="1a80c-185">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="1a80c-185">**Release upgrading from**</span></span>|<span data-ttu-id="1a80c-186">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="1a80c-186">**Release date**</span></span>|<span data-ttu-id="1a80c-187">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="1a80c-187">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="7f6c8-174">버전 2002 (빌드 12527.20194)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-174">Version 2002 (Build 12527.20194)</span></span> <br/> |<span data-ttu-id="7f6c8-175">2020년 2월 25일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-175">February 25, 2020</span></span> <br/> |<span data-ttu-id="7f6c8-176">57</span><span class="sxs-lookup"><span data-stu-id="7f6c8-176">57</span></span><br/> |
-|<span data-ttu-id="7f6c8-177">버전 2001 (빌드 12430.20288)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-177">Version 2001 (Build 12430.20288)</span></span> <br/> |<span data-ttu-id="7f6c8-178">2020년 2월 19일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-178">February 19, 2020</span></span> <br/> |<span data-ttu-id="7f6c8-179">152</span><span class="sxs-lookup"><span data-stu-id="7f6c8-179">152</span></span><br/> |
+|<span data-ttu-id="1a80c-188">버전 2002 (빌드 12527.20194)</span><span class="sxs-lookup"><span data-stu-id="1a80c-188">Version 2002 (Build 12527.20194)</span></span> <br/> |<span data-ttu-id="1a80c-189">2020년 2월 25일</span><span class="sxs-lookup"><span data-stu-id="1a80c-189">February 25, 2020</span></span> <br/> |<span data-ttu-id="1a80c-190">57</span><span class="sxs-lookup"><span data-stu-id="1a80c-190">57</span></span><br/> |
+|<span data-ttu-id="1a80c-191">버전 2001 (빌드 12430.20288)</span><span class="sxs-lookup"><span data-stu-id="1a80c-191">Version 2001 (Build 12430.20288)</span></span> <br/> |<span data-ttu-id="1a80c-192">2020년 2월 19일</span><span class="sxs-lookup"><span data-stu-id="1a80c-192">February 19, 2020</span></span> <br/> |<span data-ttu-id="1a80c-193">152</span><span class="sxs-lookup"><span data-stu-id="1a80c-193">152</span></span><br/> |
 
 
 [//]: # (컨텐츠를 제거하지 마세요. 종료 2020년 3월 1일)
 
-## <a name="february-25-2020"></a><span data-ttu-id="7f6c8-181">2020년 2월 25일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-181">February 25, 2020</span></span>
+## <a name="february-25-2020"></a><span data-ttu-id="1a80c-195">2020년 2월 25일</span><span class="sxs-lookup"><span data-stu-id="1a80c-195">February 25, 2020</span></span>
 
 [//]: # (콘텐츠를 제거하지 마세요. 시작 2020년 2월 25일)
 
-### <a name="monthly-channel"></a><span data-ttu-id="7f6c8-183">월별 채널</span><span class="sxs-lookup"><span data-stu-id="7f6c8-183">Monthly Channel</span></span>
+### <a name="monthly-channel"></a><span data-ttu-id="1a80c-197">월별 채널</span><span class="sxs-lookup"><span data-stu-id="1a80c-197">Monthly Channel</span></span>
 
-<span data-ttu-id="7f6c8-184">가장 최근 릴리스는 버전 2002 (빌드 12527.20194)입니다.</span><span class="sxs-lookup"><span data-stu-id="7f6c8-184">The most current release is Version 2002 (Build 12527.20194).</span></span>
+<span data-ttu-id="1a80c-198">가장 최근 릴리스는 버전 2002 (빌드 12527.20194)입니다.</span><span class="sxs-lookup"><span data-stu-id="1a80c-198">The most current release is Version 2002 (Build 12527.20194).</span></span>
 
-|<span data-ttu-id="7f6c8-185">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-185">**Release upgrading from**</span></span>|<span data-ttu-id="7f6c8-186">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-186">**Release date**</span></span>|<span data-ttu-id="7f6c8-187">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-187">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="1a80c-199">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="1a80c-199">**Release upgrading from**</span></span>|<span data-ttu-id="1a80c-200">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="1a80c-200">**Release date**</span></span>|<span data-ttu-id="1a80c-201">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="1a80c-201">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="7f6c8-188">버전 2001 (빌드 12430.20288)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-188">Version 2001 (Build 12430.20288)</span></span> <br/> |<span data-ttu-id="7f6c8-189">2020년 2월 19일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-189">February 19, 2020</span></span> <br/> |<span data-ttu-id="7f6c8-190">145</span><span class="sxs-lookup"><span data-stu-id="7f6c8-190">145</span></span><br/> |
-|<span data-ttu-id="7f6c8-191">버전 2001 (빌드 12430.20264)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-191">Version 2001 (Build 12430.20264)</span></span> <br/> |<span data-ttu-id="7f6c8-192">2020년 2월 11일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-192">February 11, 2020</span></span> <br/> |<span data-ttu-id="7f6c8-193">143</span><span class="sxs-lookup"><span data-stu-id="7f6c8-193">143</span></span><br/> |
+|<span data-ttu-id="1a80c-202">버전 2001 (빌드 12430.20288)</span><span class="sxs-lookup"><span data-stu-id="1a80c-202">Version 2001 (Build 12430.20288)</span></span> <br/> |<span data-ttu-id="1a80c-203">2020년 2월 19일</span><span class="sxs-lookup"><span data-stu-id="1a80c-203">February 19, 2020</span></span> <br/> |<span data-ttu-id="1a80c-204">145</span><span class="sxs-lookup"><span data-stu-id="1a80c-204">145</span></span><br/> |
+|<span data-ttu-id="1a80c-205">버전 2001 (빌드 12430.20264)</span><span class="sxs-lookup"><span data-stu-id="1a80c-205">Version 2001 (Build 12430.20264)</span></span> <br/> |<span data-ttu-id="1a80c-206">2020년 2월 11일</span><span class="sxs-lookup"><span data-stu-id="1a80c-206">February 11, 2020</span></span> <br/> |<span data-ttu-id="1a80c-207">143</span><span class="sxs-lookup"><span data-stu-id="1a80c-207">143</span></span><br/> |
 
 
 [//]: # (콘텐츠를 제거하지 마세요. 종료 2020년 2월 25일)
 
-## <a name="february-19-2020"></a><span data-ttu-id="7f6c8-195">2020년 2월 19일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-195">February 19, 2020</span></span>
+## <a name="february-19-2020"></a><span data-ttu-id="1a80c-209">2020년 2월 19일</span><span class="sxs-lookup"><span data-stu-id="1a80c-209">February 19, 2020</span></span>
 
 [//]: # (콘텐츠를 제거하지 마세요. 시작 2020년 2월 19일)
 
-### <a name="monthly-channel"></a><span data-ttu-id="7f6c8-197">월별 채널</span><span class="sxs-lookup"><span data-stu-id="7f6c8-197">Monthly Channel</span></span>
+### <a name="monthly-channel"></a><span data-ttu-id="1a80c-211">월별 채널</span><span class="sxs-lookup"><span data-stu-id="1a80c-211">Monthly Channel</span></span>
 
-<span data-ttu-id="7f6c8-198">가장 최근 릴리스는 버전 2001(빌드 12430.20288)입니다.</span><span class="sxs-lookup"><span data-stu-id="7f6c8-198">The most current release is Version 2001 (Build 12430.20288).</span></span>
+<span data-ttu-id="1a80c-212">가장 최근 릴리스는 버전 2001(빌드 12430.20288)입니다.</span><span class="sxs-lookup"><span data-stu-id="1a80c-212">The most current release is Version 2001 (Build 12430.20288).</span></span>
 
-|<span data-ttu-id="7f6c8-199">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-199">**Release upgrading from**</span></span>|<span data-ttu-id="7f6c8-200">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-200">**Release date**</span></span>|<span data-ttu-id="7f6c8-201">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-201">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="1a80c-213">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="1a80c-213">**Release upgrading from**</span></span>|<span data-ttu-id="1a80c-214">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="1a80c-214">**Release date**</span></span>|<span data-ttu-id="1a80c-215">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="1a80c-215">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="7f6c8-202">버전 2001 (빌드 12430.20264)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-202">Version 2001 (Build 12430.20264)</span></span> <br/> |<span data-ttu-id="7f6c8-203">2020년 2월 11일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-203">February 11, 2020</span></span> <br/> |<span data-ttu-id="7f6c8-204">46</span><span class="sxs-lookup"><span data-stu-id="7f6c8-204">46</span></span><br/> |
-|<span data-ttu-id="7f6c8-205">버전 2001 (빌드 12430.20184)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-205">Version 2001 (Build 12430.20184)</span></span> <br/> |<span data-ttu-id="7f6c8-206">2020년 1월 30일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-206">January 30, 2020</span></span> <br/> |<span data-ttu-id="7f6c8-207">55</span><span class="sxs-lookup"><span data-stu-id="7f6c8-207">55</span></span><br/> |
+|<span data-ttu-id="1a80c-216">버전 2001 (빌드 12430.20264)</span><span class="sxs-lookup"><span data-stu-id="1a80c-216">Version 2001 (Build 12430.20264)</span></span> <br/> |<span data-ttu-id="1a80c-217">2020년 2월 11일</span><span class="sxs-lookup"><span data-stu-id="1a80c-217">February 11, 2020</span></span> <br/> |<span data-ttu-id="1a80c-218">46</span><span class="sxs-lookup"><span data-stu-id="1a80c-218">46</span></span><br/> |
+|<span data-ttu-id="1a80c-219">버전 2001 (빌드 12430.20184)</span><span class="sxs-lookup"><span data-stu-id="1a80c-219">Version 2001 (Build 12430.20184)</span></span> <br/> |<span data-ttu-id="1a80c-220">2020년 1월 30일</span><span class="sxs-lookup"><span data-stu-id="1a80c-220">January 30, 2020</span></span> <br/> |<span data-ttu-id="1a80c-221">55</span><span class="sxs-lookup"><span data-stu-id="1a80c-221">55</span></span><br/> |
 
 
 [//]: # (컨텐츠를 제거하지 마세요. 종료 2020년 2월 19일)
 
-## <a name="february-11-2020"></a><span data-ttu-id="7f6c8-209">2020년 2월 11일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-209">February 11, 2020</span></span>
+## <a name="february-11-2020"></a><span data-ttu-id="1a80c-223">2020년 2월 11일</span><span class="sxs-lookup"><span data-stu-id="1a80c-223">February 11, 2020</span></span>
 
 [//]: # (콘텐츠를 제거하지 마세요. 시작 2020년 2월 11일)
 
-### <a name="monthly-channel"></a><span data-ttu-id="7f6c8-211">월별 채널</span><span class="sxs-lookup"><span data-stu-id="7f6c8-211">Monthly Channel</span></span>
+### <a name="monthly-channel"></a><span data-ttu-id="1a80c-225">월별 채널</span><span class="sxs-lookup"><span data-stu-id="1a80c-225">Monthly Channel</span></span>
 
-<span data-ttu-id="7f6c8-212">가장 최근 릴리스는 버전 2001 (빌드 12430.20264)입니다.</span><span class="sxs-lookup"><span data-stu-id="7f6c8-212">The most current release is Version 2001 (Build 12430.20264).</span></span>
+<span data-ttu-id="1a80c-226">가장 최근 릴리스는 버전 2001 (빌드 12430.20264)입니다.</span><span class="sxs-lookup"><span data-stu-id="1a80c-226">The most current release is Version 2001 (Build 12430.20264).</span></span>
 
-|<span data-ttu-id="7f6c8-213">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-213">**Release upgrading from**</span></span>|<span data-ttu-id="7f6c8-214">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-214">**Release date**</span></span>|<span data-ttu-id="7f6c8-215">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-215">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="1a80c-227">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="1a80c-227">**Release upgrading from**</span></span>|<span data-ttu-id="1a80c-228">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="1a80c-228">**Release date**</span></span>|<span data-ttu-id="1a80c-229">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="1a80c-229">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="7f6c8-216">버전 2001 (빌드 12430.20184)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-216">Version 2001 (Build 12430.20184)</span></span> <br/> |<span data-ttu-id="7f6c8-217">2020년 1월 30일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-217">January 30, 2020</span></span> <br/> |<span data-ttu-id="7f6c8-218">54</span><span class="sxs-lookup"><span data-stu-id="7f6c8-218">54</span></span><br/> |
-|<span data-ttu-id="7f6c8-219">버전 1912 (빌드 12325.20344)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-219">Version 1912 (Build 12325.20344)</span></span> <br/> |<span data-ttu-id="7f6c8-220">2020년 1월 22일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-220">January 22, 2020</span></span> <br/> |<span data-ttu-id="7f6c8-221">137</span><span class="sxs-lookup"><span data-stu-id="7f6c8-221">137</span></span><br/> |
+|<span data-ttu-id="1a80c-230">버전 2001 (빌드 12430.20184)</span><span class="sxs-lookup"><span data-stu-id="1a80c-230">Version 2001 (Build 12430.20184)</span></span> <br/> |<span data-ttu-id="1a80c-231">2020년 1월 30일</span><span class="sxs-lookup"><span data-stu-id="1a80c-231">January 30, 2020</span></span> <br/> |<span data-ttu-id="1a80c-232">54</span><span class="sxs-lookup"><span data-stu-id="1a80c-232">54</span></span><br/> |
+|<span data-ttu-id="1a80c-233">버전 1912 (빌드 12325.20344)</span><span class="sxs-lookup"><span data-stu-id="1a80c-233">Version 1912 (Build 12325.20344)</span></span> <br/> |<span data-ttu-id="1a80c-234">2020년 1월 22일</span><span class="sxs-lookup"><span data-stu-id="1a80c-234">January 22, 2020</span></span> <br/> |<span data-ttu-id="1a80c-235">137</span><span class="sxs-lookup"><span data-stu-id="1a80c-235">137</span></span><br/> |
 
 
 
-### <a name="semi-annual-channel"></a><span data-ttu-id="7f6c8-222">반기 채널</span><span class="sxs-lookup"><span data-stu-id="7f6c8-222">Semi-Annual Channel</span></span>
+### <a name="semi-annual-channel"></a><span data-ttu-id="1a80c-236">반기 채널</span><span class="sxs-lookup"><span data-stu-id="1a80c-236">Semi-Annual Channel</span></span>
 
-<span data-ttu-id="7f6c8-223">가장 최근 릴리스는 버전 1908 (빌드 11929.20606)입니다.</span><span class="sxs-lookup"><span data-stu-id="7f6c8-223">The most current release is Version 1908 (Build 11929.20606).</span></span>
+<span data-ttu-id="1a80c-237">가장 최근 릴리스는 버전 1908 (빌드 11929.20606)입니다.</span><span class="sxs-lookup"><span data-stu-id="1a80c-237">The most current release is Version 1908 (Build 11929.20606).</span></span>
 
-|<span data-ttu-id="7f6c8-224">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-224">**Release upgrading from**</span></span>|<span data-ttu-id="7f6c8-225">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-225">**Release date**</span></span>|<span data-ttu-id="7f6c8-226">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-226">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="1a80c-238">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="1a80c-238">**Release upgrading from**</span></span>|<span data-ttu-id="1a80c-239">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="1a80c-239">**Release date**</span></span>|<span data-ttu-id="1a80c-240">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="1a80c-240">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="7f6c8-227">버전 1908(빌드 11929.20562)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-227">Version 1908 (Build 11929.20562)</span></span> <br/> |<span data-ttu-id="7f6c8-228">2020년 1월 14일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-228">January 14, 2020</span></span> <br/> |<span data-ttu-id="7f6c8-229">65</span><span class="sxs-lookup"><span data-stu-id="7f6c8-229">65</span></span><br/> |
-|<span data-ttu-id="7f6c8-230">버전 1902(빌드 11328.20492)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-230">Version 1902 (Build 11328.20492)</span></span> <br/> |<span data-ttu-id="7f6c8-231">2019년 12월 10일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-231">December 10, 2019</span></span> <br/> |<span data-ttu-id="7f6c8-232">339</span><span class="sxs-lookup"><span data-stu-id="7f6c8-232">339</span></span><br/> |
+|<span data-ttu-id="1a80c-241">버전 1908(빌드 11929.20562)</span><span class="sxs-lookup"><span data-stu-id="1a80c-241">Version 1908 (Build 11929.20562)</span></span> <br/> |<span data-ttu-id="1a80c-242">2020년 1월 14일</span><span class="sxs-lookup"><span data-stu-id="1a80c-242">January 14, 2020</span></span> <br/> |<span data-ttu-id="1a80c-243">65</span><span class="sxs-lookup"><span data-stu-id="1a80c-243">65</span></span><br/> |
+|<span data-ttu-id="1a80c-244">버전 1902(빌드 11328.20492)</span><span class="sxs-lookup"><span data-stu-id="1a80c-244">Version 1902 (Build 11328.20492)</span></span> <br/> |<span data-ttu-id="1a80c-245">2019년 12월 10일</span><span class="sxs-lookup"><span data-stu-id="1a80c-245">December 10, 2019</span></span> <br/> |<span data-ttu-id="1a80c-246">339</span><span class="sxs-lookup"><span data-stu-id="1a80c-246">339</span></span><br/> |
 
 
-### <a name="semi-annual-targeted-channel"></a><span data-ttu-id="7f6c8-233">반기 (대상 지정) 채널</span><span class="sxs-lookup"><span data-stu-id="7f6c8-233">Semi-Annual (Targeted) Channel</span></span>
+### <a name="semi-annual-targeted-channel"></a><span data-ttu-id="1a80c-247">반기 (대상 지정) 채널</span><span class="sxs-lookup"><span data-stu-id="1a80c-247">Semi-Annual (Targeted) Channel</span></span>
 
-<span data-ttu-id="7f6c8-234">가장 최근 릴리스는 버전 1908 (빌드 11929.20606)입니다.</span><span class="sxs-lookup"><span data-stu-id="7f6c8-234">The most current release is Version 1908 (Build 11929.20606).</span></span>
+<span data-ttu-id="1a80c-248">가장 최근 릴리스는 버전 1908 (빌드 11929.20606)입니다.</span><span class="sxs-lookup"><span data-stu-id="1a80c-248">The most current release is Version 1908 (Build 11929.20606).</span></span>
 
-|<span data-ttu-id="7f6c8-235">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-235">**Release upgrading from**</span></span>|<span data-ttu-id="7f6c8-236">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-236">**Release date**</span></span>|<span data-ttu-id="7f6c8-237">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-237">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="1a80c-249">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="1a80c-249">**Release upgrading from**</span></span>|<span data-ttu-id="1a80c-250">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="1a80c-250">**Release date**</span></span>|<span data-ttu-id="1a80c-251">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="1a80c-251">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="7f6c8-238">버전 1908(빌드 11929.20562)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-238">Version 1908 (Build 11929.20562)</span></span> <br/> |<span data-ttu-id="7f6c8-239">2020년 1월 14일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-239">January 14, 2020</span></span> <br/> |<span data-ttu-id="7f6c8-240">65</span><span class="sxs-lookup"><span data-stu-id="7f6c8-240">65</span></span><br/> |
-|<span data-ttu-id="7f6c8-241">버전 1908(빌드 11929.20516)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-241">Version 1908 (Build 11929.20516)</span></span> <br/> |<span data-ttu-id="7f6c8-242">2019년 12월 10일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-242">December 10, 2019</span></span> <br/> |<span data-ttu-id="7f6c8-243">68</span><span class="sxs-lookup"><span data-stu-id="7f6c8-243">68</span></span><br/> |
+|<span data-ttu-id="1a80c-252">버전 1908(빌드 11929.20562)</span><span class="sxs-lookup"><span data-stu-id="1a80c-252">Version 1908 (Build 11929.20562)</span></span> <br/> |<span data-ttu-id="1a80c-253">2020년 1월 14일</span><span class="sxs-lookup"><span data-stu-id="1a80c-253">January 14, 2020</span></span> <br/> |<span data-ttu-id="1a80c-254">65</span><span class="sxs-lookup"><span data-stu-id="1a80c-254">65</span></span><br/> |
+|<span data-ttu-id="1a80c-255">버전 1908(빌드 11929.20516)</span><span class="sxs-lookup"><span data-stu-id="1a80c-255">Version 1908 (Build 11929.20516)</span></span> <br/> |<span data-ttu-id="1a80c-256">2019년 12월 10일</span><span class="sxs-lookup"><span data-stu-id="1a80c-256">December 10, 2019</span></span> <br/> |<span data-ttu-id="1a80c-257">68</span><span class="sxs-lookup"><span data-stu-id="1a80c-257">68</span></span><br/> |
 
 
 [//]: # (컨텐츠를 제거하지 마세요. 종료 2020년 2월 11일)
@@ -183,342 +199,342 @@ ms.locfileid: "43046103"
 
 
 
-## <a name="january-30-2020"></a><span data-ttu-id="7f6c8-245">2020년 1월 30일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-245">January 30, 2020</span></span>
+## <a name="january-30-2020"></a><span data-ttu-id="1a80c-259">2020년 1월 30일</span><span class="sxs-lookup"><span data-stu-id="1a80c-259">January 30, 2020</span></span>
 
 [//]: # (항목을 제거하지 마세요. 시작 2020년 1월 30일)
 
-### <a name="monthly-channel"></a><span data-ttu-id="7f6c8-247">월별 채널</span><span class="sxs-lookup"><span data-stu-id="7f6c8-247">Monthly Channel</span></span>
+### <a name="monthly-channel"></a><span data-ttu-id="1a80c-261">월별 채널</span><span class="sxs-lookup"><span data-stu-id="1a80c-261">Monthly Channel</span></span>
 
-<span data-ttu-id="7f6c8-248">가장 최근 릴리스는 버전 2001(빌드 12430.20184)입니다.</span><span class="sxs-lookup"><span data-stu-id="7f6c8-248">The most current release is Version 2001 (Build 12430.20184).</span></span>
+<span data-ttu-id="1a80c-262">가장 최근 릴리스는 버전 2001(빌드 12430.20184)입니다.</span><span class="sxs-lookup"><span data-stu-id="1a80c-262">The most current release is Version 2001 (Build 12430.20184).</span></span>
 
-|<span data-ttu-id="7f6c8-249">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-249">**Release upgrading from**</span></span>|<span data-ttu-id="7f6c8-250">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-250">**Release date**</span></span>|<span data-ttu-id="7f6c8-251">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-251">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="1a80c-263">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="1a80c-263">**Release upgrading from**</span></span>|<span data-ttu-id="1a80c-264">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="1a80c-264">**Release date**</span></span>|<span data-ttu-id="1a80c-265">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="1a80c-265">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="7f6c8-252">버전 1912 (빌드 12325.20344)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-252">Version 1912 (Build 12325.20344)</span></span> <br/> |<span data-ttu-id="7f6c8-253">2020년 1월 22일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-253">January 22, 2020</span></span> <br/> |<span data-ttu-id="7f6c8-254">134</span><span class="sxs-lookup"><span data-stu-id="7f6c8-254">134</span></span><br/> |
-|<span data-ttu-id="7f6c8-255">버전 1912(빌드 12325.20298)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-255">Version 1912 (Build 12325.20298)</span></span> <br/> |<span data-ttu-id="7f6c8-256">2020년 1월 14일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-256">January 14, 2020</span></span> <br/> |<span data-ttu-id="7f6c8-257">138</span><span class="sxs-lookup"><span data-stu-id="7f6c8-257">138</span></span><br/> |
+|<span data-ttu-id="1a80c-266">버전 1912 (빌드 12325.20344)</span><span class="sxs-lookup"><span data-stu-id="1a80c-266">Version 1912 (Build 12325.20344)</span></span> <br/> |<span data-ttu-id="1a80c-267">2020년 1월 22일</span><span class="sxs-lookup"><span data-stu-id="1a80c-267">January 22, 2020</span></span> <br/> |<span data-ttu-id="1a80c-268">134</span><span class="sxs-lookup"><span data-stu-id="1a80c-268">134</span></span><br/> |
+|<span data-ttu-id="1a80c-269">버전 1912(빌드 12325.20298)</span><span class="sxs-lookup"><span data-stu-id="1a80c-269">Version 1912 (Build 12325.20298)</span></span> <br/> |<span data-ttu-id="1a80c-270">2020년 1월 14일</span><span class="sxs-lookup"><span data-stu-id="1a80c-270">January 14, 2020</span></span> <br/> |<span data-ttu-id="1a80c-271">138</span><span class="sxs-lookup"><span data-stu-id="1a80c-271">138</span></span><br/> |
 
 
 [//]: # (콘텐츠를 제거하지 마세요 종료 2020년 1월 30일)
 
-## <a name="january-22-2020"></a><span data-ttu-id="7f6c8-259">2020년 1월 22일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-259">January 22, 2020</span></span>
+## <a name="january-22-2020"></a><span data-ttu-id="1a80c-273">2020년 1월 22일</span><span class="sxs-lookup"><span data-stu-id="1a80c-273">January 22, 2020</span></span>
 
 [//]: # (항목을 제거하지 마세요. 시작 2020년 1월 22일)
 
-### <a name="monthly-channel"></a><span data-ttu-id="7f6c8-261">월별 채널</span><span class="sxs-lookup"><span data-stu-id="7f6c8-261">Monthly Channel</span></span>
+### <a name="monthly-channel"></a><span data-ttu-id="1a80c-275">월별 채널</span><span class="sxs-lookup"><span data-stu-id="1a80c-275">Monthly Channel</span></span>
 
-<span data-ttu-id="7f6c8-262">가장 최근 릴리스는 버전 1912(빌드 12325.20344)입니다.</span><span class="sxs-lookup"><span data-stu-id="7f6c8-262">The most current release is Version 1912 (Build 12325.20344).</span></span>
+<span data-ttu-id="1a80c-276">가장 최근 릴리스는 버전 1912(빌드 12325.20344)입니다.</span><span class="sxs-lookup"><span data-stu-id="1a80c-276">The most current release is Version 1912 (Build 12325.20344).</span></span>
 
-|<span data-ttu-id="7f6c8-263">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-263">**Release upgrading from**</span></span>|<span data-ttu-id="7f6c8-264">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-264">**Release date**</span></span>|<span data-ttu-id="7f6c8-265">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-265">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="1a80c-277">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="1a80c-277">**Release upgrading from**</span></span>|<span data-ttu-id="1a80c-278">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="1a80c-278">**Release date**</span></span>|<span data-ttu-id="1a80c-279">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="1a80c-279">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="7f6c8-266">버전 1912(빌드 12325.20298)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-266">Version 1912 (Build 12325.20298)</span></span> <br/> |<span data-ttu-id="7f6c8-267">2020년 1월 14일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-267">January 14, 2020</span></span> <br/> |<span data-ttu-id="7f6c8-268">53</span><span class="sxs-lookup"><span data-stu-id="7f6c8-268">53</span></span><br/> |
-|<span data-ttu-id="7f6c8-269">버전 1912(빌드 12325.20288)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-269">Version 1912 (Build 12325.20288)</span></span> <br/> |<span data-ttu-id="7f6c8-270">2020년 1월 8일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-270">January 8, 2020</span></span> <br/> |<span data-ttu-id="7f6c8-271">59</span><span class="sxs-lookup"><span data-stu-id="7f6c8-271">59</span></span><br/> |
+|<span data-ttu-id="1a80c-280">버전 1912(빌드 12325.20298)</span><span class="sxs-lookup"><span data-stu-id="1a80c-280">Version 1912 (Build 12325.20298)</span></span> <br/> |<span data-ttu-id="1a80c-281">2020년 1월 14일</span><span class="sxs-lookup"><span data-stu-id="1a80c-281">January 14, 2020</span></span> <br/> |<span data-ttu-id="1a80c-282">53</span><span class="sxs-lookup"><span data-stu-id="1a80c-282">53</span></span><br/> |
+|<span data-ttu-id="1a80c-283">버전 1912(빌드 12325.20288)</span><span class="sxs-lookup"><span data-stu-id="1a80c-283">Version 1912 (Build 12325.20288)</span></span> <br/> |<span data-ttu-id="1a80c-284">2020년 1월 8일</span><span class="sxs-lookup"><span data-stu-id="1a80c-284">January 8, 2020</span></span> <br/> |<span data-ttu-id="1a80c-285">59</span><span class="sxs-lookup"><span data-stu-id="1a80c-285">59</span></span><br/> |
 
 
 [//]: # (콘텐츠를 제거하지 마세요 종료 2020년 1월 22일)
 
-## <a name="january-14-2020"></a><span data-ttu-id="7f6c8-273">2020년 1월 14일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-273">January 14, 2020</span></span>
+## <a name="january-14-2020"></a><span data-ttu-id="1a80c-287">2020년 1월 14일</span><span class="sxs-lookup"><span data-stu-id="1a80c-287">January 14, 2020</span></span>
 
 [//]: # (컨텐츠를 제거하지 마세요. 2020년 1월 14일 시작)
 
-### <a name="monthly-channel"></a><span data-ttu-id="7f6c8-275">월별 채널</span><span class="sxs-lookup"><span data-stu-id="7f6c8-275">Monthly Channel</span></span>
+### <a name="monthly-channel"></a><span data-ttu-id="1a80c-289">월별 채널</span><span class="sxs-lookup"><span data-stu-id="1a80c-289">Monthly Channel</span></span>
 
-<span data-ttu-id="7f6c8-276">가장 최근 릴리스는 버전 1912(빌드 12325.20298)입니다.</span><span class="sxs-lookup"><span data-stu-id="7f6c8-276">The most current release is Version 1912 (Build 12325.20298).</span></span>
+<span data-ttu-id="1a80c-290">가장 최근 릴리스는 버전 1912(빌드 12325.20298)입니다.</span><span class="sxs-lookup"><span data-stu-id="1a80c-290">The most current release is Version 1912 (Build 12325.20298).</span></span>
 
-|<span data-ttu-id="7f6c8-277">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-277">**Release upgrading from**</span></span>|<span data-ttu-id="7f6c8-278">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-278">**Release date**</span></span>|<span data-ttu-id="7f6c8-279">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-279">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="1a80c-291">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="1a80c-291">**Release upgrading from**</span></span>|<span data-ttu-id="1a80c-292">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="1a80c-292">**Release date**</span></span>|<span data-ttu-id="1a80c-293">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="1a80c-293">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="7f6c8-280">버전 1912(빌드 12325.20288)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-280">Version 1912 (Build 12325.20288)</span></span> <br/> |<span data-ttu-id="7f6c8-281">2020년 1월 8일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-281">January 8, 2020</span></span> <br/> |<span data-ttu-id="7f6c8-282">46</span><span class="sxs-lookup"><span data-stu-id="7f6c8-282">46</span></span><br/> |
-|<span data-ttu-id="7f6c8-283">버전 1911(빌드 12228.20364)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-283">Version 1911 (Build 12228.20364)</span></span> <br/> |<span data-ttu-id="7f6c8-284">2019년 12월 10일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-284">December 10, 2019</span></span> <br/> |<span data-ttu-id="7f6c8-285">151</span><span class="sxs-lookup"><span data-stu-id="7f6c8-285">151</span></span><br/> |
+|<span data-ttu-id="1a80c-294">버전 1912(빌드 12325.20288)</span><span class="sxs-lookup"><span data-stu-id="1a80c-294">Version 1912 (Build 12325.20288)</span></span> <br/> |<span data-ttu-id="1a80c-295">2020년 1월 8일</span><span class="sxs-lookup"><span data-stu-id="1a80c-295">January 8, 2020</span></span> <br/> |<span data-ttu-id="1a80c-296">46</span><span class="sxs-lookup"><span data-stu-id="1a80c-296">46</span></span><br/> |
+|<span data-ttu-id="1a80c-297">버전 1911(빌드 12228.20364)</span><span class="sxs-lookup"><span data-stu-id="1a80c-297">Version 1911 (Build 12228.20364)</span></span> <br/> |<span data-ttu-id="1a80c-298">2019년 12월 10일</span><span class="sxs-lookup"><span data-stu-id="1a80c-298">December 10, 2019</span></span> <br/> |<span data-ttu-id="1a80c-299">151</span><span class="sxs-lookup"><span data-stu-id="1a80c-299">151</span></span><br/> |
 
 
 
-### <a name="semi-annual-channel"></a><span data-ttu-id="7f6c8-286">반기 채널</span><span class="sxs-lookup"><span data-stu-id="7f6c8-286">Semi-Annual Channel</span></span>
+### <a name="semi-annual-channel"></a><span data-ttu-id="1a80c-300">반기 채널</span><span class="sxs-lookup"><span data-stu-id="1a80c-300">Semi-Annual Channel</span></span>
 
-<span data-ttu-id="7f6c8-287">가장 최근 릴리스는 버전 1908(빌드 11929.20562)입니다.</span><span class="sxs-lookup"><span data-stu-id="7f6c8-287">The most current release is Version 1908 (Build 11929.20562).</span></span>
+<span data-ttu-id="1a80c-301">가장 최근 릴리스는 버전 1908(빌드 11929.20562)입니다.</span><span class="sxs-lookup"><span data-stu-id="1a80c-301">The most current release is Version 1908 (Build 11929.20562).</span></span>
 
-|<span data-ttu-id="7f6c8-288">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-288">**Release upgrading from**</span></span>|<span data-ttu-id="7f6c8-289">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-289">**Release date**</span></span>|<span data-ttu-id="7f6c8-290">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-290">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="1a80c-302">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="1a80c-302">**Release upgrading from**</span></span>|<span data-ttu-id="1a80c-303">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="1a80c-303">**Release date**</span></span>|<span data-ttu-id="1a80c-304">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="1a80c-304">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="7f6c8-291">버전 1902(빌드 11328.20492)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-291">Version 1902 (Build 11328.20492)</span></span> <br/> |<span data-ttu-id="7f6c8-292">2019년 12월 10일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-292">December 10, 2019</span></span> <br/> |<span data-ttu-id="7f6c8-293">338</span><span class="sxs-lookup"><span data-stu-id="7f6c8-293">338</span></span><br/> |
-|<span data-ttu-id="7f6c8-294">버전 1902 (빌드 11328.20480)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-294">Version 1902 (Build 11328.20480)</span></span> <br/> |<span data-ttu-id="7f6c8-295">2019년 11월 22일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-295">November 22, 2019</span></span> <br/> |<span data-ttu-id="7f6c8-296">337</span><span class="sxs-lookup"><span data-stu-id="7f6c8-296">337</span></span><br/> |
+|<span data-ttu-id="1a80c-305">버전 1902(빌드 11328.20492)</span><span class="sxs-lookup"><span data-stu-id="1a80c-305">Version 1902 (Build 11328.20492)</span></span> <br/> |<span data-ttu-id="1a80c-306">2019년 12월 10일</span><span class="sxs-lookup"><span data-stu-id="1a80c-306">December 10, 2019</span></span> <br/> |<span data-ttu-id="1a80c-307">338</span><span class="sxs-lookup"><span data-stu-id="1a80c-307">338</span></span><br/> |
+|<span data-ttu-id="1a80c-308">버전 1902 (빌드 11328.20480)</span><span class="sxs-lookup"><span data-stu-id="1a80c-308">Version 1902 (Build 11328.20480)</span></span> <br/> |<span data-ttu-id="1a80c-309">2019년 11월 22일</span><span class="sxs-lookup"><span data-stu-id="1a80c-309">November 22, 2019</span></span> <br/> |<span data-ttu-id="1a80c-310">337</span><span class="sxs-lookup"><span data-stu-id="1a80c-310">337</span></span><br/> |
 
 
-### <a name="semi-annual-targeted-channel"></a><span data-ttu-id="7f6c8-297">반기 (대상 지정) 채널</span><span class="sxs-lookup"><span data-stu-id="7f6c8-297">Semi-Annual (Targeted) Channel</span></span>
+### <a name="semi-annual-targeted-channel"></a><span data-ttu-id="1a80c-311">반기 (대상 지정) 채널</span><span class="sxs-lookup"><span data-stu-id="1a80c-311">Semi-Annual (Targeted) Channel</span></span>
 
-<span data-ttu-id="7f6c8-298">가장 최근 릴리스는 버전 1908(빌드 11929.20562)입니다.</span><span class="sxs-lookup"><span data-stu-id="7f6c8-298">The most current release is Version 1908 (Build 11929.20562).</span></span>
+<span data-ttu-id="1a80c-312">가장 최근 릴리스는 버전 1908(빌드 11929.20562)입니다.</span><span class="sxs-lookup"><span data-stu-id="1a80c-312">The most current release is Version 1908 (Build 11929.20562).</span></span>
 
-|<span data-ttu-id="7f6c8-299">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-299">**Release upgrading from**</span></span>|<span data-ttu-id="7f6c8-300">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-300">**Release date**</span></span>|<span data-ttu-id="7f6c8-301">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-301">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="1a80c-313">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="1a80c-313">**Release upgrading from**</span></span>|<span data-ttu-id="1a80c-314">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="1a80c-314">**Release date**</span></span>|<span data-ttu-id="1a80c-315">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="1a80c-315">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="7f6c8-302">버전 1908(빌드 11929.20516)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-302">Version 1908 (Build 11929.20516)</span></span> <br/> |<span data-ttu-id="7f6c8-303">2019년 12월 10일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-303">December 10, 2019</span></span> <br/> |<span data-ttu-id="7f6c8-304">59</span><span class="sxs-lookup"><span data-stu-id="7f6c8-304">59</span></span><br/> |
-|<span data-ttu-id="7f6c8-305">버전 1908 (빌드 11929.20494)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-305">Version 1908 (Build 11929.20494)</span></span> <br/> |<span data-ttu-id="7f6c8-306">2019년 11월 22일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-306">November 22, 2019</span></span> <br/> |<span data-ttu-id="7f6c8-307">64</span><span class="sxs-lookup"><span data-stu-id="7f6c8-307">64</span></span><br/> |
+|<span data-ttu-id="1a80c-316">버전 1908(빌드 11929.20516)</span><span class="sxs-lookup"><span data-stu-id="1a80c-316">Version 1908 (Build 11929.20516)</span></span> <br/> |<span data-ttu-id="1a80c-317">2019년 12월 10일</span><span class="sxs-lookup"><span data-stu-id="1a80c-317">December 10, 2019</span></span> <br/> |<span data-ttu-id="1a80c-318">59</span><span class="sxs-lookup"><span data-stu-id="1a80c-318">59</span></span><br/> |
+|<span data-ttu-id="1a80c-319">버전 1908 (빌드 11929.20494)</span><span class="sxs-lookup"><span data-stu-id="1a80c-319">Version 1908 (Build 11929.20494)</span></span> <br/> |<span data-ttu-id="1a80c-320">2019년 11월 22일</span><span class="sxs-lookup"><span data-stu-id="1a80c-320">November 22, 2019</span></span> <br/> |<span data-ttu-id="1a80c-321">64</span><span class="sxs-lookup"><span data-stu-id="1a80c-321">64</span></span><br/> |
 
 
 [//]: # (콘텐츠를 제거하지 마세요 종료 2020년 1월 14일)
 
 
-## <a name="january-8-2020"></a><span data-ttu-id="7f6c8-309">2020년 1월 8일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-309">January 8, 2020</span></span>
+## <a name="january-8-2020"></a><span data-ttu-id="1a80c-323">2020년 1월 8일</span><span class="sxs-lookup"><span data-stu-id="1a80c-323">January 8, 2020</span></span>
 
 [//]: # (항목을 제거하지 마세요. 시작 2020년 1월 8일)
 
-### <a name="monthly-channel"></a><span data-ttu-id="7f6c8-311">월별 채널</span><span class="sxs-lookup"><span data-stu-id="7f6c8-311">Monthly Channel</span></span>
+### <a name="monthly-channel"></a><span data-ttu-id="1a80c-325">월별 채널</span><span class="sxs-lookup"><span data-stu-id="1a80c-325">Monthly Channel</span></span>
 
-<span data-ttu-id="7f6c8-312">가장 최근 릴리스는 버전 1912(빌드 12325.20288)입니다.</span><span class="sxs-lookup"><span data-stu-id="7f6c8-312">The most current release is Version 1912 (Build 12325.20288).</span></span>
+<span data-ttu-id="1a80c-326">가장 최근 릴리스는 버전 1912(빌드 12325.20288)입니다.</span><span class="sxs-lookup"><span data-stu-id="1a80c-326">The most current release is Version 1912 (Build 12325.20288).</span></span>
 
-|<span data-ttu-id="7f6c8-313">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-313">**Release upgrading from**</span></span>|<span data-ttu-id="7f6c8-314">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-314">**Release date**</span></span>|<span data-ttu-id="7f6c8-315">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-315">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="1a80c-327">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="1a80c-327">**Release upgrading from**</span></span>|<span data-ttu-id="1a80c-328">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="1a80c-328">**Release date**</span></span>|<span data-ttu-id="1a80c-329">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="1a80c-329">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="7f6c8-316">버전 1911(빌드 12228.20364)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-316">Version 1911 (Build 12228.20364)</span></span> <br/> |<span data-ttu-id="7f6c8-317">2019년 12월 10일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-317">December 10, 2019</span></span> <br/> |<span data-ttu-id="7f6c8-318">142</span><span class="sxs-lookup"><span data-stu-id="7f6c8-318">142</span></span><br/> |
-|<span data-ttu-id="7f6c8-319">버전 1911 (빌드 12228.20332)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-319">Version 1911 (Build 12228.20332)</span></span> <br/> |<span data-ttu-id="7f6c8-320">2019년 12월 3일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-320">December 3, 2019</span></span> <br/> |<span data-ttu-id="7f6c8-321">145</span><span class="sxs-lookup"><span data-stu-id="7f6c8-321">145</span></span><br/> |
+|<span data-ttu-id="1a80c-330">버전 1911(빌드 12228.20364)</span><span class="sxs-lookup"><span data-stu-id="1a80c-330">Version 1911 (Build 12228.20364)</span></span> <br/> |<span data-ttu-id="1a80c-331">2019년 12월 10일</span><span class="sxs-lookup"><span data-stu-id="1a80c-331">December 10, 2019</span></span> <br/> |<span data-ttu-id="1a80c-332">142</span><span class="sxs-lookup"><span data-stu-id="1a80c-332">142</span></span><br/> |
+|<span data-ttu-id="1a80c-333">버전 1911 (빌드 12228.20332)</span><span class="sxs-lookup"><span data-stu-id="1a80c-333">Version 1911 (Build 12228.20332)</span></span> <br/> |<span data-ttu-id="1a80c-334">2019년 12월 3일</span><span class="sxs-lookup"><span data-stu-id="1a80c-334">December 3, 2019</span></span> <br/> |<span data-ttu-id="1a80c-335">145</span><span class="sxs-lookup"><span data-stu-id="1a80c-335">145</span></span><br/> |
 
 
 [//]: # (콘텐츠를 제거하지 마세요 종료 2020년 1월 8일)
 
-## <a name="december-10-2019"></a><span data-ttu-id="7f6c8-323">2019년 12월 10일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-323">December 10, 2019</span></span>
+## <a name="december-10-2019"></a><span data-ttu-id="1a80c-337">2019년 12월 10일</span><span class="sxs-lookup"><span data-stu-id="1a80c-337">December 10, 2019</span></span>
 
 [//]: # (항목을 제거하지 마세요. 시작 2019년 12월 10일)
 
-### <a name="monthly-channel"></a><span data-ttu-id="7f6c8-325">월별 채널</span><span class="sxs-lookup"><span data-stu-id="7f6c8-325">Monthly Channel</span></span>
+### <a name="monthly-channel"></a><span data-ttu-id="1a80c-339">월별 채널</span><span class="sxs-lookup"><span data-stu-id="1a80c-339">Monthly Channel</span></span>
 
-<span data-ttu-id="7f6c8-326">가장 최근 버전은 버전 1911(빌드 12228.20364)입니다.</span><span class="sxs-lookup"><span data-stu-id="7f6c8-326">The most current release is Version 1911 (Build 12228.20364).</span></span>
+<span data-ttu-id="1a80c-340">가장 최근 버전은 버전 1911(빌드 12228.20364)입니다.</span><span class="sxs-lookup"><span data-stu-id="1a80c-340">The most current release is Version 1911 (Build 12228.20364).</span></span>
 
-|<span data-ttu-id="7f6c8-327">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-327">**Release upgrading from**</span></span>|<span data-ttu-id="7f6c8-328">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-328">**Release date**</span></span>|<span data-ttu-id="7f6c8-329">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-329">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="1a80c-341">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="1a80c-341">**Release upgrading from**</span></span>|<span data-ttu-id="1a80c-342">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="1a80c-342">**Release date**</span></span>|<span data-ttu-id="1a80c-343">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="1a80c-343">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="7f6c8-330">버전 1911 (빌드 12228.20332)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-330">Version 1911 (Build 12228.20332)</span></span> <br/> |<span data-ttu-id="7f6c8-331">2019년 12월 3일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-331">December 3, 2019</span></span> <br/> |<span data-ttu-id="7f6c8-332">54</span><span class="sxs-lookup"><span data-stu-id="7f6c8-332">54</span></span><br/> |
-|<span data-ttu-id="7f6c8-333">버전 1910 (빌드 12130.20410)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-333">Version 1910 (Build 12130.20410)</span></span> <br/> |<span data-ttu-id="7f6c8-334">2019년 11월 22일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-334">November 22, 2019</span></span> <br/> |<span data-ttu-id="7f6c8-335">386</span><span class="sxs-lookup"><span data-stu-id="7f6c8-335">386</span></span><br/> |
+|<span data-ttu-id="1a80c-344">버전 1911 (빌드 12228.20332)</span><span class="sxs-lookup"><span data-stu-id="1a80c-344">Version 1911 (Build 12228.20332)</span></span> <br/> |<span data-ttu-id="1a80c-345">2019년 12월 3일</span><span class="sxs-lookup"><span data-stu-id="1a80c-345">December 3, 2019</span></span> <br/> |<span data-ttu-id="1a80c-346">54</span><span class="sxs-lookup"><span data-stu-id="1a80c-346">54</span></span><br/> |
+|<span data-ttu-id="1a80c-347">버전 1910 (빌드 12130.20410)</span><span class="sxs-lookup"><span data-stu-id="1a80c-347">Version 1910 (Build 12130.20410)</span></span> <br/> |<span data-ttu-id="1a80c-348">2019년 11월 22일</span><span class="sxs-lookup"><span data-stu-id="1a80c-348">November 22, 2019</span></span> <br/> |<span data-ttu-id="1a80c-349">386</span><span class="sxs-lookup"><span data-stu-id="1a80c-349">386</span></span><br/> |
 
-### <a name="semi-annual-channel"></a><span data-ttu-id="7f6c8-336">반기 채널</span><span class="sxs-lookup"><span data-stu-id="7f6c8-336">Semi-Annual Channel</span></span>
+### <a name="semi-annual-channel"></a><span data-ttu-id="1a80c-350">반기 채널</span><span class="sxs-lookup"><span data-stu-id="1a80c-350">Semi-Annual Channel</span></span>
 
-<span data-ttu-id="7f6c8-337">가장 최근 버전은 버전 1902(빌드 11328.20492)입니다.</span><span class="sxs-lookup"><span data-stu-id="7f6c8-337">The most current release is Version 1902 (Build 11328.20492).</span></span>
+<span data-ttu-id="1a80c-351">가장 최근 버전은 버전 1902(빌드 11328.20492)입니다.</span><span class="sxs-lookup"><span data-stu-id="1a80c-351">The most current release is Version 1902 (Build 11328.20492).</span></span>
 
-|<span data-ttu-id="7f6c8-338">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-338">**Release upgrading from**</span></span>|<span data-ttu-id="7f6c8-339">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-339">**Release date**</span></span>|<span data-ttu-id="7f6c8-340">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-340">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="1a80c-352">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="1a80c-352">**Release upgrading from**</span></span>|<span data-ttu-id="1a80c-353">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="1a80c-353">**Release date**</span></span>|<span data-ttu-id="1a80c-354">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="1a80c-354">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="7f6c8-341">버전 1902 (빌드 11328.20480)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-341">Version 1902 (Build 11328.20480)</span></span> <br/> |<span data-ttu-id="7f6c8-342">2019년 11월 22일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-342">November 22, 2019</span></span> <br/> |<span data-ttu-id="7f6c8-343">61</span><span class="sxs-lookup"><span data-stu-id="7f6c8-343">61</span></span><br/> |
-|<span data-ttu-id="7f6c8-344">버전 1902(빌드 11328.20468)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-344">Version 1902 (Build 11328.20468)</span></span> <br/> |<span data-ttu-id="7f6c8-345">2019년 11월 12일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-345">November 12, 2019</span></span> <br/> |<span data-ttu-id="7f6c8-346">63</span><span class="sxs-lookup"><span data-stu-id="7f6c8-346">63</span></span><br/> |
+|<span data-ttu-id="1a80c-355">버전 1902 (빌드 11328.20480)</span><span class="sxs-lookup"><span data-stu-id="1a80c-355">Version 1902 (Build 11328.20480)</span></span> <br/> |<span data-ttu-id="1a80c-356">2019년 11월 22일</span><span class="sxs-lookup"><span data-stu-id="1a80c-356">November 22, 2019</span></span> <br/> |<span data-ttu-id="1a80c-357">61</span><span class="sxs-lookup"><span data-stu-id="1a80c-357">61</span></span><br/> |
+|<span data-ttu-id="1a80c-358">버전 1902(빌드 11328.20468)</span><span class="sxs-lookup"><span data-stu-id="1a80c-358">Version 1902 (Build 11328.20468)</span></span> <br/> |<span data-ttu-id="1a80c-359">2019년 11월 12일</span><span class="sxs-lookup"><span data-stu-id="1a80c-359">November 12, 2019</span></span> <br/> |<span data-ttu-id="1a80c-360">63</span><span class="sxs-lookup"><span data-stu-id="1a80c-360">63</span></span><br/> |
 
-### <a name="semi-annual-targeted-channel"></a><span data-ttu-id="7f6c8-347">반기 (대상 지정) 채널</span><span class="sxs-lookup"><span data-stu-id="7f6c8-347">Semi-Annual (Targeted) Channel</span></span>
+### <a name="semi-annual-targeted-channel"></a><span data-ttu-id="1a80c-361">반기 (대상 지정) 채널</span><span class="sxs-lookup"><span data-stu-id="1a80c-361">Semi-Annual (Targeted) Channel</span></span>
 
-<span data-ttu-id="7f6c8-348">가장 최근 릴리스는 버전 1908(빌드 11929.20516)입니다.</span><span class="sxs-lookup"><span data-stu-id="7f6c8-348">The most current release is Version 1908 (Build 11929.20516).</span></span>
+<span data-ttu-id="1a80c-362">가장 최근 릴리스는 버전 1908(빌드 11929.20516)입니다.</span><span class="sxs-lookup"><span data-stu-id="1a80c-362">The most current release is Version 1908 (Build 11929.20516).</span></span>
 
-|<span data-ttu-id="7f6c8-349">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-349">**Release upgrading from**</span></span>|<span data-ttu-id="7f6c8-350">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-350">**Release date**</span></span>|<span data-ttu-id="7f6c8-351">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-351">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="1a80c-363">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="1a80c-363">**Release upgrading from**</span></span>|<span data-ttu-id="1a80c-364">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="1a80c-364">**Release date**</span></span>|<span data-ttu-id="1a80c-365">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="1a80c-365">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="7f6c8-352">버전 1908 (빌드 11929.20494)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-352">Version 1908 (Build 11929.20494)</span></span> <br/> |<span data-ttu-id="7f6c8-353">2019년 11월 22일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-353">November 22, 2019</span></span> <br/> |<span data-ttu-id="7f6c8-354">61</span><span class="sxs-lookup"><span data-stu-id="7f6c8-354">61</span></span><br/> |
-|<span data-ttu-id="7f6c8-355">버전 1908(빌드 11929.20436)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-355">Version 1908 (Build 11929.20436)</span></span> <br/> |<span data-ttu-id="7f6c8-356">2019년 11월 12일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-356">November 12, 2019</span></span> <br/> |<span data-ttu-id="7f6c8-357">63</span><span class="sxs-lookup"><span data-stu-id="7f6c8-357">63</span></span><br/> |
+|<span data-ttu-id="1a80c-366">버전 1908 (빌드 11929.20494)</span><span class="sxs-lookup"><span data-stu-id="1a80c-366">Version 1908 (Build 11929.20494)</span></span> <br/> |<span data-ttu-id="1a80c-367">2019년 11월 22일</span><span class="sxs-lookup"><span data-stu-id="1a80c-367">November 22, 2019</span></span> <br/> |<span data-ttu-id="1a80c-368">61</span><span class="sxs-lookup"><span data-stu-id="1a80c-368">61</span></span><br/> |
+|<span data-ttu-id="1a80c-369">버전 1908(빌드 11929.20436)</span><span class="sxs-lookup"><span data-stu-id="1a80c-369">Version 1908 (Build 11929.20436)</span></span> <br/> |<span data-ttu-id="1a80c-370">2019년 11월 12일</span><span class="sxs-lookup"><span data-stu-id="1a80c-370">November 12, 2019</span></span> <br/> |<span data-ttu-id="1a80c-371">63</span><span class="sxs-lookup"><span data-stu-id="1a80c-371">63</span></span><br/> |
 
 [//]: # (콘텐츠를 제거하지 마세요 종료 2019년 12월 10일)
 
-## <a name="december-3-2019"></a><span data-ttu-id="7f6c8-359">2019년 12월 3일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-359">December 3, 2019</span></span>
+## <a name="december-3-2019"></a><span data-ttu-id="1a80c-373">2019년 12월 3일</span><span class="sxs-lookup"><span data-stu-id="1a80c-373">December 3, 2019</span></span>
 
 [//]: # (항목을 제거하지 마세요. 시작 2019년 12월 3일)
 
-### <a name="monthly-channel"></a><span data-ttu-id="7f6c8-361">월별 채널</span><span class="sxs-lookup"><span data-stu-id="7f6c8-361">Monthly Channel</span></span>
+### <a name="monthly-channel"></a><span data-ttu-id="1a80c-375">월별 채널</span><span class="sxs-lookup"><span data-stu-id="1a80c-375">Monthly Channel</span></span>
 
-<span data-ttu-id="7f6c8-362">가장 최근 버전은 버전 1911(빌드 12228.20332)입니다.</span><span class="sxs-lookup"><span data-stu-id="7f6c8-362">The most current release is Version 1911 (Build 12228.20332).</span></span>
+<span data-ttu-id="1a80c-376">가장 최근 버전은 버전 1911(빌드 12228.20332)입니다.</span><span class="sxs-lookup"><span data-stu-id="1a80c-376">The most current release is Version 1911 (Build 12228.20332).</span></span>
 
-|<span data-ttu-id="7f6c8-363">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-363">**Release upgrading from**</span></span>|<span data-ttu-id="7f6c8-364">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-364">**Release date**</span></span>|<span data-ttu-id="7f6c8-365">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-365">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="1a80c-377">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="1a80c-377">**Release upgrading from**</span></span>|<span data-ttu-id="1a80c-378">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="1a80c-378">**Release date**</span></span>|<span data-ttu-id="1a80c-379">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="1a80c-379">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="7f6c8-366">버전 1910 (빌드 12130.20410)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-366">Version 1910 (Build 12130.20410)</span></span> <br/> |<span data-ttu-id="7f6c8-367">2019년 11월 22일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-367">November 22, 2019</span></span> <br/> |<span data-ttu-id="7f6c8-368">240</span><span class="sxs-lookup"><span data-stu-id="7f6c8-368">240</span></span><br/> |
-|<span data-ttu-id="7f6c8-369">버전 1910 (빌드 12130.20390)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-369">Version 1910 (Build 12130.20390)</span></span> <br/> |<span data-ttu-id="7f6c8-370">2019년 11월 18일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-370">November 18, 2019</span></span> <br/> |<span data-ttu-id="7f6c8-371">239</span><span class="sxs-lookup"><span data-stu-id="7f6c8-371">239</span></span><br/> |
+|<span data-ttu-id="1a80c-380">버전 1910 (빌드 12130.20410)</span><span class="sxs-lookup"><span data-stu-id="1a80c-380">Version 1910 (Build 12130.20410)</span></span> <br/> |<span data-ttu-id="1a80c-381">2019년 11월 22일</span><span class="sxs-lookup"><span data-stu-id="1a80c-381">November 22, 2019</span></span> <br/> |<span data-ttu-id="1a80c-382">240</span><span class="sxs-lookup"><span data-stu-id="1a80c-382">240</span></span><br/> |
+|<span data-ttu-id="1a80c-383">버전 1910 (빌드 12130.20390)</span><span class="sxs-lookup"><span data-stu-id="1a80c-383">Version 1910 (Build 12130.20390)</span></span> <br/> |<span data-ttu-id="1a80c-384">2019년 11월 18일</span><span class="sxs-lookup"><span data-stu-id="1a80c-384">November 18, 2019</span></span> <br/> |<span data-ttu-id="1a80c-385">239</span><span class="sxs-lookup"><span data-stu-id="1a80c-385">239</span></span><br/> |
 
 
 [//]: # (콘텐츠를 제거하지 마세요 종료 2019년 12월 3일)
 
-## <a name="november-22-2019"></a><span data-ttu-id="7f6c8-373">2019년 11월 22일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-373">November 22, 2019</span></span>
+## <a name="november-22-2019"></a><span data-ttu-id="1a80c-387">2019년 11월 22일</span><span class="sxs-lookup"><span data-stu-id="1a80c-387">November 22, 2019</span></span>
 
-### <a name="monthly-channel"></a><span data-ttu-id="7f6c8-374">월별 채널</span><span class="sxs-lookup"><span data-stu-id="7f6c8-374">Monthly Channel</span></span>
+### <a name="monthly-channel"></a><span data-ttu-id="1a80c-388">월별 채널</span><span class="sxs-lookup"><span data-stu-id="1a80c-388">Monthly Channel</span></span>
 
-<span data-ttu-id="7f6c8-375">가장 최근 버전은 버전 1910 (빌드 12130.20410)입니다.</span><span class="sxs-lookup"><span data-stu-id="7f6c8-375">The most current release is Version 1910 (Build 12130.20410).</span></span>
+<span data-ttu-id="1a80c-389">가장 최근 버전은 버전 1910 (빌드 12130.20410)입니다.</span><span class="sxs-lookup"><span data-stu-id="1a80c-389">The most current release is Version 1910 (Build 12130.20410).</span></span>
 
-|<span data-ttu-id="7f6c8-376">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-376">**Release upgrading from**</span></span>|<span data-ttu-id="7f6c8-377">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-377">**Release date**</span></span>|<span data-ttu-id="7f6c8-378">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-378">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="1a80c-390">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="1a80c-390">**Release upgrading from**</span></span>|<span data-ttu-id="1a80c-391">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="1a80c-391">**Release date**</span></span>|<span data-ttu-id="1a80c-392">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="1a80c-392">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="7f6c8-379">버전 1910 (빌드 12130.20390)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-379">Version 1910 (Build 12130.20390)</span></span> <br/> |<span data-ttu-id="7f6c8-380">2019년 11월 18일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-380">November 18, 2019</span></span> <br/> |<span data-ttu-id="7f6c8-381">50</span><span class="sxs-lookup"><span data-stu-id="7f6c8-381">50</span></span><br/> |
-|<span data-ttu-id="7f6c8-382">버전 1910 (빌드 12130.20344)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-382">Version 1910 (Build 12130.20344)</span></span> <br/> |<span data-ttu-id="7f6c8-383">2019년 11월 12일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-383">November 12, 2019</span></span> <br/> |<span data-ttu-id="7f6c8-384">58</span><span class="sxs-lookup"><span data-stu-id="7f6c8-384">58</span></span><br/> |
+|<span data-ttu-id="1a80c-393">버전 1910 (빌드 12130.20390)</span><span class="sxs-lookup"><span data-stu-id="1a80c-393">Version 1910 (Build 12130.20390)</span></span> <br/> |<span data-ttu-id="1a80c-394">2019년 11월 18일</span><span class="sxs-lookup"><span data-stu-id="1a80c-394">November 18, 2019</span></span> <br/> |<span data-ttu-id="1a80c-395">50</span><span class="sxs-lookup"><span data-stu-id="1a80c-395">50</span></span><br/> |
+|<span data-ttu-id="1a80c-396">버전 1910 (빌드 12130.20344)</span><span class="sxs-lookup"><span data-stu-id="1a80c-396">Version 1910 (Build 12130.20344)</span></span> <br/> |<span data-ttu-id="1a80c-397">2019년 11월 12일</span><span class="sxs-lookup"><span data-stu-id="1a80c-397">November 12, 2019</span></span> <br/> |<span data-ttu-id="1a80c-398">58</span><span class="sxs-lookup"><span data-stu-id="1a80c-398">58</span></span><br/> |
 
 
 [//]: # (항목을 제거하지 마세요. 시작 2019년 11월 22일)
 
-### <a name="semi-annual-channel"></a><span data-ttu-id="7f6c8-386">반기 채널</span><span class="sxs-lookup"><span data-stu-id="7f6c8-386">Semi-Annual Channel</span></span>
+### <a name="semi-annual-channel"></a><span data-ttu-id="1a80c-400">반기 채널</span><span class="sxs-lookup"><span data-stu-id="1a80c-400">Semi-Annual Channel</span></span>
 
-<span data-ttu-id="7f6c8-387">가장 최근 버전은 버전 1902 (빌드 11328.20480)입니다.</span><span class="sxs-lookup"><span data-stu-id="7f6c8-387">The most current release is Version 1902 (Build 11328.20480).</span></span>
+<span data-ttu-id="1a80c-401">가장 최근 버전은 버전 1902 (빌드 11328.20480)입니다.</span><span class="sxs-lookup"><span data-stu-id="1a80c-401">The most current release is Version 1902 (Build 11328.20480).</span></span>
 
-|<span data-ttu-id="7f6c8-388">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-388">**Release upgrading from**</span></span>|<span data-ttu-id="7f6c8-389">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-389">**Release date**</span></span>|<span data-ttu-id="7f6c8-390">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-390">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="1a80c-402">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="1a80c-402">**Release upgrading from**</span></span>|<span data-ttu-id="1a80c-403">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="1a80c-403">**Release date**</span></span>|<span data-ttu-id="1a80c-404">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="1a80c-404">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="7f6c8-391">버전 1902(빌드 11328.20468)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-391">Version 1902 (Build 11328.20468)</span></span> <br/> |<span data-ttu-id="7f6c8-392">2019년 11월 12일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-392">November 12, 2019</span></span> <br/> |<span data-ttu-id="7f6c8-393">61</span><span class="sxs-lookup"><span data-stu-id="7f6c8-393">61</span></span><br/> |
-|<span data-ttu-id="7f6c8-394">버전 1902 (빌드 11328.20438)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-394">Version 1902 (Build 11328.20438)</span></span> <br/> |<span data-ttu-id="7f6c8-395">2019년 10월 8일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-395">October 8, 2019</span></span> <br/> |<span data-ttu-id="7f6c8-396">69</span><span class="sxs-lookup"><span data-stu-id="7f6c8-396">69</span></span><br/> |
+|<span data-ttu-id="1a80c-405">버전 1902(빌드 11328.20468)</span><span class="sxs-lookup"><span data-stu-id="1a80c-405">Version 1902 (Build 11328.20468)</span></span> <br/> |<span data-ttu-id="1a80c-406">2019년 11월 12일</span><span class="sxs-lookup"><span data-stu-id="1a80c-406">November 12, 2019</span></span> <br/> |<span data-ttu-id="1a80c-407">61</span><span class="sxs-lookup"><span data-stu-id="1a80c-407">61</span></span><br/> |
+|<span data-ttu-id="1a80c-408">버전 1902 (빌드 11328.20438)</span><span class="sxs-lookup"><span data-stu-id="1a80c-408">Version 1902 (Build 11328.20438)</span></span> <br/> |<span data-ttu-id="1a80c-409">2019년 10월 8일</span><span class="sxs-lookup"><span data-stu-id="1a80c-409">October 8, 2019</span></span> <br/> |<span data-ttu-id="1a80c-410">69</span><span class="sxs-lookup"><span data-stu-id="1a80c-410">69</span></span><br/> |
 
 
-### <a name="semi-annual-targeted-channel"></a><span data-ttu-id="7f6c8-397">반기 (대상 지정) 채널</span><span class="sxs-lookup"><span data-stu-id="7f6c8-397">Semi-Annual (Targeted) Channel</span></span>
+### <a name="semi-annual-targeted-channel"></a><span data-ttu-id="1a80c-411">반기 (대상 지정) 채널</span><span class="sxs-lookup"><span data-stu-id="1a80c-411">Semi-Annual (Targeted) Channel</span></span>
 
-<span data-ttu-id="7f6c8-398">가장 최근 릴리스는 버전 1908 (빌드 11929.20494)입니다.</span><span class="sxs-lookup"><span data-stu-id="7f6c8-398">The most current release is Version 1908 (Build 11929.20494).</span></span>
+<span data-ttu-id="1a80c-412">가장 최근 릴리스는 버전 1908 (빌드 11929.20494)입니다.</span><span class="sxs-lookup"><span data-stu-id="1a80c-412">The most current release is Version 1908 (Build 11929.20494).</span></span>
 
-|<span data-ttu-id="7f6c8-399">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-399">**Release upgrading from**</span></span>|<span data-ttu-id="7f6c8-400">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-400">**Release date**</span></span>|<span data-ttu-id="7f6c8-401">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-401">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="1a80c-413">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="1a80c-413">**Release upgrading from**</span></span>|<span data-ttu-id="1a80c-414">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="1a80c-414">**Release date**</span></span>|<span data-ttu-id="1a80c-415">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="1a80c-415">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="7f6c8-402">버전 1908(빌드 11929.20436)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-402">Version 1908 (Build 11929.20436)</span></span> <br/> |<span data-ttu-id="7f6c8-403">2019년 11월 12일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-403">November 12, 2019</span></span> <br/> |<span data-ttu-id="7f6c8-404">57</span><span class="sxs-lookup"><span data-stu-id="7f6c8-404">57</span></span><br/> |
-|<span data-ttu-id="7f6c8-405">버전 1908 (빌드 11929.20396)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-405">Version 1908 (Build 11929.20396)</span></span> <br/> |<span data-ttu-id="7f6c8-406">2019년 10월 14일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-406">October 14, 2019</span></span> <br/> |<span data-ttu-id="7f6c8-407">65</span><span class="sxs-lookup"><span data-stu-id="7f6c8-407">65</span></span><br/> |
+|<span data-ttu-id="1a80c-416">버전 1908(빌드 11929.20436)</span><span class="sxs-lookup"><span data-stu-id="1a80c-416">Version 1908 (Build 11929.20436)</span></span> <br/> |<span data-ttu-id="1a80c-417">2019년 11월 12일</span><span class="sxs-lookup"><span data-stu-id="1a80c-417">November 12, 2019</span></span> <br/> |<span data-ttu-id="1a80c-418">57</span><span class="sxs-lookup"><span data-stu-id="1a80c-418">57</span></span><br/> |
+|<span data-ttu-id="1a80c-419">버전 1908 (빌드 11929.20396)</span><span class="sxs-lookup"><span data-stu-id="1a80c-419">Version 1908 (Build 11929.20396)</span></span> <br/> |<span data-ttu-id="1a80c-420">2019년 10월 14일</span><span class="sxs-lookup"><span data-stu-id="1a80c-420">October 14, 2019</span></span> <br/> |<span data-ttu-id="1a80c-421">65</span><span class="sxs-lookup"><span data-stu-id="1a80c-421">65</span></span><br/> |
 
 
 [//]: # (항목을 제거하지 마세요 종료 2019년 11월 22일)
 
-## <a name="november-18-2019"></a><span data-ttu-id="7f6c8-409">2019년 11월 18일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-409">November 18, 2019</span></span>
+## <a name="november-18-2019"></a><span data-ttu-id="1a80c-423">2019년 11월 18일</span><span class="sxs-lookup"><span data-stu-id="1a80c-423">November 18, 2019</span></span>
 
 [//]: # (항목을 제거하지 마세요. 시작 2019년 11월 18일)
 
-### <a name="monthly-channel"></a><span data-ttu-id="7f6c8-411">월별 채널</span><span class="sxs-lookup"><span data-stu-id="7f6c8-411">Monthly Channel</span></span>
+### <a name="monthly-channel"></a><span data-ttu-id="1a80c-425">월별 채널</span><span class="sxs-lookup"><span data-stu-id="1a80c-425">Monthly Channel</span></span>
 
-<span data-ttu-id="7f6c8-412">가장 최근 버전은 버전 1910 (빌드 12130.20390)입니다.</span><span class="sxs-lookup"><span data-stu-id="7f6c8-412">The most current release is Version 1910 (Build 12130.20390).</span></span>
+<span data-ttu-id="1a80c-426">가장 최근 버전은 버전 1910 (빌드 12130.20390)입니다.</span><span class="sxs-lookup"><span data-stu-id="1a80c-426">The most current release is Version 1910 (Build 12130.20390).</span></span>
 
-|<span data-ttu-id="7f6c8-413">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-413">**Release upgrading from**</span></span>|<span data-ttu-id="7f6c8-414">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-414">**Release date**</span></span>|<span data-ttu-id="7f6c8-415">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-415">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="1a80c-427">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="1a80c-427">**Release upgrading from**</span></span>|<span data-ttu-id="1a80c-428">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="1a80c-428">**Release date**</span></span>|<span data-ttu-id="1a80c-429">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="1a80c-429">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="7f6c8-416">버전 1910 (빌드 12130.20344)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-416">Version 1910 (Build 12130.20344)</span></span> <br/> |<span data-ttu-id="7f6c8-417">2019년 11월 12일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-417">November 12, 2019</span></span> <br/> |<span data-ttu-id="7f6c8-418">58</span><span class="sxs-lookup"><span data-stu-id="7f6c8-418">58</span></span><br/> |
-|<span data-ttu-id="7f6c8-419">버전 1910 (빌드 12130.20272)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-419">Version 1910 (Build 12130.20272)</span></span> <br/> |<span data-ttu-id="7f6c8-420">2019년 10월 30일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-420">October 30, 2019</span></span> <br/> |<span data-ttu-id="7f6c8-421">65</span><span class="sxs-lookup"><span data-stu-id="7f6c8-421">65</span></span><br/> |
+|<span data-ttu-id="1a80c-430">버전 1910 (빌드 12130.20344)</span><span class="sxs-lookup"><span data-stu-id="1a80c-430">Version 1910 (Build 12130.20344)</span></span> <br/> |<span data-ttu-id="1a80c-431">2019년 11월 12일</span><span class="sxs-lookup"><span data-stu-id="1a80c-431">November 12, 2019</span></span> <br/> |<span data-ttu-id="1a80c-432">58</span><span class="sxs-lookup"><span data-stu-id="1a80c-432">58</span></span><br/> |
+|<span data-ttu-id="1a80c-433">버전 1910 (빌드 12130.20272)</span><span class="sxs-lookup"><span data-stu-id="1a80c-433">Version 1910 (Build 12130.20272)</span></span> <br/> |<span data-ttu-id="1a80c-434">2019년 10월 30일</span><span class="sxs-lookup"><span data-stu-id="1a80c-434">October 30, 2019</span></span> <br/> |<span data-ttu-id="1a80c-435">65</span><span class="sxs-lookup"><span data-stu-id="1a80c-435">65</span></span><br/> |
 
 
 [//]: # (항목을 제거하지 마세요 종료 2019년 11월 18일)
 
-## <a name="november-12-2019"></a><span data-ttu-id="7f6c8-423">2019년 11월 12일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-423">November 12, 2019</span></span>
+## <a name="november-12-2019"></a><span data-ttu-id="1a80c-437">2019년 11월 12일</span><span class="sxs-lookup"><span data-stu-id="1a80c-437">November 12, 2019</span></span>
 
-### <a name="monthly-channel"></a><span data-ttu-id="7f6c8-424">월별 채널</span><span class="sxs-lookup"><span data-stu-id="7f6c8-424">Monthly Channel</span></span>
+### <a name="monthly-channel"></a><span data-ttu-id="1a80c-438">월별 채널</span><span class="sxs-lookup"><span data-stu-id="1a80c-438">Monthly Channel</span></span>
 
-<span data-ttu-id="7f6c8-425">가장 최근 버전은 버전 1910 (빌드 12130.20344)입니다.</span><span class="sxs-lookup"><span data-stu-id="7f6c8-425">The most current release is Version 1910 (Build 12130.20344).</span></span>
+<span data-ttu-id="1a80c-439">가장 최근 버전은 버전 1910 (빌드 12130.20344)입니다.</span><span class="sxs-lookup"><span data-stu-id="1a80c-439">The most current release is Version 1910 (Build 12130.20344).</span></span>
 
-|<span data-ttu-id="7f6c8-426">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-426">**Release upgrading from**</span></span>|<span data-ttu-id="7f6c8-427">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-427">**Release date**</span></span>|<span data-ttu-id="7f6c8-428">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-428">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="1a80c-440">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="1a80c-440">**Release upgrading from**</span></span>|<span data-ttu-id="1a80c-441">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="1a80c-441">**Release date**</span></span>|<span data-ttu-id="1a80c-442">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="1a80c-442">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="7f6c8-429">버전 1910 (빌드 12130.20272)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-429">Version 1910 (Build 12130.20272)</span></span> <br/> |<span data-ttu-id="7f6c8-430">2019년 10월 30일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-430">October 30, 2019</span></span> <br/> |<span data-ttu-id="7f6c8-431">61</span><span class="sxs-lookup"><span data-stu-id="7f6c8-431">61</span></span><br/> |
-|<span data-ttu-id="7f6c8-432">버전 1909 (빌드 12026.20344)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-432">Version 1909 (Build 12026.20344)</span></span> <br/> |<span data-ttu-id="7f6c8-433">2019년 10월 22일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-433">October 22, 2019</span></span> <br/> |<span data-ttu-id="7f6c8-434">156</span><span class="sxs-lookup"><span data-stu-id="7f6c8-434">156</span></span><br/> |
+|<span data-ttu-id="1a80c-443">버전 1910 (빌드 12130.20272)</span><span class="sxs-lookup"><span data-stu-id="1a80c-443">Version 1910 (Build 12130.20272)</span></span> <br/> |<span data-ttu-id="1a80c-444">2019년 10월 30일</span><span class="sxs-lookup"><span data-stu-id="1a80c-444">October 30, 2019</span></span> <br/> |<span data-ttu-id="1a80c-445">61</span><span class="sxs-lookup"><span data-stu-id="1a80c-445">61</span></span><br/> |
+|<span data-ttu-id="1a80c-446">버전 1909 (빌드 12026.20344)</span><span class="sxs-lookup"><span data-stu-id="1a80c-446">Version 1909 (Build 12026.20344)</span></span> <br/> |<span data-ttu-id="1a80c-447">2019년 10월 22일</span><span class="sxs-lookup"><span data-stu-id="1a80c-447">October 22, 2019</span></span> <br/> |<span data-ttu-id="1a80c-448">156</span><span class="sxs-lookup"><span data-stu-id="1a80c-448">156</span></span><br/> |
 
 
-### <a name="semi-annual-channel"></a><span data-ttu-id="7f6c8-435">반기 채널</span><span class="sxs-lookup"><span data-stu-id="7f6c8-435">Semi-Annual Channel</span></span>
+### <a name="semi-annual-channel"></a><span data-ttu-id="1a80c-449">반기 채널</span><span class="sxs-lookup"><span data-stu-id="1a80c-449">Semi-Annual Channel</span></span>
 
-<span data-ttu-id="7f6c8-436">가장 최근 버전은 버전 1902 (빌드 11328.20468)입니다.</span><span class="sxs-lookup"><span data-stu-id="7f6c8-436">The most current release is Version 1902 (Build 11328.20468).</span></span>
+<span data-ttu-id="1a80c-450">가장 최근 버전은 버전 1902 (빌드 11328.20468)입니다.</span><span class="sxs-lookup"><span data-stu-id="1a80c-450">The most current release is Version 1902 (Build 11328.20468).</span></span>
 
-|<span data-ttu-id="7f6c8-437">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-437">**Release upgrading from**</span></span>|<span data-ttu-id="7f6c8-438">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-438">**Release date**</span></span>|<span data-ttu-id="7f6c8-439">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-439">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="1a80c-451">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="1a80c-451">**Release upgrading from**</span></span>|<span data-ttu-id="1a80c-452">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="1a80c-452">**Release date**</span></span>|<span data-ttu-id="1a80c-453">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="1a80c-453">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="7f6c8-440">버전 1902 (빌드 11328.20438)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-440">Version 1902 (Build 11328.20438)</span></span> <br/> |<span data-ttu-id="7f6c8-441">2019년 10월 8일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-441">October 8, 2019</span></span> <br/> |<span data-ttu-id="7f6c8-442">69</span><span class="sxs-lookup"><span data-stu-id="7f6c8-442">69</span></span><br/> |
-|<span data-ttu-id="7f6c8-443">버전 1902 (빌드 11328.20420)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-443">Version 1902 (Build 11328.20420)</span></span> <br/> |<span data-ttu-id="7f6c8-444">2019년 9월 10일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-444">September 10, 2019</span></span> <br/> |<span data-ttu-id="7f6c8-445">70</span><span class="sxs-lookup"><span data-stu-id="7f6c8-445">70</span></span><br/> |
+|<span data-ttu-id="1a80c-454">버전 1902 (빌드 11328.20438)</span><span class="sxs-lookup"><span data-stu-id="1a80c-454">Version 1902 (Build 11328.20438)</span></span> <br/> |<span data-ttu-id="1a80c-455">2019년 10월 8일</span><span class="sxs-lookup"><span data-stu-id="1a80c-455">October 8, 2019</span></span> <br/> |<span data-ttu-id="1a80c-456">69</span><span class="sxs-lookup"><span data-stu-id="1a80c-456">69</span></span><br/> |
+|<span data-ttu-id="1a80c-457">버전 1902 (빌드 11328.20420)</span><span class="sxs-lookup"><span data-stu-id="1a80c-457">Version 1902 (Build 11328.20420)</span></span> <br/> |<span data-ttu-id="1a80c-458">2019년 9월 10일</span><span class="sxs-lookup"><span data-stu-id="1a80c-458">September 10, 2019</span></span> <br/> |<span data-ttu-id="1a80c-459">70</span><span class="sxs-lookup"><span data-stu-id="1a80c-459">70</span></span><br/> |
 
 
 [//]: # (항목을 제거하지 마세요. 시작 2019년 11월 12일)
 
-### <a name="semi-annual-targeted-channel"></a><span data-ttu-id="7f6c8-447">반기 (대상 지정) 채널</span><span class="sxs-lookup"><span data-stu-id="7f6c8-447">Semi-Annual (Targeted) Channel</span></span>
+### <a name="semi-annual-targeted-channel"></a><span data-ttu-id="1a80c-461">반기 (대상 지정) 채널</span><span class="sxs-lookup"><span data-stu-id="1a80c-461">Semi-Annual (Targeted) Channel</span></span>
 
-<span data-ttu-id="7f6c8-448">가장 최근 릴리스는 버전 1908 (빌드 11929.20436)입니다.</span><span class="sxs-lookup"><span data-stu-id="7f6c8-448">The most current release is Version 1908 (Build 11929.20436).</span></span>
+<span data-ttu-id="1a80c-462">가장 최근 릴리스는 버전 1908 (빌드 11929.20436)입니다.</span><span class="sxs-lookup"><span data-stu-id="1a80c-462">The most current release is Version 1908 (Build 11929.20436).</span></span>
 
-|<span data-ttu-id="7f6c8-449">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-449">**Release upgrading from**</span></span>|<span data-ttu-id="7f6c8-450">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-450">**Release date**</span></span>|<span data-ttu-id="7f6c8-451">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-451">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="1a80c-463">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="1a80c-463">**Release upgrading from**</span></span>|<span data-ttu-id="1a80c-464">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="1a80c-464">**Release date**</span></span>|<span data-ttu-id="1a80c-465">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="1a80c-465">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="7f6c8-452">버전 1908 (빌드 11929.20396)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-452">Version 1908 (Build 11929.20396)</span></span> <br/> |<span data-ttu-id="7f6c8-453">2019년 10월 14일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-453">October 14, 2019</span></span> <br/> |<span data-ttu-id="7f6c8-454">64</span><span class="sxs-lookup"><span data-stu-id="7f6c8-454">64</span></span><br/> |
-|<span data-ttu-id="7f6c8-455">버전 1908(빌드 11929.20388)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-455">Version 1908 (Build 11929.20388)</span></span> <br/> |<span data-ttu-id="7f6c8-456">2019년 10월 8일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-456">October 8, 2019</span></span> <br/> |<span data-ttu-id="7f6c8-457">66</span><span class="sxs-lookup"><span data-stu-id="7f6c8-457">66</span></span><br/> |
+|<span data-ttu-id="1a80c-466">버전 1908 (빌드 11929.20396)</span><span class="sxs-lookup"><span data-stu-id="1a80c-466">Version 1908 (Build 11929.20396)</span></span> <br/> |<span data-ttu-id="1a80c-467">2019년 10월 14일</span><span class="sxs-lookup"><span data-stu-id="1a80c-467">October 14, 2019</span></span> <br/> |<span data-ttu-id="1a80c-468">64</span><span class="sxs-lookup"><span data-stu-id="1a80c-468">64</span></span><br/> |
+|<span data-ttu-id="1a80c-469">버전 1908(빌드 11929.20388)</span><span class="sxs-lookup"><span data-stu-id="1a80c-469">Version 1908 (Build 11929.20388)</span></span> <br/> |<span data-ttu-id="1a80c-470">2019년 10월 8일</span><span class="sxs-lookup"><span data-stu-id="1a80c-470">October 8, 2019</span></span> <br/> |<span data-ttu-id="1a80c-471">66</span><span class="sxs-lookup"><span data-stu-id="1a80c-471">66</span></span><br/> |
 
 
 [//]: # (항목을 제거하지 마세요 종료 2019년 11월 12일)
 
-## <a name="october-30-2019"></a><span data-ttu-id="7f6c8-459">2019년 10월 30일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-459">October 30, 2019</span></span>
+## <a name="october-30-2019"></a><span data-ttu-id="1a80c-473">2019년 10월 30일</span><span class="sxs-lookup"><span data-stu-id="1a80c-473">October 30, 2019</span></span>
 
 [//]: # (항목을 제거하지 마세요. 시작 2019년 10월 30일)
 
-### <a name="monthly-channel"></a><span data-ttu-id="7f6c8-461">월별 채널</span><span class="sxs-lookup"><span data-stu-id="7f6c8-461">Monthly Channel</span></span>
+### <a name="monthly-channel"></a><span data-ttu-id="1a80c-475">월별 채널</span><span class="sxs-lookup"><span data-stu-id="1a80c-475">Monthly Channel</span></span>
 
-<span data-ttu-id="7f6c8-462">가장 최근 버전은 버전 1910 (빌드 12130.20272)입니다.</span><span class="sxs-lookup"><span data-stu-id="7f6c8-462">The most current release is Version 1910 (Build 12130.20272).</span></span>
+<span data-ttu-id="1a80c-476">가장 최근 버전은 버전 1910 (빌드 12130.20272)입니다.</span><span class="sxs-lookup"><span data-stu-id="1a80c-476">The most current release is Version 1910 (Build 12130.20272).</span></span>
 
-|<span data-ttu-id="7f6c8-463">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-463">**Release upgrading from**</span></span>|<span data-ttu-id="7f6c8-464">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-464">**Release date**</span></span>|<span data-ttu-id="7f6c8-465">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-465">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="1a80c-477">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="1a80c-477">**Release upgrading from**</span></span>|<span data-ttu-id="1a80c-478">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="1a80c-478">**Release date**</span></span>|<span data-ttu-id="1a80c-479">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="1a80c-479">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="7f6c8-466">버전 1909 (빌드 12026.20344)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-466">Version 1909 (Build 12026.20344)</span></span> <br/> |<span data-ttu-id="7f6c8-467">2019년 10월 22일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-467">October 22, 2019</span></span> <br/> |<span data-ttu-id="7f6c8-468">152</span><span class="sxs-lookup"><span data-stu-id="7f6c8-468">152</span></span><br/> |
-|<span data-ttu-id="7f6c8-469">버전 1909 (빌드 12026.20334)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-469">Version 1909 (Build 12026.20334)</span></span> <br/> |<span data-ttu-id="7f6c8-470">2019년 10월 14일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-470">October 14, 2019</span></span> <br/> |<span data-ttu-id="7f6c8-471">152</span><span class="sxs-lookup"><span data-stu-id="7f6c8-471">152</span></span><br/> |
+|<span data-ttu-id="1a80c-480">버전 1909 (빌드 12026.20344)</span><span class="sxs-lookup"><span data-stu-id="1a80c-480">Version 1909 (Build 12026.20344)</span></span> <br/> |<span data-ttu-id="1a80c-481">2019년 10월 22일</span><span class="sxs-lookup"><span data-stu-id="1a80c-481">October 22, 2019</span></span> <br/> |<span data-ttu-id="1a80c-482">152</span><span class="sxs-lookup"><span data-stu-id="1a80c-482">152</span></span><br/> |
+|<span data-ttu-id="1a80c-483">버전 1909 (빌드 12026.20334)</span><span class="sxs-lookup"><span data-stu-id="1a80c-483">Version 1909 (Build 12026.20334)</span></span> <br/> |<span data-ttu-id="1a80c-484">2019년 10월 14일</span><span class="sxs-lookup"><span data-stu-id="1a80c-484">October 14, 2019</span></span> <br/> |<span data-ttu-id="1a80c-485">152</span><span class="sxs-lookup"><span data-stu-id="1a80c-485">152</span></span><br/> |
 
 
 [//]: # (항목을 제거하지 마세요 종료 2019년 10월 30일)
 
-## <a name="october-23-2019"></a><span data-ttu-id="7f6c8-473">2019년 10월 23일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-473">October 23, 2019</span></span>
+## <a name="october-23-2019"></a><span data-ttu-id="1a80c-487">2019년 10월 23일</span><span class="sxs-lookup"><span data-stu-id="1a80c-487">October 23, 2019</span></span>
 
 [//]: # (항목을 제거하지 마세요. 시작 2019년 10월 23일)
 
-### <a name="monthly-channel"></a><span data-ttu-id="7f6c8-475">월별 채널</span><span class="sxs-lookup"><span data-stu-id="7f6c8-475">Monthly Channel</span></span>
+### <a name="monthly-channel"></a><span data-ttu-id="1a80c-489">월별 채널</span><span class="sxs-lookup"><span data-stu-id="1a80c-489">Monthly Channel</span></span>
 
-<span data-ttu-id="7f6c8-476">가장 최근 릴리스는 버전 1909 (빌드 12026.20344)입니다.</span><span class="sxs-lookup"><span data-stu-id="7f6c8-476">The most current release is Version 1909 (Build 12026.20344).</span></span>
+<span data-ttu-id="1a80c-490">가장 최근 릴리스는 버전 1909 (빌드 12026.20344)입니다.</span><span class="sxs-lookup"><span data-stu-id="1a80c-490">The most current release is Version 1909 (Build 12026.20344).</span></span>
 
-|<span data-ttu-id="7f6c8-477">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-477">**Release upgrading from**</span></span>|<span data-ttu-id="7f6c8-478">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-478">**Release date**</span></span>|<span data-ttu-id="7f6c8-479">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-479">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="1a80c-491">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="1a80c-491">**Release upgrading from**</span></span>|<span data-ttu-id="1a80c-492">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="1a80c-492">**Release date**</span></span>|<span data-ttu-id="1a80c-493">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="1a80c-493">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="7f6c8-480">버전 1909 (빌드 12026.20334)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-480">Version 1909 (Build 12026.20334)</span></span> <br/> |<span data-ttu-id="7f6c8-481">2019년 10월 14일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-481">October 14, 2019</span></span> <br/> |<span data-ttu-id="7f6c8-482">58</span><span class="sxs-lookup"><span data-stu-id="7f6c8-482">58</span></span><br/> |
-|<span data-ttu-id="7f6c8-483">버전 1909 (빌드 12026.20320)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-483">Version 1909 (Build 12026.20320)</span></span> <br/> |<span data-ttu-id="7f6c8-484">2019년 10월 8일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-484">October 8, 2019</span></span> <br/> |<span data-ttu-id="7f6c8-485">58</span><span class="sxs-lookup"><span data-stu-id="7f6c8-485">58</span></span><br/> |
+|<span data-ttu-id="1a80c-494">버전 1909 (빌드 12026.20334)</span><span class="sxs-lookup"><span data-stu-id="1a80c-494">Version 1909 (Build 12026.20334)</span></span> <br/> |<span data-ttu-id="1a80c-495">2019년 10월 14일</span><span class="sxs-lookup"><span data-stu-id="1a80c-495">October 14, 2019</span></span> <br/> |<span data-ttu-id="1a80c-496">58</span><span class="sxs-lookup"><span data-stu-id="1a80c-496">58</span></span><br/> |
+|<span data-ttu-id="1a80c-497">버전 1909 (빌드 12026.20320)</span><span class="sxs-lookup"><span data-stu-id="1a80c-497">Version 1909 (Build 12026.20320)</span></span> <br/> |<span data-ttu-id="1a80c-498">2019년 10월 8일</span><span class="sxs-lookup"><span data-stu-id="1a80c-498">October 8, 2019</span></span> <br/> |<span data-ttu-id="1a80c-499">58</span><span class="sxs-lookup"><span data-stu-id="1a80c-499">58</span></span><br/> |
 
 
 [//]: # (콘텐츠를 제거하지 마세요 종료 2019년 10월 23일)
 
-## <a name="october-22-2019"></a><span data-ttu-id="7f6c8-487">2019년 10월 22일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-487">October 22, 2019</span></span>
+## <a name="october-22-2019"></a><span data-ttu-id="1a80c-501">2019년 10월 22일</span><span class="sxs-lookup"><span data-stu-id="1a80c-501">October 22, 2019</span></span>
 
 [//]: # (항목을 제거하지 마세요. 시작 2019년 10월 22일)
 
-### <a name="monthly-channel"></a><span data-ttu-id="7f6c8-489">월별 채널</span><span class="sxs-lookup"><span data-stu-id="7f6c8-489">Monthly Channel</span></span>
+### <a name="monthly-channel"></a><span data-ttu-id="1a80c-503">월별 채널</span><span class="sxs-lookup"><span data-stu-id="1a80c-503">Monthly Channel</span></span>
 
-<span data-ttu-id="7f6c8-490">가장 최근 릴리스는 버전 1909 (빌드 12026.20344)입니다.</span><span class="sxs-lookup"><span data-stu-id="7f6c8-490">The most current release is Version 1909 (Build 12026.20344).</span></span>
+<span data-ttu-id="1a80c-504">가장 최근 릴리스는 버전 1909 (빌드 12026.20344)입니다.</span><span class="sxs-lookup"><span data-stu-id="1a80c-504">The most current release is Version 1909 (Build 12026.20344).</span></span>
 
-|<span data-ttu-id="7f6c8-491">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-491">**Release upgrading from**</span></span>|<span data-ttu-id="7f6c8-492">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-492">**Release date**</span></span>|<span data-ttu-id="7f6c8-493">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-493">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="1a80c-505">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="1a80c-505">**Release upgrading from**</span></span>|<span data-ttu-id="1a80c-506">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="1a80c-506">**Release date**</span></span>|<span data-ttu-id="1a80c-507">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="1a80c-507">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="7f6c8-494">버전 1909 (빌드 12026.20334)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-494">Version 1909 (Build 12026.20334)</span></span> <br/> |<span data-ttu-id="7f6c8-495">2019년 10월 14일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-495">October 14, 2019</span></span> <br/> |<span data-ttu-id="7f6c8-496">58</span><span class="sxs-lookup"><span data-stu-id="7f6c8-496">58</span></span><br/> |
-|<span data-ttu-id="7f6c8-497">버전 1909 (빌드 12026.20320)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-497">Version 1909 (Build 12026.20320)</span></span> <br/> |<span data-ttu-id="7f6c8-498">2019년 10월 8일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-498">October 8, 2019</span></span> <br/> |<span data-ttu-id="7f6c8-499">58</span><span class="sxs-lookup"><span data-stu-id="7f6c8-499">58</span></span><br/> |
+|<span data-ttu-id="1a80c-508">버전 1909 (빌드 12026.20334)</span><span class="sxs-lookup"><span data-stu-id="1a80c-508">Version 1909 (Build 12026.20334)</span></span> <br/> |<span data-ttu-id="1a80c-509">2019년 10월 14일</span><span class="sxs-lookup"><span data-stu-id="1a80c-509">October 14, 2019</span></span> <br/> |<span data-ttu-id="1a80c-510">58</span><span class="sxs-lookup"><span data-stu-id="1a80c-510">58</span></span><br/> |
+|<span data-ttu-id="1a80c-511">버전 1909 (빌드 12026.20320)</span><span class="sxs-lookup"><span data-stu-id="1a80c-511">Version 1909 (Build 12026.20320)</span></span> <br/> |<span data-ttu-id="1a80c-512">2019년 10월 8일</span><span class="sxs-lookup"><span data-stu-id="1a80c-512">October 8, 2019</span></span> <br/> |<span data-ttu-id="1a80c-513">58</span><span class="sxs-lookup"><span data-stu-id="1a80c-513">58</span></span><br/> |
 
 [//]: # (콘텐츠를 제거하지 마세요 종료 2019년 10월 22일)
 
-## <a name="october-14-2019"></a><span data-ttu-id="7f6c8-501">2019년 10월 14일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-501">October 14, 2019</span></span>
+## <a name="october-14-2019"></a><span data-ttu-id="1a80c-515">2019년 10월 14일</span><span class="sxs-lookup"><span data-stu-id="1a80c-515">October 14, 2019</span></span>
 
 [//]: # (항목을 제거하지 마세요. 시작 2019년 10월 14일)
 
-### <a name="monthly-channel"></a><span data-ttu-id="7f6c8-503">월별 채널</span><span class="sxs-lookup"><span data-stu-id="7f6c8-503">Monthly Channel</span></span>
+### <a name="monthly-channel"></a><span data-ttu-id="1a80c-517">월별 채널</span><span class="sxs-lookup"><span data-stu-id="1a80c-517">Monthly Channel</span></span>
 
-<span data-ttu-id="7f6c8-504">가장 최근 릴리스는 버전 1909 (빌드 12026.20334)입니다.</span><span class="sxs-lookup"><span data-stu-id="7f6c8-504">The most current release is Version 1909 (Build 12026.20334).</span></span>
+<span data-ttu-id="1a80c-518">가장 최근 릴리스는 버전 1909 (빌드 12026.20334)입니다.</span><span class="sxs-lookup"><span data-stu-id="1a80c-518">The most current release is Version 1909 (Build 12026.20334).</span></span>
 
-|<span data-ttu-id="7f6c8-505">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-505">**Release upgrading from**</span></span>|<span data-ttu-id="7f6c8-506">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-506">**Release date**</span></span>|<span data-ttu-id="7f6c8-507">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-507">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="1a80c-519">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="1a80c-519">**Release upgrading from**</span></span>|<span data-ttu-id="1a80c-520">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="1a80c-520">**Release date**</span></span>|<span data-ttu-id="1a80c-521">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="1a80c-521">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="7f6c8-508">버전 1909 (빌드 12026.20320)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-508">Version 1909 (Build 12026.20320)</span></span> <br/> |<span data-ttu-id="7f6c8-509">2019년 10월 8일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-509">October 8, 2019</span></span> <br/> |<span data-ttu-id="7f6c8-510">57</span><span class="sxs-lookup"><span data-stu-id="7f6c8-510">57</span></span><br/> |
-|<span data-ttu-id="7f6c8-511">버전 1909 (빌드 12026.20264)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-511">Version 1909 (Build 12026.20264)</span></span> <br/> |<span data-ttu-id="7f6c8-512">2019년 9월 30일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-512">September 30, 2019</span></span> <br/> |<span data-ttu-id="7f6c8-513">67</span><span class="sxs-lookup"><span data-stu-id="7f6c8-513">67</span></span><br/> |
+|<span data-ttu-id="1a80c-522">버전 1909 (빌드 12026.20320)</span><span class="sxs-lookup"><span data-stu-id="1a80c-522">Version 1909 (Build 12026.20320)</span></span> <br/> |<span data-ttu-id="1a80c-523">2019년 10월 8일</span><span class="sxs-lookup"><span data-stu-id="1a80c-523">October 8, 2019</span></span> <br/> |<span data-ttu-id="1a80c-524">57</span><span class="sxs-lookup"><span data-stu-id="1a80c-524">57</span></span><br/> |
+|<span data-ttu-id="1a80c-525">버전 1909 (빌드 12026.20264)</span><span class="sxs-lookup"><span data-stu-id="1a80c-525">Version 1909 (Build 12026.20264)</span></span> <br/> |<span data-ttu-id="1a80c-526">2019년 9월 30일</span><span class="sxs-lookup"><span data-stu-id="1a80c-526">September 30, 2019</span></span> <br/> |<span data-ttu-id="1a80c-527">67</span><span class="sxs-lookup"><span data-stu-id="1a80c-527">67</span></span><br/> |
 
 
-### <a name="semi-annual-targeted-channel"></a><span data-ttu-id="7f6c8-514">반기(대상 지정) 채널</span><span class="sxs-lookup"><span data-stu-id="7f6c8-514">Semi-Annual (Targeted) Channel</span></span>
+### <a name="semi-annual-targeted-channel"></a><span data-ttu-id="1a80c-528">반기(대상 지정) 채널</span><span class="sxs-lookup"><span data-stu-id="1a80c-528">Semi-Annual (Targeted) Channel</span></span>
 
-<span data-ttu-id="7f6c8-515">가장 최근 릴리스는 버전 1908 (빌드 11929.20396)입니다.</span><span class="sxs-lookup"><span data-stu-id="7f6c8-515">The most current release is Version 1908 (Build 11929.20396).</span></span>
+<span data-ttu-id="1a80c-529">가장 최근 릴리스는 버전 1908 (빌드 11929.20396)입니다.</span><span class="sxs-lookup"><span data-stu-id="1a80c-529">The most current release is Version 1908 (Build 11929.20396).</span></span>
 
-|<span data-ttu-id="7f6c8-516">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-516">**Release upgrading from**</span></span>|<span data-ttu-id="7f6c8-517">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-517">**Release date**</span></span>|<span data-ttu-id="7f6c8-518">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-518">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="1a80c-530">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="1a80c-530">**Release upgrading from**</span></span>|<span data-ttu-id="1a80c-531">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="1a80c-531">**Release date**</span></span>|<span data-ttu-id="1a80c-532">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="1a80c-532">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="7f6c8-519">버전 1908(빌드 11929.20388)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-519">Version 1908 (Build 11929.20388)</span></span> <br/> |<span data-ttu-id="7f6c8-520">2019년 10월 8일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-520">October 8, 2019</span></span> <br/> |<span data-ttu-id="7f6c8-521">59</span><span class="sxs-lookup"><span data-stu-id="7f6c8-521">59</span></span><br/> |
-|<span data-ttu-id="7f6c8-522">버전 1908(빌드 11929.20300)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-522">Version 1908 (Build 11929.20300)</span></span> <br/> |<span data-ttu-id="7f6c8-523">2019년 9월 10일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-523">September 10, 2019</span></span> <br/> |<span data-ttu-id="7f6c8-524">71</span><span class="sxs-lookup"><span data-stu-id="7f6c8-524">71</span></span><br/> |
+|<span data-ttu-id="1a80c-533">버전 1908(빌드 11929.20388)</span><span class="sxs-lookup"><span data-stu-id="1a80c-533">Version 1908 (Build 11929.20388)</span></span> <br/> |<span data-ttu-id="1a80c-534">2019년 10월 8일</span><span class="sxs-lookup"><span data-stu-id="1a80c-534">October 8, 2019</span></span> <br/> |<span data-ttu-id="1a80c-535">59</span><span class="sxs-lookup"><span data-stu-id="1a80c-535">59</span></span><br/> |
+|<span data-ttu-id="1a80c-536">버전 1908(빌드 11929.20300)</span><span class="sxs-lookup"><span data-stu-id="1a80c-536">Version 1908 (Build 11929.20300)</span></span> <br/> |<span data-ttu-id="1a80c-537">2019년 9월 10일</span><span class="sxs-lookup"><span data-stu-id="1a80c-537">September 10, 2019</span></span> <br/> |<span data-ttu-id="1a80c-538">71</span><span class="sxs-lookup"><span data-stu-id="1a80c-538">71</span></span><br/> |
 
 
 [//]: # (콘텐츠를 제거하지 마세요 종료 2019년 10월 14일)
 
-## <a name="october-8-2019"></a><span data-ttu-id="7f6c8-526">2019년 10월 8일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-526">October 8, 2019</span></span>
+## <a name="october-8-2019"></a><span data-ttu-id="1a80c-540">2019년 10월 8일</span><span class="sxs-lookup"><span data-stu-id="1a80c-540">October 8, 2019</span></span>
 
-### <a name="monthly-channel"></a><span data-ttu-id="7f6c8-527">월별 채널</span><span class="sxs-lookup"><span data-stu-id="7f6c8-527">Monthly Channel</span></span>
+### <a name="monthly-channel"></a><span data-ttu-id="1a80c-541">월별 채널</span><span class="sxs-lookup"><span data-stu-id="1a80c-541">Monthly Channel</span></span>
 
-<span data-ttu-id="7f6c8-528">가장 최근 릴리스는 버전 1909 (빌드 12026.20320)입니다.</span><span class="sxs-lookup"><span data-stu-id="7f6c8-528">The most current release is Version 1909 (Build 12026.20320).</span></span>
+<span data-ttu-id="1a80c-542">가장 최근 릴리스는 버전 1909 (빌드 12026.20320)입니다.</span><span class="sxs-lookup"><span data-stu-id="1a80c-542">The most current release is Version 1909 (Build 12026.20320).</span></span>
 
-|<span data-ttu-id="7f6c8-529">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-529">**Release upgrading from**</span></span>|<span data-ttu-id="7f6c8-530">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-530">**Release date**</span></span>|<span data-ttu-id="7f6c8-531">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-531">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="1a80c-543">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="1a80c-543">**Release upgrading from**</span></span>|<span data-ttu-id="1a80c-544">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="1a80c-544">**Release date**</span></span>|<span data-ttu-id="1a80c-545">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="1a80c-545">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="7f6c8-532">버전 1909 (빌드 12026.20264)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-532">Version 1909 (Build 12026.20264)</span></span> <br/> |<span data-ttu-id="7f6c8-533">2019년 9월 30일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-533">September 30, 2019</span></span> <br/> |<span data-ttu-id="7f6c8-534">66</span><span class="sxs-lookup"><span data-stu-id="7f6c8-534">66</span></span><br/> |
-|<span data-ttu-id="7f6c8-535">버전 1908(빌드 11929.20300)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-535">Version 1908 (Build 11929.20300)</span></span> <br/> |<span data-ttu-id="7f6c8-536">2019년 9월 10일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-536">September 10, 2019</span></span> <br/> |<span data-ttu-id="7f6c8-537">148</span><span class="sxs-lookup"><span data-stu-id="7f6c8-537">148</span></span><br/> |
+|<span data-ttu-id="1a80c-546">버전 1909 (빌드 12026.20264)</span><span class="sxs-lookup"><span data-stu-id="1a80c-546">Version 1909 (Build 12026.20264)</span></span> <br/> |<span data-ttu-id="1a80c-547">2019년 9월 30일</span><span class="sxs-lookup"><span data-stu-id="1a80c-547">September 30, 2019</span></span> <br/> |<span data-ttu-id="1a80c-548">66</span><span class="sxs-lookup"><span data-stu-id="1a80c-548">66</span></span><br/> |
+|<span data-ttu-id="1a80c-549">버전 1908(빌드 11929.20300)</span><span class="sxs-lookup"><span data-stu-id="1a80c-549">Version 1908 (Build 11929.20300)</span></span> <br/> |<span data-ttu-id="1a80c-550">2019년 9월 10일</span><span class="sxs-lookup"><span data-stu-id="1a80c-550">September 10, 2019</span></span> <br/> |<span data-ttu-id="1a80c-551">148</span><span class="sxs-lookup"><span data-stu-id="1a80c-551">148</span></span><br/> |
 
-### <a name="semi-annual-channel"></a><span data-ttu-id="7f6c8-538">반기 채널</span><span class="sxs-lookup"><span data-stu-id="7f6c8-538">Semi-Annual Channel</span></span>
+### <a name="semi-annual-channel"></a><span data-ttu-id="1a80c-552">반기 채널</span><span class="sxs-lookup"><span data-stu-id="1a80c-552">Semi-Annual Channel</span></span>
 
-<span data-ttu-id="7f6c8-539">가장 최근 릴리스는 버전 1902 (빌드 11328.20438)입니다.</span><span class="sxs-lookup"><span data-stu-id="7f6c8-539">The most current release is Version 1902 (Build 11328.20438).</span></span>
+<span data-ttu-id="1a80c-553">가장 최근 릴리스는 버전 1902 (빌드 11328.20438)입니다.</span><span class="sxs-lookup"><span data-stu-id="1a80c-553">The most current release is Version 1902 (Build 11328.20438).</span></span>
 
-|<span data-ttu-id="7f6c8-540">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-540">**Release upgrading from**</span></span>|<span data-ttu-id="7f6c8-541">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-541">**Release date**</span></span>|<span data-ttu-id="7f6c8-542">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-542">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="1a80c-554">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="1a80c-554">**Release upgrading from**</span></span>|<span data-ttu-id="1a80c-555">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="1a80c-555">**Release date**</span></span>|<span data-ttu-id="1a80c-556">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="1a80c-556">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="7f6c8-543">버전 1902 (빌드 11328.20420)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-543">Version 1902 (Build 11328.20420)</span></span> <br/> |<span data-ttu-id="7f6c8-544">2019년 9월 10일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-544">September 10, 2019</span></span> <br/> |<span data-ttu-id="7f6c8-545">65</span><span class="sxs-lookup"><span data-stu-id="7f6c8-545">65</span></span><br/> |
-|<span data-ttu-id="7f6c8-546">버전 1902(빌드 11328.20392)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-546">Version 1902 (Build 11328.20392)</span></span> <br/> |<span data-ttu-id="7f6c8-547">2019년 8월 13일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-547">August 13, 2019</span></span> <br/> |<span data-ttu-id="7f6c8-548">66</span><span class="sxs-lookup"><span data-stu-id="7f6c8-548">66</span></span><br/> |
+|<span data-ttu-id="1a80c-557">버전 1902 (빌드 11328.20420)</span><span class="sxs-lookup"><span data-stu-id="1a80c-557">Version 1902 (Build 11328.20420)</span></span> <br/> |<span data-ttu-id="1a80c-558">2019년 9월 10일</span><span class="sxs-lookup"><span data-stu-id="1a80c-558">September 10, 2019</span></span> <br/> |<span data-ttu-id="1a80c-559">65</span><span class="sxs-lookup"><span data-stu-id="1a80c-559">65</span></span><br/> |
+|<span data-ttu-id="1a80c-560">버전 1902(빌드 11328.20392)</span><span class="sxs-lookup"><span data-stu-id="1a80c-560">Version 1902 (Build 11328.20392)</span></span> <br/> |<span data-ttu-id="1a80c-561">2019년 8월 13일</span><span class="sxs-lookup"><span data-stu-id="1a80c-561">August 13, 2019</span></span> <br/> |<span data-ttu-id="1a80c-562">66</span><span class="sxs-lookup"><span data-stu-id="1a80c-562">66</span></span><br/> |
 
 [//]: # (항목을 제거하지 마세요. 시작 2019년 10월 8일)
 
-### <a name="semi-annual-targeted-channel"></a><span data-ttu-id="7f6c8-550">반기 (대상 지정) 채널</span><span class="sxs-lookup"><span data-stu-id="7f6c8-550">Semi-Annual (Targeted) Channel</span></span>
+### <a name="semi-annual-targeted-channel"></a><span data-ttu-id="1a80c-564">반기 (대상 지정) 채널</span><span class="sxs-lookup"><span data-stu-id="1a80c-564">Semi-Annual (Targeted) Channel</span></span>
 
-<span data-ttu-id="7f6c8-551">가장 최근 릴리스는 버전 1908 (빌드 11929.20388)입니다.</span><span class="sxs-lookup"><span data-stu-id="7f6c8-551">The most current release is Version 1908 (Build 11929.20388).</span></span>
+<span data-ttu-id="1a80c-565">가장 최근 릴리스는 버전 1908 (빌드 11929.20388)입니다.</span><span class="sxs-lookup"><span data-stu-id="1a80c-565">The most current release is Version 1908 (Build 11929.20388).</span></span>
 
-|<span data-ttu-id="7f6c8-552">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-552">**Release upgrading from**</span></span>|<span data-ttu-id="7f6c8-553">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-553">**Release date**</span></span>|<span data-ttu-id="7f6c8-554">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="7f6c8-554">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="1a80c-566">**업그레이드 전 릴리스**</span><span class="sxs-lookup"><span data-stu-id="1a80c-566">**Release upgrading from**</span></span>|<span data-ttu-id="1a80c-567">**릴리스 날짜**</span><span class="sxs-lookup"><span data-stu-id="1a80c-567">**Release date**</span></span>|<span data-ttu-id="1a80c-568">**대략적인 다운로드 크기(MB)**</span><span class="sxs-lookup"><span data-stu-id="1a80c-568">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="7f6c8-555">버전 1908(빌드 11929.20300)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-555">Version 1908 (Build 11929.20300)</span></span> <br/> |<span data-ttu-id="7f6c8-556">2019년 9월 10일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-556">September 10, 2019</span></span> <br/> |<span data-ttu-id="7f6c8-557">69</span><span class="sxs-lookup"><span data-stu-id="7f6c8-557">69</span></span><br/> |
-|<span data-ttu-id="7f6c8-558">버전 1902(빌드 11328.20392)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-558">Version 1902 (Build 11328.20392)</span></span> <br/> |<span data-ttu-id="7f6c8-559">2019년 8월 13일</span><span class="sxs-lookup"><span data-stu-id="7f6c8-559">August 13, 2019</span></span> <br/> |<span data-ttu-id="7f6c8-560">340</span><span class="sxs-lookup"><span data-stu-id="7f6c8-560">340</span></span><br/> |
+|<span data-ttu-id="1a80c-569">버전 1908(빌드 11929.20300)</span><span class="sxs-lookup"><span data-stu-id="1a80c-569">Version 1908 (Build 11929.20300)</span></span> <br/> |<span data-ttu-id="1a80c-570">2019년 9월 10일</span><span class="sxs-lookup"><span data-stu-id="1a80c-570">September 10, 2019</span></span> <br/> |<span data-ttu-id="1a80c-571">69</span><span class="sxs-lookup"><span data-stu-id="1a80c-571">69</span></span><br/> |
+|<span data-ttu-id="1a80c-572">버전 1902(빌드 11328.20392)</span><span class="sxs-lookup"><span data-stu-id="1a80c-572">Version 1902 (Build 11328.20392)</span></span> <br/> |<span data-ttu-id="1a80c-573">2019년 8월 13일</span><span class="sxs-lookup"><span data-stu-id="1a80c-573">August 13, 2019</span></span> <br/> |<span data-ttu-id="1a80c-574">340</span><span class="sxs-lookup"><span data-stu-id="1a80c-574">340</span></span><br/> |
 
 
 [//]: # (콘텐츠를 제거하지 마세요 종료 2019년 10월 8일)
 
 
-## <a name="related-topics"></a><span data-ttu-id="7f6c8-562">관련 항목</span><span class="sxs-lookup"><span data-stu-id="7f6c8-562">Related topics</span></span>
+## <a name="related-topics"></a><span data-ttu-id="1a80c-576">관련 항목</span><span class="sxs-lookup"><span data-stu-id="1a80c-576">Related topics</span></span>
 
-- [<span data-ttu-id="7f6c8-563">Office 365 ProPlus의 업데이트 채널 개요</span><span class="sxs-lookup"><span data-stu-id="7f6c8-563">Overview of update channels for Office 365 ProPlus</span></span>](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
+- [<span data-ttu-id="1a80c-577">Office 365 ProPlus의 업데이트 채널 개요</span><span class="sxs-lookup"><span data-stu-id="1a80c-577">Overview of update channels for Office 365 ProPlus</span></span>](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
 
-- [<span data-ttu-id="7f6c8-564">Office 365 ProPlus에 대한 업데이트 기록(날짜순)</span><span class="sxs-lookup"><span data-stu-id="7f6c8-564">Update history for Office 365 ProPlus (listed by date)</span></span>](update-history-office365-proplus-by-date.md)
+- [<span data-ttu-id="1a80c-578">Office 365 ProPlus에 대한 업데이트 기록(날짜순)</span><span class="sxs-lookup"><span data-stu-id="1a80c-578">Update history for Office 365 ProPlus (listed by date)</span></span>](update-history-office365-proplus-by-date.md)
 
 > [!NOTE]
-> <span data-ttu-id="7f6c8-565">Office를 사용하는 데 발생한 문제에 대해 도움이 필요하면 [Microsoft의 Answers 포럼](https://answers.microsoft.com/) 또는 [기술 커뮤니티](https://techcommunity.microsoft.com/)에 질문을 게시하거나 [지원 서비스](https://support.microsoft.com/contactus)에 문의할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="7f6c8-565">If you need help with an issue with using Office, we recommend that you post your question on [Microsoft's Answers forum](https://answers.microsoft.com/) or [Tech Community](https://techcommunity.microsoft.com/), or you can contact [support](https://support.microsoft.com/contactus).</span></span>
+> <span data-ttu-id="1a80c-579">Office를 사용하는 데 발생한 문제에 대해 도움이 필요하면 [Microsoft의 Answers 포럼](https://answers.microsoft.com/) 또는 [기술 커뮤니티](https://techcommunity.microsoft.com/)에 질문을 게시하거나 [지원 서비스](https://support.microsoft.com/contactus)에 문의할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a80c-579">If you need help with an issue with using Office, we recommend that you post your question on [Microsoft's Answers forum](https://answers.microsoft.com/) or [Tech Community](https://techcommunity.microsoft.com/), or you can contact [support](https://support.microsoft.com/contactus).</span></span>
