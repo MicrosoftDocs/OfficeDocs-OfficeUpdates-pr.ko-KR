@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 릴리스 정보에 대한 링크를 포함하여 Office 365 ProPlus 릴리스의 전체 목록을 날짜별로 구성해서 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 34802aa3e76bf9db7e0a44b8baa6844445598da8
-ms.sourcegitcommit: ddefa52be7376fad84cbcb5554d6f9e9f06c4c60
+ms.openlocfilehash: f70e7b3f33d08b92cb748069df368b7d5211a1fc
+ms.sourcegitcommit: 6f8ebfd45430efe3eb3bf43823202cbdd974f5ed
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43046133"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43081788"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 ProPlus에 대한 업데이트 기록(날짜순)
 
@@ -25,7 +25,6 @@ Office 365 ProPlus는 새로운 기능, 보안 업데이트 및 비보안 업데
 > Office 365 ProPlus가 **엔터프라이즈용 Microsoft 365 앱**으로 이름이 변경됩니다. 이름을 변경하는 방법에 대한 자세한 내용은 [이 블로그 게시물을 참조하세요](https://go.microsoft.com/fwlink/p/?linkid=2120533). 
 >
 > 이 변경 사항이 적용되는 시기 및 관리자가 수행해야 하는 작업에 대한 자세한 내용은 [이 문서를 참조하세요](https://go.microsoft.com/fwlink/p/?linkid=2123420).
-
 
 
 > [!NOTE]
@@ -39,7 +38,7 @@ Office 365 ProPlus는 새로운 기능, 보안 업데이트 및 비보안 업데
 
 |**채널**|**버전**|**빌드**|**릴리스 날짜**|**다음 이하 버전까지 지원**|
 |:-----|:-----|:-----|:-----|:-----|
-|월간<br/>|2003<br/>|12624.20320<br/>|2020년 3월 25일<br/>|2004 버전 출시<br/>|
+|월간<br/>|2003<br/>|12624.20382<br/>|2020년 3월 31일<br/>|2004 버전 출시<br/>|
 |반기(대상 지정)<br/>|2002<br/>|12527.20278<br/>|2020년 3월 10일<br/>|2020년 9월 8일<br/>|
 |반기<br/>|1908<br/>|11929.20648<br/>|2020년 3월 10일<br/>|2021년 3월 9일<br/>|
 |반기<br/>|1902<br/>|11328.20554<br/>|2020년 3월 10일<br/>|2020년 9월 8일<br/>|
@@ -54,6 +53,7 @@ Office 365 ProPlus는 새로운 기능, 보안 업데이트 및 비보안 업데
 
 |**년도**|**릴리스 날짜**|**월별 채널**|**반기별 채널(지정됨)**|**반기 채널**|
 |:-----|:-----|:-----|:-----|:-----|
+|2020|3월 31일|[버전 2003 (빌드 12624.20382)](monthly-channel-2020.md#version-2003-march-31)| | |
 |2020|3월 25일|[버전 2003 (빌드 12624.20320)](monthly-channel-2020.md#version-2003-march-25)| | |
 |2020|3월 10일|[버전 2002 (빌드 12527.20278)](monthly-channel-2020.md#version-2002-march-10)|[버전 2002 (빌드 12527.20278)](semi-annual-channel-targeted-2020.md#version-2002-march-10)|[버전 1908 (빌드 11929.20648)](semi-annual-channel-2020.md#version-1908-march-10)<br/>[버전 1902 (빌드 11328.20554)](semi-annual-channel-2020.md#version-1902-march-10)|
 |2020|3월 1일|[버전 2002 (빌드 12527.20242)](monthly-channel-2020.md#version-2002-march-01)| | |
@@ -64,7 +64,7 @@ Office 365 ProPlus는 새로운 기능, 보안 업데이트 및 비보안 업데
 |2020|1월 22일|[버전 1912(빌드 12325.20344)](monthly-channel-2020.md#version-1912-january-22)| | |
 |2020|1월 14일|[버전 1912 (빌드 12325.20298)](monthly-channel-2020#version-1912-january-14)|[버전 1908 (빌드 11929.20562)](semi-annual-channel-targeted-2020.md#version-1908-january-14)|[버전 1908 (빌드 11929.20562)](semi-annual-channel-2020.md#version-1908-january-14)<br/>[버전 1902 (빌드 11328.20512)](semi-annual-channel-2020.md#version-1902-january-14)<br/>[버전 1808 (빌드 10730.20432)](semi-annual-channel-2020.md#version-1808-january-14)|
 |2020|1월 8일|[버전 1912(빌드 12325.20288)](monthly-channel-2020#version-1912-january-08)| | |
-|2019|12월 10일|[버전 1911 (빌드 12228.20364)](monthly-channel-2019#version-1911-december-10)|[버전 1908 (빌드 11929.20516)](semi-annual-channel-targeted-2019.md#version-1911-december-10)  |[버전 1902 (빌드 11328.20492)](semi-annual-channel-2019#version-1902-december-10)<br/>[버전 1808 (빌드 10730.20426)](semi-annual-channel-2019.md#version-1808-december-10)|
+|2019|12월 10일|[버전 1911 (빌드 12228.20364)](monthly-channel-2019#version-1911-december-10)|[버전 1908 (빌드 11929.20516)](semi-annual-channel-2019#version-1902-december-10)  |[버전 1902 (빌드 11328.20492)](semi-annual-channel-2019#version-1902-december-10)<br/>[버전 1808 (빌드 10730.20426)](semi-annual-channel-2019.md#version-1808-december-10)|
 |2019|12월 3일|[버전 1911 (빌드 12228.20332)](monthly-channel-2019.md#version-1911-december-3)| | |
 |2019|11월 22일|[버전 1910(빌드 12130.20410)](monthly-channel-2019.md#version-1910-november-22)|[버전 1908(빌드 11929.20494)](semi-annual-channel-targeted-2019.md#version-1908-november-22)|[버전 1902(빌드 11328.20480)](semi-annual-channel-2019.md#version-1902-november-22)<br/>[버전 1808(빌드 10730.20422)](semi-annual-channel-2019.md#version-1808-november-22)|
 |2019년|11월 18일|[버전 1910 (빌드 12130.20390)](monthly-channel-2019.md#version-1910-november-18)| | |
@@ -99,7 +99,7 @@ Office 365 ProPlus는 새로운 기능, 보안 업데이트 및 비보안 업데
 |2019|3월 4일  |[버전 1902(빌드 11328.20146)](monthly-channel-2019.md#version-1902-march-4)| | |
 |2019년|2월 12일 |[버전 1901(빌드 11231.20174)](monthly-channel-2019.md#version-1901-february-12)|[버전 1808(빌드 10730.20280)](semi-annual-channel-targeted-2019.md#version-1808-february-12) |[버전 1808(빌드 10730.20280)](semi-annual-channel-2019.md#version-1808-february-12)  <br/>  [버전 1803(빌드 9126.2356)](semi-annual-channel-2019.md#version-1803-february-12)  <br/> [버전 1708(빌드 8431.2372)](office365-proplus-security-updates.md#february-12-2019) |
 |2019|1월 31일   |[버전 1901(빌드 11231.20130)](monthly-channel-2019.md#version-1901-january-31)| | |
-|2019|1월 14일   |[버전 1812(빌드 11126.20266)](monthly-channel-2019.md#version-1812-january-14)| | |
+|2019|1월 14일   |[버전 1812(빌드 11126.20266)](monthly-channel-2019#version-1812-january-14)| | |
 |2019|1월 8일 |[버전 1812 (빌드 11126.20196 )](monthly-channel-2019.md#version-1812-january-8)|[버전 1808 (빌드 10730.20264)](semi-annual-channel-targeted-2019.md#version-1808-january-8) |[버전 1808 (빌드 10730.20264)](semi-annual-channel-2019.md#version-1808-january-8)  <br/>  [버전 1803 (빌드 9126.2351)](semi-annual-channel-2019.md#version-1803-january-8)  <br/> [버전 1708(빌드 8431.2366)](office365-proplus-security-updates.md#january-8-2019) |
 |2019|1월 3일   |[버전 1812(빌드 11126.20188)](monthly-channel-2019.md#version-1812-january-3)| | |
 |2018년|12월 11일 |[버전 1811 (빌드 11029.20108)](monthly-channel-2018.md#version-1811-december-11)|[버전 1808 (빌드 10730.20262)](semi-annual-channel-targeted-2018.md#version-1808-december-11) |[버전 1803 (빌드 9126.2336)](semi-annual-channel-2018.md#version-1803-december-11)  <br/>  [버전 1708 (빌드 8431.2351)](semi-annual-channel-2018.md#version-1708-december-11)   |
