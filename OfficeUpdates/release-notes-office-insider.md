@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 82db5c6be4e891c0d2a50532605409d296b6d571
-ms.sourcegitcommit: 973f5df717e5ed982ac91d5cc66bef6207618405
+ms.openlocfilehash: 4bfa4d71cd6f4170f56df5b159c747b59e4da74d
+ms.sourcegitcommit: 48ebf0ac6da9e208ff6242200d07013ea3c12dad
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43028259"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "43131106"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 참가자에 대한 릴리스 정보
 
@@ -26,6 +26,8 @@ ms.locfileid: "43028259"
 > - Office 365 ProPlus의 기존 설치에 대한 Microsoft Teams - 6월 말부터 Microsoft Teams가 Office 365 ProPlus(및 Office 365 Business)의 기존 설치에 업데이트 설치 시 포함됩니다. Teams가 추가되는 날짜는 사용 중인 업데이트 채널에 따라 다릅니다. 추가 정보는 [Office 365 ProPlus와 함께 Microsoft Teams 배포](https://docs.microsoft.com/deployoffice/teams-install)를 참조하세요.
 
 [//]: # (제거하지 마세요)
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2004-march-27"></a>버전 2004: 3월 27일
 *버전 2004(빌드 12718.20010)*
@@ -1825,7 +1827,7 @@ PowerPoint에 잉크 리플레이 애니메이션을 적용하면 프레젠테�
 - 모임으로 변환할 때 약속 있음/없음 상태를 변경할 수 있는 문제가 해결되었습니다.
 - 애드혹 서식 파일을 사용하여 전자 메일을 보호하는 경우 잘못된 서식 파일 및 설명이 표시되는 문제를 해결했습니다.
 
-### <a name="access"></a>액세스
+### <a name="access"></a>Access
 - 다양한 성능 및 안정성 수정 사항입니다.
 
 ### <a name="project"></a>Project
