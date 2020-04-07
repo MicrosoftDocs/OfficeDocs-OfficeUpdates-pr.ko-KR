@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 이후 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 5b3cc2b72424536ec294fe9881bab82d16a5bb11
-ms.sourcegitcommit: 937711535d3b08b7d04ef8a8a6cffe038968ce5f
+ms.openlocfilehash: 5fd3eca4e49313af7695271afaccb46f65b7cb0c
+ms.sourcegitcommit: e00aa46a0fb912d45254988ddc5da9fa44850522
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43076279"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "43150976"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 릴리스 정보 월 단위 채널(대상 지정)
 
@@ -29,6 +29,32 @@ ms.locfileid: "43076279"
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2003-april-03"></a>버전 2003: 4월 3일
+*버전 2003(빌드 12624.20410)*
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- VBA의 Application.Evaluate 사용이 경우에 따라 사용자 정의 함수에서 작동하지 않았습니다.
+
+### <a name="outlook"></a>Outlook
+
+- 마우스에서 "X" 단추를 사용할 때 가끔 충돌이 발생하는 문제를 해결했습니다.
+
+### <a name="project"></a>Project
+
+- 양식보기에서 선행 작업/후속자 데이터를 편집하면 추가 ProjectBeforeTaskChangeevent가 발생합니다.
+
+### <a name="word"></a>Word
+
+- 마우스에서 "X" 단추를 사용할 때 가끔 충돌이 발생하는 문제를 해결했습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2003-march-31"></a>버전 2003: 3월 31일
 *버전 2003 (빌드 12624.20382)*

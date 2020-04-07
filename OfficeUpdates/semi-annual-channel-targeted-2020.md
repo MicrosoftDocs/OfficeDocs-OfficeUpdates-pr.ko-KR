@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Office 365 ProPlus에 대한 반기 채널(대상 지정) 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: ee3fac9129ce3c5819340c2a51a6fe33e4965166
-ms.sourcegitcommit: 6f8ebfd45430efe3eb3bf43823202cbdd974f5ed
+ms.openlocfilehash: 85a1bba4afd5478275a1330cd4ad59f67ee6f99b
+ms.sourcegitcommit: cebd1b7ebdaa9ee8c7fcd4b23c84b6fe931f08d2
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43081800"
+ms.lasthandoff: 04/07/2020
+ms.locfileid: "43159840"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2020"></a>2020년 반기 채널(대상 지정) 릴리스에 대한 릴리스 정보
 
@@ -43,7 +43,6 @@ ms.locfileid: "43081800"
 
 - **원하는 내용 찾기: 명령, 사용자, 파일, 사진, 웹 문서 등을 검색** [자세한 정보](https://support.office.com/article/2457d4d8-48a8-4ad4-ab89-5a0657aa8446)
 
-- **분위기에 맞는 더 다양한 아이콘:** 300개가 넘는 새로운 아이콘이 추가되었습니다. 삽입 > 아이콘에서 찾을 수 있습니다. [자세한 정보](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
 
 - **그림 스케치:** 통합 문서에서 Office 도형에 손으로 그린 캐주얼한 모양을 넣을 수 있습니다. [자세한 정보](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
 
@@ -79,8 +78,6 @@ ms.locfileid: "43081800"
 
 - **철자 또는 오타로 검색:** Outlook은 철자가 틀린 경우에도 검색 내용을 찾습니다.
 
-- **분위기에 맞는 더 다양한 아이콘:** 300개가 넘는 새로운 아이콘이 추가되었습니다. 삽입 > 아이콘에서 찾을 수 있습니다. [자세한 정보](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
-
 - **피싱 메일을 쉽게 탐지:** 스팸과 피싱 메시지는 형태와 느낌이 다르기 때문에 받은 편지함에서 쉽게 식별하고 제거할 수 있습니다.
 
 - **공격에 대비한 고급 보호:** Office 365 Advanced Threat Protection을 사용하면 전자 메일 제목, 첨부된 메시지, 서명된 메시지, 네트워크 경로 등의 하이퍼 링크를 통해 공격으로부터 보호할 수 있습니다.
@@ -103,7 +100,6 @@ ms.locfileid: "43081800"
 
 - **새로운 교정 도구:** 단어를 틀릴까봐 스트레스 받지 마세요. 이제 PowerPoint는 문법 및 맞춤법 제안 사항을 제공합니다. [자세한 정보](https://support.office.com/article/91ecbe1b-d021-4e9e-a82e-abc4cd7163d7)
 
-- **인쇄된 유인물에서 슬라이드 번호 확인:** 유인물 인쇄본에 슬라이드 번호를 추가합니다
 
 - **라이브 캡션 및 자막:** 발표자의 단어가 화면에 캡션으로 자동으로 표시되고 원하는 언어로 자막으로 번역됩니다. [자세한 정보](https://support.office.com/article/68d20e49-aec3-456a-939d-34a79e8ddd5f)
 
@@ -111,7 +107,6 @@ ms.locfileid: "43081800"
 
 - **원하는 내용 찾기:** 검색 창을 사용하여 텍스트, 명령, 도움말 등을 찾으세요. [자세한 정보](https://support.office.com/article/2457d4d8-48a8-4ad4-ab89-5a0657aa8446)
 
-- **분위기에 맞는 더 다양한 아이콘:** 300개가 넘는 새로운 아이콘이 추가되었습니다. 삽입 > 아이콘에서 찾을 수 있습니다. [자세한 정보](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
 
 - **누락된 슬라이드 제목 찾기 및 수정:** 슬라이드 제목은 발표에 호소력을 더해 다양한 수준의 사용자가 슬라이드를 이해하기 쉽도록 합니다. 접근성 검사를 통해 제목이 누락되는 위치를 표시하여 신속하게 제목을 추가할 수 있습니다. [자세한 정보](https://support.office.com/article/c5286802-495a-4b47-a8ae-212fb8a7dc74)
 
@@ -148,8 +143,6 @@ ms.locfileid: "43081800"
 - **Excel에서 세련된 Visio 다이어그램 만들기:** 워크시트에 데이터를 입력하여 순서도 또는 조직도를 만듭니다. [자세한 정보](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 ### <a name="word"></a>Word
-
-- **Microsoft 수식 편집기 변환기:** 변환기를 사용하여 Microsoft 수식 편집기로 만든 수식을 Office Math ML 형식으로 변환하여 편집할 수 있습니다.
 
 - **이력서 편집기와 LinkedIn Resume 도우미의 만남:** 이력서 편집기는 이력서에 특별히 맞춤화된 문법 및 스타일 검사를 제공하여 글을 보다 정확하고 전문적으로 만들어 줍니다.
 
