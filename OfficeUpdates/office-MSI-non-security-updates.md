@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Office 2016, Office 2013 및 Office 2010 영구 버전의 최신 비보안 업데이트 정보에 대한 링크를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: cce53954fcf4d28f6f77f8d17966be69bf33ab94
-ms.sourcegitcommit: 6d822269cc24b803dce007a19c5600c1921d110a
+ms.openlocfilehash: 39c7da6800f60a66963a559177fe96b4cba43a22
+ms.sourcegitcommit: 4e0b36a59f36fb89207483ba9fd811c6feeef0f1
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "42403827"
+ms.lasthandoff: 04/07/2020
+ms.locfileid: "43170238"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Windows Installer(MSI)를 사용하는 Office 버전에 대한 최신 비보안 업데이트
 
@@ -25,6 +25,16 @@ ms.locfileid: "42403827"
 > - 이 문서의 정보는 Office 365 ProPlus와 같은 Office 365 버전의 Office에는 적용되지 않습니다.
 > - Office 업데이트 설치에 대한 자세한 내용은 [Office 업데이트 설치](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)를 참조하세요.
 <br/><br/>
+
+## <a name="april-7-2020"></a>2020년 4월 7일
+
+**Office 2016**<br/>
+Microsoft Office 2016에 대한 업데이트([KB4484101](https://support.microsoft.com/help/4484101))<br/>
+Microsoft Office 2016에 대한 업데이트([KB4484106](https://support.microsoft.com/help/4484106))<br/>
+Microsoft Office 2016에 대한 업데이트([KB4484248](https://support.microsoft.com/help/4484248))<br/>
+Microsoft Office 2016에 대한 업데이트([KB4475586](https://support.microsoft.com/help/4475586))<br/>
+Microsoft Office 2016에 대한 업데이트([KB4484286](https://support.microsoft.com/help/4484286)) <br/>
+
 
 ## <a name="march-3-2020"></a>2020년 3월 3일
 
@@ -76,21 +86,3 @@ Microsoft Office 2016에 대한 업데이트([KB4484145](https://support.microso
 Microsoft Outlook 2016에 대한 업데이트([KB4484139](https://support.microsoft.com/help/4484139)) <br/>
 Microsoft PowerPoint 2016에 대한 업데이트 ([KB4484134](https://support.microsoft.com/help/4484134)) <br/>
 Microsoft Word 2016에 대한 업데이트([KB4484135](https://support.microsoft.com/help/4484135)) <br/>
-
-## <a name="october-1-2019"></a>2019년 10월 1일
-
-**Office 2016**<br/>
-Microsoft Office 2016에 대한 업데이트([KB4475585](https://support.microsoft.com/help/4475585)) <br/> Microsoft Office 2016에 대한 업데이트([KB4484114](https://support.microsoft.com/help/4484114)) <br/>
-Microsoft Office 2016 언어 인터페이스 팩에 대한 업데이트([KB4475582](https://support.microsoft.com/help/4475582))<br/>
-Microsoft Outlook 2016에 대한 업데이트([KB4484107](https://support.microsoft.com/help/4484107)) <br/>
-Microsoft PowerPoint 2016에 대한 업데이트 ([KB4475578](https://support.microsoft.com/help/4475578)) <br/>
-Microsoft Project 2016에 대한 업데이트([KB4484116](https://support.microsoft.com/help/4484116)) <br/>
-Microsoft Word 2016에 대한 업데이트([KB4484105](https://support.microsoft.com/help/4484105)) <br/>
-비즈니스용 Skype 2016에 대한 업데이트([KB4484102](https://support.microsoft.com/help/4484102)) <br/>
-
-**Office 2013**<br/>
-Microsoft Outlook 2013에 대한 업데이트([KB4484096](https://support.microsoft.com/help/4484096))<br/>
-
-**Office 2010**<br/>
-Microsoft Outlook 2010에 대한 업데이트([KB4475604](https://support.microsoft.com/help/4475604))<br/><br/>
-
