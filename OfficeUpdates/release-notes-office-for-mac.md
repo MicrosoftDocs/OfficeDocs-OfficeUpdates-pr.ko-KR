@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Office 356 구독자를 위한 Mac용 Office 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: eb80ead5175112c099c78cb641e281db7a278a00
-ms.sourcegitcommit: 4e509f91fd46e9df26ff0d2d775adc9bf58efa6e
+ms.openlocfilehash: 8008445d01b850dedf96f6354716e36c527e1e39
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42622142"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521282"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac용 Office에 대한 릴리스 정보
 
@@ -34,10 +34,25 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
 
 
 [//]: # (제거하지 마세요)
+## <a name="april-14-2020"></a>2020년 4월 14일
+*버전 16.36(빌드 20041300)*
 
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="excel"></a>Excel
 
+- **자동으로 새 데이터 형식 사용**: 가능한 재고량 또는 지리적 위치와 유사한 데이터 값을 입력하면 Excel에서 재고량 또는 지역 중 해당하는 연결된 데이터 형식으로 변환할 것을 제안합니다.
+- **다양한 방향을 지닌 워크시트 인쇄**: 전체 통합 문서를 한꺼번에 인쇄할 경우 Mac용 Excel에서는 페이지 레이아웃 옵션을 기준으로 가로 또는 세로 방향으로 각 시트를 인쇄할 수 있습니다.
+- **통합 문서에 대한 통계 가져오기:** 통합 문서 통계는 통합 문서의 내용을 간략하게 파악하는 데 도움이 되는 통합 문서의 내용에 대한 개요를 제공합니다.
 
+### <a name="outlook"></a>Outlook
 
+- **Mac용 Outlook에서 오프라인으로 일정 검색**: Mac용 Outlook에서 오프라인 상태일 때 일정을 검색하는 경우 다음을 수행할 수 있습니다.  이벤트 및 약속을 볼 수 있습니다.
+
+### <a name="security-updates"></a>보안 업데이트
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-0980](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0980)
 
 
 ## <a name="march-10-2020"></a>2020년 3월 10일

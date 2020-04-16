@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Office 365 ProPlus에 대한 반기 채널(대상 지정) 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 85a1bba4afd5478275a1330cd4ad59f67ee6f99b
-ms.sourcegitcommit: cebd1b7ebdaa9ee8c7fcd4b23c84b6fe931f08d2
+ms.openlocfilehash: b6ead1e881f7cc860e65285efbc2a0326839bba0
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "43159840"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521376"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2020"></a>2020년 반기 채널(대상 지정) 릴리스에 대한 릴리스 정보
 
@@ -24,6 +24,75 @@ ms.locfileid: "43159840"
 >
 > - Microsoft는 일정 기간 동안 반기 채널(대상) 기능(및 경우에 따라 수정 사항)을 롤아웃합니다. 아래에서 설명했던 내용이 바로 보이지 않으면 곧 예측할 수 있습니다. [자세한 정보](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - Microsoft Teams는 버전 1902부터 반기 채널(대상 지정)의 새 설치에 포함됩니다. 버전 1908 이상으로 업데이트 되는 경우 기존 반기 채널(대상 지정) 설치에 Teams가 추가됩니다. 자세한 내용은 [Office 365 ProPlus와 함께 Microsoft Teams 배포](https://docs.microsoft.com/deployoffice/teams-install)를 참조하세요.
+
+## <a name="version-2002-april-14"></a>버전 2002: 4월 14일
+*버전 2002 (빌드 12527.20442)*
+
+나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="excel"></a>Excel
+
+- 다중값을 반환하는 공식 입력: 다중값을 반환하는 공식을 신속히 입력하면 자동으로 인접한 셀들로 입력됩니다. [자세한 정보](https://support.microsoft.com/en-us/office/new-array-functions-003df6c7-1dcb-4388-8e2e-0fe77a0887bc?ui=en-us&rs=en-us&ad=us)
+- 유용한 함수 6개: 스프레드시트를 더욱 유용하게 사용할 수 있는 새로운 함수 6개(FILTER, SORT, SORTBY, UNIQUE, SEQUENCE 및 RANDARRAY)가 추가되었습니다.  [자세한 정보](https://support.microsoft.com/en-us/office/easier-array-formulas-5c2c9cbb-def8-409a-b380-2fbf91b20aa3?ui=en-us&rs=en-us&ad=us)
+- 왼쪽으로 찾기, 오른쪽으로 찾기… XLOOKUP이 있습니다! 행별로 XLOOKUP을 사용하여 테이블 또는 범위에서 필요한 것을 모두 찾으십시오.  [자세한 정보](https://support.office.com/en-us/article/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929?ui=en-US&rs=en-US&ad=US)
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- 특정 경우에 Word나 PowerPoint에서 포함된 통합 문서를 다시 열면 Excel이 중단됩니다.
+
+- CSV 파일로 저장하면 Excel에서 모든 열이 하나의 열로 병합되는 경우가 있습니다.
+
+- 보호된 시트의 범위에서 Range.ClearContents를 사용하면 예상보다 시간이 오래 걸릴 수 있습니다.
+
+- 인쇄 미리 보기로 표시되는 경우 양식 컨트롤에서 텍스트의 크기 조정 문제가 해결되었습니다.
+
+- 리본 메뉴와 상호 작용하는 VBA 매크로는 ScreenUpdating을 예기치 않게 True로 설정한 상태에서 실행될 수 있습니다.
+
+- 원본 통합 문서가 닫힌 경우 외부 링크가 채우기(아래로 채우기, 가로 채우기 등)에 업데이트되지 않는 문제를 해결했습니다.
+
+- 경우에 따라 VBA의 Application.Evaluate를 사용해도 사용자 정의 함수에서 제대로 작동하지 않았습니다.
+
+- 서식 파일에서 차트를 만들 때 성능 문제를 해결했습니다.
+
+
+### <a name="outlook"></a>Outlook
+
+- 일부 시나리오에서 그룹 헤더가 예기치 않게 확장되는 문제를 해결했습니다.
+
+- 특정 검색 결과를 선택할 때 사용자에게 충돌이 발생하는 문제를 해결했습니다.
+
+- 마우스의 X 단추를 사용할 때 가끔 충돌이 발생하는 문제를 해결했습니다.
+
+- 첨부 파일 도구에서 클라우드에 저장 단추가 누락되는 문제를 해결했습니다.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 복사-붙여넣기 시나리오 개선: 파워포인트 슬라이드에서 도형을 복사하고 루프의 다른 슬라이드에 붙여넣을 때 예외적으로 실패할 수 있습니다.
+
+
+### <a name="project"></a>Project
+
+- 이전 버전의 Project에서 만든 프로젝트를 저장하면 Project가 충돌할 수 있는 문제를 해결했습니다.
+
+- 비활성 단추를 통해 작업이 비활성화/활성화된 때를 ProjectBeforeTaskChange 이벤트에서 감지하지 못하는 문제를 해결했습니다. 
+
+### <a name="word"></a>Word
+
+- 마우스의 X 단추를 사용할 때 가끔 충돌이 발생하는 문제를 해결했습니다.
+
+- 표에 텍스트 맞춤 문제를 수정했습니다.
+
+- 삽입 가로선 길이가 더 짧지 않고 가운데 맞춤되지 않는 문제를 해결했습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2002-march-10"></a>버전 2002: 3월 10일
 *버전 2002 (빌드 12527.20278)*
@@ -177,8 +246,6 @@ ms.locfileid: "43159840"
 - **파일을 변환하여 접근성 향상:** 모든 사용자가 보다 쉽게 액세스할 수 있도록 파일을 최신 형식으로 업그레이드합니다.
 
 - **더욱 안전한 비디오 환경:** 보안 강화는 더욱 안전한 온라인 비디오 환경을 의미합니다. [자세한 정보](https://support.office.com/article/bf11b812-0243-4f53-a1f9-432fbf7ace2c)
-
-- **누가 나와 함께 일하고 있습니까?**: 나와 함께 일하고 있는 사람이 누구인지 쉽게 확인하고 [문서/스프레드 시트/프레젠테이션]의 어디에 있는지 쉽게 확인할 수 있습니다.
 
 - **도형을 그림으로 저장:** 몇 번의 클릭만으로 도형, 아이콘 또는 기타 개체를 그림 파일로 저장하여 다른 곳에서 다시 사용할 수 있습니다. [자세한 정보](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
