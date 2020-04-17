@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT 전문가에게 MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록을 제공합니다.
-ms.openlocfilehash: 0fc6e93f19abf0a8969879979b1e5aa5e7dc15ab
-ms.sourcegitcommit: e2633701e5a00bd20a5f166e95fcb156461973ae
+ms.openlocfilehash: 34b354a2834d1dde33b7f19709fb2a2ab2bf2fa6
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "42890115"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521056"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록
  
@@ -29,6 +29,30 @@ ms.locfileid: "42890115"
 > - Microsoft 자동 업데이트는 Microsoft의 다양한 Mac 제품에 대한 업데이트를 제공합니다. 따라서 Mac용 Office를 실행하고 있지 않더라도 Microsoft 자동 업데이트를 업데이트하라는 알림을 받을 수 있습니다.
 
 릴리스 정보를 확인하려면 [릴리스 정보](release-notes-office-for-mac.md)를 참고하세요.<br/><br/>
+
+## <a name="april-2020-release"></a>2020년 4월 릴리스
+
+**릴리스 날짜:** 2020년 4월 14일
+
+*Microsoft 자동 업데이트 4.22*
+
+ **기능 업데이트:**
+
+- 보안 픽스: Microsoft 자동 업데이트를 수행하면 이전 버전의 안전하지 않은 연결을 방지합니다.
+- 자동 업데이트를 해제한 사용자는 일주일에 한 번씩만 Microsoft 자동 업데이트 UI를 볼 수 있습니다.
+- SSD를 사용하는 MacOS 컴퓨터는 업데이트로 인해 더 빨라진 업데이트 속도 및 무시해도 되는 정도의 앱 중단만을 경험합니다.
+
+
+[CVE-2020-0984](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0984)를 참조하세요.
+
+**MAU 업데이트 링크:**
+
+[Microsoft 자동 업데이트 4.22 패키지 다운로드](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 해시:**
+
+2E202B0B65AC093BDBFDA47F2A62758E44E0FBC09383B121EAA76206CF2B3EAB
+<br/><br/>
 
 ## <a name="march-2020-release"></a>2020년 3월 릴리스
 

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: IT 전문가에게 ODT(Office 배포 도구)의 릴리스 기록을 제공합니다.
-ms.openlocfilehash: fb59993362c4c186518f8472cb0330fa1b1e8d58
-ms.sourcegitcommit: f042b25b15960fc4911a7e7d8500dcfd992ee95c
+ms.openlocfilehash: b9cb0e347e785f14c1dd23ae9cfbcaa327ce4873
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "41230066"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521216"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Office 배포 도구에 대한 릴리스 기록
 
@@ -29,6 +29,13 @@ ODT를 사용하여 Office 설치를 더 강력하게 제어할 수 있습니다
 
 [Office 배포 도구 다운로드](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
 
+
+## <a name="april-15-2020"></a>2020년 4월 15일
+
+버전 16.0.12624.20320 (setup.exe 버전 16.0.12624.20290)
+- Windows 7 관련 종료 Office 버전에 대한 지원을 추가합니다.
+- 사용자 지정 설정이 예상대로 적용되지 않을 수 있는 문제를 해결합니다.
+- 불필요한 .cat 파일이 예기치 않게 다운로드될 수 있는 문제를 해결합니다.
 
 ## <a name="january-16-2020"></a>2020년 1월 16일
 

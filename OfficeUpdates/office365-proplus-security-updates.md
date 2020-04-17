@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT 전문가에게 Office 365 ProPlus 보안 업데이트에 대한 릴리스 정보를 제공합니다.
-ms.openlocfilehash: 6233ae7f80c5a139b2f8de169f1293b1c05a19ad
-ms.sourcegitcommit: ddefa52be7376fad84cbcb5554d6f9e9f06c4c60
+ms.openlocfilehash: 8eab85b14ca0d034d83db85db7a30e4072eed845
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43046093"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521285"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Office 365 ProPlus 보안 업데이트에 대한 릴리스 정보
 
@@ -33,6 +33,35 @@ ms.locfileid: "43046093"
 > - 이 정보는 일부 Office 365 계획에 제공되는 Office 버전(예: Business Premium)인 Office 365 Business에도 적용됩니다.  
 
 [//]: # (공백으로 사용하므로, 위의 선을 삭제하지 마세요.)  
+
+## <a name="april-14-2020"></a>2020년 4월 14일
+월별 채널: 버전 2003(빌드 12624.20442)  
+반기 채널(대상 지정): 버전 2002 (빌드 12527.20442)  
+반기 채널: 버전 1908 (빌드 11929.20708)  
+반기 채널: 버전 1902 (빌드 11328.20564)  
+Windows 7 기반 Office 365 ProPlus: 버전 2002 (빌드 12527.20442)  
+
+[//]: # (보안 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-0906](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0906)
+-   [CVE-2020-0979](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0979)
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-0980](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0980)
+
+### <a name="office-suite"></a>Office 제품군
+
+-   [CVE-2020-0760](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0760)
+-   [CVE-2020-0991](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0991)
+-   [CVE-2020-0961](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0961)
+
+[//]: # (보안 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+
 
 ## <a name="march-10-2020"></a>2020년 3월 10일
 월별 채널: 버전 2002 (빌드 12527.20278)  

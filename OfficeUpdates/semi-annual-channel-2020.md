@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Office 365 ProPlus에 대한 반기 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: ebcf5fde37793b290e5c8fff1e33462a207c3a55
-ms.sourcegitcommit: 937711535d3b08b7d04ef8a8a6cffe038968ce5f
+ms.openlocfilehash: 0f6b473a8c72cd5b85f28572ad6fa53463282617
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43076278"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521026"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>2020년 반기 채널 릴리스에 대한 릴리스 정보
 
@@ -27,6 +27,46 @@ ms.locfileid: "43076278"
 
 
 
+## <a name="version-1908-april-14"></a>버전 1908: 4월 14일
+*버전 1908(빌드 11929.20708)*
+
+나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- 병합된 셀을 포함하는 열을 삭제할 때 성능이 저하되는 문제를 해결했습니다.
+
+- 인쇄 미리 보기로 표시되는 경우 양식 컨트롤에서 텍스트의 크기 조정 문제가 해결되었습니다.
+
+### <a name="skype"></a>Skype
+
+- 두 개 이상의 대화가 진행되는 동안 탭 대화의 제목 이름이 고정되었습니다.
+
+### <a name="outlook"></a>Outlook
+
+- Outlook을 종료할 때 사용자가 작동 중단을 경험하는 문제를 해결했습니다.
+
+- 일부 시나리오에서 고객에게 빈 회의실 목록이 표시되는 문제를 해결했습니다.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 형광펜 관련 문제를 해결했습니다. 어두운 형광펜 색상의 텍스트는 흑백 모드에서 검은 색으로 인쇄됩니다.
+
+### <a name="word"></a>Word
+
+- 표의 텍스트 맞춤 문제가 수정되었습니다.
+
+
+## <a name="version-1902-april-14"></a>버전 1902: 4월 14일
+*버전 1902(빌드 11328.20564)*
+
+나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-1908-march-10"></a>버전 1908: 3월 10일
 *버전 1908 (빌드 11929.20648)*
