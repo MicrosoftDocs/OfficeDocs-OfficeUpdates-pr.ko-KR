@@ -11,17 +11,17 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Landing
 description: Office 365 ProPlus, Mac 용 Office, 정품 Office 및 Office Server 제품용 Office 릴리스 콘텐츠에 대 한 링크를 IT 전문가에 게 제공 합니다.
-ms.openlocfilehash: 27e010048db0eeac3ab3c4f1eb7e5adb4e6d994c
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: 2bdea84afebdfdfd525776aaa50e2540c9d67507
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38282236"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714548"
 ---
 # <a name="office-updates"></a>Office 업데이트
 
   
-Office 365 ProPlus, Mac 용 Office, Office Server 제품 및 정품 버전을 포함 하 여 Office 제품의 기능, 보안 업데이트 및 비보안 업데이트에 대 한 정보를 확인 하세요.
+Microsoft 365 앱, Mac 용 Office, Office Server 제품 및 정품 버전을 포함 하 여 Office 제품의 기능, 보안 업데이트 및 비보안 업데이트에 대 한 정보를 확인 하세요.
   
 
 ---
@@ -32,7 +32,7 @@ Office 365 ProPlus, Mac 용 Office, Office Server 제품 및 정품 버전을 �
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardText">
-                        <h3>Office 365 ProPlus</h3>
+                        <h3>Microsoft 365 앱</h3>
                         <p><a href="release-notes-office365-proplus.md">릴리스 정보</a></p>
                         <p><a href="update-history-office365-proplus-by-date.md">업데이트 기록(날짜별)</a></p>
                         <p><a href="download-sizes-office365-proplus-updates.md">업데이트 크기</a></p>
