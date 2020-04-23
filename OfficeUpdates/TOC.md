@@ -1,5 +1,5 @@
 # [릴리스 정보](release-notes-office365-proplus.md)
-# Office 365 ProPlus
+# Microsoft 365 앱
 ## [보안 업데이트](office365-proplus-security-updates.md)
 ## [업데이트 기록(날짜별)](update-history-office365-proplus-by-date.md)
 ## [업데이트 크기](download-sizes-office365-proplus-updates.md)
