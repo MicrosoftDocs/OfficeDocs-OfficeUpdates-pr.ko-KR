@@ -1,5 +1,5 @@
 ---
-title: Office 365 ProPlus에 대한 업데이트 기록(날짜순)
+title: Microsoft 365 앱의 업데이트 기록(날짜순)
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
@@ -8,29 +8,24 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: 릴리스 정보에 대한 링크를 포함하여 Office 365 ProPlus 릴리스의 전체 목록을 날짜별로 구성해서 IT 전문가에게 제공합니다.
-ms.openlocfilehash: ffd28edabb121ba87836ccab21e87f83700186e6
-ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
+description: 릴리스 정보에 대한 링크를 포함하여 Microsoft 365 앱 릴리스의 전체 목록을 날짜별로 구성해서 IT 전문가에게 제공합니다.
+ms.openlocfilehash: f70db1039fa7931b5f8cf80834389e03e4a095bd
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43521096"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715426"
 ---
-# <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 ProPlus에 대한 업데이트 기록(날짜순)
+# <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 앱의 업데이트 기록(날짜순)
 
-Office 365 ProPlus는 새로운 기능, 보안 업데이트 및 비보안 업데이트로 정기적으로 업데이트됩니다. 이러한 업데이트를 [업데이트 채널](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)을 사용하여 릴리스됩니다. 각 업데이트 채널의 각 릴리스에는 버전 및 빌드 번호가 할당되어 표시됩니다.
-
+이러한 버전 및 빌드 번호는 엔터프라이즈용 Microsoft 365 앱, 비즈니스용 Microsoft 365 앱 그리고 Project 및 Visio용 데스크톱 앱의 구독 버전에 적용됩니다.
 
 > [!IMPORTANT]
-> Office 365 ProPlus가 **엔터프라이즈용 Microsoft 365 앱**으로 이름이 변경됩니다. 이름을 변경하는 방법에 대한 자세한 내용은 [이 블로그 게시물을 참조하세요](https://go.microsoft.com/fwlink/p/?linkid=2120533). 
->
-> 이 변경 사항이 적용되는 시기 및 관리자가 수행해야 하는 작업에 대한 자세한 내용은 [이 문서를 참조하세요](https://go.microsoft.com/fwlink/p/?linkid=2123420).
-
+> Office 365 ProPlus는 2004 버전부터 엔터프라이즈용 Microsoft 365 앱으로 이름이 변경됩니다.자세한 내용은  [이 문서를 검토하세요](https://go.microsoft.com/fwlink/p/?linkid=2123420).이 문서에서는 일반적으로 이를 Microsoft 365 앱이라고 지칭합니다.
 
 > [!NOTE]
-> - 이러한 버전 및 빌드 번호는 Office 365 Business, Visio Pro for Office 365 및 Project Online 데스크톱 클라이언트에도 적용됩니다. Office 365 Business는 Business Premium과 같은 일부 Office 365 계획에 포함된 Office 버전입니다.
 > - 이 표는 릴리스 날짜순으로 정렬되어 가장 최근의 릴리스가 먼저 나열됩니다.
-> - 업데이트 채널에 대한 자세한 내용은 [Office 365 ProPlus 업데이트 채널 개요](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)를 참조하세요.
+> - 업데이트 채널에 대한 자세한 내용은 [Microsoft 365 앱 업데이트 채널의 개요](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)를 참조하세요.
 
 다음 표에는 각 업데이트 채널에 대한 지원되는 버전 및 최신 빌드 번호가 나와 있습니다.
 
@@ -45,9 +40,9 @@ Office 365 ProPlus는 새로운 기능, 보안 업데이트 및 비보안 업데
 
 [//]: # (EOSTABLEEND)
 
-이전 버전의 Office 365 ProPlus에서 가장 최근 릴리스로 업데이트할 경우 대략적인 다운로드 크기에 대한 내용은 [Office 365 ProPlus 업데이트의 다운로드 크기](download-sizes-office365-proplus-updates.md)를 참조하세요.
+이전 버전의 Microsoft 365 앱에서 가장 최근 릴리스로 업데이트할 경우 대략적인 다운로드 크기에 대한 내용은 [Microsoft 365 앱 업데이트의 다운로드 크기](download-sizes-office365-proplus-updates.md)를 참조하세요.
 
-다음 표에서는 월별, 반기(대상 지정) 및 반기의 업데이트 채널에 릴리스된 각 Office 365 ProPlus 업데이트에 대한 버전 및 빌드 번호 목록을 제공합니다. 표의 각 항목은 해당 릴리스에 대한 릴리스 정보에 직접 연결됩니다. 릴리스 정보는 Office 365 ProPlus에 대한 업데이트에 포함된 기능, 보안 업데이트 및 비보안 업데이트에 대한 정보를 제공합니다.  
+다음의 표는 매월, 반기 별(대상 지정) 그리고 연중 업데이트 채널에서 릴리스된 각 Microsoft 365 앱 업데이트의 버전 및 빌드 번호 목록을 제공합니다. 표의 각 항목은 해당 릴리스의 릴리스 노트에 직접 연결됩니다. 이 릴리스 정보는 Microsoft 365 앱 업데이트에 포함된 기능 및 보안 업데이트 및 비보안 업데이트에 대한 정보를 제공합니다.  
 
 [//]: # (HISTORYTABLESTART)
 
@@ -227,9 +222,9 @@ Office 365 ProPlus는 새로운 기능, 보안 업데이트 및 비보안 업데
 
 ## <a name="related-topics"></a>관련 항목
 
-- [Office 365 ProPlus의 업데이트 채널 개요](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
-- [Office 365 ProPlus 업데이트에 대한 릴리스 정보](release-notes-office365-proplus.md)
-- [Office 365 ProPlus 업데이트의 다운로드 크기](download-sizes-office365-proplus-updates.md)
+- [Microsoft 365 앱의 업데이트 채널의 개요](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
+- [Microsoft 365 앱의 업데이트에 대한 릴리스 정보](release-notes-office365-proplus.md)
+- [Microsoft 365 앱 업데이트의 다운로드 크기](download-sizes-office365-proplus-updates.md)
 
 > [!NOTE]
 > Office를 사용하는 데 발생한 문제에 대해 도움이 필요하면 [Microsoft의 Answers 포럼](https://answers.microsoft.com/) 또는 [기술 커뮤니티](https://techcommunity.microsoft.com/)에 질문을 게시하거나 [지원 서비스](https://support.microsoft.com/contactus)에 문의할 수 있습니다.
