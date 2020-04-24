@@ -1,5 +1,5 @@
 ---
-title: Office 365 ProPlus 업데이트에 대한 릴리스 정보
+title: Microsoft 365 앱 업데이트에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
@@ -9,43 +9,39 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: Office 365 ProPlus의 최신 릴리스, 업데이트 채널 및 릴리스 정보와 업데이트 기록에 대한 링크 목록을 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 033ddc631a8d76f92306752fe743763cf6b18af7
-ms.sourcegitcommit: ddefa52be7376fad84cbcb5554d6f9e9f06c4c60
+description: 업데이트 채널별 Microsoft 365 앱의 최신 릴리스 및 릴리스 정보와 업데이트 기록에 대한 링크 목록을 IT 전문가에게 제공합니다.
+ms.openlocfilehash: d6994deeab0a144b4642577519d670fe8a3f5643
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43046123"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714538"
 ---
-# <a name="release-information-for-updates-to-office-365-proplus"></a>Office 365 ProPlus 업데이트에 대한 릴리스 정보
+# <a name="release-information-for-updates-to-microsoft-365-apps"></a>Microsoft 365 앱 업데이트에 대한 릴리스 정보
 
 
 > [!IMPORTANT]
-> Office 365 ProPlus가 **엔터프라이즈용 Microsoft 365 앱**으로 이름이 변경됩니다. 이름을 변경하는 방법에 대한 자세한 내용은 [이 블로그 게시물을 참조하세요](https://go.microsoft.com/fwlink/p/?linkid=2120533). 
->
-> 이 변경 사항이 적용되는 시기 및 관리자가 수행해야 하는 작업에 대한 자세한 내용은 [이 문서를 참조하세요](https://go.microsoft.com/fwlink/p/?linkid=2123420).
+> Office 365 ProPlus는 2004 버전부터 Microsoft Office 365 ProPlus로 이름이 변경됩니다.자세한 내용은  [이 문서를 검토하세요](https://go.microsoft.com/fwlink/p/?linkid=2123420).이 문서에서는 일반적으로 Microsoft 365 앱으로 지칭합니다.
 
 
-
-
-## <a name="security-updates-for-office-365-proplus-releases"></a>Office 365 ProPlus 릴리스의 보안 업데이트
+## <a name="security-updates-for-microsoft-365-apps-releases"></a>Microsoft 365 앱 릴리스용 보안 업데이트
 
 전체 보안 업데이트 목록은 다음 문서를 참조하세요.
  - [Office 365 ProPlus의 보안 업데이트](office365-proplus-security-updates.md)
 
 
-## <a name="update-history-for-office-365-proplus-releases"></a>Office 365 ProPlus 릴리스의 업데이트 기록
+## <a name="update-history-for-microsoft-365-apps-releases"></a>Microsoft 365 앱 릴리스의 업데이트 기록
 
 각 채널의 릴리스 및 지원되는 버전의 전체 목록은 다음 문서를 참조하세요.
- - [Office 365 ProPlus의 업데이트 기록(날짜순)](update-history-office365-proplus-by-date.md)
+ - [Office 365 ProPlus에 대한 업데이트 기록(날짜순)](update-history-office365-proplus-by-date.md)
 
 
- ## <a name="update-sizes-for-office-365-proplus-releases"></a>Office 365 ProPlus 릴리스의 업데이트 크기
+ ## <a name="update-sizes-for-microsoft-365-apps-releases"></a>Microsoft 365 앱 릴리스의 업데이트 크기
 
 업데이트 릴리스 크기의 전체 목록을 보려면 다음 문서를 참조하세요.
  - [Office 365 ProPlus 업데이트의 다운로드 크기](download-sizes-office365-proplus-updates.md)
 
-## <a name="release-notes-for-office-365-proplus-releases"></a>Office 365 ProPlus의 릴리스 정보
+## <a name="release-notes-for-microsoft-365-apps-releases"></a>Microsoft 365 앱 릴리스의 릴리스 정보
 
 업데이트 채널 및 연도별 릴리스 정보의 전체 목록을 보려면 다음 문서를 참조하세요.
  - 월별: [2020](monthly-channel-2020.md), [2019](monthly-channel-2019.md), [2018](monthly-channel-2018.md), [2017](monthly-channel-2017.md), [2016](monthly-channel-2016.md)
@@ -58,7 +54,7 @@ ms.locfileid: "43046123"
 
 ## <a name="office-for-mac-release-information"></a>Mac용 Microsoft Office 릴리스 정보
 
-Office 365 ProPlus를 포함하는 모든 Office 365 구독 계획에 포함된 Mac용 Office의 업데이트에 대한 내용은 다음 문서를 참조하세요.
+Microsoft 365 앱을 포함하는 모든 Microsoft 365 구독 플랜에 포함된 Mac용 Office의 업데이트에 대한 내용은 다음 문서를 참조하세요.
  - [Mac용 Office에 대한 업데이트 기록](update-history-office-for-mac.md)
  - [Mac용 Office에 대한 릴리스 정보](release-notes-office-for-mac.md)
  - [MAU 릴리스 기록](release-history-microsoft-autoupdate.md)
@@ -66,11 +62,11 @@ Office 365 ProPlus를 포함하는 모든 Office 365 구독 계획에 포함된 
 
 ## <a name="related-topics"></a>관련 항목
 
-- [Office 365 ProPlus의 업데이트 채널 개요](https://docs.microsoft.com/deployoffice/overview-of-update-channels-for-office-365-proplus)
+- [Microsoft 365 앱의 업데이트 채널 개요](https://docs.microsoft.com/deployoffice/overview-of-update-channels-for-office-365-proplus)
 - [Office 배포](https://docs.microsoft.com/deployoffice/)
-- [Office 365의 새로운 기능](https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426)
-- [Office 365 로드맵](https://products.office.com/business/office-365-roadmap)
-- [Office 365 메시지 센터 개요](https://support.office.com/article/38fb3333-bfcc-4340-a37b-deda509c2093)
+- [Microsoft 365 앱의 새로운 기능](https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426)
+- [Microsoft 365 앱 로드맵](https://products.office.com/business/office-365-roadmap)
+- [Microsoft 365 앱 메시지 센터 개요](https://support.office.com/article/38fb3333-bfcc-4340-a37b-deda509c2093)
 - [Windows 10 릴리스 정보](https://www.microsoft.com/itpro/windows-10/release-information)
 - [Microsoft 보안 업데이트 가이드](https://portal.msrc.microsoft.com/)
 
