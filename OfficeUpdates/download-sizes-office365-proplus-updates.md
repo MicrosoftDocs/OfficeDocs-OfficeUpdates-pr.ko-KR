@@ -1,5 +1,5 @@
 ---
-title: Office 365 ProPlus 업데이트의 다운로드 크기
+title: Microsoft 365 앱 업데이트의 다운로드 크기
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
@@ -8,32 +8,28 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
-description: 각 업데이트 채널에 대한 Office 365 ProPlus 업데이트의 대략적인 다운로드 크기 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: ce1a2b84f2eaf59a55431c15c3ff87b033f08bc4
-ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
+description: 각 업데이트 채널에 대한 Microsoft 365 앱 업데이트의 대략적인 다운로드 크기 정보를 IT 전문가에게 제공합니다.
+ms.openlocfilehash: c424e6b96022b145f2483b455bf4a49488b54eed
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43521226"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714668"
 ---
-# <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 ProPlus 업데이트의 다운로드 크기
+# <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 앱 업데이트의 다운로드 크기
 
 Microsoft의 목표는 기업 고객이 네트워크 대역폭 사용률을 계획하는 데 도움이 되도록 미리 업데이트 크기 정보를 제공하는 것입니다.
 
-다음 표에는 이전 버전의 Office 365 ProPlus에서 최신 릴리스로 업데이트할 때의 대략적인 다운로드 크기가 나와 있습니다. 실제 다운로드 크기는 50MB 정도까지 달라질 수 있습니다. 이전 릴리스에서 현재 릴리스로 업데이트하는 경우 다운로드 크기가 더 커질 수 있습니다.
+다음 표에는 이전 버전의 Microsoft 365 앱에서 최신 릴리스로 업데이트할 때의 대략적인 다운로드 크기가 나와 있습니다. 실제 다운로드 크기는 50MB 정도까지 달라질 수 있습니다. 이전 릴리스에서 현재 릴리스로 업데이트하는 경우 다운로드 크기가 더 커질 수 있습니다.
 
 다른 채널로 전환하는 경우(예: 반기 채널(대상 지정)에서 반기 채널로), 업데이트 크기가 표에 나오는 것보다 훨씬 클 수 있습니다. 이 경우 전체 다운로드가 필요할 수 있으며 1GB 이상일 수 있습니다.
 
 
 > [!IMPORTANT]
-> Office 365 ProPlus가 **엔터프라이즈용 Microsoft 365 앱**으로 이름이 변경됩니다. 이름을 변경하는 방법에 대한 자세한 내용은 [이 블로그 게시물을 참조하세요](https://go.microsoft.com/fwlink/p/?linkid=2120533). 
->
-> 이 변경 사항이 적용되는 시기 및 관리자가 수행해야 하는 작업에 대한 자세한 내용은 [이 문서를 참조하세요](https://go.microsoft.com/fwlink/p/?linkid=2123420).
-
-
+> Office 365 ProPlus는 2004 버전부터 엔터프라이즈용 Microsoft 365 앱으로 이름이 변경됩니다.자세한 내용은  [이 문서를 검토하세요](https://go.microsoft.com/fwlink/p/?linkid=2123420).이 문서에서는 일반적으로 이를 Microsoft 365 앱이라고 지칭합니다.
 
 > [!NOTE]
-> - 표에 나열된 대략적인 다운로드 크기는 Office 365 ProPlus en-us x64 버전에만 적용됩니다.
+> - 표에 나열된 대략적인 다운로드 크기는 Microsoft 365 앱 en-us x64 버전에만 적용됩니다.
 > - 지난 4개월 동안의 릴리스만 표시됩니다.
 
 [//]: # (제거하지 마세요)
@@ -586,9 +582,9 @@ Microsoft의 목표는 기업 고객이 네트워크 대역폭 사용률을 계�
 
 ## <a name="related-topics"></a>관련 항목
 
-- [Office 365 ProPlus의 업데이트 채널 개요](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
+- [Microsoft 365 앱의 업데이트 채널 개요](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
 
-- [Office 365 ProPlus에 대한 업데이트 기록(날짜순)](update-history-office365-proplus-by-date.md)
+- [Microsoft 365 앱의 업데이트 기록(날짜순)](update-history-office365-proplus-by-date.md)
 
 > [!NOTE]
 > Office를 사용하는 데 발생한 문제에 대해 도움이 필요하면 [Microsoft의 Answers 포럼](https://answers.microsoft.com/) 또는 [기술 커뮤니티](https://techcommunity.microsoft.com/)에 질문을 게시하거나 [지원 서비스](https://support.microsoft.com/contactus)에 문의할 수 있습니다.

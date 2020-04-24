@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 월간 채널 업데이트 내역 제공 Windows 데스크톱의 대상 릴리스
-ms.openlocfilehash: 5fcb4ae789a54b2da85360457e581ebf9fbdacb4
-ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
+ms.openlocfilehash: 6d0e2f0d76eaad219e6fb8652bba6a8794f45e48
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43521346"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715298"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Windows용 월간(대상) 채널의 업데이트 내역
 
@@ -26,18 +26,18 @@ ms.locfileid: "43521346"
 
 
 > [!IMPORTANT]
-> Office 365 ProPlus가 **엔터프라이즈용 Microsoft 365 앱**으로 이름이 변경됩니다. 이름을 변경하는 방법에 대한 자세한 내용은 [이 블로그 게시물을 참조하세요](https://go.microsoft.com/fwlink/p/?linkid=2120533). 
->
-> 이 변경 사항이 적용되는 시기 및 관리자가 수행해야 하는 작업에 대한 자세한 내용은 [이 문서를 참조하세요](https://go.microsoft.com/fwlink/p/?linkid=2123420).
 
-
+> Office 365 ProPlus는 2004 버전부터 엔터프라이즈용 Microsoft 365 앱으로 이름이 변경됩니다.자세한 내용은  [이 문서를 검토하세요](https://go.microsoft.com/fwlink/p/?linkid=2123420).이 문서에서는 일반적으로 이를 Microsoft 365 앱이라고 지칭합니다.
 
 > [!NOTE]
 > - 업데이트 내역에는 릴리스된 모든 빌드가 나열됩니다.
 > - 릴리스 정보는 더 느린 흐름에 업데이트되며 릴리스 정보 게시 빌드 번호까지 여러 빌드에 대한 업데이트 컴파일이 될 수 있습니다.
-> - Office 365 ProPlus의 기존 설치에 대한 Microsoft Teams - 6월 말부터 Microsoft Teams가 Office 365 ProPlus(및 Office 365 Business)의 기존 설치에 업데이트 설치 시 포함됩니다. Teams가 추가되는 날짜는 사용 중인 업데이트 채널에 따라 다릅니다. 추가 정보는 [Office 365 ProPlus와 함께 Microsoft Teams 배포](https://docs.microsoft.com/deployoffice/teams-install)를 참조하세요.
+
 
 [//]: # (제거하지 마세요)
+
+**2020년 4월 21일**<br/>
+버전 2004 (빌드 12730.20182)<br/>
 
 **2020년 4월 15일**<br/>
 버전 2004(빌드 12730.20150)<br/>

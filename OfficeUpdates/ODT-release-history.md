@@ -9,16 +9,16 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: IT 전문가에게 ODT(Office 배포 도구)의 릴리스 기록을 제공합니다.
-ms.openlocfilehash: b9cb0e347e785f14c1dd23ae9cfbcaa327ce4873
-ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
+ms.openlocfilehash: 70e000f7cbdc597bde156257fc7e4b2a1e6e69eb
+ms.sourcegitcommit: 58d55cf532d1d02cca85772920a6dd71089b071d
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43521216"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43781571"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Office 배포 도구에 대한 릴리스 기록
 
-ODT(Office 배포 도구)는 Office 365 ProPlus와 같이 간편 실행 버전의 Office를 클라이언트 컴퓨터에 다운로드하여 배포하는 데 사용할 수 있는 명령줄 도구입니다. 
+ODT(Office 배포 도구)는 Microsoft 365 앱과 같이 간편 실행 버전의 Office를 클라이언트 컴퓨터에 다운로드하여 배포하는 데 사용할 수 있는 명령줄 도구입니다. 
 
 
 ODT를 사용하여 Office 설치를 더 강력하게 제어할 수 있습니다. 설치할 제품과 언어, 제품 업데이트 방법 및 사용자에게 설치 환경 표시 여부를 정의할 수 있습니다. ODT를 사용하는 방법에 대한 자세한 내용은 [Office 배포 도구 개요](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool)를 참조하세요.

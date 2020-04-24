@@ -9,23 +9,20 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 참가자에게 Windows Desktop용 월 단위 채널 참가자 빠른 릴리스에 대한 업데이트 내역을 제공합니다.
-ms.openlocfilehash: 266e82407bc35a4efb8ed825b920a10a7cee4616
-ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
+ms.openlocfilehash: fdc96ba846e44d0c423d6747aba38f1bb184c983
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43520996"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715344"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Office 참가자 채널에 대한 업데이트 기록
 
 안녕하세요. 참가자 여러분, 최신 업데이트 설치 여부 또는 최신 참가지 빌드 목록은 여기에서 확인하실 수 있습니다. 참가자 프로그램에 대한 자세한 내용을 보려면 [여기](https://insider.office.com/)를 클릭하세요.
 
-
 > [!IMPORTANT]
-> Office 365 ProPlus가 **엔터프라이즈용 Microsoft 365 앱**으로 이름이 변경됩니다. 이름을 변경하는 방법에 대한 자세한 내용은 [이 블로그 게시물을 참조하세요](https://go.microsoft.com/fwlink/p/?linkid=2120533). 
->
-> 이 변경 사항이 적용되는 시기 및 관리자가 수행해야 하는 작업에 대한 자세한 내용은 [이 문서를 참조하세요](https://go.microsoft.com/fwlink/p/?linkid=2123420).
 
+> Office 365 ProPlus는 2004 버전부터 엔터프라이즈용 Microsoft 365 앱으로 이름이 변경됩니다.자세한 내용은  [이 문서를 검토하세요](https://go.microsoft.com/fwlink/p/?linkid=2123420).이 문서에서는 일반적으로 이를 Microsoft 365 앱이라고 지칭합니다.
 
 
 > [!NOTE]
@@ -39,6 +36,11 @@ Insider 수준에 등록하면 새로운 기능과 개선 사항으로 자주 �
 릴리스 정보를 찾으려면 [Windows용 Office의 내부 관리자 릴리스 정보](https://docs.microsoft.com/OfficeUpdates/release-notes-office-insider)를 참조하십시오.
 
 [//]: # (제거하지 마세요)
+
+
+=======
+**2020년 4월 20일**<br/>
+버전 2005 (빌드 12816.20000) (롤백됨) <br/>
 
 **2020년 4월 14일**<br/>
 버전 2005(빌드 12810.20002)<br/>

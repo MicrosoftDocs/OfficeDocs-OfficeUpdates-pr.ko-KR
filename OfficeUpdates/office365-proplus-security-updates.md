@@ -1,5 +1,5 @@
 ---
-title: Office 365 ProPlus 보안 업데이트에 대한 릴리스 정보
+title: Microsoft 365 앱 보안 업데이트에 대한 릴리스 정보
 ms.author: andrewmo
 author: TimDavenport
 manager: andrewmo
@@ -8,29 +8,25 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: IT 전문가에게 Office 365 ProPlus 보안 업데이트에 대한 릴리스 정보를 제공합니다.
-ms.openlocfilehash: 8eab85b14ca0d034d83db85db7a30e4072eed845
-ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
+description: IT 전문가에게 Microsoft 365 앱 보안 업데이트에 대한 릴리스 정보를 제공합니다.
+ms.openlocfilehash: b2a54edbf0d9f1960f4a52ef112741e6220e8821
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43521285"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715016"
 ---
-# <a name="release-notes-for-office-365-proplus-security-updates"></a>Office 365 ProPlus 보안 업데이트에 대한 릴리스 정보
+# <a name="release-notes-for-microsoft-365-apps-security-updates"></a>Microsoft 365 앱 보안 업데이트에 대한 릴리스 정보
 
-이러한 릴리스 정보는 Office 365 ProPlus의 업데이트에 포함된 보안 픽스에 대한 정보를 제공합니다.
+이러한 릴리스 정보는 Microsoft 365 앱의 업데이트에 포함된 보안 픽스에 대한 정보를 제공합니다.
+
+이 정보는 엔터프라이즈용 Microsoft 365 앱, 비즈니스용 Microsoft 365 앱 그리고 Project 및 Visio용 데스크톱 앱의 구독 버전에 적용됩니다.
 
 
 > [!IMPORTANT]
-> Office 365 ProPlus가 **엔터프라이즈용 Microsoft 365 앱**으로 이름이 변경됩니다. 이름을 변경하는 방법에 대한 자세한 내용은 [이 블로그 게시물을 참조하세요](https://go.microsoft.com/fwlink/p/?linkid=2120533). 
->
-> 이 변경 사항이 적용되는 시기 및 관리자가 수행해야 하는 작업에 대한 자세한 내용은 [이 문서를 참조하세요](https://go.microsoft.com/fwlink/p/?linkid=2123420).
-
+> Office 365 ProPlus는 2004 버전부터 엔터프라이즈용 Microsoft 365 앱으로 이름이 변경됩니다. 자세한 내용은  [이 문서를 참조하세요](https://go.microsoft.com/fwlink/p/?linkid=2123420). 이 문서에서는 일반적으로 Microsoft 365 Apps라고 지칭합니다.
 
  
-> [!NOTE]
-> - 또한 Visio Pro for Office 365 및 Project Online 데스크톱 클라이언트의 보안 업데이트에 대한 정보도 제공합니다.
-> - 이 정보는 일부 Office 365 계획에 제공되는 Office 버전(예: Business Premium)인 Office 365 Business에도 적용됩니다.  
 
 [//]: # (공백으로 사용하므로, 위의 선을 삭제하지 마세요.)  
 
@@ -39,7 +35,7 @@ ms.locfileid: "43521285"
 반기 채널(대상 지정): 버전 2002 (빌드 12527.20442)  
 반기 채널: 버전 1908 (빌드 11929.20708)  
 반기 채널: 버전 1902 (빌드 11328.20564)  
-Windows 7 기반 Office 365 ProPlus: 버전 2002 (빌드 12527.20442)  
+Windows 7 기반 Microsoft 365 앱: 버전 2002 (빌드 12527.20442)  
 
 [//]: # (보안 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
@@ -68,7 +64,7 @@ Windows 7 기반 Office 365 ProPlus: 버전 2002 (빌드 12527.20442)
 반기 채널(대상 지정): 버전 2002 (빌드 12527.20278)  
 반기 채널(대상 지정): 버전 1908 (빌드 11929.20648)  
 반기 채널(대상 지정): 버전 1902 (빌드 11328.20554)  
-Windows 7의 Office 365 ProPlus: 버전 2002 (빌드 12527.20278)  
+Windows 7 기반 Microsoft 365 앱: 버전 2002 (빌드 12527.20278)  
 
 [//]: # (보안 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
