@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT 전문가에게 MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록을 제공합니다.
-ms.openlocfilehash: 34b354a2834d1dde33b7f19709fb2a2ab2bf2fa6
-ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
+ms.openlocfilehash: dbff1347c742bb0e0fc7a2e13df822f35da00496
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43521056"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714678"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록
  
@@ -31,6 +31,23 @@ ms.locfileid: "43521056"
 릴리스 정보를 확인하려면 [릴리스 정보](release-notes-office-for-mac.md)를 참고하세요.<br/><br/>
 
 ## <a name="april-2020-release"></a>2020년 4월 릴리스
+
+**릴리스 날짜:** 2020년 4월 21일
+
+*Microsoft 자동 업데이트 4.22*
+
+**버그 수정 및 개선 사항:**
+- Microsoft 자동 업데이트 UI가 다운로드할 수 있는 새 업데이트가 없을 때 자동이 아닌 모드로 업데이트하는 장치에서뿐만 아니라 Microsoft 자동 업데이트를 통해 '자동 모드'로 Office 앱을 업데이트하는 장치에도 표시되지 않습니다.
+
+**MAU 업데이트 링크:**
+
+[Microsoft 자동 업데이트 4.22 패키지 다운로드](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 해시:**
+
+2D672B377C6A1115FDC509E45E6AFF663D8F15412D4EB77E033085700DC1B72B
+
+<br/><br/>
 
 **릴리스 날짜:** 2020년 4월 14일
 
