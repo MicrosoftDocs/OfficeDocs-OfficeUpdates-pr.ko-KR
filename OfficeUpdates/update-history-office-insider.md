@@ -9,235 +9,238 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 참가자에게 Windows Desktop용 월 단위 채널 참가자 빠른 릴리스에 대한 업데이트 내역을 제공합니다.
-ms.openlocfilehash: 266e82407bc35a4efb8ed825b920a10a7cee4616
-ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
+ms.openlocfilehash: fdc96ba846e44d0c423d6747aba38f1bb184c983
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43520996"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715344"
 ---
-# <a name="update-history-for-office-insider-channel"></a><span data-ttu-id="d4246-103">Office 참가자 채널에 대한 업데이트 기록</span><span class="sxs-lookup"><span data-stu-id="d4246-103">Update history for Office Insider Channel</span></span>
+# <a name="update-history-for-office-insider-channel"></a><span data-ttu-id="45bf4-103">Office 참가자 채널에 대한 업데이트 기록</span><span class="sxs-lookup"><span data-stu-id="45bf4-103">Update history for Office Insider Channel</span></span>
 
-<span data-ttu-id="d4246-p101">안녕하세요. 참가자 여러분, 최신 업데이트 설치 여부 또는 최신 참가지 빌드 목록은 여기에서 확인하실 수 있습니다. 참가자 프로그램에 대한 자세한 내용을 보려면 [여기](https://insider.office.com/)를 클릭하세요.</span><span class="sxs-lookup"><span data-stu-id="d4246-p101">Hello, Insiders! If you're wondering whether you have the latest update installed or are looking for a list of recent Insider build, you're in the right place. Click [here](https://insider.office.com/) for more information on the Insiders Program.</span></span>
-
+<span data-ttu-id="45bf4-p101">안녕하세요. 참가자 여러분, 최신 업데이트 설치 여부 또는 최신 참가지 빌드 목록은 여기에서 확인하실 수 있습니다. 참가자 프로그램에 대한 자세한 내용을 보려면 [여기](https://insider.office.com/)를 클릭하세요.</span><span class="sxs-lookup"><span data-stu-id="45bf4-p101">Hello, Insiders! If you're wondering whether you have the latest update installed or are looking for a list of recent Insider build, you're in the right place. Click [here](https://insider.office.com/) for more information on the Insiders Program.</span></span>
 
 > [!IMPORTANT]
-> <span data-ttu-id="d4246-107">Office 365 ProPlus가 **엔터프라이즈용 Microsoft 365 앱**으로 이름이 변경됩니다.</span><span class="sxs-lookup"><span data-stu-id="d4246-107">Office 365 ProPlus is being renamed to **Microsoft 365 Apps for enterprise**.</span></span> <span data-ttu-id="d4246-108">이름을 변경하는 방법에 대한 자세한 내용은 [이 블로그 게시물을 참조하세요](https://go.microsoft.com/fwlink/p/?linkid=2120533).</span><span class="sxs-lookup"><span data-stu-id="d4246-108">To learn more about this name change, [read this blog post](https://go.microsoft.com/fwlink/p/?linkid=2120533).</span></span> 
->
-> <span data-ttu-id="d4246-109">이 변경 사항이 적용되는 시기 및 관리자가 수행해야 하는 작업에 대한 자세한 내용은 [이 문서를 참조하세요](https://go.microsoft.com/fwlink/p/?linkid=2123420).</span><span class="sxs-lookup"><span data-stu-id="d4246-109">For details of when this change takes effect, and what actions admins might need to take, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2123420).</span></span>
 
+> <span data-ttu-id="45bf4-107">Office 365 ProPlus는 2004 버전부터 엔터프라이즈용 Microsoft 365 앱으로 이름이 변경됩니다.</span><span class="sxs-lookup"><span data-stu-id="45bf4-107">Office 365 ProPlus is being renamed to Microsoft 365 Apps for enterprise, starting with Version 2004.</span></span><span data-ttu-id="45bf4-108">자세한 내용은  [이 문서를 검토하세요](https://go.microsoft.com/fwlink/p/?linkid=2123420).</span><span class="sxs-lookup"><span data-stu-id="45bf4-108"> To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2123420).</span></span><span data-ttu-id="45bf4-109">이 문서에서는 일반적으로 이를 Microsoft 365 앱이라고 지칭합니다.</span><span class="sxs-lookup"><span data-stu-id="45bf4-109"> In our documentation, we'll usually just refer to it as Microsoft 365 Apps.</span></span>
 
 
 > [!NOTE]
-> - <span data-ttu-id="d4246-110">업데이트 내역에는 릴리스된 모든 빌드가 나열됩니다.</span><span class="sxs-lookup"><span data-stu-id="d4246-110">The Update History here lists all builds released</span></span>
-> - <span data-ttu-id="d4246-111">릴리스 정보는 더 느린 흐름에 업데이트되며 릴리스 정보 게시 빌드 번호까지 여러 빌드에 대한 업데이트 컴파일이 될 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="d4246-111">Release notes are updated on a slower cadence and may be a compilation of updates for multiple builds up to the release notes published build number.</span></span>
+> - <span data-ttu-id="45bf4-110">업데이트 내역에는 릴리스된 모든 빌드가 나열됩니다.</span><span class="sxs-lookup"><span data-stu-id="45bf4-110">The Update History here lists all builds released</span></span>
+> - <span data-ttu-id="45bf4-111">릴리스 정보는 더 느린 흐름에 업데이트되며 릴리스 정보 게시 빌드 번호까지 여러 빌드에 대한 업데이트 컴파일이 될 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="45bf4-111">Release notes are updated on a slower cadence and may be a compilation of updates for multiple builds up to the release notes published build number.</span></span>
 
-## <a name="office-insider-versions-and-builds"></a><span data-ttu-id="d4246-112">Office 참가자 버전 및 빌드</span><span class="sxs-lookup"><span data-stu-id="d4246-112">Office Insider versions and builds</span></span>
+## <a name="office-insider-versions-and-builds"></a><span data-ttu-id="45bf4-112">Office 참가자 버전 및 빌드</span><span class="sxs-lookup"><span data-stu-id="45bf4-112">Office Insider versions and builds</span></span>
 
-<span data-ttu-id="d4246-p103">Insider 수준에 등록하면 새로운 기능과 개선 사항으로 자주 업데이트됩니다. 다음 목록은 최근 Insider 버전 및 빌드의 내역을 보여 주며, **가장 최근에 릴리스 된 빌드가 가장 먼저 나열**됩니다. 새 빌드에는 이전 빌드에 포함 된 모든 업데이트가 포함됩니다.</span><span class="sxs-lookup"><span data-stu-id="d4246-p103">If you're enrolled in the Insider level you get frequent updates with new features and improvements. The following list shows a history of recent Insider versions and builds, with **the most recently released build listed first**. New builds contain all the updates contained in previous builds.</span></span>
+<span data-ttu-id="45bf4-p103">Insider 수준에 등록하면 새로운 기능과 개선 사항으로 자주 업데이트됩니다. 다음 목록은 최근 Insider 버전 및 빌드의 내역을 보여 주며, **가장 최근에 릴리스 된 빌드가 가장 먼저 나열**됩니다. 새 빌드에는 이전 빌드에 포함 된 모든 업데이트가 포함됩니다.</span><span class="sxs-lookup"><span data-stu-id="45bf4-p103">If you're enrolled in the Insider level you get frequent updates with new features and improvements. The following list shows a history of recent Insider versions and builds, with **the most recently released build listed first**. New builds contain all the updates contained in previous builds.</span></span>
 
-<span data-ttu-id="d4246-116">릴리스 정보를 찾으려면 [Windows용 Office의 내부 관리자 릴리스 정보](https://docs.microsoft.com/OfficeUpdates/release-notes-office-insider)를 참조하십시오.</span><span class="sxs-lookup"><span data-stu-id="d4246-116">To find release notes, see [Insider release notes for Office for Windows desktop](https://docs.microsoft.com/OfficeUpdates/release-notes-office-insider).</span></span>
+<span data-ttu-id="45bf4-116">릴리스 정보를 찾으려면 [Windows용 Office의 내부 관리자 릴리스 정보](https://docs.microsoft.com/OfficeUpdates/release-notes-office-insider)를 참조하십시오.</span><span class="sxs-lookup"><span data-stu-id="45bf4-116">To find release notes, see [Insider release notes for Office for Windows desktop](https://docs.microsoft.com/OfficeUpdates/release-notes-office-insider).</span></span>
 
 [//]: # (제거하지 마세요)
 
-<span data-ttu-id="d4246-118">**2020년 4월 14일**</span><span class="sxs-lookup"><span data-stu-id="d4246-118">**April 14, 2020**</span></span><br/>
-<span data-ttu-id="d4246-119">버전 2005(빌드 12810.20002)</span><span class="sxs-lookup"><span data-stu-id="d4246-119">Version 2005 (Build 12810.20002)</span></span><br/>
 
-<span data-ttu-id="d4246-120">**2020년 4월 5일**</span><span class="sxs-lookup"><span data-stu-id="d4246-120">**April 05, 2020**</span></span><br/>
-<span data-ttu-id="d4246-121">버전 2004(빌드 12730.20024)</span><span class="sxs-lookup"><span data-stu-id="d4246-121">Version 2004 (Build 12730.20024)</span></span><br/>
+<span data-ttu-id="45bf4-118">=======
+**2020년 4월 20일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-118">=======
+**April 20, 2020**</span></span><br/>
+<span data-ttu-id="45bf4-119">버전 2005 (빌드 12816.20000) (롤백됨)</span><span class="sxs-lookup"><span data-stu-id="45bf4-119">Version 2005 (Build 12816.20000) (Rolled back)</span></span> <br/>
 
-<span data-ttu-id="d4246-122">**2020년 3월 30일**</span><span class="sxs-lookup"><span data-stu-id="d4246-122">**March 30, 2020**</span></span><br/>
-<span data-ttu-id="d4246-123">버전 2004 (빌드 12725.20006) (롤백됨)</span><span class="sxs-lookup"><span data-stu-id="d4246-123">Version 2004 (Build 12725.20006) (Rolled back)</span></span> <br/>
+<span data-ttu-id="45bf4-120">**2020년 4월 14일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-120">**April 14, 2020**</span></span><br/>
+<span data-ttu-id="45bf4-121">버전 2005(빌드 12810.20002)</span><span class="sxs-lookup"><span data-stu-id="45bf4-121">Version 2005 (Build 12810.20002)</span></span><br/>
 
-<span data-ttu-id="d4246-124">**2020년 3월 23일**</span><span class="sxs-lookup"><span data-stu-id="d4246-124">**March 23, 2020**</span></span><br/>
-<span data-ttu-id="d4246-125">버전 2004 (빌드 12718.20010)</span><span class="sxs-lookup"><span data-stu-id="d4246-125">Version 2004 (Build 12718.20010)</span></span><br/>
+<span data-ttu-id="45bf4-122">**2020년 4월 5일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-122">**April 05, 2020**</span></span><br/>
+<span data-ttu-id="45bf4-123">버전 2004(빌드 12730.20024)</span><span class="sxs-lookup"><span data-stu-id="45bf4-123">Version 2004 (Build 12730.20024)</span></span><br/>
 
-<span data-ttu-id="d4246-126">**2020년 3월 13일**</span><span class="sxs-lookup"><span data-stu-id="d4246-126">**March 13, 2020**</span></span><br/>
-<span data-ttu-id="d4246-127">버전 2004 (빌드 12711.20000)</span><span class="sxs-lookup"><span data-stu-id="d4246-127">Version 2004 (Build 12711.20000)</span></span><br/>
+<span data-ttu-id="45bf4-124">**2020년 3월 30일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-124">**March 30, 2020**</span></span><br/>
+<span data-ttu-id="45bf4-125">버전 2004 (빌드 12725.20006) (롤백됨)</span><span class="sxs-lookup"><span data-stu-id="45bf4-125">Version 2004 (Build 12725.20006) (Rolled back)</span></span> <br/>
 
-<span data-ttu-id="d4246-128">**2020년 3월 9일**</span><span class="sxs-lookup"><span data-stu-id="d4246-128">**March 09, 2020**</span></span><br/>
-<span data-ttu-id="d4246-129">버전 2004 (빌드 12703.20010)</span><span class="sxs-lookup"><span data-stu-id="d4246-129">Version 2004 (Build 12703.20010)</span></span><br/>
+<span data-ttu-id="45bf4-126">**2020년 3월 23일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-126">**March 23, 2020**</span></span><br/>
+<span data-ttu-id="45bf4-127">버전 2004 (빌드 12718.20010)</span><span class="sxs-lookup"><span data-stu-id="45bf4-127">Version 2004 (Build 12718.20010)</span></span><br/>
 
-<span data-ttu-id="d4246-130">**2020년 3월 1일**</span><span class="sxs-lookup"><span data-stu-id="d4246-130">**March 01, 2020**</span></span><br/>
-<span data-ttu-id="d4246-131">버전 2003 (빌드 12624.20086)</span><span class="sxs-lookup"><span data-stu-id="d4246-131">Version 2003 (Build 12624.20086)</span></span><br/>
+<span data-ttu-id="45bf4-128">**2020년 3월 13일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-128">**March 13, 2020**</span></span><br/>
+<span data-ttu-id="45bf4-129">버전 2004 (빌드 12711.20000)</span><span class="sxs-lookup"><span data-stu-id="45bf4-129">Version 2004 (Build 12711.20000)</span></span><br/>
 
-<span data-ttu-id="d4246-132">**2020년 2월 24일**</span><span class="sxs-lookup"><span data-stu-id="d4246-132">**February 24, 2020**</span></span><br/>
-<span data-ttu-id="d4246-133">버전 2003 (빌드 12619.20002)</span><span class="sxs-lookup"><span data-stu-id="d4246-133">Version 2003 (Build 12619.20002)</span></span><br/>
+<span data-ttu-id="45bf4-130">**2020년 3월 9일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-130">**March 09, 2020**</span></span><br/>
+<span data-ttu-id="45bf4-131">버전 2004 (빌드 12703.20010)</span><span class="sxs-lookup"><span data-stu-id="45bf4-131">Version 2004 (Build 12703.20010)</span></span><br/>
 
-<span data-ttu-id="d4246-134">**2020년 2월 18일**</span><span class="sxs-lookup"><span data-stu-id="d4246-134">**February 18, 2020**</span></span><br/>
-<span data-ttu-id="d4246-135">버전 2003 (빌드 12615.20000)</span><span class="sxs-lookup"><span data-stu-id="d4246-135">Version 2003 (Build 12615.20000)</span></span><br/>
+<span data-ttu-id="45bf4-132">**2020년 3월 1일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-132">**March 01, 2020**</span></span><br/>
+<span data-ttu-id="45bf4-133">버전 2003 (빌드 12624.20086)</span><span class="sxs-lookup"><span data-stu-id="45bf4-133">Version 2003 (Build 12624.20086)</span></span><br/>
 
-<span data-ttu-id="d4246-136">**2020년 2월 11일**</span><span class="sxs-lookup"><span data-stu-id="d4246-136">**February 11, 2020**</span></span><br/>
-<span data-ttu-id="d4246-137">버전 2003 (빌드 12607.20000)</span><span class="sxs-lookup"><span data-stu-id="d4246-137">Version 2003 (Build 12607.20000)</span></span><br/>
+<span data-ttu-id="45bf4-134">**2020년 2월 24일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-134">**February 24, 2020**</span></span><br/>
+<span data-ttu-id="45bf4-135">버전 2003 (빌드 12619.20002)</span><span class="sxs-lookup"><span data-stu-id="45bf4-135">Version 2003 (Build 12619.20002)</span></span><br/>
 
-<span data-ttu-id="d4246-138">**2020년 1월 31일**</span><span class="sxs-lookup"><span data-stu-id="d4246-138">**January 31, 2020**</span></span><br/>
-<span data-ttu-id="d4246-139">버전 2002(빌드 12527.20040)</span><span class="sxs-lookup"><span data-stu-id="d4246-139">Version 2002 (Build 12527.20040)</span></span><br/>
+<span data-ttu-id="45bf4-136">**2020년 2월 18일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-136">**February 18, 2020**</span></span><br/>
+<span data-ttu-id="45bf4-137">버전 2003 (빌드 12615.20000)</span><span class="sxs-lookup"><span data-stu-id="45bf4-137">Version 2003 (Build 12615.20000)</span></span><br/>
 
-<span data-ttu-id="d4246-140">**2020년 1월 27일**</span><span class="sxs-lookup"><span data-stu-id="d4246-140">**January 27, 2020**</span></span><br/>
-<span data-ttu-id="d4246-141">버전 2002(빌드 12513.20010)</span><span class="sxs-lookup"><span data-stu-id="d4246-141">Version 2002 (Build 12513.20010)</span></span><br/>
+<span data-ttu-id="45bf4-138">**2020년 2월 11일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-138">**February 11, 2020**</span></span><br/>
+<span data-ttu-id="45bf4-139">버전 2003 (빌드 12607.20000)</span><span class="sxs-lookup"><span data-stu-id="45bf4-139">Version 2003 (Build 12607.20000)</span></span><br/>
 
-<span data-ttu-id="d4246-142">**2020년 1월 14일**</span><span class="sxs-lookup"><span data-stu-id="d4246-142">**January 14, 2020**</span></span><br/>
-<span data-ttu-id="d4246-143">버전 2002 (빌드 12508.20000)</span><span class="sxs-lookup"><span data-stu-id="d4246-143">Version 2002 (Build 12508.20000)</span></span><br/>
+<span data-ttu-id="45bf4-140">**2020년 1월 31일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-140">**January 31, 2020**</span></span><br/>
+<span data-ttu-id="45bf4-141">버전 2002(빌드 12527.20040)</span><span class="sxs-lookup"><span data-stu-id="45bf4-141">Version 2002 (Build 12527.20040)</span></span><br/>
 
-<span data-ttu-id="d4246-144">**2020년 1월 6일**</span><span class="sxs-lookup"><span data-stu-id="d4246-144">**January 06, 2020**</span></span><br/>
-<span data-ttu-id="d4246-145">버전 2001(빌드 12430.20000)</span><span class="sxs-lookup"><span data-stu-id="d4246-145">Version 2001 (Build 12430.20000)</span></span><br/>
+<span data-ttu-id="45bf4-142">**2020년 1월 27일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-142">**January 27, 2020**</span></span><br/>
+<span data-ttu-id="45bf4-143">버전 2002(빌드 12513.20010)</span><span class="sxs-lookup"><span data-stu-id="45bf4-143">Version 2002 (Build 12513.20010)</span></span><br/>
 
-<span data-ttu-id="d4246-146">**2019년 12월 30일**</span><span class="sxs-lookup"><span data-stu-id="d4246-146">**December 30, 2019**</span></span><br/>
-<span data-ttu-id="d4246-147">버전 2001 (빌드 12425.20000)</span><span class="sxs-lookup"><span data-stu-id="d4246-147">Version 2001 (Build 12425.20000)</span></span><br/>
+<span data-ttu-id="45bf4-144">**2020년 1월 14일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-144">**January 14, 2020**</span></span><br/>
+<span data-ttu-id="45bf4-145">버전 2002 (빌드 12508.20000)</span><span class="sxs-lookup"><span data-stu-id="45bf4-145">Version 2002 (Build 12508.20000)</span></span><br/>
 
-<span data-ttu-id="d4246-148">**2019년 12월 12일**</span><span class="sxs-lookup"><span data-stu-id="d4246-148">**December 12, 2019**</span></span><br/>
-<span data-ttu-id="d4246-149">버전 2001(빌드 12410.20000)</span><span class="sxs-lookup"><span data-stu-id="d4246-149">Version 2001 (Build 12410.20000)</span></span><br/>
+<span data-ttu-id="45bf4-146">**2020년 1월 6일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-146">**January 06, 2020**</span></span><br/>
+<span data-ttu-id="45bf4-147">버전 2001(빌드 12430.20000)</span><span class="sxs-lookup"><span data-stu-id="45bf4-147">Version 2001 (Build 12430.20000)</span></span><br/>
 
-<span data-ttu-id="d4246-150">**2019년 12월 2일**</span><span class="sxs-lookup"><span data-stu-id="d4246-150">**December 02, 2019**</span></span><br/>
-<span data-ttu-id="d4246-151">버전 1912 (빌드 12325.20012)</span><span class="sxs-lookup"><span data-stu-id="d4246-151">Version 1912 (Build 12325.20012)</span></span><br/>
+<span data-ttu-id="45bf4-148">**2019년 12월 30일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-148">**December 30, 2019**</span></span><br/>
+<span data-ttu-id="45bf4-149">버전 2001 (빌드 12425.20000)</span><span class="sxs-lookup"><span data-stu-id="45bf4-149">Version 2001 (Build 12425.20000)</span></span><br/>
 
-<span data-ttu-id="d4246-152">**2019년 11월 18일**</span><span class="sxs-lookup"><span data-stu-id="d4246-152">**November 18, 2019**</span></span><br/>
-<span data-ttu-id="d4246-153">버전 1912 (빌드 12312.20002) (롤백됨)</span><span class="sxs-lookup"><span data-stu-id="d4246-153">Version 1912 (Build 12312.20002) (Rolled Back)</span></span> <br/>
+<span data-ttu-id="45bf4-150">**2019년 12월 12일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-150">**December 12, 2019**</span></span><br/>
+<span data-ttu-id="45bf4-151">버전 2001(빌드 12410.20000)</span><span class="sxs-lookup"><span data-stu-id="45bf4-151">Version 2001 (Build 12410.20000)</span></span><br/>
 
-<span data-ttu-id="d4246-154">**2019년 11월 12일**</span><span class="sxs-lookup"><span data-stu-id="d4246-154">**November 12, 2019**</span></span><br/>
-<span data-ttu-id="d4246-155">버전 1912 (빌드 12307.20000)</span><span class="sxs-lookup"><span data-stu-id="d4246-155">Version 1912 (Build 12307.20000)</span></span><br/>
+<span data-ttu-id="45bf4-152">**2019년 12월 2일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-152">**December 02, 2019**</span></span><br/>
+<span data-ttu-id="45bf4-153">버전 1912 (빌드 12325.20012)</span><span class="sxs-lookup"><span data-stu-id="45bf4-153">Version 1912 (Build 12325.20012)</span></span><br/>
 
-<span data-ttu-id="d4246-156">**2019년 11월 4일**</span><span class="sxs-lookup"><span data-stu-id="d4246-156">**November 04, 2019**</span></span><br/>
-<span data-ttu-id="d4246-157">버전 1912(빌드 12231.20000)</span><span class="sxs-lookup"><span data-stu-id="d4246-157">Version 1912 (Build 12231.20000)</span></span><br/>
+<span data-ttu-id="45bf4-154">**2019년 11월 18일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-154">**November 18, 2019**</span></span><br/>
+<span data-ttu-id="45bf4-155">버전 1912 (빌드 12312.20002) (롤백됨)</span><span class="sxs-lookup"><span data-stu-id="45bf4-155">Version 1912 (Build 12312.20002) (Rolled Back)</span></span> <br/>
 
-<span data-ttu-id="d4246-158">**2019년 11월 1일**</span><span class="sxs-lookup"><span data-stu-id="d4246-158">**November 01, 2019**</span></span><br/>
-<span data-ttu-id="d4246-159">버전 1911(빌드 12228.20020)</span><span class="sxs-lookup"><span data-stu-id="d4246-159">Version 1911 (Build 12228.20020)</span></span><br/>
+<span data-ttu-id="45bf4-156">**2019년 11월 12일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-156">**November 12, 2019**</span></span><br/>
+<span data-ttu-id="45bf4-157">버전 1912 (빌드 12307.20000)</span><span class="sxs-lookup"><span data-stu-id="45bf4-157">Version 1912 (Build 12307.20000)</span></span><br/>
 
-<span data-ttu-id="d4246-160">**2019년 10월 21일**</span><span class="sxs-lookup"><span data-stu-id="d4246-160">**October 21, 2019**</span></span><br/>
-<span data-ttu-id="d4246-161">버전 1911(빌드 12215.20006)</span><span class="sxs-lookup"><span data-stu-id="d4246-161">Version 1911 (Build 12215.20006)</span></span><br/>
+<span data-ttu-id="45bf4-158">**2019년 11월 4일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-158">**November 04, 2019**</span></span><br/>
+<span data-ttu-id="45bf4-159">버전 1912(빌드 12231.20000)</span><span class="sxs-lookup"><span data-stu-id="45bf4-159">Version 1912 (Build 12231.20000)</span></span><br/>
 
-<span data-ttu-id="d4246-162">**2019년 10월 14일**</span><span class="sxs-lookup"><span data-stu-id="d4246-162">**October 14, 2019**</span></span><br/>
-<span data-ttu-id="d4246-163">버전 1911(빌드 12209.20010)</span><span class="sxs-lookup"><span data-stu-id="d4246-163">Version 1911 (Build 12209.20010)</span></span><br/>
+<span data-ttu-id="45bf4-160">**2019년 11월 1일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-160">**November 01, 2019**</span></span><br/>
+<span data-ttu-id="45bf4-161">버전 1911(빌드 12228.20020)</span><span class="sxs-lookup"><span data-stu-id="45bf4-161">Version 1911 (Build 12228.20020)</span></span><br/>
 
-<span data-ttu-id="d4246-164">**2019년 10월 8일**</span><span class="sxs-lookup"><span data-stu-id="d4246-164">**October 08, 2019**</span></span><br/>
-<span data-ttu-id="d4246-165">버전 1910(빌드 12130.20112)</span><span class="sxs-lookup"><span data-stu-id="d4246-165">Version 1910 (Build 12130.20112)</span></span><br/>
+<span data-ttu-id="45bf4-162">**2019년 10월 21일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-162">**October 21, 2019**</span></span><br/>
+<span data-ttu-id="45bf4-163">버전 1911(빌드 12215.20006)</span><span class="sxs-lookup"><span data-stu-id="45bf4-163">Version 1911 (Build 12215.20006)</span></span><br/>
 
-<span data-ttu-id="d4246-166">**2019년 9월 30일**</span><span class="sxs-lookup"><span data-stu-id="d4246-166">**September 30, 2019**</span></span><br/>
-<span data-ttu-id="d4246-167">버전 1910(빌드 12126.20000)</span><span class="sxs-lookup"><span data-stu-id="d4246-167">Version 1910 (Build 12126.20000)</span></span><br/>
+<span data-ttu-id="45bf4-164">**2019년 10월 14일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-164">**October 14, 2019**</span></span><br/>
+<span data-ttu-id="45bf4-165">버전 1911(빌드 12209.20010)</span><span class="sxs-lookup"><span data-stu-id="45bf4-165">Version 1911 (Build 12209.20010)</span></span><br/>
 
-<span data-ttu-id="d4246-168">**2019년 9월 23일**</span><span class="sxs-lookup"><span data-stu-id="d4246-168">**September 23, 2019**</span></span><br/>
-<span data-ttu-id="d4246-169">버전 1910(빌드 12119.20000)</span><span class="sxs-lookup"><span data-stu-id="d4246-169">Version 1910 (Build 12119.20000)</span></span><br/>
+<span data-ttu-id="45bf4-166">**2019년 10월 8일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-166">**October 08, 2019**</span></span><br/>
+<span data-ttu-id="45bf4-167">버전 1910(빌드 12130.20112)</span><span class="sxs-lookup"><span data-stu-id="45bf4-167">Version 1910 (Build 12130.20112)</span></span><br/>
 
-<span data-ttu-id="d4246-170">**2019년 9월 16일**</span><span class="sxs-lookup"><span data-stu-id="d4246-170">**September 16, 2019**</span></span><br/>
-<span data-ttu-id="d4246-171">버전 1910(빌드 12112.20000)</span><span class="sxs-lookup"><span data-stu-id="d4246-171">Version 1910 (Build 12112.20000)</span></span><br/>
+<span data-ttu-id="45bf4-168">**2019년 9월 30일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-168">**September 30, 2019**</span></span><br/>
+<span data-ttu-id="45bf4-169">버전 1910(빌드 12126.20000)</span><span class="sxs-lookup"><span data-stu-id="45bf4-169">Version 1910 (Build 12126.20000)</span></span><br/>
 
-<span data-ttu-id="d4246-172">**2019년 9월 10일**</span><span class="sxs-lookup"><span data-stu-id="d4246-172">**September 10, 2019**</span></span><br/>
-<span data-ttu-id="d4246-173">버전 1910(빌드 12105.20000)</span><span class="sxs-lookup"><span data-stu-id="d4246-173">Version 1910 (Build 12105.20000)</span></span><br/>
+<span data-ttu-id="45bf4-170">**2019년 9월 23일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-170">**September 23, 2019**</span></span><br/>
+<span data-ttu-id="45bf4-171">버전 1910(빌드 12119.20000)</span><span class="sxs-lookup"><span data-stu-id="45bf4-171">Version 1910 (Build 12119.20000)</span></span><br/>
 
-<span data-ttu-id="d4246-174">**2019년 9월 4일**</span><span class="sxs-lookup"><span data-stu-id="d4246-174">**September 04, 2019**</span></span><br/>
-<span data-ttu-id="d4246-175">버전 1910(빌드 12030.20004)</span><span class="sxs-lookup"><span data-stu-id="d4246-175">Version 1910 (Build 12030.20004)</span></span><br/>
+<span data-ttu-id="45bf4-172">**2019년 9월 16일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-172">**September 16, 2019**</span></span><br/>
+<span data-ttu-id="45bf4-173">버전 1910(빌드 12112.20000)</span><span class="sxs-lookup"><span data-stu-id="45bf4-173">Version 1910 (Build 12112.20000)</span></span><br/>
 
-<span data-ttu-id="d4246-176">**2019년 8월 28일**</span><span class="sxs-lookup"><span data-stu-id="d4246-176">**August 28, 2019**</span></span><br/>
-<span data-ttu-id="d4246-177">버전 1909(빌드 12026.20000)</span><span class="sxs-lookup"><span data-stu-id="d4246-177">Version 1909 (Build 12026.20000)</span></span><br/>
+<span data-ttu-id="45bf4-174">**2019년 9월 10일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-174">**September 10, 2019**</span></span><br/>
+<span data-ttu-id="45bf4-175">버전 1910(빌드 12105.20000)</span><span class="sxs-lookup"><span data-stu-id="45bf4-175">Version 1910 (Build 12105.20000)</span></span><br/>
 
-<span data-ttu-id="d4246-178">**2019년 8월 26일**</span><span class="sxs-lookup"><span data-stu-id="d4246-178">**August 26, 2019**</span></span><br/>
-<span data-ttu-id="d4246-179">버전 1909(빌드 12022.20000)</span><span class="sxs-lookup"><span data-stu-id="d4246-179">Version 1909 (Build 12022.20000)</span></span><br/>
+<span data-ttu-id="45bf4-176">**2019년 9월 4일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-176">**September 04, 2019**</span></span><br/>
+<span data-ttu-id="45bf4-177">버전 1910(빌드 12030.20004)</span><span class="sxs-lookup"><span data-stu-id="45bf4-177">Version 1910 (Build 12030.20004)</span></span><br/>
 
-<span data-ttu-id="d4246-180">**2019년 8월 19일**</span><span class="sxs-lookup"><span data-stu-id="d4246-180">**August 19, 2019**</span></span><br/>
-<span data-ttu-id="d4246-181">버전 1909 (빌드 12015.20004)</span><span class="sxs-lookup"><span data-stu-id="d4246-181">Version 1909 (Build 12015.20004)</span></span><br/>
+<span data-ttu-id="45bf4-178">**2019년 8월 28일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-178">**August 28, 2019**</span></span><br/>
+<span data-ttu-id="45bf4-179">버전 1909(빌드 12026.20000)</span><span class="sxs-lookup"><span data-stu-id="45bf4-179">Version 1909 (Build 12026.20000)</span></span><br/>
 
-<span data-ttu-id="d4246-182">**2019년 8월 15일**</span><span class="sxs-lookup"><span data-stu-id="d4246-182">**August 15, 2019**</span></span><br/>
-<span data-ttu-id="d4246-183">버전 1909 (빌드 12013.20000)</span><span class="sxs-lookup"><span data-stu-id="d4246-183">Version 1909 (Build 12013.20000)</span></span><br/>
+<span data-ttu-id="45bf4-180">**2019년 8월 26일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-180">**August 26, 2019**</span></span><br/>
+<span data-ttu-id="45bf4-181">버전 1909(빌드 12022.20000)</span><span class="sxs-lookup"><span data-stu-id="45bf4-181">Version 1909 (Build 12022.20000)</span></span><br/>
 
-<span data-ttu-id="d4246-184">**2019년 8월 13일**</span><span class="sxs-lookup"><span data-stu-id="d4246-184">**August 13, 2019**</span></span><br/>
-<span data-ttu-id="d4246-185">버전 1909 (빌드 12008.20000)</span><span class="sxs-lookup"><span data-stu-id="d4246-185">Version 1909 (Build 12008.20000)</span></span><br/>
+<span data-ttu-id="45bf4-182">**2019년 8월 19일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-182">**August 19, 2019**</span></span><br/>
+<span data-ttu-id="45bf4-183">버전 1909 (빌드 12015.20004)</span><span class="sxs-lookup"><span data-stu-id="45bf4-183">Version 1909 (Build 12015.20004)</span></span><br/>
 
-<span data-ttu-id="d4246-186">**2019년 8월 5일**</span><span class="sxs-lookup"><span data-stu-id="d4246-186">**August 05, 2019**</span></span><br/>
-<span data-ttu-id="d4246-187">버전 1909 (빌드 12001.20000)</span><span class="sxs-lookup"><span data-stu-id="d4246-187">Version 1909 (Build 12001.20000)</span></span><br/>
+<span data-ttu-id="45bf4-184">**2019년 8월 15일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-184">**August 15, 2019**</span></span><br/>
+<span data-ttu-id="45bf4-185">버전 1909 (빌드 12013.20000)</span><span class="sxs-lookup"><span data-stu-id="45bf4-185">Version 1909 (Build 12013.20000)</span></span><br/>
 
-<span data-ttu-id="d4246-188">**2019년 7월 31일**</span><span class="sxs-lookup"><span data-stu-id="d4246-188">**July 31, 2019**</span></span><br/>
-<span data-ttu-id="d4246-189">버전 1908 (빌드 11929.20002)</span><span class="sxs-lookup"><span data-stu-id="d4246-189">Version 1908 (Build 11929.20002)</span></span><br/>
+<span data-ttu-id="45bf4-186">**2019년 8월 13일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-186">**August 13, 2019**</span></span><br/>
+<span data-ttu-id="45bf4-187">버전 1909 (빌드 12008.20000)</span><span class="sxs-lookup"><span data-stu-id="45bf4-187">Version 1909 (Build 12008.20000)</span></span><br/>
 
-<span data-ttu-id="d4246-190">**2019년 7월 29일**</span><span class="sxs-lookup"><span data-stu-id="d4246-190">**July 29, 2019**</span></span><br/>
-<span data-ttu-id="d4246-191">버전 1908 (빌드 11924.20004)</span><span class="sxs-lookup"><span data-stu-id="d4246-191">Version 1908 (Build 11924.20004)</span></span><br/>
+<span data-ttu-id="45bf4-188">**2019년 8월 5일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-188">**August 05, 2019**</span></span><br/>
+<span data-ttu-id="45bf4-189">버전 1909 (빌드 12001.20000)</span><span class="sxs-lookup"><span data-stu-id="45bf4-189">Version 1909 (Build 12001.20000)</span></span><br/>
 
-<span data-ttu-id="d4246-192">**2019년 7월 22일**</span><span class="sxs-lookup"><span data-stu-id="d4246-192">**July 22, 2019**</span></span><br/>
-<span data-ttu-id="d4246-193">버전 1908 (빌드 11916.20000)</span><span class="sxs-lookup"><span data-stu-id="d4246-193">Version 1908 (Build 11916.20000)</span></span><br/>
+<span data-ttu-id="45bf4-190">**2019년 7월 31일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-190">**July 31, 2019**</span></span><br/>
+<span data-ttu-id="45bf4-191">버전 1908 (빌드 11929.20002)</span><span class="sxs-lookup"><span data-stu-id="45bf4-191">Version 1908 (Build 11929.20002)</span></span><br/>
 
-<span data-ttu-id="d4246-194">**2019년 7월 15일**</span><span class="sxs-lookup"><span data-stu-id="d4246-194">**July 15, 2019**</span></span><br/>
-<span data-ttu-id="d4246-195">버전 1908(빌드 11911.20000)</span><span class="sxs-lookup"><span data-stu-id="d4246-195">Version 1908 (Build 11911.20000)</span></span><br/>
+<span data-ttu-id="45bf4-192">**2019년 7월 29일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-192">**July 29, 2019**</span></span><br/>
+<span data-ttu-id="45bf4-193">버전 1908 (빌드 11924.20004)</span><span class="sxs-lookup"><span data-stu-id="45bf4-193">Version 1908 (Build 11924.20004)</span></span><br/>
 
-<span data-ttu-id="d4246-196">**2019년 7월 9일**</span><span class="sxs-lookup"><span data-stu-id="d4246-196">**July 9, 2019**</span></span><br/>
-<span data-ttu-id="d4246-197">버전 1907(빌드 11901.20038)</span><span class="sxs-lookup"><span data-stu-id="d4246-197">Version 1907 (Build 11901.20038)</span></span><br/>
+<span data-ttu-id="45bf4-194">**2019년 7월 22일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-194">**July 22, 2019**</span></span><br/>
+<span data-ttu-id="45bf4-195">버전 1908 (빌드 11916.20000)</span><span class="sxs-lookup"><span data-stu-id="45bf4-195">Version 1908 (Build 11916.20000)</span></span><br/>
 
-<span data-ttu-id="d4246-198">**2019년 7월 3일**</span><span class="sxs-lookup"><span data-stu-id="d4246-198">**July 3, 2019**</span></span><br/>
-<span data-ttu-id="d4246-199">버전 1907(빌드 11901.20018)</span><span class="sxs-lookup"><span data-stu-id="d4246-199">Version 1907 (Build 11901.20018)</span></span><br/>
+<span data-ttu-id="45bf4-196">**2019년 7월 15일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-196">**July 15, 2019**</span></span><br/>
+<span data-ttu-id="45bf4-197">버전 1908(빌드 11911.20000)</span><span class="sxs-lookup"><span data-stu-id="45bf4-197">Version 1908 (Build 11911.20000)</span></span><br/>
 
-<span data-ttu-id="d4246-200">**2019년 7월 1일**</span><span class="sxs-lookup"><span data-stu-id="d4246-200">**July 1, 2019**</span></span><br/>
-<span data-ttu-id="d4246-201">버전 1907(빌드 11827.20002)</span><span class="sxs-lookup"><span data-stu-id="d4246-201">Version 1907 (Build 11827.20002)</span></span><br/>
+<span data-ttu-id="45bf4-198">**2019년 7월 9일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-198">**July 9, 2019**</span></span><br/>
+<span data-ttu-id="45bf4-199">버전 1907(빌드 11901.20038)</span><span class="sxs-lookup"><span data-stu-id="45bf4-199">Version 1907 (Build 11901.20038)</span></span><br/>
 
-<span data-ttu-id="d4246-202">**2019년 6월 24일**</span><span class="sxs-lookup"><span data-stu-id="d4246-202">**June 24, 2019**</span></span><br/>
-<span data-ttu-id="d4246-203">버전 1907(빌드 11819.20002)</span><span class="sxs-lookup"><span data-stu-id="d4246-203">Version 1907 (Build 11819.20002)</span></span><br/>
+<span data-ttu-id="45bf4-200">**2019년 7월 3일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-200">**July 3, 2019**</span></span><br/>
+<span data-ttu-id="45bf4-201">버전 1907(빌드 11901.20018)</span><span class="sxs-lookup"><span data-stu-id="45bf4-201">Version 1907 (Build 11901.20018)</span></span><br/>
 
-<span data-ttu-id="d4246-204">**2019년 6월 19일**</span><span class="sxs-lookup"><span data-stu-id="d4246-204">**June 19, 2019**</span></span><br/>
-<span data-ttu-id="d4246-205">버전 1907(빌드 11815.20002)</span><span class="sxs-lookup"><span data-stu-id="d4246-205">Version 1907 (Build 11815.20002)</span></span><br/>
+<span data-ttu-id="45bf4-202">**2019년 7월 1일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-202">**July 1, 2019**</span></span><br/>
+<span data-ttu-id="45bf4-203">버전 1907(빌드 11827.20002)</span><span class="sxs-lookup"><span data-stu-id="45bf4-203">Version 1907 (Build 11827.20002)</span></span><br/>
 
-<span data-ttu-id="d4246-206">**2019년 6월 11일**</span><span class="sxs-lookup"><span data-stu-id="d4246-206">**June 11, 2019**</span></span><br/>
-<span data-ttu-id="d4246-207">버전 1907 (빌드 11807.20000)</span><span class="sxs-lookup"><span data-stu-id="d4246-207">Version 1907 (Build 11807.20000)</span></span><br/>
+<span data-ttu-id="45bf4-204">**2019년 6월 24일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-204">**June 24, 2019**</span></span><br/>
+<span data-ttu-id="45bf4-205">버전 1907(빌드 11819.20002)</span><span class="sxs-lookup"><span data-stu-id="45bf4-205">Version 1907 (Build 11819.20002)</span></span><br/>
 
-<span data-ttu-id="d4246-208">**2019년 6월 04일**</span><span class="sxs-lookup"><span data-stu-id="d4246-208">**June 04, 2019**</span></span><br/>
-<span data-ttu-id="d4246-209">버전 1906(빌드 11727.20064)</span><span class="sxs-lookup"><span data-stu-id="d4246-209">Version 1906 (Build 11727.20064)</span></span><br/>
+<span data-ttu-id="45bf4-206">**2019년 6월 19일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-206">**June 19, 2019**</span></span><br/>
+<span data-ttu-id="45bf4-207">버전 1907(빌드 11815.20002)</span><span class="sxs-lookup"><span data-stu-id="45bf4-207">Version 1907 (Build 11815.20002)</span></span><br/>
 
+<span data-ttu-id="45bf4-208">**2019년 6월 11일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-208">**June 11, 2019**</span></span><br/>
+<span data-ttu-id="45bf4-209">버전 1907 (빌드 11807.20000)</span><span class="sxs-lookup"><span data-stu-id="45bf4-209">Version 1907 (Build 11807.20000)</span></span><br/>
 
-<span data-ttu-id="d4246-210">**2019년 5월 29일**</span><span class="sxs-lookup"><span data-stu-id="d4246-210">**May 29, 2019**</span></span><br/>
-<span data-ttu-id="d4246-211">버전 1906(빌드 11722.20008)</span><span class="sxs-lookup"><span data-stu-id="d4246-211">Version 1906 (Build 11722.20008)</span></span><br/>
+<span data-ttu-id="45bf4-210">**2019년 6월 04일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-210">**June 04, 2019**</span></span><br/>
+<span data-ttu-id="45bf4-211">버전 1906(빌드 11727.20064)</span><span class="sxs-lookup"><span data-stu-id="45bf4-211">Version 1906 (Build 11727.20064)</span></span><br/>
 
-<span data-ttu-id="d4246-212">**2019년 5월 22일**</span><span class="sxs-lookup"><span data-stu-id="d4246-212">**May 22, 2019**</span></span><br/> <span data-ttu-id="d4246-213">버전 1906(빌드 11715.20002)</span><span class="sxs-lookup"><span data-stu-id="d4246-213">Version 1906 (Build 11715.20002)</span></span><br/> 
 
-<span data-ttu-id="d4246-214">**2019년 5월 14일**</span><span class="sxs-lookup"><span data-stu-id="d4246-214">**May 14, 2019**</span></span><br/> <span data-ttu-id="d4246-215">버전 1906(빌드 11708.20006)</span><span class="sxs-lookup"><span data-stu-id="d4246-215">Version 1906 (Build 11708.20006)</span></span><br/>
+<span data-ttu-id="45bf4-212">**2019년 5월 29일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-212">**May 29, 2019**</span></span><br/>
+<span data-ttu-id="45bf4-213">버전 1906(빌드 11722.20008)</span><span class="sxs-lookup"><span data-stu-id="45bf4-213">Version 1906 (Build 11722.20008)</span></span><br/>
 
-<span data-ttu-id="d4246-216">**2019년 5월 6일**</span><span class="sxs-lookup"><span data-stu-id="d4246-216">**May 06, 2019**</span></span><br/>
-<span data-ttu-id="d4246-217">버전 1906(빌드 11702.20000)</span><span class="sxs-lookup"><span data-stu-id="d4246-217">Version 1906 (Build 11702.20000)</span></span><br/>
+<span data-ttu-id="45bf4-214">**2019년 5월 22일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-214">**May 22, 2019**</span></span><br/> <span data-ttu-id="45bf4-215">버전 1906(빌드 11715.20002)</span><span class="sxs-lookup"><span data-stu-id="45bf4-215">Version 1906 (Build 11715.20002)</span></span><br/> 
 
-<span data-ttu-id="d4246-218">**2019년 5월 2일**</span><span class="sxs-lookup"><span data-stu-id="d4246-218">**May 02, 2019**</span></span><br/>
-<span data-ttu-id="d4246-219">버전 1905 (빌드 11629.20008)</span><span class="sxs-lookup"><span data-stu-id="d4246-219">Version 1905 (Build 11629.20008)</span></span><br/>
+<span data-ttu-id="45bf4-216">**2019년 5월 14일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-216">**May 14, 2019**</span></span><br/> <span data-ttu-id="45bf4-217">버전 1906(빌드 11708.20006)</span><span class="sxs-lookup"><span data-stu-id="45bf4-217">Version 1906 (Build 11708.20006)</span></span><br/>
 
-<span data-ttu-id="d4246-220">**2019년 4월 29일**</span><span class="sxs-lookup"><span data-stu-id="d4246-220">**April 29, 2019**</span></span><br/>
-<span data-ttu-id="d4246-221">버전 1905(빌드 11624.20000)</span><span class="sxs-lookup"><span data-stu-id="d4246-221">Version 1905 (Build 11624.20000)</span></span><br/>
+<span data-ttu-id="45bf4-218">**2019년 5월 6일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-218">**May 06, 2019**</span></span><br/>
+<span data-ttu-id="45bf4-219">버전 1906(빌드 11702.20000)</span><span class="sxs-lookup"><span data-stu-id="45bf4-219">Version 1906 (Build 11702.20000)</span></span><br/>
 
-<span data-ttu-id="d4246-222">**2019년 4월 23일**</span><span class="sxs-lookup"><span data-stu-id="d4246-222">**April 23, 2019**</span></span><br/> <span data-ttu-id="d4246-223">버전 1905(빌드 11617.20002)</span><span class="sxs-lookup"><span data-stu-id="d4246-223">Version 1905 (Build 11617.20002)</span></span><br/>
+<span data-ttu-id="45bf4-220">**2019년 5월 2일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-220">**May 02, 2019**</span></span><br/>
+<span data-ttu-id="45bf4-221">버전 1905 (빌드 11629.20008)</span><span class="sxs-lookup"><span data-stu-id="45bf4-221">Version 1905 (Build 11629.20008)</span></span><br/>
 
-<span data-ttu-id="d4246-224">**2019년 4월 15일**</span><span class="sxs-lookup"><span data-stu-id="d4246-224">**April 15, 2019**</span></span><br/> <span data-ttu-id="d4246-225">버전 1905(빌드 11609.20002)</span><span class="sxs-lookup"><span data-stu-id="d4246-225">Version 1905 (Build 11609.20002)</span></span><br/>
+<span data-ttu-id="45bf4-222">**2019년 4월 29일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-222">**April 29, 2019**</span></span><br/>
+<span data-ttu-id="45bf4-223">버전 1905(빌드 11624.20000)</span><span class="sxs-lookup"><span data-stu-id="45bf4-223">Version 1905 (Build 11624.20000)</span></span><br/>
 
-<span data-ttu-id="d4246-226">**2019년 4월 7일**</span><span class="sxs-lookup"><span data-stu-id="d4246-226">**April 7, 2019**</span></span><br/> <span data-ttu-id="d4246-227">버전 1904(빌드 11601.20042)</span><span class="sxs-lookup"><span data-stu-id="d4246-227">Version 1904 (Build 11601.20042)</span></span><br/>
+<span data-ttu-id="45bf4-224">**2019년 4월 23일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-224">**April 23, 2019**</span></span><br/> <span data-ttu-id="45bf4-225">버전 1905(빌드 11617.20002)</span><span class="sxs-lookup"><span data-stu-id="45bf4-225">Version 1905 (Build 11617.20002)</span></span><br/>
 
-<span data-ttu-id="d4246-228">**2019년 3월 18일**</span><span class="sxs-lookup"><span data-stu-id="d4246-228">**March 18, 2019**</span></span><br/> <span data-ttu-id="d4246-229">버전 1904(빌드 11520.20004)</span><span class="sxs-lookup"><span data-stu-id="d4246-229">Version 1904 (Build 11520.20004)</span></span><br/>
+<span data-ttu-id="45bf4-226">**2019년 4월 15일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-226">**April 15, 2019**</span></span><br/> <span data-ttu-id="45bf4-227">버전 1905(빌드 11609.20002)</span><span class="sxs-lookup"><span data-stu-id="45bf4-227">Version 1905 (Build 11609.20002)</span></span><br/>
 
-<span data-ttu-id="d4246-230">**2019년 3월 11일**</span><span class="sxs-lookup"><span data-stu-id="d4246-230">**March 11, 2019**</span></span><br/> <span data-ttu-id="d4246-231">버전 1904(빌드 11504.20000)</span><span class="sxs-lookup"><span data-stu-id="d4246-231">Version 1904 (Build 11504.20000)</span></span><br/>
+<span data-ttu-id="45bf4-228">**2019년 4월 7일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-228">**April 7, 2019**</span></span><br/> <span data-ttu-id="45bf4-229">버전 1904(빌드 11601.20042)</span><span class="sxs-lookup"><span data-stu-id="45bf4-229">Version 1904 (Build 11601.20042)</span></span><br/>
 
-<span data-ttu-id="d4246-232">**2019년 3월 1일**</span><span class="sxs-lookup"><span data-stu-id="d4246-232">**March 1, 2019**</span></span><br/> <span data-ttu-id="d4246-233">버전 1903(빌드 11425.20036)</span><span class="sxs-lookup"><span data-stu-id="d4246-233">Version 1903 (Build 11425.20036)</span></span><br/> 
+<span data-ttu-id="45bf4-230">**2019년 3월 18일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-230">**March 18, 2019**</span></span><br/> <span data-ttu-id="45bf4-231">버전 1904(빌드 11520.20004)</span><span class="sxs-lookup"><span data-stu-id="45bf4-231">Version 1904 (Build 11520.20004)</span></span><br/>
 
-<span data-ttu-id="d4246-234">**2019년 2월 25일**</span><span class="sxs-lookup"><span data-stu-id="d4246-234">**February 25, 2019**</span></span><br/> <span data-ttu-id="d4246-235">버전 1903(빌드 11414.20014)</span><span class="sxs-lookup"><span data-stu-id="d4246-235">Version 1903 (Build 11414.20014)</span></span><br/> 
+<span data-ttu-id="45bf4-232">**2019년 3월 11일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-232">**March 11, 2019**</span></span><br/> <span data-ttu-id="45bf4-233">버전 1904(빌드 11504.20000)</span><span class="sxs-lookup"><span data-stu-id="45bf4-233">Version 1904 (Build 11504.20000)</span></span><br/>
 
-<span data-ttu-id="d4246-236">**2019년 2월 12일**</span><span class="sxs-lookup"><span data-stu-id="d4246-236">**February 12, 2019**</span></span><br/> <span data-ttu-id="d4246-237">버전 1903(빌드 11406.20002)</span><span class="sxs-lookup"><span data-stu-id="d4246-237">Version 1903 (Build 11406.20002)</span></span><br/> 
+<span data-ttu-id="45bf4-234">**2019년 3월 1일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-234">**March 1, 2019**</span></span><br/> <span data-ttu-id="45bf4-235">버전 1903(빌드 11425.20036)</span><span class="sxs-lookup"><span data-stu-id="45bf4-235">Version 1903 (Build 11425.20036)</span></span><br/> 
 
-<span data-ttu-id="d4246-238">**2019년 2월 9일**</span><span class="sxs-lookup"><span data-stu-id="d4246-238">**February 9, 2019**</span></span><br/> <span data-ttu-id="d4246-239">버전 1903(빌드 11330.20014)</span><span class="sxs-lookup"><span data-stu-id="d4246-239">Version 1903 (Build 11330.20014)</span></span><br/> 
+<span data-ttu-id="45bf4-236">**2019년 2월 25일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-236">**February 25, 2019**</span></span><br/> <span data-ttu-id="45bf4-237">버전 1903(빌드 11414.20014)</span><span class="sxs-lookup"><span data-stu-id="45bf4-237">Version 1903 (Build 11414.20014)</span></span><br/> 
 
-<span data-ttu-id="d4246-240">**2019년 1월 30일**</span><span class="sxs-lookup"><span data-stu-id="d4246-240">**January 30, 2019**</span></span><br/> <span data-ttu-id="d4246-241">버전 1902(빌드 11326.20000)</span><span class="sxs-lookup"><span data-stu-id="d4246-241">Version 1902 (Build 11326.20000)</span></span><br/> 
+<span data-ttu-id="45bf4-238">**2019년 2월 12일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-238">**February 12, 2019**</span></span><br/> <span data-ttu-id="45bf4-239">버전 1903(빌드 11406.20002)</span><span class="sxs-lookup"><span data-stu-id="45bf4-239">Version 1903 (Build 11406.20002)</span></span><br/> 
 
-<span data-ttu-id="d4246-242">**2019년 1월 25일**</span><span class="sxs-lookup"><span data-stu-id="d4246-242">**January 25, 2019**</span></span><br/> <span data-ttu-id="d4246-243">버전 1902(빌드 11316.20026)</span><span class="sxs-lookup"><span data-stu-id="d4246-243">Version 1902 (Build 11316.20026)</span></span><br/> 
+<span data-ttu-id="45bf4-240">**2019년 2월 9일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-240">**February 9, 2019**</span></span><br/> <span data-ttu-id="45bf4-241">버전 1903(빌드 11330.20014)</span><span class="sxs-lookup"><span data-stu-id="45bf4-241">Version 1903 (Build 11330.20014)</span></span><br/> 
 
-<span data-ttu-id="d4246-244">**2019년 1월 22일**</span><span class="sxs-lookup"><span data-stu-id="d4246-244">**January 22, 2019**</span></span><br/> <span data-ttu-id="d4246-245">버전 1902(빌드 11310.20016)</span><span class="sxs-lookup"><span data-stu-id="d4246-245">Version 1902 (Build 11310.20016)</span></span><br/> 
+<span data-ttu-id="45bf4-242">**2019년 1월 30일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-242">**January 30, 2019**</span></span><br/> <span data-ttu-id="45bf4-243">버전 1902(빌드 11326.20000)</span><span class="sxs-lookup"><span data-stu-id="45bf4-243">Version 1902 (Build 11326.20000)</span></span><br/> 
 
-<span data-ttu-id="d4246-246">**2019년 1월 17일**</span><span class="sxs-lookup"><span data-stu-id="d4246-246">**January 17, 2019**</span></span><br/> <span data-ttu-id="d4246-247">버전 1902(빌드 11231.20080)</span><span class="sxs-lookup"><span data-stu-id="d4246-247">Version 1902 (Build 11231.20080)</span></span><br/>
+<span data-ttu-id="45bf4-244">**2019년 1월 25일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-244">**January 25, 2019**</span></span><br/> <span data-ttu-id="45bf4-245">버전 1902(빌드 11316.20026)</span><span class="sxs-lookup"><span data-stu-id="45bf4-245">Version 1902 (Build 11316.20026)</span></span><br/> 
 
-<span data-ttu-id="d4246-248">**2019년 1월 10일**</span><span class="sxs-lookup"><span data-stu-id="d4246-248">**January 10, 2019**</span></span><br/> <span data-ttu-id="d4246-249">버전 1902(빌드 11231.20066)</span><span class="sxs-lookup"><span data-stu-id="d4246-249">Version 1902 (build 11231.20066)</span></span><br/> 
+<span data-ttu-id="45bf4-246">**2019년 1월 22일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-246">**January 22, 2019**</span></span><br/> <span data-ttu-id="45bf4-247">버전 1902(빌드 11310.20016)</span><span class="sxs-lookup"><span data-stu-id="45bf4-247">Version 1902 (Build 11310.20016)</span></span><br/> 
 
-## <a name="insider-community"></a><span data-ttu-id="d4246-250">참가자 커뮤니티</span><span class="sxs-lookup"><span data-stu-id="d4246-250">Insider community</span></span>
+<span data-ttu-id="45bf4-248">**2019년 1월 17일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-248">**January 17, 2019**</span></span><br/> <span data-ttu-id="45bf4-249">버전 1902(빌드 11231.20080)</span><span class="sxs-lookup"><span data-stu-id="45bf4-249">Version 1902 (Build 11231.20080)</span></span><br/>
 
-<span data-ttu-id="d4246-251">![참가자 커뮤니티 표시 이미지</span><span class="sxs-lookup"><span data-stu-id="d4246-251">![Image showing insider community.</span></span> ](images/insidercommunity.png) <br/>
-<span data-ttu-id="d4246-252">**Office참가자 커뮤니티**</span><span class="sxs-lookup"><span data-stu-id="d4246-252">**Office Insider community**</span></span><br/> <span data-ttu-id="d4246-253">다른 참가자와 채팅하려면 커뮤니티에 게시합니다.</span><span class="sxs-lookup"><span data-stu-id="d4246-253">If you want to chat with other Insiders, post in our community.</span></span><br/><span data-ttu-id="d4246-254"> 
-[커뮤니티 방문](https://go.microsoft.com/fwlink/?linkid=843493)</span><span class="sxs-lookup"><span data-stu-id="d4246-254"> 
+<span data-ttu-id="45bf4-250">**2019년 1월 10일**</span><span class="sxs-lookup"><span data-stu-id="45bf4-250">**January 10, 2019**</span></span><br/> <span data-ttu-id="45bf4-251">버전 1902(빌드 11231.20066)</span><span class="sxs-lookup"><span data-stu-id="45bf4-251">Version 1902 (build 11231.20066)</span></span><br/> 
+
+## <a name="insider-community"></a><span data-ttu-id="45bf4-252">참가자 커뮤니티</span><span class="sxs-lookup"><span data-stu-id="45bf4-252">Insider community</span></span>
+
+<span data-ttu-id="45bf4-253">![참가자 커뮤니티 표시 이미지</span><span class="sxs-lookup"><span data-stu-id="45bf4-253">![Image showing insider community.</span></span> ](images/insidercommunity.png) <br/>
+<span data-ttu-id="45bf4-254">**Office참가자 커뮤니티**</span><span class="sxs-lookup"><span data-stu-id="45bf4-254">**Office Insider community**</span></span><br/> <span data-ttu-id="45bf4-255">다른 참가자와 채팅하려면 커뮤니티에 게시합니다.</span><span class="sxs-lookup"><span data-stu-id="45bf4-255">If you want to chat with other Insiders, post in our community.</span></span><br/><span data-ttu-id="45bf4-256"> 
+[커뮤니티 방문](https://go.microsoft.com/fwlink/?linkid=843493)</span><span class="sxs-lookup"><span data-stu-id="45bf4-256"> 
 [Visit the community](https://go.microsoft.com/fwlink/?linkid=843493)</span></span><br/> 
 
-<span data-ttu-id="d4246-255">![twitter 아이콘 표시 이미지.</span><span class="sxs-lookup"><span data-stu-id="d4246-255">![Image showing twitter icon.</span></span> ](images/twitter.png)<br/>
-<span data-ttu-id="d4246-256">**Twitter의 office 참가자**</span><span class="sxs-lookup"><span data-stu-id="d4246-256">**Office Insider on Twitter**</span></span><br/> <span data-ttu-id="d4246-257">@OfficeInsider에서, 우리는 참가자 배포에 관해 자주 게시하고 참가자를 위한 특별 이벤트를 주최합니다.</span><span class="sxs-lookup"><span data-stu-id="d4246-257">On @OfficeInsider, we post frequently about Insider releases and host special events for Insiders.</span></span><br/><span data-ttu-id="d4246-258"> 
-[Twitter에서 팔로우](https://go.microsoft.com/fwlink/?linkid=717717)</span><span class="sxs-lookup"><span data-stu-id="d4246-258"> 
+<span data-ttu-id="45bf4-257">![twitter 아이콘 표시 이미지.</span><span class="sxs-lookup"><span data-stu-id="45bf4-257">![Image showing twitter icon.</span></span> ](images/twitter.png)<br/>
+<span data-ttu-id="45bf4-258">**Twitter의 office 참가자**</span><span class="sxs-lookup"><span data-stu-id="45bf4-258">**Office Insider on Twitter**</span></span><br/> <span data-ttu-id="45bf4-259">@OfficeInsider에서, 우리는 참가자 배포에 관해 자주 게시하고 참가자를 위한 특별 이벤트를 주최합니다.</span><span class="sxs-lookup"><span data-stu-id="45bf4-259">On @OfficeInsider, we post frequently about Insider releases and host special events for Insiders.</span></span><br/><span data-ttu-id="45bf4-260"> 
+[Twitter에서 팔로우](https://go.microsoft.com/fwlink/?linkid=717717)</span><span class="sxs-lookup"><span data-stu-id="45bf4-260"> 
 [Follow us on Twitter](https://go.microsoft.com/fwlink/?linkid=717717)</span></span><br/> 
 
-<span data-ttu-id="d4246-259">[![Facebook 아이콘을 보여주는 이미지](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)</span><span class="sxs-lookup"><span data-stu-id="d4246-259">[![Image showing Facebook icon. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)</span></span>
+<span data-ttu-id="45bf4-261">[![Facebook 아이콘을 보여주는 이미지](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)</span><span class="sxs-lookup"><span data-stu-id="45bf4-261">[![Image showing Facebook icon. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)</span></span>
 
 
-<span data-ttu-id="d4246-260">**새 기능을 먼저 받아보세요**
-[Office 참가자에 참여](https://insider.office.com/)</span><span class="sxs-lookup"><span data-stu-id="d4246-260">**Get new features first**
+<span data-ttu-id="45bf4-262">**새 기능을 먼저 받아보세요**
+[Office 참가자에 참여](https://insider.office.com/)</span><span class="sxs-lookup"><span data-stu-id="45bf4-262">**Get new features first**
 [Join Office Insiders](https://insider.office.com/)</span></span>
