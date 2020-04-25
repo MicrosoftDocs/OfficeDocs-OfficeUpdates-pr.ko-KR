@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 업데이트 채널별 Microsoft 365 앱의 최신 릴리스 및 릴리스 정보와 업데이트 기록에 대한 링크 목록을 IT 전문가에게 제공합니다.
-ms.openlocfilehash: d6994deeab0a144b4642577519d670fe8a3f5643
-ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
+ms.openlocfilehash: c025c0afd3428c3381aeac16821ddd0eb22904b0
+ms.sourcegitcommit: 58d55cf532d1d02cca85772920a6dd71089b071d
 ms.translationtype: HT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714538"
+ms.locfileid: "43781591"
 ---
 # <a name="release-information-for-updates-to-microsoft-365-apps"></a>Microsoft 365 앱 업데이트에 대한 릴리스 정보
 
@@ -27,19 +27,19 @@ ms.locfileid: "43714538"
 ## <a name="security-updates-for-microsoft-365-apps-releases"></a>Microsoft 365 앱 릴리스용 보안 업데이트
 
 전체 보안 업데이트 목록은 다음 문서를 참조하세요.
- - [Office 365 ProPlus의 보안 업데이트](office365-proplus-security-updates.md)
+ - [Microsoft 365 앱용 보안 업데이트](office365-proplus-security-updates.md)
 
 
 ## <a name="update-history-for-microsoft-365-apps-releases"></a>Microsoft 365 앱 릴리스의 업데이트 기록
 
 각 채널의 릴리스 및 지원되는 버전의 전체 목록은 다음 문서를 참조하세요.
- - [Office 365 ProPlus에 대한 업데이트 기록(날짜순)](update-history-office365-proplus-by-date.md)
+ - [Microsoft 365 앱의 업데이트 기록(날짜순)](update-history-office365-proplus-by-date.md)
 
 
  ## <a name="update-sizes-for-microsoft-365-apps-releases"></a>Microsoft 365 앱 릴리스의 업데이트 크기
 
 업데이트 릴리스 크기의 전체 목록을 보려면 다음 문서를 참조하세요.
- - [Office 365 ProPlus 업데이트의 다운로드 크기](download-sizes-office365-proplus-updates.md)
+ - [Microsoft 365 앱 업데이트의 다운로드 크기](download-sizes-office365-proplus-updates.md)
 
 ## <a name="release-notes-for-microsoft-365-apps-releases"></a>Microsoft 365 앱 릴리스의 릴리스 정보
 
