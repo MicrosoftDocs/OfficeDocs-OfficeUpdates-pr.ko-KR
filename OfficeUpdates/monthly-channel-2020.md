@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 앱에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: e7208b25c8b6f6b14fbd2511e570d02b32c8d396
-ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
+ms.openlocfilehash: 5580335c0736379ad74b9487954d21d98824c2be
+ms.sourcegitcommit: bb2e1868f43693fe085ba9080401e6f8137c8a9e
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714518"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43907925"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>2020년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -24,6 +24,14 @@ ms.locfileid: "43714518"
 >
 >- Microsoft는 일정 기간 동안 매월 기능(및 경우에 따라 수정 사항)을 롤아웃합니다.  아래에서 설명했던 내용이 바로 보이지 않으면 곧 예측할 수 있습니다. [자세한 정보](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2003-april-15"></a>버전 2003: 4월 15일
 *버전 2003(빌드 12624.20466)*
