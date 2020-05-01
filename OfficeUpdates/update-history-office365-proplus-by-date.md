@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 릴리스 정보에 대한 링크를 포함하여 Microsoft 365 앱 릴리스의 전체 목록을 날짜별로 구성해서 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 9a2b66ad416ac01f335b70e1875c18bf6464b3d9
-ms.sourcegitcommit: bb2e1868f43693fe085ba9080401e6f8137c8a9e
+ms.openlocfilehash: 6361bc4ad78d7774956ffdac4d1e52cec4492fe0
+ms.sourcegitcommit: 47434ba402ec7a630ef06a91664a659bb7069dad
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43907932"
+ms.lasthandoff: 04/30/2020
+ms.locfileid: "43947392"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 앱의 업데이트 기록(날짜순)
 
@@ -33,7 +33,7 @@ ms.locfileid: "43907932"
 
 |**채널**|**버전**|**빌드**|**릴리스 날짜**|**다음 이하 버전까지 지원**|
 |:-----|:-----|:-----|:-----|:-----|
-|월간<br/>|2003<br/>|12624.20466<br/>|2020년 4월 15일<br/>|2004 버전 출시<br/>|
+|월간<br/>|2004<br/>|12730.20236<br/>|2020년 4월 29일<br/>|버전 2005 출시<br/>|
 |반기(대상 지정)<br/>|2002<br/>|12527.20442<br/>|2020년 4월 14일<br/>|2020년 9월 8일<br/>|
 |반기<br/>|1908<br/>|11929.20708<br/>|2020년 4월 14일<br/>|2021년 3월 9일<br/>|
 |반기<br/>|1902<br/>|11328.20564<br/>|2020년 4월 14일<br/>|2020년 9월 8일<br/>|
@@ -48,7 +48,7 @@ ms.locfileid: "43907932"
 
 |**년도**|**릴리스 날짜**|**월별 채널**|**반기별 채널(지정됨)**|**반기 채널**|
 |:-----|:-----|:-----|:-----|:-----|
-|
+|2020|4월 29일|[버전 2004 (빌드 12730.20236)](monthly-channel-2020.md#version-2004-april-29)| | |
 |2020|4월 15일|[버전 2003(빌드 12624.20466)](monthly-channel-2020.md#version-2003-april-15)| | |
 |2020|4월 14일|[버전 2003(빌드 12624.20442)](monthly-channel-2020.md#version-2003-april-14)|[버전 2002 (빌드 12527.20442)](semi-annual-channel-targeted-2020.md#version-2002-april-14)|[버전 1908(빌드 11929.20708)](semi-annual-channel-2020.md#version-1908-april-14)<br/>[버전 1902(빌드 11328.20564)](semi-annual-channel-2020.md#version-1902-april-14)|
 |2020|3월 31일|[버전 2003 (빌드 12624.20382)](monthly-channel-2020.md#version-2003-march-31)| | |
