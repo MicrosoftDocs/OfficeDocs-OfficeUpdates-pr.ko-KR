@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: C2R(간편 실행)을 사용하는 Office 2016 및 2019 영구 버전에 대한 업데이트 기록을 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 80b3a12f538adba30b2cb73871205325da41018a
-ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
+ms.openlocfilehash: 3716b555f187be6941741960bb11f3cc738f7d43
+ms.sourcegitcommit: e950bd86b21283e1d6f1f76faa26cd323ab7213d
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43521366"
+ms.lasthandoff: 04/30/2020
+ms.locfileid: "43954901"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Office 2016 C2R 및 Office 2019의 업데이트 기록
 
@@ -60,6 +60,7 @@ Microsoft는 Office 2016 C2R(간편 실행) 버전과 Office 2019의 보안 및 
 
 |**릴리스 날짜**|**버전 번호**|**추가 정보**|
 |:-----|:-----|:-----|
+|2020년 4월 29일|버전 2004(빌드 12730.20236)  |다양한 버그 및 성능 수정 사항. <br/>  |
 |2020년 4월 15일|버전 2003(빌드 12624.20466)  |다양한 버그 및 성능 수정 사항. <br/>  |
 |2020년 4월 14일|버전 2003(빌드 12624.20442)  |[CVE-2020-0760](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0760) <br/> [CVE-2020-0906](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0906) <br/> [CVE-2020-0961](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0961) <br/> [CVE-2020-0979](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0979) <br/> [CVE-2020-0980](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0980) <br/>[CVE-2020-0991](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0991) <br/> |
 |2020년 3월 31일|버전 2003(빌드 12624.20382)  |다양한 버그 및 성능 수정 사항. <br/>  |
