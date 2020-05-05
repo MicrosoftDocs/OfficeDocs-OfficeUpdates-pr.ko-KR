@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 앱에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 5580335c0736379ad74b9487954d21d98824c2be
-ms.sourcegitcommit: bb2e1868f43693fe085ba9080401e6f8137c8a9e
+ms.openlocfilehash: cdaa6ed14bc119079dfc1372820a9bf143f91267
+ms.sourcegitcommit: 13b981a8a5ef2ac7c68f245213167026bdd0bdea
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43907925"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43997471"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>2020년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -28,6 +28,98 @@ ms.locfileid: "43907925"
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2004-april-29"></a>버전 2004: 4월 29일
+*버전 2004 (빌드 12730.20236)*
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="access"></a>Access
+
+- **Query Designer, SQL 보기 및 관계 창에서 생산성을 향상시킬 수 있습니다.** 테이블을 마우스 오른쪽 단추로 클릭하여 열고 디자인하고 크기를 조정하고 숨겨보세요. SQL 보기에서 텍스트를 검색하고 바꾸세요. 관계 창에서 테이블을 여러 개 선택하세요.
+
+### <a name="excel"></a>Excel
+
+- **Facebook 커넥터 지원 종료:** 2020년 4월부터는 Excel에서 Facebook 커넥터를 사용하는 외부 데이터 연결을 더 이상 지원하지 않습니다.
+
+- **더 나은 아이디어:** 이제 Excel 아이디어를 사용하여 데이터에 대한 질문을 입력할 수 있습니다. 서식 지정에 먼저 시간을 소비할 필요가 없습니다. [자세한 정보](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
+
+- **통합 문서에 활기를 불어넣어줄 새로운 이미지:** 수천 개의 무료 스톡 이미지, 아이콘 및 스티커를 통합 문서에서 사용할 수 있습니다. 시작 하려면 삽입 > 사진 > 스톡 이미지로 이동합니다. [자세한 정보](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
+
+### <a name="outlook"></a>Outlook
+
+- **받은 편지함을 벗어나지 않고 모임 참가:** 온라인 모임에 참가하기 위해 일정으로 전환할 필요가 없습니다. 일정을 할 일 창에 고정하고 클릭 한 번만으로 모든 모임에 참여하세요.
+
+- **메시지에 활기를 불어넣어줄 새로운 이미지:** 수천 개의 무료 스톡 이미지, 아이콘 및 스티커를 전자 메일 메시지에서 사용할 수 있습니다. 시작 하려면 삽입 > 사진 > 스톡 이미지로 이동합니다. [자세한 정보](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
+
+- **되풀이 모임에 대한 위치 제안 지원:** 되풀이 모임을 예약하기 위해 회의실을 검색합니다.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **슬라이드 쇼 중에 슬라이드 업데이트:** 프레젠테이션을 진행하는 동안 다른 작성자가 변경한 슬라이드를 업데이트합니다.
+
+- **슬라이드에 활기를 불어넣어줄 새로운 이미지:** 수천 개의 무료 스톡 이미지, 아이콘 및 스티커를 프레젠테이션에서 사용할 수 있습니다. 시작 하려면 삽입 > 사진 > 스톡 이미지로 이동합니다. [자세한 정보](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
+
+### <a name="teams"></a>Teams
+
+- **Teams 일정에 대한 개선 사항:** 일정에서 항목을 마우스 오른쪽 단추로 클릭하여 RSVP 옵션을 끌어오거나, 모임 참가자와 채팅을 시작하거나 또는 모임이 시작될 시 빠르게 참석할 수 있습니다. 또한 이벤트 예약 양식이 개선되었습니다.
+
+- **태그, 그것입니다!:** 태그를 만들고 사용자들을 태그에 지정하여 그룹, 역할, 부서 등에 @멘션을 할 수 있습니다. 팀 소유자들은 직접 시도해보세요. 팀으로 이동하고 추가 옵션을 선택하고 태그를 관리합니다.
+
+### <a name="word"></a>Word
+
+- **도구를 편리하게 유지:** 그리기 도구 상자에서 텍스트에 잉크 제스처를 추가할 수 있도록 해주는 지능형 펜을 찾습니다. [자세한 정보](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
+
+- **문서에 활기를 불어넣어줄 새로운 이미지:** 수천 개의 무료 스톡 이미지, 아이콘 및 스티커를 문서에서 사용할 수 있습니다. 시작 하려면 삽입 > 사진 > 스톡 이미지로 이동합니다. [자세한 정보](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- Excel 2016에서 디지털 서명을 사용하여 저장한 통합 문서를 최신 버전의 Excel에서 열면 서명이 무효가 될 수 있습니다.
+
+- 일부 경우에 피벗 테이블을 포함하는 시트를 복사한 후 Excel 작동이 중단되는 문제가 해결되었습니다.
+
+- 경우에 따라 Application.Evaluate(VBA)가 사용자 정의 함수에서 제대로 작동하지 않았습니다.
+
+### <a name="outlook"></a>Outlook
+
+- 폴더 창의 너비가 예기치 않게 변경되는 문제를 해결했습니다.
+
+
+- 일부 Windows 빌드에서 Outlook이 중단되었던문제를 해결했습니다.
+
+
+- Windows 업데이트 후 로컬로 저장된 .msg 혹은 .oft 파일을 열 때 Outlook의 작동이 중단되었던 문제를 해결했습니다.
+
+
+- 일부 Windows 빌드에서 Outlook이 중단되었던문제를 해결했습니다.
+
+
+- Outlook을 종료하는 동안 사용자 작업이 중단되었던 문제를 해결했습니다.
+
+
+### <a name="project"></a>Project
+
+- 양식보기에서 선행 작업/후속자 데이터를 편집하면 추가 ProjectBeforeTaskChange 이벤트가 실행됩니다.
+
+
+- Project Web App에 연결된 Project를 사용하는 경우 소수 구분 기호가 쉼표이면 TaskDependencies Add 메서드가 종속성에 지연 시간을 추가하려할 때 실패하는 문제를 수정습니다.
+
+### <a name="office-suite"></a>Office 제품군
+
+- 액세스의 제한과 동시에 파일을 암호로 보호하는 작업을 할 수 없게 하는 오류를 해결했습니다.
 
 
 
