@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 앱에 대한 반기 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 7370f93cc18bff888e264d3b7b06a2ccd94408ee
-ms.sourcegitcommit: bb2e1868f43693fe085ba9080401e6f8137c8a9e
+ms.openlocfilehash: 0c068fd85c8a29c18ad4aa512ab6027d2c1c0b64
+ms.sourcegitcommit: ea14838e5a137a296a86b564cdb711fbc54e9940
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43907902"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44044591"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>2020년 반기 채널 릴리스에 대한 릴리스 정보
 
@@ -22,7 +22,6 @@ ms.locfileid: "43907902"
 
 > [!NOTE]
 >
->- Microsoft는 일정 기간 동안 반기 채널 기능(및 경우에 따라 수정 사항)을 롤아웃합니다. 아래에서 설명했던 내용이 바로 보이지 않으면 곧 예측할 수 있습니다. [자세한 정보](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 >- 반기 채널의 사용자가 Office Portal에서 Microsoft 365 앱을 다운로드하여 Windows 10에 설치하는 경우 이제 OneNote 2016이 기본적으로 포함됩니다.
 
 
@@ -31,6 +30,22 @@ ms.locfileid: "43907902"
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-1908-may-04"></a>버전 1908: 5월 4일
+*버전 1908(빌드 11929.20752)*
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="office-suite"></a>Office 제품군
+
+- 라이브러리 이름 또는 라이브러리 경로에 DBCS 문자가 있는 코드 라이브러리에 대한 참조를 포함하는 특정 VBA 프로젝트를 로드할 때 Office 응용 프로그램에서 손상된 것으로 보이는 Microsoft Office의 VBA(Visual Basic for Applications) 문제가 해결되었습니다.
+
+## <a name="version-1902-may-04"></a>버전 1902: 5월 4일
+*버전 1902(빌드 11328.20572)*
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="office-suite"></a>Office 제품군
+
+- 라이브러리 이름 또는 라이브러리 경로에 DBCS 문자가 있는 코드 라이브러리에 대한 참조를 포함하는 특정 VBA 프로젝트를 로드할 때 Office 응용 프로그램에서 손상된 것으로 보이는 Microsoft Office의 VBA(Visual Basic for Applications) 문제가 해결되었습니다.
 
 ## <a name="version-1908-april-14"></a>버전 1908: 4월 14일
 *버전 1908(빌드 11929.20708)*
