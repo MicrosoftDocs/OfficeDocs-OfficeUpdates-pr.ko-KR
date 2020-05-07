@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 앱에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: cdaa6ed14bc119079dfc1372820a9bf143f91267
-ms.sourcegitcommit: 13b981a8a5ef2ac7c68f245213167026bdd0bdea
+ms.openlocfilehash: f69d29bcfdd070f742fe0c4e8c518ee7b8100c69
+ms.sourcegitcommit: 47db4b680df64397a57f388e5d6f3c8b1bf374ee
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43997471"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44021960"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>2020년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -42,6 +42,9 @@ ms.locfileid: "43997471"
 ### <a name="access"></a>Access
 
 - **Query Designer, SQL 보기 및 관계 창에서 생산성을 향상시킬 수 있습니다.** 테이블을 마우스 오른쪽 단추로 클릭하여 열고 디자인하고 크기를 조정하고 숨겨보세요. SQL 보기에서 텍스트를 검색하고 바꾸세요. 관계 창에서 테이블을 여러 개 선택하세요.
+
+- **더 적은 수의 클릭으로 테이블 추가:** 작업하는 동안 열려 있는 테이블 추가 작업창을 사용하여 관계와 쿼리에 테이블을 추가합니다. [자세한 정보](https://support.office.com/article/56eb7df2-8a52-4e90-a7e0-8f891a5c56bd)
+
 
 ### <a name="excel"></a>Excel
 

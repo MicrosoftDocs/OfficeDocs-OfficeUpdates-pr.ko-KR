@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: C2R(간편 실행)을 사용하는 Office 2016 및 2019 영구 버전에 대한 업데이트 기록을 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 3716b555f187be6941741960bb11f3cc738f7d43
-ms.sourcegitcommit: e950bd86b21283e1d6f1f76faa26cd323ab7213d
+ms.openlocfilehash: c3127aaae55214fd16f34fa39c6c59c0be706f3d
+ms.sourcegitcommit: ea14838e5a137a296a86b564cdb711fbc54e9940
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/30/2020
-ms.locfileid: "43954901"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44044611"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Office 2016 C2R 및 Office 2019의 업데이트 기록
 
@@ -60,6 +60,7 @@ Microsoft는 Office 2016 C2R(간편 실행) 버전과 Office 2019의 보안 및 
 
 |**릴리스 날짜**|**버전 번호**|**추가 정보**|
 |:-----|:-----|:-----|
+|2020년 5월 4일|버전 2004(빌드 12730.20250)  |라이브러리 이름 또는 라이브러리 경로에서 DBCS(더블 바이트) 문자가 있는 코드 라이브러리에 대한 참조를 포함하는 특정 VBA 프로젝트를 로드할 때 Office 응용 프로그램에서 손상된 것으로 볼 수 있는 문제를 해결합니다. <br/>  |
 |2020년 4월 29일|버전 2004(빌드 12730.20236)  |다양한 버그 및 성능 수정 사항. <br/>  |
 |2020년 4월 15일|버전 2003(빌드 12624.20466)  |다양한 버그 및 성능 수정 사항. <br/>  |
 |2020년 4월 14일|버전 2003(빌드 12624.20442)  |[CVE-2020-0760](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0760) <br/> [CVE-2020-0906](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0906) <br/> [CVE-2020-0961](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0961) <br/> [CVE-2020-0979](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0979) <br/> [CVE-2020-0980](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0980) <br/>[CVE-2020-0991](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0991) <br/> |
@@ -74,9 +75,6 @@ Microsoft는 Office 2016 C2R(간편 실행) 버전과 Office 2019의 보안 및 
 |2020년 1월 14일   |버전 1912(빌드 12325.20298)  |[CVE-2020-0650](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0650) <br/> [CVE-2020-0651](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0651) <br/> [CVE-2020-0652](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0652) <br/>  |
 |2020년 1월 8일   |버전 1912(빌드 12325.20288)  |다양한 버그 및 성능 수정 사항. <br/>  |
 |2019년 12월 10일   |버전 1911 (빌드 12228.20364)  |[CVE-2019-1400](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1400) <br/> [CVE-2019-1461](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1461) <br/> [CVE-2019-1462](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1462) <br/> [CVE-2019-1463](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1463) <br/> [CVE-2019-1464](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1464) <br/> |
-|2019년 11월 22일   |버전 1910 (빌드 12130.20410)  |다양한 버그 및 성능 수정 사항.<br/>  |
-|2019년 11월 18일   |버전 1910 (빌드 12130.20390)  |다양한 버그 및 성능 수정 사항.<br/>  |
-|2019년 11월 12일   |버전 1910 (빌드 12130.20344)  |[CVE-2019-1402](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1402) <br/> [CVE-2019-1446](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1446) <br/> [CVE-2019-1448](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1448) <br/> [CVE-2019-1449](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1449) <br/>  |
 
 
 
