@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 이후 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 73bb6f13c3f196a7d99fafc951c831eafea33e41
-ms.sourcegitcommit: 6e3ff925f85e32db7dc701fc7a14aa8339365eee
+ms.openlocfilehash: 7d3de2e4fe3d7d359542f6606ad08af1b5280fa0
+ms.sourcegitcommit: 45f5df6186e148390dac8910bb6e728a618589b2
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43937411"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "44163620"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 릴리스 정보 월 단위 채널(대상 지정)
 
@@ -29,6 +29,34 @@ ms.locfileid: "43937411"
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2004-may-04"></a>버전 2004: 5월 4일
+*버전 2004(빌드 12730.20250)*
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="outlook"></a>Outlook
+
+- **즉시 더 나은 결과 얻기:** 이전보다 더 스마트하고, 빠르고, 안정적이 되도록 검색 환경을 업데이트했습니다. [자세한 정보](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
+
+- **IT 관리자에 대한 인시던트 알림:** Microsoft 365 테넌트 전역 관리자 및 Office 앱 관리자는 Windows용 Outlook의 새로운 오른쪽 패널 알림을 통해 사용자에게 영향을 주는 Outlook 및 O365 Exchange 인시던트에 대한 알림을 받습니다.
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="office-suite"></a>Office 제품군
+
+- 이 업데이트는 라이브러리 이름 또는 라이브러리 경로에 DBCS 문자가 있는 코드 라이브러리에 대한 참조를 포함하는 특정 VBA 프로젝트를 로드할 때 Office 응용 프로그램에서 손상된 것으로 보이는 Microsoft Office의 VBA(Visual Basic for Applications) 문제를 해결합니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2004-april-29"></a>버전 2004: 4월 29일
 *버전 2004 (빌드 12730.20236)*
@@ -261,7 +289,7 @@ ms.locfileid: "43937411"
 ## <a name="version-2003-april-14"></a>버전 2003: 4월 14일
 *버전 2003(빌드 12624.20466)*
 
-나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -436,7 +464,7 @@ ms.locfileid: "43937411"
 ## <a name="version-2003-march-10"></a>버전 2003: 3월 10일
 *버전 2003(빌드 12624.20176)*
 
-나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 ### <a name="feature-updates"></a>기능 업데이트
@@ -656,7 +684,7 @@ ms.locfileid: "43937411"
 ## <a name="version-2002-february-11"></a>버전 2002: 2월 11일
 *버전 2002 (빌드 12527.20092)*
 
-[여기](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates) 나열된 보안 업데이트
+[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -864,7 +892,7 @@ ms.locfileid: "43937411"
 ## <a name="version-2001-january-14"></a>버전 2001: 1월 14일
 *버전 2001(빌드 12430.20050)*
 
-[여기](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates) 나열된 보안 업데이트
+[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
 
 ## <a name="version-1912-january-08"></a>버전 1912: 1월 8일
 *버전 1912(빌드 12325.20288)*
@@ -1071,7 +1099,7 @@ ms.locfileid: "43937411"
 ## <a name="version-1911-december-10"></a>버전 1911: 12월 10일
 *버전 1911 (빌드 12228.20364)*
 
-나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
@@ -1134,7 +1162,7 @@ ms.locfileid: "43937411"
 ## <a name="version-1911-november-12"></a>버전 1911: 11월 12일
 *버전 1911 (빌드 12228.20120)*
 
-나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 

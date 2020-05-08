@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 10c4d76d44d2ba8a66f22bfff49bb8c115d30d17
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: df05a1a57bf165e62717f18b7704bb0e44b459dd
+ms.sourcegitcommit: 45f5df6186e148390dac8910bb6e728a618589b2
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42615031"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "44163540"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -27,7 +27,7 @@ ms.locfileid: "42615031"
 ## <a name="version-1911-december-10"></a>버전 1911: 12월 10일
 *버전 1911 (빌드 12228.20364)*
 
-나열된 보안 업데이트는 [여기](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
+나열된 보안 업데이트는 [여기](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
@@ -119,7 +119,7 @@ ms.locfileid: "42615031"
 ## <a name="version-1910-november-12"></a>버전 1910: 11월 12일
 *버전 1910 (빌드 12130.20344)*
 
-나열된 보안 업데이트는 [여기](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
+나열된 보안 업데이트는 [여기](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -222,7 +222,7 @@ ms.locfileid: "42615031"
 ## <a name="version-1909-october-08"></a>버전 1909: 10월 8일
 *버전 1909 (빌드 12026.20320)*
 
-보안 업데이트는 [여기](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)에 나열되어 있습니다.
+보안 업데이트는 [여기](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)에 나열되어 있습니다.
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
@@ -334,7 +334,7 @@ ms.locfileid: "42615031"
 ## <a name="version-1908-september-10"></a>버전 1908: 9월 10일
 *버전 1908 (빌드 11929.20300)*
 
-보안 업데이트가 [여기](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)에 나열되어 있습니다.
+보안 업데이트가 [여기](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)에 나열되어 있습니다.
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
@@ -400,7 +400,7 @@ ms.locfileid: "42615031"
 ## <a name="version-1907-august-13"></a>버전 1907: 8월 13일
 *버전 1907 (빌드 11901.20218)*
 
-보안 업데이트가 [여기](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)에 나열되어 있습니다.
+보안 업데이트가 [여기](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)에 나열되어 있습니다.
 
 ### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트
 
@@ -454,7 +454,7 @@ ms.locfileid: "42615031"
 ## <a name="version-1906-july-09"></a>버전 1906: 7월 9일
 *버전 1906 (빌드 11727.20244)*
 
-나열된 보안 업데이트는 [여기](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
+나열된 보안 업데이트는 [여기](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
 
 ### <a name="outlook-non-security-updates"></a>Outlook: 비보안 업데이트
 
@@ -520,7 +520,7 @@ ms.locfileid: "42615031"
 
 ## <a name="version-1905-june-11"></a>버전 1905: 6월 11일
 *버전 1905(빌드 11629.20246)*
-<br/>나열된 보안 업데이트는 [여기](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
+<br/>나열된 보안 업데이트는 [여기](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
 
 ### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트
 
@@ -610,7 +610,7 @@ ms.locfileid: "42615031"
 ## <a name="version-1904-may-14"></a>버전 1904: M5월 14일 
 *버전 1904(빌드 11601.20204)*
 
-- 보안 업데이트는 [여기](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)에 나열됩니다.
+- 보안 업데이트는 [여기](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)에 나열됩니다.
 
 ## <a name="version-1904-may-8"></a>버전 1904: 5월 8일
 *버전 1904(빌드 11601.20178)*
@@ -675,7 +675,7 @@ ms.locfileid: "42615031"
 ## <a name="version-1903-april-9"></a>버전 1903: 4월 9일
 *버전 1903(빌드 11425.20204)* 
 
-- 보안 업데이트는 [여기](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)에 나열되어 있습니다.
+- 보안 업데이트는 [여기](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)에 나열되어 있습니다.
 
 ### <a name="skype-for-business-non-security-updates"></a>비즈니스용 Skype: 비보안 업데이트
 - Lync(비즈니스용 Skype)에서 참가자가 7 명 이상인 온라인 모임에서 모임 창이 사라질 수있는 문제가 해결되었습니다.
@@ -765,7 +765,7 @@ ms.locfileid: "42615031"
 ## <a name="version-1901-february-12"></a>버전 1901: 2월 12일
 *버전 1901(빌드 11231.20174)* 
 
-나열된 보안 업데이트는 [여기](office365-proplus-security-updates.md)
+나열된 보안 업데이트는 [여기](microsoft365-apps-security-updates.md)
 
 ## <a name="version-1901-january-31"></a>버전 1901: 1월 31일
 *버전 1901(빌드 11231.20130)* 

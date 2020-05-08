@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 반기 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: b03cf0f98c4444a19167759a1805f750866bcb78
-ms.sourcegitcommit: 2a7fa66d0cc399e8ae5d824dab7b84a460cc2c9f
+ms.openlocfilehash: df445c1318293e94d77fc62e4472124bb85c3a25
+ms.sourcegitcommit: 45f5df6186e148390dac8910bb6e728a618589b2
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42982527"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "44163530"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019년 반기 채널 릴리스에 대한 릴리스 정보
 
@@ -35,7 +35,7 @@ ms.locfileid: "42982527"
 ## <a name="version-1902-december-10"></a>버전 1902: 12월 10일
 *버전 1902(빌드 11328.20492)*
 
-나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -99,7 +99,7 @@ ms.locfileid: "42982527"
 ## <a name="version-1902-november-12"></a>버전 1902: 11월 12일
 *버전 1902(빌드 11328.20468)*
 
-나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
@@ -134,7 +134,7 @@ ms.locfileid: "42982527"
 ## <a name="version-1808-november-12"></a>버전 1808: 11월 12일
 *버전 1808 (빌드 10730.20416)*
 
-보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)에 나열되어 있습니다.
+보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열되어 있습니다.
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -154,7 +154,7 @@ ms.locfileid: "42982527"
 ## <a name="version-1902-october-08"></a>버전 1902: 10월 8일
 *버전 1902(빌드 11328.20438)*
 
-보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)에 나열되어 있습니다.
+보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열되어 있습니다.
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
@@ -183,12 +183,12 @@ ms.locfileid: "42982527"
 
 *버전 1808(빌드 10730.20386)*
 
-보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)에 나열되어 있습니다.
+보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열되어 있습니다.
 
 ## <a name="version-1902-september-10"></a>버전 1902: 9월 10일
 *버전 1902 (빌드 11328.20420)*
 
-보안 업데이트가 [여기](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)에 나열되어 있습니다.
+보안 업데이트가 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열되어 있습니다.
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
@@ -212,7 +212,7 @@ ms.locfileid: "42982527"
 ## <a name="version-1808-september-10"></a>버전 1808: 9월 10일
 *버전 1808 (빌드 10730.20380)*
 
-보안 업데이트가 [여기](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)에 나열되어 있습니다.
+보안 업데이트가 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열되어 있습니다.
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -225,7 +225,7 @@ ms.locfileid: "42982527"
 ## <a name="version-1902-august-13"></a>버전 1902: 8월 13일
 *버전 1902 (빌드 11328.20392)*
 
-보안 업데이트가 [여기](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)에 나열되어 있습니다.
+보안 업데이트가 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열되어 있습니다.
 
 ### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트
 - 표에서 필터링된 슬라이서와 필터링되지 않은 슬라이서 모두에 대해 필터 지우기 아이콘이 표시되는 문제가 해결되었습니다.
@@ -247,7 +247,7 @@ ms.locfileid: "42982527"
 ## <a name="version-1808-august-13"></a>버전 1808 8월 13일
 *버전 1808(빌드 10730.20370)*
 
-보안 업데이트가 [여기](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)에 나열되어 있습니다.
+보안 업데이트가 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열되어 있습니다.
 
 ### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
 - 특정한 경우에 Office JavaScript 라이브러리에서 API 설정이 수행되지 않는 문제가 해결되었습니다. [자세한 정보](https://support.microsoft.com/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
@@ -256,7 +256,7 @@ ms.locfileid: "42982527"
 ## <a name="version-1803-august-13"></a>버전 1803 8월 13일
 *버전 1803(빌드 9126.2432)*
 
-보안 업데이트가 [여기](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)에 나열되어 있습니다.
+보안 업데이트가 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열되어 있습니다.
 
 ### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
 - 특정한 경우에 Office JavaScript 라이브러리에서 API 설정이 수행되지 않는 문제가 해결되었습니다. [자세한 정보](https://support.microsoft.com/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
@@ -264,7 +264,7 @@ ms.locfileid: "42982527"
 
 ## <a name="version-1902-july-09"></a>버전 1902: 7월 9일
 *버전 1902(빌드 11328.20368)*
-<br/>보안 업데이트가 [여기](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)에 나열됨
+<br/>보안 업데이트가 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열됨
 
 
 ### <a name="access-feature-updates"></a>Access: 기능 업데이트
@@ -432,7 +432,7 @@ ms.locfileid: "42982527"
 
 ## <a name="version-1808-july-09"></a>버전 1808: 7월 9일
 *버전 1808(빌드 10730.20360)*
-<br/>보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)에 나열되어 있습니다.
+<br/>보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열되어 있습니다.
 
 
 ### <a name="word-non-security-updates"></a>Word: 비보안 업데이트
@@ -447,12 +447,12 @@ ms.locfileid: "42982527"
 
 ## <a name="version-1803-july-09"></a>버전 1803: 7월 9일
 *버전 1803(빌드 9126.2428)*
-<br/>보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)에 나열되어 있습니다.
+<br/>보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열되어 있습니다.
 
 
 ## <a name="version-1808-june-11"></a>버전 1808: 6월 11일
 *버전 1808(빌드 10730.20348)*
-<br/>보안 업데이트가 [여기](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)에 나열됨
+<br/>보안 업데이트가 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열됨
 
 ### <a name="word-non-security-updates"></a>Word: 비보안 업데이트
  - 파일을 체크 아웃할 때 서명 제거에 발생하는 문제가 해결되었습니다.
@@ -462,7 +462,7 @@ ms.locfileid: "42982527"
 
 ## <a name="version-1803-june-11"></a>버전 1803: 6월 11일
 *버전 1803(빌드 9126.2388)*
-<br/>보안 업데이트가 [여기](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)에 나열됨 
+<br/>보안 업데이트가 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열됨 
 
 ## <a name="version-1808-may-14"></a>버전 1808: 5월 14일
 *버전 1808(빌드 10730.20344)*   
@@ -501,7 +501,7 @@ ms.locfileid: "42982527"
 - 일본의 새로운 시대를 위해서 Word 일본어 엽서 마법사 추가 기능에 대한 지원을 추가했습니다. 
 
 ## <a name="version-1803-april-9"></a>버전 1803: 4월 9일
-- 보안 업데이트는 [여기](office365-proplus-security-updates.md)에 나열되어 있습니다.
+- 보안 업데이트는 [여기](microsoft365-apps-security-updates.md)에 나열되어 있습니다.
 
 ## <a name="version-1808-march-12"></a>버전 1808: 3월 12일
 *버전 1808(빌드 10730.20304)*
@@ -520,7 +520,7 @@ ms.locfileid: "42982527"
 - Office 업데이트 다운로드를 시도할 때 일정 시간 멈추는 문제를 해결했습니다.
 
 ## <a name="version-1803-march-12"></a>버전 1803: 3월 12일 
-- 보안 업데이트는 [여기](office365-proplus-security-updates.md)에 나열되어 있습니다.
+- 보안 업데이트는 [여기](microsoft365-apps-security-updates.md)에 나열되어 있습니다.
 
 ## <a name="version-1808-february-12"></a>버전 1808: 2월 12일
 *버전 1808(빌드 10730.20280)*

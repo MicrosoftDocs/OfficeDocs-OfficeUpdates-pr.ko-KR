@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2018년 Office 365 ProPlus에 대한 반기 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 6ffd421e4ecdacb50d44677333c814d41b48d123
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: ab7cdeb05800c0f98f97bf895f1c88c167075ff9
+ms.sourcegitcommit: 45f5df6186e148390dac8910bb6e728a618589b2
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42615008"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "44163550"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2018"></a>2018년 반기 채널 릴리스에 대한 릴리스 정보
 
@@ -27,7 +27,7 @@ ms.locfileid: "42615008"
 > - 반기 채널이 2018년 1월 이전에는 지연 채널로 지칭되었습니다.
 
 > [!NOTE]
-> - Office 365 ProPlus의 각 업데이트 채널의 보안 업데이트 정보는 [보안 업데이트](office365-proplus-security-updates.md)에 별도로 열거될 것입니다.
+> - Office 365 ProPlus의 각 업데이트 채널의 보안 업데이트 정보는 [보안 업데이트](microsoft365-apps-security-updates.md)에 별도로 열거될 것입니다.
 
 ## <a name="version-1803-december-11"></a>버전 1803: 12월 11일
 *버전 1803(빌드 9126.2336)*
