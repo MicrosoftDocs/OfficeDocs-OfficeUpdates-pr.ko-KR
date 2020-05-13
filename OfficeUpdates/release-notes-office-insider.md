@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 21c3262a0d258e5dd50a50c1edc33ed06164b29a
-ms.sourcegitcommit: 13b981a8a5ef2ac7c68f245213167026bdd0bdea
+ms.openlocfilehash: daf99ff348d31230f1905d35484e5ec1ba139c2d
+ms.sourcegitcommit: 2facbab73987c72b5118c055e32f3dfab13822af
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43997481"
+ms.lasthandoff: 05/08/2020
+ms.locfileid: "44170628"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 참가자에 대한 릴리스 정보
 
@@ -25,6 +25,43 @@ ms.locfileid: "43997481"
 > - 릴리스 정보 게시 날짜는 실제 빌드 릴리스 날짜와 일치하지 않을 수 있습니다.
 
 [//]: # (제거하지 마세요)
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2006-may-08"></a>버전 2006: 5월 8일
+*버전 2006(빌드 12829.20000)*
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="excel"></a>Excel
+
+- **대화에서 애니메이션 GIF 사용:** 애니메이션 GIF가 이제 Office 편집기에서 지원됩니다. 이제 문서가 더욱 돋보입니다.
+
+### <a name="outlook"></a>Outlook
+
+- **즉시 더 나은 결과 얻기:** 이전보다 더 스마트하고, 빠르고, 안정적이 되도록 검색 환경을 업데이트했습니다. [자세한 정보](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
+
+- **대화에서 애니메이션 GIF 사용:** 애니메이션 GIF가 이제 Office 편집기에서 지원됩니다. 이제 문서가 더욱 돋보입니다.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **대화에서 애니메이션 GIF 사용:** 애니메이션 GIF가 이제 Office 편집기에서 지원됩니다. 이제 문서가 더욱 돋보입니다. [자세한 정보](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
+
+### <a name="word"></a>Word
+
+- **대화에서 애니메이션 GIF 사용:** 애니메이션 GIF가 이제 Office 편집기에서 지원됩니다. 이제 문서가 더욱 돋보입니다.
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="office-suite"></a>Office 제품군
+
+- OS를 종료하면 InTune을 통한 Office 365 ProPlus 배포가 일시 중지되는 문제를 조사하고 해결했습니다.
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
@@ -81,14 +118,9 @@ ms.locfileid: "43997481"
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
+
 ## <a name="version-2005-april-24"></a>버전 2005: 4월 24일
 *버전 2005(빌드 12816.20006)*
-
-[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
-
-[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
-
-<br/>
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
@@ -109,6 +141,7 @@ ms.locfileid: "43997481"
 - 이 변경 사항은 "값 대신 필드 코드 표시" 옵션을 사용하도록 설정한 경우 하이퍼링크가 포함된 텍스트를 표시할 수 없는 문제를 해결 합니다.
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
 
 ## <a name="version-2005-april-17"></a>버전 2005: 4월 17일
 *버전 2005(빌드 12810.20002)*
@@ -139,9 +172,8 @@ ms.locfileid: "43997481"
 - SharePoint 작업 목록에 연결된 프로젝트에서 보드 상태 필드를 변경하면 Project가 중단되는 문제를 해결했습니다.
 - 이전 버전의 Project에서 만든 프로젝트를 저장하면 Project가 충돌할 수 있는 문제를 해결했습니다.
 
-
-
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
 
 ## <a name="version-2004-april-10"></a>버전 2004: 4월 10일
 *버전 2004(빌드 12730.20024)*
