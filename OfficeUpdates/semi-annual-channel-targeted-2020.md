@@ -9,23 +9,117 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 앱에 대한 반기 채널(대상 지정) 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: e4ab90ee506a9b9899a65e61de380323d347f961
-ms.sourcegitcommit: ea14838e5a137a296a86b564cdb711fbc54e9940
+ms.openlocfilehash: 8cf9ae0e43417941ec588ff3c45835d7d613488a
+ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44044601"
+ms.lasthandoff: 05/12/2020
+ms.locfileid: "44211233"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2020"></a>2020년 반기 채널(대상 지정) 릴리스에 대한 릴리스 정보
 
 이러한 릴리스 정보는 엔터프라이즈용 Microsoft 365 앱, 비즈니스용 Microsoft 365 앱, Project와 Visio 데스크톱 앱의 구독 버전에 대한 2020년 반기별 채널(대상 지정) 업데이트에 포함된 새로운 기능 및 비보안 업데이트 관련 정보를 제공합니다.
 
+> [!IMPORTANT]
+> 당사는 Microsoft 365 앱에 대한 업데이트 채널을 일부 변경하고 있습니다. 여기에는 새 업데이트 채널 추가(월별 엔터프라이즈 채널) 및 기존 업데이트 채널의 이름 변경 등이 포함됩니다. 자세한 내용은 [이 문서를 검토하세요](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 
+
+## <a name="version-2002-may-12"></a>버전 2002: 5월 12일
+*버전 2002 (빌드 12527.20612)*
+
+나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+
+### <a name="excel"></a>Excel
+
+- 다수의 다양한 통합 문서(특히 숨겨진 창)를 참조하는 통합 문서를 열면 예상보다 느리게 열립니다.
+
+- 경우에 따라 CSV 파일을 여는 데 소요되는 시간이 예상보다 더 오래 걸렸습니다.
+
+- 다른 확대/축소 단계를 사용하는 통합 문서 사이를 전환할 때 일부의 경우에 Excel의 작동이 중단될 수 있습니다.
+
+- 범위에 값을 입력하는 것이 예상한 것 보다 느려지는 VBA 문제를 해결하였습니다.
+
+- 색을 기준으로 필터링 된 열에서 복사한 데이터가 가끔 제대로 붙여 넣어지지 않습니다.
+
+- 일부 경우에 피벗 테이블을 포함하는 시트를 복사한 후 Excel의 작동이 중단되는 문제를 해결하였습니다.
+
+- Excel 2016에서 디지털 서명을 사용하여 저장한 통합 문서를 최신 버전의 Excel에서 열면 서명이 무효화 될 수 있습니다.
+
+- 파일을 저장하고 다시 열 때 차트 축의 "값 교점" 속성이 예기치 않게 변경되는 문제를 해결 하였습니다.
+
+- Range.Value와 Range.Value2 (VBA)를 사용하면 수식이 동적 배열로 입력됩니다.
+
+### <a name="onenote"></a>OneNote
+
+- 사용자가 OneNote 사용자 환경에서 시행되는 임시 조치에 대해 자세히 알아볼 수 있는 알림을 지역화하여 동기화 및 서비스 안정성을 개선합니다.
+
+- 사용자가 OneNote 사용자 환경에서 시행되는 임시 조치에 대해 자세히 알아볼 수 있는 알림을 표시하여 동기화 및 서비스 안정성을 개선합니다.
+
+- OneNote 2016에서 버전 기록 페이지의 수와 동기화 빈도를 일시적으로 줄임으로써 동기화 및 서비스 안정성을 개선했습니다.
+
+- OneNote 2016에서 일시적으로 휴지통을 비활성화하여 동기화 및 서비스 안정성을 개선시켰습니다. 사용자가 일반적으로 휴지통으로 전송될 데이터를 삭제하려고 하면, 사용자가 데이터를 유지할지 아니면 영구적으로 삭제할지 묻는 메시지가 표시됩니다.
+
+- OneNote 2016에서 동기화 빈도를 일시적으로 조정하여 동기화 및 서비스 안정성을 개선했습니다.
+
+- OneNote 2016에서 사용자가 해당 페이지로 이동할 때까지 온라인 전자 필기장에 있는 파일 및 이미지의 다운로드를 일시적으로 지연시켜 동기화 및 서비스 안정성을 개선했습니다.
+
+- OneNote 2016에서 앱 내 비디오 녹화를 일시적으로 사용하지 않도록 설정하여 동기화 및 서비스 안정성을 향상시켰습니다. 로컬 노트북은 이 조치의 영향을받지 않습니다.
+
+- OneNote 2016에서 새로운 내장 첨부 파일의 최대 허용 크기를 50MB로 일시적으로 줄여 동기화 및 서비스 안정성을 개선했습니다. 이 제한을 초과하는 파일의 경우 사용자는 선택적으로 파일을 OneDrive에 업로드하고 OneNote에 링크를 삽입할 수 있습니다.
+
+### <a name="outlook"></a>Outlook
+
+- 폴더 창의 너비가 예기치 않게 변경되는 문제를 해결했습니다.
+
+- Windows 업데이트 후 .msg와 .oft 파일을 여는 경우 작동이 멈추는 현상이 발생하는 문제를 해결하였습니다.
+
+- 대규모 HTML 메시지를 전달할 때 사용자에게 잘린 메시지 본문이 표시되던 문제를 해결했습니다.
+
+- 이 업데이트는 메시지를 보거나 작성할 때 Microsoft Outlook에서 현재 민감도 레이블을 표시하지 않는 문제를 해결합니다.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 개선된 설명이 있는 파일의 복사본을 여는 사용자에게 올바른 메시징을 릴레이하는 문제를 해결하였습니다.
+
+### <a name="word"></a>Word
+
+- 설치된 언어에 따라 Access 및 Publisher가 제대로 부팅되지 않을 수 있는 문제를 해결하였습니다.
+
+- 편집에 대해 보호된 문서의 비교 기능 문제를 해결하였습니다.
+
+- 2개의 문서를 하나로 병합할 때 발생하는 문제를 해결하였습니다.
+
+### <a name="office-suite"></a>Office 제품군
+
+- 파일을 클라이언트에 캐시할 때 Project 앱이 네트워크를 차단하지 않도록 하는 문제를 해결하기 위한 수정입니다.
+
+- 내부 작업이 실패 시 로깅을 하고 계속 진행하는 대신 예외를 발생시키는 문제를 해결했습니다. 영향을 받은 사용자는 더 이상 업데이트를 받을 수 없도록 차단되지 않습니다.
+
+- 이렇게 변경하면 스케치된 개요가 리본에서 제대로 작동합니다.
+
+- 특정 프록시 구성을 사용하여 온-프레미스 위치에서 파일을 여는 동안 발생하는 문제를 수정하였습니다.
+
+- 이 업데이트는 라이브러리 이름 또는 라이브러리 경로에 DBCS 문자가 있는 코드 라이브러리에 대한 참조를 포함하는 특정 VBA 프로젝트를 로드할 때 Office 응용 프로그램에서 손상된 것으로 보이는 Microsoft Office의 VBA(Visual Basic for Applications) 문제를 해결합니다.
+
+- 이 업데이트는 PATH 환경 변수에서 지정된 위치를 검색하여 찾을 수 있는 사항을 참고로 하는 Visual Basic for Applications 프로젝트가 런타임에 제대로 발견되지 않아 VBA 런타임 오류로 이어질 수 있는 Microsoft Office에서의 문제를 해결합니다. 
+
+- 이 업데이트는 레이블 정책에서 머리글/바닥글 또는 워터 마크를 적용한 경우 레이블을 변경하거나 제거하여 민감도 레이블을 적용하는 동안 삽입된 255자를 초과하는 텍스트를 차후에 식별하고 제거할 수 없는 Microsoft Word에서의 문제를 해결합니다.
+
+- Office 전달 세션 중에 충돌을 없애고 사용자 환경의 안정성을 개선했습니다.  
+
+- 이 버그는 ECS(향상된 구성 서비스) URL 끝점을 업데이트합니다. 이 최신 끝점의 호출은 ECS에서 가져오기의 성공률이 높습니다.
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2002-april-14"></a>버전 2002: 4월 14일
 *버전 2002 (빌드 12527.20442)*
 
-나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 ### <a name="feature-updates"></a>기능 업데이트
@@ -67,7 +161,6 @@ ms.locfileid: "44044601"
 
 - 첨부 파일 도구에서 클라우드에 저장 단추가 누락되는 문제를 해결했습니다.
 
-
 ### <a name="powerpoint"></a>PowerPoint
 
 - 복사-붙여넣기 시나리오 개선: 파워포인트 슬라이드에서 도형을 복사하고 루프의 다른 슬라이드에 붙여넣을 때 예외적으로 실패할 수 있습니다.
@@ -94,7 +187,7 @@ ms.locfileid: "44044601"
 ## <a name="version-2002-march-10"></a>버전 2002: 3월 10일
 *버전 2002 (빌드 12527.20278)*
 
-나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
@@ -412,7 +505,7 @@ ms.locfileid: "44044601"
 ## <a name="version-1908-february-11"></a>버전 1908: 2월 11일
 *버전 1908(빌드 11929.20606)*
 
-[여기](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates) 나열된 보안 업데이트
+[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -480,7 +573,7 @@ ms.locfileid: "44044601"
 ## <a name="version-1908-january-14"></a>버전 1908: 1월 14일
 *버전 1908(빌드 11929.20562)*
 
-나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
