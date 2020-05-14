@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Windows 7용 Microsoft 365 앱의 업데이트 기록에 대한 릴리스 노트를 고객에게 제공합니다.
-ms.openlocfilehash: a724d0bedbb2770e55ad106870d4874bfaca6969
-ms.sourcegitcommit: 58d55cf532d1d02cca85772920a6dd71089b071d
+ms.openlocfilehash: d20299e5d54f8269519618d42b335d3008cef486
+ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43781601"
+ms.lasthandoff: 05/12/2020
+ms.locfileid: "44211193"
 ---
 # <a name="update-history-for-microsoft-365-apps-on-windows-7"></a>Windows 7의 Microsoft 365 앱 업데이트 기록 
 
@@ -41,6 +41,9 @@ Windows 7을 실행하는 장치에 2002 버전의 이전 버전이 여전히 �
 ##
 
 [//]: # (제거하지 마세요)
+
+**2020년 5월 12일**<br/>
+버전 2002(빌드 12527.20612)<br/>
 
 **2020년 4월 14일**<br/>
 버전 2002 (빌드 12527.20442)<br/>

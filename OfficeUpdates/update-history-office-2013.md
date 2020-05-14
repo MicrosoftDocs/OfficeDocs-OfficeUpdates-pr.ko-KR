@@ -9,19 +9,19 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 간편 실행을 사용하는 Office 2013 영구 버전에 대한 업데이트 기록을 IT 전문가에게 제공합니다.
-ms.openlocfilehash: ae18e941739bcbfd20cf4a7cadcdc515f09d157f
-ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
+ms.openlocfilehash: 587c06f30792a2f66104cb2fbf56af9a4f81af52
+ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43521146"
+ms.lasthandoff: 05/12/2020
+ms.locfileid: "44211203"
 ---
 # <a name="update-history-for-office-2013"></a>Office 2013에 대한 업데이트 기록
 
 대부분의 Office 2013 제품은 간편 실행이라는 기술을 사용하여 자동으로 최신 상태로 유지됩니다. 최신 상태인지 확인하려는 경우 Office 버전 번호를 확인하고 필요한 경우 Office를 직접 수동으로 업데이트합니다.
   
 > [!NOTE]
-> 최신 버전의 Office 2013은 2020년 4월 14일에 릴리스된 **15.0.5233.1000**입니다.
+> 최신 버전의 Office 2013은 2020년 5월 12일에 릴리스된 **15.0.5241.1000**입니다.
   
 Office의 버전을 확인하려면 다음을 수행합니다.
   
@@ -45,7 +45,8 @@ Office의 버전을 확인하려면 다음을 수행합니다.
   
 |**릴리스 연도**|**릴리스 날짜**|**버전 번호**|**추가 정보**|
 |:-----|:-----|:-----|:-----|
-|2020|4월 14일   |15.0.5233.1000   |[KB 4549670 ](https://support.microsoft.com/help/4549670 )  |
+|2020|5월 12일   |15.0.5241.1000   |[KB 4549680 ](https://support.microsoft.com/help/4549680 )  |
+||4월 14일   |15.0.5233.1000   |[KB 4549670 ](https://support.microsoft.com/help/4549670 )  |
 ||3월 13일   |15.0.5223.1001   |[KB 4538705 ](https://support.microsoft.com/help/4538705 )  |
 ||2월 11일   |15.0.5215.1000   |[KB 4538704](https://support.microsoft.com/help/4538704)  |
 ||1월 14일   |15.0.5207.1000   |[KB 4536554](https://support.microsoft.com/help/4536554)  |

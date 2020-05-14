@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT 전문가에게 Microsoft 365 앱 보안 업데이트에 대한 릴리스 정보를 제공합니다.
-ms.openlocfilehash: b2a54edbf0d9f1960f4a52ef112741e6220e8821
-ms.sourcegitcommit: 45f5df6186e148390dac8910bb6e728a618589b2
+ms.openlocfilehash: 91538ad859fe5dc3d45a73d0798ff21708f6178b
+ms.sourcegitcommit: 18f8f5d6dcd9743005ae2ba87c8e9e2d9edfe8c4
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "44138547"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44211708"
 ---
 # <a name="release-notes-for-microsoft-365-apps-security-updates"></a>Microsoft 365 앱 보안 업데이트에 대한 릴리스 정보
 
@@ -24,11 +24,32 @@ ms.locfileid: "44138547"
 
 
 > [!IMPORTANT]
-> Office 365 ProPlus는 2004 버전부터 엔터프라이즈용 Microsoft 365 앱으로 이름이 변경됩니다. 자세한 내용은  [이 문서를 참조하세요](https://go.microsoft.com/fwlink/p/?linkid=2123420). 이 문서에서는 일반적으로 Microsoft 365 Apps라고 지칭합니다.
+> - 당사는 Microsoft 365 앱에 대한 업데이트 채널을 일부 변경하고 있습니다. 여기에는 새 업데이트 채널 추가(월별 엔터프라이즈 채널) 및 기존 업데이트 채널의 이름 변경 등이 포함됩니다. 자세한 내용은 [이 문서를 참조](https://go.microsoft.com/fwlink/p/?linkid=2127441)하세요.
+> - Office 365 ProPlus는 2004 버전부터 엔터프라이즈용 Microsoft 365 앱으로 이름이 변경됩니다.자세한 내용은  [이 문서를 검토하세요](https://go.microsoft.com/fwlink/p/?linkid=2123420).이 문서에서는 일반적으로 이를 Microsoft 365 앱이라고 지칭합니다.
+
 
  
 
 [//]: # (공백으로 사용하므로, 위의 선을 삭제하지 마세요.)  
+
+## <a name="may-12-2020"></a>2020년 5월 12일
+월별 채널: 버전 2004(빌드 12730.20270)  
+월별 엔터프라이즈 채널: 버전 2003(빌드 12624.20588)  
+반기 채널(대상 지정): 버전 2002(빌드 12527.20612)  
+반기 채널: 버전 1908(빌드 11929.20776)  
+반기 채널: 버전 1902(빌드 11328.20586)  
+Windows 7 기반 Microsoft 365 앱: 버전 2002 (빌드 12527.20612)  
+
+[//]: # (보안 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-0901](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0901)
+
+[//]: # (보안 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+
 
 ## <a name="april-14-2020"></a>2020년 4월 14일
 월별 채널: 버전 2003(빌드 12624.20442)  

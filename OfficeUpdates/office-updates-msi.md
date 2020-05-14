@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Office 2016, Office 2013 및 Office 2010 영구 버전의 최신 업데이트 정보에 대한 링크를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 0722451054ca143930e8eef868b8a87a2d7803df
-ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
+ms.openlocfilehash: f54cf14c4c93da7323aa839cee4d10143e98997a
+ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43521266"
+ms.lasthandoff: 05/12/2020
+ms.locfileid: "44211243"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Windows Installer(MSI)를 사용하는 Office 버전에 대한 최신 업데이트
 
@@ -23,7 +23,7 @@ ms.locfileid: "43521266"
  
 > [!NOTE]
 > - 이 문서의 정보는 Windows Installer(MSI) 설치 기술을 사용하는 영구 버전의 Office에만 적용됩니다. 예를 들어, 볼륨 라이선스 버전의 Office(예: Office Professional Plus 2016)를 설치한 경우가 여기에 해당합니다.
-> - 이 문서의 정보는 Office 365 ProPlus와 같은 Office 365 버전의 Office에는 적용되지 않습니다.
+> - 이 문서의 정보는 Microsoft 365 앱에 적용되지 않습니다.
 > - Office 업데이트 설치에 대한 자세한 내용은 [Office 업데이트 설치](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)를 참조하세요. 
 
 
@@ -31,13 +31,13 @@ ms.locfileid: "43521266"
 
 |**버전 및 제품**|**최신 SP(서비스 팩)**|**최신 PU(공개 업데이트)**|
 |:-----|:-----|:-----|
-|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |해당 없음  <br/> |2020년 4월 PU  <br/> [KB4549670](https://support.microsoft.com/help/4549670) <br/> |
+|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |해당 없음  <br/> |2020년 5월 PU  <br/> [KB4549680](https://support.microsoft.com/help/4549680) <br/> |
    
 ## <a name="office-2013-updates"></a>Office 2013 업데이트
 
 |**버전 및 제품**|**최신 SP(서비스 팩)**|**최신 PU(공개 업데이트)**|
 |:-----|:-----|:-----|:-----|
-|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |2020년 4월 PU  <br/> [KB4549670](https://support.microsoft.com/help/4549670) <br/> |
+|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |2020년 5월 PU  <br/> [KB4549680](https://support.microsoft.com/help/4549680) <br/> |
    
 ## <a name="office-2010-updates"></a>Office 2010 업데이트
 > [!IMPORTANT]
@@ -45,11 +45,13 @@ Office 2010에 대한 지원이 2020년 10월 13일에 종료됩니다. 아직 O
 
 |**버전 및 제품**|**최신 SP(서비스 팩)**|**최신 PU(공개 업데이트)**|
 |:-----|:-----|:-----|:-----|
-|**2010** <br/> Office 2010 제품군  <br/> Project 2010  <br/> Visio 2010  <br/> Office 2010 서버  <br/> Office Web Apps  <br/> Search Server 2010  <br/> SharePoint 2010 제품  <br/> Project Server 2010  <br/> FAST Search Server 2010 for SharePoint  <br/> |SP2 <br/>[KB2687521](https://support.microsoft.com/kb/2687521) <br/> [KB2687522](https://support.microsoft.com/kb/2687522) <br/> |2020년 4월 PU  <br/> [KB4549670](https://support.microsoft.com/help/4549670) <br/>|
+|**2010** <br/> Office 2010 제품군  <br/> Project 2010  <br/> Visio 2010  <br/> Office 2010 서버  <br/> Office Web Apps  <br/> Search Server 2010  <br/> SharePoint 2010 제품  <br/> Project Server 2010  <br/> FAST Search Server 2010 for SharePoint  <br/> |SP2 <br/>[KB2687521](https://support.microsoft.com/kb/2687521) <br/> [KB2687522](https://support.microsoft.com/kb/2687522) <br/> |2020년 5월 PU  <br/> [KB4549680](https://support.microsoft.com/help/4549680) <br/>|
    
 
    
 ## <a name="updates-released-in-past-12-months"></a>지난 12개월 동안 릴리스된 업데이트
+
+[2020년 5월용 보안 및 비보안 업데이트: KB4549680](https://support.microsoft.com/help/4549680)
 
 [2020년 4월용 보안 및 비보안 업데이트: KB4549670](https://support.microsoft.com/help/4549670)
 
@@ -73,7 +75,6 @@ Office 2010에 대한 지원이 2020년 10월 13일에 종료됩니다. 아직 O
 
 [2019년 6월용 보안 및 비보안 업데이트: KB4505743](https://support.microsoft.com/help/4505743)
 
-[2019년 5월용 보안 및 비보안 업데이트: KB4501270](https://support.microsoft.com/help/4501270)
 
  
 

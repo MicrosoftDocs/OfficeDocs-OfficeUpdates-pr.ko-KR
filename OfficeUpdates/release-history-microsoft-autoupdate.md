@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT 전문가에게 MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록을 제공합니다.
-ms.openlocfilehash: dbff1347c742bb0e0fc7a2e13df822f35da00496
-ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
+ms.openlocfilehash: dca350f83b16f776048c64b2fc023f53980be5ef
+ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714678"
+ms.lasthandoff: 05/12/2020
+ms.locfileid: "44211113"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록
  
@@ -29,6 +29,26 @@ ms.locfileid: "43714678"
 > - Microsoft 자동 업데이트는 Microsoft의 다양한 Mac 제품에 대한 업데이트를 제공합니다. 따라서 Mac용 Office를 실행하고 있지 않더라도 Microsoft 자동 업데이트를 업데이트하라는 알림을 받을 수 있습니다.
 
 릴리스 정보를 확인하려면 [릴리스 정보](release-notes-office-for-mac.md)를 참고하세요.<br/><br/>
+
+## <a name="may-2020-release"></a>2020년 5월 릴리스
+
+**릴리스 날짜:** 2020년 5월 12일
+
+*Microsoft 자동 업데이트 4.23*
+
+**버그 수정 및 개선 사항:**
+- MacOS 10.13 이상과 Office 2016 버전을 사용하는 디바이스의 경우, 사용자에게 지원 종료에 도달하는 Office 2016에 대한 알림이 표시됩니다. 
+- Word, Excel 및 Powerpoint 앱에 열린 창이 없고 디바이스가 Microsoft 자동 업데이트의 자동 업데이트 모드에 있는 경우, 업데이트를 적용하기 위해 해당 앱을 종료하지 않아도 됩니다. 3. 이제 업데이트 대시보드를 새로 고치거나 새 자동 업데이트 세션을 시작하지 않아도, Microsoft 자동 업데이트에서 CDN의 최신 릴리스로 업데이트 대시보드를 자동으로 새로 고칩니다.
+
+**MAU 업데이트 링크:**
+
+[Microsoft 자동 업데이트 4.23 패키지 다운로드](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 해시:**
+
+7DAB76D11427BACF30D3DBD87374CE755C618262E68FC3CA85B3FB8F3F3750AD
+
+<br/><br/>
 
 ## <a name="april-2020-release"></a>2020년 4월 릴리스
 
