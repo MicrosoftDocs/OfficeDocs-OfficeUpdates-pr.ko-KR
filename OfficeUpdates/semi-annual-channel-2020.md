@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 앱에 대한 반기 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 6074529d8a37228a191ae9e5d4a93d966a8d15ad
-ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
+ms.openlocfilehash: 6619411170491543c4853e6db56fa845a7adc6e3
+ms.sourcegitcommit: fb97680a81c7d96b0f0f539dc3e3c8c28ad654e9
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/12/2020
-ms.locfileid: "44210863"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44222081"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>2020년 반기 채널 릴리스에 대한 릴리스 정보
 
@@ -65,6 +65,7 @@ ms.locfileid: "44210863"
 - 첨부 파일 도구에서 "클라우드에 저장" 단추가 누락되는 문제를 해결했습니다.
 
 - 기본적으로 보존 정책 레이블에는 보존 기간이 괄호로 표시됩니다. 이는 관리자가 정책 이름만 표시하도록 지정할 수 있는 레지스트리 키를 제공합니다. HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Preferences\HideRetentionPolicyDuration. 0 = 기본값입니다.  1 = 보존 정책 텍스트의 PolicyName만 표시됩니다.
+
 
 ### <a name="word"></a>Word
 
