@@ -9,24 +9,87 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 앱에 대한 반기 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 0c068fd85c8a29c18ad4aa512ab6027d2c1c0b64
-ms.sourcegitcommit: ea14838e5a137a296a86b564cdb711fbc54e9940
+ms.openlocfilehash: 6074529d8a37228a191ae9e5d4a93d966a8d15ad
+ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44044591"
+ms.lasthandoff: 05/12/2020
+ms.locfileid: "44210863"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>2020년 반기 채널 릴리스에 대한 릴리스 정보
 
 이러한 릴리스 정보는 엔터프라이즈용 Microsoft 365 앱, 비즈니스용 Microsoft 365 앱, Project와 Visio 데스크톱 앱의 구독 버전에 대한 2020년 반기별 채널 업데이트에 포함된 새로운 기능 및 비보안 업데이트 관련 정보를 제공합니다.
+
+> [!IMPORTANT]
+> 당사는 Microsoft 365 앱에 대한 업데이트 채널을 일부 변경하고 있습니다. 여기에는 새 업데이트 채널 추가(월별 엔터프라이즈 채널) 및 기존 업데이트 채널의 이름 변경 등이 포함됩니다. 자세한 내용은 [이 문서를 검토하세요](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 
 > [!NOTE]
 >
 >- 반기 채널의 사용자가 Office Portal에서 Microsoft 365 앱을 다운로드하여 Windows 10에 설치하는 경우 이제 OneNote 2016이 기본적으로 포함됩니다.
 
 
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-1908-may-12"></a>버전 1908: 5월 12일
+*버전 1908(빌드 11929.20776)*
+
+나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+
+### <a name="excel"></a>Excel
+
+- 색을 기준으로 필터링된 데이터를 다른 너비의 열에 복사하면 값의 붙여넣기가 되지 않습니다.
+
+- VBA 매크로를 사용하여 범위의 내용을 지우면 사용자가 경험할 수 있는 성능 문제를 해결했습니다.
+
+- 범위에 값을 입력하는 것이 예상외로 느려지는 VBA 문제를 해결했습니다.
+
+- 파일을 저장하고 다시 열 때 차트 축의 "값 교점" 속성이 예기치 않게 변경되는 문제를 해결 하였습니다.
+
+- Excel 2016에서 디지털 서명을 사용하여 저장한 통합 문서를 최신 버전의 Excel에서 열면 서명이 무효가 될 수 있습니다.
+
+### <a name="onenote"></a>OneNote
+
+- 사용자가 OneNote 사용자 환경에서 시행되는 임시 조치에 대해 자세히 알아볼 수 있는 알림을 지역화하여 동기화 및 서비스 안정성을 개선합니다.
+
+### <a name="outlook"></a>Outlook
+
+- 최신 Windows 업데이트 적용 후 .msg와 .oft 파일을 여는 경우 작동이 멈추는 현상이 발생하는 문제를 해결하였습니다.
+
+- 특정 검색 결과를 선택할 때 작동이 멈추는 문제를 해결했습니다.
+
+- 첨부 파일 도구에서 "클라우드에 저장" 단추가 누락되는 문제를 해결했습니다.
+
+- 기본적으로 보존 정책 레이블에는 보존 기간이 괄호로 표시됩니다. 이는 관리자가 정책 이름만 표시하도록 지정할 수 있는 레지스트리 키를 제공합니다. HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Preferences\HideRetentionPolicyDuration. 0 = 기본값입니다.  1 = 보존 정책 텍스트의 PolicyName만 표시됩니다.
+
+### <a name="word"></a>Word
+
+- 2개의 문서를 하나로 병합할 때 발생하는 문제를 해결했습니다.
+
+- 편집에 대해 보호된 문서의 기능 비교 문제가 해결되었습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-1902-may-12"></a>버전 1902: 5월 12일
+*버전 1902(빌드 11328.20586)*
+
+나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="outlook"></a>Outlook
+
+- 최신 Windows 업데이트 적용 후 .msg와 .oft 파일을 여는 경우 작동이 멈추는 현상이 발생하는 문제를 해결하였습니다.
+
+- 기본적으로 보존 정책 레이블에는 보존 기간이 괄호로 표시됩니다. 이는 관리자가 정책 이름만 표시하도록 지정할 수 있는 레지스트리 키를 제공합니다. HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Preferences\HideRetentionPolicyDuration. 0 = 기본값입니다.  1 = 보존 정책 텍스트의 PolicyName만 표시됩니다.
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -50,7 +113,7 @@ ms.locfileid: "44044591"
 ## <a name="version-1908-april-14"></a>버전 1908: 4월 14일
 *버전 1908(빌드 11929.20708)*
 
-나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -84,14 +147,14 @@ ms.locfileid: "44044591"
 ## <a name="version-1902-april-14"></a>버전 1902: 4월 14일
 *버전 1902(빌드 11328.20564)*
 
-나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-1908-march-10"></a>버전 1908: 3월 10일
 *버전 1908 (빌드 11929.20648)*
 
-나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -125,14 +188,14 @@ ms.locfileid: "44044591"
 ## <a name="version-1902-march-10"></a>버전 1902: 3월 10일
 *버전 1902 (빌드 11328.20554)*
 
-나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-1908-february-11"></a>버전 1908: 2월 11일
 *버전 1908(빌드 11929.20606)*
 
-[여기](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates) 나열된 보안 업데이트
+[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -200,7 +263,7 @@ ms.locfileid: "44044591"
 ## <a name="version-1902-february-11"></a>버전 1902: 2월 11일
 *버전 1902 (빌드 11328.20526)*
 
-[여기](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates) 나열된 보안 업데이트
+[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -222,14 +285,14 @@ ms.locfileid: "44044591"
 ## <a name="version-1808-february-11"></a>버전 1808: 2월 11일
 *버전 1808 (빌드 10730.20438)*
 
-[여기](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates) 나열된 보안 업데이트
+[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-1908-january-14"></a>버전 1908: 1월 14일
 *버전 1908(빌드 11929.20562)*
 
-나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
@@ -591,7 +654,7 @@ ms.locfileid: "44044591"
 ## <a name="version-1902-january-14"></a>버전 1902: 1월 14일
 *버전 1902(빌드 11328.20512)*
 
-나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -619,7 +682,7 @@ ms.locfileid: "44044591"
 ## <a name="version-1808-january-14"></a>버전 1808: 1월 14일
 *버전 1808(빌드 10730.20432)*
 
-나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
