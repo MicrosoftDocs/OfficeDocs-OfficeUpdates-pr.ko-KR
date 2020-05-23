@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 각 업데이트 채널에 대한 Microsoft 365 앱 업데이트의 대략적인 다운로드 크기 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 77ecb79a3fbc6af85b16cd48aa375b698324b451
-ms.sourcegitcommit: d062befb07b0fae74b30bce2a10cdec248c252ad
+ms.openlocfilehash: b1d25b4ab4db03580e3a108fcb0435a659c2df0f
+ms.sourcegitcommit: 18f8f5d6dcd9743005ae2ba87c8e9e2d9edfe8c4
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/08/2020
-ms.locfileid: "44163520"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44211718"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 앱 업데이트의 다운로드 크기
 
@@ -26,13 +26,55 @@ Microsoft의 목표는 기업 고객이 네트워크 대역폭 사용률을 계�
 
 
 > [!IMPORTANT]
-> Office 365 ProPlus는 2004 버전부터 엔터프라이즈용 Microsoft 365 앱으로 이름이 변경됩니다.자세한 내용은  [이 문서를 검토하세요](https://go.microsoft.com/fwlink/p/?linkid=2123420).이 문서에서는 일반적으로 이를 Microsoft 365 앱이라고 지칭합니다.
+> - 당사는 Microsoft 365 앱에 대한 업데이트 채널을 일부 변경하고 있습니다. 여기에는 새 업데이트 채널 추가(월별 엔터프라이즈 채널) 및 기존 업데이트 채널의 이름 변경 등이 포함됩니다. 자세한 내용은 [이 문서를 검토하세요](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> - Office 365 ProPlus는 2004 버전부터 엔터프라이즈용 Microsoft 365 앱으로 이름이 변경됩니다.자세한 내용은  [이 문서를 검토하세요](https://go.microsoft.com/fwlink/p/?linkid=2123420).이 문서에서는 일반적으로 이를 Microsoft 365 앱이라고 지칭합니다.
+
 
 > [!NOTE]
 > - 표에 나열된 대략적인 다운로드 크기는 Microsoft 365 앱 en-us x64 버전에만 적용됩니다.
 > - 지난 4개월 동안의 릴리스만 표시됩니다.
 
 [//]: # (제거하지 마세요)
+
+## <a name="may-12-2020"></a>2020년 5월 12일
+
+[//]: # (콘텐츠를 제거하지 마세요. 시작 2020년 5월 12일)
+
+### <a name="monthly-channel"></a>월별 채널
+
+가장 최근 릴리스는 버전 2004(빌드 12730.20270)입니다.
+
+|**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
+|:-----|:-----|:-----|
+|버전 2004(빌드 12730.20250) <br/> |2020년 5월 4일 <br/> |188<br/> |
+|버전 2004(빌드 12730.20236) <br/> |2020년 4월 29일 <br/> |172<br/> |
+
+
+### <a name="monthly-enterprise-channel"></a>월 단위 엔터프라이즈 채널
+
+가장 최근 릴리스는 버전 2003(빌드 12624.20588)입니다.
+
+### <a name="semi-annual-targeted-channel"></a>반기 (대상 지정) 채널
+
+가장 최근 릴리스는 버전 2002(빌드 12527.20612)입니다.
+
+|**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
+|:-----|:-----|:-----|
+|버전 2002(빌드 12527.20442) <br/> |2020년 4월 14일 <br/> |67<br/> |
+|버전 2002 (빌드 12527.20278) <br/> |2020년 3월 10일 <br/> |79<br/> |
+
+
+### <a name="semi-annual-channel"></a>반기 채널
+
+가장 최근 릴리스는 버전 1908(빌드 11929.20776)입니다.
+
+|**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
+|:-----|:-----|:-----|
+|버전 1908(빌드 11929.20708) <br/> |2020년 4월 14일 <br/> |66<br/> |
+|버전 1908(빌드 11929.20648) <br/> |2020년 3월 10일 <br/> |77<br/> |
+
+
+[//]: # (컨텐츠를 제거하지 마세요. 종료 2020년 5월 12일)
 
 
 ## <a name="may-4-2020"></a>2020년 5월 4일

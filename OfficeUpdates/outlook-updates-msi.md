@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Outlook 2016, Outlook 2013 및 Outlook 2010 영구 버전의 최신 업데이트 정보에 대한 링크를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 27cd8850398c5887b4cab2993d32403571e1611c
-ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
+ms.openlocfilehash: d5a8255e0737a0742dd11c81d71194d36bbc1b43
+ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43521066"
+ms.lasthandoff: 05/12/2020
+ms.locfileid: "44210883"
 ---
 # <a name="latest-updates-for-versions-of-outlook-that-use-windows-installer-msi"></a>Windows Installer(MSI)를 사용하는 Outlook 버전에 대한 최신 업데이트
 
@@ -22,13 +22,13 @@ ms.locfileid: "43521066"
   
 > [!NOTE]
 > - 이 문서의 정보는 Windows Installer(MSI) 설치 기술을 사용하는 영구 버전의 Outlook에만 적용됩니다. 예를 들어, 볼륨 라이선스 버전의 Outlook(예: Office Professional Plus 2016에 포함된 Outlook)을 설치한 경우가 여기에 해당합니다.
-> - 이 문서의 정보는 Office 365 ProPlus에 포함된 Outlook과 같은 Office 365 버전의 Outlook에는 적용되지 않습니다.
+> - 이 문서의 정보는 Microsoft 365 앱에 적용되지 않습니다.
 > - 사용 중인 Outlook 버전을 확인하려면 [내가 사용 중인 Outlook 버전은 무엇인가요?](https://support.office.com/article/b3a9568c-edb5-42b9-9825-d48d82b2257c)를 참조하세요.
 > - Office 업데이트 설치에 대한 자세한 내용은 [Office 업데이트 설치](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)를 참조하세요. 
   
-Office 365 및 온-프레미스 환경과의 Outlook 호환성은 배포에 대한 시스템 요구 사항에 따라 달라집니다.
+Microsoft 365 및 온-프레미스 환경과의 Outlook 호환성은 배포에 대한 시스템 요구 사항에 따라 달라집니다.
   
-- Office 365에서는 최신 버전의 Outlook 2016을 포함하여 기본적으로 지원되는 모든 Outlook 버전을 사용할 수 있습니다. 이전 버전의 Outlook의 경우 기능 제한이 있지만 확장 지원 대상인 Outlook만 Office 365에서 계속 사용할 수 있습니다. 자세한 내용은 [Microsoft 주기 정책](https://support.microsoft.com/lifecycle)을 참조하세요.
+- Microsoft 365에서는 최신 버전의 Outlook 2016을 포함하여 기본적으로 지원되는 모든 Outlook 버전을 사용할 수 있습니다. 이전 버전의 Outlook의 경우 기능 제한이 있지만 확장 지원 대상인 Outlook만 Microsoft 365에서 계속 사용할 수 있습니다. 자세한 내용은 [Microsoft 주기 정책](https://support.microsoft.com/lifecycle)을 참조하세요.
     
 - Exchange 온-프레미스 배포의 경우 사용 중인 Outlook 버전에 대한 시스템 요구 사항을 따르세요.
     
@@ -43,7 +43,7 @@ Office 365 및 온-프레미스 환경과의 Outlook 호환성은 배포에 대�
 
 |**최신 SP(서비스 팩)**|**최소 필수 업데이트**|**최신 PU(공개 업데이트)**|
 |:-----|:-----|:-----|
-|해당 없음  <br/> |2016년 3월 PU <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |2020년 4월 PU <br/>[KB4484274](https://support.microsoft.com/help/4484274) 
+|해당 없음  <br/> |2016년 3월 PU <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |2020년 5월 PU <br/>[KB4484343](https://support.microsoft.com/help/4484343) 
 
 ## <a name="outlook-2013-updates"></a>Outlook 2013 업데이트
 

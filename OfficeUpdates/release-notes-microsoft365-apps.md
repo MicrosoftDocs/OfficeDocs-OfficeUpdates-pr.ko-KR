@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 업데이트 채널별 Microsoft 365 앱의 최신 릴리스 및 릴리스 정보와 업데이트 기록에 대한 링크 목록을 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 892731e23b47f5c918d08db7b54a3ffc1a2acfa9
-ms.sourcegitcommit: 45f5df6186e148390dac8910bb6e728a618589b2
+ms.openlocfilehash: b6300a7742b43f0c820882c0362079e05530c55d
+ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "44163610"
+ms.lasthandoff: 05/12/2020
+ms.locfileid: "44211103"
 ---
 # <a name="release-information-for-updates-to-microsoft-365-apps"></a>Microsoft 365 앱 업데이트에 대한 릴리스 정보
 
@@ -33,18 +33,20 @@ ms.locfileid: "44163610"
 ## <a name="update-history-for-microsoft-365-apps-releases"></a>Microsoft 365 앱 릴리스의 업데이트 기록
 
 각 채널의 릴리스 및 지원되는 버전의 전체 목록은 다음 문서를 참조하세요.
- - [Microsoft 365 앱의 업데이트 기록(날짜순)](update-history- microsoft365-apps-by-date.md)
+
+- [날짜별로 Microsoft 365 앱의 업데이트 기록](update-history-microsoft365-apps-by-date.md)
 
 
  ## <a name="update-sizes-for-microsoft-365-apps-releases"></a>Microsoft 365 앱 릴리스의 업데이트 크기
 
 업데이트 릴리스 크기의 전체 목록을 보려면 다음 문서를 참조하세요.
- - [Microsoft 365 앱으로 업데이트하는 데 필요한 다운로드 크기](download-sizes-microsoft365-apps-updates .md)
+ - [Microsoft 365 앱 업데이트의 다운로드 크기](download-sizes-microsoft365-apps-updates.md)
 
 ## <a name="release-notes-for-microsoft-365-apps-releases"></a>Microsoft 365 앱 릴리스의 릴리스 정보
 
 업데이트 채널 및 연도별 릴리스 정보의 전체 목록을 보려면 다음 문서를 참조하세요.
  - 월별: [2020](monthly-channel-2020.md), [2019](monthly-channel-2019.md), [2018](monthly-channel-2018.md), [2017](monthly-channel-2017.md), [2016](monthly-channel-2016.md)
+ - 월 단위 엔터프라이즈 채널: [2020](monthly-enterprise-channel-2020.md)
  - 반기(대상 지정): [2020](semi-annual-channel-targeted-2020.md), [2019](semi-annual-channel-targeted-2019.md), [2018](semi-annual-channel-targeted-2018.md), [2017](semi-annual-channel-targeted-2017.md), [2016](semi-annual-channel-targeted-2016.md)
  - 반기: [2020](semi-annual-channel-2020.md), [2019](semi-annual-channel-2019.md), [2018](semi-annual-channel-2018.md), [2017](semi-annual-channel-2017.md), [2016](semi-annual-channel-2016.md)
 
