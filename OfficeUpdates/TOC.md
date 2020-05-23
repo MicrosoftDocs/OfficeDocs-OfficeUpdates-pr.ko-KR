@@ -10,6 +10,9 @@
 ### [2018](monthly-channel-2018.md)
 ### [2017](monthly-channel-2017.md)
 
+## 월 단위 엔터프라이즈 채널
+### [2020](monthly-enterprise-channel-2020.md)
+
 ## 반기 채널
 ### [2020](semi-annual-channel-2020.md)
 ### [2019](semi-annual-channel-2019.md)
