@@ -9,22 +9,72 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: daf99ff348d31230f1905d35484e5ec1ba139c2d
-ms.sourcegitcommit: 2facbab73987c72b5118c055e32f3dfab13822af
+ms.openlocfilehash: d711d401d87c4ca92fbe49e31a1d6fd126fcc46d
+ms.sourcegitcommit: 300468367ec95cc504d2ca34f71017602fa2cc13
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/08/2020
-ms.locfileid: "44170628"
+ms.lasthandoff: 05/15/2020
+ms.locfileid: "44254589"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 참가자에 대한 릴리스 정보
 
 이 문서에는 Windows 데스크톱용 Word, Excel, PowerPoint, Outlook, Access 및 Project 의 참가자 빌드에 대한 릴리스 정보가 포함되어 있습니다. 매주 Microsoft는 흥미로운 새 기능, 중요한 수정 사항, 알리고자 하는 중요한 문제를 강조합니다. Microsoft는 일정 기간 동안 자주 참가자들에게 기능을 배포하며 때로는 수정 사항도 배포합니다. 이로서 더욱 광범위한 사용자들에게 기능을 릴리스하기 전에 원활하게 작동하는지 확인할 수 있습니다. 따라서 아래에 설명된 기능이 보이지 않더라도 곧 제공되게 되므로 걱정할 필요가 없습니다.  
+
+> [!IMPORTANT]
+> 당사는 Microsoft 365 앱에 대한 업데이트 채널을 일부 변경하고 있습니다. 여기에는 새 업데이트 채널 추가(월별 엔터프라이즈 채널) 및 기존 업데이트 채널의 이름 변경 등이 포함됩니다. 자세한 내용은 [이 문서를 검토하세요](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 
 > [!NOTE]
 > - 릴리스 정보는 매주 포스팅되며 여러 빌드의 편집일 수 있습니다.
 > - 릴리스 정보 게시 날짜는 실제 빌드 릴리스 날짜와 일치하지 않을 수 있습니다.
 
 [//]: # (제거하지 마세요)
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2006-may-15"></a>버전 2006: 5월 15일
+*버전 2006(빌드 12905.20000)*
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="excel"></a>Excel
+
+- **PDF 연결 설정:** PDF로 연결하고 PDF에서 데이터를 가져오고 새로 고칩니다. [자세한 정보](https://support.office.com/article/9967afd8-85ee-4df3-aa06-753bcc1a2724)
+
+### <a name="outlook"></a>Outlook
+
+- **원하는 항목만 찾기:** 폴더, 보낸 사람, 날짜, 첨부 정보 등의 옵션을 사용하여 검색 범위를 좁힙니다.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **이어폰이 원격 조정 기능을 수행하여 클릭커가 필요하지 않습니다.** Surface Earbuds를 사용하여 PowerPoint 프레젠테이션을 컨트롤합니다. 중요: 제스처를 사용하여 프레젠테이션을 제어하려면 Windows 10용 Surface Audio 앱에서 Surface Earbuds를 페어링해야 합니다. Windows 10에서 Surface Audio 앱을 시작하는 방법에 대한 지침은 여기에서 확인할 수 있습니다. [자세한 정보](https://support.office.com/article/6319a6f3-ad69-44e6-a8ff-e79676423e4a)
+
+### <a name="word"></a>Word
+
+- **민감도 레이블 자동 적용 또는 권장:** Office는 감지되는 중요한 콘텐츠에 기반하여 민감도 레이블을 권장하거나 자동으로 적용할 수 있습니다.
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+
+### <a name="excel"></a>Excel
+- 사용자가 병합된 열을 삭제했을 때 성능시간이 향상되는 문제를 해결했습니다.
+- <div>사용 가능한 프린터 목록에 프린터 이름이 중복되는 문제를 해결했습니다.</div>
+
+### <a name="powerpoint"></a>PowerPoint
+- 영어 스위스(QWERTZ) 키보드를 사용하는 경우, 바로 가기 키와 맞춤법 검사가 제대로 작동하지 않는 문제를 해결했습니다.
+
+### <a name="word"></a>Word
+- 빈 문서에 새 메모를 추가해도 아무 작업도 수행하지 않는 문제를 해결했습니다.
+- 100개 이상의 항목을 포함하는 문서에 색인을 삽입하거나 업데이트하는 경우, 응용 프로그램이 중단되는 문제를 해결했습니다.
+- 사용자 지정 xml 값이 있는 파일이 매우 천천히 열리는 문제를 해결했습니다.
+
+### <a name="office-suite"></a>Office 제품군
+- 라이브러리 이름 또는 라이브러리 경로에 DBCS 문자가 있는 코드 라이브러리에 대한 참조를 포함하는 특정 VBA 프로젝트를 로드할 때 Office 응용 프로그램에서 손상된 것으로 보이는 Microsoft Office의 VBA(Visual Basic for Applications) 문제를 해결했습니다.
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
