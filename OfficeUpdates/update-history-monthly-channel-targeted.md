@@ -1,6 +1,6 @@
 ---
 title: 업데이트 기록 월 단위 채널(대상)
-ms.author: andrewmo
+ms.author: anankani
 author: anankani
 manager: andrewmo
 ms.audience: ITPro
@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 월간 채널 업데이트 내역 제공 Windows 데스크톱의 대상 릴리스
-ms.openlocfilehash: beca8a71f03a301e83d696ecb5468b2e36748988
-ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
-ms.translationtype: HT
+ms.openlocfilehash: 3d763d2c6d7c5028c0082dd2ef8f845eda487f6b
+ms.sourcegitcommit: cbdd826a7d45f0a645cc7c664647f22bf2b9752a
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/12/2020
-ms.locfileid: "44211263"
+ms.lasthandoff: 05/30/2020
+ms.locfileid: "44429013"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Windows용 월간(대상) 채널의 업데이트 내역
 
@@ -35,6 +35,15 @@ ms.locfileid: "44211263"
 
 
 [//]: # (제거하지 마세요)
+
+**5 월 29 일 2020**<br/>
+버전 2005 (빌드 12827.20268)<br/>
+
+**5 월 21 일, 2020**<br/>
+버전 2005 (빌드 12827.20210)<br/>
+
+**5 월 14 일 2020**<br/>
+버전 2005 (빌드 12827.20160)<br/>
 
 **2020년 5월 11일**<br/>
 버전 2004(버전 12730.20270)<br/>
