@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 반기 채널(대상 지정) 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 750a20da1fc38b216957f13260bd504530b897fe
-ms.sourcegitcommit: 4df4bbfe9328d36fdf801081598aadde77af8a9c
+ms.openlocfilehash: b0a39d61122691cd6a007866ec80444848e7389b
+ms.sourcegitcommit: 2474d341cb1c1c2e0b43b5c324345d853e192c59
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43796124"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "44565059"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019년 반기 채널(대상 지정) 릴리스에 대한 릴리스 정보
 
@@ -27,7 +27,7 @@ ms.locfileid: "43796124"
 ## <a name="version-1908-december-10"></a>버전 1908: 12월 10일
 *버전 1908 (빌드 11929.20516)*
 
-나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
@@ -129,7 +129,7 @@ ms.locfileid: "43796124"
 ## <a name="version-1908-november-12"></a>버전 1908: 11월 12일
 *버전 1908(빌드 11929.20436)*
 
-나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
@@ -157,7 +157,7 @@ ms.locfileid: "43796124"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- cid 링크: Outlook 메시지의 이미지는 이제 요청 시 성공적으로 나누어질 수 있습니다.</div>
+- cid 링크: Outlook 메시지의 이미지는 이제 요청 시 성공적으로 나누어질 수 있습니다.
 - 안정성 픽스: 타사 추가 기능으로 인해 PowerPoint에서 오류가 발생하는 문제를 해결했습니다.
 
 ### <a name="project"></a>Project
@@ -206,7 +206,7 @@ ms.locfileid: "43796124"
 ## <a name="version-1908-october-08"></a>버전 1908: 10월 8일
 *버전 1908 (빌드 11929.20388)*
 
-보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)에 나열되어 있습니다.
+보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열되어 있습니다.
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
@@ -246,7 +246,7 @@ ms.locfileid: "43796124"
 ## <a name="version-1908-september-10"></a>버전 1908: 9월 10일
 *버전 1908 (빌드 11929.20300)*
 
-보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)에 나열되어 있습니다.
+보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열되어 있습니다.
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
@@ -457,7 +457,7 @@ ms.locfileid: "43796124"
 ## <a name="version-1902-august-13"></a>버전 1902: 8월 13일
 *버전 1902 (빌드 11328.20392)*
 
-보안 업데이트가 [여기](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)에 나열되어 있습니다.
+보안 업데이트가 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열되어 있습니다.
 
 ### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트
 - 표에서 필터링된 슬라이서와 필터링되지 않은 슬라이서 모두에 대해 필터 지우기 아이콘이 표시되는 문제가 해결되었습니다.
@@ -479,7 +479,7 @@ ms.locfileid: "43796124"
 ## <a name="version-1902-july-09"></a>버전 1902: 7월 9일
 *버전 1902(빌드 11328.20368)*
 
-보안 업데이트가 [여기](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)에 나열됨
+보안 업데이트가 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열됨
 
 
 ### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트
@@ -521,7 +521,7 @@ ms.locfileid: "43796124"
 
 ## <a name="version-1902-june-11"></a>버전 1902: 6월 11일
 *버전 1902(빌드 11328.20318)*
-<br/>보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)에 나열됩니다.
+<br/>보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열됩니다.
 
 ### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트
  - XML 맵이 포함된 파일을 PDF로 저장할 때 충돌이 발생하는 문제를 해결했습니다.

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 반기 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: df445c1318293e94d77fc62e4472124bb85c3a25
-ms.sourcegitcommit: 45f5df6186e148390dac8910bb6e728a618589b2
+ms.openlocfilehash: e86831dab2f9bc88abcf297fecb293303e22e2c4
+ms.sourcegitcommit: 2474d341cb1c1c2e0b43b5c324345d853e192c59
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "44163530"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "44565073"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019년 반기 채널 릴리스에 대한 릴리스 정보
 
@@ -165,7 +165,7 @@ ms.locfileid: "44163530"
 
 ### <a name="project"></a>Project
 
-- 다음 시나리오에서 XPS 파일의 PDF가 만들어지지 않는 문제가 해결되었습니다.</div><ul><li>프로젝트를 엽니다.</li><li>파일 메뉴를 클릭하고 내보내기를 클릭한 다음 <b>PDF/XPS 만들기</b> 단추를 클릭합니다.</li><li>찾아보기 대화 상자에서 파일 이름을 입력하고 확인을 클릭합니다.</li></ul>
+- 다음 시나리오에서 XPS 파일의 PDF가 만들어지지 않는 문제가 해결되었습니다.<ul><li>프로젝트를 엽니다.</li><li>파일 메뉴를 클릭하고 내보내기를 클릭한 다음 <b>PDF/XPS 만들기</b> 단추를 클릭합니다.</li><li>찾아보기 대화 상자에서 파일 이름을 입력하고 확인을 클릭합니다.</li></ul>
 
 ### <a name="word"></a>Word
 
