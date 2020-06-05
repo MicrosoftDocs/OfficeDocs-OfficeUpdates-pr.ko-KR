@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 이후 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 60e81fd50e7a1ef35a4449fd4383982dee3338ec
-ms.sourcegitcommit: cbdd826a7d45f0a645cc7c664647f22bf2b9752a
+ms.openlocfilehash: 41dba1efa79735aafd74b318fd49c7c3211736e3
+ms.sourcegitcommit: e9b127c7dfd80f3beb3c9aa9dadfb9e7f442c58c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/30/2020
-ms.locfileid: "44429003"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "44563678"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 릴리스 정보 월 단위 채널(대상 지정)
 
@@ -32,6 +32,45 @@ ms.locfileid: "44429003"
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2005-june-04"></a>버전 2005:6 월 04 일
+*버전 2005 (빌드 12827.20320)*
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="access"></a>Access
+
+- **계속 해 서 시간을 주세요! 날짜/시간 확장 데이터 형식의 정밀도가 더 낫지만** , 향상 된 새 데이터 형식 소개  SQL과의 구문 호환성을 높이고 날짜 및 시간을 포함 하는 레코드에서 세부 정보의 정확성과 수준을 높이려면 Access에 DateTime2 데이터 형식을 구현 하는 것입니다. 이 추가 날짜 & 시간 데이터 형식에는 더 큰 날짜 범위 (0001-01-01부터 9999-12-31까지)가 포함 되어 있으므로 계산을 제공 하 고 수행할 수 있는 시간이 아닌 더 높은 지정 된 시간 (나노초)이 사용 됩니다. 사용 하도록 설정 하려면 새 필드 > 날짜 & 시간 확장을 선택 합니다. [자세한 정보](https://support.office.com/article/708c32da-a052-4cc2-9850-9851042e0024)
+
+### <a name="excel"></a>Excel
+
+- **Excel 내에서 POWER BI의 데이터 집합에서 피벗 테이블을 만듭니다.** Excel에서 몇 번의 클릭 만으로 Power BI에 저장 된 데이터 집합에 연결 된 피벗 테이블을 만들 수 있습니다.이렇게 하면 피벗 테이블 및 Power BI 중에서 최상의 성능을 얻을 수 있습니다. 보안 Power BI 데이터 집합의 피벗 테이블을 사용 하 여 데이터를 계산, 요약 및 분석 합니다.
+
+### <a name="outlook"></a>Outlook
+
+- **이전 Outlook 세션에서 항목을 빠르게 다시 여는 옵션:** 이전 Outlook 세션에서 항목을 빠르게 다시 열 수 있는 옵션이 추가 되었습니다.
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="powerpoint"></a>PowerPoint
+
+- 이렇게 하면 파일에 최신 및 레거시 주석이 둘 다 있을 때 충돌이 발생 하므로 해당 설명에서 업그레이드를 트리거합니다.
+
+
+### <a name="office-suite"></a>Office 제품군
+
+- Microsoft는 기본적으로 Bing 추가 설치 유효성 검사를 true로 설정 하 고 MSI 반환 성공을 고려한 설치 성공을 고려 하 여 ValidateInstall 오류율 문제를 해결 했습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2005-may-29"></a>버전 2005:5 월 29 일
 *버전 2005 (빌드 12827.20268)*
