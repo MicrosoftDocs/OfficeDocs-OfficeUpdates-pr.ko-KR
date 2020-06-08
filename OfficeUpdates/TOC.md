@@ -36,8 +36,8 @@
 ## [ODT 릴리스 기록](ODT-release-history.md)
 
 # Mac용 Office
-## [업데이트 기록(Office 365, 2019)](update-history-office-for-mac.md)
-## [릴리스 정보(Office 365, 2019)](release-notes-office-for-mac.md)
+## [업데이트 기록(Microsoft 365, 2019)](update-history-office-for-mac.md)
+## [릴리스 노트(Microsoft 365, 2019)](release-notes-office-for-mac.md)
 ## [업데이트 기록(2016)](release-notes-office-2016-mac.md)
 ## [MAU 릴리스 기록](release-history-microsoft-autoupdate.md)
 
