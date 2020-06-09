@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 이후 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 41dba1efa79735aafd74b318fd49c7c3211736e3
-ms.sourcegitcommit: e9b127c7dfd80f3beb3c9aa9dadfb9e7f442c58c
+ms.openlocfilehash: 2213653fbbc529ab849142e1bf5427952299ff2a
+ms.sourcegitcommit: 9d2fb1f431933f304b68891c07a3b4eed5fdb936
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44563678"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44618934"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 릴리스 정보 월 단위 채널(대상 지정)
 
@@ -32,6 +32,20 @@ ms.locfileid: "44563678"
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2005-june-08"></a>버전 2005:6 월 08 일
+*버전 2005 (빌드 12827.20336)*
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="powerpoint"></a>PowerPoint
+
+- 글꼴 대체 드롭다운에는 시스템에 설치 된 글꼴이 아닌 프레젠테이션에서 글꼴만 표시 되는 글꼴 바꾸기 대화 상자가 나타납니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2005-june-04"></a>버전 2005:6 월 04 일
 *버전 2005 (빌드 12827.20320)*
@@ -763,7 +777,7 @@ ms.locfileid: "44563678"
 ## <a name="version-2003-march-10"></a>버전 2003: 3월 10일
 *버전 2003(빌드 12624.20176)*
 
-나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열되어 있습니다.
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 ### <a name="feature-updates"></a>기능 업데이트
