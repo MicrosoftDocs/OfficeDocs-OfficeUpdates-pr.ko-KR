@@ -4,32 +4,32 @@
 ## [업데이트 기록(날짜별)](update-history-microsoft365-apps-by-date.md)
 ## [업데이트 크기](download-sizes-microsoft365-apps-updates.md)
 
-## 월별 채널
-### [2020](monthly-channel-2020.md)
+## 현재 채널
+### [2020](current-channel.md)
 ### [2019](monthly-channel-2019.md)
 ### [2018](monthly-channel-2018.md)
 ### [2017](monthly-channel-2017.md)
 
 ## 월 단위 엔터프라이즈 채널
-### [2020](monthly-enterprise-channel-2020.md)
+### [2020](monthly-enterprise-channel.md)
 
-## 반기 채널
-### [2020](semi-annual-channel-2020.md)
+## 반기 엔터프라이즈 채널
+### [2020](semi-annual-enterprise-channel.md)
 ### [2019](semi-annual-channel-2019.md)
 ### [2018](semi-annual-channel-2018.md)
 ### [2017](semi-annual-channel-2017.md)
 
-## 반기 채널(대상 지정)
-### [2020](semi-annual-channel-targeted-2020.md)
+## 반기 엔터프라이즈 채널(미리 보기)
+### [2020](semi-annual-enterprise-channel-preview.md)
 ### [2019](semi-annual-channel-targeted-2019.md)
 ### [2018](semi-annual-channel-targeted-2018.md)
 ### [2017](semi-annual-channel-targeted-2017.md)
 
 ## Office 참가자 프로그램  
-### [업데이트 기록 참가자 채널](update-history-office-insider.md)
-### [업데이트 기록 월 단위 채널(대상)](update-history-monthly-channel-targeted.md)
-### [릴리스 노트 참가자 채널](release-notes-office-insider.md)
-### [릴리스 정보 월 단위 채널(대상 지정)](release-notes-monthly-channel-targeted.md)
+### [업데이트 기록 베타 채널](Update-history-beta-channel.md)
+### [업데이트 기록 현재 채널(미리 보기)](update-history-current-channel-preview.md)
+### [릴리스 정보 베타 채널](beta-channel.md)
+### [릴리스 정보 현재 채널(미리 보기)](current-channel-preview.md)
 
 ## [Windows 7 업데이트 기록](update-history-office-Win7.md)
 
