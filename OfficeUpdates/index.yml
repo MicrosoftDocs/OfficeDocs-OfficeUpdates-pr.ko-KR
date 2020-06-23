@@ -1,0 +1,93 @@
+### YamlMime:Landing
+title: Office 업데이트
+summary: Microsoft 365 앱, Mac 용 Office, Office Server 제품 및 정품 버전을 포함 하는 Office 제품 업데이트에 대 한 정보를 확인 하세요.
+metadata:
+  title: Office 업데이트
+  description: Microsoft 365 앱, Mac 용 Office, Office Server 제품 및 정품 버전을 포함 하는 Office 제품 업데이트에 대 한 정보를 확인 하세요.
+  ms.service: o365-proplus-itpro
+  manager: andrewmo
+  ms.audience: ITPro
+  localization_priority: Normal
+  ms.collection: RelNotes_Landing
+  author: TimDavenport
+  ms.author: andrewmo
+  ms.date: 06/18/2020
+  ms.openlocfilehash: c8b117874eca2923172290475e6ce7cad5894b1c
+  ms.sourcegitcommit: 75dd224cc25daf9e0dae2056ea7d53e7e7e790e3
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 06/23/2020
+  ms.locfileid: "44854584"
+landingContent:
+- title: Microsoft 365 앱
+  linkLists:
+  - linkListType: overview
+    links:
+    - text: 릴리스 정보
+      url: release-notes-microsoft365-apps.md
+    - text: 업데이트 기록(날짜별)
+      url: update-history-microsoft365-apps-by-date.md
+    - text: 업데이트 크기
+      url: download-sizes-microsoft365-apps-updates.md
+    - text: 보안 업데이트
+      url: microsoft365-apps-security-updates.md
+- title: Mac용 Office
+  linkLists:
+  - linkListType: overview
+    links:
+    - text: 릴리스 노트(Microsoft 365, 2019)
+      url: release-notes-office-for-mac.md
+    - text: 업데이트 기록(Microsoft 365, 2019)
+      url: update-history-office-for-mac.md
+    - text: 릴리스 정보(2016)
+      url: release-notes-office-2016-mac.md
+    - text: MAU 릴리스
+      url: release-history-microsoft-autoupdate.md
+- title: Office 서버 제품
+  linkLists:
+  - linkListType: overview
+    links:
+    - text: Exchange Server 업데이트
+      url: https://docs.microsoft.com/Exchange/new-features/build-numbers-and-release-dates
+    - text: Project Server 업데이트
+      url: project-server-updates.md
+    - text: SharePoint Server 업데이트
+      url: sharepoint-updates.md
+    - text: 비즈니스용 Skype 서버 업데이트
+      url: https://docs.microsoft.com/SkypeForBusiness/sfb-server-updates
+- title: Office (정품 라이선스)
+  linkLists:
+  - linkListType: overview
+    links:
+    - text: Office 2016 및 2019 (C2R)
+      url: update-history-office-2019.md
+    - text: Office 2010, 2013 및 2016 업데이트(MSI)
+      url: office-updates-msi.md
+    - text: Office 2016 .msp 파일
+      url: msp-files-office-2016.md
+    - text: Office 2013 .msp 파일
+      url: msp-files-office-2013.md
+- title: 기타 Office 리소스
+  linkLists:
+  - linkListType: whats-new
+    links:
+    - text: Microsoft 365의 새로운 기능
+      url: https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426
+    - text: Microsoft 365 로드맵
+      url: https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=O365
+    - text: Microsoft 365 변경 사항 맨 위에 유지
+      url: https://support.office.com/article/719f4904-cbdd-4889-a0cf-fbd7837dfecd
+    - text: Office 블로그
+      url: https://www.microsoft.com/microsoft-365/blog/office/
+- title: Microsoft 리소스
+  linkLists:
+  - linkListType: overview
+    links:
+    - text: Windows 10 릴리스 정보
+      url: https://www.microsoft.com/itpro/windows-10/release-information
+    - text: Microsoft 수명 주기 정책
+      url: https://support.microsoft.com/lifecycle
+    - text: Microsoft 보안 업데이트 가이드
+      url: https://portal.msrc.microsoft.com/
+    - text: Microsoft 기술 커뮤니티
+      url: https://techcommunity.microsoft.com/
