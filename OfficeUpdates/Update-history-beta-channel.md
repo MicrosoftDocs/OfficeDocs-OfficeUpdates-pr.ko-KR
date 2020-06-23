@@ -9,16 +9,17 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 참가자에게 Windows Desktop용 월 단위 채널 참가자 빠른 릴리스에 대한 업데이트 내역을 제공합니다.
-ms.openlocfilehash: 13263186e115180da3b989267f23721b13790f93
-ms.sourcegitcommit: 1f8cb906d8d0af5eb26eaedf008180375d2fd55d
+ms.openlocfilehash: 3a015030f5f82cfab54f50c45492a0069a85aac0
+ms.sourcegitcommit: 75dd224cc25daf9e0dae2056ea7d53e7e7e790e3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44668109"
+ms.lasthandoff: 06/23/2020
+ms.locfileid: "44853956"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Office 베타 채널에 대 한 업데이트 기록
 
-안녕하세요. 참가자 여러분, 최신 업데이트 설치 여부 또는 최신 참가지 빌드 목록은 여기에서 확인하실 수 있습니다. 참가자 프로그램에 대한 자세한 내용을 보려면 [여기](https://insider.office.com/)를 클릭하세요.
+Hello, Insiders! If you're wondering whether you have the latest update installed or are looking for a list of recent Insider build, you're in the right place.
+Click [here](https://insider.office.com/) for more information on the Insiders Program.
 
 > [!IMPORTANT]
 > - 당사는 Microsoft 365 앱에 대한 업데이트 채널을 일부 변경하고 있습니다. 여기에는 새 업데이트 채널 추가(월별 엔터프라이즈 채널) 및 기존 업데이트 채널의 이름 변경 등이 포함됩니다. 자세한 내용은 [이 문서를 검토하세요](https://go.microsoft.com/fwlink/p/?linkid=2127441).
@@ -29,13 +30,20 @@ ms.locfileid: "44668109"
 > - 업데이트 내역에는 릴리스된 모든 빌드가 나열됩니다.
 > - 릴리스 정보는 더 느린 흐름에 업데이트되며 릴리스 정보 게시 빌드 번호까지 여러 빌드에 대한 업데이트 컴파일이 될 수 있습니다.
 
-## <a name="office-beta-versions-and-builds"></a>Office 베타 버전 및 빌드
+## <a name="office-beta-channel-versions-and-builds"></a>Office 베타 채널 버전 및 빌드
 
-참가자 수준에 등록 한 경우에는 새로운 기능과 향상 된 기능을 통해 업데이트를 자주 받게 됩니다. 다음 목록에는 **가장 최근에 릴리스된 빌드가 먼저 나열**된 최신 베타 버전 및 빌드 기록이 나와 있습니다. 새 빌드에는 이전 빌드에 포함 된 모든 업데이트가 포함 됩니다.
+참가자 수준에 등록 한 경우에는 새로운 기능과 향상 된 기능을 통해 업데이트를 자주 받게 됩니다. 다음 목록에는 **가장 최근에 릴리스된 빌드가 먼저 나열**된 최신 베타 채널 버전 및 빌드의 기록이 나와 있습니다. 새 빌드에는 이전 빌드에 포함 된 모든 업데이트가 포함 됩니다.
 
-릴리스 정보를 찾으려면 [Windows용 Office의 내부 관리자 릴리스 정보](https://docs.microsoft.com/OfficeUpdates/release-notes-office-insider)를 참조하십시오.
+릴리스 정보를 찾으려면 [Windows용 Office의 내부 관리자 릴리스 정보](https://docs.microsoft.com/OfficeUpdates/beta-channel)를 참조하십시오.
+
 
 [//]: # (제거하지 마세요)
+
+**2020 년 6 월 23 일**<br/>
+버전 2007 (빌드 13020.20004)<br/>
+
+**2020 년 6 월 15 일**<br/>
+버전 2007 (빌드 13012.20000)<br/>
 
 **2020 년 6 월 9 일**<br/>
 버전 2007 (빌드 13006.20002)<br/>

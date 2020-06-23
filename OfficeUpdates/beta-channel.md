@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: e754309f8f647f13b6db0a1b6f4cbcfac2f4ffe5
-ms.sourcegitcommit: 1f8cb906d8d0af5eb26eaedf008180375d2fd55d
+ms.openlocfilehash: ab1953f105cbab856ac183335fb54edb538b5d43
+ms.sourcegitcommit: 6bd9e41014037650170125aaed9847880d438645
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44668118"
+ms.lasthandoff: 06/19/2020
+ms.locfileid: "44814307"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 참가자에 대한 릴리스 정보
 
@@ -30,6 +30,81 @@ ms.locfileid: "44668118"
 [//]: # (제거하지 마세요)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+## <a name="version-2007-june-19"></a>버전 2007:6 월 19 일
+*버전 2007 (빌드 13012.20000)*
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- 통합 문서를 SharePoint/OneDrive에 저장할 때 사용자 지정 리본 메뉴 탭의 CustomUI XML이 제거 되는 문제를 해결 했습니다.
+- 파일에 읽기 전용 권장 사항이 있을 때 통합 문서가 읽기 전용으로 설정 된 문제를 해결 했습니다.
+
+### <a name="outlook"></a>Outlook
+
+- Ime (입력기) 창이 다른 해상도로 여러 모니터를 사용할 때 IME를 통해 입력 중인 기본 텍스트와 겹치게 되는 문제를 해결 했습니다.
+- 이전에 저장 한 약속을 닫을 때 사용자가 다음 오류를 표시 하는 문제를 해결 했습니다: "다른 사용자가 변경 했거나 다른 창에서 항목을 저장할 수 없습니다. 항목의 기본 폴더에 복사본을 만드시겠습니까? "
+- 일본 사용자의 경우 미니 일정의 날짜가 굵게 표시 되지 않는 문제를 해결 했습니다.
+- 일정 미리 알림이 매주 한 주 이내에 진행 되는 모임의 시간을 정확히 표시 하지 못하는 문제를 해결 했습니다.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 라이브 공동 작성 세션 중에 사용자의 현재 상태 색 표시기가 공동 작성 갤러리에서 새로 고쳐지지 않는 문제를 해결 했습니다.
+
+### <a name="project"></a>Project
+
+- 고정 기간 작업이 100% 완료 되었지만 실제 완료 날짜를 지정 하지 않은 경우 작업 완료율이 100% 미만으로 표시 되는 문제를 해결 했습니다.
+
+### <a name="word"></a>Word
+
+- HTML 하이퍼링크 색이 올바르게 렌더링 되지 않는 문제를 해결 했습니다.
+
+### <a name="office-suite"></a>Office 제품군
+
+- Http 또는 https 기반이 아닌 Url이 가장 최근에 사용 된 목록에 표시 되지 않는 문제를 해결 했습니다.
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2007-june-12"></a>버전 2007:6 월 12 일
+*버전 2007 (빌드 13006.20002)*
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="excel"></a>Excel
+
+- **데이터 형식을 사용 하 여 POWER BI에서 조직 데이터 가져오기:** Power BI의 Excel 데이터 형식은 이제 Office 365 E5/A5 또는 Microsoft 365 E5/A5가 있는 조직의 참가자에 게 배포 됩니다. 필요한 정보를 가져오고 쉽게 새로 고쳐야 하는 것은 일상적인 많은 워크플로에 중요 한 요소입니다. Microsoft는 Power BI에서 Excel의 데이터 형식으로 회사 또는 조직 정보에 액세스할 수 있도록 하 여 스프레드시트에 연결 된 정보를 가져올 수 있는 기능을 확장 하 고 있습니다. [자세한 정보](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />[블로그 게시물](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)에서 세부 정보 보기
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="access"></a>Access
+
+- Microsoft Access에서 연결 된 SQL Server 테이블의 Id 열을 식별 하지 못하여 행이 잘못 삭제 된 것으로 보고 될 수 있는 문제를 해결 했습니다.
+
+### <a name="excel"></a>Excel
+
+- 방사형 차트의 주 눈금선을 제대로 서식 지정할 수 없는 문제를 해결 했습니다.
+
+### <a name="project"></a>Project
+
+- 프로젝트 요약 작업 (프로젝트 시작/작업 필드)이 변경 될 때 ProjectBeforeTaskChange 이벤트가 발생 하지 않는 문제를 해결 했습니다.
+- 초기 설정 또는 업데이트 시 시간대 별 예산 비용/작업 자원이 변경 될 수 있으며 초기 계획에 잘못 된 예산 값이 적용 될 수 있는 문제를 해결 했습니다.
+
+### <a name="word"></a>Word
+
+- Office 리본 메뉴의 서식 지우기 단추를 통해 메모 창에서 서식을 지우는 기능이 작동 하지 않는 문제를 해결 했습니다.
+- 눈금자가 표시 되지 않을 때 테이블의 크기를 변경 하면 백그라운드로 실행 되는 다른 응용 프로그램이 깜박임을 시작할 수 있는 문제를 해결 했습니다.
+- 공동 작성 모드에서는 메모 회신이 메모 창에 표시 되지 않지만 수정 창에 표시 되는 문제를 해결 했습니다.
+- Word에서 문서를 저장 하 고 연 후에도 50 개 보다 많은 수의 문서가 있는 경우 해당 문서가 변경 되지 않았더라도 수정 내용이 표시 되는 문제를 해결 했습니다.
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2006-june-05"></a>버전 2006:6 월 05 일
 *버전 2006 (빌드 13001.20002)*
@@ -144,7 +219,7 @@ ms.locfileid: "44668118"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **고정 된 폴더에 저장:** 폴더를 고정 하면 Office 파일을 보다 쉽게 저장할 수 있습니다. 사용자가 새 파일을 저장할 때 사용할 수 있는 폴더를 보다 강력 하 게 제어 하려는 의견이 수신 되었습니다. 새 기능을 제공 하는 경우: 저장 대화 상자에 폴더를 고정 합니다. 이 새로운 기능을 통해 Word, Excel 및 PowerPoint 파일을 보다 쉽게 저장할 수 있습니다.<br />[블로그 게시물](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)에서 세부 정보 보기
+- **고정 된 폴더에 저장:** 폴더를 고정 하면 Office 파일을 보다 쉽게 저장할 수 있습니다. 사용자가 새 파일을 저장할 때 사용할 수 있는 폴더를 보다 강력 하 게 제어 하려는 의견이 수신 되었습니다. 새 기능을 제공 하는 경우: 저장 대화 상자에 폴더를 고정 합니다. 이 새로운 기능을 통해 Word, Excel 및 PowerPoint 파일을 보다 쉽게 저장할 수 있습니다.<br />[블로그 게시물](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)에서 세부 정보를 참조하세요
 
 ### <a name="word"></a>Word
 
@@ -665,7 +740,7 @@ ms.locfileid: "44668118"
 ### <a name="feature-updates"></a>기능 업데이트
 ### <a name="outlook"></a>Outlook
 
-- **IT 관리자에 대한 인시던트 알림:** Microsoft 365 테넌트 전역 관리자 및 Office 앱 관리자는 Windows용 Outlook의 새로운 오른쪽 패널 알림을 통해 사용자에게 영향을 주는 Outlook 및 O365 Exchange 인시던트에 대한 알림을 받습니다.
+- **IT 관리자에 대한 인시던트 알림:** Microsoft 365 테넌트 전역 관리자 및 Office 앱 관리자는 Windows용 Outlook의 새로운 오른쪽 패널 알림을 통해 사용자에게 영향을 주는 Outlook 및 O365 Exchange 인시던트에 대한 알림을 받습니다. [자세한 정보](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
 
 ### <a name="powerpoint"></a>PowerPoint
 

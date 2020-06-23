@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 앱에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 13bb14c00a9066c7437cde9a00f94a078788d5c5
-ms.sourcegitcommit: 1f8cb906d8d0af5eb26eaedf008180375d2fd55d
+ms.openlocfilehash: 913f473e8dd645c58aa17efb1221eb25cc280971
+ms.sourcegitcommit: 69887e53fc949b0890c3a00a8504ac732ee2cad8
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44668013"
+ms.lasthandoff: 06/19/2020
+ms.locfileid: "44810870"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>2020의 현재 채널 릴리스에 대 한 릴리스 정보
 
@@ -354,11 +354,7 @@ ms.locfileid: "44668013"
 ### <a name="resolved-issues"></a>해결된 문제
 ### <a name="onenote"></a>OneNote
 
-- 휴지통으로 페이지 이동을 일시적으로 비활성화하여 동기화 및 서버 안정성이 향상되었습니다. 대신 페이지를 삭제하려는 사용자에게는 페이지를 영구적으로 삭제할 것인지 묻는 대화 상자가 표시됩니다.
-
 - InfoBar를 통해 사용자에게 Microsoft OneNote의 임시 조정에 대해 알리고 전 세계적으로 사용하는 동안 동기화 및 서비스 가용성을 향상시킬 수 있습니다.
-
-- 페이지 버전 기록이 생성되는 빈도를 일시적으로 변경하여 동기화 및 서비스 안정성이 향상되었습니다.
 
 ### <a name="project"></a>Project
 
@@ -407,8 +403,6 @@ ms.locfileid: "44668013"
 ### <a name="onenote"></a>OneNote
 
 - 새로운 내장 첨부 파일의 최대 허용 크기를 50MB로 일시적으로 줄여 동기화 및 서비스 안정성을 개선했습니다. 이 제한을 초과하는 파일의 경우 사용자는 파일을 OneDrive에 업로드하고 OneNote에 링크를 삽입할 수 있습니다.
-
-- OneNote 2016에서 앱 내 비디오 녹화를 일시적으로 사용하지 않도록 설정하여 동기화 및 서비스 안정성을 향상시켰습니다. 로컬 노트북은 이 조치의 영향을받지 않습니다.
 
 - OneNote 2016에서 동기화 빈도를 일시적으로 조정하여 동기화 및 서비스 안정성을 개선했습니다.
 
@@ -473,16 +467,9 @@ ms.locfileid: "44668013"
 ### <a name="feature-updates"></a>기능 업데이트
 ### <a name="excel"></a>Excel
 
-- **이제 사용자는 Word 및 Excel에서 개체를 SVG로 저장할 수 있습니다.** 사용자는 차트, 도형, 잉크, 아이콘, 사진 등의 개체를 SVG로 저장할 수 있습니다.  [자세히 알아보기](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
-
 - **통합 문서 통계:** 셀, 수식, 차트, 표 등이 자동으로 계산됩니다.
 
 - **쿼리 편집기의 데이터 프로파일링:** 열에서 데이터를 한눈에 분석하고 오류와 비어 있는 값을 식별하며 배포 히스토그램을 표시하는 기능 등을 사용할 수 있습니다.
-
-### <a name="word"></a>Word
-
-- **이제 사용자는 Word 및 Excel에서 개체를 SVG로 저장할 수 있습니다.** 사용자는 차트, 도형, 잉크, 아이콘, 사진 등의 개체를 SVG로 저장할 수 있습니다.  [자세히 알아보기](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
-
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)

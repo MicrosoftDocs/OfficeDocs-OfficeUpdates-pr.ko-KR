@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 Apps에 대한 Monthly Enterprise Channel 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: b346aba65488adcd2d0c223e17fe71cc22c0b6b3
-ms.sourcegitcommit: d8a7a35f1f685d01fbdd1780890737897364935a
+ms.openlocfilehash: 48af42f973d499fb9ea43bc596d7389cb8fcff01
+ms.sourcegitcommit: 496e2442f722e5152e19cb5be5cfd91050288081
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "44695587"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "44735458"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>2020년 Monthly Enterprise Channel 릴리스에 대한 릴리스 정보
 
@@ -42,10 +42,6 @@ ms.locfileid: "44695587"
 
 ### <a name="excel"></a>Excel
 
-- **그림 뒤에 있는 내용 표시:** 워크시트에 그림을 넣고, 사전 설정을 선택하고, 투명도 변경을 확인합니다. 바로 이 기능으로요! [자세히 알아보기](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
-
-- ** 더 많은 접근 가능한 PDF 만들기:** PDF를 만들면 액세스 가능성 검사기가 저장하기 전에 수정해야 할 접근성 문제를 해결합니다. [자세한 정보](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)<br />[블로그 게시물](https://blog-insider.office.com/2019/08/13/accessible-pdfs-made-easier/)에서 세부 정보 보기
-
 - **완벽한 색상 선택:** 16진 색상 코드를 사용하여 글꼴, 텍스트 강조 등 원하는 색상을 정확하게 선택하세요.<br />[블로그 게시물](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)에서 세부 정보 보기
 
 - **Facebook 커넥터 지원 종료:** 2020년 4월부터는 Excel에서 Facebook 커넥터를 사용하는 외부 데이터 연결을 더 이상 지원하지 않습니다.
@@ -53,8 +49,6 @@ ms.locfileid: "44695587"
 - **통합 문서에 활기를 불어넣어줄 새로운 이미지:** 수천 개의 무료 스톡 이미지, 아이콘 및 스티커를 통합 문서에서 사용할 수 있습니다. 시작 하려면 삽입 > 사진 > 스톡 이미지로 이동합니다. [자세한 정보](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/06/premium-creative-content/)에서 세부 정보 보기
 
 ### <a name="outlook"></a>Outlook
-
-- **더 스마트해진 받는 사람: 줄:** 받는 사람: 줄을 클릭하여 메시지에 주소를 지정하려고 하면 선택할 수 있는 추천 받는 사람이 표시됩니다. 또한 사진을 볼 수 있으므로 올바른 사람에 게 보내는 중입니다. [자세한 정보](https://support.office.com/article/147208af-ca8e-4cdf-b71f-77ba81a54069)
 
 - **완벽한 색상 선택:** 16진 색상 코드를 사용하여 글꼴, 텍스트 강조 등 원하는 색상을 정확하게 선택하세요.<br />[블로그 게시물](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)에서 세부 정보 보기
 
@@ -66,10 +60,6 @@ ms.locfileid: "44695587"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **그림 뒤에 있는 내용 표시:** 슬라이드에 그림을 넣고, 사전 설정을 선택하고, 투명도 변경을 확인합니다. 바로 이 기능으로요! [자세히 알아보기](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
-
-- ** 더 많은 접근 가능한 PDF 만들기:** PDF를 만들면 액세스 가능성 검사기가 저장하기 전에 수정해야 할 접근성 문제를 해결합니다.<br />[블로그 게시물](https://blog-insider.office.com/2019/08/13/accessible-pdfs-made-easier/)에서 세부 정보 보기
-
 - **완벽한 색상 선택:** 16진 색상 코드를 사용하여 글꼴, 텍스트 강조 등 원하는 색상을 정확하게 선택하세요.<br />[블로그 게시물](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)에서 세부 정보 보기
 
 - **발표하는 동안 변경 내용 동기화:** 프레젠테이션이 슬라이드 쇼 모드에 있더라도 내용이 변경될 때마다 동기화됩니다. [자세한 정보](https://support.office.com/article/5a2921a9-97d4-436b-b0cd-295dfe2236bb)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/)에서 세부 정보 보기
@@ -78,12 +68,6 @@ ms.locfileid: "44695587"
 
 ### <a name="word"></a>Word
 
-- **관련 교정 문제를 찾아 해결 합니다.** 이제 편집기 창에는 문서에서 발견 된 교정 문제에 대 한 개요가 표시 되므로 가장 관련성이 높은 항목을 수정 하는 것이 좋습니다.
-
-- **그림 뒤에 있는 내용 표시:** 슬라이드에 그림을 넣고, 사전 설정을 선택하고, 투명도 변경을 확인합니다. 바로 이 기능으로요! [자세히 알아보기](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
-
-- ** 더 많은 접근 가능한 PDF 만들기:** PDF를 만들면 액세스 가능성 검사기가 저장하기 전에 수정해야 할 접근성 문제를 해결합니다. [자세한 정보](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)<br />[블로그 게시물](https://blog-insider.office.com/2019/08/13/accessible-pdfs-made-easier/)에서 세부 정보 보기
-
 - **잉크 올가미:** 그리기 탭의 올가미 도구를 사용하면 잉크로 그린 개체를 선택할 수 있습니다. 개별 스트로크를 선택하거나 단어 전체를 선택합니다. [자세한 정보](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
 - **완벽한 색상 선택:** 16진 색상 코드를 사용하여 글꼴, 텍스트 강조 등 원하는 색상을 정확하게 선택하세요.<br />[블로그 게시물](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)에서 세부 정보 보기
@@ -91,8 +75,6 @@ ms.locfileid: "44695587"
 - **문서에 활기를 불어넣어줄 새로운 이미지:** 수천 개의 무료 스톡 이미지, 아이콘 및 스티커를 문서에서 사용할 수 있습니다. 시작 하려면 삽입 > 사진 > 스톡 이미지로 이동합니다. [자세한 정보](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/06/premium-creative-content/)에서 세부 정보 보기
 
 ### <a name="office-suite"></a>Office 제품군
-
-- **Office 아이콘이 새롭게 단장했습니다.** 간단하고 강력하며 지능적인 Office 환경을 반영하여 Office 아이콘이 다시 디자인되었습니다.
 
 - **민감도 레이블**: 조직에서 사용자 지정 권한에 대한 메시지를 표시하도록 구성한 민감도 레이블을 적용할 수 있습니다.
 
