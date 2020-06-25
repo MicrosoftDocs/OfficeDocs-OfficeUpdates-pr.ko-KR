@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 월간 채널 업데이트 내역 제공 Windows 데스크톱의 대상 릴리스
-ms.openlocfilehash: e2a72a34490e4403f36f3288fe01c18135f9a7a1
-ms.sourcegitcommit: ad8d5cd9c165adcefcb0bbfc6b26d54212bc4c6c
+ms.openlocfilehash: b162030edbc15fd4d9dd5c7ce78b75853dc417da
+ms.sourcegitcommit: a0285b69d4d48b5ef4ac3c54678fb67ce399b73e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "44796699"
+ms.lasthandoff: 06/25/2020
+ms.locfileid: "44874834"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Windows의 Office 현재 채널 (미리 보기)에 대 한 업데이트 기록
 
@@ -24,7 +24,7 @@ ms.locfileid: "44796699"
 ## <a name="office-current-channel-preview-versions-and-builds"></a>Office 현재 채널 (미리 보기) 버전 및 빌드
 
 이전에 이미 참가자 라고 불리 던 현재 채널 (미리 보기) 수준에 등록 되어 있는 경우 새 Office 기능 업데이트를 한 달에 한 번, 중요 수정 사항이 나 보안 업데이트가 포함 된 후속 빌드에 받게 됩니다. 다음 목록에는 **가장 최근에 릴리스된 빌드가 먼저 나열**된 최신 현재 채널 (Preview) 버전 및 빌드가 나와 있습니다. 새 빌드에는 이전 빌드에 포함 된 모든 업데이트가 포함 됩니다.
-릴리스 정보를 찾으려면 [Office 참가자의 새로운 기능](https://support.office.com/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24)을 참조 하세요.
+릴리스 정보를 찾으려면를 [참조](https://docs.microsoft.com/en-us/OfficeUpdates/current-channel-preview)하세요. 또한 [Office 참가자의 새로운 기능](https://support.office.com/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24)을 확인할 수 있습니다.
 
 
 > [!IMPORTANT]

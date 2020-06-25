@@ -9,14 +9,14 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: ab1953f105cbab856ac183335fb54edb538b5d43
-ms.sourcegitcommit: 6bd9e41014037650170125aaed9847880d438645
+ms.openlocfilehash: 9585d43c73676e2a12f38b34cbd6c57172bbe917
+ms.sourcegitcommit: a0285b69d4d48b5ef4ac3c54678fb67ce399b73e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/19/2020
-ms.locfileid: "44814307"
+ms.lasthandoff: 06/25/2020
+ms.locfileid: "44874794"
 ---
-# <a name="release-notes-for-office-insiders"></a>Office 참가자에 대한 릴리스 정보
+# <a name="release-notes-for-beta-channel"></a>베타 채널에 대 한 릴리스 정보
 
 이 문서에는 Word, Excel, PowerPoint, Outlook, Access 및 Windows 데스크톱 프로젝트의 베타 채널 빌드를 위한 릴리스 정보가 포함 되어 있습니다. 매주 Microsoft는 흥미로운 새 기능, 중요한 수정 사항, 알리고자 하는 중요한 문제를 강조합니다. 일정 기간에 걸쳐 기능 (및 수정 사항)을 베타 채널에 배포 하는 경우가 많습니다. 이로서 더욱 광범위한 사용자들에게 기능을 릴리스하기 전에 원활하게 작동하는지 확인할 수 있습니다. 따라서 아래에 설명된 기능이 보이지 않더라도 곧 제공되게 되므로 걱정할 필요가 없습니다.  
 

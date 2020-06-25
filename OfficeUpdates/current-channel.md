@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 앱에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 913f473e8dd645c58aa17efb1221eb25cc280971
-ms.sourcegitcommit: 69887e53fc949b0890c3a00a8504ac732ee2cad8
+ms.openlocfilehash: 6ff977d90ed98988af281f026276cbc3f0d21807
+ms.sourcegitcommit: a0285b69d4d48b5ef4ac3c54678fb67ce399b73e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/19/2020
-ms.locfileid: "44810870"
+ms.lasthandoff: 06/25/2020
+ms.locfileid: "44874784"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>2020의 현재 채널 릴리스에 대 한 릴리스 정보
 
@@ -31,6 +31,74 @@ ms.locfileid: "44810870"
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2005-june-24"></a>버전 2005:6 월 24 일
+*버전 2005 (빌드 12827.20470)*
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="access"></a>Access
+
+- 이 버그는 이제 수정 되었습니다. 앱에서 충돌을 발생 시 키 지 않고 코드에 날짜/시간 확장 데이터 형식을 호출할 수 있어야 합니다. 추가 문제가 발생 하는 경우 팀에 게 알려 주세요.
+
+
+- 이제이 문제가 해결 되었습니다. 이제 가장 많이 업데이트 된 Access 버전으로 되돌리고 DAO/VBA를 사용 하 여 decimal 데이터 형식을 관리 하 고 편집할 수 있습니다. 데이터 형식을 사용 하는 데 대 한 추가 문제가 발생 한 경우 액세스 팀에이를 알려야 합니다.
+
+
+### <a name="excel"></a>Excel
+
+- SharePoint/OneDrive에 저장할 때 CustomUI XML이 사용자 지정 리본 탭을 제거 하도록 하는 문제를 해결 했습니다.
+
+
+
+
+
+### <a name="outlook"></a>Outlook
+
+- M365 Business Plus 계획에 포함 된 서비스에 대해 지불한 사용자의 경우 Outlook에서 데이터 손실 보호 정책 팁 사용자를 사용 하도록 설정 하지 못한 문제를 해결 했습니다.
+
+
+- 사용자가 끌어서 놓기를 통해 파일 시스템에 복사한 첨부 파일이 만들어진 만든 날짜를 4501 1 월 1 일로 설정 하 여 표시 되는 문제를 해결 했습니다.
+
+
+- &quot;Outlook에서 규칙을 업데이트할 때 사용자가이 컴퓨터의 규칙을 볼 때 Microsoft Exchange 메시지의 규칙이 일치 하지 않는 문제를 해결 &quot; 했습니다.
+
+
+- 공유 일정을 향상 시켜 사용자가 일정 오류를 볼 수 있도록 하는 문제를 해결 했습니다.
+
+
+- 일부 시나리오에서 사용자에 게 일시적으로 중단 및 충돌이 발생 하는 문제를 해결 했습니다.
+
+
+- 사용자가 받은 편지함 오류 수정 도구를 실행 하 라는 메시지가 계속 표시 되는 문제를 해결 했습니다.
+
+
+- 기능을 제안 하 여 결과를 반환 하지 않고 사용자에 게 새 기능 아이디어를 전송 하는 옵션이 없는 상태로 유지 되는 문제를 해결 했습니다.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 추천 창에서 발생 하는 충돌 문제를 해결 했습니다.
+
+
+### <a name="project"></a>Project
+
+- 100% 완료로 표시 된 작업이 100% 완료로 지워지는 변경 되는 문제를 해결 했습니다.
+
+### <a name="word"></a>Word
+
+- 앱에서 일부 콘텐츠를 끌 때 충돌이 발생 했을 수 있는 문제를 해결 했습니다.
+
+
+### <a name="office-suite"></a>Office 제품군
+
+- 이 변경 내용은 Gif 또는 3D 모델과 같은 애니메이션 콘텐츠를 로드 하 고 재생할 때 발생할 수 있는 중단을 해결 합니다.
+
 
 
 
@@ -431,7 +499,7 @@ ms.locfileid: "44810870"
 ## <a name="version-2002-march-10"></a>버전 2002: 3월 10일
 *버전 2002 (빌드 12527.20278)*
 
-나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열되어 있습니다.
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -621,7 +689,7 @@ ms.locfileid: "44810870"
 ## <a name="version-1912-january-14"></a>버전 1912: 1월 14일
 *버전 1912(빌드 12325.20298)*
 
-[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열되어 있습니다.
 
 ## <a name="version-1912-january-08"></a>버전 1912: 1월 8일
 *버전 1912(빌드 12325.20288)*
