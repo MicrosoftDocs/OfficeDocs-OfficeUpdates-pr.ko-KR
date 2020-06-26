@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 이후 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 6287f468ba3d600551da43047227454b26a05e06
-ms.sourcegitcommit: ad8d5cd9c165adcefcb0bbfc6b26d54212bc4c6c
+ms.openlocfilehash: 5d3f5834c1199f9d68fd527d231114611b2255fc
+ms.sourcegitcommit: 6cec37b303b316500774846b6fcdd83814b2b364
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "44796689"
+ms.lasthandoff: 06/25/2020
+ms.locfileid: "44889064"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 현재 채널에 대 한 릴리스 정보 (미리 보기)
 
@@ -32,6 +32,46 @@ ms.locfileid: "44796689"
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2006-june-25"></a>버전 2006:6 월 25 일
+*버전 2006 (빌드 13001.20266)*
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="visio"></a>Visio
+
+- **Excel에서 세련 되 게 Visio 다이어그램 만들기:** 워크시트의 데이터를 기반으로 하는 순서도 또는 조직도를 만듭니다.
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="access"></a>Access
+
+- <div>이제이 문제가 해결 되었습니다. 이 프로세스에 대 한 추가 문제가 발생 하는 경우 팀에 알려 주시기 바랍니다.</div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span style="display:inline !important;">사용자에 게 표시 <span>&nbsp;</span> 되는 문제를 해결 합니다</span> . <span style="box-sizing:border-box;font-family:Calibri, sans-serif;font-size:14.6667px;display:inline !important;"> &nbsp; 끌어서 놓기를 통해 파일 시스템에 복사 된 첨부 파일이 만든 날짜를 &nbsp; 4501 년 1 월 1 일로 설정 합니다.</span><br></div>
+
+
+- <div><span style="font-family:&quot;Segoe UI&quot;, system-ui, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, sans-serif;display:inline !important;">공유 일정을 향상 시켜 사용자가 일정 오류를 볼 수 있는 문제를 해결 합니다.</span><br></div>
+
+
+- <div><span style="display:inline !important;">사용자가 받은 편지함 오류 수정 도구를 실행 하 라는 메시지가 계속 표시 되는 문제를 해결 합니다.</span><br></div>
+
+
+- <div><span style="display:inline !important;">기능을 제안 하 여 결과를 반환 하지 않고 사용자에 게 새 기능 아이디어를 제출 하는 옵션이 없는 상태에서 기능을 검색 하는 문제를 해결 합니다.</span><br></div>
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2006-june-18"></a>버전 2006:6 월 18 일
 *버전 2006 (빌드 13001.20198)*
