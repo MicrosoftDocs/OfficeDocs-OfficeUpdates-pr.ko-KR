@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 9585d43c73676e2a12f38b34cbd6c57172bbe917
-ms.sourcegitcommit: a0285b69d4d48b5ef4ac3c54678fb67ce399b73e
+ms.openlocfilehash: 55d62bf10375c72a09f93369c20f7f5b6d1b963f
+ms.sourcegitcommit: f9bf47d0d27e084205311ab6e844d044da83f252
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/25/2020
-ms.locfileid: "44874794"
+ms.lasthandoff: 06/26/2020
+ms.locfileid: "44906913"
 ---
 # <a name="release-notes-for-beta-channel"></a>베타 채널에 대 한 릴리스 정보
 
@@ -30,6 +30,34 @@ ms.locfileid: "44874794"
 [//]: # (제거하지 마세요)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+## <a name="version-2007-june-26"></a>버전 2007:6 월 26 일
+*버전 2007 (빌드 13020.20004)*
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="access"></a>Access
+
+- 연결 된 SQL 테이블을 새로 고치면 연결 된 테이블 관리자가 기본 키를 입력 하 라는 메시지가 표시 되는 문제를 해결 했습니다.
+- 쿼리 편집기의 쿼리가 스크롤되어 보이지 않는 문제를 해결 했습니다.
+- 쿼리 실행이 예상 보다 두 배의 시간을 차지 하는 문제를 해결 했습니다.
+
+### <a name="outlook"></a>Outlook
+
+- 사용자가 메일 그룹의 ' 다른 사람 이름으로 보내기 ' 또는 ' 대신 보내기 '를 할 수 없는 문제를 해결 했습니다.
+- 메시지에 이미지를 인라인으로 삽입 한 후 메시지를 드래프트로 저장 하면 이미지 크기가 조정 되는 문제가 해결 되었습니다.
+- 주제를 편집한 후 NDR 메시지 본문을 유니코드에서 ASCII로 변경 하는 문제를 해결 했습니다.
+
+### <a name="project"></a>Project
+
+- 정부 커뮤니티 클라우드 환경의 Project Planner 링크가 사용 하지 않도록 설정 되는 문제를 해결 했습니다.
+
+### <a name="office-suite"></a>Office 제품군
+
+- Word, Excel 또는 PowerPoint 파일에 SVG (확장 가능한 벡터 그래픽)에 삽입 된 텍스트를 삽입 한 후 파일을 저장 하 고 닫은 후 파일을 다시 여는 문제를 illegible.
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2007-june-19"></a>버전 2007:6 월 19 일
 *버전 2007 (빌드 13012.20000)*
