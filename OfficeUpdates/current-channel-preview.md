@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 이후 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 5d3f5834c1199f9d68fd527d231114611b2255fc
-ms.sourcegitcommit: 6cec37b303b316500774846b6fcdd83814b2b364
+ms.openlocfilehash: fbc1e657c6afa8d50b5756ef5c8584ad74c3be34
+ms.sourcegitcommit: fba8a23022418305d52bcbd57be1a3fc77647e01
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/25/2020
-ms.locfileid: "44889064"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45001182"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 현재 채널에 대 한 릴리스 정보 (미리 보기)
 
@@ -362,10 +362,7 @@ ms.locfileid: "44889064"
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="feature-updates"></a>기능 업데이트
-### <a name="excel"></a>Excel
 
-- **Excel 데이터 형식을 사용 하 여 POWER BI에서 조직 데이터 가져오기:** Excel 데이터 형식을 사용 하 여 조직의 데이터를 삽입할 수 있습니다. 통합 문서의 셀을 변환 하 고 추가 정보를 가져오고 필요한 경우 데이터를 새로 고칩니다.
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)

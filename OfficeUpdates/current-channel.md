@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 앱에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 6ff977d90ed98988af281f026276cbc3f0d21807
-ms.sourcegitcommit: a0285b69d4d48b5ef4ac3c54678fb67ce399b73e
+ms.openlocfilehash: 7003006056b0cd045d6a21111aee512cef07e040
+ms.sourcegitcommit: f92dbf2ec2e2f11a344e97327e9cef08e9569670
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/25/2020
-ms.locfileid: "44874784"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45015630"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>2020의 현재 채널 릴리스에 대 한 릴리스 정보
 
@@ -31,6 +31,89 @@ ms.locfileid: "44874784"
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2006-june-30"></a>버전 2006:6 월 30 일
+*버전 2006 (빌드 13001.20266)*
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="excel"></a>Excel
+
+- **긴 파일 이름:** Windows 데스크톱 Excel에서는 이제 최대 400 자의 이름과 경로를 포함 하는 OneDrive/SharePoint 파일을 지원 합니다.
+
+### <a name="outlook"></a>Outlook
+
+- **Outlook에서 메일 작성 시 @멘션 제안을 사용하지 않는 새 옵션:** @멘션 선택기가 유용하기보다는 불편하게 느껴지나요? 원하는 경우 바로 지금 비활성화할 수 있습니다.<br />[블로그 게시물](https://blog-insider.office.com/2020/03/26/feedback-in-action-disable-mentions/)에서 세부 정보 보기
+
+- **IT 관리자에 대한 인시던트 알림:** Microsoft 365 테넌트 전역 관리자 및 Office 앱 관리자는 Windows용 Outlook의 새로운 오른쪽 패널 알림을 통해 사용자에게 영향을 주는 Outlook 및 O365 Exchange 인시던트에 대한 알림을 받습니다. [자세한 정보](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
+
+- **Outlook toast 알림에 추가 된 추가 단추:** Windows 10에서 Outlook을 실행 하는 경우 이제 빠른 실행 단추가 Outlook 알림으로 표시 됩니다.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **PowerPoint에서 스트림 비디오 성능이 향상 되었습니다.** 비디오 로드 시간을 최소화 하 고 매끄러운 보기 환경을 만들기 위해 Microsoft Stream 비디오의 재생 성능을 개선 했습니다. Microsoft Stream의 회사 동영상을 사용 하 여 더 나은 프레젠테이션을 만듭니다.
+
+### <a name="teams"></a>Teams
+
+- **PSTN 참가자 전화 번호는 외부 사용자 로부터 마스크 됩니다.** 팀 회의에 음성 회의를 사용할 수 있는 고객의 경우에는 PSTN 참가자의 전화 번호를 조직 외부에서 가입한 사용자에 게 마스크 합니다.
+
+- **채널 알림 설정을 보다 간단 하 게 관리할 수 있습니다.** 팀 및 채널 목록이 나 채널 헤더를 통해 사용자는 한 번의 클릭으로 모든 활동을 설정 또는 해제 하 고 기본 설정 순열 설정을 위해 사용자 정의로 전체를 다이빙 하 여 알림 설정을 빠르게 관리할 수 있습니다.
+
+- **Walkie Talkie:** 푸시를 통한 인스턴트 음성 통신
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="access"></a>Access
+
+- 쿼리 실행이 예상 보다 두 배의 시간을 차지 하는 문제를 해결 했습니다.
+
+
+### <a name="excel"></a>Excel
+
+- SharePoint/OneDrive에 저장할 때 CustomUI XML이 사용자 지정 리본 탭을 제거 하도록 하는 문제를 해결 했습니다.
+
+
+### <a name="outlook"></a>Outlook
+
+- 사용자가 끌어서 놓기를 통해 파일 시스템에 복사한 첨부 파일이 만들어진 만든 날짜를 4501 1 월 1 일로 설정 하 여 표시 되는 문제를 해결 했습니다.
+
+- 공유 일정을 향상 시켜 사용자가 일정 오류를 볼 수 있도록 하는 문제를 해결 했습니다.
+
+
+- 사용자가 받은 편지함 오류 수정 도구를 실행 하 라는 메시지가 계속 표시 되는 문제를 해결 했습니다.
+
+
+- 클라우드 설정이 사용 하도록 설정 된 경우 Ctrl + 클릭 하 여 작업을 중지 하는 문제를 해결 했습니다.
+
+
+- 기능을 제안 하 여 결과를 반환 하지 않고 사용자에 게 새 기능 아이디어를 전송 하는 옵션이 없는 상태로 유지 되는 문제를 해결 했습니다.
+
+
+### <a name="project"></a>Project
+
+- URL이 .com으로 끝난 경우 Project Web App에서 Project 데스크톱 클라이언트의 프로젝트를 열 수 없는 문제를 해결 했습니다.
+
+
+- 프로젝트 요약 작업 (프로젝트 시작/작업 필드)이 변경 될 때 ProjectBeforeTaskChange 이벤트가 발생 하지 않는 문제를 해결 했습니다.
+
+
+- 100% 완료로 표시 된 작업이 100% 완료로 지워지는 변경 되는 문제를 해결 했습니다.
+
+
+### <a name="word"></a>Word
+
+- URL에 쿼리 구성 요소가 포함 된 경우 aspx (사용자 지정 문서 배달)에서 Word 문서를 여는 문제를 해결 했습니다.
 
 
 
@@ -499,7 +582,7 @@ ms.locfileid: "44874784"
 ## <a name="version-2002-march-10"></a>버전 2002: 3월 10일
 *버전 2002 (빌드 12527.20278)*
 
-보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열되어 있습니다.
+나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -689,7 +772,7 @@ ms.locfileid: "44874784"
 ## <a name="version-1912-january-14"></a>버전 1912: 1월 14일
 *버전 1912(빌드 12325.20298)*
 
-보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열되어 있습니다.
+[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
 
 ## <a name="version-1912-january-08"></a>버전 1912: 1월 8일
 *버전 1912(빌드 12325.20288)*

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 참가자에게 Windows Desktop용 월 단위 채널 참가자 빠른 릴리스에 대한 업데이트 내역을 제공합니다.
-ms.openlocfilehash: 3a015030f5f82cfab54f50c45492a0069a85aac0
-ms.sourcegitcommit: 75dd224cc25daf9e0dae2056ea7d53e7e7e790e3
+ms.openlocfilehash: 38755dab9e7e7d6b2497245da2b65a23a241f0db
+ms.sourcegitcommit: f92dbf2ec2e2f11a344e97327e9cef08e9569670
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/23/2020
-ms.locfileid: "44853956"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45015640"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Office 베타 채널에 대 한 업데이트 기록
 
@@ -38,6 +38,12 @@ Click [here](https://insider.office.com/) for more information on the Insiders P
 
 
 [//]: # (제거하지 마세요)
+
+**2020 년 7 월 01 일**<br/>
+버전 2007 (빌드 13029.20006)<br/>
+
+**2020 년 6 월 29 일**<br/>
+버전 2007 (빌드 13025.20000)<br/>
 
 **2020 년 6 월 23 일**<br/>
 버전 2007 (빌드 13020.20004)<br/>
