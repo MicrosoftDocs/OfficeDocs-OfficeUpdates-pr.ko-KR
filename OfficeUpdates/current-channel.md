@@ -9,12 +9,11 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 앱에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 7003006056b0cd045d6a21111aee512cef07e040
-ms.sourcegitcommit: f92dbf2ec2e2f11a344e97327e9cef08e9569670
-ms.translationtype: MT
+ms.openlocfilehash: e5be723b830639d3ef70ee249fa123fec97e604f
+ms.sourcegitcommit: ac8d77e50d9588c67e18cc5e1e294179fbadfea3
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45015630"
+ms.lasthandoff: 07/07/2020
+ms.locfileid: "45049488"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>2020의 현재 채널 릴리스에 대 한 릴리스 정보
 
@@ -824,3 +823,7 @@ ms.locfileid: "45015630"
 
 > [!NOTE]
 > Office를 사용하는 데 발생한 문제에 대해 도움이 필요하면 [Microsoft의 Answers 포럼](https://answers.microsoft.com/) 또는 [기술 커뮤니티](https://techcommunity.microsoft.com/)에 질문을 게시하거나 [지원 서비스](https://support.microsoft.com/contactus)에 문의할 수 있습니다.
+
+[//]: # (관리 센터 메타 데이터 콘텐츠를 수정 하지 않음 시작)
+[//]: # (| Win32 | 참조 | 프로덕션 | | 16.0.13001.20266 | 버전-2006-june-30 |)
+[//]: # (관리 센터 메타 데이터 콘텐츠 종료를 수정 하지 않음)
