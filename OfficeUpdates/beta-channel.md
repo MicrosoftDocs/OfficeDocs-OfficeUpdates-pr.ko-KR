@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 2daa8404f34380ab751e17a527885dba8f084380
-ms.sourcegitcommit: 3e203ec35b9830a70836fe7b50bcf4fea5615b57
+ms.openlocfilehash: b7337f4dcc20631c9f0b941a7ff8060816d89e73
+ms.sourcegitcommit: 6e27566f8c2e6718da5c5597a62f91a882c8b20f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "45037082"
+ms.lasthandoff: 07/07/2020
+ms.locfileid: "45052631"
 ---
 # <a name="release-notes-for-beta-channel"></a>베타 채널에 대 한 릴리스 정보
 
@@ -997,3 +997,7 @@ ms.locfileid: "45037082"
 - 노르웨이 니노르스크(nn-no) 교정 도구 패키지가 잘못 설치될 수 있는 문제를 해결합니다.
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+
+[//]: # (관리 센터 메타 데이터 콘텐츠를 수정 하지 않음 시작)
+[//]: # (관리 센터 메타 데이터 콘텐츠 종료를 수정 하지 않음)
