@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 릴리스 정보에 대한 링크를 포함하여 Microsoft 365 앱 릴리스의 전체 목록을 날짜별로 구성해서 IT 전문가에게 제공합니다.
-ms.openlocfilehash: c3e7222a89bc6e854c63472f3cf123feaeb8bcda
-ms.sourcegitcommit: 18f8f5d6dcd9743005ae2ba87c8e9e2d9edfe8c4
+ms.openlocfilehash: 5307b0e58f5419c004594df7a21b3c9959c35711
+ms.sourcegitcommit: fba8a23022418305d52bcbd57be1a3fc77647e01
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44211733"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45001165"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 앱의 업데이트 기록(날짜순)
 
@@ -36,38 +36,44 @@ ms.locfileid: "44211733"
 
 |**채널**|**버전**|**빌드**|**릴리스 날짜**|**다음 이하 버전까지 지원**|
 |:-----|:-----|:-----|:-----|:-----|
-|월간<br/>|2004<br/>|12730.20270<br/>|2020년 5월 12일<br/>|버전 2005 출시<br/>|
-|월 단위 엔터프라이즈<br/>|2003<br/>|12624.20588<br/>|2020년 5월 12일<br/>|2020년 7월 14일<br/>|
-|반기(대상 지정)<br/>|2002<br/>|12527.20612<br/>|2020년 5월 12일<br/>|2020년 9월 8일<br/>|
-|반기<br/>|1908<br/>|11929.20776<br/>|2020년 5월 12일<br/>|2021년 3월 9일<br/>|
-|반기<br/>|1902<br/>|11328.20586<br/>|2020년 5월 12일<br/>|2020년 9월 8일<br/>|
+|현재 채널<br/>|2006<br/>|13001.20266<br/>|2020년 6월 30일<br/>|버전 2007 출시<br/>|
+|월 단위 엔터프라이즈 채널<br/>|2004<br/>|12730.20430<br/>|2020년 6월 9일<br/>|2020년 8월 11일<br/>|
+|월 단위 엔터프라이즈 채널<br/>|2003<br/>|12624.20708<br/>|2020년 6월 9일<br/>|2020년 7월 14일<br/>|
+|반기 엔터프라이즈 채널(미리 보기)<br/>|2002<br/>|12527.20720<br/>|2020년 6월 9일<br/>|2020년 9월 8일<br/>|
+|반기 엔터프라이즈 채널<br/>|1908<br/>|11929.20838<br/>|2020년 6월 9일<br/>|2021년 3월 9일<br/>|
+|반기 엔터프라이즈 채널<br/>|1902<br/>|11328.20602<br/>|2020년 6월 9일<br/>|2020년 9월 8일<br/>|
 
 [//]: # (EOSTABLEEND)
 
 이전 버전의 Microsoft 365 앱에서 가장 최근 릴리스로 업데이트할 경우 대략적인 다운로드 크기에 대한 내용은 [Microsoft 365 앱 업데이트의 다운로드 크기](download-sizes-office365-proplus-updates.md)를 참조하세요.
 
-다음의 표는 매월, 반기 별(대상 지정) 그리고 연중 업데이트 채널에서 릴리스된 각 Microsoft 365 앱 업데이트의 버전 및 빌드 번호 목록을 제공합니다. 표의 각 항목은 해당 릴리스의 릴리스 노트에 직접 연결됩니다. 이 릴리스 정보는 Microsoft 365 앱 업데이트에 포함된 기능 및 보안 업데이트 및 비보안 업데이트에 대한 정보를 제공합니다.  
+다음 표에서는 다음 업데이트 채널에서 릴리스된 Microsoft 365 앱에 대한 각 업데이트의 버전 및 빌드 번호 목록을 제공합니다. 현재, 월간 엔터프라이즈, 반기 엔터프라이즈(미리 보기) 및 반기 엔터프라이즈 대상입니다. 표의 각 항목은 해당 릴리스의 릴리스 노트에 직접 연결됩니다. 이 릴리스 정보는 Microsoft 365 앱 업데이트에 포함된 기능 및 보안 업데이트 및 비보안 업데이트에 대한 정보를 제공합니다.  
 
 [//]: # (HISTORYTABLESTART)
 
-|**년도**|**릴리스 날짜**|**월별 채널**|**월 단위 엔터프라이즈 채널**|**반기별 채널(지정됨)**|**반기 채널**|
+|**년도**|**릴리스 날짜**|**현재 채널**|**월 단위 엔터프라이즈 채널**|**반기 엔터프라이즈 채널(미리 보기)**|**반기 엔터프라이즈 채널**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
-|2020|5월 12일|[버전 2004(빌드 12730.20270)](monthly-channel-2020.md#version-2004-may-12)|[버전 2003 (빌드 12624.20588)](monthly-enterprise-channel-2020.md#version-2003-may-12)<br/>|[버전 2002 (빌드 12527.20612)](semi-annual-channel-targeted-2020.md#version-2002-may-12)|[버전 1908(빌드 11929.20776)](semi-annual-channel-2020.md#version-1908-may-12)<br/>[버전 1902(빌드 11328.20586)](semi-annual-channel-2020.md#version-1902-may-12)|
-|2020|5월 4일|[버전 2004(빌드 12730.20250)](monthly-channel-2020.md#version-2004-may-04)| | |[버전 1908(빌드 11929.20752)](semi-annual-channel-2020.md#version-1908-may-04)<br/>[버전 1902(빌드 11328.20572)](semi-annual-channel-2020.md#version-1902-may-04)|
-|2020|4월 29일|[버전 2004 (빌드 12730.20236)](monthly-channel-2020.md#version-2004-april-29)| | | |
-|2020|4월 15일|[버전 2003(빌드 12624.20466)](monthly-channel-2020.md#version-2003-april-15)| | | |
-|2020|4월 14일|[버전 2003(빌드 12624.20442)](monthly-channel-2020.md#version-2003-april-14)| |[버전 2002 (빌드 12527.20442)](semi-annual-channel-targeted-2020.md#version-2002-april-14)|[버전 1908(빌드 11929.20708)](semi-annual-channel-2020.md#version-1908-april-14)<br/>[버전 1902(빌드 11328.20564)](semi-annual-channel-2020.md#version-1902-april-14)|
-|2020|3월 31일|[버전 2003 (빌드 12624.20382)](monthly-channel-2020.md#version-2003-march-31)| | | |
-|2020|3월 25일|[버전 2003 (빌드 12624.20320)](monthly-channel-2020.md#version-2003-march-25)| | | |
-|2020|3월 10일|[버전 2002 (빌드 12527.20278)](monthly-channel-2020.md#version-2002-march-10)| |[버전 2002 (빌드 12527.20278)](semi-annual-channel-targeted-2020.md#version-2002-march-10)|[버전 1908 (빌드 11929.20648)](semi-annual-channel-2020.md#version-1908-march-10)<br/>[버전 1902 (빌드 11328.20554)](semi-annual-channel-2020.md#version-1902-march-10)|
-|2020|3월 1일|[버전 2002 (빌드 12527.20242)](monthly-channel-2020.md#version-2002-march-01)| | | |
-|2020|2월 25일|[버전 2002 (빌드 12527.20194)](monthly-channel-2020.md#version-2002-february-25)| | | |
-|2020|2월 19일|[버전 2001 (빌드 12430.20288)](monthly-channel-2020.md#version-2001-february-19)| | | |
-|2020|2월 11일|[버전 2001 (빌드 12430.20264)](monthly-channel-2020.md#version-2001-february-11)| |[버전 1908 (빌드 11929.20606)](semi-annual-channel-targeted-2020.md#version-1908-february-11)|[버전 1908 (빌드 11929.20606)](semi-annual-channel-2020.md#version-1908-february-11)<br/>[버전 1902 (빌드 11328.20526)](semi-annual-channel-2020.md#version-1902-february-11)<br/>[버전 1808 (빌드 10730.20438)](semi-annual-channel-2020.md#version-1808-february-11)|
-|2020|1월 30일|[버전 2001 (빌드 12430.20184)](monthly-channel-2020.md#version-2001-january-30)| | | |
-|2020|1월 22일|[버전 1912(빌드 12325.20344)](monthly-channel-2020.md#version-1912-january-22)| | | |
-|2020|1월 14일|[버전 1912 (빌드 12325.20298)](monthly-channel-2020#version-1912-january-14)| |[버전 1908 (빌드 11929.20562)](semi-annual-channel-targeted-2020.md#version-1908-january-14)|[버전 1908 (빌드 11929.20562)](semi-annual-channel-2020.md#version-1908-january-14)<br/>[버전 1902 (빌드 11328.20512)](semi-annual-channel-2020.md#version-1902-january-14)<br/>[버전 1808 (빌드 10730.20432)](semi-annual-channel-2020.md#version-1808-january-14)|
-|2020|1월 8일|[버전 1912(빌드 12325.20288)](monthly-channel-2020#version-1912-january-08)| | | |
+|2020|6월 30일|[버전 2006(빌드 13001.20266)](current-channel.md#version-2006-june-30)| | | |
+|2020|6월 24일|[버전 2005(빌드 12827.20470)](current-channel.md#version-2005-june-24)| | | |
+|2020|6월 9일|[버전 2005(빌드 12827.20336)](current-channel.md#version-2005-june-09)|[버전 2004(빌드 12730.20430)](monthly-enterprise-channel.md#version-2004-june-09)<br/>[버전 2003(빌드 12624.20708)](monthly-enterprise-channel.md#version-2003-june-09)|[버전 2002(빌드 12527.20720)](semi-annual-enterprise-channel-preview.md#version-2002-june-09)|[버전 1908(빌드 11929.20838)](semi-annual-enterprise-channel.md#version-1908-june-09)<br/>[버전 1902(빌드 11328.20602)](semi-annual-enterprise-channel.md#version-1902-june-09)|
+|2020|6월 2일|[버전 2005(빌드 12827.20268)](current-channel.md#version-2005-june-02)| | | |
+|2020|5월 21일|[버전 2004(빌드 12730.20352)](current-channel.md#version-2004-may-21)| | | |
+|2020|5월 12일|[버전 2004(빌드 12730.20270)](current-channel.md#version-2004-may-12)|[버전 2003 (빌드 12624.20588)](monthly-enterprise-channel.md#version-2003-may-12)<br/>|[버전 2002 (빌드 12527.20612)](semi-annual-enterprise-channel-preview.md#version-2002-may-12)|[버전 1908(빌드 11929.20776)](semi-annual-enterprise-channel.md#version-1908-may-12)<br/>[버전 1902(빌드 11328.20586)](semi-annual-enterprise-channel.md#version-1902-may-12)|
+|2020|5월 4일|[버전 2004(빌드 12730.20250)](current-channel.md#version-2004-may-04)| | |[버전 1908(빌드 11929.20752)](semi-annual-enterprise-channel.md#version-1908-may-04)<br/>[버전 1902(빌드 11328.20572)](semi-annual-enterprise-channel.md#version-1902-may-04)|
+|2020|4월 29일|[버전 2004 (빌드 12730.20236)](current-channel.md#version-2004-april-29)| | | |
+|2020|4월 15일|[버전 2003(빌드 12624.20466)](current-channel.md#version-2003-april-15)| | | |
+|2020|4월 14일|[버전 2003(빌드 12624.20442)](current-channel.md#version-2003-april-14)| |[버전 2002 (빌드 12527.20442)](semi-annual-enterprise-channel-preview.md#version-2002-april-14)|[버전 1908(빌드 11929.20708)](semi-annual-enterprise-channel.md#version-1908-april-14)<br/>[버전 1902(빌드 11328.20564)](semi-annual-enterprise-channel.md#version-1902-april-14)|
+|2020|3월 31일|[버전 2003 (빌드 12624.20382)](current-channel.md#version-2003-march-31)| | | |
+|2020|3월 25일|[버전 2003 (빌드 12624.20320)](current-channel.md#version-2003-march-25)| | | |
+|2020|3월 10일|[버전 2002 (빌드 12527.20278)](current-channel.md#version-2002-march-10)| |[버전 2002 (빌드 12527.20278)](semi-annual-enterprise-channel-preview.md#version-2002-march-10)|[버전 1908 (빌드 11929.20648)](semi-annual-enterprise-channel.md#version-1908-march-10)<br/>[버전 1902 (빌드 11328.20554)](semi-annual-enterprise-channel.md#version-1902-march-10)|
+|2020|3월 1일|[버전 2002 (빌드 12527.20242)](current-channel.md#version-2002-march-01)| | | |
+|2020|2월 25일|[버전 2002 (빌드 12527.20194)](current-channel.md#version-2002-february-25)| | | |
+|2020|2월 19일|[버전 2001 (빌드 12430.20288)](current-channel.md#version-2001-february-19)| | | |
+|2020|2월 11일|[버전 2001 (빌드 12430.20264)](current-channel.md#version-2001-february-11)| |[버전 1908 (빌드 11929.20606)](semi-annual-enterprise-channel-preview.md#version-1908-february-11)|[버전 1908 (빌드 11929.20606)](semi-annual-enterprise-channel.md#version-1908-february-11)<br/>[버전 1902 (빌드 11328.20526)](semi-annual-enterprise-channel.md#version-1902-february-11)<br/>[버전 1808 (빌드 10730.20438)](semi-annual-enterprise-channel.md#version-1808-february-11)|
+|2020|1월 30일|[버전 2001 (빌드 12430.20184)](current-channel.md#version-2001-january-30)| | | |
+|2020|1월 22일|[버전 1912(빌드 12325.20344)](current-channel.md#version-1912-january-22)| | | |
+|2020|1월 14일|[버전 1912 (빌드 12325.20298)](current-channel#version-1912-january-14)| |[버전 1908 (빌드 11929.20562)](semi-annual-enterprise-channel-preview.md#version-1908-january-14)|[버전 1908 (빌드 11929.20562)](semi-annual-enterprise-channel.md#version-1908-january-14)<br/>[버전 1902 (빌드 11328.20512)](semi-annual-enterprise-channel.md#version-1902-january-14)<br/>[버전 1808 (빌드 10730.20432)](semi-annual-enterprise-channel.md#version-1808-january-14)|
+|2020|1월 8일|[버전 1912(빌드 12325.20288)](current-channel#version-1912-january-08)| | | |
 |2019|12월 10일|[버전 1911 (빌드 12228.20364)](monthly-channel-2019#version-1911-december-10)| |[버전 1908 (빌드 11929.20516)](semi-annual-channel-2019#version-1902-december-10)  |[버전 1902 (빌드 11328.20492)](semi-annual-channel-2019#version-1902-december-10)<br/>[버전 1808 (빌드 10730.20426)](semi-annual-channel-2019.md#version-1808-december-10)|
 |2019|12월 3일|[버전 1911 (빌드 12228.20332)](monthly-channel-2019.md#version-1911-december-3)| | | |
 |2019|11월 22일|[버전 1910(빌드 12130.20410)](monthly-channel-2019.md#version-1910-november-22)| |[버전 1908(빌드 11929.20494)](semi-annual-channel-targeted-2019.md#version-1908-november-22)|[버전 1902(빌드 11328.20480)](semi-annual-channel-2019.md#version-1902-november-22)<br/>[버전 1808(빌드 10730.20422)](semi-annual-channel-2019.md#version-1808-november-22)|
