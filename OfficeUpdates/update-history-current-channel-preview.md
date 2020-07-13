@@ -1,5 +1,5 @@
 ---
-title: Office 현재 채널에 대 한 업데이트 기록 (미리 보기)
+title: Office 현재 채널(미리 보기)에 업데이트 기록
 ms.author: anankani
 author: anankani
 manager: andrewmo
@@ -9,22 +9,22 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 월간 채널 업데이트 내역 제공 Windows 데스크톱의 대상 릴리스
-ms.openlocfilehash: f64aecd4727f710575d87312f00e4a65eb92ce72
-ms.sourcegitcommit: 6cec37b303b316500774846b6fcdd83814b2b364
-ms.translationtype: MT
+ms.openlocfilehash: cf1196ce142f481b62565cac610396c087e7c291
+ms.sourcegitcommit: f7bb0455136794c38a7f934e391b17a9c98c9d52
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/25/2020
-ms.locfileid: "44889054"
+ms.lasthandoff: 07/10/2020
+ms.locfileid: "45094658"
 ---
-# <a name="update-history-for-office-current-channel-preview-for-windows"></a>Windows의 Office 현재 채널 (미리 보기)에 대 한 업데이트 기록
+# <a name="update-history-for-office-current-channel-preview-for-windows"></a>Windows Office 현재 채널(미리 보기)에 업데이트 기록
 
-안녕하세요, 참가자! 최신 업데이트가 설치 되어 있는지 여부를 궁금 하거나 최신 최신 채널 (미리 보기) 빌드 목록을 찾으십니까? 올바른 위치에 있습니다.
-참가자 프로그램에 대 한 자세한 내용을 보려면 [여기](https://insider.office.com/) 를 클릭 하십시오.
+안녕하세요 참가자 여러분! 최신 업데이트 설치 여부와 또는 최신 현재 채널(미리보기) 빌드의 최근 목록은 여기에서 확인하실 수 있습니다.
+참가자 프로그램에 대한 자세한 내용을 보려면 [여기](https://insider.office.com/) 클릭하세요.
 
-## <a name="office-current-channel-preview-versions-and-builds"></a>Office 현재 채널 (미리 보기) 버전 및 빌드
+## <a name="office-current-channel-preview-versions-and-builds"></a>Office 현재 채널(미리 보기) 버전 및 빌드
 
-이전에 이미 참가자 라고 불리 던 현재 채널 (미리 보기) 수준에 등록 되어 있는 경우 새 Office 기능 업데이트를 한 달에 한 번, 중요 수정 사항이 나 보안 업데이트가 포함 된 후속 빌드에 받게 됩니다. 다음 목록에는 **가장 최근에 릴리스된 빌드가 먼저 나열**된 최신 현재 채널 (Preview) 버전 및 빌드가 나와 있습니다. 새 빌드에는 이전 빌드에 포함 된 모든 업데이트가 포함 됩니다.
-릴리스 정보를 찾으려면를 [참조](https://docs.microsoft.com/en-us/OfficeUpdates/current-channel-preview)하세요. 또한 [Office 참가자의 새로운 기능](https://support.office.com/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24)을 확인할 수 있습니다.
+이전에 이후 참가자라고 불렸던 현재 채널(미리보기) 레벨에 등록한 경우 새로운 Office 기능 업데이트를 약 한달에 한번 그리고 그 외 중요한 수정 및 보안 보조 빌드를 얻을 수 있습니다. 다음 목록에서는 가장 최신의 현재 채널(미리보기) 버전 및 빌드를 보여줍니다(**가장 최신 릴리스된 빌드가 먼저 보여집니다**). 새 빌드에는 이전 빌드에 포함된 모든 업데이트가 포함됩니다.
+릴리스 정보를 찾으려면 [참조](https://docs.microsoft.com/ko-KR/OfficeUpdates/current-channel-preview) 하세요. [Office 참가자의 새로운 기능](https://support.office.com/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24)을 참조하세요.
 
 
 > [!IMPORTANT]
@@ -38,29 +38,32 @@ ms.locfileid: "44889054"
 
 [//]: # (제거하지 마세요)
 
-**6 월 25 일 2020**<br/>
-버전 2006 (빌드 13001.20266)<br/>
+**2020년 7월 9일**<br/>
+버전 2006(빌드 13001.20384)<br/>
 
-**2020 년 6 월 18 일**<br/>
-버전 2006 (빌드 13001.20198)<br/>
+**2020년 6월 25일**<br/>
+버전 2006(빌드 13001.20266)<br/>
 
-**2020 년 6 월 11 일**<br/>
-버전 2006 (빌드 13001.20144)<br/>
+**2020년 6월 18일**<br/>
+버전 2006(빌드 13001.20198)<br/>
 
-**2020 년 6 월 8 일**<br/>
-버전 2005 (빌드 12827.20336)<br/>
+**2020년 6월 11일**<br/>
+버전 2006(빌드 13001.20144)<br/>
 
-**2020 년 6 월 4 일**<br/>
-버전 2005 (빌드 12827.20320)<br/>
+**2020년 6월 8일**<br/>
+버전 2005(빌드 12827.20336)<br/>
 
-**5 월 29 일 2020**<br/>
-버전 2005 (빌드 12827.20268)<br/>
+**2020년 6월 4일**<br/>
+버전 2005(빌드 12827.20320)<br/>
 
-**5 월 21 일, 2020**<br/>
-버전 2005 (빌드 12827.20210)<br/>
+**2020년 5월 29일**<br/>
+버전 2005(빌드 12827.20268)<br/>
 
-**5 월 14 일 2020**<br/>
-버전 2005 (빌드 12827.20160)<br/>
+**2020년 5월 21일**<br/>
+버전 2005(빌드 12827.20210)<br/>
+
+**2020년 5월 14일**<br/>
+버전 2005(빌드 12827.20160)<br/>
 
 **2020년 5월 11일**<br/>
 버전 2004(버전 12730.20270)<br/>
