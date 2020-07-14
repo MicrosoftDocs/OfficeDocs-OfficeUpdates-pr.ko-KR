@@ -1,5 +1,5 @@
 ---
-title: 2020의 반기 엔터프라이즈 채널 릴리스에 대 한 릴리스 정보
+title: 2020의 반기 엔터프라이즈 채널 릴리스에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
@@ -9,31 +9,31 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 앱에 대한 반기 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 4e6a61acab775f8619851c4d65327616ef204a63
-ms.sourcegitcommit: 1f8cb906d8d0af5eb26eaedf008180375d2fd55d
-ms.translationtype: MT
+ms.openlocfilehash: 3fe55eb66d368490258f6d200c8553a08b556323
+ms.sourcegitcommit: afe8763e09c99ef05ff0dcd35eccf3c0fd326742
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44668153"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45121758"
 ---
-# <a name="release-notes-for-semi-annual-enterprise-channel-releases-in-2020"></a>2020의 반기 엔터프라이즈 채널 릴리스에 대 한 릴리스 정보
+# <a name="release-notes-for-semi-annual-enterprise-channel-releases-in-2020"></a>2020의 반기 엔터프라이즈 채널 릴리스에 대한 릴리스 정보
 
-이러한 릴리스 정보는 enterprise 용 Microsoft 365 앱, 비즈니스용 Microsoft 365 Apps 및 Project 및 Visio 용 데스크톱 앱의 구독 버전에 대 한 2020의 반기 엔터프라이즈 채널 업데이트에 포함 된 새로운 기능 및 비보안 업데이트에 대 한 정보를 제공 합니다.
+이 릴리스 정보에서는 엔터프라이즈용 Microsoft 365 앱, 비즈니스용 Microsoft 365 앱 및 프로젝트 및 Visio용 데스크톱 앱의 구독 버전에 대한 2020년 반기별 엔터프라이즈 채널 업데이트에 포함된 새로운 기능 및 비보안 업데이트에 대한 정보를 제공합니다.
 
 > [!IMPORTANT]
-> 당사는 Microsoft 365 앱에 대한 업데이트 채널을 일부 변경하고 있습니다. 여기에는 새 업데이트 채널 추가(월별 엔터프라이즈 채널) 및 기존 업데이트 채널의 이름 변경 등이 포함됩니다. 자세한 내용은 [이 문서를 검토하세요](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> 당사는 Microsoft 365 앱에 대한 업데이트 채널을 일부 변경하고 있습니다. 여기에는 새 업데이트 채널 추가(월별 엔터프라이즈 채널) 및 기존 업데이트 채널의 이름 변경 등이 포함됩니다. 자세한 내용은 [이 문서를 참조](https://go.microsoft.com/fwlink/p/?linkid=2127441)하세요.
 
 > [!NOTE]
 >
->- 이제 반기 엔터프라이즈 채널의 사용자가 Office 포털에서 Windows 10에 Microsoft 365 앱을 다운로드 하 고 설치 하는 경우 OneNote 2016이 기본적으로 포함 됩니다.
+>- 반기 기업 채널의 사용자가 Office Portal에서 Microsoft 365 앱을 다운로드하여 Windows 10에 설치하는 경우 이제 OneNote 2016이 기본적으로 포함됩니다.
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
-## <a name="version-1908-june-09"></a>버전 1908:6 월 09 일
-*버전 1908 (빌드 11929.20838)*
+## <a name="version-1908-june-09"></a>버전 1908: 6월 9일
+*버전 1908(빌드 11929.20838)*
 
-보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열되어 있습니다.
+[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -41,9 +41,9 @@ ms.locfileid: "44668153"
 ### <a name="resolved-issues"></a>해결된 문제
 ### <a name="excel"></a>Excel
 
-- Excel 창이 팀을 통해 공유 될 때 Ctrl + Shift + 화살표 키를 사용 하 여 스크롤하면 Excel이 응답 하지 않는 문제를 해결 했습니다.
+- 팀을 통해 Excel 창을 공유할 때 Ctrl+Shift+화살표 키를 사용하여 스크롤한 후 Excel이 응답하지 않을 수 있는 문제를 해결했습니다.
 
-- 인쇄할 때 양식 컨트롤의 확인란 크기 조정에 문제가 해결되었습니다.
+- 인쇄할 때 양식 컨트롤에 있는 확인란 크기 조정 문제를 해결했습니다.
 
 - 레거시 "공유 통합 문서" 모드를 사용하여 통합 문서의 새 시트에 변경 내용을 나열할 때 충돌이 발생할 수 있습니다.
 
@@ -53,15 +53,15 @@ ms.locfileid: "44668153"
 
 ### <a name="office-suite"></a>Office 제품군
 
-- 1 월 및 7 월 2019 분기의 채널 이름이 새 채널 이름으로 업데이트 되었습니다.
+- 2019년 1월 및 7월 분기의 채널 이름을 새 채널 이름으로 업데이트했습니다.
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
-## <a name="version-1902-june-09"></a>버전 1902:6 월 09 일
-*버전 1902 (빌드 11328.20602)*
+## <a name="version-1902-june-09"></a>버전 1902: 6월 9일
+*버전 1902(빌드 11328.20602)*
 
-보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열되어 있습니다.
+[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -69,9 +69,9 @@ ms.locfileid: "44668153"
 ### <a name="resolved-issues"></a>해결된 문제
 ### <a name="office-suite"></a>Office 제품군
 
-- 1 월 및 7 월 2019 분기의 채널 이름이 새 채널 이름으로 업데이트 되었습니다.
+- 2019년 1월 및 7월 분기의 채널 이름을 새 채널 이름으로 업데이트했습니다.
 
-- C2R 빌드와 중단 된 기준 파일에서 사용 되지 않는 참조를 제거 했습니다.
+- C2R 빌드를 나눈 기준 파일에서 더 이상 사용되지 않는 참조를 제거했습니다.
 
 
 
@@ -80,7 +80,7 @@ ms.locfileid: "44668153"
 ## <a name="version-1908-may-12"></a>버전 1908: 5월 12일
 *버전 1908(빌드 11929.20776)*
 
-보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열되어 있습니다.
+나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -92,13 +92,13 @@ ms.locfileid: "44668153"
 
 ### <a name="outlook"></a>Outlook
 
-- 사용자가 최근 Windows 업데이트를 적용 한 후에 메시지 및 .oft 파일을 열 때 충돌이 발생 하는 문제를 해결 했습니다.
+- 최신 Windows 업데이트 적용 후 .msg와 .oft 파일을 여는 경우 작동이 멈추는 현상이 발생하는 문제를 해결했습니다.
 
 ### <a name="word"></a>Word
 
 - 2개의 문서를 하나로 병합할 때 발생하는 문제를 해결했습니다.
 
-- 편집에 대해 보호된 문서의 기능 비교 문제가 해결되었습니다.
+- 편집에 대해 보호된 문서의 비교 기능 문제를 해결했습니다.
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
@@ -123,16 +123,16 @@ ms.locfileid: "44668153"
 ## <a name="version-1908-may-04"></a>버전 1908: 5월 4일
 *버전 1908(빌드 11929.20752)*
 
-보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열되어 있습니다.
+[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 보안 업데이트가 나열됩니다.
 
 ### <a name="resolved-issues"></a>해결된 문제
 ### <a name="outlook"></a>Outlook
 
-- 특정 검색 결과를 선택할 때 작동이 멈추는 문제를 해결했습니다.
+- 특정 검색 결과를 선택할 때 사용자에게 충돌이 발생하는 문제를 해결했습니다.
 
-- 첨부 파일 도구에서 "클라우드에 저장" 단추가 누락되는 문제를 해결했습니다.
+- 첨부 파일 도구에서 “클라우드에 저장” 단추가 누락되는 문제를 해결했습니다.
 
-- 기본적으로 보존 정책 레이블에는 보존 기간이 괄호로 표시됩니다.이는 관리자가 정책 이름만 표시하도록 지정할 수 있는 레지스트리 키를 제공합니다.HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Preferences\HideRetentionPolicyDuration.0 = 기본값 1 = 보존 정책 텍스트에 대 한 PolicyName만 표시 합니다.
+- 기본적으로 보존 정책 레이블에는 보존 기간이 괄호로 표시됩니다.이는 관리자가 정책 이름만 표시하도록 지정할 수 있는 레지스트리 키를 제공합니다. HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Preferences\HideRetentionPolicyDuration.0 = 기본값 1 = 보존 정책 텍스트의 PolicyName만 표시됩니다.
 
 ### <a name="office-suite"></a>Office 제품군
 
@@ -146,32 +146,32 @@ ms.locfileid: "44668153"
 
 - 라이브러리 이름 또는 라이브러리 경로에 DBCS 문자가 있는 코드 라이브러리에 대한 참조를 포함하는 특정 VBA 프로젝트를 로드할 때 Office 응용 프로그램에서 손상된 것으로 보이는 Microsoft Office의 VBA(Visual Basic for Applications) 문제가 해결되었습니다.
 
-## <a name="version1908april-26"></a>버전 1908:4 월 26 일
-*버전 1908 (빌드 11929.20736)*
+## <a name="version1908april-26"></a>버전 1908: 4월 26일
+*버전 1908(빌드 11929.20736)*
 
- [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 에 나와 있는 보안 업데이트
+ [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 보안 업데이트가 나열됩니다.
 
 ### <a name="resolved-issues"></a>해결된 문제
 ### <a name="excel"></a>Excel
 
 - VBA 매크로를 사용하여 범위의 내용을 지우면 사용자가 경험할 수 있는 성능 문제를 해결했습니다.
 
-- 범위에 값을 입력하는 것이 예상외로 느려지는 VBA 문제를 해결했습니다.
+- 범위에 값을 입력하는 것이 예상한 것 보다 느려지는 VBA 문제를 해결했습니다.
 
-- 파일을 저장하고 다시 열 때 차트 축의 "값 교점" 속성이 예기치 않게 변경되는 문제를 해결 하였습니다.
+- 파일을 저장하고 다시 열 때 차트 축의 "값 교점" 속성이 예기치 않게 변경되는 문제를 해결했습니다.
 
 - Excel 2016에서 디지털 서명을 사용하여 저장한 통합 문서를 최신 버전의 Excel에서 열면 서명이 무효가 될 수 있습니다.
 
 
 ### <a name="onenote"></a>OneNote
 
-- 로 지역화는 사용자가 OneNote 사용자 환경에서 위임 되는 임시 측정값에 대해 자세히 알아보고 동기화 및 서비스 안정성을 개선 하는 데 사용할 수 있는 알림을 제공 합니다.
+- 사용자가 OneNote 사용자 환경에서 시행되는 임시 조치에 대해 자세히 알아볼 수 있는 알림을 지역화하여 동기화 및 서비스 안정성을 개선합니다.
 
 
 ## <a name="version-1908-april-14"></a>버전 1908: 4월 14일
 *버전 1908(빌드 11929.20708)*
 
-보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열되어 있습니다.
+나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
@@ -211,7 +211,7 @@ ms.locfileid: "44668153"
 ## <a name="version-1908-march-10"></a>버전 1908: 3월 10일
 *버전 1908 (빌드 11929.20648)*
 
-보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열되어 있습니다.
+나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -250,9 +250,9 @@ ms.locfileid: "44668153"
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-1908-february-11"></a>버전 1908: 2월 11일
-*버전 1908 (빌드 11929.20606)*
+*버전 1908(빌드 11929.20606)*
 
-보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열되어 있습니다.
+[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -320,7 +320,7 @@ ms.locfileid: "44668153"
 ## <a name="version-1902-february-11"></a>버전 1902: 2월 11일
 *버전 1902 (빌드 11328.20526)*
 
-보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열되어 있습니다.
+[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -342,14 +342,14 @@ ms.locfileid: "44668153"
 ## <a name="version-1808-february-11"></a>버전 1808: 2월 11일
 *버전 1808 (빌드 10730.20438)*
 
-나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-1908-january-14"></a>버전 1908: 1월 14일
 *버전 1908(빌드 11929.20562)*
 
-[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
@@ -372,7 +372,7 @@ ms.locfileid: "44668153"
 
 - **생동감 있는 워크시트 보기:** 애니메이션 3D 그래픽을 삽입하여 워크북을 통해 심장 박동, 행성 궤도, 공룡 난동 모습 등을 표시합니다. [자세한 정보](https://support.office.com/article/6f08009a-3da5-400d-a706-8e23f304cd72)
 
-- **자세한 데이터 분석:** 새로운 아이디어 단추는 데이터에서 패턴을 찾아서 인텔리전트 맞춤형 제안을 만듭니다. [자세히 알아보기](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
+- **Discover more about your data:** The new Ideas button looks for patterns in your data, and uses them to create intelligent, personalized suggestions. [Learn more](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 
 - **공동 작업이 쉬워졌습니다.** 공동 작성 기능이 향상되면 조건부 서식, 셀 스타일 등을 사용하여 작업할 때 변경 내용이 공동 작업자와 원활하게 통합됩니다.
 
@@ -394,7 +394,7 @@ ms.locfileid: "44668153"
 
 - **자주 하는 작업 선택:** 플래그 및 삭제를 사용하지 않나요? [보관] 또는 [읽은 상태로 표시]는 어떤가요? 가장 많이 사용하는 명령으로 빠른 작업 메뉴를 사용자 지정합니다.
 
-- **밈하는 항목 표시:** 텍스트 또는 정적 이미지로 가능하지 않은 경우 애니메이션 GIF를 의도하는 바를 나타냅니다. [자세히 알아보기](https://support.office.com/article/114bb251-861f-41cd-b20f-7e7289630c5b)
+- **They'll see what you meme:** When text or static images just won't do, use an animated GIF to make your point. [Learn more](https://support.office.com/article/114bb251-861f-41cd-b20f-7e7289630c5b)
 
 - **빠르게 계정 추가:** 계정 설정 기능이 향상되어 Outlook에서 2단계 인증을 사용하여 Outlook.com 및 Gmail 계정을 추가하는 것이 그 어느 때보다 쉬워졌습니다. [자세한 정보](https://support.office.com/article/70191667-9c52-4581-990e-e30318c2c081)
 
@@ -416,9 +416,9 @@ ms.locfileid: "44668153"
 
 - **변경 내용을 실시간으로 저장:** 파일을 OneDrive에 업로드하여 모든 업데이트를 자동으로 저장할 수 있습니다.
 
-- **대상 그룹에 퀴즈를 내거나 설문 조사하기:** 슬라이드에 퀴즈 또는 설문 조사를 넣습니다. Office가 응답을 수집하고 저장합니다. [자세한 정보](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
+- **Ask your audience with a quiz or survey:** Put a quiz or survey on a slide. Office collects and stores the responses for you. [Learn more](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
 
-- **그 어느 때보다 쉬운 온라인 비디오 삽입:** 슬라이드에 Vimeo 또는 YouTube 비디오를 삽입해야 하나요? 비디오 페이지 링크만 있으면 됩니다. [자세히 알아보기](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
+- **Inserting an online video is easier than ever:** Want to put a video from Vimeo or YouTube on your slide? The video page link is all you need. [Learn more](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
 
 - **검색하여 즐겁게 사용해 보세요.** 원하는 아이콘을 쉽게 찾을 수 있도록 검색하여 아이콘 삽입을 추가했습니다. 그리고 선택할 때, 삽입 단추를 클릭하여 선택한 수를 알 수 있습니다. [자세한 정보](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
@@ -434,7 +434,7 @@ ms.locfileid: "44668153"
 
 - **기본적으로 제공되는 Azure 스텐실:** 수십 개의 Azure 스텐실을 사용하여 클라우드 앱을 디자인하거나 아키텍처를 계획합니다. [자세한 정보](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
 
-- **깨진 Excel 링크 해결:** 데이터 시각화 도우미 다이어그램에 연결된 Excel 통합 문서를 찾을 수 없습니까? 링크를 다시 연결하면 정상으로 돌아옵니다. [자세히 알아보기](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
+- **Say goodbye to broken Excel links:** Can't find the Excel workbook linked to your Data Visualizer diagram? Relink it, and you're back in business. [Learn more](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
 
 - **원활하게 전환:** 새 계정 관리자는 모든 Office 365 작업 및 개인 계정을 한 곳에 표시합니다. 회사 및 개인 계정 간 전환이 매우 용이합니다. [자세한 정보](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
 
@@ -444,9 +444,9 @@ ms.locfileid: "44668153"
 
 - **더 많은 페이지 색상을 사용하도록 학습 도구 모드에 추가 지원 제공:** Word의 학습 도구에 페이지 테마 색상에 대한 지원이 추가되어, 페이지의 배경색을 변경할 수 있습니다. 많은 사람들이 흑백 또는 검정색 배경으로 읽는 것에 어려움을 느끼고 있으므로 PC 및 Mac의 Word에서 색상 선택을 확장했습니다.
 
-- **잉크 편집기로 자연스럽게 편집 가능:** 펜을 사용하여 단일 스트로크로 단어를 분할 또는 조인하거나, 새 줄을 추가하거나, 단어를 삽입할 수 있습니다. [자세한 정보](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
+- **Editing comes naturally with Ink Editor:** With a single stroke, split or join words, add a new line, or insert words using your pen. [Learn more](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
 
-- **평범한 문서를 훌륭한 문서로 개선하기:** 모든 장치에서 문서가 잘 보이도록 공유하기 쉬운 대화형의 웹 페이지로 변환합니다. [자세히 알아보기](https://support.office.com/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)
+- **Take your doc from static to stunning:** Transform your document into an interactive, easy-to-share web page that looks great on any device. [Learn more](https://support.office.com/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)
 
 - **콘텐츠 도달 범위 늘리기:** 접근성 높은 문서를 만들어야 하나요? 진행 중인 작업을 중단하지 않고 계속 접근성 검사를 실행하며 상태를 확인할 수 있습니다. 검토 > 접근성 검사를 클릭하여 검사를 시작해 보세요. 확인해야 할 결과를 발견하면 상태 표시줄에 알려드립니다.
 
@@ -454,7 +454,7 @@ ms.locfileid: "44668153"
 
 - **원활하게 전환:** 새 계정 관리자는 모든 Office 365 작업 및 개인 계정을 한 곳에 표시합니다. 회사 및 개인 계정 간 전환이 매우 용이합니다. [자세한 정보](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
 
-- **라인 포커스로 가독성 개선:** 부드럽게 줄 단위로 문서를 넘길 수 있습니다. 한 번에 볼 때 1줄, 2줄, 또는 5줄에 포커스를 두도록 조정합니다. [자세히 알아보기](https://support.office.com/article/a857949f-c91e-4c97-977c-a4efcaf9b3c1)
+- **Improve comprehension with Line Focus:** Move through a document line by line without distractions. Adjust the focus to put one, three, or five lines in view at a time. [Learn more](https://support.office.com/article/a857949f-c91e-4c97-977c-a4efcaf9b3c1)
 
 - **변경 내용을 실시간으로 저장:** 파일을 OneDrive에 업로드하여 모든 업데이트를 자동으로 저장할 수 있습니다.
 
@@ -547,7 +547,7 @@ ms.locfileid: "44668153"
 
 - 이 변경 내용은 소프트웨어 렌더링을 활용하여 특정 인텔 그래픽 드라이버에 발생하는 문제를 우회합니다.
 
-- cid 링크: Outlook 메시지의 이미지는 이제 요청 시 성공적으로 나누어질 수 있습니다.
+- cid 링크: 이제 Outlook 메시지의 이미지는 요청 시 성공적으로 나누어질 수 있습니다.
 
 - 이 업데이트는 Office 문서가 "업로드 실패" 메시지와 함께 비즈니스용 OneDrive에 업로드되지 않을 수 있는 오류를 수정합니다.
 
@@ -623,7 +623,7 @@ ms.locfileid: "44668153"
 
 - 일부 추가 기능이 차트의 도형 주변에 예기치 않은 오류를 발생시키는 문제를 해결했습니다.
 
-- cid 링크: Outlook 메시지의 이미지는 이제 요청 시 성공적으로 나누어질 수 있습니다.
+- cid 링크: 이제 Outlook 메시지의 이미지는 요청 시 성공적으로 나누어질 수 있습니다.
 
 - 이 변경으로 인해 PowerPoint 비디오 컨트롤의 액세스 가능한 이름이 복원되었습니다.
 
@@ -711,7 +711,7 @@ ms.locfileid: "44668153"
 ## <a name="version-1902-january-14"></a>버전 1902: 1월 14일
 *버전 1902(빌드 11328.20512)*
 
-보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열되어 있습니다.
+나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -745,3 +745,7 @@ ms.locfileid: "44668153"
 
 > [!NOTE]
 > Office를 사용하는 데 발생한 문제에 대해 도움이 필요하면 [Microsoft의 Answers 포럼](https://answers.microsoft.com/) 또는 [기술 커뮤니티](https://techcommunity.microsoft.com/)에 질문을 게시하거나 [지원 서비스](https://support.microsoft.com/contactus)에 문의할 수 있습니다.
+
+
+[//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 끝)

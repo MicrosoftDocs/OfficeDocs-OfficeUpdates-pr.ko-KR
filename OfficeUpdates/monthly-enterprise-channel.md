@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 Apps에 대한 Monthly Enterprise Channel 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 48af42f973d499fb9ea43bc596d7389cb8fcff01
-ms.sourcegitcommit: 496e2442f722e5152e19cb5be5cfd91050288081
-ms.translationtype: MT
+ms.openlocfilehash: 0cc298e264f0c1381aae004d161f87112e6005d2
+ms.sourcegitcommit: afe8763e09c99ef05ff0dcd35eccf3c0fd326742
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "44735458"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45121748"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>2020년 Monthly Enterprise Channel 릴리스에 대한 릴리스 정보
 
@@ -27,8 +27,8 @@ ms.locfileid: "44735458"
 
 
 
-## <a name="version-2004-june-09"></a>버전 2004:6 월 09 일
-*버전 2004 (빌드 12730.20430)*
+## <a name="version-2004-june-09"></a>버전 2004: 6월 9일
+*버전 2004(빌드 12730.20430)*
 
 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
 
@@ -50,17 +50,17 @@ ms.locfileid: "44735458"
 
 ### <a name="outlook"></a>Outlook
 
-- **완벽한 색상 선택:** 16진 색상 코드를 사용하여 글꼴, 텍스트 강조 등 원하는 색상을 정확하게 선택하세요.<br />[블로그 게시물](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)에서 세부 정보 보기
+- **완벽한 색상 선택:** 16진 색상 코드를 사용하여 글꼴, 텍스트 강조 등 원하는 색상을 정확하게 선택하세요.<br />[블로그 게시물](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)에서 세부 정보를 참조하세요.
 
-- **사용자가 소유한 그룹으로 전자 메일 끌기:** 메시지와 대화를 받은 편지함에서 끌어서 이동하고 복사합니다. 끌어 놓은 메시지는 모든 그룹 구성원과 공유됩니다.<br />[블로그 게시물](https://blog-insider.office.com/2020/03/02/drag-messages-from-your-personal-inbox-to-the-group-mailbox/)에서 세부 정보 보기
+- **사용자가 소유한 그룹으로 전자 메일 끌기:** 메시지와 대화를 받은 편지함에서 끌어서 이동하고 복사합니다. 끌어 놓은 메시지는 모든 그룹 구성원과 공유됩니다.<br />[블로그 게시물](https://blog-insider.office.com/2020/03/02/drag-messages-from-your-personal-inbox-to-the-group-mailbox/)에서 세부 정보를 참조하세요.
 
-- **달력 makeover를 가져옵니다.** 일정을 보다 쉽게 검색할 수 있도록 하는 시각적 업데이트를 참조 하세요. [자세한 정보](https://support.office.com/article/1c04e438-d84a-44fc-a404-170c9007e65c)<br />[블로그 게시물](https://blog-insider.office.com/2020/03/13/outlooks-calendar-gets-a-refresh/)에서 세부 정보 보기
+- **일정 모양 변경:** 일정을 더욱 쉽게 훑어볼 수 있도록 하는 시각적 업데이트를 참조하세요. [자세한 정보](https://support.office.com/article/1c04e438-d84a-44fc-a404-170c9007e65c)<br />[블로그 게시물](https://blog-insider.office.com/2020/03/13/outlooks-calendar-gets-a-refresh/)에서 세부 정보 보기
 
 - **메시지에 활기를 불어넣어줄 새로운 이미지:** 수천 개의 무료 스톡 이미지, 아이콘 및 스티커를 전자 메일 메시지에서 사용할 수 있습니다. 시작 하려면 삽입 > 사진 > 스톡 이미지로 이동합니다. [자세한 정보](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/06/premium-creative-content/)에서 세부 정보 보기
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **완벽한 색상 선택:** 16진 색상 코드를 사용하여 글꼴, 텍스트 강조 등 원하는 색상을 정확하게 선택하세요.<br />[블로그 게시물](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)에서 세부 정보 보기
+- **완벽한 색상 선택:** 16진 색상 코드를 사용하여 글꼴, 텍스트 강조 등 원하는 색상을 정확하게 선택하세요.<br />[블로그 게시물](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)에서 세부 정보를 참조하세요.
 
 - **발표하는 동안 변경 내용 동기화:** 프레젠테이션이 슬라이드 쇼 모드에 있더라도 내용이 변경될 때마다 동기화됩니다. [자세한 정보](https://support.office.com/article/5a2921a9-97d4-436b-b0cd-295dfe2236bb)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/)에서 세부 정보 보기
 
@@ -70,7 +70,7 @@ ms.locfileid: "44735458"
 
 - **잉크 올가미:** 그리기 탭의 올가미 도구를 사용하면 잉크로 그린 개체를 선택할 수 있습니다. 개별 스트로크를 선택하거나 단어 전체를 선택합니다. [자세한 정보](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
-- **완벽한 색상 선택:** 16진 색상 코드를 사용하여 글꼴, 텍스트 강조 등 원하는 색상을 정확하게 선택하세요.<br />[블로그 게시물](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)에서 세부 정보 보기
+- **완벽한 색상 선택:** 16진 색상 코드를 사용하여 글꼴, 텍스트 강조 등 원하는 색상을 정확하게 선택하세요.<br />[블로그 게시물](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)에서 세부 정보를 참조하세요.
 
 - **문서에 활기를 불어넣어줄 새로운 이미지:** 수천 개의 무료 스톡 이미지, 아이콘 및 스티커를 문서에서 사용할 수 있습니다. 시작 하려면 삽입 > 사진 > 스톡 이미지로 이동합니다. [자세한 정보](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/06/premium-creative-content/)에서 세부 정보 보기
 
@@ -88,9 +88,9 @@ ms.locfileid: "44735458"
 ### <a name="resolved-issues"></a>해결된 문제
 ### <a name="excel"></a>Excel
 
-- 파일 경로가 너무 길면 파일을 다시 연 후 외부 링크 작동이 중지 되는 문제를 해결 했습니다.
+- 파일 경로가 너무 길면 파일을 다시 연 후 외부 링크가 작동하지 않는 문제를 해결했습니다.
 
-- 경우에 따라 Application.Evaluate(VBA)가 사용자 정의 함수에서 제대로 작동하지 않았습니다.
+- 일부 경우에 Application.Evaluate(VBA)가 사용자 정의 함수에서 제대로 작동하지 않았습니다.
 
 - Excel 2016에서 디지털 서명을 사용하여 저장한 통합 문서를 최신 버전의 Excel에서 열면 서명이 무효가 될 수 있습니다.
 
@@ -98,7 +98,7 @@ ms.locfileid: "44735458"
 
 ### <a name="outlook"></a>Outlook
 
-- 관리자 알림에서 피드백을 제출할 때 사용자에 게 충돌이 발생 하는 문제를 해결 했습니다.
+- 관리자 알림에서 피드백을 제출할 때 사용자가 충돌을 겪게 하는 문제를 해결했습니다.
 
 - Outlook을 종료하는 동안 사용자 작업이 중단되었던 문제를 해결했습니다.
 
@@ -118,9 +118,9 @@ ms.locfileid: "44735458"
 
 ### <a name="office-suite"></a>Office 제품군
 
-- 기호 링크를 하드 링크 하려고 할 때 업데이트 오류가 발생 하는 간편 실행 문제를 해결 했습니다.
+- 기호 링크를 하드 링크하려고 할 때 업데이트 오류가 발생하는 간편 실행 문제를 해결했습니다.
 
-- 레지스트리 키 HKEY_CURRENT_USER \Software\Microsoft\Internet Explorer\Main\TabProcGrowth가 0으로 설정 되어 있는 동안 추가 기능을 활성화 하는 경우 windows에서 office 호스트가 충돌 합니다. 이렇게 변경 하면이 문제가 해결 됩니다.
+- 레지스트리 키 HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\TabProcGrowth가 0으로 설정되어있는 동안 추가 기능이 활성화될 때 사무실 호스트가 Windows에서 충돌했습니다. 이렇게 변경하면 이 문제가 해결됩니다.
 
 - 이 수정은 액세스의 제한과 동시에 파일을 암호로 보호하는 작업을 할 수 없게 하는 오류를 해결합니다.
 
@@ -132,10 +132,10 @@ ms.locfileid: "44735458"
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
-## <a name="version-2003-june-09"></a>버전 2003:6 월 09 일
-*버전 2003 (빌드 12624.20708)*
+## <a name="version-2003-june-09"></a>버전 2003: 6월 9일
+*버전 2003(빌드 12624.20708)*
 
-보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열되어 있습니다.
+[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -162,7 +162,7 @@ ms.locfileid: "44735458"
 
 ### <a name="excel"></a>Excel
 
-- **다중값을 반환하는 공식을 입력:** 다중값을 반환하는 공식을 신속히 입력하면 자동으로 인접한 셀들로 입력됩니다. [자세한 정보](https://support.office.com/article/5c2c9cbb-def8-409a-b380-2fbf91b20aa3)<br />[블로그 게시물](https://blog-insider.office.com/2019/06/13/dynamic-arrays-and-new-functions-in-excel/)에서 세부 정보 보기
+- **다중값을 반환하는 공식을 입력:** 다중값을 반환하는 공식을 신속히 입력하면 자동으로 인접한 셀들로 입력됩니다. [자세한 정보](https://support.office.com/article/5c2c9cbb-def8-409a-b380-2fbf91b20aa3)<br />[블로그 게시물](https://blog-insider.office.com/2019/06/13/dynamic-arrays-and-new-functions-in-excel/)에서 세부 정보를 참조합니다
 
 - **더 이상 브라우저로 바운스하지 않음:** 사용자가 브라우저나 앱에서 Office 문서로의 링크를 여는 방법을 결정합니다.
 
@@ -190,7 +190,7 @@ ms.locfileid: "44735458"
 
 - **더 이상 브라우저에 바운싱하지 않음:** 브라우저나 앱에서 Office 문서에 대한 링크를 여는 방법을 결정합니다.
 
-- **GIF 즉시 만들기:** 하나의 슬라이드, 하나의 프레임. PowerPoint에서 쉽게 루핑 GIF를 만들 수 있습니다. [자세한 정보](https://support.office.com/article/a598753e-92de-4f1b-8393-714db4d334b4)<br />[블로그 게시물](https://blog-insider.office.com/2019/12/30/create-animated-gifs-using-powerpoint/)에서 세부 정보 보기
+- **GIF 즉시 만들기:** 하나의 슬라이드, 하나의 프레임. PowerPoint에서 쉽게 루핑 GIF를 만들 수 있습니다. [자세한 정보](https://support.office.com/article/a598753e-92de-4f1b-8393-714db4d334b4)<br />[블로그 게시물](https://blog-insider.office.com/2019/12/30/create-animated-gifs-using-powerpoint/)에서 세부 정보를 참조하세요
 
 - **향상된 다이어그램:** 더욱 향상된 커넥터와 원활한 잉크 변환 프로세스를 통해 아이디어를 더욱 확신을 가지고 잉크로 표현할 수 있습니다. [자세한 정보](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
@@ -308,3 +308,7 @@ ms.locfileid: "44735458"
 
 > [!NOTE]
 > Office를 사용하는 데 발생한 문제에 대해 도움이 필요하면 [Microsoft의 Answers 포럼](https://answers.microsoft.com/) 또는 [기술 커뮤니티](https://techcommunity.microsoft.com/)에 질문을 게시하거나 [지원 서비스](https://support.microsoft.com/contactus)에 문의할 수 있습니다.
+
+
+[//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 끝)

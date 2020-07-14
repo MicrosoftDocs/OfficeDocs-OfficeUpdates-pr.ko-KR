@@ -1,5 +1,5 @@
 ---
-title: 2020의 반기 엔터프라이즈 채널 (Preview) 릴리스에 대 한 릴리스 정보
+title: 2020의 반기 엔터프라이즈 채널(미리 보기) 릴리스의 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
@@ -9,25 +9,25 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 앱에 대한 반기 채널(대상 지정) 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: be72a3d95178f0fde5bbe48428abb0895d5afefd
-ms.sourcegitcommit: cc48ae789324e085a976c3a7a388353447b10d42
-ms.translationtype: MT
+ms.openlocfilehash: 56aaac765769b1c132fb75d318baa1947ba90b4e
+ms.sourcegitcommit: afe8763e09c99ef05ff0dcd35eccf3c0fd326742
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44724964"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45121768"
 ---
-# <a name="release-notes-for-semi-annual-enterprise-channel-preview-releases-in-2020"></a>2020의 반기 엔터프라이즈 채널 (Preview) 릴리스에 대 한 릴리스 정보
+# <a name="release-notes-for-semi-annual-enterprise-channel-preview-releases-in-2020"></a>2020의 반기 엔터프라이즈 채널(미리 보기) 릴리스의 릴리스 정보
 
-이러한 릴리스 정보는 enterprise 용 Microsoft 365 앱, 비즈니스용 Microsoft 365 Apps 및 Project 및 Visio 용 데스크톱 앱의 구독 버전에 대 한 2020의 반기 엔터프라이즈 채널 (미리 보기) 업데이트에 포함 된 새로운 기능 및 비보안 업데이트에 대 한 정보를 제공 합니다.
+이 릴리스 정보에서는 엔터프라이즈용 Microsoft 365 앱, 비즈니스용 Microsoft 365 앱 및 프로젝트 및 Visio용 데스크톱 앱의 구독 버전에 대한 2020년 반기별 엔터프라이즈 채널(미리 보기) 업데이트에 포함된 새로운 기능 및 비보안 업데이트에 대한 정보를 제공합니다.
 
 > [!IMPORTANT]
-> 당사는 Microsoft 365 앱에 대한 업데이트 채널을 일부 변경하고 있습니다. 여기에는 새 업데이트 채널 추가(월별 엔터프라이즈 채널) 및 기존 업데이트 채널의 이름 변경 등이 포함됩니다. 자세한 내용은 [이 문서를 검토하세요](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> 당사는 Microsoft 365 앱에 대한 업데이트 채널을 일부 변경하고 있습니다. 여기에는 새 업데이트 채널 추가(월별 엔터프라이즈 채널) 및 기존 업데이트 채널의 이름 변경 등이 포함됩니다. 자세한 내용은 [이 문서를 참조](https://go.microsoft.com/fwlink/p/?linkid=2127441)하세요.
 
 
-## <a name="version-2002-june-09"></a>버전 2002:6 월 09 일
-*버전 2002 (빌드 12527.20720)*
+## <a name="version-2002-june-09"></a>버전 2002: 6월 9일
+*버전 2002(빌드 12527.20720)*
 
-보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열되어 있습니다.
+[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -35,27 +35,27 @@ ms.locfileid: "44724964"
 ### <a name="resolved-issues"></a>해결된 문제
 ### <a name="excel"></a>Excel
 
-- 파일 경로가 너무 길면 파일을 다시 연 후 외부 링크 작동이 중지 되는 문제를 해결 했습니다.
+- 파일 경로가 너무 길면 파일을 다시 연 후 외부 링크가 작동하지 않는 문제를 해결했습니다.
 
-- Excel 창이 팀을 통해 공유 될 때 Ctrl + Shift + 화살표 키를 사용 하 여 스크롤하면 Excel이 응답 하지 않는 문제를 해결 했습니다.
+- 팀을 통해 Excel 창을 공유할 때 Ctrl+Shift+화살표 키를 사용하여 스크롤한 후 Excel이 응답하지 않을 수 있는 문제를 해결했습니다.
 
-- 인쇄할 때 양식 컨트롤의 확인란 크기 조정에 문제가 해결되었습니다.
+- 인쇄할 때 양식 컨트롤에 있는 확인란 크기 조정 문제를 해결했습니다.
 
 - 레거시 "공유 통합 문서" 모드를 사용하여 통합 문서의 새 시트에 변경 내용을 나열할 때 충돌이 발생할 수 있습니다.
 
 - 필터링된 목록에 열을 삽입하면 예상보다 시간이 오래 걸립니다.
 
-- 수식 시작 하는 @ 기호가 암시적 논리곱 연산자로 간주 되는 문제를 해결 했습니다.
+- 공식을 시작하는 @ 기호가 암시적 교차로 연산자로 간주되는 문제를 해결했습니다.
 
 ### <a name="outlook"></a>Outlook
 
-- 기본 팀 클라이언트를 통해 팀 회의에 직접 참가할 수 있도록 합니다.
+- 기본 팀 클라이언트를 통해 직접 팀 미팅에 참여할 수 있습니다.
 
-- M365 Business Plus 계획에 포함 된 서비스에 대해 지불한 사용자의 경우 Outlook에서 데이터 손실 보호 정책 팁 사용자를 사용 하도록 설정 하지 못한 문제를 해결 했습니다.
+- Outlook에서 M365 Business Plus 계획에 있는 서비스 비용을 지불한 사용자를 위해 Data Loss Protection 정책을 활성화하지 못한 문제를 해결했습니다.
 
-- Gmail에 대 한 인증 확인을 완료 하지 못할 때 브라우저 에뮬레이션 설정이 잘못 된 경우 사용자에 게 발생 하는 문제를 해결 했습니다.
+- Gmail에 대한 인증 프롬프트를 완료할 수 없는 경우 사용자가 잘못된 브라우저 에뮬레이션 설정으로 인해 발생한 문제를 해결했습니다.
 
-- 서버 운영 체제의 Outlook 사용자가 "바이러스 백신 상태: 유효 하지 않음" 오류를 표시 하는 문제를 해결 했습니다. 이 버전의 Windows는 바이러스 백신 검색을 지원 하지만 바이러스 백신이 제대로 구성 되어 있지 않은 경우에도 발견 되지 않습니다.
+- 서버 운영 체제의 Outlook 사용자에게 "바이러스 백신 상태 : 유효하지 않음" 오류가 표시되는 문제를 해결했습니다. 이 버전의 Windows에서는 바이러스 백신 탐지를 지원하지만 바이러스 백신을 제대로 구성했음에도 불구하고 바이러스 백신을 찾을 수 없습니다.
 
 ### <a name="word"></a>Word
 
@@ -63,13 +63,13 @@ ms.locfileid: "44724964"
 
 ### <a name="office-suite"></a>Office 제품군
 
-- Backstage의 채널 이름을 2020 분기 1 월의 새 채널 이름으로 업데이트 하 여이 문제를 해결 했습니다.
+- 우리는 2020년 1월 포크의 새 채널 이름으로 백스테이지의 채널 이름을 업데이트하여 이 문제를 해결했습니다.
 
-- 이 문제를 해결 했으며, 장치를 정책에서 관리 하는 경우에는 DMS 대상 그룹 API를 호출 하지 않습니다.
+- 이 문제를 해결했으며 앞으로 장치가 정책 관리 대상인 경우 DMS Customer API를 호출하지 않습니다.
 
-- 단일 트랜잭션에서 앱을 추가 및 제거할 때 불완전 한 제거가 발생 하는 문제를 해결 했습니다.
+- 단일 트랜잭션에서 앱을 추가 및 제거할 때 불완전한 제거가 있는 문제를 해결했습니다.
 
-- 레지스트리 키 HKEY_CURRENT_USER \Software\Microsoft\Internet Explorer\Main\TabProcGrowth가 0으로 설정 되어 있는 동안 추가 기능을 활성화 하는 경우 windows에서 office 호스트가 충돌 합니다. 이렇게 변경 하면이 문제가 해결 됩니다.
+- 레지스트리 키 HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\TabProcGrowth가 0으로 설정되어있는 동안 추가 기능이 활성화될 때 사무실 호스트가 Windows에서 충돌했습니다. 이렇게 변경하면 이 문제가 해결됩니다.
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -77,7 +77,7 @@ ms.locfileid: "44724964"
 ## <a name="version-2002-may-12"></a>버전 2002: 5월 12일
 *버전 2002 (빌드 12527.20612)*
 
-보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열되어 있습니다.
+나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -132,7 +132,7 @@ ms.locfileid: "44724964"
 
 - 이 업데이트는 메시지를 보거나 작성할 때 Microsoft Outlook에서 현재 민감도 레이블을 표시하지 않는 문제를 해결합니다.
 
-- 사용자가 개인 메일 그룹에 전자 메일 주소를 지정할 수 없는 문제를 해결 했습니다.
+- 사용자가 전자 메일을 개인 메일 그룹으로 보낼 수 없는 문제를 해결했습니다.
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -273,13 +273,9 @@ ms.locfileid: "44724964"
 
 - **통합 문서에 대 한 통계를 가져오기:** 통합 문서 통계는 통합 문서의 내용을 간략하게 파악하는 데 도움이 되는 통합 문서의 내용에 대한 개요를 제공합니다.
 
-
-
-
+- **분위기에 맞는 더 다양한 아이콘:** 300개가 넘는 새로운 아이콘이 추가되었습니다. 삽입 > 아이콘에서 찾을 수 있습니다. [자세한 정보](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
 
 ### <a name="outlook"></a>Outlook
-
-
 
 - **LinkedIn 네트워크를 Outlook과 연결하기:** Microsoft 계정을 사용하여 LinkedIn 계정에 안전하게 연결하고 Windows용 Outlook의 명함에 있는 LinkedIn 프로필에서 정보를 확인하세요. [자세한 정보](https://support.office.com/article/98253fdc-a3c2-47e4-8852-ebb4fbed0bc5)
 
@@ -303,7 +299,7 @@ ms.locfileid: "44724964"
 
 - **다른 조명에서 메시지 보기:** 태양/달 단추를 사용하여 읽기 창에서 밝은 배경과 어두운 배경 간에 전환을 합니다. [자세한 정보](https://support.office.com/article/3e2446e0-9a7b-4189-9af9-57fb94d02ae3)
 
-
+- **분위기에 맞는 더 다양한 아이콘:** 300개가 넘는 새로운 아이콘이 추가되었습니다. 삽입 > 아이콘에서 찾을 수 있습니다. [자세한 정보](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -311,13 +307,11 @@ ms.locfileid: "44724964"
 
 - **새로운 교정 도구:** 단어를 틀릴까봐 스트레스 받지 마세요. 이제 PowerPoint는 문법 및 맞춤법 제안 사항을 제공합니다. [자세한 정보](https://support.office.com/article/91ecbe1b-d021-4e9e-a82e-abc4cd7163d7)
 
-
 - **라이브 캡션 및 자막:** 발표자의 단어가 화면에 캡션으로 자동으로 표시되고 원하는 언어로 자막으로 번역됩니다. [자세한 정보](https://support.office.com/article/68d20e49-aec3-456a-939d-34a79e8ddd5f)
 
 - **You compute, we format:** We change hand-drawn math expressions into standard characters. Just choose Ink to Math and select your handwritten notes to get started. [Learn more](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
 - **원하는 내용 찾기:** 검색 창을 사용하여 텍스트, 명령, 도움말 등을 찾으세요. [자세한 정보](https://support.office.com/article/2457d4d8-48a8-4ad4-ab89-5a0657aa8446)
-
 
 - **누락된 슬라이드 제목 찾기 및 수정:** 슬라이드 제목은 발표에 호소력을 더해 다양한 수준의 사용자가 슬라이드를 이해하기 쉽도록 합니다. 접근성 검사를 통해 제목이 누락되는 위치를 표시하여 신속하게 제목을 추가할 수 있습니다. [자세한 정보](https://support.office.com/article/c5286802-495a-4b47-a8ae-212fb8a7dc74)
 
@@ -346,6 +340,8 @@ ms.locfileid: "44724964"
 - **Office 365용 PowerPoint에서 필기 잉크를 도형, 텍스트 또는 수학으로 변경:** 몇 번의 스트로크만으로 자유형 잉크를 Office 도형, 텍스트 또는 수식으로 변경합니다. [자세한 정보](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
 - **멋진 슬라이드 만들기:** 잉크를 표준 도형 및 텍스트로 변환한 후, PowerPoint Designer에서 스마트한 슬라이드 디자인 아이디어를 가져옵니다. [자세한 정보](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
+
+- **분위기에 맞는 더 다양한 아이콘:** 300개가 넘는 새로운 아이콘이 추가되었습니다. 삽입 > 아이콘에서 찾을 수 있습니다. [자세한 정보](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
 
 ### <a name="visio"></a>Visio
 
@@ -377,9 +373,7 @@ ms.locfileid: "44724964"
 
 - **더 빠른 파일 공유**: 파일을 열지 않고 최근에 사용한 목록에서 문서를 바로 공유할 수 있습니다.
 
-- **더 이상 브라우저에 바운싱하지 않음:** 브라우저나 앱에서 Office 문서에 대한 링크를 여는 방법을 결정합니다. [자세한 정보](https://support.office.com/article/fe241745-9e05-4142-9ba8-1bb1dc044773)
-
-- **다른 사용자가 변경 내용을 신속하게 확인할 수 있습니다.** 공동 작성 기능 향상을 통해 공동 작업자는 이전보다 훨씬 빠르게 변경 내용을 볼 수 있습니다.
+- **더 이상 브라우저로 바운스하지 않음:** 사용자가 브라우저나 앱에서 Office 문서로의 링크를 여는 방법을 결정합니다. [자세한 정보](https://support.office.com/article/fe241745-9e05-4142-9ba8-1bb1dc044773)
 
 - **공동 작성 향상** : 공동 작성 시 신뢰도가 향상될 수 있습니다.
 
@@ -555,7 +549,7 @@ ms.locfileid: "44724964"
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-1908-february-11"></a>버전 1908: 2월 11일
-*버전 1908 (빌드 11929.20606)*
+*버전 1908(빌드 11929.20606)*
 
 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
 
@@ -663,3 +657,7 @@ ms.locfileid: "44724964"
 
 > [!NOTE]
 > Office를 사용하는 데 발생한 문제에 대해 도움이 필요하면 [Microsoft의 Answers 포럼](https://answers.microsoft.com/) 또는 [기술 커뮤니티](https://techcommunity.microsoft.com/)에 질문을 게시하거나 [지원 서비스](https://support.microsoft.com/contactus)에 문의할 수 있습니다.
+
+
+[//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 끝)
