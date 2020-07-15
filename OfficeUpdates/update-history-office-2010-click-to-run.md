@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: 간편 실행을 사용하는 Office 2010 영구 버전에 대한 업데이트 기록을 IT 전문가에게 제공합니다.
-ms.openlocfilehash: dec15fba44ac8c936ec10d9aaac81854bd2bbdda
-ms.sourcegitcommit: 6a6295bb1d4cdef49379bf11db5ea0cc8e927e8b
+ms.openlocfilehash: 97d44abc2663f643fd7f38333280eedb90c1f4c5
+ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44666595"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138794"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Office 2010 간편 실행 제품에 대한 업데이트 기록
 
@@ -33,7 +33,7 @@ Office 2010에 대한 지원이 2020년 10월 13일에 종료됩니다. 아직 O
 이러한 제품 중 하나를 사용하고 있는 경우 최신 상태인지 확인하려면 Office 버전 번호를 확인하고 필요한 경우 Office 를 수동으로 업데이트하세요.
   
 > [!NOTE]
-> 최신 버전의 Office 2010는 **14.0.7252.5000**이며, 2020는 6 월 9 일에 출시 되었습니다.
+> 최신 버전의 Office 2010는 **14.0.7254.5000**이며, 2020는 7 월 14 일에 출시 되었습니다.
   
 Office의 버전을 확인하려면 다음을 수행합니다.
   
@@ -52,12 +52,13 @@ Office의 버전을 확인하려면 다음을 수행합니다.
 새 버전에는 이전 버전에 포함된 모든 업데이트가 포함됩니다.
 
 > [!NOTE]
-> 아래에 나열된 기술 자료 문서는 참조 목적으로만 제공됩니다. 간편 실행 업데이트에는 기술 자료 문서에 나열된 모든 수정 사항이 포함되어 있습니다. 따라서 기술 자료 문서에 나열된 개별 업데이트를 다운로드할 필요가 없습니다.
+> The KB articles listed below are for reference purposes only. Click-to-Run updates include all the fixes listed in the KB articles. You don't need to download the separate updates listed in the KB articles.
 
   
 |**릴리스 연도**|**릴리스 날짜**|**버전 번호**|**추가 정보**|
 |:-----|:-----|:-----|:-----|
-|2020|6월 9일  <br/> |14.0.7252.5000  <br/> |[(영문) 4559448](https://support.microsoft.com/help/4559448 ) <br/> |
+|2020|7월 14일 <br/> |14.0.7254.5000 <br/> |[(영문) 4559453](https://support.microsoft.com/help/4559453) <br/>|
+||6월 9일  <br/> |14.0.7252.5000  <br/> |[(영문) 4559448](https://support.microsoft.com/help/4559448 ) <br/> |
 ||5월 12일  <br/> |14.0.7249.5000  <br/> |[KB 4549680 ](https://support.microsoft.com/help/4549680 ) <br/> |
 ||4월 14일  <br/> |14.0.7248.5000  <br/> |[KB 4549670 ](https://support.microsoft.com/help/4549670 ) <br/> |
 ||3월 11일  <br/> |14.0.7247.5000  <br/> |[KB 4538705 ](https://support.microsoft.com/help/4538705 ) <br/> |
