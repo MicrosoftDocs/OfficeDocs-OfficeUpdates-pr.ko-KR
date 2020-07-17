@@ -52,7 +52,7 @@ Office의 버전을 확인하려면 다음을 수행합니다.
 새 버전에는 이전 버전에 포함된 모든 업데이트가 포함됩니다.
 
 > [!NOTE]
-> The KB articles listed below are for reference purposes only. Click-to-Run updates include all the fixes listed in the KB articles. You don't need to download the separate updates listed in the KB articles.
+> 아래에 나열된 기술 자료 문서는 참조 목적으로만 제공됩니다. 간편 실행 업데이트에는 기술 자료 문서에 나열된 모든 수정 사항이 포함되어 있습니다. 따라서 기술 자료 문서에 나열된 개별 업데이트를 다운로드할 필요가 없습니다.
 
   
 |**릴리스 연도**|**릴리스 날짜**|**버전 번호**|**추가 정보**|
