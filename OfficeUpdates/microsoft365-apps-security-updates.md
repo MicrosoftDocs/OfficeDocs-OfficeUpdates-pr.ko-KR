@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT 전문가에게 Microsoft 365 앱 보안 업데이트에 대한 릴리스 정보를 제공합니다.
-ms.openlocfilehash: 91538ad859fe5dc3d45a73d0798ff21708f6178b
-ms.sourcegitcommit: 18f8f5d6dcd9743005ae2ba87c8e9e2d9edfe8c4
+ms.openlocfilehash: 58228af0a7958547331b95c28c6497b5bfa3f460
+ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44211708"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138524"
 ---
 # <a name="release-notes-for-microsoft-365-apps-security-updates"></a>Microsoft 365 앱 보안 업데이트에 대한 릴리스 정보
 
@@ -24,13 +24,87 @@ ms.locfileid: "44211708"
 
 
 > [!IMPORTANT]
-> - 당사는 Microsoft 365 앱에 대한 업데이트 채널을 일부 변경하고 있습니다. 여기에는 새 업데이트 채널 추가(월별 엔터프라이즈 채널) 및 기존 업데이트 채널의 이름 변경 등이 포함됩니다. 자세한 내용은 [이 문서를 참조](https://go.microsoft.com/fwlink/p/?linkid=2127441)하세요.
+> - 당사는 Microsoft 365 앱에 대한 업데이트 채널을 일부 변경하고 있습니다. 여기에는 새 업데이트 채널 추가(월별 엔터프라이즈 채널) 및 기존 업데이트 채널의 이름 변경 등이 포함됩니다. 자세한 내용은 [이 문서를 검토하세요](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 > - Office 365 ProPlus는 2004 버전부터 엔터프라이즈용 Microsoft 365 앱으로 이름이 변경됩니다.자세한 내용은  [이 문서를 검토하세요](https://go.microsoft.com/fwlink/p/?linkid=2123420).이 문서에서는 일반적으로 이를 Microsoft 365 앱이라고 지칭합니다.
 
 
  
 
 [//]: # (공백으로 사용하므로, 위의 선을 삭제하지 마세요.)  
+
+## <a name="july-14-2020"></a>2020년 7월 14일
+현재 채널: 버전 2006(빌드 13001.20384)  
+월 단위 기업 채널: 버전 2005(빌드 12827.20538)  
+월 단위 기업 채널: 버전 2004(빌드 12730.20602)  
+반기 기업 채널(미리 보기): 버전 2002(빌드 12527.20880)  
+반기 기업 채널: 버전 2002(빌드 12527.20880)  
+반기 기업 채널: 버전 1908(빌드 11929.20904)  
+반기 기업 채널: 버전 1902(빌드 11328.20624)  
+Windows 7 기반 Microsoft 365 앱: 버전 2002(빌드 12527.20880)  
+
+[//]: # (보안 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-1240](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1240)
+
+
+### <a name="outlook"></a>Outlook
+
+-   [CVE-2020-1349](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1349)
+
+### <a name="project"></a>Project
+
+-   [CVE-2020-1449](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1449)
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-1445](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1445)
+-   [CVE-2020-1342](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1342)
+-   [CVE-2020-1447](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1447)
+-   [CVE-2020-1446](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1446)
+
+### <a name="office-suite"></a>Office 제품군
+
+-   [CVE-2020-1458](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1458)
+
+[//]: # (보안 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+
+
+## <a name="june-09-2020"></a>2020년 6월 9일
+현재 채널: 버전 2005(빌드 12827.20336)  
+월 단위 기업 채널: 버전 2004(빌드 12730.20430)  
+월 단위 기업 채널: 버전 2003(빌드 12624.20708)  
+반기 기업 채널(미리 보기): 버전 2002(빌드 12527.20720)  
+반기 기업 채널: 버전 1908(빌드 11929.20838)  
+반기 기업 채널: 버전 1902(빌드 11328.20602)  
+Windows 7 기반 Microsoft 365 앱: 버전 2002(빌드 12527.20720)  
+
+[//]: # (보안 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-1226](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1226)
+-   [CVE-2020-1225](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1225)
+
+### <a name="outlook"></a>Outlook
+
+-   [CVE-2020-1229](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1229)
+
+### <a name="project"></a>Project
+
+-   [CVE-2020-1322](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1322)
+
+### <a name="office-suite"></a>Office 제품군
+
+-   [CVE-2020-1321](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1321)
+
+[//]: # (보안 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+
 
 ## <a name="may-12-2020"></a>2020년 5월 12일
 월별 채널: 버전 2004(빌드 12730.20270)  

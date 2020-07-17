@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 릴리스 정보에 대한 링크를 포함하여 Microsoft 365 앱 릴리스의 전체 목록을 날짜별로 구성해서 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 5307b0e58f5419c004594df7a21b3c9959c35711
-ms.sourcegitcommit: fba8a23022418305d52bcbd57be1a3fc77647e01
+ms.openlocfilehash: eadf2e576c58d268c8f70a78958e900d39563e5a
+ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45001165"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138584"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 앱의 업데이트 기록(날짜순)
 
@@ -36,12 +36,13 @@ ms.locfileid: "45001165"
 
 |**채널**|**버전**|**빌드**|**릴리스 날짜**|**다음 이하 버전까지 지원**|
 |:-----|:-----|:-----|:-----|:-----|
-|현재 채널<br/>|2006<br/>|13001.20266<br/>|2020년 6월 30일<br/>|버전 2007 출시<br/>|
-|월 단위 엔터프라이즈 채널<br/>|2004<br/>|12730.20430<br/>|2020년 6월 9일<br/>|2020년 8월 11일<br/>|
-|월 단위 엔터프라이즈 채널<br/>|2003<br/>|12624.20708<br/>|2020년 6월 9일<br/>|2020년 7월 14일<br/>|
-|반기 엔터프라이즈 채널(미리 보기)<br/>|2002<br/>|12527.20720<br/>|2020년 6월 9일<br/>|2020년 9월 8일<br/>|
-|반기 엔터프라이즈 채널<br/>|1908<br/>|11929.20838<br/>|2020년 6월 9일<br/>|2021년 3월 9일<br/>|
-|반기 엔터프라이즈 채널<br/>|1902<br/>|11328.20602<br/>|2020년 6월 9일<br/>|2020년 9월 8일<br/>|
+|현재 채널<br/>|2006<br/>|13001.20384<br/>|2020년 7월 14일<br/>|버전 2007 출시<br/>|
+|월 단위 엔터프라이즈 채널<br/>|2005<br/>|12827.20538<br/>|2020년 7월 14일<br/>|2020년 9월 8일<br/>|
+|월 단위 엔터프라이즈 채널<br/>|2004<br/>|12730.20602<br/>|2020년 7월 14일<br/>|2020년 8월 11일<br/>|
+|반기 엔터프라이즈 채널(미리 보기)<br/>|2002<br/>|12527.20880<br/>|2020년 7월 14일<br/>|2020년 9월 8일<br/>|
+|반기 엔터프라이즈 채널<br/>|2002<br/>|12527.20880<br/>|2020년 7월 14일<br/>|2021년 9월 14일<br/>|
+|반기 엔터프라이즈 채널<br/>|1908<br/>|11929.20904<br/>|2020년 7월 14일<br/>|2021년 3월 9일<br/>|
+|반기 엔터프라이즈 채널<br/>|1902<br/>|11328.20624<br/>|2020년 7월 14일<br/>|2020년 9월 8일<br/>|
 
 [//]: # (EOSTABLEEND)
 
@@ -53,6 +54,7 @@ ms.locfileid: "45001165"
 
 |**년도**|**릴리스 날짜**|**현재 채널**|**월 단위 엔터프라이즈 채널**|**반기 엔터프라이즈 채널(미리 보기)**|**반기 엔터프라이즈 채널**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2020|7월 14일|[버전 2006(빌드 13001.20384)](current-channel.md#version-2006-july-14)|[버전 2005(빌드 12827.20538)](monthly-enterprise-channel.md#version-2005-july-14)<br/>[버전 2004(빌드 12730.20602)](monthly-enterprise-channel.md#version-2004-july-14)|[버전 2002(빌드 12527.20880)](semi-annual-enterprise-channel-preview.md#version-2002-july-14)|[버전 2002(빌드 12527.20880)](semi-annual-enterprise-channel.md#version-2002-july-14)<br/>[버전 1908(빌드 11929.20904)](semi-annual-enterprise-channel.md#version-1908-july-14)<br/>[버전 1902(빌드 11328.20624)](semi-annual-enterprise-channel.md#version-1902-july-14)|
 |2020|6월 30일|[버전 2006(빌드 13001.20266)](current-channel.md#version-2006-june-30)| | | |
 |2020|6월 24일|[버전 2005(빌드 12827.20470)](current-channel.md#version-2005-june-24)| | | |
 |2020|6월 9일|[버전 2005(빌드 12827.20336)](current-channel.md#version-2005-june-09)|[버전 2004(빌드 12730.20430)](monthly-enterprise-channel.md#version-2004-june-09)<br/>[버전 2003(빌드 12624.20708)](monthly-enterprise-channel.md#version-2003-june-09)|[버전 2002(빌드 12527.20720)](semi-annual-enterprise-channel-preview.md#version-2002-june-09)|[버전 1908(빌드 11929.20838)](semi-annual-enterprise-channel.md#version-1908-june-09)<br/>[버전 1902(빌드 11328.20602)](semi-annual-enterprise-channel.md#version-1902-june-09)|

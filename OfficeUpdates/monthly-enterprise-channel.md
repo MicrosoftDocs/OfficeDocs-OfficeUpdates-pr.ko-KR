@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 Apps에 대한 Monthly Enterprise Channel 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 0cc298e264f0c1381aae004d161f87112e6005d2
-ms.sourcegitcommit: afe8763e09c99ef05ff0dcd35eccf3c0fd326742
+ms.openlocfilehash: f76ceaf76f505d9a4301f2bba66c9efcb6278ca4
+ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45121748"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138684"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>2020년 Monthly Enterprise Channel 릴리스에 대한 릴리스 정보
 
@@ -26,6 +26,111 @@ ms.locfileid: "45121748"
 [//]: # (제거하지 마세요)
 
 
+
+## <a name="version-2005-july-14"></a>버전 2005: 7월 14일
+*버전 2005(빌드 12827.20538)*
+
+[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 보안 업데이트가 나열됩니다.
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="outlook"></a>Outlook
+
+- **즉시 더 나은 결과 얻기:** 이전보다 더 스마트하고, 빠르고, 안정적이 되도록 검색 환경을 업데이트했습니다. [자세한 정보](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
+
+### <a name="word"></a>Word
+
+- **다른 방식으로 말하기:** 다르게 표현하는 경우 재작성은 도움을 줍니다. 재작성은 표현을 기교있게 만들어주는 대안을 제공합니다.<br />[블로그 게시물](https://blog-insider.office.com/2019/08/12/rewrite-in-word-say-it-another-way/)에서 세부 정보를 참조하세요.
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="access"></a>Access
+
+- 앱에서 충돌 없이 날짜/시간 확장 데이터 형식을 코드로 호출할 수 있도록 문제가 해결되었습니다.
+
+- 최근에 업데이트된 Access 버전으로 되돌리고 DAO/VBA를 사용하여 10진수 데이터 형식을 관리하고 편집할 수 있도록 문제가 해결되었습니다.
+
+### <a name="excel"></a>Excel
+
+- 팀을 통해 Excel 창을 공유할 때 Ctrl+Shift+화살표 키를 사용하여 스크롤한 후 Excel이 응답하지 않을 수 있는 문제를 해결했습니다.
+
+- 경우에 따라 동일한 통합 문서 안의 위치에 대한 하이퍼링크를 클릭하면 통합 문서이 숨겨집니다.
+
+- SharePoint/OneDrive에 저장하는 경우 사용자 지정 리본 탭이 CustomUI XML을 제거하는 문제가 해결되었습니다.
+
+- 도표 시트에 PivotTables를 삽입하려고 할 때 Excel이 충돌할 수 있는 문제가 해결됩니다.
+
+### <a name="outlook"></a>Outlook
+
+- 관리자 알림에서 피드백을 제출할 때 사용자가 충돌을 경험하게 되는 문제가 해결됩니다.
+
+- 기능 제안에서 기능을 검색하여 결과를 반환하지 않고 사용자에게 새 기능 아이디어를 제출할 수 있는 옵션이 없는 문제를 해결합니다.
+
+- 사용자에게 Outlook에서 받은 편지함 복구 도구를 실행하라는 메시지가 지속적으로 나타나는 문제가 해결됩니다.
+
+- Windows 10 서버 버전 사용자에게 “바이러스 백신 상태: 올바르지 않음”이라는 경고 메시지가 표시되는 문제를 해결합니다. 이 Windows 버전에서는 바이러스 백신 감지를 지원하지만 바이러스 백신 프로그램이 올바르게 설치되었음에도 불구하고 해당 프로그램을 찾을 수 없습니다.
+
+- 일부 시나리오에서 사용자가 간헐적 중단과 충돌을 경험하는 문제가 해결됩니다.
+
+- 공유 일정 향상 사용자에게 일정 오류가 표시되는 문제를 해결합니다.
+
+- Outlook에서 규칙을 업데이트할 때 &quot;이 컴퓨터의 규칙이 Microsoft Exchange의 규칙과 일치하지 않습니다&quot;라는 메시지가 표시되는 문제를 해결합니다.
+
+- 날짜를 4501년 1월 1일로 설정하여 끌어서 놓기를 통해 파일 시스템에 복사한 &nbsp; 첨부 파일의 생성 날짜가 사용자에게 표시되는 문제를 해결합니다.
+
+- Outlook에서 M365 Business Plus 계획에 있는 서비스 비용을 지불한 사용자에게 데이터 손실 보호 정책 팁을 활성화하지 못하는 문제가 해결됩니다.
+
+- 회신/전송 레이블에 대한 CLP 감사 이벤트와 관련된 문제가 해결됩니다.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 이렇게 하면 사용자가 파일에 최신 및 기존 주석을 모두 가지고 있을 때 충돌이 발생하여 주석을 업그레이드하게 됩니다.
+
+- 제안 창에서 발생하는 충돌 문제를 해결했습니다.
+
+
+### <a name="project"></a>Project
+
+- 프로젝트 요약 작업(프로젝트 시작/작업 필드)이 변경될 때 ProjectBeforeTaskChange 이벤트가 발생하지 않는 문제를 해결했습니다.
+
+- 100% 완료로 표시된 작업이 100% 미만으로 잘못 변경되는 문제를 해결했습니다.
+
+### <a name="skype"></a>Skype
+
+- 사용자에게 Teams 전용으로 이동하는 정책이 지정되어도 Skype for Business Outlook 추가 기능을 사용하여 모임을 예약할 수 있었습니다. 이 업데이트 후, 클라이언트가 사용자가 Teams 전용임을 나타내는 정책을 읽고 모임 참가 전용 모드로 들어간 후에는 더 이상 Skype for Business 모임을 예약할 수 없습니다. 또한 Skype for Business Outlook 추가 기능은 Skype for Business 클라이언트가 미팅 참가 모드인 경우 시작하는 동안 자체적으로 활성화되지 않습니다.
+
+### <a name="word"></a>Word
+
+- 앱의 일부 콘텐츠를 끌 때 충돌이 발생할 수 있는 문제가 해결되었습니다.
+
+### <a name="office-suite"></a>Office 제품군
+
+- 이 변경 사항은 GIF 또는 3D 모델과 같은 애니메이션 콘텐츠를 로드하고 재생할 때 발생할 수 있는 중단 현상을 해결합니다.
+
+- 검증을 확인했습니다.기본적으로 Bing Addon 설치 검증을 true로 설정하고 MSI 반환 성공을 설치 성공으로 간주하여 설치 실패율 문제를 해결합니다.
+
+- 이 업데이트는 PATH 환경 변수에서 지정된 위치를 검색하여 찾을 수 있는 사항을 참고로 하는 Visual Basic for Applications 프로젝트가 런타임에 제대로 발견되지 않아 VBA 런타임 오류로 이어질 수 있는 Microsoft Office에서의 문제를 해결합니다. 
+
+- 이 업데이트는 라이브러리 이름 또는 라이브러리 경로에 DBCS 문자가 있는 코드 라이브러리에 대한 참조를 포함하는 특정 VBA 프로젝트를 로드할 때 Office 응용 프로그램에서 손상된 것으로 보이는 Microsoft Office의 VBA(Visual Basic for Applications) 문제를 해결합니다.
+
+- 레지스트리 키 HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\TabProcGrowth가 0으로 설정되어있는 동안 추가 기능이 활성화될 때 사무실 호스트가 Windows에서 충돌했습니다. 이렇게 변경하면 이 문제가 해결됩니다.
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2004-july-14"></a>버전 2004: 7월 14일
+*버전 2004(빌드 12730.20602)*
+
+[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 보안 업데이트가 나열됩니다.
 
 ## <a name="version-2004-june-09"></a>버전 2004: 6월 9일
 *버전 2004(빌드 12730.20430)*
@@ -311,4 +416,5 @@ ms.locfileid: "45121748"
 
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|MEC|Production|Feature|16.0.12827.20538|버전 2005년 7월 14일|)
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 끝)

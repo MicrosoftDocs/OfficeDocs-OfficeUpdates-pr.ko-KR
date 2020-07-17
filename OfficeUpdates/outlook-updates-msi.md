@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Outlook 2016, Outlook 2013 및 Outlook 2010 영구 버전의 최신 업데이트 정보에 대한 링크를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: b77cb6441af020b35a0b082448f1809271b39d55
-ms.sourcegitcommit: 6a6295bb1d4cdef49379bf11db5ea0cc8e927e8b
+ms.openlocfilehash: 360447f59f9cf8f09bbdb90ab92d24872a786d19
+ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44666640"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138634"
 ---
 # <a name="latest-updates-for-versions-of-outlook-that-use-windows-installer-msi"></a>Windows Installer(MSI)를 사용하는 Outlook 버전에 대한 최신 업데이트
 
@@ -43,13 +43,13 @@ Microsoft 365 및 온-프레미스 환경과의 Outlook 호환성은 배포에 �
 
 |**최신 SP(서비스 팩)**|**최소 필수 업데이트**|**최신 PU(공개 업데이트)**|
 |:-----|:-----|:-----|
-|해당 없음  <br/> |2016년 3월 PU <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |2020년 6월 PU <br/>[KB4484398](https://support.microsoft.com/help/4484398) 
+|해당 없음  <br/> |2016년 3월 PU <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |2020년 7월 PU <br/>[KB4484433](https://support.microsoft.com/help/4484433) 
 
 ## <a name="outlook-2013-updates"></a>Outlook 2013 업데이트
 
 |**최신 SP(서비스 팩)**|**최소 필수 업데이트**|**최신 PU(공개 업데이트)**|
 |:-----|:-----|:-----|
-|SP1  <br/>[KB2850036](https://go.microsoft.com/fwlink/p/?LinkId=512538) <br/> |2015년 12월 PU <br/>[KB3114349](https://support.microsoft.com/kb/3114349) <br/> |2020년 4월 PU <br/>[KB4484281](https://support.microsoft.com/help/4484281)  |
+|SP1  <br/>[KB2850036](https://go.microsoft.com/fwlink/p/?LinkId=512538) <br/> |2015년 12월 PU <br/>[KB3114349](https://support.microsoft.com/kb/3114349) <br/> |2020년 7월 PU <br/>[KB4484363](https://support.microsoft.com/help/4484363)  |
    
 ## <a name="outlook-2010-updates"></a>Outlook 2010 업데이트
 > [!IMPORTANT]
@@ -57,6 +57,6 @@ Office 2010에 대한 지원이 2020년 10월 13일에 종료됩니다. 아직 O
 
 |**최신 SP(서비스 팩)**|**최소 필수 업데이트**|**최신 PU(공개 업데이트)**|
 |:-----|:-----|:-----|
-|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br><br><br><br/> |2015년 10월 PU <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  MAPI/HTTP용 Office 2010의 2015년 4월 PU <br/> [KB2956191](https://support.microsoft.com/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |2020년 4월 PU <br/>[KB4484284](https://support.microsoft.com/help/4484284) <br><br><br><br/>|
+|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br><br><br><br/> |2015년 10월 PU <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  MAPI/HTTP용 Office 2010의 2015년 4월 PU <br/> [KB2956191](https://support.microsoft.com/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |2020년 7월 PU <br/>[KB4484382](https://support.microsoft.com/help/4484382) <br><br><br><br/>|
    
 
