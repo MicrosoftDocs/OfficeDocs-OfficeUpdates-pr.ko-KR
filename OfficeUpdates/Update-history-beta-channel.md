@@ -1,5 +1,5 @@
 ---
-title: Office 베타 채널에 대 한 업데이트 기록
+title: Office Beta 채널에 대한 업데이트 기록
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
@@ -9,14 +9,14 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 참가자에게 Windows Desktop용 월 단위 채널 참가자 빠른 릴리스에 대한 업데이트 내역을 제공합니다.
-ms.openlocfilehash: 75dba530be25321c904196bcb9b25ee611652175
-ms.sourcegitcommit: b3740a6df29ec013b7b8b7d74fbe05f5147cc74e
+ms.openlocfilehash: e4d242d5b7b9d9564cca3b3cbe7324101265f769
+ms.sourcegitcommit: 275efa6dec144dc7a6756d45086a0b3d3672f4b9
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/08/2020
-ms.locfileid: "45080163"
+ms.lasthandoff: 07/16/2020
+ms.locfileid: "45153636"
 ---
-# <a name="update-history-for-office-beta-channel"></a>Office 베타 채널에 대 한 업데이트 기록
+# <a name="update-history-for-office-beta-channel"></a>Office Beta 채널에 대한 업데이트 기록
 
 안녕하세요. 참가자 여러분, 최신 업데이트 설치 여부 또는 최신 참가지 빌드 목록은 여기에서 확인하실 수 있습니다. 참가자 프로그램에 대한 자세한 내용을 보려면 [여기](https://insider.office.com/)를 클릭하세요.
 
@@ -29,43 +29,46 @@ ms.locfileid: "45080163"
 > - 업데이트 내역에는 릴리스된 모든 빌드가 나열됩니다.
 > - 릴리스 정보는 더 느린 흐름에 업데이트되며 릴리스 정보 게시 빌드 번호까지 여러 빌드에 대한 업데이트 컴파일이 될 수 있습니다.
 
-## <a name="office-beta-channel-versions-and-builds"></a>Office 베타 채널 버전 및 빌드
+## <a name="office-beta-channel-versions-and-builds"></a>Office Beta 채널 버전 및 빌드
 
-참가자 수준에 등록 한 경우에는 새로운 기능과 향상 된 기능을 통해 업데이트를 자주 받게 됩니다. 다음 목록에는 **가장 최근에 릴리스된 빌드가 먼저 나열**된 최신 베타 채널 버전 및 빌드의 기록이 나와 있습니다. 새 빌드에는 이전 빌드에 포함 된 모든 업데이트가 포함 됩니다.
+참가자 수준에 등록한 경우 새로운 기능 및 개선 사항이 포함된 업데이트를 자주 받습니다. 다음 목록에는 **가장 최근에 릴리스된 빌드**가 먼저 나열되는 최신 베타 채널 버전 및 빌드의 기록이 나와 있습니다. 새 빌드에는 이전 빌드에 포함된 모든 업데이트가 포함됩니다.
 
 릴리스 정보를 찾으려면 [Windows용 Office의 내부 관리자 릴리스 정보](https://docs.microsoft.com/OfficeUpdates/beta-channel)를 참조하십시오.
 
 
 [//]: # (제거하지 마세요)
 
-**2020 년 7 월 7 일**<br/>
-버전 2008 (빌드 13102.20002)<br/>
+**2020년 7월 16일**<br/>
+버전 2008 (빌드 13115.20000)<br/>
 
-**2020 년 7 월 01 일**<br/>
-버전 2007 (빌드 13029.20006)<br/>
+**2020년 7월 7일**<br/>
+버전 2008 (빌드13102.20002)<br/>
 
-**2020 년 6 월 29 일**<br/>
-버전 2007 (빌드 13025.20000)<br/>
+**2020년 7월 1일**<br/>
+버전 2007(빌드 13029.20006)<br/>
 
-**2020 년 6 월 23 일**<br/>
-버전 2007 (빌드 13020.20004)<br/>
+**2020년 6월 29일**<br/>
+버전 2007(빌드 13025.20000)<br/>
 
-**2020 년 6 월 15 일**<br/>
-버전 2007 (빌드 13012.20000)<br/>
+**2020년 6월 23일**<br/>
+버전 2007(빌드 13020.20004)<br/>
 
-**2020 년 6 월 9 일**<br/>
-버전 2007 (빌드 13006.20002)<br/>
+**2020년 6월 15일**<br/>
+버전 2007(빌드 13012.20000)<br/>
 
-**2020 년 6 월 03 일**<br/>
+**2020년 6월 9일**<br/>
+버전 2007(빌드 13006.20002)<br/>
+
+**2020년 6월 3일**<br/>
 버전 2006 (빌드 13001.20002)<br/>
 
-**2020 년 6 월 01 일**<br/>
+**2020년 6월 1일**<br/>
 버전 2006 (빌드 12930.20014)<br/>
 
-**5 월 25 일, 2020**<br/>
+**2020년 5월 25일**<br/>
 버전 2006 (빌드 12920.20000)<br/>
 
-**5 월 18 일, 2020**<br/>
+**2020년 5월 18일**<br/>
 버전 2006 (빌드 12914.20000)<br/>
 
 **2020년 5월 11일**<br/>

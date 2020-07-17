@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 이후 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 63ae6dbe28765efde1ddc6a440adeddd53b71338
-ms.sourcegitcommit: f7bb0455136794c38a7f934e391b17a9c98c9d52
+ms.openlocfilehash: 2ed4d263caf7471a37bf52e162d93ee7ebf03fd4
+ms.sourcegitcommit: e04ac83b98dee6ee37338f9eba361e4ae436f9f5
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/10/2020
-ms.locfileid: "45094648"
+ms.lasthandoff: 07/16/2020
+ms.locfileid: "45147880"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 현재 채널(미리 보기)에 대한 릴리스 정보
 
@@ -27,6 +27,193 @@ ms.locfileid: "45094648"
 > - 릴리스 정보 게시 날짜는 실제 빌드 릴리스 날짜와 일치하지 않을 수 있습니다.
 
 [//]: # (제거하지 마세요)
+
+## <a name="version-2007-july-15"></a>버전 2007: 7월 15일
+*버전 2007(빌드 13029.20200)*
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="excel"></a>Excel
+
+- **Excel에서 세련된 Visio 다이어그램 만들기:** 워크시트에 데이터를 입력하여 순서도 또는 조직도를 만듭니다. [자세한 정보](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="access"></a>Access
+
+- 연결된 SQL 표를 새로고침할 경우 연결된 표 관리자에서 기본 키에 관한 메시지를 표시하는 문제를 해결했습니다.
+
+- 쿼리 편집기의 쿼리가 스크롤되어 보이지 않는 문제를 해결했습니다.
+
+- 쿼리 실행이 예상했던 시간보다 거의 두 배 이상 걸리는 문제를 해결했습니다.
+
+- Microsoft Access에서 연결된 SQL Server 표의 ID 열이 식별되지 않아서 행이 올바르지 않게 삭제된 것으로 보고되는 문제를 해결했습니다.
+
+### <a name="excel"></a>Excel
+
+- 최근 사용한 목록에 http 또는 https가 아닌 URL이 표시되지 않는 문제를 해결했습니다.
+
+- 페이지 나누기 미리 보기에서 여러 시트가 포함 된 통합 문서를 로드할 때 오류 또는 중단이 발생할 수 있는 문제를 해결 했습니다.
+
+- 표와 연결된 쿼리를 편집하지 않은 경우에도 특정 버전의 Excel에서 만든 데이터 모델 표를 '표 미리 보기'에서 볼 수 없는 문제를 해결했습니다.
+
+- 이름 정의 \ 이름 적용 대화 상자에서 상대\절대’ 참조 무시를 사용 안 함으로 설정하면 서식이 작동하지 않습니다.
+
+- SharePoint/OneDrive에 저장 시 사용자 지정 리본 탭의 CustomUI XML이 제거되는 문제를 해결했습니다.
+
+- 파일에 읽기 전용 권장 설정이 되어 있는 경우 통합 문서가 읽기 전용으로 유지 되는 문제를 해결했습니다.
+
+- 페이지 나누기 미리 보기에서 여러 시트가 포함 된 통합 문서를 로드할 때 오류 또는 중단이 발생할 수 있는 문제를 해결 했습니다.
+
+- 방사형 차트의 주 눈금선에 제대로 서식을 지정할 수 없는 문제를 해결했습니다.
+
+
+- 고급 데이터 필터를 해제하면 표 서식이 손실될 수 있는 문제를 해결했습니다.
+
+
+- 포함된 PDF 문서의 전체 경로가 파일 이름만이 아니라 문서 캡션에 표시되는 문제를 해결했습니다.
+
+
+- Wolfram 클라우드 커넥터를 사용하지 않음으로 설정한 다음 Excel 통합 문서를 저장하고 다시 여는 문제를 해결했습니다.
+
+
+- 해 찾기 추가 기능을 사용한 상태에서 Excel을 부팅하면 충돌이 발생하는 문제를 해결했습니다.
+
+
+### <a name="outlook"></a>Outlook
+
+- ‘받는 사람’ 줄에 130명 이상이 있을 경우 Outlook이 중단되는 문제를 해결했으며, 해당 텍스트를 렌더링하는 성능도 향상했습니다.
+
+
+- 해상도가 다른 여러 모니터를 사용할 때 입력 방법 편집기(IME) 창이 IME를 통해 입력되는 기본 텍스트와 겹치는 문제를 해결했습니다.
+
+
+- 이벤트가 2일 이상 경과하고 이후 동일한 종료 시간을 표시하는 '할 일 모음'의 문제를 해결했습니다.
+
+
+- 끌어서 놓기를 통해 파일 시스템으로으로 복사한 파일의 첨부 생성 날짜가 4501년 1월 1일로 설정되는 문제를 해결합니다.
+
+
+- 사용자가 메일 배포 목록에서 '다른 사람으로 보내기' 혹은 '대신 보내기'를 할 수 없는 문제를 해결했습니다.
+
+
+- 관리자의 일정에서 기존 일정 약속을 편집할 때 대리인에게 오류가 발생하는 문제를 해결합니다.
+
+
+- 이전에 저장한 약속을 닫을 때 “다른 사용자 또는 다른 창에서 변경했기 때문에 해당 항목을 저장할 수 없음” 오류가 표시되는 문제가 수정 되었습니다. “항목에 대한 기본 폴더에 복사본을 만드시겠습니까?”
+
+
+- 공유 폴더 다운로드를 선택하지 않은 경우 공유 일정 모임 “응답 옵션”에 “전달 허용” 옵션이 없는 문제를 해결합니다.
+
+
+- 보안 대화 상자에서 "저장" 옵션을 선택할 때 사용자가 테넌트 외부에서 로컬 컴퓨터에 OneDrive 첨부 파일을 저장할 수 없는 문제를 해결합니다.
+
+
+- 공유 일정을 사용한 후 몇 분 동안 Outlook 사용자의 메시지 목록이 업데이트 되지 않는 문제를 해결했습니다.
+
+
+- 일주일 이내에 진행될 모임의 시간을 일정 미리 알림에서 정확하게 표시하지 않는 문제를 해결했습니다. 
+
+
+- 메시지에 이미지를 인라인으로 삽입한 다음 메시지를 초안으로 저장하면 이미지 크기가 조정되는 문제를 해결했습니다.
+
+
+- 제목을 편집한 후 NDR 메시지 본문이 유니코드에서 ASCII로 변경되는 문제를 해결했습니다.
+
+
+- 일본에서 미니 캘린더의 날짜가 굵게 표시되지 않는 문제를 해결했습니다.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 실시간 공동 작성 세션이 진행 동안 사용자의 현재 상태 색 표시기가 공동 작성 갤러리에서 새로고침되지 않는 문제를 해결했습니다.
+
+
+- 슬라이드의 텍스트 영역에 HTML을 붙여넣는 대신 슬라이드 맨 위에 있는 텍스트 상자에 붙여넣는 문제를 해결했습니다.
+
+
+- 발표자 보기에서 모든 슬라이드를 선택하고 나서 발표자 보기를 종료하고 Alt+Tab을 사용하여 슬라이드 쇼로 돌아가 '쇼 종료'를 클릭할 때 처리되지 않은 예외가 발생하는 문제를 해결했습니다.
+
+
+### <a name="project"></a>Project
+
+- Project에서 SharePoint 문서 라이브러리에 PDF/XPS를 저장 할 수 없는 문제가 수정되었습니다.
+
+
+- Project Web App에서 URL이 .com으로 끝나는 경우 Project 데스크톱 클라이언트에서 프로젝트를 열 수 없는 문제를 해결했습니다.
+
+
+- 특정 XML 파일을 열때 Project가 충돌할 수 있는 문제를 해결했습니다.
+
+
+- Project Web App에서 URL이 '.com'으로 끝나는 경우 Project 데스크톱 클라이언트에서 프로젝트를 열 수 없는 문제를 해결했습니다.
+
+
+- 여러 종속성이 있는 작업을 붙여 넣는 경우 일부 종속성이 제대로 복사 되지 않는 문제가 해결되었습니다.
+
+
+- 자원 배정 대화 상자에서 선택한 작업이 작업 게시판 보기에서 선택 된 작업과 같지 않은 문제를 해결 했습니다.
+
+
+- 프로젝트 요약 작업(프로젝트 시작/작업 필드)을 변경할 때 ProjectBeforeTaskChange 이벤트가 발생하지 않는 문제를 해결했습니다.
+
+
+- 기간 고정 작업이 100% 완료 상태이지만 실제 완료 날짜가 지정되지 않은 경우 작업 완료율(%)이 100% 미만으로 표시되는 문제를 해결했습니다.
+
+- 초기 계획 재설정 또는 업데이트로 기간별 예산 비용/작업 자원이 변경되고 초기 계획에 잘못된 예산 값이 반영 될 수 있는 문제를 해결했습니다.
+
+
+- 정부 커뮤니티 클라우드 환경의 Project Planner 링크가 사용 안 함으로 설정되는 문제를 해결했습니다.
+
+
+- 라이브러리가 최신 모드인 경우 SharePoint 문서 라이브러리에서 Project 파일을 열 수 없는 문제를 해결했습니다.
+
+
+### <a name="word"></a>Word
+
+- Office 리본의 서식 지우기 단추를 통해 메모 창에서 서식을 지울 수 없는 문제를 해결했습니다.
+
+
+- Word, Excel 또는 PowerPoint 파일에 SVG(확장 가능한 벡터 그래픽)를 삽입한 후 파일을 저장하고 닫은 다음 파일을 다시 열었을 때 읽기 어려워 보이는 문제를 해결했습니다.
+
+
+- 눈금자가 표시되지 않을 때 표 크기를 변경 하는 경우 백그라운드에서 실행되는 다른 응용 프로그램에서 번쩍임이 발생하는 문제를 해결했습니다.
+
+
+- 공동 작성 모드에서 가끔 메모 회신이 메모 창에 표시되지는 않지만 수정 창에는 표시되는 문제를 해결했습니다.
+
+
+- 병합 충돌이 발생하고 사용자가 변경 내용을 삭제하도록 이미 선택했을 때 공동 작성 모드에서 발생하는 문제를 해결했습니다. 더 이상 변경 내용을 저장하거나 삭제하는 옵션이 표시되지 않습니다.
+
+
+- HTML 하이퍼링크 색이 제대로 렌더링되지 않는 문제를 해결했습니다.
+
+
+- Word에서 자주 여는 문서의 수가 50개를 초과하는 경우 문서를 저장하고 연 후 해당 문서에 대한 수정 내용이 없는 경우에도 수정 기록이 표시되는 문제를 해결했습니다.
+
+
+- 공동 작성 중 자동 저장과 관련 된 문제가 해결 되었습니다.
+
+
+- 매크로가 포함된 파일을 새 이름으로 저장하려고 하면 사용자가 입력한 내용에 상관없이 파일이 .docx 확장명과 파일 이름 ‘WRO0004.docx’로 저장되어 문서를 사용할 수 없게 만드는 문제를 해결했습니다.
+
+
+### <a name="office-suite"></a>Office 제품군
+
+- 시간 문제 때문에 Office 파일을 닫을 때 충돌이 발생할 수 있습니다.
+
+- 서비스가 올바르게 계산 된 제품이 추가 되었는지 확인하여 수정 할 수 있습니다. 새로 추가한 제품(새 구성에도 존재 하는지 확인)을 필터링하고 기존 제품 출시 ID 끝에 추가 했습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2006-july-09"></a>버전 2006: 7월 9일
 *버전 2006 (빌드 13001.20384)*
@@ -97,21 +284,21 @@ ms.locfileid: "45094648"
 ### <a name="resolved-issues"></a>해결된 문제
 ### <a name="access"></a>Access
 
-- <div>이제 이 문제가 해결되었습니다. 이 과정에서 더 많은 문제가 발생하면 팀원들에게 알려주시기 바랍니다.</div>
+- 이제 이 문제가 해결되었습니다. 이 과정에서 더 많은 문제가 발생하면 팀원들에게 알려주시기 바랍니다.
 
 
 ### <a name="outlook"></a>Outlook
 
-- <div><span style="display:inline !important;">끌어서 놓기를 통해<span>&nbsp;</span></span><span style="box-sizing:border-box;font-family:Calibri, sans-serif;font-size:14.6667px;display:inline !important;"> &nbsp;4501년 1월 1일 로 설정하여 파일 시스템에 복사한 첨부 파일의 &nbsp;작성일자 를 사용자에게 표시하는 문제를 해결합니다.</span><br></div>
+- <span style="display:inline !important;">끌어서 놓기를 통해<span>&nbsp;</span></span><span style="box-sizing:border-box;font-family:Calibri, sans-serif;font-size:14.6667px;display:inline !important;"> &nbsp;4501년 1월 1일 로 설정하여 파일 시스템에 복사한 첨부 파일의 &nbsp;작성일자 를 사용자에게 표시하는 문제를 해결합니다.</span><br>
 
 
-- <div><span style="font-family:&quot;Segoe UI&quot;, system-ui, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, sans-serif;display:inline !important;">공유 일정관리의 개선된 사용자가 일정관리 오류를 볼 수 있는 문제를 해결합니다.</span><br></div>
+- <span style="font-family:&quot;Segoe UI&quot;, system-ui, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, sans-serif;display:inline !important;">공유 일정관리의 개선된 사용자가 일정관리 오류를 볼 수 있는 문제를 해결합니다.</span><br>
 
 
-- <div><span style="display:inline !important;">Outlook에서 받은 편지함 복구 도구를 실행하라는 메시지를 계속 표시하도록 하는 문제를 해결합니다.</span><br></div>
+- <span style="display:inline !important;">Outlook에서 받은 편지함 복구 도구를 실행하라는 메시지를 계속 표시하도록 하는 문제를 해결합니다.</span><br>
 
 
-- <div><span style="display:inline !important;">기능 제안에서 기능을 검색하여 결과를 반환하지 않고 사용자에게 새 기능 아이디어를 제출할 수 있는 옵션이 없는 문제를 해결합니다.</span><br></div>
+- <span style="display:inline !important;">기능 제안에서 기능을 검색하여 결과를 반환하지 않고 사용자에게 새 기능 아이디어를 제출할 수 있는 옵션이 없는 문제를 해결합니다.</span><br>
 
 
 
@@ -967,7 +1154,7 @@ ms.locfileid: "45094648"
 ### <a name="resolved-issues"></a>해결된 문제
 ### <a name="project"></a>Project
 
-- <div><span style="display:inline !important;">실제 작업 시간을 보호하는 설정이 설정된 경우 사용자가 기간별 초기 작업 시간을 입력할 수 없는 문제가 수정되었습니다.</span><br></div>
+- <span style="display:inline !important;">실제 작업 시간을 보호하는 설정이 설정된 경우 사용자가 기간별 초기 작업 시간을 입력할 수 없는 문제가 수정되었습니다.</span><br>
 
 
 
@@ -1186,11 +1373,11 @@ ms.locfileid: "45094648"
 ### <a name="resolved-issues"></a>해결된 문제
 
 ### <a name="project"></a>Project
-- <div>요약 작업 날짜가 항상 제대로 계산되지 않는 문제를 해결했습니다.</div>
+- 요약 작업 날짜가 항상 제대로 계산되지 않는 문제를 해결했습니다.
 
 
 ### <a name="office-suite"></a>Office 제품군
-- <div>동일한 SharePoint 라이브러리의 Word/Excel/PowerPoint에서 여러 문서를 열 때 첫 번째로 열린 문서만 정책 준수에 대한 검사가 이뤄지는 문제를 해결합니다.</div>
+- 동일한 SharePoint 라이브러리의 Word/Excel/PowerPoint에서 여러 문서를 열 때 첫 번째로 열린 문서만 정책 준수에 대한 검사가 이뤄지는 문제를 해결합니다.
 
 
 
@@ -1202,7 +1389,7 @@ ms.locfileid: "45094648"
 ### <a name="resolved-issues"></a>해결된 문제
 ### <a name="outlook"></a>Outlook
 
-- <div>타사 응용 프로그램에서 전자 메일을 보낼 수 없는 문제를 해결합니다.</div>
+- 타사 응용 프로그램에서 전자 메일을 보낼 수 없는 문제를 해결합니다.
 
 
 
@@ -1243,24 +1430,24 @@ ms.locfileid: "45094648"
 ### <a name="resolved-issues"></a>해결된 문제
 ### <a name="excel"></a>Excel
 
-- <div style="box-sizing:border-box;">CUBEVALUE 함수가 때때로 잘못된 결과를 반환하는 문제가 해결되었습니다.&nbsp;</div><div><span style="display:inline !important;"></span><br></div>
+- <div style="box-sizing:border-box;">CUBEVALUE 함수가 때때로 잘못된 결과를 반환하는 문제가 해결되었습니다.&nbsp;<span style="display:inline !important;"></span><br>
 
 
 ### <a name="outlook"></a>Outlook
 
-- <div>모임 위치 필드의 쉼표가 세미콜론으로 바뀌는 문제를 해결합니다.</div>
+- 모임 위치 필드의 쉼표가 세미콜론으로 바뀌는 문제를 해결합니다.
 
 
-- <div>여러 창에서 동일한 항목을 볼 때 충돌이 발생할 수 있는 문제를 해결합니다.</div>
+- 여러 창에서 동일한 항목을 볼 때 충돌이 발생할 수 있는 문제를 해결합니다.
 
 
-- <div>동기화 슬라이더가 더 작은 설정으로 설정되어 있어도 Outlook이 예기치 않게 모든 메일을 동기화시키는 문제를 해결했습니다. &nbsp;</div>
+- 동기화 슬라이더가 더 작은 설정으로 설정되어 있어도 Outlook이 예기치 않게 모든 메일을 동기화시키는 문제를 해결했습니다. &nbsp;
 
 
-- <div>검은색 테마를 사용한 사용자에게 &quot;보낸 사람&quot; 드롭다운에 흰색 배경에 흰색 텍스트가 표시되는 문제를 해결합니다.</div>
+- 검은색 테마를 사용한 사용자에게 &quot;보낸 사람&quot; 드롭다운에 흰색 배경에 흰색 텍스트가 표시되는 문제를 해결합니다.
 
 
-- <div><span style="display:inline !important;">이 변경으로 메시지 헤더에서 여러 줄 제목을 볼 수 있습니다.</span><br></div>
+- <span style="display:inline !important;">이 변경으로 메시지 헤더에서 여러 줄 제목을 볼 수 있습니다.</span><br>
 
 
 
