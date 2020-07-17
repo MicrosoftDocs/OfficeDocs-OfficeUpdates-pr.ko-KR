@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT 전문가에게 MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록을 제공합니다.
-ms.openlocfilehash: dca350f83b16f776048c64b2fc023f53980be5ef
-ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
+ms.openlocfilehash: ad34c6a3f64da52611f8bb5b3502f448d823c096
+ms.sourcegitcommit: 460a51d38fc5364ad8fbf7b32a46786ee8b62dea
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/12/2020
-ms.locfileid: "44211113"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45145115"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록
  
@@ -29,6 +29,49 @@ ms.locfileid: "44211113"
 > - Microsoft 자동 업데이트는 Microsoft의 다양한 Mac 제품에 대한 업데이트를 제공합니다. 따라서 Mac용 Office를 실행하고 있지 않더라도 Microsoft 자동 업데이트를 업데이트하라는 알림을 받을 수 있습니다.
 
 릴리스 정보를 확인하려면 [릴리스 정보](release-notes-office-for-mac.md)를 참고하세요.<br/><br/>
+
+## <a name="july-2020-release"></a>2020년 7월 릴리스
+
+**릴리스 날짜:** 2020년 7월 14일
+
+*Microsoft 자동 업데이트 4.25*
+
+**버그 수정 및 개선 사항:**
+- 앱 종료를 감지하고 "앱 열기"와 관련하여 표시 된 대화 상자를 자동으로 제거합니다.
+- 4월 릴리스에 소개된 자동 업데이트 기능을 사용하지 않는 사용자가 Microsoft 자동 업데이트 UI를 매 주 한번만 보도록 하는 기능을 되돌렸습니다.
+- 업데이트를 다운로드 한 후 설치를 시작하기 전에 업데이트 도우미가 종료 되는 문제가 해결 되었습니다..
+- 사용자 알림이 보류 되는 기간이 지나면 업데이트 도우미가 종료 되지 않는 문제가 해결 되었습니다.
+- 설치 후에 MAU UI를 다시 열리거나 다시 열리지 않는 문제를 해결 했습니다. 업데이트를 MAU UI 자체에서 시작 한 경우 또는 사용자가 직접 업데이트를 초기화 한 경우 (Finder, Terminal를 통해)에는 설치 된 후에 UI가 열려야 합니다.
+
+**MAU 업데이트 링크:**
+
+[Microsoft 자동 업데이트 4.25 패키지 다운로드](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 해시:**
+
+B8E3D4391E48732F42217589784D8B3417F6F14489D9DE04395198A01BFDFA46
+
+<br/><br/>
+
+## <a name="june-2020-release"></a>2020년 6월 릴리스
+
+**릴리스 날짜:** 2020년 6월 18일
+
+*Microsoft 자동 업데이트 4.24*
+
+**버그 수정 및 개선 사항:**
+- 고객 메시지 캠페인: Mac 2016용 Office는 2020년 10월부터 지원되지 않습니다. 
+- MAU의 도우미 도구 XPC 연결에 보안 해결
+
+**MAU 업데이트 링크:**
+
+[Microsoft 자동 업데이트 4.24 패키지 다운로드](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 해시:**
+
+EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
+
+<br/><br/>
 
 ## <a name="may-2020-release"></a>2020년 5월 릴리스
 
