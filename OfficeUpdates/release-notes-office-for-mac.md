@@ -9,24 +9,24 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Microsoft 365 앱 구독자를 위한 Mac용 Office 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: a626236899faeeef1708e22726fce7c28dcc4a8e
-ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
+ms.openlocfilehash: 4c1b7d69a40afae6c6172d3d3135c2e22a7daa71
+ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/12/2020
-ms.locfileid: "44210973"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138544"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac용 Office에 대한 릴리스 정보
 
  
-Microsoft 365 앱 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데이트 및 비보안 업데이트를 제공하기 위해 정기적으로 업데이트됩니다.
+Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데이트 및 비보안 업데이트를 제공하기 위해 정기적으로 업데이트됩니다.
   
 업데이트는 Microsoft 자동 업데이트(MAU)에서 사용할 수 있습니다. Microsoft 자동 업데이트를 사용하려면 Word와 같은 Office 응용 프로그램을 시작하고 **도움말** > **업데이트 확인**을 선택합니다. 관리자이며 기존 소프트웨어 배포 도구를 사용하여 조직의 컴퓨터를 업데이트하려는 경우 각 응용 프로그램에 대한 업데이트 패키지를 다운로드하고 배포할 수 있습니다.
 
   
 > [!NOTE]
 > - Office 참가자인 경우 [초기 참가자 빌드용 릴리스 정보](https://support.office.com/article/b3260859-2c1e-4f12-92a4-62a6997efb3a)를 참조하세요.
-> - 2018년 16.17 릴리스부터 릴리스 정보는 소매점 또는 볼륨 라이선싱 계약을 통해 일회용 구매 제품으로 사용할 수 있는 Mac용 Office 버전인 Mac용 Office 2019에도 적용됩니다. 그렇지만 릴리스 정보에 나열된 일부 기능은 Microsoft 365 앱 구독이 있는 경우에만 사용할 수 있습니다.
+> - 2018년 9월 16.17 릴리스부터 릴리스 정보는 소매점 또는 볼륨 라이선스 계약을 통해 일회용 구매 제품으로 사용할 수 있는 Mac용 Office 버전인 Mac용 Office 2019에도 적용됩니다. 그렇지만 릴리스 정보에 나열된 일부 기능은 Microsoft 365 구독이 있는 경우에만 사용할 수 있습니다.
 > - 종종 일정 기간 월 단위 채널에 기능(및 때때로 수정 항목)을 출시하기도 합니다. 이를 통해 기능을 더 많은 대상 그룹에 출시하기 전에 모두 원활하게 작동하는지 확인할 수 있습니다. 따라서 아래에 설명된 문제가 보이지 않는 이상 결국 받게 되니 아무것도 걱정할 필요가 없습니다. [자세히 알아보기](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - 당사는 때때로 일반적인 품질 및 성능 향상을 포함하지만 새 기능은 포함되지 않은 업데이트를 릴리스합니다. 아래에 앱이 구체적으로 나열되어 있지 않은 경우 해당 앱에 대한 업데이트는 품질 및 성능 개선만을 포함하고 있습니다.
 
@@ -35,6 +35,101 @@ Microsoft 365 앱 구독에 포함된 Mac용 Office는 새로운 기능, 보안 
 
 [//]: # (제거하지 마세요)
 
+
+
+
+
+
+## <a name="july-14-2020"></a>2020년 7월 14일
+*버전 16.39(빌드 20071300)*
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="excel"></a>Excel
+
+- **셀 값에서 차트 레이블 추가:** 셀 값을 차트 데이터의 레이블로 사용합니다. [자세한 정보](https://support.office.com/article/884bf2f1-2e29-454e-8b42-f467c9f4eb2d)
+
+- **대화에서 애니메이션 GIF 사용:** 애니메이션 GIF가 이제 Office 편집기에서 지원됩니다. 이제 문서가 더욱 돋보입니다.
+
+### <a name="outlook"></a>Outlook
+
+- **손쉬운 빠른 작업**: 실행 가능한 메시지를 통해 전자 메일 내에서 바로 승인, 설문 조사 작성과 같은 빠른 작업을 수행할 수 있습니다.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **대화에서 애니메이션 GIF 사용:** 애니메이션 GIF가 이제 Office 편집기에서 지원됩니다. 이제 문서가 더욱 돋보입니다.
+
+### <a name="word"></a>Word
+
+- **대화에서 애니메이션 GIF 사용:** 애니메이션 GIF가 이제 Office 편집기에서 지원됩니다. 이제 문서가 더욱 돋보입니다.
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+
+[//]: # (보안 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+
+### <a name="security-updates"></a>보안 업데이트
+
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-1342](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1342)
+-   [CVE-2020-1445](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1445)
+-   [CVE-2020-1446](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1446)
+-   [CVE-2020-1447](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1447)
+
+### <a name="office-suite"></a>Office 제품군
+
+-   [CVE-2020-1409](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1409)
+
+[//]: # (보안 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="june-16-2020"></a>2020년 6월 16일
+*버전 16.38(빌드 20061401)*
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="excel"></a>Excel
+
+- **사진에서 데이터 가져오기:** 사진, 삽입 탭 또는 iPhone에서 직접 테이블 데이터를 추가합니다. [자세한 정보](https://support.office.com/article/3c1bb58d-2c59-4bc0-b04a-a671a6868fd7)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/13/data-from-picture-in-excel/)에서 세부 정보 보기
+
+### <a name="outlook"></a>Outlook
+
+- **Outlook 핸즈프리:** 마이크가 있나요? 받아쓰기를 클릭하고 말하는 동안 Outlook에 입력되는 내용을 확인하세요. [자세한 정보](https://support.office.com/article/4010d238-bb25-45e9-89f6-8f9b54fcc0fc)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **발표하는 동안 변경 내용 동기화:** 프레젠테이션이 슬라이드 쇼 모드에 있더라도 내용이 변경될 때마다 동기화됩니다.<br />[블로그 게시물](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/)에서 세부 정보를 참조하세요.
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+
+[//]: # (보안 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+
+### <a name="security-updates"></a>보안 업데이트
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-1225](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1225)
+-   [CVE-2020-1226](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1226)
+
+### <a name="outlook"></a>Outlook
+
+-   [CVE-2020-1229](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1229)
+
+
+### <a name="office-suite"></a>Office 제품군
+
+-   [CVE-2020-1321](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1321)
+
+[//]: # (보안 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="may-12-2020"></a>2020년 5월 12일
 *버전 16.37(빌드 20051002)*
@@ -46,11 +141,13 @@ Microsoft 365 앱 구독에 포함된 Mac용 Office는 새로운 기능, 보안 
 
 - **진심으로 말하세요:** 데이터에 대해 궁금한 점이 있으세요? Excel 아이디어에 질문을 입력하면 답변을 받을 수 있습니다. [자세한 정보](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 
-- **원하는 내용 찾기:** 검색 창을 사용하여 텍스트, 명령, 도움말 등을 찾으세요. [자세한 정보](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)에서 세부 정보 보기
+- **원하는 내용 찾기:** 검색 창을 사용하여 텍스트, 명령, 도움말 등을 찾으세요. [자세한 정보](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)에서 세부 정보를 참조하세요.
+
+- **셀을 추가하는 빠른 방법**: **클릭하여 추가 모드를 사용하도록 설정**한 다음 =를 입력하고 일부 셀을 선택하여 셀 값을 추가하는 수식을 빠르게 만듭니다. **메뉴** > **기본 설정** > **편집**에서 옵션을 찾습니다.  [자세한 정보](https://support.office.com/ko-KR/article/what-s-new-in-microsoft-365-95c8d81d-08ba-42c1-914f-bca4603e1426#Platform=Mac) <br />[블로그 게시물](https://blog-insider.office.com/2020/04/21/click-to-add-mode-feedback-in-action/)에서 세부 정보 보기
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **대규모 콘텐츠를 백그라운드에서 다운로드하므로 대용량 클라우드 파일을 더 빨리 읽기 시작할 수 있음:** 읽을 수 있기 전에 클라우드 프레젠테이션에서 대용량 이미지와 동영상을 모두 다운로드하는 대신, 이제 PowerPoint에서 해당 콘텐츠의 다운로드를 연기하므로 문서를 더 빨리 읽기 시작할 수 있습니다.
+- **대규모 콘텐츠를 백그라운드에서 다운로드하므로 사용자가 대용량 클라우드 파일을 더 빨리 읽을 수 있음:** 읽기 전에 클라우드 프레젠테이션에서 대용량 이미지와 비디오를 모두 다운로드하는 대신, 이제 PowerPoint에서 해당 콘텐츠의 다운로드를 연기하여 문서를 더 빨리 읽을 수 있습니다.
 
 - **슬라이드에 연결:** 동료에게 슬라이드 모음에 게시하도록 요청하고 도움이 필요한 슬라이드에서 직접 시작해 보세요. [자세한 정보](https://support.office.com/article/4f5f3d5e-1674-4742-8cf1-9623050c19ef)
 

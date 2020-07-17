@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 앱에 대한 반기 채널(대상 지정) 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 56aaac765769b1c132fb75d318baa1947ba90b4e
-ms.sourcegitcommit: afe8763e09c99ef05ff0dcd35eccf3c0fd326742
+ms.openlocfilehash: 838721b3bd587a03ddce1bc68bd13c06ae2fdc37
+ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45121768"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138744"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview-releases-in-2020"></a>2020의 반기 엔터프라이즈 채널(미리 보기) 릴리스의 릴리스 정보
 
@@ -23,6 +23,77 @@ ms.locfileid: "45121768"
 > [!IMPORTANT]
 > 당사는 Microsoft 365 앱에 대한 업데이트 채널을 일부 변경하고 있습니다. 여기에는 새 업데이트 채널 추가(월별 엔터프라이즈 채널) 및 기존 업데이트 채널의 이름 변경 등이 포함됩니다. 자세한 내용은 [이 문서를 참조](https://go.microsoft.com/fwlink/p/?linkid=2127441)하세요.
 
+
+## <a name="version-2002-july-14"></a>버전 2002: 7월 14일
+*버전 2002(빌드 12527.20880)*
+
+[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 보안 업데이트가 나열됩니다.
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- 로컬 OneDrive 폴더에서 사용할 수 있는 파일을 빠르게 로드할 수 있습니다.
+
+- SharePoint/OneDrive에 저장하는 경우 사용자 지정 리본 탭이 CustomUI XML을 제거하는 문제가 해결되었습니다.
+
+- 추가 기능이 사용자 지정 순서가 아니라 알파벳 순서로 로드되었기 때문에 ‘이 통합 문서는 다른 통합 문서에서 현재 참조하고 있으며 닫을 수 없습니다’라는 오류 메시지가 나타나는 문제가 해결되었습니다.
+
+- 이미 열려 있는 통합 문서 내의 위치에 대한 하이퍼링크를 클릭하면 통합 문서가 숨겨질 수 있는 문제가 해결되었습니다.
+
+- 일부 복사 및 붙여넣기 차트 링크에서 범용 주소가 아닌 매핑된 드라이브 주소를 사용하는 문제가 해결되었습니다.
+
+- 병합된 셀이 있는 열을 삭제하는 경우에 발생하던 성능 문제가 해결되었습니다.
+
+- 인쇄 대화 상자의 프린터 목록에서 프린터 이름이 반복될 수 있는 문제가 해결되었습니다.
+
+- 정의된 이름의 수식이 여러 개 포함된 워크시트가 파일을 저장할 때 더 오래 걸리는 문제를 해결했습니다.
+
+
+### <a name="outlook"></a>Outlook
+
+- 해상도가 다른 여러 모니터를 사용할 때 IME(입력 방법 편집기) 창이 IME를 통해 입력되는 기본 텍스트와 겹치는 문제를 해결했습니다.
+
+- 시간대 정의 변경에 접근할 때 되풀이되는 약속 또는 모임이 잘못된 시간에 표시되는 문제가 해결되었습니다.
+
+- Outlook에서 규칙을 업데이트할 때 ‘이 컴퓨터의 규칙이 Microsoft Exchange의 규칙과 일치하지 않습니다’라는 메시지가 사용자에게 표시되는 문제를 해결했습니다.
+
+- 공유 폴더 다운로드를 선택하지 않은 경우에 “전달 허용” 옵션이 공유 일정 모임 "응답 옵션"에서 누락되는 문제가 해결되었습니다.
+
+- 가끔 전자 메일 메시지의 범주가 사라지는 문제가 해결되었습니다.
+
+- 대리인이 다른 공유 사서함 컴퓨터의 다른 폴더 계층 구조를 볼 수 있었던 문제가 해결되었습니다.
+
+- 관리자의 일정에서 기존 일정 약속을 편집할 때 대리인에게 오류가 발생하는 문제가 해결되었습니다.
+
+- 제목을 편집한 후 NDR 메시지 본문이 유니코드에서 ASCII로 변경되는 문제가 해결되었습니다.
+
+- 두 개의 추가 기능에서 같은 리본 그룹에 단추를 추가하면 사용자에게 충돌이 발생하던 문제가 해결되었습니다.
+
+- 사용자가 전자 메일을 개인 메일 그룹으로 전송할 수 없는 문제가 해결되었습니다.
+
+- 테넌트 기본 권한이 "모든 사용자"로 구성된 경우 올바른 테넌트 기본 권한이 있는 전자 메일에 링크를 추가하지 못하던 문제가 해결되었습니다.
+
+- 보안 대화 상자에서 "저장" 옵션을 선택할 때 사용자가 테넌트 외부에서 로컬 컴퓨터에 OneDrive 첨부 파일을 저장할 수 없는 문제가 해결되었습니다.
+
+### <a name="word"></a>Word
+
+- 정책 FileBlick\Word2007Files를 활성화하는 경우 발생하는 공동 작성 관련 문제가 해결되었습니다.
+
+- 이름이 바뀐 조회 필드를 추가하는 경우 Word QuickPart가 작동하지 않는 문제가 해결되었습니다.
+
+### <a name="office-suite"></a>Office 제품군
+
+- 대규모 PowerPoint 파일에서 공동 작성하는 동안 사용자가 과도한 네트워크 및 CPU 사용률을 경험할 수 있는 문제가 해결되었습니다.
+
+- 이전 AppV51의 회귀 분석을 수정하기 위해 새로운 AppV51 드롭을 다시 보고했습니다.
+
+- 레지스트리 TabProcGrowth 값이 REG_SZ 유형이면 추가 기능이 활성화될 때 Office 호스트가 Windows에서 충돌하는 문제가 해결되었습니다.
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2002-june-09"></a>버전 2002: 6월 9일
 *버전 2002(빌드 12527.20720)*
@@ -279,7 +350,7 @@ ms.locfileid: "45121768"
 
 - **LinkedIn 네트워크를 Outlook과 연결하기:** Microsoft 계정을 사용하여 LinkedIn 계정에 안전하게 연결하고 Windows용 Outlook의 명함에 있는 LinkedIn 프로필에서 정보를 확인하세요. [자세한 정보](https://support.office.com/article/98253fdc-a3c2-47e4-8852-ebb4fbed0bc5)
 
-- **All your encryption options in one place:** Just go to Options > Encrypt to choose how to secure your email message. [Learn more](https://support.office.com/article/373339cb-bf1a-4509-b296-802a39d801dc)
+- **모든 암호화 옵션의 일원화:** 전자 메일 메시지 보호 방법을 선택하려면 옵션 > 암호화로 이동합니다. [자세히 알아보기](https://support.office.com/article/373339cb-bf1a-4509-b296-802a39d801dc)
 
 - **Outlook의 링크 삽입 메뉴는 테넌트 관리자가 정의한 사용 권한을 포함하는 링크를 삽입합니다:** Outlook의 가장 최근 삽입한 링크에 있는 링크는 이미 사용 권한이 있었던 사용자들에게만 작동했었던 링크를 삽입합니다. 이는 종종 사용자들 간에 문서에 대한 액세스 권한을 요청하는 전자 메일을 주고 받게 하였습니다. 이 환경을 업데이트하여 이제 테넌트 관리자가 설정한 기본 권한으로 링크가 삽입되었습니다. MSIT의 경우 "조직은 편집할 수 있음"이므로 이 방법을 통해 공유된 링크를 받는 모든 내부 사용자가 액세스할 수 있습니다.
 
@@ -309,7 +380,7 @@ ms.locfileid: "45121768"
 
 - **라이브 캡션 및 자막:** 발표자의 단어가 화면에 캡션으로 자동으로 표시되고 원하는 언어로 자막으로 번역됩니다. [자세한 정보](https://support.office.com/article/68d20e49-aec3-456a-939d-34a79e8ddd5f)
 
-- **You compute, we format:** We change hand-drawn math expressions into standard characters. Just choose Ink to Math and select your handwritten notes to get started. [Learn more](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+- **수식만 쓰세요, 서식은 PowerPoint가 알아서 지정해 드립니다:** 손글씨로 쓴 수학 식을 표준 문자로 변경해 드리겠습니다. 잉크 수식 변환을 선택하고 필기를 선택하기만 하면 됩니다. [자세히 알아보기](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
 - **원하는 내용 찾기:** 검색 창을 사용하여 텍스트, 명령, 도움말 등을 찾으세요. [자세한 정보](https://support.office.com/article/2457d4d8-48a8-4ad4-ab89-5a0657aa8446)
 
@@ -660,4 +731,5 @@ ms.locfileid: "45121768"
 
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|FRDC|Insiders| |16.0.12527.20880|버전 2002년 7월 14일|)
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 끝)
