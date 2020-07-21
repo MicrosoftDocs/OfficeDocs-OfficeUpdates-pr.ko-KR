@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 앱에 대한 반기 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: f32bdae61df487a920d3a5a7186db9113b37310a
-ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
+ms.openlocfilehash: 72b515d37a8529b17afec4e868df0b2171f83b09
+ms.sourcegitcommit: 6f79e3c3948db4d7ae1c6dfc855970551d3b1678
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45138814"
+ms.lasthandoff: 07/20/2020
+ms.locfileid: "45187608"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-releases-in-2020"></a>2020의 반기 엔터프라이즈 채널 릴리스에 대한 릴리스 정보
 
@@ -154,8 +154,6 @@ ms.locfileid: "45138814"
 - ** 더 많은 접근 가능한 PDF 만들기:** PDF를 만들면 액세스 가능성 검사기가 저장하기 전에 수정해야 할 접근성 문제를 해결합니다. [자세한 정보](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)<br />[블로그 게시물](https://blog-insider.office.com/2019/08/13/accessible-pdfs-made-easier/)에서 세부 정보를 참조하세요.
 
 - **더 빠른 파일 공유**: 파일을 열지 않고 최근에 사용한 목록에서 문서를 바로 공유할 수 있습니다.
-
-- **도형을 그림으로 저장:** 몇 번의 클릭만으로 도형, 아이콘 또는 기타 개체를 그림 파일로 저장하여 다른 곳에서 다시 사용할 수 있습니다. [자세한 정보](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
 - **분위기에 맞는 더 다양한 아이콘:** 300개가 넘는 새로운 아이콘이 추가되었습니다. 삽입 > 아이콘에서 찾을 수 있습니다. [자세한 정보](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)<br />[블로그 게시물](https://blog-insider.office.com/2019/04/24/your-feedback-in-action-new-insertable-icons/)에서 세부 정보를 참조하세요.
 
