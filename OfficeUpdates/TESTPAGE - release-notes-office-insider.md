@@ -11,7 +11,7 @@ ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
 ms.openlocfilehash: 7be7c87cdc366fb4367e85a3a4174ce9718b5204
 ms.sourcegitcommit: f92e2e3c32b657fcb7abba694b310e152b376858
-ms.translationtype: MT
+ms.translationtype: Auto
 ms.contentlocale: ko-KR
 ms.lasthandoff: 06/03/2020
 ms.locfileid: "44546280"
