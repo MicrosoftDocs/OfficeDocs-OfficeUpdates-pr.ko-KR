@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 12cfa4a285201c2d3839abfd93c5085fa5ea1d13
-ms.sourcegitcommit: a58e0b1ff6d1170fabfd95ba7f25e2eb1e4fad0a
+ms.openlocfilehash: 55376627b5c8bc71bf346861a774ecce3cda9240
+ms.sourcegitcommit: 766e2f8782023972acd7a53c458f39219a8493b3
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "45166716"
+ms.lasthandoff: 07/24/2020
+ms.locfileid: "45410709"
 ---
 # <a name="release-notes-for-beta-channel"></a>베타 채널용 릴리스 정보
 
@@ -30,6 +30,35 @@ ms.locfileid: "45166716"
 [//]: # (제거하지 마세요)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+## <a name="version-2008-july-24"></a>버전 2008: 7월 24일
+*버전 2008(빌드 13117.20000)*
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="excel"></a>Excel
+
+- **Excel에서 세련된 Visio 다이어그램 만들기:** 워크시트에 데이터를 입력하여 순서도 또는 조직도를 만듭니다. [자세한 정보](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="onenote"></a>OneNote
+
+- 응용 프로그램 창의 크기를 작게 조정한 경우 검색 편집 상자의 개체 틀 텍스트가 오버플로될 수 있는 문제를 해결했습니다.
+
+### <a name="word"></a>Word
+
+- 응용 프로그램 창의 크기를 작게 조정한 경우 검색 편집 상자의 개체 틀 텍스트가 오버플로될 수 있는 문제를 해결했습니다.
+- 변경 내용 추적에 대한 '특정 사용자' 옵션이 비활성화되는 문제를 해결했습니다.
+- 가끔 HTML 파일을 여는 동안 멈추는 문제를 해결했습니다.
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2008-july-17"></a>버전 2008: 7월 17일
 *버전 2008 (빌드 13115.20000)*
@@ -1063,6 +1092,7 @@ ms.locfileid: "45166716"
 
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13117.20000|version-2008-july-24|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13115.20000|2008년 7월 17일 버전|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13102.20002|version-2008-july-10|)
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 끝)
