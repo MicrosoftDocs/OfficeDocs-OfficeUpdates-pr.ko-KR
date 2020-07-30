@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 각 업데이트 채널에 대한 Microsoft 365 앱 업데이트의 대략적인 다운로드 크기 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 1fc2292361cd1a881393e130682755e9ade1c471
-ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
+ms.openlocfilehash: 9334d53945d72987154a3cd2e38f35d596aad7af
+ms.sourcegitcommit: 525e9abf1319f42ed01a4f2ba2852b1a74181e81
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45138574"
+ms.lasthandoff: 07/28/2020
+ms.locfileid: "46506595"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 앱 업데이트의 다운로드 크기
 
@@ -35,6 +35,22 @@ Microsoft의 목표는 기업 고객이 네트워크 대역폭 사용률을 계�
 > - 지난 4개월 동안의 릴리스만 표시됩니다.
 
 [//]: # (제거하지 마세요)
+
+## <a name="july-28-2020"></a>2020년 7월 28일
+
+[//]: # (항목을 제거하지 마세요. 시작 2020년 7월 28일)
+
+### <a name="current-channel"></a>현재 채널
+
+가장 최근 릴리스는 버전 2006 (빌드 13001.20498)입니다.
+
+|**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
+|:-----|:-----|:-----|
+|버전 2006(빌드 13001.20384) <br/> |2020년 7월 14일 <br/> |47<br/> |
+|버전 2006(빌드 13001.20266) <br/> |2020년 6월 30일 <br/> |62<br/> |
+
+
+[//]: # (콘텐츠를 제거하지 마세요 종료 2020년 7월 28일)
 
 ## <a name="july-14-2020"></a>2020년 7월 14일
 
