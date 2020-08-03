@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 55376627b5c8bc71bf346861a774ecce3cda9240
-ms.sourcegitcommit: 766e2f8782023972acd7a53c458f39219a8493b3
+ms.openlocfilehash: c9d5dfb323a27aacb792d93293cf3aba09d43432
+ms.sourcegitcommit: 3e6b6412adb50393fb5cabcb52671bbb00d9e697
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/24/2020
-ms.locfileid: "45410709"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "46532603"
 ---
 # <a name="release-notes-for-beta-channel"></a>베타 채널용 릴리스 정보
 
@@ -30,6 +30,67 @@ ms.locfileid: "45410709"
 [//]: # (제거하지 마세요)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+## <a name="version-2008-july-31"></a>버전 2008: 7월 31일
+*버전 2008(빌드 13127.20002)*
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="excel"></a>Excel
+
+- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보를 참조하세요.
+
+### <a name="outlook"></a>Outlook
+
+- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보를 참조하세요.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보를 참조하세요.
+
+### <a name="word"></a>Word
+
+- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보를 참조하세요.
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="access"></a>Access
+
+- 이 수정은 특정 쿼리를 실행하려고 하면 이전에 '쿼리가 너무 복잡합니다'라는 오류 메시지가 발생한 문제를 해결합니다.
+
+### <a name="excel"></a>Excel
+
+- 차트 시리즈의 순서가 변경된 경우 시리즈와 함께 정렬된 해당 확인란이 순서와 함께 순서가 변경되지 않는 문제를 해결했습니다.
+- 방사형 그라데이션 채우기가 있는 이미지의 복사본이 원본과 일치하지 않는 문제를 해결했습니다.
+
+### <a name="outlook"></a>Outlook
+
+- 이 수정은 회신하는 메시지에 대한 소유자 권한이 없는 경우 검사기 창에서 디지털 권한 관리 메시지에 회신할 때 사용자가 서명을 추가할 수 없는 문제를 해결합니다.
+- 이 수정은 Outlook이 표시다운 내용에 줄 바꿈을 제대로 표시하지 못하게 하는 문제를 해결합니다.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 방사형 그라데이션 채우기가 있는 이미지의 복사본이 원본과 일치하지 않는 문제를 해결했습니다.
+- Office Store에 대한 액세스가 허용되지 않을 때 PowerPoint의 Forms 버튼이 Forms 생성을 허용하지 않는 문제를 해결했습니다.
+
+### <a name="project"></a>Project
+
+- SharePoint 작업 목록의 경우 두 번째 탭의 리본 버튼을 사용할 수 없는 문제가 해결되었습니다.
+
+### <a name="word"></a>Word
+
+- 방사형 그라데이션 채우기가 있는 이미지의 복사본이 원본과 일치하지 않는 문제를 해결했습니다.
+- 변경 내용을 추적하기 위해 주석을 추가하면 수정사항 창이 예기치 않게 열리는 문제를 해결했습니다.
+- 삽입 > 링크 드롭다운을 통해 문서 링크가 메모 상자에 삽입되지 않는 문제를 해결했습니다.
+- 하이퍼링크를 포함 하는 이미지를 추가한 후 VBA hyperlinks 컬렉션의 하이퍼링크 수가 제대로 반복 되지 않는 문제가 해결 되었습니다.
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2008-july-24"></a>버전 2008: 7월 24일
 *버전 2008(빌드 13117.20000)*
@@ -1092,6 +1153,7 @@ ms.locfileid: "45410709"
 
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|DevMain|참가자| |16.0.13127.20002|버전-2008-july-31|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13117.20000|version-2008-july-24|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13115.20000|2008년 7월 17일 버전|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13102.20002|version-2008-july-10|)

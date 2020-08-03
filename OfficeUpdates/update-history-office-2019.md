@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: C2R(간편 실행)을 사용하는 Office 2016 및 2019 영구 버전에 대한 업데이트 기록을 IT 전문가에게 제공합니다.
-ms.openlocfilehash: b6b4c21b61b32eed96ca96a77d30e787915b4765
-ms.sourcegitcommit: 5a58fccf5a097a2b66b42c9c00b140a8d21a1eb1
+ms.openlocfilehash: f51a17e603f506a099b750b1b673fc13a5452e4b
+ms.sourcegitcommit: 094f41a7cd3ac7044923aab24da75e9236772836
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "46522435"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "46530347"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Office 2016 C2R 및 Office 2019의 업데이트 기록
 
@@ -44,7 +44,7 @@ Microsoft는 Office 2016 C2R(간편 실행) 버전과 Office 2019의 보안 및 
 |2020년 4월 14일   |버전 1808(빌드 10358.20061)  |[CVE-2020-0760](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0760) <br/> [CVE-2020-0906](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0906) <br/> [CVE-2020-0961](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0961) <br/> [CVE-2020-0980](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0980) <br/>[CVE-2020-0991](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0991) <br/> |
 |2020년 3월 10일   |버전 1808 (빌드 10357.20081)  |[CVE-2020-0850](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0850) <br/> [CVE-2020-0852](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0852) <br/> [CVE-2020-0892](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0892) <br/>  |
 |2020년 2월 11일   |버전 1808 (빌드 10356.20006)  |[CVE-2020-0696](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0696) <br/> [CVE-2020-0759](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0759) <br/>  |
-|2020년 1월 14일   |버전 1808 (빌드 10354.20022)  |[CVE-2020-0650](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0650) <br/> [CVE-2020-0651](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0651) <br/> [CVE-2020-0652](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0652) <br/>  |
+
 
 
 
@@ -58,6 +58,7 @@ Microsoft는 Office 2016 C2R(간편 실행) 버전과 Office 2019의 보안 및 
 
 |**릴리스 날짜**|**버전 번호**|**추가 정보**|
 |:-----|:-----|:-----|
+|2020년 7월 30일|버전 2007(빌드 13029.20308)  |다양한 버그 및 성능 수정 사항.  <br/>  |
 |2020년 7월 28일|버전 2006(빌드 13001.20498)  |다양한 버그 및 성능 수정 사항.  <br/>  |
 |2020년 7월 14일|버전 2006(빌드 13001.20384)  |[CVE-2020-1342](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1342) <br/>[CVE-2020-1349](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1349) <br/>[CVE-2020-1445](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1445) <br/>[CVE-2020-1446](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1446) <br/>[CVE-2020-1447](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1447) <br/>[CVE-2020-1449](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1449) <br/>[CVE-2020-1458](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1458) <br/>|
 |2020년 6월 30일|버전 2006(빌드 13001.20266)  |다양한 버그 및 성능 수정 사항.  <br/>  |
@@ -76,10 +77,7 @@ Microsoft는 Office 2016 C2R(간편 실행) 버전과 Office 2019의 보안 및 
 |2020년 3월 1일   |버전 2002 (빌드 12527.20242)  |타사 응용 프로그램에서 Outlook에서 전자 메일을 보낼 수 없는 문제를 해결합니다. <br/>  |
 |2020년 2월 25일   |버전 2002 (빌드 12527.20194)  |다양한 버그 및 성능 수정 사항. <br/>  |
 |2020년 2월 11일   |버전 2001 (빌드 12430.20264)  |[CVE-2020-0696](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0696) <br/> [CVE-2020-0697](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0697) <br/> [CVE-2020-0759](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0759) <br/>  |
-|2020년 1월 30일   |버전 2001 (빌드 12430.20184)  |다양한 버그 및 성능 수정 사항. <br/>  |
-|2020년 1월 22일   |버전 1912 (빌드 12325.20344)  |다양한 버그 및 성능 수정 사항. <br/>  |
-|2020년 1월 14일   |버전 1912(빌드 12325.20298)  |[CVE-2020-0650](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0650) <br/> [CVE-2020-0651](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0651) <br/> [CVE-2020-0652](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0652) <br/>  |
-|2020년 1월 8일   |버전 1912(빌드 12325.20288)  |다양한 버그 및 성능 수정 사항. <br/>  |
+
 
 
 

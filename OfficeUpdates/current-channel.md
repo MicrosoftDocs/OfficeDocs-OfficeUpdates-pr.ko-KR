@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 앱에 대한 월 단위 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: dbc49b56f2769318b9ec38253979262123844866
-ms.sourcegitcommit: 525e9abf1319f42ed01a4f2ba2852b1a74181e81
+ms.openlocfilehash: f45483874015c51255690647cc36952b6f4e257b
+ms.sourcegitcommit: 3e6b6412adb50393fb5cabcb52671bbb00d9e697
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "46506615"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "46532593"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>2020년 현재 채널 릴리스에 대한 릴리스 정보
 
@@ -31,6 +31,105 @@ ms.locfileid: "46506615"
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2007-july-30"></a>버전 2007: 7월 30일
+*버전 2007(빌드 13029.20308)*
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="excel"></a>Excel
+
+- **PDF 연결 설정:** PDF로 연결하고 PDF에서 데이터를 가져오고 새로 고칩니다. [자세한 정보](https://support.office.com/article/be4330b3-5356-486c-a168-b68e9e616f5a)
+
+- **다른 사용자를 방해하지 않고 필터링 및 정렬:** 이제 시트 뷰로 다른 사용자와 공동 작업하면서 Excel 파일을 정렬하고 필터링할 수 있습니다. 이 새 기능을 사용하면 문서를 공동 작성하는 동안 다른 사용자의 정렬 및 필터에 영향을 받지 않습니다. [자세한 정보](https://support.office.com/article/0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6)
+
+- **민감도 레이블 자동 적용 또는 권장:** Office는 감지되는 중요한 콘텐츠에 기반하여 민감도 레이블을 권장하거나 자동으로 적용할 수 있습니다.
+
+- **Excel 내의 Power BI에 있는 데이터셋에서 PivotTables 생성:** 몇 번의 클릭으로 Power BI에 저장된 데이터셋에 연결된 PivotTables를 Excel에서 생성할 수 있습니다. 이렇게 하면 PivotTables와 Power BI를 모두 최대한 활용할 수 있습니다. 보안 Power BI 데이터셋에서 PivotTables를 사용하여 데이터를 계산, 요약 및 분석할 수 있습니다. [자세한 정보](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)<br />[블로그 게시물](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)에서 세부 정보 보기
+
+### <a name="outlook"></a>Outlook
+
+- **간단한 설문 조사로 Outlook에 설문 조사 만들기**: 설문 조사를 쉽게 작성하고 투표를 수집하며 전자 메일에서 결과를 볼 수 있습니다 [자세한 내용 보기](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
+
+- **전자 메일로 사진을 보낼 때 선명도를 높게 유지:.** 새 Outlook 설정을 사용하여 사진을 전자 메일 콘텐츠에 첨부해서 보낼 때 압축을 제한할 수 있습니다.
+
+- **이전 세션에서 항목을 빠르게 다시 열기:** 이전 Outlook 세션에서 항목을 빠르게 다시 여는 옵션을 추가했습니다. Outlook에서 충돌이 발생하든 사용자가 Outlook을 닫든 이제 앱을 다시 열 때 항목을 빠르게 다시 시작할 수 있습니다. 이 기능은 기본적으로 켜져 있습니다. 이 기능을 끄려면 옵션 > 일반 > 시작 옵션으로 이동합니다.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **민감도 레이블 자동 적용 또는 권장:** Office는 감지되는 중요한 콘텐츠에 기반하여 민감도 레이블을 권장하거나 자동으로 적용할 수 있습니다.
+
+- **PowerPoint의 스트림 비디오 성능 향상:** Microsoft Stream 비디오의 재생 성능을 개선하여 비디오 로드 시간을 최소화하고 원활한 보기 환경을 조성했습니다. Microsoft Stream의 회사 비디오를 사용하여 더 나은 프레젠테이션을 만들 수 있습니다.
+
+### <a name="teams"></a>Teams
+
+- **단순화된 새로운 알림 설정:** 이제 사용자는 향상된 기능을 통해 알림 설정을 보다 단순하게 관리할 수 있습니다.
+
+- **이제 Windows 기본 알림이 Teams에서 지원됨:** 이제 사용자는 배너에 구축된 Teams나 Windows 기본 배너를 통해 원하는 알림 전달 방법을 선택할 수 있습니다.
+
+- **채널 정보 창:** 채널 헤더의 "채널 정보" 아이콘을 선택하면 채널 설명, 최근 기여자 및 멤버 목록, 시스템 메시지의 새 홈을 포함한 채널 정보 요약을 볼 수 있는 창이 열립니다.
+
+- **채팅 알림의 미리 보기 해제:** 사용자는 대화 통지 토스트에 대한 설정을 변경하고 미리 보기를 관리할 수 있습니다.
+
+- **제안된 회신:** Teams 사용자가 대화 내용에 대해 제안된 답변을 할 수 있는 기능을 추가했습니다. 이러한 제안사항은 사용 가능한 경우 대화 메시지의 맨 아래에 나타납니다. 쉽고 빠르게 메시지에 회신할 수 있습니다.
+
+### <a name="word"></a>Word
+
+- **민감도 레이블 자동 적용 또는 권장:** Office는 감지되는 중요한 콘텐츠에 기반하여 민감도 레이블을 권장하거나 자동으로 적용할 수 있습니다.
+
+- **벡터의 텍스트 보존:** 이제 Excel, Word 및 PowerPoint에서 이러한 개체를 변환할 때 맵, 차트 및 기타 SVG 벡터의 텍스트를 유지할 수 있습니다.
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="access"></a>Access
+
+- 이 수정은 특정 쿼리를 실행하려고 하면 이전에 '쿼리가 너무 복잡합니다'라는 오류 메시지가 발생한 문제를 해결합니다.
+
+### <a name="excel"></a>Excel
+
+- 페이지 나누기 미리 보기에서 여러 시트가 포함 된 통합 문서를 로드할 때 오류 또는 중단이 발생할 수 있는 문제를 해결 했습니다.
+
+
+### <a name="outlook"></a>Outlook
+
+- 보호되는 컨텍스트에서 보호되지 않은 컨텍스트로 회신 보낸 사람 주소를 전환할 때 CLP 사용자에게 충돌이 발생하는 문제를 해결했습니다.
+
+
+- 공유 폴더 다운로드를 선택하지 않은 경우에 “전달 허용” 옵션이 공유 일정 모임 "응답 옵션"에서 누락되는 문제가 해결되었습니다.
+
+
+- 관리자의 일정에서 기존 일정 약속을 편집할 때 대리인에게 오류가 발생하는 문제가 해결되었습니다.
+
+
+- 보안 대화 상자에서 "저장" 옵션을 선택할 때 사용자가 테넌트 외부에서 로컬 컴퓨터에 OneDrive 첨부 파일을 저장할 수 없는 문제가 해결되었습니다.
+
+- 일정 정리 페이지가 표시되지 않는 문제를 해결했습니다.
+
+- 인시던트 알림 경고에서 서식 문제가 발생하는 문제를 해결했습니다.
+
+### <a name="project"></a>Project
+
+- 자원 배정 대화 상자에서 선택한 작업이 작업 게시판 보기에서 선택 된 작업과 같지 않은 문제를 해결 했습니다.
+
+- 여러 종속성이 있는 작업을 붙여 넣는 경우 일부 종속성이 제대로 복사 되지 않는 문제가 해결되었습니다.
+
+- Project에서 SharePoint 문서 라이브러리에 PDF/XPS를 저장 할 수 없는 문제가 수정되었습니다.
+
+
+### <a name="office-suite"></a>Office 제품군
+
+- 전체 제품으로 전환이 완료되었음에도 런타임 메시지가 표시되는 문제를 해결했습니다. 서비스가 올바르게 계산 된 제품이 추가 되었는지 확인하여 수정 할 수 있습니다. 새로 추가한 제품(새 구성에도 존재 하는지 확인)을 필터링하고 기존 제품 출시 ID 끝에 추가 했습니다.
 
 
 
@@ -892,6 +991,7 @@ ms.locfileid: "46506615"
 > Office를 사용하는 데 발생한 문제에 대해 도움이 필요하면 [Microsoft의 Answers 포럼](https://answers.microsoft.com/) 또는 [기술 커뮤니티](https://techcommunity.microsoft.com/)에 질문을 게시하거나 [지원 서비스](https://support.microsoft.com/contactus)에 문의할 수 있습니다.
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|CC|Production| |16.0.13029.20308|version-2007-july-30|)
 [//]: # (|Win32|CC|Production| |16.0.13001.20498|version-2006-july-28|)
 [//]: # (|Win32|CC|Production| |16.0.13001.20384|version-2006-july-14|)
 [//]: # (|Win32|CC|Production| |16.0.13001.20266|version-2006-june-30|)
