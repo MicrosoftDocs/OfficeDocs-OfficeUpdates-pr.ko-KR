@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Office 2016, Office 2013 및 Office 2010 영구 버전의 최신 비보안 업데이트 정보에 대한 링크를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: f1924b4ad7dac69ad94228998da3042e156e12c6
-ms.sourcegitcommit: 6e27566f8c2e6718da5c5597a62f91a882c8b20f
+ms.openlocfilehash: 24c7c09611d2af4c88edf989ba7fae08e61675ac
+ms.sourcegitcommit: 1a9ceb0e62ff42213babaf1dbb854b4d911f0e7a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/07/2020
-ms.locfileid: "45052621"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "46560103"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Windows Installer(MSI)를 사용하는 Office 버전에 대한 최신 비보안 업데이트
 
@@ -25,6 +25,14 @@ ms.locfileid: "45052621"
 > - 이 문서의 정보는 Microsoft 365 앱에 적용되지 않습니다.
 > - Office 업데이트 설치에 대한 자세한 내용은 [Office 업데이트 설치](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)를 참조하세요.
 <br/><br/>
+## <a name="august-4-2020"></a>2020년 8월 4일
+
+**Office 2016**<br/>
+Microsoft Office 2016 업데이트([KB4484418](https://support.microsoft.com/help/4484418))<br/> Microsoft Project 2016 업데이트([KB4484477](https://support.microsoft.com/help/4484477))<br/>
+비즈니스용 Skype 2016 업데이트([KB4484464](https://support.microsoft.com/help/4484464))<br/> 
+
+**Office 2010**<br/>
+Microsoft Office 2010 업데이트([KB4484454](https://support.microsoft.com/help/4484454))<br/> Microsoft PowerPoint 2010 업데이트([KB4092435](https://support.microsoft.com/help/4092435))<br/> 
 
 ## <a name="july-7-2020"></a>2020년 7월 7일
 
@@ -76,13 +84,4 @@ Microsoft Office 2016에 대한 업데이트([KB4484247](https://support.microso
 
 **Office 2013**<br/>
 비즈니스용 Skype 2015에 대한 업데이트([KB4484097](https://support.microsoft.com/help/4484097))<br/>
-
-
-## <a name="february-4-2020"></a>2020년 2월 4일
-
-**Office 2016**<br/>
-Microsoft Project 2016에 대한 업데이트 ([KB4484253](https://support.microsoft.com/help/4484253)) <br/>
-Microsoft Word 2016에 대한 업데이트([KB4484249](https://support.microsoft.com/help/4484249)) <br/>
-
-
 
