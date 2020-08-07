@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 이후 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: a8bf6662fb1c0fcd652f32068f3cf42e87fdae56
-ms.sourcegitcommit: 8e0c8f95645d60a8651f7a2085a79c6e0bc02bdd
+ms.openlocfilehash: 236270115273755c69cbd334e7341ccec839e353
+ms.sourcegitcommit: 9033eb8901f337897a27b10b9fdb3cbd4acf4c38
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "46525059"
+ms.lasthandoff: 08/06/2020
+ms.locfileid: "46576800"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 현재 채널(미리 보기)에 대한 릴리스 정보
 
@@ -27,6 +27,36 @@ ms.locfileid: "46525059"
 > - 릴리스 정보 게시 날짜는 실제 빌드 릴리스 날짜와 일치하지 않을 수 있습니다.
 
 [//]: # (제거하지 마세요)
+
+## <a name="version-2007-august-05"></a>버전 2007: 8월 5일
+*버전 2007(빌드 13029.20344)*
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="outlook"></a>Outlook
+
+- Outlook에서 검색 제안을 검색하지 못한 문제를 해결했습니다.
+
+
+- 개인 정보 검색 시 사용자가 때때로 충돌하는 문제를 해결했습니다.
+
+
+### <a name="project"></a>프로젝트
+
+- 상태가 좋지 않은 프로젝트를 열 수 없는 문제를 해결했습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2007-july-29"></a>버전 2007: 7월 29일
 *버전 2007(빌드 13029.20308)*
