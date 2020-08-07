@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 앱에 대한 월 단위 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: f45483874015c51255690647cc36952b6f4e257b
-ms.sourcegitcommit: 3e6b6412adb50393fb5cabcb52671bbb00d9e697
+ms.openlocfilehash: ce80a830a0c18416cadc9c49c46ae12eea07998b
+ms.sourcegitcommit: 0c33b30b826a4bded208c4d4523d89b63d1c5c67
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "46532593"
+ms.lasthandoff: 08/06/2020
+ms.locfileid: "46580851"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>2020년 현재 채널 릴리스에 대한 릴리스 정보
 
@@ -686,6 +686,10 @@ ms.locfileid: "46532593"
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
 ### <a name="feature-updates"></a>기능 업데이트
+### <a name="excel"></a>Excel
+
+- **자주 사용하는 Excel 함수가 더욱 빨라졌습니다.** SUMIFS, AVERAGEIFS, COUNTIFS, MAXIFS 및 MINIFS 함수가 그 어느 때보다 훨씬 빨라졌습니다. 더 빠르게 결과 값을 얻을 수 있습니다. 지금 바로 시도해 보세요.
+
 ### <a name="outlook"></a>Outlook
 
 - **사용자가 소유한 그룹으로 전자 메일 끌기:** 메시지와 대화를 받은 편지함에서 끌어서 이동하고 복사합니다. 끌어 놓은 메시지는 모든 그룹 구성원과 공유됩니다.
