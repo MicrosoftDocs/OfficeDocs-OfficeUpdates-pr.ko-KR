@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: C2R(간편 실행)을 사용하는 Office 2016 및 2019 영구 버전에 대한 업데이트 기록을 IT 전문가에게 제공합니다.
-ms.openlocfilehash: f51a17e603f506a099b750b1b673fc13a5452e4b
-ms.sourcegitcommit: 094f41a7cd3ac7044923aab24da75e9236772836
+ms.openlocfilehash: 01d2cc4d699e233e7bb60946b7400f25cc2c2e3f
+ms.sourcegitcommit: 20be7ca53ff4bb9bb64d9c347420af575497ea9b
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "46530347"
+ms.lasthandoff: 08/10/2020
+ms.locfileid: "46612340"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Office 2016 C2R 및 Office 2019의 업데이트 기록
 
@@ -36,6 +36,9 @@ Microsoft는 Office 2016 C2R(간편 실행) 버전과 Office 2019의 보안 및 
 ## <a name="volume-licensed-versions-of-office-2019"></a>볼륨 라이선스 버전의 Office 2019
 다음 정보는 볼륨 라이선싱 계약을 통해 구입한 Office Professional Plus 2019와 같은 볼륨 라이선스 버전의 Office 2019에 적용됩니다.
 
+[//]: # (VL 테이블 시작 제거 안 함)
+
+
 |**릴리스 날짜**|**버전 번호**|**추가 정보**|
 |:-----|:-----|:-----|
 |2020년 7월 14일   |버전 1808(빌드 10363.20015)  |[CVE-2020-1342](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1342) <br/>[CVE-2020-1349](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1349) <br/>[CVE-2020-1445](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1445) <br/>[CVE-2020-1446](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1446) <br/>[CVE-2020-1447](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1447) <br/>[CVE-2020-1448](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1448) <br/>[CVE-2020-1449](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1449) <br/>|
@@ -46,15 +49,30 @@ Microsoft는 Office 2016 C2R(간편 실행) 버전과 Office 2019의 보안 및 
 |2020년 2월 11일   |버전 1808 (빌드 10356.20006)  |[CVE-2020-0696](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0696) <br/> [CVE-2020-0759](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0759) <br/>  |
 
 
+[//]: # (VL TABLE END를 제거하지 마십시오.)
+
+<details>
+<summary>이전 버전</summary>
+ 
+[//]: # (VL 오래된 테이블 시작)을(를) 제거하지 마십시오.
 
 
+|**릴리스 날짜**|**버전 번호**|**추가 정보**|
+|:-----|:-----|:-----|
 
+
+[//]: # (VL 오래된 테이블 종료)를 제거하지 마십시오.
+
+</details>
 
 
 <br/>
 
 ## <a name="retail-versions-of-office-2016-c2r-and-office-2019"></a>Office 2016 C2R 및 Office 2019 일반 정품 버전
 다음 정보는 Office 2016 C2R 및 Office 2019 일반 정품 버전에 적용되며 이 두 가지 버전의 릴리스 날짜와 버전 번호는 같습니다.
+
+[//]: # (VL 테이블 시작 제거 안 함)
+
 
 |**릴리스 날짜**|**버전 번호**|**추가 정보**|
 |:-----|:-----|:-----|
@@ -64,6 +82,18 @@ Microsoft는 Office 2016 C2R(간편 실행) 버전과 Office 2019의 보안 및 
 |2020년 6월 30일|버전 2006(빌드 13001.20266)  |다양한 버그 및 성능 수정 사항.  <br/>  |
 |2020년 6월 24일|버전 2005(빌드 12827.20470)  |다양한 버그 및 성능 수정 사항.  <br/>  |
 |2020년 6월 9일|버전 2005(빌드 12827.20336)  |[CVE-2020-1225](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1225)  <br/> [CVE-2020-1226](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1226)  <br/> [CVE-2020-1229](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1229)  <br/> [CVE-2020-1321](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1321)  <br/> [CVE-2020-1322](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1322)  <br/>|
+
+
+[//]: # (VL 테이블 시작 제거 안 함)
+
+<details>
+<summary>이전 버전</summary>
+ 
+[//]: # (VL 테이블 시작 제거 안 함)
+
+
+|**릴리스 날짜**|**버전 번호**|**추가 정보**|
+|:-----|:-----|:-----|
 |2020년 6월 2일|버전 2005(빌드 12827.20268)  |다양한 버그 및 성능 수정 사항.  <br/>  |
 |2020년 5월 21일|버전 2004(빌드 12730.20352)  |다양한 버그 및 성능 수정 사항.  <br/>  |
 |2020년 5월 12일|버전 2004(버전 12730.20270)  |[CVE-2020-0901](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0901)  <br/>  |
@@ -79,7 +109,9 @@ Microsoft는 Office 2016 C2R(간편 실행) 버전과 Office 2019의 보안 및 
 |2020년 2월 11일   |버전 2001 (빌드 12430.20264)  |[CVE-2020-0696](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0696) <br/> [CVE-2020-0697](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0697) <br/> [CVE-2020-0759](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0759) <br/>  |
 
 
+[//]: # (VL 테이블 종료제거 안 함)
 
+</details>
 
 
 
