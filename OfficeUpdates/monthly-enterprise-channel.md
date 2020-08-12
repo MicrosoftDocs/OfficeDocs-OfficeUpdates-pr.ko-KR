@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 Apps에 대한 Monthly Enterprise Channel 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: f76ceaf76f505d9a4301f2bba66c9efcb6278ca4
-ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
+ms.openlocfilehash: 9e734fb545548386b10a62366c1b2fa93dc134f0
+ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45138684"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634804"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>2020년 Monthly Enterprise Channel 릴리스에 대한 릴리스 정보
 
@@ -26,6 +26,112 @@ ms.locfileid: "45138684"
 [//]: # (제거하지 마세요)
 
 
+
+## <a name="version-2006-august-11"></a>버전 2006: 8월 11일
+*버전 2006(빌드 13001.20520)*
+
+[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="excel"></a>Excel
+
+- **대화에서 애니메이션 GIF 사용:** 애니메이션 GIF가 이제 Office 편집기에서 지원됩니다. 이제 문서가 더욱 돋보입니다.
+
+- **다른 사용자를 방해하지 않고 필터링 및 정렬:** 이제 시트 뷰로 다른 사용자와 공동 작업하면서 Excel 파일을 정렬하고 필터링할 수 있습니다. 이 새 기능을 사용하면 문서를 공동 작성하는 동안 다른 사용자의 정렬 및 필터에 영향을 받지 않습니다. [자세한 정보](https://support.office.com/article/0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6)
+
+### <a name="outlook"></a>Outlook
+
+- **그룹의 데이터 보호 지원:** 그룹을 만들 때 선택한 민감도 레이블이 그룹 전자 메일, 문서, 팀 사이트에 적용됩니다.
+
+- **애니메이션 GIF로 이야기하기: **애니메이션 GIF가 오피스 편집기에서 지원되므로 문서가 더 복잡해집니다.
+
+- **Outlook에서 메일 작성 시 @멘션 제안을 사용하지 않는 새 옵션:** @멘션 선택기가 유용하기보다는 불편하게 느껴지나요? 원하는 경우 바로 지금 비활성화할 수 있습니다.<br />[블로그 게시물](https://blog-insider.office.com/2020/03/26/feedback-in-action-disable-mentions/)에서 세부 정보 보기
+
+- **사진을 전자 메일의 일부로 보낼 때 사진을 높은 정확도로 보관합니다.** 새 Outlook 설정을 사용하여 전자 메일 내용의 일부로 사진을 보낼 때 사진 압축을 제한할 수 있습니다.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **대화에서 애니메이션 GIF 사용:** 애니메이션 GIF가 이제 Office 편집기에서 지원됩니다. 이제 문서가 더욱 돋보입니다.
+
+- **PowerPoint의 스트림 비디오 성능 향상:** Microsoft Stream 비디오의 재생 성능을 개선하여 비디오 로드 시간을 최소화하고 원활한 보기 환경을 조성했습니다. Microsoft Stream의 회사 비디오를 사용하여 더 나은 프레젠테이션을 만들 수 있습니다.
+
+### <a name="word"></a>Word
+
+- **대화에서 애니메이션 GIF 사용:** 애니메이션 GIF가 이제 Office 편집기에서 지원됩니다. 이제 문서가 더욱 돋보입니다.
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="access"></a>Access
+
+- 쿼리 실행이 예상했던 시간보다 거의 두 배 이상 걸리는 문제를 해결했습니다.
+
+- ID(예: 일련 번호) 필드를 포함하는 연결된 SQL 테이블을 삽입할 때 발생하는 문제를 해결했습니다.
+
+
+### <a name="excel"></a>Excel
+
+- SharePoint/OneDrive에 저장하는 경우 사용자 지정 리본 탭이 CustomUI XML을 제거하는 문제가 해결되었습니다.
+
+- 페이지 구분 미리보기의 여러 시트로 워크북을 로드할 때 오류 또는 중단이 발생할 수 있는 문제를 해결했습니다.
+
+- 계정에서 로그아웃한 경우 데이터 연결을 만들 때 발생할 수 있는 충돌을 수정했습니다.
+
+- 읽기 전용 모드에 있는 문제집에 대해 자동 문서 분류가 수행되었을 수 있습니다.
+
+### <a name="onenote"></a>OneNote
+
+- 리소스 사용률을 줄이기 위해 공동 작성 상태의 검색 기능을 개선했습니다.
+
+### <a name="outlook"></a>Outlook
+
+- SVG 이미지 복사하여 붙여넣기 문제를 해결 했습니다.
+
+- 기능 제안에서 기능을 검색하여 결과를 반환하지 않고 사용자에게 새 기능 아이디어를 제출할 수 있는 옵션이 없는 문제를 해결합니다.
+
+- 클라우드 설정을 사용하도록 설정한 경우 Ctrl+클릭이 작동을 중지하도록 만든 문제를 해결합니다.
+
+- 보안 대화 상자에서 "저장" 옵션을 선택할 때 사용자가 테넌트 외부에서 로컬 컴퓨터에 OneDrive 첨부 파일을 저장할 수 없는 문제를 해결합니다.
+
+- 사용자에게 Outlook에서 받은 편지함 복구 도구를 실행하라는 메시지가 지속적으로 나타나는 문제가 해결됩니다.
+
+- 공유 일정 향상 사용자에게 일정 오류가 표시되는 문제를 해결합니다.
+
+- 4501년 1월 1일로 설정된 드래그 앤 드롭을 통해 파일 시스템에 복사한 첨부 파일의 작성 날짜를 볼 수 있는 문제를 해결합니다.
+
+### <a name="project"></a>프로젝트
+
+- 프로젝트 요약 작업(프로젝트 시작/작업 필드)이 변경될 때 ProjectBeforeTaskChange 이벤트가 발생하지 않는 문제를 해결했습니다.
+
+- 100% 완료로 표시된 작업이 100% 미만으로 잘못 변경되는 문제를 해결했습니다.
+
+- URL이 .com으로 끝나는 경우 Project Web App에서 Project Desktop Client에서 프로젝트를 열 수 없는 문제를 해결했습니다.
+
+### <a name="word"></a>Word
+
+- SVG 이미지 복사하여 붙여넣기 문제를 해결 했습니다.
+
+### <a name="office-suite"></a>Office 제품군
+
+- 이전 AppV51의 회귀 분석을 수정하기 위해 새로운 AppV51 드롭을 다시 보고했습니다.
+
+- 시간 문제 때문에 Office 파일을 닫을 때 충돌이 발생할 수 있습니다.
+
+- 레지스트리 TabProcGrowth 값이 REG_SZ 유형이면 추가 기능이 활성화될 때 Office 호스트가 Windows에서 충돌하는 문제를 해결했습니다.
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2005-august-11"></a>버전 2005: 8월 11일
+*버전 2005(빌드 12827.20656)*
+
+나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ## <a name="version-2005-july-14"></a>버전 2005: 7월 14일
 *버전 2005(빌드 12827.20538)*
@@ -82,9 +188,9 @@ ms.locfileid: "45138684"
 
 - 공유 일정 향상 사용자에게 일정 오류가 표시되는 문제를 해결합니다.
 
-- Outlook에서 규칙을 업데이트할 때 &quot;이 컴퓨터의 규칙이 Microsoft Exchange의 규칙과 일치하지 않습니다&quot;라는 메시지가 표시되는 문제를 해결합니다.
+- Outlook에서 규칙을 업데이트할 때 “이 컴퓨터의 규칙이 Microsoft Exchange의 규칙과 일치하지 않습니다.” 메시지가 표시되는 문제를 해결합니다.
 
-- 날짜를 4501년 1월 1일로 설정하여 끌어서 놓기를 통해 파일 시스템에 복사한 &nbsp; 첨부 파일의 생성 날짜가 사용자에게 표시되는 문제를 해결합니다.
+- 4501년 1월 1일로 설정된 드래그 앤 드롭을 통해 파일 시스템에 복사한 첨부 파일의 작성 날짜를 볼 수 있는 문제를 해결합니다.
 
 - Outlook에서 M365 Business Plus 계획에 있는 서비스 비용을 지불한 사용자에게 데이터 손실 보호 정책 팁을 활성화하지 못하는 문제가 해결됩니다.
 
@@ -416,5 +522,6 @@ ms.locfileid: "45138684"
 
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|MEC|Production|Feature|16.0.13001.20520|version-2006-august-11|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.12827.20538|버전 2005년 7월 14일|)
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 끝)

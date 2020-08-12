@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT 전문가에게 MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록을 제공합니다.
-ms.openlocfilehash: ad34c6a3f64da52611f8bb5b3502f448d823c096
-ms.sourcegitcommit: 460a51d38fc5364ad8fbf7b32a46786ee8b62dea
+ms.openlocfilehash: aa066d6d5cc89060d3c56be2106559e47e93e9b9
+ms.sourcegitcommit: 79f26d59de01abb85869e9d91f3af30129709f62
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45145115"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46637646"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록
  
@@ -29,6 +29,30 @@ ms.locfileid: "45145115"
 > - Microsoft 자동 업데이트는 Microsoft의 다양한 Mac 제품에 대한 업데이트를 제공합니다. 따라서 Mac용 Office를 실행하고 있지 않더라도 Microsoft 자동 업데이트를 업데이트하라는 알림을 받을 수 있습니다.
 
 릴리스 정보를 확인하려면 [릴리스 정보](release-notes-office-for-mac.md)를 참고하세요.<br/><br/>
+
+## <a name="august-2020-release"></a>2020년 8월 릴리스
+
+**릴리스 날짜:** 2020년 8월 11일
+
+*Microsoft 자동 업데이트 4.26*
+
+**버그 수정 및 개선 사항:**
+-   이제 도크에서 MAU 아이콘에 사용 가능한 업데이트 수가 표시됩니다. 
+-   이제 업데이트가 탐지되면 최소화된 상태에서 MAU가 시작됩니다.
+-   새 "무시"를 추가했습니다.UIOpenAfterInstall" 기본 설정은 설치 후 MAU UI가 시작되지 않도록 하는 데 사용할 수 있습니다.
+-   잘못된 설치 메시지를 표시하는 사용 권한 문제를 해결했습니다. 
+-   MAU "업데이트 마감" 통지 메시지의 지속 시간을 60초에서 1시간으로 연장했습니다.
+
+
+**MAU 업데이트 링크:**
+
+[Microsoft 자동 업데이트 4.26 패키지 다운로드](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 해시:**
+
+E81CEADF900A0C7E7D593720D08146DBC1C55868D5B21C7E7A175AA36DFE0178
+
+<br/><br/>
 
 ## <a name="july-2020-release"></a>2020년 7월 릴리스
 
