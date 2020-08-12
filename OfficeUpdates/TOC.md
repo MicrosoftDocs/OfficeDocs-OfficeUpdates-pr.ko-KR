@@ -1,6 +1,6 @@
 # [릴리스 정보](release-notes-microsoft365-apps.md)
+# [보안 업데이트](microsoft365-apps-security-updates.md)
 # Microsoft 365 앱
-## [보안 업데이트](microsoft365-apps-security-updates.md)
 ## [업데이트 기록(날짜별)](update-history-microsoft365-apps-by-date.md)
 ## [업데이트 크기](download-sizes-microsoft365-apps-updates.md)
 
