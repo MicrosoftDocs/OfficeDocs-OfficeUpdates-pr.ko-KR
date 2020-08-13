@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 앱에 대한 반기 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 72b515d37a8529b17afec4e868df0b2171f83b09
-ms.sourcegitcommit: 6f79e3c3948db4d7ae1c6dfc855970551d3b1678
+ms.openlocfilehash: fca07168058b5b96ece88ec163ce4775cd5413a2
+ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/20/2020
-ms.locfileid: "45187608"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634604"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-releases-in-2020"></a>2020의 반기 엔터프라이즈 채널 릴리스에 대한 릴리스 정보
 
@@ -26,6 +26,57 @@ ms.locfileid: "45187608"
 > [!NOTE]
 >
 >- 반기 기업 채널의 사용자가 Office Portal에서 Microsoft 365 앱을 다운로드하여 Windows 10에 설치하는 경우 이제 OneNote 2016이 기본적으로 포함됩니다.
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2002-august-11"></a>버전 2002: 8월 11일
+*버전 2002(빌드 12527.20988)*
+
+[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- "읽기 전용 권장 사항"으로 열린 파일에 대해 편집으로 전환할 수 없는 문제 해결
+
+### <a name="onenote"></a>원노트
+
+- 중복 ID 호출을 제거하여 리소스 활용률 감소
+
+- 공동 Authoring 상태 탐지 개선으로 리소스 활용률 감소
+
+- 오류 감지 기능 및 동기화 경험 품질 향상
+
+### <a name="outlook"></a>전망
+
+- 일부 테넌트에 대해 Outlook을 시작할 때 중요한 성능 문제를 일으킨 문제 해결
+
+### <a name="skype"></a>스카이프
+
+- 32비트 Skype for Business 클라이언트에서 며칠 동안 실행된 후 화면 공유 시작에 실패할 수 있는 문제 해결
+
+### <a name="office-suite"></a>Office 제품군
+
+- 그룹 정책을 통해 AutoSave가 해제된 경우 사용자가 '사용 가능한 업데이트'를 클릭할 때까지 일부 문서가 열려 있는 최신 서버 내용을 표시하지 않는 문제 해결
+
+[//]: # (BUGDETILES 컨텐츠 끝)을(를) 제거하지 마십시오.
+
+## <a name="version-1908-august-11"></a>버전 1908: 8월 11일
+*버전 1908(빌드 11929.20934)*
+
+보안 업데이트가 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열됨
+
+## <a name="version-1902-august-11"></a>버전 1902: 8월 11일
+*버전 1902(빌드 11328.20644)*
+
+[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -1611,5 +1662,6 @@ ms.locfileid: "45187608"
 
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|DC|Production| |16.0.12527.20988|version-2002-august-11|)
 [//]: # (|Win32|DC|Production| |16.0.12527.20880|version-2002-july-14|)
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 끝)

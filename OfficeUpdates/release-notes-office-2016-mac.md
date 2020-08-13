@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 2018년 9월 이후부터 Mac용 Office 2016 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 0eeccbe96348faedd12a803bc0f11d5a4008cac8
-ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
+ms.openlocfilehash: 45f15d5c09322ebfda14e8103f1f23010af35528
+ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45138554"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634594"
 ---
 # <a name="update-history-for-office-2016-for-mac"></a>Mac용 Office 2016 업데이트 기록
 
@@ -36,6 +36,36 @@ Mac용 Office 2016 업데이트는 MAU(Microsoft 자동 업데이트)에서 사�
 
 다음 표에는 Mac용 Office 2016 및 개별 응용 프로그램(예: Word 및 Excel)에 대한 최신 패키지가 나와 있습니다. 모든 패키지는 64비트 전용입니다. 빌드 날짜는 버전 번호 다음에 괄호로 묶여 YYMMDD 형식으로 표시됩니다. 응용 프로그램이 아직 설치되지 않은 경우 이 설치 패키지가 사용되지만 기존 설치를 업데이트하는 데는 업데이트 패키지가 사용됩니다.
 
+## <a name="august-2020-release"></a>2020년 8월 릴리스
+
+ **릴리스 날짜:** 2020년 8월 11일
+  
+ *버전 16.16.25 (20081000)* 
+  
+이 릴리스는 다음과 같은 업데이트를 제공합니다.
+  
+|**응용 프로그램**|**보안 업데이트**|**업데이트 패키지용 다운로드 링크**|
+|:-----|:-----|:-----|
+|Word  <br/> |[CVE-2020-1503](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1503)<br/>[CVE-2020-1583](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1583) <br/>  |[Word 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.16.20081000_Updater.pkg) <br/>|
+|Excel  <br/> |[CVE-2020-1495](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1495)<br/>[CVE-2020-1498](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1498)<br/>|[Excel 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.16.20081000_Updater.pkg) <br/>|
+|PowerPoint  <br/> ||[PowerPoint 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.16.20081000_Updater.pkg) <br/>|
+|Outlook  <br/> | |[Outlook 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.16.20081000_Updater.pkg) <br/>|
+|OneNote <br/> ||[OneNote 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.16.20081000_Updater.pkg)|
+|Office 제품군  <br/> || <br/>||
+
+
+### <a name="august-11-2020"></a>2020년 8월 11일
+버전 16.16.25 (20081000)
+
+|**응용 프로그램**|**다운로드 링크**|**설치 패키지용 SHA256 해시**|
+|:-----|:-----|:-----|:-----|
+|Office 제품군(모든 응용 프로그램)<br/>|[설치 패키지](https://go.microsoft.com/fwlink/p/?linkid=871743)<br/>|DAF0986F48C53336882E2634724DD8DC357FAF19058F2403DD90892270589432 <br/>|
+|Word<br/>|[설치 패키지](https://go.microsoft.com/fwlink/p/?linkid=871748)<br/><br/>[업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.16.20081000_Updater.pkg) <br/> |D1EF8F3AC95124240F4D97DC5FCDA038EA9244A9FBBEBF392EE833870AC80A27<br/>|
+|Excel<br/>|[설치 패키지](https://go.microsoft.com/fwlink/p/?linkid=871750)<br/><br/>[업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.16.20081000_Updater.pkg)<br/>|7911CAF983D3AD8CFC016384AA19D9D26EBE06884169C290876552E176628A3F<br/> |
+|PowerPoint<br/>|[설치 패키지](https://go.microsoft.com/fwlink/p/?linkid=871751)<br/><br/> [업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.16.20081000_Updater.pkg) <br/>| 57D415731C89EB87BA34E2CEDE8728AD263430AD19DEDBC2CC18EED4688BBCE5<br/>|
+|Outlook<br/>|[설치 패키지](https://go.microsoft.com/fwlink/p/?linkid=871753)<br/><br/>[업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.16.20081000_Updater.pkg)<br/> | 5643F17374F273E82B9BBD281F2F6EC3106B0132A6A62F8C81D58658D44365CF
+|OneNote<br/>|[업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.16.20081000_Updater.pkg) <br/> | 해당 사항 없음<br/>|
+
 ## <a name="july-2020-release"></a>2020년 7월 릴리스
 
  **릴리스 날짜:** 2020년 7월 14일
@@ -46,26 +76,12 @@ Mac용 Office 2016 업데이트는 MAU(Microsoft 자동 업데이트)에서 사�
   
 |**응용 프로그램**|**보안 업데이트**|**업데이트 패키지용 다운로드 링크**|
 |:-----|:-----|:-----|
-|Word  <br/> |[CVE-2020-1342](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1342)<br/>[CVE-2020-1445](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1445) <br/> [CVE-2020-1446](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1446)<br/>[CVE-2020-1447](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1447)<br/>|[Word 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.16.20071300_Updater.pkg) <br/>|
-|Excel  <br/> ||[Excel 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.16.20071300_Updater.pkg) <br/>|
+|Word  <br/> |[CVE-2020-1342](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1342) <br/>[CVE-2020-1445](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1445) <br/>[CVE-2020-1446](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1446) <br/>[CVE-2020-1447](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1447) <br/>|[Word 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.16.20071300_Updater.pkg) <br/>|
+|Excel  <br/> |  |[Excel 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.16.20071300_Updater.pkg) <br/>|
 |PowerPoint  <br/> ||[PowerPoint 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.16.20071300_Updater.pkg) <br/>|
 |Outlook  <br/> | |[Outlook 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.16.20071300_Updater.pkg) <br/>|
 |OneNote <br/> ||[OneNote 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.16.20071300_Updater.pkg)|
 |Office 제품군  <br/> |[CVE-2020-1409](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1409)<br/>| <br/>||
-
-
-### <a name="july-14-2020"></a>2020년 7월 14일
-버전 16.16.24 (20071300)
-
-|**응용 프로그램**|**다운로드 링크**|**설치 패키지용 SHA256 해시**|
-|:-----|:-----|:-----|:-----|
-|Office 제품군(모든 응용 프로그램)<br/>|[설치 패키지](https://go.microsoft.com/fwlink/p/?linkid=871743)<br/>|76DB656A1CF3194936070CEA0F89FC5C0ECD59A50D93A6A5FABB773CD8126387 <br/>|
-|Word<br/>|[설치 패키지](https://go.microsoft.com/fwlink/p/?linkid=871748)<br/><br/>[업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.16.20071300_Updater.pkg) <br/> |3EEC2D769C9EB601934EB6A6D30B7379DE23C5231BD8E85DEBE13587CDADFDBC<br/>|
-|Excel<br/>|[설치 패키지](https://go.microsoft.com/fwlink/p/?linkid=871750)<br/><br/>[업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.16.20071300_Updater.pkg)<br/>|B920125BD38A113ECC8F3ADA3DCE47E16639A075A39EEEE7B10E6EABFC095740<br/> |
-|PowerPoint<br/>|[설치 패키지](https://go.microsoft.com/fwlink/p/?linkid=871751)<br/><br/> [업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.16.20071300_Updater.pkg) <br/>| 399ABFDCCB7479CA106D817F6945786B6AA3F9E4ADBC84600695846E51531FF0<br/>|
-|Outlook<br/>|[설치 패키지](https://go.microsoft.com/fwlink/p/?linkid=871753)<br/><br/>[업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.16.20071300_Updater.pkg)<br/> | 98703C805EF4259B907F3D2CA77198DC80A756181F17F59D7C2F8DC89F0F0827
-|OneNote<br/>|[업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.16.20071300_Updater.pkg) <br/> | 해당 사항 없음<br/>|
-
 
 ## <a name="june-2020-release"></a>2020년 6월 릴리스
 

@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 앱 보안 업데이트에 대한 릴리스 정보
+title: Microsoft Office 보안 업데이트 릴리스 정보
 ms.author: andrewmo
 author: TimDavenport
 manager: andrewmo
@@ -8,19 +8,19 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: IT 전문가에게 Microsoft 365 앱 보안 업데이트에 대한 릴리스 정보를 제공합니다.
-ms.openlocfilehash: 58228af0a7958547331b95c28c6497b5bfa3f460
-ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
+description: IT 전문가에게 Microsoft Office 보안 업데이트에 대한 릴리스 정보를 제공합니다.
+ms.openlocfilehash: d9485549b015ae78f3bfe524f8fbcda55bf3c522
+ms.sourcegitcommit: c018dbeeecba6e838bd5fc6178ba1cc78680415f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45138524"
+ms.lasthandoff: 08/12/2020
+ms.locfileid: "46641804"
 ---
-# <a name="release-notes-for-microsoft-365-apps-security-updates"></a>Microsoft 365 앱 보안 업데이트에 대한 릴리스 정보
+# <a name="release-notes-for-microsoft-office-security-updates"></a>Microsoft Office 보안 업데이트 릴리스 정보
 
-이러한 릴리스 정보는 Microsoft 365 앱의 업데이트에 포함된 보안 픽스에 대한 정보를 제공합니다.
+이 릴리스 정보에서는 Microsoft Office 업데이트에 포함된 보안 수정에 대한 정보를 제공합니다.
 
-이 정보는 엔터프라이즈용 Microsoft 365 앱, 비즈니스용 Microsoft 365 앱 그리고 Project 및 Visio용 데스크톱 앱의 구독 버전에 적용됩니다.
+이 정보는 기업용 Microsoft 365 Apps, Microsoft 365 Apps for Business, Office 2016 Retail(C2R) 및 Office 2019에 적용됩니다.
 
 
 > [!IMPORTANT]
@@ -31,6 +31,54 @@ ms.locfileid: "45138524"
  
 
 [//]: # (공백으로 사용하므로, 위의 선을 삭제하지 마세요.)  
+
+## <a name="august-11-2020"></a>2020년 8월 11일
+현재 채널: 버전 2007(빌드 13029.20344)  
+월별 엔터프라이즈 채널: 버전 2006(빌드 13001.20520)  
+월별 엔터프라이즈 채널: 버전 2005(빌드 12827.20656)  
+반기별 엔터프라이즈 채널(Preview): 버전 2002(빌드 12527.20988)  
+반기별 엔터프라이즈 채널: 버전 2002(빌드 12527.20988)  
+반기별 엔터프라이즈 채널: 버전 1908(빌드 11929.20934)  
+반기별 엔터프라이즈 채널: 버전 1902(빌드 11328.20644)  
+Windows 7의 Microsoft 365 애플리케이션: 버전 2002(빌드 12527.20988)  
+Office 2019 소매: 버전 2007(빌드 13029.20344)  
+Office 2016 소매: 버전 2007(빌드 13029.20344)  
+Office 2019 볼륨 라이선스: 버전 1808(빌드 10364.20059)  
+
+[//]: # (보안 세부 정보 컨텐츠 제거 안 함)
+
+
+### <a name="access"></a>접근
+
+-   [CVE-2020-1582](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1582)
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-1495](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1495)
+-   [CVE-2020-1498](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1498)
+-   [CVE-2020-1496](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1496)
+-   [CVE-2020-1497](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1497)
+-   [CVE-2020-1494](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1494)
+
+### <a name="outlook"></a>Outlook
+
+-   [CVE-2020-1493](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1493)
+-   [CVE-2020-1483](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1483)
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-1583](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1583)
+-   [CVE-2020-1502](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1502)
+-   [CVE-2020-1503](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1503)
+
+### <a name="office-suite"></a>Office 제품군
+
+-   [CVE-2020-1581](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1581)
+-   [CVE-2020-1563](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1563)
+
+[//]: # (보안 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+
 
 ## <a name="july-14-2020"></a>2020년 7월 14일
 현재 채널: 버전 2006(빌드 13001.20384)  
