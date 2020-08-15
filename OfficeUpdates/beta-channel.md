@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: e6eed857b8283a1fc54df709d9c467e86ef27abc
-ms.sourcegitcommit: a08ea72a9245e2d6136f3d9430a784777f2ff1e4
+ms.openlocfilehash: 5dd3ce25eb04453e84bfd6aa69bf54d50be666e3
+ms.sourcegitcommit: b710cf05db7ca14c8ee959b8cbe284e794d7c980
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/07/2020
-ms.locfileid: "46590305"
+ms.lasthandoff: 08/14/2020
+ms.locfileid: "46695302"
 ---
 # <a name="release-notes-for-beta-channel"></a>베타 채널용 릴리스 정보
 
@@ -30,6 +30,27 @@ ms.locfileid: "46590305"
 [//]: # (제거하지 마세요)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+## <a name="version-2009-august-14"></a>버전 2009: 8월 14일
+*버전 2009(빌드 13205.20000)*
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- 사용자가 F1을 통해 괄호 및 호출된 도움말을 포함한 수식 이름을 입력하면 해당 수식에 대한 도움말 항목이 표시되지 않는 문제를 해결했습니다.
+- 이전 버전의 파일을 복원한 후 단추에 할당된 매크로가 손상된 문제를 해결했습니다.
+
+### <a name="outlook"></a>Outlook
+
+- 이렇게 변경하면 사용자가 모임 페이지에서 스케줄링 길잡이 페이지로 탭을 전환한 후에도 미팅 페이지가 계속 표시되는 문제가 해결됩니다.
+
+### <a name="word"></a>Word
+
+- 글머리 기호 아이콘이 제대로 표시되지 않는 문제를 수정했습니다.
+
+[//]: # (BUGDETILES 컨텐츠 끝)을(를) 제거하지 마십시오.
 
 ## <a name="version-2009-august-07"></a>버전 2009: 8월 7일
 *버전 2009(빌드 13130.20000)*
@@ -749,7 +770,7 @@ ms.locfileid: "46590305"
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
 ### <a name="resolved-issues"></a>해결된 문제
-### <a name="access"></a>Access
+### <a name="access"></a>접근
 
 - 작업창에서 표 크기 조정 및 새로 고침과 관련된 문제가 해결되었습니다.
 
@@ -1169,6 +1190,7 @@ ms.locfileid: "46590305"
 
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13205.20000|version-2009-august-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13130.20000|version-2009-august-07|)
 [//]: # (|Win32|DevMain|참가자| |16.0.13127.20002|버전-2008-july-31|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13117.20000|version-2008-july-24|)
