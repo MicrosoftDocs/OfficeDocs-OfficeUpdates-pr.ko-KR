@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 Apps에 대한 Monthly Enterprise Channel 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 9e734fb545548386b10a62366c1b2fa93dc134f0
-ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
+ms.openlocfilehash: 64e8dff5a369300676ae6342ab76e4d8c6d2fae3
+ms.sourcegitcommit: 0f37f62725ac99324a39cffeca7f4ce750d98e28
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46634804"
+ms.lasthandoff: 08/18/2020
+ms.locfileid: "46798374"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>2020년 Monthly Enterprise Channel 릴리스에 대한 릴리스 정보
 
@@ -60,6 +60,8 @@ ms.locfileid: "46634804"
 ### <a name="word"></a>Word
 
 - **대화에서 애니메이션 GIF 사용:** 애니메이션 GIF가 이제 Office 편집기에서 지원됩니다. 이제 문서가 더욱 돋보입니다.
+
+- **다른 방식으로 말하기:** 다르게 표현하는 경우 재작성은 도움을 줍니다. 재작성은 표현을 기교있게 만들어주는 대안을 제공합니다.<br />[블로그 게시물](https://blog-insider.office.com/2019/08/12/rewrite-in-word-say-it-another-way/)에서 세부 정보를 참조하세요.
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
@@ -146,9 +148,7 @@ ms.locfileid: "46634804"
 
 - **즉시 더 나은 결과 얻기:** 이전보다 더 스마트하고, 빠르고, 안정적이 되도록 검색 환경을 업데이트했습니다. [자세한 정보](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
 
-### <a name="word"></a>Word
 
-- **다른 방식으로 말하기:** 다르게 표현하는 경우 재작성은 도움을 줍니다. 재작성은 표현을 기교있게 만들어주는 대안을 제공합니다.<br />[블로그 게시물](https://blog-insider.office.com/2019/08/12/rewrite-in-word-say-it-another-way/)에서 세부 정보를 참조하세요.
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)

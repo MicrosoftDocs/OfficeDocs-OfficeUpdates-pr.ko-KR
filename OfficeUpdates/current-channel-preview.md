@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 이후 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 1af6025eea51fcf6d231796b453eca1aac0f9cf3
-ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
+ms.openlocfilehash: 44e8d793dc8a4a7757bb83320b1ccaf47066886a
+ms.sourcegitcommit: 343e545db0b69c4ad91ce36f5977f43e1583b4b0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46634854"
+ms.lasthandoff: 08/18/2020
+ms.locfileid: "46788958"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 현재 채널(미리 보기)에 대한 릴리스 정보
 
@@ -27,6 +27,29 @@ ms.locfileid: "46634854"
 > - 릴리스 정보 게시 날짜는 실제 빌드 릴리스 날짜와 일치하지 않을 수 있습니다.
 
 [//]: # (제거하지 마세요)
+
+## <a name="version-2008-august-17"></a>버전 2008: 8월 17일
+*버전 2008(빌드 13127.20208)*
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="outlook"></a>Outlook
+
+- 일부 상황에서 대리인이 거절했을 때 관리자의 일정에서 모임이 제거되지 않는 문제를 해결했습니다.
+
+
+- SharePoint 파일에 스마트 링크를 추가할 때 일부 문자 집합 사용자에게 파일 이름을 잘못 표시되는 문제를 해결했습니다.
+
+
+- "머리글만 다운로드" 옵션을 선택한 상태에서 POP 계정에서 네 개 이상의 전자 메일을 삭제하면 충돌이 발생하는 문제를 해결했습니다.
+
+
+- 오른쪽 클릭 상황에 맞는 메뉴가 검색 컨트롤에 표시되지 않는 문제를 해결했습니다.
+
+
+
+[//]: # (버그 세부 정보를 제거하지 마세요. 끝)
 
 ## <a name="version-2008-august-11"></a>버전 2008: 8월 11일
 *버전 2008 (빌드13127.20164)*
@@ -1124,7 +1147,7 @@ ms.locfileid: "46634854"
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
 ### <a name="resolved-issues"></a>해결된 문제
-### <a name="access"></a>Access
+### <a name="access"></a>접근
 
 - 작업창에서 표 크기 조정 및 새로 고침과 관련된 문제가 해결되었습니다.
 
