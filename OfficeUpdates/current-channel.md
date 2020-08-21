@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 앱에 대한 월 단위 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: a33941600839c16e69449e27a240a52711cee246
-ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
+ms.openlocfilehash: 7dc470707e716895df22427c56f9a4006a07c810
+ms.sourcegitcommit: e2d9d976f1463ab1c704e73318a9b07d460d74c0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46634834"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46818357"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>2020년 현재 채널 릴리스에 대한 릴리스 정보
 
@@ -253,6 +253,10 @@ ms.locfileid: "46634834"
 - **채널 알림 설정을 관리하는 간단한 방법:** 사용자는 팀 및 채널 목록을 통하거나 채널 머리글에서 한 번 클릭으로 모든 활동을 켜고 끄거나 사용자 설정에서 선호하는 순열을 자세히 설정하여 알림 설정을 빠르게 관리할 수 있습니다.
 
 - **Walkie Talkie**: 누르면 통화가 가능한 푸시투토크(push-to-talk) 기능을 사용하면 즉각적인 음성 통신이 가능합니다.
+
+### <a name="word"></a>Word
+
+- **화면 판독기에서 작업 확인:** 작업 확인은 중요한 접근성 요구 사항입니다. Windows의 새로운 알림 API가 도입됨에 따라 이제 화면 판독기 사용자에게 작업의 성공에 대해 경고 할 수 있습니다. 이제 잘라내기, 복사, 붙여넣기, 굵게, 기울임꼴, 밑줄, 실행 취소, 다시 실행, 자동 수정 및 자동 자본화가 모두 내레이터 사용자에게 Win32 Word로 공지됩니다. 이 기능을 사용하려면 창 + Ctrl + Enter 키를 눌러 내레이터를 켭니다.
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
