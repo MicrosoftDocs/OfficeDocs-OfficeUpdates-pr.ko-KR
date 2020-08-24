@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 5dd3ce25eb04453e84bfd6aa69bf54d50be666e3
-ms.sourcegitcommit: b710cf05db7ca14c8ee959b8cbe284e794d7c980
+ms.openlocfilehash: 578be61a5df623c1d7e3d4584abd30df21933785
+ms.sourcegitcommit: a5f124e1687f2ac4b7c96c11da9d1317503558ad
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/14/2020
-ms.locfileid: "46695302"
+ms.lasthandoff: 08/21/2020
+ms.locfileid: "46852524"
 ---
 # <a name="release-notes-for-beta-channel"></a>베타 채널용 릴리스 정보
 
@@ -30,6 +30,47 @@ ms.locfileid: "46695302"
 [//]: # (제거하지 마세요)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+## <a name="version-2009-august-21"></a>버전 2009 8월 21일
+*버전 2009(빌드 13212.20000)*
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="excel"></a>Excel
+
+- **Excel의 액션 펜:** 펜 도구를 사용하여 데이터를 필기하고 빠르게 편집 할 수 있습니다.
+
+### <a name="outlook"></a>Outlook
+
+- **메시지 소유자별 대화 삭제:** 소유자별로 메시지를 삭제 할 수 있도록 하는 기능입니다.
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="access"></a>Access
+
+- ODBC 데이터베이스 연결이 타사 응용 프로그램과 작동하지 않는 문제가 해결 되었습니다.
+
+### <a name="excel"></a>Excel
+
+- 차크 데이터 시트가 활성 시트면 범위에 FormulaR1C1 속성 설정에 매크로를 사용할 때 셀 참조가 부정확한 문제가 해결 되었습니다.
+- 잉크 입력으로 인해 Excel이 응답 하지 않을 수 있는 문제가 해결 되었습니다.
+
+### <a name="outlook"></a>Outlook
+
+- 이제 다른 Office 응용 프로그램을 사용 설정 하지 않고도 Outlook용 IRM(정보 권한 관리)을 사용 설정 하지 않을 수 있도록 하는 문제가 해결 되었습니다.
+
+### <a name="word"></a>Word
+
+- 메모가 삭제 된 후 Word에서 충돌이 발생 하는 문제를 해결 했습니다.
+- 경우에 따라 전자 메일에서 글머리 기호가 제대로 표시 되지 않는 문제가 해결 되었습니다.
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2009-august-14"></a>버전 2009: 8월 14일
 *버전 2009(빌드 13205.20000)*
@@ -1190,6 +1231,7 @@ ms.locfileid: "46695302"
 
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13212.20000|version-2009-august-21|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13205.20000|version-2009-august-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13130.20000|version-2009-august-07|)
 [//]: # (|Win32|DevMain|참가자| |16.0.13127.20002|버전-2008-july-31|)
