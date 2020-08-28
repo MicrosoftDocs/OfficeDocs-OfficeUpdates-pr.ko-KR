@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 앱에 대한 월 단위 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 7dc470707e716895df22427c56f9a4006a07c810
-ms.sourcegitcommit: e2d9d976f1463ab1c704e73318a9b07d460d74c0
+ms.openlocfilehash: 8e6bae8a355d7d42e43c90db51355c42d9226198
+ms.sourcegitcommit: 52894617de8b2f9e74dd58163bee481377cbce45
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46818357"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "46895692"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>2020년 현재 채널 릴리스에 대한 릴리스 정보
 
@@ -31,6 +31,46 @@ ms.locfileid: "46818357"
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2007-august-25"></a>버전 2007: 8월 25일
+*버전 2007(빌드 13029.20460)*
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- LET() 함수를 사용하여 수식이 들어 있는 파일을 저장할 때 오류가 발생할 수 있습니다.
+
+
+### <a name="outlook"></a>Outlook
+
+- SharePoint 파일에 스마트 링크를 추가할 때 일부 문자 집합 사용자에게 파일 이름을 잘못 표시되는 문제를 해결했습니다.
+
+
+- 아웃룩 사용자가 컴팩트 뷰에서 탐색 관련 문제를 볼 수 있는 문제를 해결했습니다.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- PowerPoint 앱에서 충돌 문제를 해결했습니다.
+
+
+### <a name="word"></a>Word
+
+- 사용자가 새 메일에 회신하거나 작성할 때 충돌이 발생한 문제를 해결합니다.
+
+
+### <a name="office-suite"></a>Office 제품군
+
+- 이전 웹 서비스 기반 공유 창의 경우 공유 창이 열려 있는 동안 문서를 닫으면 충돌이 발생할 수 있습니다. 이제 이 문제는 해결되었습니다.
+
+
+- 사용자가 특정 조건에서 UI 요소 또는 콘텐츠가 표시되지 않는 문제를 해결했습니다. 특히 프리젠터 뷰를 드나드는 경우 또는 여러 모니터를 사용하는 경우 문제가 해결되었습니다.
 
 
 
@@ -1022,6 +1062,7 @@ ms.locfileid: "46818357"
 > Office를 사용하는 데 발생한 문제에 대해 도움이 필요하면 [Microsoft의 Answers 포럼](https://answers.microsoft.com/) 또는 [기술 커뮤니티](https://techcommunity.microsoft.com/)에 질문을 게시하거나 [지원 서비스](https://support.microsoft.com/contactus)에 문의할 수 있습니다.
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|CC|Production| |16.0.13029.20460|version-2007-august-25|)
 [//]: # (|Win32|CC|Production| |16.0.13029.20344|version-2007-august-11|)
 [//]: # (|Win32|CC|Production| |16.0.13029.20308|version-2007-july-30|)
 [//]: # (|Win32|CC|Production| |16.0.13001.20498|version-2006-july-28|)
