@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 앱에 대한 월 단위 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 8e6bae8a355d7d42e43c90db51355c42d9226198
-ms.sourcegitcommit: 52894617de8b2f9e74dd58163bee481377cbce45
+ms.openlocfilehash: 753f95cd70404c2fb027d500409d83919be495f4
+ms.sourcegitcommit: 7334591a0116e3ec442be378a72bec42826cc506
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "46895692"
+ms.lasthandoff: 08/27/2020
+ms.locfileid: "47291076"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>2020년 현재 채널 릴리스에 대한 릴리스 정보
 
@@ -26,6 +26,7 @@ ms.locfileid: "46895692"
  > [!NOTE]
 >
 >- Microsoft는 일정 기간 동안 현재 기능(및 경우에 따라 수정 사항)을 배포합니다.  아래에서 설명했던 내용이 바로 보이지 않으면 곧 예측할 수 있습니다. [자세한 정보](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
+>- Microsoft Teams 기능은 출시 흐름이 보다 빈번하기 때문에 최근 출시된 최신 채널과 다를 수 있습니다.
 
 
 
