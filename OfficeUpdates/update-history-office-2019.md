@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: C2R(간편 실행)을 사용하는 Office 2016 및 2019 영구 버전에 대한 업데이트 기록을 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 128359540241fd27fa2b6947421cd7c9aa0f5c58
-ms.sourcegitcommit: 52894617de8b2f9e74dd58163bee481377cbce45
+ms.openlocfilehash: 52d3ee327fe67488f87677ae7445beed16ebdf7f
+ms.sourcegitcommit: 28b617b37fdd0d1ac629b12b20970d8f300d5122
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "46895732"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "47319014"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Office 2016 C2R 및 Office 2019의 업데이트 기록
 
@@ -81,12 +81,12 @@ Microsoft는 Office 2016 C2R(간편 실행) 버전과 Office 2019의 보안 및 
 
 |**릴리스 날짜**|**버전 번호**|**추가 정보**|
 |:-----|:-----|:-----|
+|2020년 8월 31일|버전 2008(빌드 13127.20296)| |
 |2020년 8월 25일|버전 2007(빌드 13029.20460)| |
 |2020년 8월 11일|버전 2007(빌드 13029.20344)|[보안 업데이트 페이지](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 참조 |
 |2020년 7월 30일|버전 2007(빌드 13029.20308)  |다양한 버그 및 성능 수정 사항.  <br/>  |
 |2020년 7월 28일|버전 2006(빌드 13001.20498)  |다양한 버그 및 성능 수정 사항.  <br/>  |
 |2020년 7월 14일|버전 2006(빌드 13001.20384)  |[CVE-2020-1342](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1342) <br/>[CVE-2020-1349](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1349) <br/>[CVE-2020-1445](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1445) <br/>[CVE-2020-1446](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1446) <br/>[CVE-2020-1447](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1447) <br/>[CVE-2020-1449](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1449) <br/>[CVE-2020-1458](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1458) <br/>|
-|2020년 6월 30일|버전 2006(빌드 13001.20266)  |다양한 버그 및 성능 수정 사항.  <br/>  |
 
 
 [//]: # (VL 테이블 시작 제거 안 함)
@@ -100,6 +100,7 @@ Microsoft는 Office 2016 C2R(간편 실행) 버전과 Office 2019의 보안 및 
 
 |**릴리스 날짜**|**버전 번호**|**추가 정보**|
 |:-----|:-----|:-----|
+|2020년 6월 30일|버전 2006(빌드 13001.20266)  |다양한 버그 및 성능 수정 사항.  <br/>  |
 |2020년 6월 24일|버전 2005(빌드 12827.20470)  |다양한 버그 및 성능 수정 사항.  <br/>  |
 |2020년 6월 9일|버전 2005(빌드 12827.20336)  |[CVE-2020-1225](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1225)  <br/> [CVE-2020-1226](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1226)  <br/> [CVE-2020-1229](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1229)  <br/> [CVE-2020-1321](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1321)  <br/> [CVE-2020-1322](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1322)  <br/>|
 |2020년 6월 2일|버전 2005(빌드 12827.20268)  |다양한 버그 및 성능 수정 사항.  <br/>  |
