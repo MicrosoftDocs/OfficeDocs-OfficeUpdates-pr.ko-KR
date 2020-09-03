@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 578be61a5df623c1d7e3d4584abd30df21933785
-ms.sourcegitcommit: a5f124e1687f2ac4b7c96c11da9d1317503558ad
+ms.openlocfilehash: ac7805c2d64654f7c2bb2589f0df964f696fd65e
+ms.sourcegitcommit: 01644a92de14661e9f84a777deb504226b9a2bcc
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/21/2020
-ms.locfileid: "46852524"
+ms.lasthandoff: 08/28/2020
+ms.locfileid: "47300312"
 ---
 # <a name="release-notes-for-beta-channel"></a>베타 채널용 릴리스 정보
 
@@ -30,6 +30,33 @@ ms.locfileid: "46852524"
 [//]: # (제거하지 마세요)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+## <a name="version-2009-august-28"></a>버전 2009: 8월 28일
+*버전 2009(빌드 13219.20004)*
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="outlook"></a>Outlook
+
+- 사용자가 둘 이상의 메시지를 선택할 때 OneNote에 "전달 금지"정책이 적용된 전자 메일 콘텐츠를 보낼 수 있게 되는 문제를 해결합니다.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 비디오 삽입 기능이 사용하지 않도록 설정되는 문제를 해결했습니다.
+
+### <a name="word"></a>Word
+
+- 사용자가 메모를 선택할 때 머리글/바닥글을 종료할 수 없는 문제를 해결했습니다.
+- 사이드트랙 스크롤이 작동하지 않아 사용자에게 사이드트랙 경계를 초과하는 댓글 스레드가 표시되지 않는 문제를 해결했습니다.
+- 현재 위치 추적창에서 해결된 메모를 검색하는 것이 작동하지 않는 문제를 해결했습니다.
+
+### <a name="office-suite"></a>Office 제품군
+
+- Office 2007 "Microsoft 응용 프로그램 오류 보고"제품과 함께 RemoveMSI 기능을 사용할 때 구성이 실패하는 Office 배포 도구 관련 문제를 해결했습니다.
+- 일부 사용자가 선택한 DPI 설정이 보존되지 않는 그림 압축 대화 상자와 관련된 문제를 해결했습니다.
+
+[//]: # (버그 세부 정보 콘텐츠 끝을 제거하지 마세요.)
 
 ## <a name="version-2009-august-21"></a>버전 2009 8월 21일
 *버전 2009(빌드 13212.20000)*
@@ -91,7 +118,7 @@ ms.locfileid: "46852524"
 
 - 글머리 기호 아이콘이 제대로 표시되지 않는 문제를 수정했습니다.
 
-[//]: # (BUGDETILES 컨텐츠 끝)을(를) 제거하지 마십시오.
+[//]: # (BUGDETILES 컨텐츠 끝)을(를) 제거하지 마세요.
 
 ## <a name="version-2009-august-07"></a>버전 2009: 8월 7일
 *버전 2009(빌드 13130.20000)*
@@ -272,7 +299,7 @@ ms.locfileid: "46852524"
 
 - **간단한 설문 조사로 Outlook에 설문 조사 만들기**: 설문 조사를 쉽게 작성하고 투표를 수집하며 전자 메일에서 결과를 볼 수 있습니다 [자세한 내용 보기](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
 
-- **새 회의실 찾기:** 다양한 기능으로 회의실을 검색합니다.
+- **새 모임이실 찾기:** 다양한 기능으로 모임실을 검색합니다.
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
@@ -1137,7 +1164,7 @@ ms.locfileid: "46852524"
 
 ### <a name="word"></a>Word
 
-- **그리기 도구 상자에서 잉크 편집기 찾기: ** 그리기를 선택한 다음 잉크 편집기 펜을 선택하여 손가락이나 디지털 펜으로 문서를 편집하십시오. [자세한 정보](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
+- **그리기 도구 상자에서 잉크 편집기 찾기: ** 그리기를 선택한 다음 잉크 편집기 펜을 선택하여 손가락이나 디지털 펜으로 문서를 편집하세요. [자세한 정보](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
 
 ### <a name="office-suite"></a>Office 제품군
 
@@ -1231,6 +1258,7 @@ ms.locfileid: "46852524"
 
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13219.20004|version-2009-august-28|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13212.20000|version-2009-august-21|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13205.20000|version-2009-august-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13130.20000|version-2009-august-07|)
