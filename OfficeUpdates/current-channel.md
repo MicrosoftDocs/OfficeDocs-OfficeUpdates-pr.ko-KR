@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 앱에 대한 월 단위 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: a0ddedfa36170790d7d21ba7ac27fdd677fab501
-ms.sourcegitcommit: 28b617b37fdd0d1ac629b12b20970d8f300d5122
+ms.openlocfilehash: d63e475069ceab71e83b9b3b063a32c92d124771
+ms.sourcegitcommit: 606fd85803eea49b4d3895a7f204f66b4f4aa118
 ms.translationtype: HT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 09/01/2020
-ms.locfileid: "47319008"
+ms.locfileid: "47320786"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>2020년 현재 채널 릴리스에 대한 릴리스 정보
 
@@ -51,7 +51,7 @@ ms.locfileid: "47319008"
 
 - **전자 메일의 개선된 링크:** 파일에 대한 링크를 포함할 때 파일 이름이 URL로 바뀝니다. 모든 받는 사람이 액세스 권한을 갖도록 권한을 변경할 수 있습니다. [자세한 정보](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/20/automatically-shorten-links-onedrive-sharepoint/)에서 세부 정보 보기
 
-- **검색에서 자연어 지원:** 검색에서 자연어 지원을 구현하면 사용자가 특정 검색 구문을 기억하지 않고도 검색 결과를 쉽게 필터링할 수 있습니다.
+
 
 ### <a name="powerpoint"></a>PowerPoint
 
