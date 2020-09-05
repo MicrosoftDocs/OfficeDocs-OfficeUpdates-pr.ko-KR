@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Office 2016, Office 2013 및 Office 2010 영구 버전의 최신 비보안 업데이트 정보에 대한 링크를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 24c7c09611d2af4c88edf989ba7fae08e61675ac
-ms.sourcegitcommit: 1a9ceb0e62ff42213babaf1dbb854b4d911f0e7a
+ms.openlocfilehash: 23d6532d7d2f6abe0a866b14f9affba16e7dd497
+ms.sourcegitcommit: 337679abc3e6d820d9f8e4bdae892c57b517914c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "46560103"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "47322072"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Windows Installer(MSI)를 사용하는 Office 버전에 대한 최신 비보안 업데이트
 
@@ -25,6 +25,17 @@ ms.locfileid: "46560103"
 > - 이 문서의 정보는 Microsoft 365 앱에 적용되지 않습니다.
 > - Office 업데이트 설치에 대한 자세한 내용은 [Office 업데이트 설치](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)를 참조하세요.
 <br/><br/>
+
+## <a name="september-1-2020"></a>2020년 9월 1일
+**Office 2016**<br/>
+Microsoft Office 2016에 대한 업데이트([KB4484251](https://support.microsoft.com/help/4484251))<br/>
+Microsoft Office 2016에 대한 업데이트([KB4484395](https://support.microsoft.com/help/4484395))<br/> Microsoft Office 2016 업데이트([KB4484500](https://support.microsoft.com/help/4484500)) <br/>
+Microsoft Outlook 2016 업데이트([KB4484511](https://support.microsoft.com/help/4484511)) <br/>
+비즈니스용 Skype 2016 업데이트([KB4484501](https://support.microsoft.com/help/4484501)) <br/>
+
+**Office 2013**<br/>
+Microsoft Visio 2013에 대한 업데이트([KB4484355](https://support.microsoft.com/help/4484355))<br/>
+
 ## <a name="august-4-2020"></a>2020년 8월 4일
 
 **Office 2016**<br/>
@@ -75,13 +86,6 @@ Microsoft Office 2016에 대한 업데이트([KB4484248](https://support.microso
 Microsoft Office 2016에 대한 업데이트([KB4475586](https://support.microsoft.com/help/4475586))<br/>
 Microsoft Office 2016에 대한 업데이트([KB4484286](https://support.microsoft.com/help/4484286)) <br/>
 
+<br/>
 
-## <a name="march-3-2020"></a>2020년 3월 3일
-
-**Office 2016**<br/>
-Microsoft Office 2016에 대한 업데이트([KB4484247](https://support.microsoft.com/help/4484247))<br/> Microsoft Office 2016 언어 인터페이스 팩에 대한 업데이트([KB4484136](https://support.microsoft.com/help/4484136))<br/>
-비즈니스용 Skype 2016에 대한 업데이트([KB4484245](https://support.microsoft.com/help/4484245)) <br/>
-
-**Office 2013**<br/>
-비즈니스용 Skype 2015에 대한 업데이트([KB4484097](https://support.microsoft.com/help/4484097))<br/>
-
+ 
