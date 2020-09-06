@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 각 업데이트 채널에 대한 Microsoft 365 앱 업데이트의 대략적인 다운로드 크기 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: e5fa97ddcf22460a7fe9c3005cfdf933e245bb1f
-ms.sourcegitcommit: 28b617b37fdd0d1ac629b12b20970d8f300d5122
+ms.openlocfilehash: 5f78997f33f73d23e4b8be0261b2f8a0e42618a5
+ms.sourcegitcommit: d93d7fb502ee4afac66dbccfe6a4397baa9eebc6
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "47318995"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47364169"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 앱 업데이트의 다운로드 크기
 
@@ -35,6 +35,43 @@ Microsoft의 목표는 기업 고객이 네트워크 대역폭 사용률을 계�
 > - 지난 4개월 동안의 릴리스만 표시됩니다.
 
 [//]: # (제거하지 마세요)
+
+[//]: # (예상 항목을 제거하지 마세요. 시작)
+
+## <a name="september-3-2020"></a>2020년 9월 3일
+
+
+### <a name="monthly-enterprise-channel"></a>월 단위 엔터프라이즈 채널
+
+<i>예상된 릴리스는 버전 2007(빌드 13029.20514)입니다.</i>
+
+|**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
+|:-----|:-----|:-----|
+|버전 2006(빌드 13001.20520) <br/> |2020년 8월 11일 <br/> |157<br/> |
+
+
+
+### <a name="semi-annual-enterprise-channel-preview"></a>반기 엔터프라이즈 채널(미리 보기)
+
+<i>예상된 릴리스는 버전 2008(빌드 13127.20360)입니다.</i>
+
+|**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
+|:-----|:-----|:-----|
+|버전 2002(빌드 12527.20988) <br/> |2020년 8월 11일 <br/> |375<br/> |
+|버전 2002(빌드 12527.20880) <br/> |2020년 7월 14일 <br/> |600<br/> |
+
+
+### <a name="semi-annual-enterprise-channel"></a>반기 엔터프라이즈 채널
+
+<i>예상된 릴리스는 버전 2002(빌드 12527.21074)입니다.</i>
+
+|**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
+|:-----|:-----|:-----|
+|버전 2002(빌드 12527.20988) <br/> |2020년 8월 11일 <br/> |67<br/> |
+|버전 2002(빌드 12527.20880) <br/> |2020년 7월 14일 <br/> |72<br/> |
+
+
+[//]: # (예상 항목을 제거하지 마세요. 종료)
 
 ## <a name="august-31-2020"></a>2020년 8월 31일
 
@@ -520,7 +557,7 @@ Microsoft의 목표는 기업 고객이 네트워크 대역폭 사용률을 계�
 
 ## <a name="related-topics"></a>관련 항목
 
-- [Microsoft 365 앱의 업데이트 채널 개요](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
+- [Microsoft 365 앱의 업데이트 채널의 개요](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
 
 - [Microsoft 365 앱의 업데이트 기록(날짜순)](update-history-office365-proplus-by-date.md)
 
