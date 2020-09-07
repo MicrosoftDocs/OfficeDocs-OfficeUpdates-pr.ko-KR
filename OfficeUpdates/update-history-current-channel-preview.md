@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 월간 채널 업데이트 내역 제공 Windows 데스크톱의 대상 릴리스
-ms.openlocfilehash: 09cec6b4200e2fee91963950291f427237ffb5b2
-ms.sourcegitcommit: 24a6f5290f2c3a86c9109d64ff0ed39b2de9337c
+ms.openlocfilehash: 404c8c83d189b4ff19917f896e5c29389c0b7ed6
+ms.sourcegitcommit: 770b87eb73d3fd4142157eef2bcc5bc9bc8f95a6
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/03/2020
-ms.locfileid: "47341044"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "47399675"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Windows Office 현재 채널(미리 보기)에 업데이트 기록
 
@@ -37,6 +37,9 @@ ms.locfileid: "47341044"
 
 
 [//]: # (제거하지 마세요)
+
+**2020년 9월 4일**<br/>
+버전 2008(빌드 13127.20378)<br/>
 
 **2020년 9월 2일**<br/>
 버전 2008(빌드 13127.20360)<br/>
