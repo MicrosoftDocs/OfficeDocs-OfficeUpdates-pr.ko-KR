@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 앱에 대한 월 단위 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 239ab8450f6aaf71f7dd6b4730d1832170ac9b56
-ms.sourcegitcommit: d93d7fb502ee4afac66dbccfe6a4397baa9eebc6
+ms.openlocfilehash: b3e74d8867a1970350b2aed1cbc792edb7cfb38e
+ms.sourcegitcommit: 770b87eb73d3fd4142157eef2bcc5bc9bc8f95a6
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/03/2020
-ms.locfileid: "47364179"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "47399655"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>2020년 현재 채널 릴리스에 대한 릴리스 정보
 
@@ -525,8 +525,27 @@ ms.locfileid: "47364179"
 ## <a name="version-2005-june-09"></a>버전 2005: 6월 9일
 *버전 2005(빌드 12827.20336)*
 
-[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 보안 업데이트가 나열됩니다.
+[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
 
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="excel"></a>Excel
+
+- **잉크 도구 상자의 올가미 및 지우개:** 그리기 도구를 사용할 때 잉크 도구 상자에서 올가미와 지우개를 사용할 수 있습니다.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **잉크 도구 상자의 올가미 및 지우개:** 그리기 도구를 사용할 때 잉크 도구 상자에서 올가미와 지우개를 사용할 수 있습니다.
+
+### <a name="word"></a>Word
+
+- **잉크 도구 상자의 올가미 및 지우개:** 그리기 도구를 사용할 때 잉크 도구 상자에서 올가미와 지우개를 사용할 수 있습니다.
+
+
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
