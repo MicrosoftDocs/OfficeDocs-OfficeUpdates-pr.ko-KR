@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 참가자에게 Windows Desktop용 월 단위 채널 참가자 빠른 릴리스에 대한 업데이트 내역을 제공합니다.
-ms.openlocfilehash: 8a4bcc8131ad6fdcd156e6543fb224fe1d004605
-ms.sourcegitcommit: 93d756f17ca1c036de1313223e17d3d43881450a
+ms.openlocfilehash: c5e4b6e3caa97357004b7d3ccafcbb5fd68af249
+ms.sourcegitcommit: 18b3341c6b8caebdcfa61a4d2b2a584e405178f4
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/03/2020
-ms.locfileid: "47339922"
+ms.lasthandoff: 09/07/2020
+ms.locfileid: "47402826"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Office Beta 채널에 대한 업데이트 기록
 
@@ -37,6 +37,9 @@ ms.locfileid: "47339922"
 
 
 [//]: # (제거하지 마세요)
+
+**2020년 9월 7일**<br/>
+버전 2010(빌드 13304.20000)<br/>
 
 **2020년 9월 2일**<br/>
 버전 2010(빌드 13301.20004)<br/>
