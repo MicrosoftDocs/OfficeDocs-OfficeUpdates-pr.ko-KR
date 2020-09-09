@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 앱에 대한 월 단위 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: b3e74d8867a1970350b2aed1cbc792edb7cfb38e
-ms.sourcegitcommit: 770b87eb73d3fd4142157eef2bcc5bc9bc8f95a6
+ms.openlocfilehash: 4032a576a996076dd4c352112e7be533dce4c3bc
+ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "47399655"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "47413056"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>2020년 현재 채널 릴리스에 대한 릴리스 정보
 
@@ -376,6 +376,8 @@ ms.locfileid: "47399655"
 ### <a name="excel"></a>Excel
 
 - **긴 파일 이름:** 이제 Windows 데스크톱용 Excel에서 이름과 경로가 최대 400자인 OneDrive/SharePoint 파일을 지원합니다.
+
+- **Realtimedata(RTD) 개선 사항:** Office 365 버전 2002 월 단위 채널 이상에서 Excel의 RealTimeData(RTD) 함수는 스프레드시트의 데이터를 계산하는 Excel 2010보다 훨씬 빠릅니다. 기본 메모리 및 데이터 구조의 병목 현상을 제거했으며 사용 가능한 모든 Multithreaded Recalculation(MTR) 스레드에서 계산할 수 있도록 스레드로부터 안전하게 만들었습니다.
 
 ### <a name="outlook"></a>Outlook
 
@@ -884,6 +886,10 @@ ms.locfileid: "47399655"
 - **사용자가 소유한 그룹으로 전자 메일 끌기:** 메시지와 대화를 받은 편지함에서 끌어서 이동하고 복사합니다. 끌어 놓은 메시지는 모든 그룹 구성원과 공유됩니다.
 
 - **종속적인 Wi-Fi 네트워크에 대한 새로운 경험: ** 로그인하기 위해 웹 페이지가 필요한 Wi-Fi 네트워크에 가입한 적이 있습니까? 이제 Outlook이 이를 감지하여 연결하는 데 도움을 줍니다.
+
+###<a name="powerpoint"></a>PowerPoint
+
+- **메모:** PowerPoint에서 새 메모 달기 환경을 사용하여 빠르고 쉽게 메모를 검색하고 문서에 메모를 추가할 수 있습니다.  메모 고정, 해결, 작업, 개선된 멘션 알림 등과 같은 새로운 기능으로 공동 작업 워크플로를 현대화하세요.
 
 ### <a name="word"></a>Word
 

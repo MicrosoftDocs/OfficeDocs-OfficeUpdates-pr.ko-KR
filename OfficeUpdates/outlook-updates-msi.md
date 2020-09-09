@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Outlook 2016, Outlook 2013 및 Outlook 2010 영구 버전의 최신 업데이트 정보에 대한 링크를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 7c5208b6abab7ccf29aa1d8ec4f43f254c20018c
-ms.sourcegitcommit: 79f26d59de01abb85869e9d91f3af30129709f62
+ms.openlocfilehash: fb181cde97a4929ee7883a6d0c2fdf3c96a35c3b
+ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46637626"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "47413026"
 ---
 # <a name="latest-updates-for-versions-of-outlook-that-use-windows-installer-msi"></a>Windows Installer(MSI)를 사용하는 Outlook 버전에 대한 최신 업데이트
 
@@ -43,7 +43,7 @@ Microsoft 365 및 온-프레미스 환경과의 Outlook 호환성은 배포에 �
 
 |**최신 SP(서비스 팩)**|**최소 필수 업데이트**|**최신 PU(공개 업데이트)**|
 |:-----|:-----|:-----|
-|해당 없음  <br/> |2016년 3월 PU <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |August 2020 PU <br/>[KB4484475](https://support.microsoft.com/help/4484475) 
+|해당 없음  <br/> |2016년 3월 PU <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |2020년 9월 PU <br/>[KB4484511](https://support.microsoft.com/help/4484511) 
 
 ## <a name="outlook-2013-updates"></a>Outlook 2013 업데이트
 

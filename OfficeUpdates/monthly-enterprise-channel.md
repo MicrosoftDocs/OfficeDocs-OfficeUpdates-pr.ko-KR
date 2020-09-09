@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 Apps에 대한 Monthly Enterprise Channel 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 64e8dff5a369300676ae6342ab76e4d8c6d2fae3
-ms.sourcegitcommit: 0f37f62725ac99324a39cffeca7f4ce750d98e28
+ms.openlocfilehash: 9c44e177282a394deae512e9cb57da494189a5f1
+ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46798374"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "47412996"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>2020년 Monthly Enterprise Channel 릴리스에 대한 릴리스 정보
 
@@ -26,6 +26,120 @@ ms.locfileid: "46798374"
 [//]: # (제거하지 마세요)
 
 
+
+## <a name="version-2007-september-08"></a>버전 2007: 9월 8일
+*버전 2007(빌드 13029.20534)*
+
+[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="outlook"></a>Outlook
+
+- **IT 관리자에 대한 인시던트 알림:** Microsoft 365 테넌트 전역 관리자 및 Office 앱 관리자는 Windows용 Outlook의 새로운 오른쪽 패널 알림을 통해 사용자에게 영향을 주는 Outlook 및 O365 Exchange 인시던트에 대한 알림을 받습니다. [자세한 정보](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
+
+- **이전 세션에서 항목을 빠르게 다시 열기:** 이전 Outlook 세션에서 항목을 빠르게 다시 여는 옵션을 추가했습니다. Outlook에서 충돌이 발생하든 사용자가 Outlook을 닫든 이제 앱을 다시 열 때 항목을 빠르게 다시 시작할 수 있습니다. 이 기능은 기본적으로 켜져 있습니다. 이 기능을 끄려면 옵션 > 일반 > 시작 옵션으로 이동합니다.
+
+### <a name="word"></a>Word
+
+- **벡터의 텍스트 보존:** 이제 Excel, Word 및 PowerPoint에서 이러한 개체를 변환할 때 맵, 차트 및 기타 SVG 벡터의 텍스트를 유지할 수 있습니다.
+
+### <a name="office-suite"></a>Office 제품군
+
+- **탭 창:** 이제 앱의 오른쪽에 있는 탭 UI를 사용하여 여러 창 간에 전환할 수 있습니다. UI는 2개 이상의 창이 열려있는 경우에만 표시됩니다.<br />[블로그 게시물](https://blog-insider.office.com/2020/02/20/improved-pane-management/)에서 세부 정보 보기
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="access"></a>액세스
+
+- 이 수정은 특정 쿼리를 실행하려고 하면 이전에 '쿼리가 너무 복잡합니다'라는 오류 메시지가 발생한 문제를 해결합니다.
+
+
+### <a name="excel"></a>Excel
+
+- 페이지 나누기 미리 보기에서 여러 시트가 포함 된 통합 문서를 로드할 때 오류 또는 중단이 발생할 수 있는 문제를 해결 했습니다.
+
+
+- LET() 함수를 사용하여 수식이 들어 있는 파일을 저장할 때 오류가 발생할 수 있습니다.
+
+
+### <a name="outlook"></a>Outlook
+
+- 인시던트 알림 경고에서 서식 문제가 발생하는 문제를 해결했습니다.
+
+
+- 아웃룩 사용자가 컴팩트 뷰에서 탐색 관련 문제를 볼 수 있는 문제를 해결했습니다.
+
+
+- 개인 정보 검색 시 사용자가 때때로 충돌하는 문제를 해결했습니다.
+
+
+- 일정 정리 페이지가 표시되지 않는 문제를 해결했습니다.
+
+
+- 보안 대화 상자에서 "저장" 옵션을 선택할 때 사용자가 테넌트 외부에서 로컬 컴퓨터에 OneDrive 첨부 파일을 저장할 수 없는 문제가 해결되었습니다.
+
+
+- 공유 폴더 다운로드를 선택하지 않은 경우에 “전달 허용” 옵션이 공유 일정 모임 "응답 옵션"에서 누락되는 문제가 해결되었습니다.
+
+
+- Outlook에서 검색 제안을 검색하지 못한 문제를 해결했습니다.
+
+
+- SharePoint 파일에 스마트 링크를 추가할 때 일부 문자 집합 사용자에게 파일 이름을 잘못 표시되는 문제를 해결했습니다.
+
+
+- 보호되는 컨텍스트에서 보호되지 않은 컨텍스트로 회신 보낸 사람 주소를 전환할 때 CLP 사용자에게 충돌이 발생하는 문제를 해결했습니다.
+
+- 사용자가 새 메일에 회신하거나 작성할 때 충돌이 발생한 문제를 해결합니다.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- PowerPoint 앱에서 충돌 문제를 해결했습니다.
+
+
+### <a name="project"></a>Project
+
+- Project에서 SharePoint 문서 라이브러리에 PDF/XPS를 저장 할 수 없는 문제가 수정되었습니다.
+
+
+- 여러 종속성이 있는 작업을 붙여 넣는 경우 일부 종속성이 제대로 복사 되지 않는 문제가 해결되었습니다.
+
+
+- 자원 배정 대화 상자에서 선택한 작업이 작업 게시판 보기에서 선택 된 작업과 같지 않은 문제를 해결 했습니다.
+
+
+- 상태가 좋지 않은 프로젝트를 열 수 없는 문제를 해결했습니다.
+
+
+
+### <a name="office-suite"></a>Office 제품군
+
+- 사용자가 특정 조건에서 UI 요소 또는 콘텐츠가 표시되지 않는 문제를 해결했습니다. 특히 프리젠터 뷰를 드나드는 경우 또는 여러 모니터를 사용하는 경우 문제가 해결되었습니다.
+
+
+- 전체 제품으로 전환이 완료되었음에도 런타임 메시지가 표시되는 문제를 해결했습니다. 서비스가 올바르게 계산 된 제품이 추가 되었는지 확인하여 수정 할 수 있습니다. 새로 추가한 제품(새 구성에도 존재 하는지 확인)을 필터링하고 기존 제품 출시 ID 끝에 추가 했습니다.
+
+
+- 이전 웹 서비스 기반 공유 창의 경우 공유 창이 열려 있는 동안 문서를 닫으면 충돌이 발생할 수 있습니다. 이제 이 문제는 해결되었습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2006-september-08"></a>버전 2006: 9월 8일
+*버전 2006(빌드 13001.20648)*
+
+[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
 
 ## <a name="version-2006-august-11"></a>버전 2006: 8월 11일
 *버전 2006(빌드 13001.20520)*
@@ -522,6 +636,7 @@ ms.locfileid: "46798374"
 
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|MEC|Production|Feature|16.0.13029.20534|version-2007-september-08|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13001.20520|version-2006-august-11|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.12827.20538|버전 2005년 7월 14일|)
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 끝)

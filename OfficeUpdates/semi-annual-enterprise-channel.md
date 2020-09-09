@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 앱에 대한 반기 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: fca07168058b5b96ece88ec163ce4775cd5413a2
-ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
+ms.openlocfilehash: 469b87ca79a0f4f091e69cf1239715cee7b9dace
+ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46634604"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "47413076"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-releases-in-2020"></a>2020의 반기 엔터프라이즈 채널 릴리스에 대한 릴리스 정보
 
@@ -29,6 +29,41 @@ ms.locfileid: "46634604"
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2002-september-08"></a>버전 2002: 9월 8일
+*버전 2002(빌드 12527.21104)*
+
+[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- 이는 이전 버전의 Office에서 SQL 데이터 공급자가 만든 연결이 Office 365와 다르게 내부 테이블 속성을 설정하는 문제를 해결합니다. 이로 인해 Office 365를 사용하여 열 때 이전 버전의 Office에서 만든 연결이 있는 파일에 대해 테이블 미리보기/쿼리 편집기 드롭다운을 사용하지 않도록 설정했습니다.
+
+
+- 수동 입력으로 인해 Excel이 응답하지 않을 수 있는 문제를 해결했습니다.
+
+
+### <a name="outlook"></a>Outlook
+
+- 사용자가 공유 사서함을 추가한 후 공용 폴더에 연결할 수 없는 문제를 해결합니다.
+
+
+### <a name="office-suite"></a>Office 제품군
+
+- 이 변경 사항은 특정 사용자 설정을 유지하지 않는 그림 압축 대화 상자의 문제를 해결합니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-1908-september-08"></a>버전 1908: 9월 8일
+*버전 1908(빌드 11929.20946)*
+
+[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
 
 ## <a name="version-2002-august-11"></a>버전 2002: 8월 11일
 *버전 2002(빌드 12527.20988)*
@@ -816,7 +851,7 @@ ms.locfileid: "46634604"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- cid 링크: Outlook 메시지의 이미지는 이제 요청 시 성공적으로 나누어질 수 있습니다.
+- cid 링크: 이제 Outlook 메시지의 이미지는 요청 시 성공적으로 나누어질 수 있습니다.
 
 - 이 변경으로 인해 PowerPoint 비디오 컨트롤의 액세스 가능한 이름이 복원되었습니다.
 
@@ -1662,6 +1697,7 @@ ms.locfileid: "46634604"
 
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|DC|Production| |16.0.12527.21104|version-2002-september-08|)
 [//]: # (|Win32|DC|Production| |16.0.12527.20988|version-2002-august-11|)
 [//]: # (|Win32|DC|Production| |16.0.12527.20880|version-2002-july-14|)
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 끝)
