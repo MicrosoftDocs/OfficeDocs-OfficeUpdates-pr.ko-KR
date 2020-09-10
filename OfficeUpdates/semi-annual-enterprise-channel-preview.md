@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 앱에 대한 반기 채널(대상 지정) 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: bdfd18bc1ff883f260b12009400bf9b62993d939
-ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
+ms.openlocfilehash: cb982a4bf75776aa41aa6f815925a0a20a397b25
+ms.sourcegitcommit: 931b78282277a0d12779c6b4cae33181b4568c34
 ms.translationtype: HT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 09/09/2020
-ms.locfileid: "47413166"
+ms.locfileid: "47420742"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview-releases-in-2020"></a>2020의 반기 엔터프라이즈 채널(미리 보기) 릴리스의 릴리스 정보
 
@@ -71,7 +71,7 @@ ms.locfileid: "47413166"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **@멘션으로 주의 끌기:** 메모에 @멘션을 사용하여 입력이 필요하다는 사실을 동료들에게 알립니다. [자세한 정보](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
+- **\@멘션으로 주의 끌기:** 메모에 @멘션을 사용하여 입력이 필요하다는 사실을 동료들에게 알립니다. [자세한 정보](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 
 - **향상된 지도 차트:** 매핑된 위치에 대한 풍부한 정보를 볼 수 있는 Excel의 지리적 데이터 유형에 통합하여 지도 차트를 더 효율적으로 만들 수 있습니다. [자세한 정보](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
