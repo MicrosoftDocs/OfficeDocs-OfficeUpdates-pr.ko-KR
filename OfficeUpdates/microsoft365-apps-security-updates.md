@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT 전문가에게 Microsoft Office 보안 업데이트에 대한 릴리스 정보를 제공합니다.
-ms.openlocfilehash: ae1402e77905e221cbcd0a6736ad3fb4ba4d507b
-ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
+ms.openlocfilehash: f8fc5a41e72074071de05ced6857e2ba1f5e7e21
+ms.sourcegitcommit: 931b78282277a0d12779c6b4cae33181b4568c34
 ms.translationtype: HT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 09/09/2020
-ms.locfileid: "47413086"
+ms.locfileid: "47420697"
 ---
 # <a name="release-notes-for-microsoft-office-security-updates"></a>Microsoft Office 보안 업데이트 릴리스 정보
 
@@ -33,11 +33,15 @@ ms.locfileid: "47413086"
 [//]: # (공백으로 사용하므로, 위의 선을 삭제하지 마세요.)  
 
 ## <a name="september-08-2020"></a>2020년 9월 8일
+현재 채널: 버전 2008(빌드 13127.20408)  
 월 단위 기업 채널: 버전 2007(빌드 13029.20534)  
 월 단위 기업 채널: 버전 2006(빌드 13001.20648)  
 반기 기업 채널(프리뷰): 버전 2008(빌드 13127.20408)  
 반기 기업 채널: 버전 2002(빌드 12527.21104)  
 반기 기업 채널: 버전 1908(빌드 11929.20946)  
+Windows 7의 Microsoft 365 앱: 버전 2002(빌드 12527.21104)  
+Office 2019 소매: 버전 2008(빌드 13127.20408)  
+Office 2016 소매: 버전 2008(빌드 13127.20408)  
 Office 2019 볼륨 라이선스: 버전 1808(빌드 10366.20016)  
 
 [//]: # (보안 세부 정보 컨텐츠 제거 안 함)
@@ -54,11 +58,10 @@ Office 2019 볼륨 라이선스: 버전 1808(빌드 10366.20016)
 
 -   [CVE-2020-1338](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1338)
 -   [CVE-2020-1218](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1218)
--   [CVE-2020-1445](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1445)
+
 
 ### <a name="office-suite"></a>Office 제품군
 
--   [CVE-2020-1458](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1458)
 -   [CVE-2020-1193](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1193)
 
 [//]: # (보안 세부 정보 콘텐츠를 제거하지 마세요. 끝)
