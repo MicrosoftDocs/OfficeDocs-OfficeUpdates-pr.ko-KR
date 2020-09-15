@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: ddff6144ac2e7ae86bfbfdb40bfe2b9802bfd347
-ms.sourcegitcommit: 3832aa4f4117ee05f88018a2227b3f4a51550ea9
+ms.openlocfilehash: 4ca5dc1d6e3050de558adfad9ea3c7709ca79d46
+ms.sourcegitcommit: 67f8d4a8655b95abc51fc6a81ff7142baf2194d4
 ms.translationtype: HT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 09/11/2020
-ms.locfileid: "47431577"
+ms.locfileid: "47449561"
 ---
 # <a name="release-notes-for-beta-channel"></a>베타 채널용 릴리스 정보
 
@@ -30,6 +30,69 @@ ms.locfileid: "47431577"
 [//]: # (제거하지 마세요)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+## <a name="version-2010-september-11"></a>버전 2010: 9월 11일
+*버전 2010(빌드 13304.20000)*
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="access"></a>Access
+
+- **Office에서 Windows 10 어둠 모드 설정을 따를 수 있음:** 어둠 모드에서 Windows 10을 사용하고 있습니까? 이제 Office에서 테마를 자동으로 일치하도록 전환할 수 있습니다. "시스템 설정 사용"을 Office 테마로 선택하기만 하면 됩니다.
+
+### <a name="excel"></a>Excel
+
+- **Office에서 Windows 10 어둠 모드 설정을 따를 수 있음:** 어둠 모드에서 Windows 10을 사용하고 있습니까? 이제 Office에서 테마를 자동으로 일치하도록 전환할 수 있습니다. "시스템 설정 사용"을 Office 테마로 선택하기만 하면 됩니다.
+
+### <a name="onenote"></a>OneNote
+
+- **Office에서 Windows 10 어둠 모드 설정을 따를 수 있음:** 어둠 모드에서 Windows 10을 사용하고 있습니까? 이제 Office에서 테마를 자동으로 일치하도록 전환할 수 있습니다. "시스템 설정 사용"을 Office 테마로 선택하기만 하면 됩니다.
+
+### <a name="outlook"></a>Outlook
+
+- **Office에서 Windows 10 어둠 모드 설정을 따를 수 있음:** 어둠 모드에서 Windows 10을 사용하고 있습니까? 이제 Office에서 테마를 자동으로 일치하도록 전환할 수 있습니다. "시스템 설정 사용"을 Office 테마로 선택하기만 하면 됩니다.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Office에서 Windows 10 어둠 모드 설정을 따를 수 있음:** 어둠 모드에서 Windows 10을 사용하고 있습니까? 이제 Office에서 테마를 자동으로 일치하도록 전환할 수 있습니다. "시스템 설정 사용"을 Office 테마로 선택하기만 하면 됩니다.
+
+### <a name="project"></a>Project
+
+- **Office에서 Windows 10 어둠 모드 설정을 따를 수 있음:** 어둠 모드에서 Windows 10을 사용하고 있습니까? 이제 Office에서 테마를 자동으로 일치하도록 전환할 수 있습니다. "시스템 설정 사용"을 Office 테마로 선택하기만 하면 됩니다.
+
+### <a name="publisher"></a>Publisher
+
+- **Office에서 Windows 10 어둠 모드 설정을 따를 수 있음:** 어둠 모드에서 Windows 10을 사용하고 있습니까? 이제 Office에서 테마를 자동으로 일치하도록 전환할 수 있습니다. "시스템 설정 사용"을 Office 테마로 선택하기만 하면 됩니다.
+
+### <a name="visio"></a>Visio
+
+- **Office에서 Windows 10 어둠 모드 설정을 따를 수 있음:** 어둠 모드에서 Windows 10을 사용하고 있습니까? 이제 Office에서 테마를 자동으로 일치하도록 전환할 수 있습니다. "시스템 설정 사용"을 Office 테마로 선택하기만 하면 됩니다.
+
+### <a name="word"></a>Word
+
+- **Office에서 Windows 10 어둠 모드 설정을 따를 수 있음:** 어둠 모드에서 Windows 10을 사용하고 있습니까? 이제 Office에서 테마를 자동으로 일치하도록 전환할 수 있습니다. "시스템 설정 사용"을 Office 테마로 선택하기만 하면 됩니다.
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- '페이지 나누기 미리 보기'가 활성화되었을 때 대량의 데이터가 있는 워크시트를 전환할 때 현저한 지연이 발생할 수 있는 문제를 해결했습니다.
+
+### <a name="outlook"></a>Outlook
+
+- 중요 받은 편지함을 끄고 정렬하면 전자 메일이 숨겨지는 문제를 해결했습니다.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- GIF가 편집기 및 슬라이드 쇼에서 한 번만 활성화되는 문제를 해결했습니다.
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2010-september-04"></a>버전 2010: 9월 4일
 *버전 2010 (빌드 13301.20004)*
@@ -1329,6 +1392,7 @@ ms.locfileid: "47431577"
 
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13304.20000|version-2010-september-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13301.20004|version-2010-september-04|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13219.20004|version-2009-august-28|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13212.20000|version-2009-august-21|)
