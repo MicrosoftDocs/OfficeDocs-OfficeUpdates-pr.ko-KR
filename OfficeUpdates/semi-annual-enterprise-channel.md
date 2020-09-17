@@ -1,20 +1,20 @@
 ---
 title: 2020의 반기 엔터프라이즈 채널 릴리스에 대한 릴리스 정보
-ms.author: andrewmo
+ms.author: anankani
 author: andymosten
-manager: andrewmo
+manager: anankani
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 앱에 대한 반기 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 469b87ca79a0f4f091e69cf1239715cee7b9dace
-ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
+ms.openlocfilehash: 9e420ed8c7c6f5c329b3137f21b952f7a29af7e1
+ms.sourcegitcommit: b7cd1fc37ece6cf0399d89549f7916a4dc40d829
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "47413076"
+ms.lasthandoff: 09/16/2020
+ms.locfileid: "47942775"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-releases-in-2020"></a>2020의 반기 엔터프라이즈 채널 릴리스에 대한 릴리스 정보
 
@@ -819,7 +819,7 @@ ms.locfileid: "47413076"
 
 - 사용자가 공유 일정 폴더를 OST와 동기화하는 데 문제가있어 이러한 폴더와 상호 작용할 때 권한 오류가 발생하는 문제를 해결합니다.
 
-- Citrix 환경에서 30개 이상의 일정을 볼 때 사용자에게 충돌이 발생하는 문제를 해결합니다. 여기에는 [이전 버전에 대해 문서화된 개별 KB](https://support.microsoft.com/ko-KR/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen)가 있습니다.
+- Citrix 환경에서 30개 이상의 일정을 볼 때 사용자에게 충돌이 발생하는 문제를 해결합니다. 여기에는 [이전 버전에 대해 문서화된 개별 KB](https://support.microsoft.com/en-us/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen)가 있습니다.
 
 - SMIME 알고리즘 선택 관련 문제를 수정합니다.
 

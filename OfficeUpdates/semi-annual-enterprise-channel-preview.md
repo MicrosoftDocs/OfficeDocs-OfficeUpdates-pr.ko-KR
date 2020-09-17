@@ -1,20 +1,20 @@
 ---
 title: 2020의 반기 엔터프라이즈 채널(미리 보기) 릴리스의 릴리스 정보
-ms.author: andrewmo
+ms.author: anankani
 author: andymosten
-manager: andrewmo
+manager: anankani
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 앱에 대한 반기 채널(대상 지정) 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: cb982a4bf75776aa41aa6f815925a0a20a397b25
-ms.sourcegitcommit: 931b78282277a0d12779c6b4cae33181b4568c34
+ms.openlocfilehash: 224c64a8f12489edd5050be683e477a05369f8c9
+ms.sourcegitcommit: b7cd1fc37ece6cf0399d89549f7916a4dc40d829
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "47420742"
+ms.lasthandoff: 09/16/2020
+ms.locfileid: "47942865"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview-releases-in-2020"></a>2020의 반기 엔터프라이즈 채널(미리 보기) 릴리스의 릴리스 정보
 
@@ -65,7 +65,7 @@ ms.locfileid: "47420742"
 
 - **받은 편지함을 벗어나지 않고 모임 참가:** 온라인 모임에 참가하기 위해 일정으로 전환할 필요가 없습니다. 일정을 할 일 창에 고정하고 클릭 한 번만으로 모든 모임에 참여하세요.
 
-- **종속적인 Wi-Fi 네트워크에 대한 새로운 경험: ** 로그인하기 위해 웹 페이지가 필요한 Wi-Fi 네트워크에 가입한 적이 있습니까? 이제 Outlook이 이를 감지하여 연결하는 데 도움을 줍니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/outlook-on-public-wi-fi-networks-just-got-easier)에서 세부 정보를 참조하세요.
+- **종속적인 Wi-Fi 네트워크에 대한 새로운 경험: ** 로그인하기 위해 웹 페이지가 필요한 Wi-Fi 네트워크에 가입한 적이 있습니까? 이제 Outlook이 이를 감지하여 연결하는 데 도움을 줍니다.<br />[블로그 게시물](https://insider.office.com/en-us/blog/outlook-on-public-wi-fi-networks-just-got-easier)에서 세부 정보를 참조하세요.
 
 - **사람을 검색할 때 전자 메일 제안 받기:** 검색 상자에 사람의 이름을 입력하면 가장 관련성이 높은 전자 메일 메시지가 검색 제안에 포함됩니다. [자세한 정보](https://support.office.com/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
 
