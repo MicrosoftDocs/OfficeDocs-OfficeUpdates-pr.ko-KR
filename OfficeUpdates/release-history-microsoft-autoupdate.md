@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT 전문가에게 MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록을 제공합니다.
-ms.openlocfilehash: aa066d6d5cc89060d3c56be2106559e47e93e9b9
-ms.sourcegitcommit: 79f26d59de01abb85869e9d91f3af30129709f62
+ms.openlocfilehash: 621874246e5c7e31c4929f10540b622299a342dd
+ms.sourcegitcommit: 0b73dd4daece14e061c1d29dbb6486367c0b5621
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46637646"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "47947164"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록
  
@@ -29,6 +29,25 @@ ms.locfileid: "46637646"
 > - Microsoft 자동 업데이트는 Microsoft의 다양한 Mac 제품에 대한 업데이트를 제공합니다. 따라서 Mac용 Office를 실행하고 있지 않더라도 Microsoft 자동 업데이트를 업데이트하라는 알림을 받을 수 있습니다.
 
 릴리스 정보를 확인하려면 [릴리스 정보](release-notes-office-for-mac.md)를 참고하세요.<br/><br/>
+
+## <a name="september-2020-release"></a>2020년 9월 릴리스
+
+**릴리스 날짜:** 2020년 9월 16일
+
+*Microsoft 자동 업데이트 4.27*
+
+**버그 수정 및 개선 사항:**
+-   이제 MAU 업데이트 도우미는 정기적인 검사 주기가 없는 경우에도 잠긴 화면 뒤에서 업데이트를 합니다.
+
+**MAU 업데이트 링크:**
+
+[Microsoft 자동 업데이트 4.27 패키지 다운로드](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 해시:**
+
+7AF6ACDC5E1278CF4D227F305A127A6FE5A275094D945C1504DC108C2090F2CB
+
+<br/><br/>
 
 ## <a name="august-2020-release"></a>2020년 8월 릴리스
 

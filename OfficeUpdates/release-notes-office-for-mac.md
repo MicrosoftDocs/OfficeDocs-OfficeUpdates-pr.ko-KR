@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Microsoft 365 앱 구독자를 위한 Mac용 Office 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: d723fa5a294e8dbd3650d0ac69fa201538486089
-ms.sourcegitcommit: 79f26d59de01abb85869e9d91f3af30129709f62
+ms.openlocfilehash: 96de2ef290f1c69a7ac5cce730151276bf028b46
+ms.sourcegitcommit: ba25ac98f7eb014f8730caee66fc34699c341121
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46637696"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47816589"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac용 Office에 대한 릴리스 정보
 
@@ -41,6 +41,33 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 
 
 
+
+
+
+## <a name="september-15-2020"></a>2020년 9월 15일
+*버전 16.41(빌드 20091302)*
+
+[//]: # (보안 세부 정보 컨텐츠 제거 안 함)
+
+
+### <a name="security-updates"></a>보안 업데이트
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-1224](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1224)
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-1218](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1218)
+-   [CVE-2020-1338](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1338)
+
+### <a name="office-suite"></a>Office 제품군
+
+-   [CVE-2020-1193](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1193)
+-   [CVE-2020-16855](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-16855)
+
+[//]: # (보안 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="august-11-2020"></a>2020년 8월 11일
 *버전 16.40 (빌드 20081000)*
@@ -669,7 +696,7 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 
  이 릴리스는 다음과 같은 업데이트를 제공합니다.
 
-|**애플리케이션**|**기능 업데이트**|**보안 업데이트**|**업데이트 패키지용 다운로드 링크**|
+|**응용 프로그램**|**기능 업데이트**|**보안 업데이트**|**업데이트 패키지용 다운로드 링크**|
 |:-----|:-----|:-----|:-----|
 |Microsoft 자동 업데이트 4.8 <br/>| MacOS 10.10에 대한 MAU 옵트인 자동 업데이트 프롬프트의 문제를 해결했습니다. <br/><br/> 'MSau03'에서 'MSau04'로 MAU ApplicationID를 업데이트했습니다. <br/><br/> 다른 버전을 실행하는 동안 설치용 MAU Privileged Helper 관련 문제를 해결했습니다. <br/>|<br/> | [Microsoft 자동 업데이트의 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.8.19022003_Updater.pkg)|
 

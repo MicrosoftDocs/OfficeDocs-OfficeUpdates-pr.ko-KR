@@ -1,20 +1,20 @@
 ---
 title: 2020년 현재 채널 릴리스에 대한 릴리스 정보
-ms.author: andrewmo
+ms.author: anankani
 author: anankani
-manager: andrewmo
+manager: anankani
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 앱에 대한 월 단위 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 4032a576a996076dd4c352112e7be533dce4c3bc
-ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
+ms.openlocfilehash: b19d5a9a0dab889d2c06b894a4143f856a959176
+ms.sourcegitcommit: b7cd1fc37ece6cf0399d89549f7916a4dc40d829
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "47413056"
+ms.lasthandoff: 09/16/2020
+ms.locfileid: "47942835"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>2020년 현재 채널 릴리스에 대한 릴리스 정보
 
@@ -35,7 +35,39 @@ ms.locfileid: "47413056"
 
 
 
-[//]: # (버그 세부 정보 콘텐츠 끝을 제거하지 마세요.)
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2008-september-09"></a>버전 2008: 9월 9일
+*버전 2008(빌드 13127.20408)*
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="access"></a>Access
+
+- Access에서 이 현재 문제를 해결했지만, 이 문제가 지속되지 않도록 추가 인터페이스를 조사할 것입니다. 팀에서 향후 업데이트를 알려드리겠습니다. 양해해 주셔서 감사합니다.
+
+
+### <a name="excel"></a>Excel
+
+- 서식 복사를 사용하는 경우 특정 상황에서 Excel이 충돌하는 문제를 해결했습니다.
+
+
+### <a name="word"></a>Word
+
+- 사용자가 셰이프의 크기를 조절할 때 콘텐츠가 손실될 수 있는 문제를 해결했습니다.
+
+
+- 표준 스타일을 사용하여 기본 스타일을 업데이트할 수 없는 문제를 해결했습니다.
+
+
+### <a name="office-suite"></a>Office 제품군
+
+- 이 변경 사항은 특정 사용자 설정을 유지하지 않는 그림 압축 대화 상자의 문제를 해결합니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2008-august-31"></a>버전 2008: 8월 31일
 *버전 2008(빌드 13127.20296)*
@@ -1201,6 +1233,7 @@ ms.locfileid: "47413056"
 > Office를 사용하는 데 발생한 문제에 대해 도움이 필요하면 [Microsoft의 Answers 포럼](https://answers.microsoft.com/) 또는 [기술 커뮤니티](https://techcommunity.microsoft.com/)에 질문을 게시하거나 [지원 서비스](https://support.microsoft.com/contactus)에 문의할 수 있습니다.
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|CC|Production| |16.0.13127.20408|version-2008-september-09|)
 [//]: # (|Win32|CC|Production| |16.0.13127.20296|version-2008-august-31|)
 [//]: # (|Win32|CC|Production| |16.0.13029.20460|version-2007-august-25|)
 [//]: # (|Win32|CC|Production| |16.0.13029.20344|version-2007-august-11|)
