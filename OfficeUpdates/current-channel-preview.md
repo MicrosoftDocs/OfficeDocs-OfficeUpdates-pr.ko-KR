@@ -2,19 +2,19 @@
 title: 릴리스 정보 현재 채널(미리 보기)
 ms.author: anankani
 author: v-lislo
-manager: andrewmo
+manager: anankani
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 이후 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 064769dde88f0198237af611b788ed02317235ba
-ms.sourcegitcommit: ba25ac98f7eb014f8730caee66fc34699c341121
+ms.openlocfilehash: 67f78eb141917beb3111180fbdfe42f210c3ab4e
+ms.sourcegitcommit: b7cd1fc37ece6cf0399d89549f7916a4dc40d829
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47816559"
+ms.lasthandoff: 09/16/2020
+ms.locfileid: "47942855"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 현재 채널(미리 보기)에 대한 릴리스 정보
 
