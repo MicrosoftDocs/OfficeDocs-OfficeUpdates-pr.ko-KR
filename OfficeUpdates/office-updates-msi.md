@@ -2,19 +2,19 @@
 title: Windows Installer(MSI)를 사용하는 Office 버전에 대한 최신 업데이트
 ms.author: timda
 author: TimDavenport
-manager: andrewmo
+manager: TimDavenport
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Office 2016, Office 2013 및 Office 2010 영구 버전의 최신 업데이트 정보에 대한 링크를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: cb3f8e24ca8c83c88cfe2e72788f92b7a19793c7
-ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
+ms.openlocfilehash: 1ffd93ef1c900ae92257bc646b915f15a37c02f1
+ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "47413046"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "48174537"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Windows Installer(MSI)를 사용하는 Office 버전에 대한 최신 업데이트
 

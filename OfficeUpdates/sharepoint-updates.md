@@ -2,7 +2,7 @@
 title: SharePoint 업데이트
 ms.author: timda
 author: TimDavenport
-manager: andrewmo
+manager: TimDavenport
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: sharepoint-server-itpro
@@ -13,12 +13,12 @@ ms.collection:
 - RelNotes_Server
 ms.assetid: 4b32dfba-1af6-4077-9a92-7cec8f220f20
 description: SharePoint Server 2016, SharePoint 2013 및 SharePoint 2010에 대한 업데이트를 한 위치에서 찾고 관리합니다. 업데이트에 대한 자세한 내용을 알아본 후 업데이트를 다운로드하려면 이 페이지의 링크를 사용하세요.
-ms.openlocfilehash: 2cc87885bdec194d58724464352db9521d98f500
-ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
+ms.openlocfilehash: 3f9a24046816c4a8a4673e9a232b37f115a95a15
+ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "47413066"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "48174717"
 ---
 # <a name="sharepoint-updates"></a>SharePoint 업데이트
 

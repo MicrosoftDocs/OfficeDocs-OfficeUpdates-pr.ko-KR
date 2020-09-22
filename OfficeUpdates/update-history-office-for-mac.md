@@ -1,20 +1,20 @@
 ---
 title: Mac용 Office에 대한 업데이트 기록
-ms.author: andrewmo
-author: andymosten
-manager: andrewmo
+ms.author: timda
+author: TimDavenport
+manager: TimDavenport
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 다운로드 패키지 및 업데이트 기록에 대한 링크를 포함하여 Mac용 Office의 최신 업데이트에 대한 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: fd7eb74462d6e3e8db5817481e81ed2cfd002bd5
-ms.sourcegitcommit: ba25ac98f7eb014f8730caee66fc34699c341121
+ms.openlocfilehash: ca8df4d8287c61ecd57cef3f0af38a1dcf470e0c
+ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47816569"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "48174657"
 ---
 # <a name="update-history-for-office-for-mac"></a>Mac용 Office에 대한 업데이트 기록
   

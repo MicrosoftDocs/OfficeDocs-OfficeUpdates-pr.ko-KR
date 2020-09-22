@@ -2,19 +2,19 @@
 title: Windows Installer(MSI)를 사용하는 Office 버전에 대한 최신 비보안 업데이트
 ms.author: timda
 author: TimDavenport
-manager: andrewmo
+manager: TimDavenport
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Office 2016, Office 2013 및 Office 2010 영구 버전의 최신 비보안 업데이트 정보에 대한 링크를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 23d6532d7d2f6abe0a866b14f9affba16e7dd497
-ms.sourcegitcommit: 337679abc3e6d820d9f8e4bdae892c57b517914c
+ms.openlocfilehash: 53d2533ecb240ad91b77662f3586804cf68f6cc9
+ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "47322072"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "48174527"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Windows Installer(MSI)를 사용하는 Office 버전에 대한 최신 비보안 업데이트
 

@@ -2,19 +2,19 @@
 title: Office 2010 간편 실행 제품에 대한 업데이트 기록
 ms.author: timda
 author: TimDavenport
-manager: andrewmo
+manager: TimDavenport
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: 간편 실행을 사용하는 Office 2010 영구 버전에 대한 업데이트 기록을 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 734ec43002528cfe422a26c6fdf56e48fe4275ab
-ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
+ms.openlocfilehash: c95e38617f6a032d6b33b58b6b983bf33f75b6bd
+ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "47413156"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "48174697"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Office 2010 간편 실행 제품에 대한 업데이트 기록
 
@@ -57,7 +57,7 @@ Office의 버전을 확인하려면 다음을 수행합니다.
   
 |**릴리스 연도**|**릴리스 날짜**|**버전 번호**|**추가 정보**|
 |:-----|:-----|:-----|:-----|
-|2020|9월 8일|14.0.7258.5000 <br/> |[(영문) 4576653](https://support.microsoft.com/help/4576653)<br/>|
+|2020|9월 8일|14.0.7258.5000 <br/> |[KB 4576653](https://support.microsoft.com/help/4576653)<br/>|
 || 8월 11일 <br/>|14.0.7257.5000 <br/>|[KB 4563408](https://support.microsoft.com/help/4563408) <br/>|
 ||7월 14일 <br/> |14.0.7254.5000 <br/> |[KB 4559453](https://support.microsoft.com/help/4559453) <br/>|
 ||6월 9일  <br/> |14.0.7252.5000  <br/> |[KB 4559448 ](https://support.microsoft.com/help/4559448 ) <br/> |

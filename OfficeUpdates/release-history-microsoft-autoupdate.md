@@ -1,20 +1,20 @@
 ---
 title: MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록
-ms.author: andrewmo
-author: andymosten
-manager: andrewmo
+ms.author: timda
+author: TimDavenport
+manager: TimDavenport
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT 전문가에게 MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록을 제공합니다.
-ms.openlocfilehash: 621874246e5c7e31c4929f10540b622299a342dd
-ms.sourcegitcommit: 0b73dd4daece14e061c1d29dbb6486367c0b5621
+ms.openlocfilehash: 0be44aaa71134e942d74c12bf38a32cbe1801169
+ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "47947164"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "48174637"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록
  
@@ -166,7 +166,7 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 - SSD를 사용하는 MacOS 컴퓨터는 업데이트로 인해 더 빨라진 업데이트 속도 및 무시해도 되는 정도의 앱 중단만을 경험합니다.
 
 
-[CVE-2020-0984](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0984)를 참조하세요.
+[CVE-2020-0984](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0984)를 참조하세요.
 
 **MAU 업데이트 링크:**
 
