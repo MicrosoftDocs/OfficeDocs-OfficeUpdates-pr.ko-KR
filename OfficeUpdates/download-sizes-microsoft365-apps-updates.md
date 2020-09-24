@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 각 업데이트 채널에 대한 Microsoft 365 앱 업데이트의 대략적인 다운로드 크기 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 5b3deb3916a978c4277b42d3abd47e762d6f2492
-ms.sourcegitcommit: b7cd1fc37ece6cf0399d89549f7916a4dc40d829
+ms.openlocfilehash: 522f8cacbee425af065b6f34a6d2083119834f14
+ms.sourcegitcommit: 75494441a6d325f8cb947f1905fe623dce2f05f0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "47942845"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48222464"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 앱 업데이트의 다운로드 크기
 
@@ -35,6 +35,22 @@ Microsoft의 목표는 기업 고객이 네트워크 대역폭 사용률을 계�
 > - 지난 4개월 동안의 릴리스만 표시됩니다.
 
 [//]: # (제거하지 마세요)
+
+## <a name="september-22-2020"></a>2020년 9월 22일
+
+[//]: # (콘텐츠를 제거하지 마세요. 시작 2020년 9월 22일)
+
+### <a name="current-channel"></a>현재 채널
+
+가장 최근 릴리스는 버전 2008(빌드 13127.20508)입니다.
+
+|**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
+|:-----|:-----|:-----|
+|버전 2008(빌드 13127.20408) <br/> |2020년 9월 8일 <br/> |46<br/> |
+|버전 2008(빌드 13127.20296) <br/> |2020년 8월 31일 <br/> |272<br/> |
+
+
+[//]: # (콘텐츠를 제거하지 마세요. 종료 2020년 9월 22일)
 
 ## <a name="september-9-2020"></a>2020년 9월 9일
 
