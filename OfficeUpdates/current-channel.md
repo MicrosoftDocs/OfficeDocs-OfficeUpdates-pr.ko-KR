@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 앱에 대한 월 단위 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: b19d5a9a0dab889d2c06b894a4143f856a959176
-ms.sourcegitcommit: b7cd1fc37ece6cf0399d89549f7916a4dc40d829
+ms.openlocfilehash: 06a009030ac93c32e4085019e0daf70353c9f1b0
+ms.sourcegitcommit: 75494441a6d325f8cb947f1905fe623dce2f05f0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "47942835"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48222484"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>2020년 현재 채널 릴리스에 대한 릴리스 정보
 
@@ -37,6 +37,51 @@ ms.locfileid: "47942835"
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
+## <a name="version-2008-september-22"></a>버전 2008: 9월 22일
+*버전 2008(빌드 13127.20508)*
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- 시트의 첫 행을 고정한 후 빠른 분석을 사용하는 경우 Excel에서 충돌이 발생하는 문제를 해결했습니다.
+
+
+- IFNA()를 사용하여 수식이 포함된 경우 손상된 통합 문서에 대한 경고를 발생시킬 수 있는 문제를 해결했습니다.
+
+
+### <a name="outlook"></a>Outlook
+
+- 사용자가 코너에서 "X"를 클릭하여 공유 일정을 닫을 수 없는 문제를 해결합니다.
+
+
+- 첨부 파일 업로드에 대한 성능 문제를 해결합니다.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- PowerPoint 앱에서 충돌이 발생한 문제를 해결했습니다.
+
+
+### <a name="visio"></a>Visio
+
+- 실시간 미리 보기가 텍스트 맞춤에서 충돌하여 고객으로부터 보고되었습니다. 7월 포크에 대한 최고 적중 횟수입니다.
+
+
+### <a name="word"></a>Word
+
+- 스타일 갤러리 대화 상자와 관련된 문제를 해결했습니다.
+
+
+### <a name="office-suite"></a>Office 제품군
+
+- GIF/애니메이션 모델3D를 사용하여 유휴 상태에서 높은 CPU 사용량 문제를 해결합니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
 ## <a name="version-2008-september-09"></a>버전 2008: 9월 9일
 *버전 2008(빌드 13127.20408)*
 
@@ -45,7 +90,7 @@ ms.locfileid: "47942835"
 ### <a name="resolved-issues"></a>해결된 문제
 ### <a name="access"></a>Access
 
-- Access에서 이 현재 문제를 해결했지만, 이 문제가 지속되지 않도록 추가 인터페이스를 조사할 것입니다. 팀에서 향후 업데이트를 알려드리겠습니다. 양해해 주셔서 감사합니다.
+- 이 변경 사항으로 확대/축소 상자(Shift + F2)를 사용하여 텍스트를 편집하는 경우 Access가 중단되는 문제가 해결되었습니다.
 
 
 ### <a name="excel"></a>Excel
@@ -1233,6 +1278,7 @@ ms.locfileid: "47942835"
 > Office를 사용하는 데 발생한 문제에 대해 도움이 필요하면 [Microsoft의 Answers 포럼](https://answers.microsoft.com/) 또는 [기술 커뮤니티](https://techcommunity.microsoft.com/)에 질문을 게시하거나 [지원 서비스](https://support.microsoft.com/contactus)에 문의할 수 있습니다.
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|CC|Production| |16.0.13127.20508|version-2008-september-22|)
 [//]: # (|Win32|CC|Production| |16.0.13127.20408|version-2008-september-09|)
 [//]: # (|Win32|CC|Production| |16.0.13127.20296|version-2008-august-31|)
 [//]: # (|Win32|CC|Production| |16.0.13029.20460|version-2007-august-25|)
