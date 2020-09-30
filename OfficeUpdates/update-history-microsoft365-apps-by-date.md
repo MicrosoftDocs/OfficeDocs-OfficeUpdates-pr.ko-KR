@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 릴리스 정보에 대한 링크를 포함하여 Microsoft 365 앱 릴리스의 전체 목록을 날짜별로 구성해서 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 1c55b9a3b85ca625f1d2157496d76bf98c724d85
-ms.sourcegitcommit: 75494441a6d325f8cb947f1905fe623dce2f05f0
+ms.openlocfilehash: c468adc345448b12502aff2a21214dc90af3180e
+ms.sourcegitcommit: 98c502abe92df8183e816225934bd70f6940e935
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48222474"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48297151"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 앱의 업데이트 기록(날짜순)
 
@@ -36,7 +36,7 @@ ms.locfileid: "48222474"
 
 |**채널**|**버전**|**빌드**|**릴리스 날짜**|**다음 이하 버전까지 지원**|
 |:-----|:-----|:-----|:-----|:-----|
-|현재 채널<br/>|2008<br/>|13127.20508<br/>|2020년 9월 22일<br/>|버전 2009 출시<br/>|
+|현재 채널<br/>|2009년<br/>|13231.20262<br/>|2020년 9월 28일<br/>|버전 2010 출시<br/>|
 |월 단위 엔터프라이즈 채널<br/>|2007<br/>|13029.20534<br/>|2020년 9월 8일<br/>|2020년 11월 10일<br/>|
 |월 단위 엔터프라이즈 채널<br/>|2006<br/>|13001.20648<br/>|2020년 9월 8일<br/>|2020년 10월 13일<br/>|
 |반기 엔터프라이즈 채널(미리 보기)<br/>|2008<br/>|13127.20408<br/>|2020년 9월 8일<br/>|2021년 3월 9일<br/>|
@@ -53,6 +53,7 @@ ms.locfileid: "48222474"
 
 |**년도**|**릴리스 날짜**|**현재 채널**|**월 단위 엔터프라이즈 채널**|**반기 엔터프라이즈 채널(미리 보기)**|**반기 엔터프라이즈 채널**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2020|9월 28일|[버전 2009(빌드 13231.20262)](current-channel.md#version-2009-september-28)| | | |
 |2020|9월 22일|[버전 2008(빌드13127.20508)](current-channel.md#version-2008-september-22)| | | |
 |2020|9월 9일|[버전 2008(빌드 13127.20408)](current-channel.md#version-2008-september-09)| | | |
 |2020|9월 8일| |[버전 2007(빌드 13029.20534)](monthly-enterprise-channel.md#version-2007-september-08)<br/>[버전 2006(빌드 13001.20648)](monthly-enterprise-channel.md#version-2006-september-08)|[버전 2008(빌드 13127.20408)](semi-annual-enterprise-channel-preview.md#version-2008-september-08)|[버전 2002(빌드 12527.21104)](semi-annual-enterprise-channel.md#version-2002-september-08)<br/>[버전 1908(빌드 11929.20946)](semi-annual-enterprise-channel.md#version-1908-september-08)|
