@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: c814f4877fe57ce57136626277f281fcbadc6b73
-ms.sourcegitcommit: 751e19cd300a15d25b3757f8978ec491fc720740
+ms.openlocfilehash: b28f6a4ec822d90c0b00ae1743d0f3a3dc84e7f4
+ms.sourcegitcommit: 7970c58850bdb43dbfd159b661467afad6ebca7e
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/18/2020
-ms.locfileid: "48100210"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48276438"
 ---
 # <a name="release-notes-for-beta-channel"></a>베타 채널용 릴리스 정보
 
@@ -30,6 +30,75 @@ ms.locfileid: "48100210"
 [//]: # (제거하지 마세요)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+## <a name="version-2010-september-25"></a>버전 2010: 9월 25일
+*버전 2010(빌드 13318.20000)*
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="excel"></a>Excel
+
+- **파워 쿼리를 사용하여 데이터 형식 만들기:** 모든 데이터 원본에서 파워 쿼리로 다양한 데이터 형식을 만듭니다
+
+### <a name="outlook"></a>Outlook
+
+- **작업에 대한 사용자 환경 업데이트**: 작업 항목의 시각적 새로 고침
+
+- **메시지 작성 시간 절약:** Outlook에서 메시지를 신속하게 작성하는 데 도움이 되는 쓰기 제안을 표시합니다. 제안을 수락하려면 탭 키를 사용하면 됩니다.
+
+### <a name="word"></a>Word
+
+- **Microsoft 편집기 창에서 데스크톱용 Word에서 업데이트 받기:** 데스크톱 클라이언트용 Word의 편집기 창에서 현재 환경을 업그레이드했습니다.
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="access"></a>Access
+
+- 스크롤하는 동안 저장된 쿼리/관계 창을 로드하는 경우 스크롤 막대 위치가 제대로 설정되지 않은 문제가 해결되었습니다.
+
+
+- 테이블 추가 작업창에서 '&'를 포함하는 이름을 제대로 표시하지 않는 문제가 해결되었습니다.
+
+
+### <a name="excel"></a>Excel
+
+- 차트에서 다단계 범주 수동 간격이 작동하지 않는 문제가 해결되었습니다.
+
+
+- OLAP 피벗 테이블을 새로 고칠 때 중단될 수 있는 문제가 해결되었습니다.
+
+
+- 데이터 유효성 검사에 사용되는 테이블을 추가해도 통합 문서에 있는 모든 시트에 대한 옵션이 업데이트되지 않는 문제가 해결되었습니다.
+
+
+### <a name="onenote"></a>OneNote
+
+- OneNote가 사용자 지정 테마에 대한 캔버스에서 고대비 색을 적용하지 못하는 문제가 해결되었습니다.
+
+
+- 사용자가 전자 필기장 색 선택기에서 초록색을 마우스로 가리킨 경우 팝업 창에서 "빨간색 분필"을 읽는 문제가 해결되었습니다.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 사용자가 원본 경로를 로컬 OneDrive 폴더로 변경한 경우 연결된 Excel 차트가 Excel 시트로 잘못 변경되는 문제가 해결되었습니다.
+
+
+### <a name="word"></a>Word
+
+- 워크플로를 사용하도록 설정한 파일에 대한 링크가 정상적으로 열리지 않는 문제가 해결되었습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2010-september-18"></a>버전 2010: 9월 18일
 *버전 2010(빌드 13312.20006)*
@@ -1445,6 +1514,7 @@ ms.locfileid: "48100210"
 
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13318.20000|version-2010-september-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13312.20006|version-2010-september-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13304.20000|version-2010-september-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13301.20004|version-2010-september-04|)
@@ -1454,5 +1524,4 @@ ms.locfileid: "48100210"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13130.20000|version-2009-august-07|)
 [//]: # (|Win32|DevMain|참가자| |16.0.13127.20002|버전-2008-july-31|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13117.20000|version-2008-july-24|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13115.20000|2008년 7월 17일 버전|)
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 끝)
