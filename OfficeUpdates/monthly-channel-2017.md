@@ -1,8 +1,8 @@
 ---
 title: 2017의 월별 채널 릴리스에 대 한 릴리스 정보
-ms.author: andrewmo
+ms.author: anankani
 author: andymosten
-manager: andrewmo
+manager: anankani
 ms.date: 7/11/2018
 ms.audience: ITPro
 ms.topic: reference
@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: 2017의 Office 365 ProPlus에 대 한 월별 채널 릴리스에 대 한 릴리스 정보를 IT 전문가에 게 제공 합니다.
-ms.openlocfilehash: 7c3523a10f3fe5db8f38e792e0061b0eed2745bf
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: e08e53d617cf74329210e0f758b2c440995ca2f5
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42615007"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48369906"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2017"></a>2017의 월별 채널 릴리스에 대 한 릴리스 정보
 
@@ -560,7 +560,7 @@ ms.locfileid: "42615007"
 -   모임에 참가할 때까지 빈 대화 창이 나타나지 않는 문제를 해결합니다.
 -   직함 필드가 비어 있으면 검색 결과에 연락처 카드의 부서 필드 정보가 비는 문제를 해결합니다.
 -   방화벽 규칙으로 인해 온-프레미스에서 온라인으로 마이그레이션한 사용자에게 발생하는 로그인 오류를 해결합니다.
--   새 DWORD 레지스트리 키를 추가하여 사용자가 LyncAutoD를 수행하는 외부 네트워크의 클라이언트에 로그인할 때 클라이언트가 OAuthUsed 레지스트리 키를 False로 재설정하는 문제를 수정합니다. 이 문제를 수정하려면 HKEY\_CURRENT\_USER\\Software\\Microsoft\\Office\\16.0\\Lync\\\<SipID\>에서 EnableRestoreOAuthUsedKeyWhenUsingCachedWebTicket의 값을 1로 설정합니다.
+-   새 DWORD 레지스트리 키를 추가하여 사용자가 LyncAutoD를 수행하는 외부 네트워크의 클라이언트에 로그인할 때 클라이언트가 OAuthUsed 레지스트리 키를 False로 재설정하는 문제를 수정합니다. 이 문제를 해결 하려면 HKEY \_ CURRENT \_ USER \\ Software \\ Microsoft \\ Office \\ 16.0 \\ Lync \\ \<SipID\> 를 사용 하 여 EnableRestoreOAuthUsedKeyWhenUsingCachedWebTicket에 대해이 값을 1로 설정 합니다.
 
 ### <a name="word-feature-updates"></a>Word: 기능 업데이트
 - **펜 사용자 지정:** 잉크 입력을 위해 펜 및 형광펜의 개인 설정을 선택합니다. 사용자 지정 설정을 모든 Windows PC에서 사용할 수 있습니다.
@@ -601,7 +601,7 @@ ms.locfileid: "42615007"
 -   **쿼리 공유**: 쿼리 정의를 ODC(Office 데이터베이스 연결) 파일로 내보낸 후 통합 문서 또는 다른 사용자와 공유합니다.
 -   **데이터 로드:** 데이터 모델에 데이터를 저장하지 않고 쿼리의 데이터를 피벗 테이블 또는 피벗 차트로 직접 로드합니다.
 -   **향상된 가져오기 및 변환 기능:** 쿼리 편집기에서 샘플 값을 제공하여 새 열을 만듭니다. 입력하는 동안 Excel은 필수 변형을 검색하고 새 열의 미리 보기를 표시합니다.
--   **WIP (Windows Information Protection) 지원:**    Excel은 이제 인식 된 앱 이며 구성 된 정책에 따라 보호할 내용을 올바르게 결정 하면서 회사 및 개인 데이터를 구분할 수 있습니다.   [추가 정보](https://aka.ms/wiptechnet)
+-   **WIP (Windows Information Protection) 지원:**    이제 Excel은 인식 된 앱 이며 구성 된 정책에 따라 보호할 대상 및 회사 및 개인 데이터를 구분할 수 있습니다.   [추가 정보](https://aka.ms/wiptechnet)
 
 ### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트
 -   그룹화된 워크시트에서 병합하고 가운데 맞춤이 작동하지 않는 문제를 수정합니다.
@@ -616,7 +616,7 @@ ms.locfileid: "42615007"
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 기능 업데이트
 -   **동영상의 선택 캡션:** 동영상에 더 쉽게 액세스할 수 있도록 선택 캡션을 추가합니다. [추가 정보](https://support.office.com/article/a16745e1-b3da-4428-b2a7-ff0c8b758d0b)
 -   **향상된 디자이너 기능:** 이제 디자이너에서 슬라이드에 추가된 차트에 대한 디자인 아이디어를 추천합니다.
--   **WIP (Windows Information Protection) 지원:**    PowerPoint는 이제 인식 된 앱 이며 구성 된 정책에 따라 보호할 사항을 정확히 결정 하면서 회사 및 개인 데이터를 구분할 수 있습니다.   [추가 정보](https://aka.ms/wiptechnet)
+-   **WIP (Windows Information Protection) 지원:**    PowerPoint는 이제 인식 된 앱 이며 구성 된 정책에 따라 보호할 대상 및 회사 및 개인 데이터를 구분할 수 있습니다.   [추가 정보](https://aka.ms/wiptechnet)
 
 ### <a name="project-non-security-updates"></a>Project: 비보안 업데이트
 -   Project Online에서 각 EPT(Enterprise 프로젝트 템플릿)가 프로젝트 사이트에 대한 자체 URL을 갖게 되므로 사이트에 대한 올바른 위치를 표시하도록 프로젝트 사이트 만들기 대화 상자를 수정합니다.
@@ -628,7 +628,7 @@ ms.locfileid: "42615007"
 -   Project 클라이언트에서 상태 승인 프로세스를 시작할 경우 프로젝트가 절대 완료되지 않고 사용 불가능 상태가 되는 문제를 수정합니다.
 -   중국어 및 영어 단어를 사용할 경우 인쇄 미리 보기 중에 작업 이름이 제대로 배치되지 못하는 문제를 수정합니다.
 
-### <a name="skype-for-business-feature-updates"></a>비즈니스용 Skype: 기능 업데이트
+### <a name="skype-for-business-feature-updates"></a>Skype for Business: 기능 업데이트
 -   **링크 삽입:** IM 및 그룹 채팅에 링크를 추가하고, 전체 URL 대신 링크를 적절히 설명하는 텍스트를 제공합니다.
 -   **Screen sharing notification:** A notification displays in the conversation window when you’re sharing a screen in an IM conversation or when screen sharing continues after you leave a meeting. The notification reminds you that you are still sharing your screen and makes it easy to stop sharing by using the “Stop Sharing” button.
 -   **WIP(Windows Information Protection) 지원:** 비즈니스용 Skype는 이제 WIP 작업 전용 앱으로 지원됩니다.허용된 앱 목록에 Skype를 추가하면 Skype에서 개인 데이터를 처리하지 않음을 Windows에 나타냅니다.Windows가 비즈니스용 Skype 대신 데이터를 보호 합니다.   [추가 정보](https://aka.ms/wiptechnet)
@@ -646,7 +646,7 @@ ms.locfileid: "42615007"
 ### <a name="word-feature-updates"></a>Word: 기능 업데이트
 -   **편집기 창의 향상된 쓰기 지원:** 편집기 창에서 고급 맞춤법, 문법 및 쓰기 스타일 권장 사항을 볼 수 있습니다. 보조 기술에 대한 향상된 지원을 통해 이러한 창 기능에 액세스할 수 있습니다.
 -   **대체 텍스트 만들기:** 클라우드 기반 서비스는 문서의 그림에 대한 대체 텍스트를 자동으로 생성합니다.
--   **WIP (Windows Information Protection) 지원:**    Word는 이제 인식 된 앱 이며 구성 된 정책에 따라 보호할 사항을 정확히 결정 하면서 회사 및 개인 데이터를 구분할 수 있습니다.   [추가 정보](https://aka.ms/wiptechnet)
+-   **WIP (Windows Information Protection) 지원:**    Word는 이제 인식 된 앱 이며, 구성 된 정책에 따라 보호할 대상 및 회사 및 개인 데이터를 구분할 수 있습니다.   [추가 정보](https://aka.ms/wiptechnet)
 
 ## <a name="version-1704-june-1"></a>버전 1704:6 월 1 일
 *버전 1704(빌드 8067.2157)*
@@ -1043,7 +1043,7 @@ ms.locfileid: "42615007"
 -   Polycom CX100 장치를 사용하는 경우 호출 시 마이크가 검색되지 않는 문제를 해결합니다.
 -   IM 메시지에서 \\\\servername 또는 file://와 같은 링크를 선택할 때 해당 위치가 열리지 않고 오류 메시지가 표시되는 문제를 해결합니다.
 -   위치 기반 라우팅을 사용하는 VDI(가상 데스크톱 인프라) 환경에서 서버가 사용자 위치를 PSTN 호출에 유효하지 않다고 판단하기 때문에 사용자가 PSTN 호출을 하거나 받지 못하는 문제를 해결합니다.
--   Change the subject line of the email sent for a missed message, when the user's status is set to Do Not Disturb or Presenting, from "Missed conversation with \<name\>" to "\<Name\> sent you a message in Skype for Business."
+-   사용자의 상태가 방해 금지로 설정 되어 있거나 표시 되지 않는 경우 "부재 중 대화"와 " \<name\> 받는 사람의 \<Name\> 비즈니스용 Skype에서 메시지를 보냈습니다."에서 부재 중 메시지로 전송 된 전자 메일의 제목 줄을 변경 합니다.
 -   로그인 안정성 추세를 파악하기 위한 인구 조사 데이터의 일부로 [장치의 처음 로그인에 대한](https://docs.microsoft.com/skypeforbusiness/legal-and-regulatory/data-collection-practices) 타임스탬프 캡처를 시작합니다.
 
 ### <a name="visio-feature-updates"></a>Visio: 기능 업데이트

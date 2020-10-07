@@ -1,20 +1,20 @@
 ---
 title: 2019년 반기 채널 릴리스에 대한 릴리스 정보
-ms.author: andrewmo
+ms.author: anankani
 author: andymosten
-manager: andrewmo
+manager: anankani
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 반기 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 4c996b8fb804c82f14e747910f5f9bac76f538ba
-ms.sourcegitcommit: 868c40861ac49ef565519e2917a9c0435ca20740
+ms.openlocfilehash: e6d81aa0eb3e41ac746a0ba027f7df58f54758d4
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44581777"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48370116"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019년 반기 채널 릴리스에 대한 릴리스 정보
 
@@ -311,7 +311,7 @@ ms.locfileid: "44581777"
 - **슬라이드에 생동감 주기:** 화면에서 애니메이션 3D 그래픽을 삽입하여 심장 박동, 행성 궤도 및 공룡 난동 모습을 표시합니다. [자세한 정보](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
 - **스케치를 세련되게 변형:** 손으로 그린 텍스트와 도형을 세련된 다이어그램으로 바꾸어 드립니다. 시작하려면 잉크 스트로크만 선택하면 됩니다. [자세히 알아보기](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 - **그림 뒤에 있는 내용 표시:** 워크시트에 그림을 넣고, 사전 설정을 선택하고, 투명도 변경을 확인합니다. 바로 이 기능으로요! [자세히 알아보기](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
-- **Microsoft Stream에 게시:** Microsoft Stream을 사용하여 조직 내에서 프레젠테이션을 비디오로 더 안전하게 공유할 수 있습니다. [자세한 정보](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83)
+- **Microsoft Stream에 게시:** Microsoft Stream을 사용하여 조직 내에서 프레젠테이션을 비디오로 더 안전하게 공유할 수 있습니다. [자세한 정보](https://support.office.com/article/C140551F-CB37-4818-B5D4-3E30815C3E83)
 - **4K 비디오로 내보내기:** 프레젠테이션을 동영상으로 내보낼 때 4K 해상도를 선택할 수 있습니다.  [자세한 정보](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83)
 - **필터가 적용된 SVG 삽입:** Office 사용자는 이제 필터가 적용된 SVG를 삽입할 수 있습니다. [자세히 알아보기](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 - **이제 큰 파일이 열리는 속도 향상:** OneDrive 또는 SharePoint에 저장된 파일을 열 때 이미지, 비디오 및 다른 큰 요소가 백그라운드에서 계속 다운로드됩니다.

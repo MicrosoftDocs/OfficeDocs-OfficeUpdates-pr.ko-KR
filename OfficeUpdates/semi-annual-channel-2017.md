@@ -1,8 +1,8 @@
 ---
 title: 2017 년 반기 채널 릴리스에 대 한 릴리스 정보
-ms.author: andrewmo
+ms.author: anankani
 author: andymosten
-manager: andrewmo
+manager: anankani
 ms.date: 12/12/2017
 ms.audience: ITPro
 ms.topic: reference
@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: 2017의 Office 365 ProPlus에 대 한 반기 채널 릴리스에 대 한 릴리스 정보를 IT 전문가에 게 제공 합니다.
-ms.openlocfilehash: 9d3a8a62656e52fd556920745d64ba2d1da47b1f
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: e98b5359a10f2a6cba7dd8539983496f95b5177a
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42615072"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48370166"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2017"></a>2017 년 반기 채널 릴리스에 대 한 릴리스 정보
 
@@ -140,7 +140,7 @@ ms.locfileid: "42615072"
 -   **큰 수(bigint) 지원:** Access 테이블에서 많은 큰 수 데이터 형식을 사용하여 큰 숫자를 계산할 수 있고 SQL Server 내의 bigint와 같이 동일한 데이터 형식을 사용하는 외부 데이터베이스에서 가져오거나 연결할 수 있습니다. [추가 정보](https://blogs.office.com/2017/03/06/new-in-access-2016-large-number-bigint-support/)
 
 ### <a name="excel-feature-updates"></a>Excel: 기능 업데이트
--   **WIP (Windows Information Protection) 지원:**    Excel은 이제 인식 된 앱 이며 구성 된 정책에 따라 보호할 내용을 올바르게 결정 하면서 회사 및 개인 데이터를 구분할 수 있습니다.   [추가 정보](https://aka.ms/wiptechnet)
+-   **WIP (Windows Information Protection) 지원:**    이제 Excel은 인식 된 앱 이며 구성 된 정책에 따라 보호할 대상 및 회사 및 개인 데이터를 구분할 수 있습니다.   [추가 정보](https://aka.ms/wiptechnet)
 -   **향상된 가져오기 및 변환 기능:** 쿼리 편집기에서 샘플 값을 제공하여 새 열을 만듭니다. 입력하는 동안 Excel은 필수 변형을 검색하고 새 열의 미리 보기를 표시합니다.
 -   **최근 링크 삽입:** 최근 클라우드 기반 파일이나 웹 사이트에 간단하게 하이퍼링크를 연결하고 화면 읽기 프로그램을 사용하는 사람들에게 의미 있는 화면 이름을 만들어줄 수 있습니다. [추가 정보](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
 -   **기본 피벗 테이블 레이아웃 개인 설정** 원하는 대로 피벗 테이블을 설정하고 새 피벗 테이블을 만들 때마다 해당 레이아웃으로 시작할 수 있습니다. [추가 정보](https://support.office.com/article/efd8569c-f07a-43c1-9db2-4f2912a0f94e)
@@ -154,7 +154,7 @@ ms.locfileid: "42615072"
 -   **펜을 사용하여 개체를 선택한 후 변경:** 디지털 펜의 개체 핸들을 사용하여 크기 조정, 회전, 이동 등을 수행할 수 있습니다.
 -   **지도 차트:** 값을 비교하고 지역별 범주를 표시합니다. [추가 정보](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 -   **SVG 이미지:** 통합 문서에 SVG(확장 가능한 벡터 그래픽)를 삽입하고 편집합니다. [추가 정보](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **아이콘 삽입:**   삽입 \> 그림 \> 아이콘으로 이동 하 여 SVG (확장 가능한 벡터 그래픽) 파일의 표준 라이브러리에 있는 아이콘을 사용 합니다. [추가 정보](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **아이콘 삽입:**   일러스트레이션 삽입 아이콘으로 이동 하 여 SVG (확장 가능한 벡터 그래픽) 파일의 표준 라이브러리에 있는 아이콘을 사용 \> \> 합니다. [추가 정보](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **최근 폴더에 저장:** 파일 \> 다른 이름으로 저장으로 이동한 후 최근에 사용한 항목 탭을 사용하여 최근에 사용한 폴더에 통합 문서를 저장합니다.
 -   **향상된 내게 필요한 옵션:** 키보드, 내레이터 및 기타 보조 기술을 사용하여 통합 문서를 읽고 편집할 수 있도록 지원이 향상되었습니다. [추가 정보](https://support.office.com/article/51fcb17a-b15b-4b13-ae04-d4f38ece3f78)
 
@@ -191,7 +191,7 @@ ms.locfileid: "42615072"
 -   OneNote 캔버스가 뷰에 많은 단락이 있을 때 콘텐츠를 숨기거나 업데이트 하는 문제를 해결합니다.
 
 ### <a name="outlook-feature-updates"></a>Outlook: 기능 업데이트
--   **WIP (Windows Information Protection) 지원:**    Outlook은 이제 인식 된 앱 이며, 구성 된 정책에 따라 보호할 사항을 정확히 결정 하면서 회사 및 개인 데이터를 구분할 수 있습니다.   [추가 정보](https://aka.ms/wiptechnet)
+-   **WIP (Windows Information Protection) 지원:**    Outlook은 이제 인식 된 앱 이며, 구성 된 정책에 따라 보호할 대상 및 회사 및 개인 데이터를 구분할 수 있습니다.   [추가 정보](https://aka.ms/wiptechnet)
 -   **최근 링크 삽입:** 최근 클라우드 기반 파일이나 웹 사이트에 하이퍼링크를 연결하고 화면 읽기 프로그램을 사용하는 사람들에게 의미 있는 화면 이름을 만들어줄 수 있습니다. [추가 정보](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
 -   **두바이 글꼴:** 아랍어 스크립트를 사용하는 주요 언어와 서유럽 언어를 모두 지원하는 글꼴 집합입니다. [추가 정보](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
 -   **배경 제거:** 자유 형식 그리기 도구를 사용하여 배경 그림을 제거합니다.
@@ -199,7 +199,7 @@ ms.locfileid: "42615072"
 -   **첨부 파일에 대한 사용 권한 설정:** OneDrive 또는 SharePoint 첨부 파일에 대해 사용자는 조직 내부 혹은 외부의 받는 사람이 첨부 파일을 읽었거나 첨부 파일에 대한 권한을 편집할지 여부를 설정할 수 있습니다.
 -   **고정 가능 작업창:** 사서함에서 메시지 간에 전환하는 동안 추가 기능 작업창을 열어 둡니다. [추가 정보](https://blogs.msdn.microsoft.com/exchangedev/2017/01/26/pinnable-taskpane-in-outlook-2016/)
 -   **SVG 이미지:** 전자 메일에 SVG(확장 가능한 벡터 그래픽)를 삽입하고 편집합니다. [추가 정보](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **아이콘 삽입:**   삽입 \> 그림 \> 아이콘으로 이동 하 여 SVG (확장 가능한 벡터 그래픽) 파일의 표준 라이브러리에 있는 아이콘을 사용 합니다.   [추가 정보](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **아이콘 삽입:**   일러스트레이션 삽입 아이콘으로 이동 하 여 SVG (확장 가능한 벡터 그래픽) 파일의 표준 라이브러리에 있는 아이콘을 사용 \> \> 합니다.  [ 추가 정보](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="outlook-security-updates"></a>Outlook: 보안 업데이트
 -   [CVE-2017-0106](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0106): Microsoft Outlook 원격 코드 실행 취약성
@@ -220,13 +220,13 @@ ms.locfileid: "42615072"
 -   높은 DPI를 사용하는 컴퓨터에서 전송된 메시지에 포함된 이미지가 블랙아웃되는 문제를 해결합니다.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 기능 업데이트
--   **WIP (Windows Information Protection) 지원:**    PowerPoint는 이제 인식 된 앱 이며 구성 된 정책에 따라 보호할 사항을 정확히 결정 하면서 회사 및 개인 데이터를 구분할 수 있습니다.   [추가 정보](https://aka.ms/wiptechnet)
+-   **WIP (Windows Information Protection) 지원:**    PowerPoint는 이제 인식 된 앱 이며 구성 된 정책에 따라 보호할 대상 및 회사 및 개인 데이터를 구분할 수 있습니다.   [추가 정보](https://aka.ms/wiptechnet)
 -   **최근 링크 삽입:** 최근 클라우드 기반 파일이나 웹 사이트에 하이퍼링크를 연결하고 화면 읽기 프로그램을 사용하는 사람들에게 의미 있는 화면 이름을 만들어줄 수 있습니다. [추가 정보](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
 -   **추가 기능의 중앙 집중식 배포**: 관리자는 Office 365 관리 센터에서 사용자 또는 그룹에게 추가 기능을 배포하고 업데이트할 수 있습니다. [추가 정보](https://dev.office.com/docs/add-ins/publish/centralized-deployment)
 -   **두바이 글꼴:** 아랍어 스크립트를 사용하는 주요 언어와 서유럽 언어를 모두 지원하는 글꼴 집합입니다. [추가 정보](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
 -   **배경 제거:** 자유 형식 그리기 도구를 사용하여 배경 그림을 제거합니다.
 -   **SVG 이미지:** 프레젠테이션에 SVG(확장 가능한 벡터 그래픽)를 삽입하고 편집합니다. [추가 정보](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **아이콘 삽입:**   삽입 \> 그림 \> 아이콘으로 이동 하 여 SVG (확장 가능한 벡터 그래픽) 파일의 표준 라이브러리에 있는 아이콘을 사용 합니다. [추가 정보](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **아이콘 삽입:**   일러스트레이션 삽입 아이콘으로 이동 하 여 SVG (확장 가능한 벡터 그래픽) 파일의 표준 라이브러리에 있는 아이콘을 사용 \> \> 합니다. [추가 정보](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **공동 작성 시 실시간 입력:** 다른 사용자가 프레젠테이션에서 작업 중인 위치를 확인 하 고 입력 시 변경 내용을 확인 합니다. [추가 정보](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
 -   **최근 폴더에 저장:** 파일 \> 다른 이름으로 저장으로 이동한 후 최근에 사용한 항목 탭을 사용하여 최근에 사용한 폴더에 프레젠테이션을 저장합니다.
 -   **정확한 잉크 개체 만들기:** 세그먼트 지우개를 끌어 가장 가까운 선까지 불필요한 잉크를 제거합니다.
@@ -343,7 +343,7 @@ ms.locfileid: "42615072"
 -   **슬라이드 조각:** Visio 드로잉의 조각을 가져다 PowerPoint 슬라이드로 내보냅니다. [추가 정보](https://support.office.com/article/e7da404b-4208-49d1-9518-6fe1a4723657)
 
 ### <a name="word-feature-updates"></a>Word: 기능 업데이트
--   **WIP (Windows Information Protection) 지원:**    Word는 이제 인식 된 앱 이며 구성 된 정책에 따라 보호할 사항을 정확히 결정 하면서 회사 및 개인 데이터를 구분할 수 있습니다.   [추가 정보](https://aka.ms/wiptechnet)
+-   **WIP (Windows Information Protection) 지원:**    Word는 이제 인식 된 앱 이며, 구성 된 정책에 따라 보호할 대상 및 회사 및 개인 데이터를 구분할 수 있습니다.   [추가 정보](https://aka.ms/wiptechnet)
 -   **최근 링크 삽입:** 최근 클라우드 기반 파일이나 웹 사이트에 하이퍼링크를 연결하고 화면 읽기 프로그램을 사용하는 사람들에게 의미 있는 화면 이름을 만들어줄 수 있습니다. [추가 정보](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
 -   **추가 기능의 중앙 집중식 배포**: 관리자는 Office 365 관리 센터에서 사용자 또는 그룹에 추가 기능을 배포 하 고 업데이트할 수 있습니다.   [추가 정보](https://dev.office.com/docs/add-ins/publish/centralized-deployment)
 -   **두바이 글꼴:** 아랍어 스크립트를 사용하는 주요 언어와 서유럽 언어를 모두 지원하는 글꼴 집합입니다. [추가 정보](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
@@ -351,7 +351,7 @@ ms.locfileid: "42615072"
 -   **나란히:** 인쇄 레이아웃 보기에서 용지 더미처럼 나란히 밀어서 페이지를 탐색합니다. [추가 정보](https://support.office.com/article/21bfd0ff-0e1f-4c43-b188-8b36dfe6dcf4)
 -   **펜을 사용하여 개체를 선택한 후 변경:** 디지털 펜의 개체 핸들을 사용하여 크기 조정, 회전, 이동 등을 수행할 수 있습니다.
 -   **SVG 이미지:** 문서에 SVG(확장 가능한 벡터 그래픽)를 삽입하고 편집합니다. [추가 정보](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **아이콘 삽입:**   삽입 \> 그림 \> 아이콘으로 이동 하 여 SVG (확장 가능한 벡터 그래픽) 파일의 표준 라이브러리에 있는 아이콘을 사용 합니다.   [추가 정보](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **아이콘 삽입:**   일러스트레이션 삽입 아이콘으로 이동 하 여 SVG (확장 가능한 벡터 그래픽) 파일의 표준 라이브러리에 있는 아이콘을 사용 \> \> 합니다.  [ 추가 정보](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **최근 폴더에 저장:** 파일 \> 다른 이름으로 저장으로 이동한 후 최근에 사용한 항목 탭을 사용하여 최근에 사용한 폴더에 문서를 저장합니다.
 -   **학습 도구를 사용한 읽기 개선:** 읽기 모드에서 문서를 큰 소리로 읽을 때 텍스트 간격을 조정하고, 음절 사이에 구분선을 표시하고, 각 단어를 강조함으로써 읽기 기술을 높이는 새 명령이 추가되었습니다. [추가 정보](https://support.office.com/article/29efa413-e2da-4cac-b2a5-2defc6d34fd9)
 -   **도형 인식:** 그리기 \> 도형으로 변환을 사용하여 그림을 자동으로 도형으로 변환합니다. [추가 정보](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
@@ -637,7 +637,7 @@ ms.locfileid: "42615072"
 -   Polycom CX100 장치를 사용하는 경우 호출 시 마이크가 검색되지 않는 문제를 해결합니다.
 -   IM 메시지에서 \\\\servername 또는 file://와 같은 링크를 선택할 때 해당 위치가 열리지 않고 오류 메시지가 표시되는 문제를 해결합니다.
 -   위치 기반 라우팅을 사용하는 VDI(가상 데스크톱 인프라) 환경에서 서버가 사용자 위치를 PSTN 호출에 유효하지 않다고 판단하기 때문에 사용자가 PSTN 호출을 하거나 받지 못하는 문제를 해결합니다.
--   Change the subject line of the email sent for a missed message, when the user's status is set to Do Not Disturb or Presenting, from "Missed conversation with \<name\>" to "\<Name\> sent you a message in Skype for Business."
+-   사용자의 상태가 방해 금지로 설정 되어 있거나 표시 되지 않는 경우 "부재 중 대화"와 " \<name\> 받는 사람의 \<Name\> 비즈니스용 Skype에서 메시지를 보냈습니다."에서 부재 중 메시지로 전송 된 전자 메일의 제목 줄을 변경 합니다.
 -   로그인 안정성 추세를 파악하기 위한 인구 조사 데이터의 일부로 [장치의 처음 로그인에 대한](https://docs.microsoft.com/skypeforbusiness/legal-and-regulatory/data-collection-practices) 타임스탬프 캡처를 시작합니다.
 -   보조 모니터를 공유할 수 있는 옵션이 Windows 10 버전 1607(1주년 업데이트라고도 함)의 특정 모니터 구성에 나타나지 않는 문제를 해결합니다.
 -   공유자가 타사 RDP 구현을 사용 중일 때 공유 콘텐츠를 확대하면 비즈니스용 Skype가 충돌하는 문제를 해결합니다.
@@ -927,7 +927,7 @@ ms.locfileid: "42615072"
 -   테이블을 삭제하면 OneNote의 작동이 중단되는 문제를 해결합니다.
 
 ### <a name="outlook-feature-updates"></a>Outlook: 기능 업데이트
--   ** \@멘 션:** 받는 사람에 게 전자 메일 또는 일정 항목의 본문에 대 한 사용자 이름 앞에 @ 기호를 포함 하 여 입력 또는 작업을 요청 하 고 있음을 알려야 합니다. 이렇게 해당 사람이 받는 사람 줄에 자동으로 추가됩니다. [추가 정보](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
+-   ** \@ 멘 션:** 받는 사람에 게는 전자 메일 또는 일정 항목의 본문에 대 한 사용자 이름 앞에 @ 기호를 포함 하 여 입력 또는 작업을 요청 하 고 있음을 알려야 합니다. 이렇게 해당 사람이 받는 사람 줄에 자동으로 추가됩니다. [추가 정보](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
 -   **여행 예약 및 패키지에 대한 요약 카드:** 받은 편지함 및 일정에 자동으로 생성되는 요약 카드를 사용하여 여행 예약 및 패키지 전달을 확인하고 추적합니다. [추가 정보](https://blogs.office.com/2016/06/28/stay-on-top-of-your-travel-and-deliveries-with-outlook/)
 -   **첨부된 사진 미니 미리 보기**: 사진이 전자 메일에 첨부되면 Outlook 메시지에서 사진의 작은 미리 보기 창이 표시됩니다.
 -   **지운 편지함 복구 링크:** 지운 편지함 폴더에서 삭제한 항목 위에 “이 폴더에서 최근에 제거된 항목 복구" 링크가 나타나고, 이 링크를 선택하면 지운 편지함 복구 대화 상자가 표시됩니다.
@@ -974,7 +974,7 @@ ms.locfileid: "42615072"
 
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business: 기능 업데이트
 -   **업데이트된 시각적 요소:** 아이콘과 색을 변경하여 접근성을 향상했습니다. [추가 정보](https://blogs.technet.microsoft.com/nexthop/2016/10/27/new-skype-for-business-2016-look-and-feel-coming-your-way/)
--   **Ui를 "공유"로 업데이트:** "프레젠테이션 데스크톱"을 "데스크톱 공유" 및 "현재 프로그램"을 "창 공유"로 변경 하는 것과 같은 ui 요소에서 "present"를 "share"로 변경 합니다.
+-   **UI를 "Share"로 업데이트 합니다.**   "현재 데스크톱"을 "데스크톱 공유" 및 "현재 프로그램"을 "창 공유"로 변경 하는 등의 UI 요소에서 "공유"로 "현재"로 변경 합니다.
 -   **Citrix 지원**: Citrix HDX Real Time Optimization Pack 2.1과 함께 Citrix 기반 VDI(가상 데스크톱 인프라) 환경을 지원합니다.
 
 ### <a name="skype-for-business-security-updates"></a>비즈니스용 Skype: 보안 업데이트

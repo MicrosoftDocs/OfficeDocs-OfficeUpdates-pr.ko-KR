@@ -1,8 +1,8 @@
 ---
 title: 2015의 월별 채널 릴리스에 대 한 릴리스 정보
-ms.author: andrewmo
+ms.author: anankani
 author: andymosten
-manager: andrewmo
+manager: anankani
 ms.date: 12/11/2015
 ms.audience: ITPro
 ms.topic: reference
@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: 2015의 Office 365 ProPlus에 대 한 월별 채널 릴리스에 대 한 릴리스 정보를 IT 전문가에 게 제공 합니다.
-ms.openlocfilehash: 0b235ba177dd2378cbb953315e2ead6b692ed52b
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: 29e4500dafb8fe95569608b0dca148a03c182a6b
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32438813"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48369916"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2015"></a>2015의 월별 채널 릴리스에 대 한 릴리스 정보
 

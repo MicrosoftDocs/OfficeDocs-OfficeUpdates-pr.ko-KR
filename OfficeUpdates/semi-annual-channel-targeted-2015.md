@@ -1,8 +1,8 @@
 ---
 title: 2015의 반기 채널 (대상 지정) 릴리스에 대 한 릴리스 정보
-ms.author: andrewmo
+ms.author: anankani
 author: andymosten
-manager: andrewmo
+manager: anankani
 ms.date: 12/8/2015
 ms.audience: ITPro
 ms.topic: reference
@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: 2015의 Office 365 ProPlus에 대 한 반기 채널 (대상 지정) 릴리스에 대 한 릴리스 정보를 IT 전문가에 게 제공 합니다.
-ms.openlocfilehash: 4b6eb5b96fddc57d8a1f64adfaeb10166d541c42
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: 45fc19b81f2d207c7abf42e773c98b359701eaca
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32439143"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48370106"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2015"></a>2015의 반기 채널 (대상 지정) 릴리스에 대 한 릴리스 정보
 

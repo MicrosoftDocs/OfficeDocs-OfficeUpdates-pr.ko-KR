@@ -1,20 +1,20 @@
 ---
 title: 2019년 반기 채널(대상 지정) 릴리스에 대한 릴리스 정보
-ms.author: andrewmo
+ms.author: anankani
 author: andymosten
-manager: andrewmo
+manager: anankani
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 반기 채널(대상 지정) 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: b0a39d61122691cd6a007866ec80444848e7389b
-ms.sourcegitcommit: 2474d341cb1c1c2e0b43b5c324345d853e192c59
+ms.openlocfilehash: e533b0ab787fe46830249721c9e8315232379c0e
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44565059"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48369976"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019년 반기 채널(대상 지정) 릴리스에 대한 릴리스 정보
 
@@ -22,7 +22,7 @@ ms.locfileid: "44565059"
 
 > [!NOTE]
 > - Microsoft는 일정 기간 동안 반기 채널(대상) 기능(및 경우에 따라 수정 사항)을 롤아웃합니다. 아래에서 설명했던 내용이 바로 보이지 않으면 곧 예측할 수 있습니다. [자세한 정보](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
-> - Microsoft Teams는 버전 1902부터 반기 채널(대상 지정)의 새 설치에 포함됩니다. 버전 1908 이상으로 업데이트 되는 경우 기존 반기 채널(대상 지정) 설치에 Teams가 추가됩니다. 자세한 내용은 [Office 365 ProPlus와 함께 Microsoft Teams 배포](https://docs.microsoft.com/DeployOffice/teams-install)를 참조하세요.
+> - Microsoft Teams는 버전 1902부터 반기 채널(대상 지정)의 새 설치에 포함됩니다. 버전 1908 이상으로 업데이트 되는 경우 기존 반기 채널(대상 지정) 설치에 Teams가 추가됩니다. 자세한 내용은 [Office 365 ProPlus와 함께 Microsoft Teams 배포](https://docs.microsoft.com/deployoffice/teams-install)를 참조하세요.
 
 ## <a name="version-1908-december-10"></a>버전 1908: 12월 10일
 *버전 1908 (빌드 11929.20516)*
@@ -364,7 +364,7 @@ ms.locfileid: "44565059"
 
 ### <a name="office-suite"></a>Office 제품군
 
-- **Microsoft Teams 설치:** Teams가 Office 365 ProPlus의 기존 설치에 추가되었습니다. [자세한 정보](https://docs.microsoft.com/DeployOffice/teams-install)
+- **Microsoft Teams 설치:** Teams가 Office 365 ProPlus의 기존 설치에 추가되었습니다. [자세한 정보](https://docs.microsoft.com/deployoffice/teams-install)
 
 - **변경 내용을 실시간으로 저장:** 파일을 OneDrive에 업로드하여 모든 업데이트를 자동으로 저장할 수 있습니다.
 
@@ -668,7 +668,7 @@ ms.locfileid: "44565059"
 - **슬라이드에 생동감 주기:** 화면에서 애니메이션 3D 그래픽을 삽입하여 심장 박동, 행성 궤도 및 공룡 난동 모습을 표시합니다. [자세한 정보](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
 - **스케치를 세련되게 변형:** 손으로 그린 텍스트와 도형을 세련된 다이어그램으로 바꾸어 드립니다. 시작하려면 잉크 스트로크만 선택하면 됩니다. [자세히 알아보기](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 - **그림 뒤에 있는 내용 표시:** 워크시트에 그림을 넣고, 사전 설정을 선택하고, 투명도 변경을 확인합니다. 바로 이 기능으로요! [자세히 알아보기](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
-- **Microsoft Stream에 게시:** Microsoft Stream을 사용하여 조직 내에서 프레젠테이션을 비디오로 더 안전하게 공유할 수 있습니다. [자세한 정보](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83)
+- **Microsoft Stream에 게시:** Microsoft Stream을 사용하여 조직 내에서 프레젠테이션을 비디오로 더 안전하게 공유할 수 있습니다. [자세한 정보](https://support.office.com/article/C140551F-CB37-4818-B5D4-3E30815C3E83)
 - **4K 비디오로 내보내기:** 프레젠테이션을 동영상으로 내보낼 때 4K 해상도를 선택할 수 있습니다.  [자세한 정보](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83)
 - **필터가 적용된 SVG 삽입:** Office 사용자는 이제 필터가 적용된 SVG를 삽입할 수 있습니다. [자세히 알아보기](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 - **이제 큰 파일이 열리는 속도 향상:** OneDrive 또는 SharePoint에 저장된 파일을 열 때 이미지, 비디오 및 다른 큰 요소가 백그라운드에서 계속 다운로드됩니다.

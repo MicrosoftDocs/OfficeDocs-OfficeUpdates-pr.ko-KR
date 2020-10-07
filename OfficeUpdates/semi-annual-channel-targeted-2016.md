@@ -1,8 +1,8 @@
 ---
 title: 2016의 반기 채널 (대상 지정) 릴리스에 대 한 릴리스 정보
-ms.author: andrewmo
+ms.author: anankani
 author: andymosten
-manager: andrewmo
+manager: anankani
 ms.date: 12/13/2016
 ms.audience: ITPro
 ms.topic: reference
@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: 2016의 Office 365 ProPlus에 대 한 반기 채널 (대상 지정) 릴리스에 대 한 릴리스 정보를 IT 전문가에 게 제공 합니다.
-ms.openlocfilehash: 7560a299409682010d2bf4e435dc733432781dab
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: 2ae156c4e02e56aca8b9ccb562804ade1173ec17
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42615064"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48370086"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2016"></a>2016의 반기 채널 (대상 지정) 릴리스에 대 한 릴리스 정보
 
@@ -84,7 +84,7 @@ ms.locfileid: "42615064"
 
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business: 기능 업데이트
 -   **업데이트된 시각적 요소:** 아이콘과 색을 변경하여 접근성을 향상했습니다. [추가 정보](https://blogs.technet.microsoft.com/nexthop/2016/10/27/new-skype-for-business-2016-look-and-feel-coming-your-way/)
--   **Ui를 "공유"로 업데이트:** "프레젠테이션 데스크톱"을 "데스크톱 공유" 및 "현재 프로그램"을 "창 공유"로 변경 하는 것과 같은 ui 요소에서 "present"를 "share"로 변경 합니다.
+-   **UI를 "Share"로 업데이트 합니다.**   "현재 데스크톱"을 "데스크톱 공유" 및 "현재 프로그램"을 "창 공유"로 변경 하는 등의 UI 요소에서 "공유"로 "현재"로 변경 합니다.
 
 ### <a name="skype-for-business-non-security-updates"></a>비즈니스용 Skype: 비보안 업데이트
 -   사용자가 Exchange Online으로 마이그레이션된 후 Exchange에 연결하여 대화 기록, 연락처 또는 음성 메일 정보를 가져올 수 없는 문제를 해결합니다.
@@ -163,7 +163,7 @@ ms.locfileid: "42615064"
 -   테이블을 삭제하면 OneNote의 작동이 중단되는 문제를 해결합니다.
 
 ### <a name="outlook-feature-updates"></a>Outlook: 기능 업데이트
--   ** \@멘 션:** 받는 사람에 게 전자 메일 또는 일정 항목의 본문에 대 한 사용자 이름 앞에 @ 기호를 포함 하 여 입력 또는 작업을 요청 하 고 있음을 알려야 합니다. 이렇게 해당 사람이 받는 사람 줄에 자동으로 추가됩니다. [추가 정보](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
+-   ** \@ 멘 션:** 받는 사람에 게는 전자 메일 또는 일정 항목의 본문에 대 한 사용자 이름 앞에 @ 기호를 포함 하 여 입력 또는 작업을 요청 하 고 있음을 알려야 합니다. 이렇게 해당 사람이 받는 사람 줄에 자동으로 추가됩니다. [추가 정보](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
 -   **여행 예약 및 패키지에 대한 요약 카드:** 받은 편지함 및 일정에 자동으로 생성되는 요약 카드를 사용하여 여행 예약 및 패키지 전달을 확인하고 추적합니다. [추가 정보](https://blogs.office.com/2016/06/28/stay-on-top-of-your-travel-and-deliveries-with-outlook/)
 -   **첨부된 사진 미니 미리 보기**: 사진이 전자 메일에 첨부되면 Outlook 메시지에서 사진의 작은 미리 보기 창이 표시됩니다.
 -   **지운 편지함 복구 링크:** 지운 편지함 폴더에서 삭제한 항목 위에 “이 폴더에서 최근에 제거된 항목 복구" 링크가 나타나고, 이 링크를 선택하면 지운 편지함 복구 대화 상자가 표시됩니다.
@@ -834,7 +834,7 @@ ms.locfileid: "42615064"
 -   **파일 \> 열기의 정렬 기능:** Outlook을 제외한 모든 앱의 파일 \> 열기에서 이름 또는 수정된 날짜별로 정렬합니다. Word, Excel 및 PowerPoint의 경우 파일 \> 다른 이름으로 저장에서도 정렬을 사용할 수 있습니다.
 -   **파일 \> 다른 이름으로 저장의 폴더 탐색 기능:** OneDrive 폴더에 대한 Word, Excel, PowerPoint, 비즈니스용 OneDrive 폴더 및 이 PC에서 파일 \> 다른 이름으로 저장의 전체 폴더 탐색을 사용합니다.
 -   **다른 사람 이름으로 보내기 옵션:** Word 또는 PowerPoint의 공유 창에서 문서를 첨부 파일 또는 PDF로 보냅니다.
--   **그림 API 삽입:**  일반적인 office .js 라이브러리에서 [document.setselecteddataasync 메서드](https://msdn.microsoft.com/library/office/fp142145.aspx) 를 사용 하 여 Word, Excel 또는 PowerPoint에 이미지를 삽입 합니다. Word JavaScript API에서는 호스트 전용 메서드 insertInlinePictureFromBase64()를 제공하여 [본문](https://msdn.microsoft.com/library/office/mt598674.aspx), [ContentControl](https://msdn.microsoft.com/library/office/mt598675.aspx), [단락](https://msdn.microsoft.com/library/office/mt598682.aspx)및 범위 개체에 인라인 그림을 설정합니다.
+-   **그림 API 삽입:**  공용 office.js 라이브러리의 [document.setselecteddataasync 메서드](https://msdn.microsoft.com/library/office/fp142145.aspx) 를 사용 하 여 Word, Excel 또는 PowerPoint에 이미지를 삽입 합니다. Word JavaScript API에서는 호스트 전용 메서드 insertInlinePictureFromBase64()를 제공하여 [본문](https://msdn.microsoft.com/library/office/mt598674.aspx), [ContentControl](https://msdn.microsoft.com/library/office/mt598675.aspx), [단락](https://msdn.microsoft.com/library/office/mt598682.aspx)및 범위 개체에 인라인 그림을 설정합니다.
 
 ### <a name="office-suite-security-updates"></a>Office 제품군: 보안 업데이트
 -   Microsoft 보안 공지 [MS15-081](https://technet.microsoft.com/library/security/ms15-081): Microsoft Office의 취약성으로 인해 원격 코드가 실행될 수 있음(3080790)

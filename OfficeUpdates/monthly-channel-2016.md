@@ -1,8 +1,8 @@
 ---
 title: 2016의 월별 채널 릴리스에 대 한 릴리스 정보
-ms.author: andrewmo
+ms.author: anankani
 author: andymosten
-manager: andrewmo
+manager: anankani
 ms.date: 12/13/2016
 ms.audience: ITPro
 ms.topic: reference
@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: 2016의 Office 365 ProPlus에 대 한 월별 채널 릴리스에 대 한 릴리스 정보를 IT 전문가에 게 제공 합니다.
-ms.openlocfilehash: f2d8fe18751f3b3b7dac9af3412c872325e23949
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: 11e672280c3a41e9d73782b13c43d286171de7b1
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42614999"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48369926"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2016"></a>2016의 월별 채널 릴리스에 대 한 릴리스 정보
 
@@ -42,7 +42,7 @@ ms.locfileid: "42614999"
 ### <a name="excel-feature-updates"></a>Excel: 기능 업데이트
 -   **지도 차트:** 값을 비교하고 지역별 범주를 표시합니다. [추가 정보](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 -   **SVG 이미지:** 통합 문서에 SVG(확장 가능한 벡터 그래픽)를 삽입하고 편집합니다. [추가 정보](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **아이콘 삽입:**   삽입 \> 그림 \> 아이콘으로 이동 하 여 SVG (확장 가능한 벡터 그래픽) 파일의 표준 라이브러리에 있는 아이콘을 사용 합니다. [추가 정보](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **아이콘 삽입:**   일러스트레이션 삽입 아이콘으로 이동 하 여 SVG (확장 가능한 벡터 그래픽) 파일의 표준 라이브러리에 있는 아이콘을 사용 \> \> 합니다. [추가 정보](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **최근 폴더에 저장:** 파일 \> 다른 이름으로 저장으로 이동한 후 최근에 사용한 항목 탭을 사용하여 최근에 사용한 폴더에 통합 문서를 저장합니다.
 -   **향상된 내게 필요한 옵션:** 키보드, 내레이터 및 기타 보조 기술을 사용하여 통합 문서를 읽고 편집할 수 있도록 지원이 향상되었습니다. [추가 정보](https://support.office.com/article/51fcb17a-b15b-4b13-ae04-d4f38ece3f78)
 
@@ -54,12 +54,12 @@ ms.locfileid: "42614999"
 
 ### <a name="outlook-feature-updates"></a>Outlook: 기능 업데이트
 -   **SVG 이미지:** 전자 메일에 SVG(확장 가능한 벡터 그래픽)를 삽입하고 편집합니다. [추가 정보](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **아이콘 삽입:**   삽입 \> 그림 \> 아이콘으로 이동 하 여 SVG (확장 가능한 벡터 그래픽) 파일의 표준 라이브러리에 있는 아이콘을 사용 합니다.   [추가 정보](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **아이콘 삽입:**   일러스트레이션 삽입 아이콘으로 이동 하 여 SVG (확장 가능한 벡터 그래픽) 파일의 표준 라이브러리에 있는 아이콘을 사용 \> \> 합니다.  [ 추가 정보](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **누를 항목:** 조직 관련 문서에서 콘텐츠를 찾아 다시 사용합니다. [추가 정보](https://support.office.com/article/860118fc-1f61-41f6-922f-40084a284658)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 기능 업데이트
 -   **SVG 이미지:** 프레젠테이션에 SVG(확장 가능한 벡터 그래픽)를 삽입하고 편집합니다. [추가 정보](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **아이콘 삽입:**   삽입 \> 그림 \> 아이콘으로 이동 하 여 SVG (확장 가능한 벡터 그래픽) 파일의 표준 라이브러리에 있는 아이콘을 사용 합니다. [추가 정보](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **아이콘 삽입:**   일러스트레이션 삽입 아이콘으로 이동 하 여 SVG (확장 가능한 벡터 그래픽) 파일의 표준 라이브러리에 있는 아이콘을 사용 \> \> 합니다. [추가 정보](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **공동 작성 시 실시간 입력:** 다른 사용자가 프레젠테이션에서 작업 중인 위치를 확인 하 고 입력 시 변경 내용을 확인 합니다. [추가 정보](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
 -   **최근 폴더에 저장:** 파일 \> 다른 이름으로 저장으로 이동한 후 최근에 사용한 항목 탭을 사용하여 최근에 사용한 폴더에 프레젠테이션을 저장합니다.
 -   **정확한 잉크 개체 만들기:** 세그먼트 지우개를 끌어 가장 가까운 선까지 불필요한 잉크를 제거합니다.
@@ -81,7 +81,7 @@ ms.locfileid: "42614999"
 
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business: 기능 업데이트
 
--   **Ui를 "공유"로 업데이트:** "프레젠테이션 데스크톱"을 "화면 공유" 및 "현재 프로그램"을 "공유 창"으로 변경 하는 것과 같은 ui 요소의 "현재 상태"를 "공유"로 변경 합니다.
+-   **UI를 "Share"로 업데이트 합니다.**   "현재 데스크톱"을 "화면 공유" 및 "현재 프로그램"을 "공유 창"으로 변경 하는 것과 같은 UI 요소에서 "Present"를 "Share"로 변경 합니다.
 -   **"내 번호" 사용 안 함:** DisableDisplayMyNumber 레지스트리 항목을 사용하여 다이얼 패드에서 "내 번호"를 사용하지 않도록 설정합니다.
 
 ### <a name="skype-for-business-non-security-updates"></a>비즈니스용 Skype: 비보안 업데이트
@@ -119,7 +119,7 @@ ms.locfileid: "42614999"
 
 ### <a name="word-feature-updates"></a>Word: 기능 업데이트
 -   **SVG 이미지:** 문서에 SVG(확장 가능한 벡터 그래픽)를 삽입하고 편집합니다. [추가 정보](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **아이콘 삽입:**   삽입 \> 그림 \> 아이콘으로 이동 하 여 SVG (확장 가능한 벡터 그래픽) 파일의 표준 라이브러리에 있는 아이콘을 사용 합니다.   [추가 정보](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **아이콘 삽입:**   일러스트레이션 삽입 아이콘으로 이동 하 여 SVG (확장 가능한 벡터 그래픽) 파일의 표준 라이브러리에 있는 아이콘을 사용 \> \> 합니다.  [ 추가 정보](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **최근 폴더에 저장:** 파일 \> 다른 이름으로 저장으로 이동한 후 최근에 사용한 항목 탭을 사용하여 최근에 사용한 폴더에 문서를 저장합니다.
 -   **학습 도구를 사용한 읽기 개선:** 읽기 모드에서 문서를 큰 소리로 읽을 때 텍스트 간격을 조정하고, 음절 사이에 구분선을 표시하고, 각 단어를 강조함으로써 읽기 기술을 높이는 새 명령이 추가되었습니다. [추가 정보](https://support.office.com/article/29efa413-e2da-4cac-b2a5-2defc6d34fd9)
 -   **향상된 내게 필요한 옵션:** 키보드, 내레이터 및 기타 보조 기술을 사용하여 문서를 읽고 편집할 수 있도록 지원이 향상되었습니다. [추가 정보](https://support.office.com/article/69aed572-336e-4722-a97e-23393cc481b2)
@@ -279,7 +279,7 @@ ms.locfileid: "42614999"
 -   태그를 검색하는 경우 태그 요약 창에서 텍스트 줄의 여러 태그 중 첫 번째 태그만 표시되는 문제를 해결합니다.
 
 ### <a name="outlook-feature-updates"></a>Outlook: 기능 업데이트
--   ** \@멘 션:** 받는 사람에 게 전자 메일 또는 일정 항목의 본문에 대 한 사용자 이름 앞에 @ 기호를 포함 하 여 입력 또는 작업을 요청 하 고 있음을 알려야 합니다. 이렇게 해당 사람이 받는 사람 줄에 자동으로 추가됩니다. [추가 정보](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
+-   ** \@ 멘 션:** 받는 사람에 게는 전자 메일 또는 일정 항목의 본문에 대 한 사용자 이름 앞에 @ 기호를 포함 하 여 입력 또는 작업을 요청 하 고 있음을 알려야 합니다. 이렇게 해당 사람이 받는 사람 줄에 자동으로 추가됩니다. [추가 정보](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
 
 ### <a name="outlook-non-security-updates"></a>Outlook: 비보안 업데이트
 -   사용자 지정 편지지를 기본 테마로 사용할 경우 새 전자 메일 메시지에 필요 없는 줄 바꿈이 추가되고 글꼴이 Calibri로 설정되는 문제를 해결합니다.

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 앱에 대한 월 단위 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: dffa5844311575083938e0e521280c0dcae6c7dd
-ms.sourcegitcommit: 98c502abe92df8183e816225934bd70f6940e935
+ms.openlocfilehash: 0cc64d47a2e30409e6186e41a129ea6fb8512076
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48297171"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48370156"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>2020년 현재 채널 릴리스에 대한 릴리스 정보
 
@@ -59,7 +59,7 @@ ms.locfileid: "48297171"
 
 ### <a name="teams"></a>Teams
 
-- **Microsoft Teams에서 파일 공유** [자세한 내용](https://docs.microsoft.com/ko-KR/MicrosoftTeams/sharing-files-in-teams)
+- **Microsoft Teams에서 파일 공유** [자세한 내용](https://docs.microsoft.com/MicrosoftTeams/sharing-files-in-teams)
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -1304,7 +1304,7 @@ ms.locfileid: "48297171"
 
 - **모든 사용자를 위한 프레젠테이션 최적화: ** 접근성 검사기는 기능은 스크린 리더를 염두에 두고 슬라이드에서 개체를 정렬하는데 도움을 줍니다.
 
-- **GIF 즉시 만들기:** 하나의 슬라이드, 하나의 프레임. PowerPoint에서 쉽게 루핑 GIF를 만들 수 있습니다. [자세한 정보](https://support.office.com/ko-KR/article/a598753e-92de-4f1b-8393-714db4d334b4)
+- **GIF 즉시 만들기:** 하나의 슬라이드, 하나의 프레임. PowerPoint에서 쉽게 루핑 GIF를 만들 수 있습니다. [자세한 정보](https://support.office.com/en-us/article/a598753e-92de-4f1b-8393-714db4d334b4)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 

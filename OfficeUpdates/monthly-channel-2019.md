@@ -1,20 +1,20 @@
 ---
 title: 2019년 월별 채널 릴리스에 대한 릴리스 정보
-ms.author: andrewmo
+ms.author: anankani
 author: anankani
-manager: andrewmo
+manager: anankani
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 1a4652ad9d7b3ec8150bc8e0b07cf65cdbfca864
-ms.sourcegitcommit: 2474d341cb1c1c2e0b43b5c324345d853e192c59
+ms.openlocfilehash: 88dca91031e19422e076e50674d0ada3968af135
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44565063"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48369936"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -22,12 +22,12 @@ ms.locfileid: "44565063"
 
  > [!NOTE]
 >- Microsoft는 일정 기간 동안 매월 기능(및 경우에 따라 수정 사항)을 롤아웃합니다.  아래에서 설명했던 내용이 바로 보이지 않으면 곧 예측할 수 있습니다. [자세한 정보](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
->- Office 365 ProPlus의 기존 설치에 대한 Microsoft Temas - 7월 초부터 Office 365 ProPlus(및 Office 365 Business)의 업데이트에 Microsoft Teams가 포함됩니다.  Teams가 추가되는 날짜는 사용 중인 업데이트 채널에 따라 다릅니다. 추가 정보는 [Office 365 ProPlus를 사용한 Microsoft Teams 배포](https://docs.microsoft.com/DeployOffice/teams-install)를 참조하세요.
+>- Office 365 ProPlus의 기존 설치에 대한 Microsoft Temas - 7월 초부터 Office 365 ProPlus(및 Office 365 Business)의 업데이트에 Microsoft Teams가 포함됩니다.  Teams가 추가되는 날짜는 사용 중인 업데이트 채널에 따라 다릅니다. 추가 정보는 [Office 365 ProPlus를 사용한 Microsoft Teams 배포](https://docs.microsoft.com/deployoffice/teams-install)를 참조하세요.
 
 ## <a name="version-1911-december-10"></a>버전 1911: 12월 10일
 *버전 1911 (빌드 12228.20364)*
 
-나열된 보안 업데이트는 [여기](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
+나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
@@ -119,7 +119,7 @@ ms.locfileid: "44565063"
 ## <a name="version-1910-november-12"></a>버전 1910: 11월 12일
 *버전 1910 (빌드 12130.20344)*
 
-나열된 보안 업데이트는 [여기](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
+나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -179,7 +179,7 @@ ms.locfileid: "44565063"
 
 ### <a name="office-suite"></a>Office 제품군
 
-- **Office 365 ProPlus의 기존의 설치에 Microsoft Teams를 설치** 6월말부터 Microsoft Teams가 Office 365 ProPlus(및 Office 365 Business)의 기존 설치에 업데이트를 설치 시 포함됩니다. Teams가 추가되는 날짜는 사용 중인 업데이트 채널에 따라 다릅니다. 추가 정보는 Office 365 ProPlus에 Microsoft Teams 배포를 참조하세요. [자세한 정보](https://docs.microsoft.com/DeployOffice/teams-install)
+- **Office 365 ProPlus의 기존의 설치에 Microsoft Teams를 설치** 6월말부터 Microsoft Teams가 Office 365 ProPlus(및 Office 365 Business)의 기존 설치에 업데이트를 설치 시 포함됩니다. Teams가 추가되는 날짜는 사용 중인 업데이트 채널에 따라 다릅니다. 추가 정보는 Office 365 ProPlus에 Microsoft Teams 배포를 참조하세요. [자세한 정보](https://docs.microsoft.com/deployoffice/teams-install)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
@@ -222,7 +222,7 @@ ms.locfileid: "44565063"
 ## <a name="version-1909-october-08"></a>버전 1909: 10월 8일
 *버전 1909 (빌드 12026.20320)*
 
-보안 업데이트는 [여기](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)에 나열되어 있습니다.
+보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열되어 있습니다.
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
@@ -334,7 +334,7 @@ ms.locfileid: "44565063"
 ## <a name="version-1908-september-10"></a>버전 1908: 9월 10일
 *버전 1908 (빌드 11929.20300)*
 
-보안 업데이트가 [여기](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)에 나열되어 있습니다.
+보안 업데이트가 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열되어 있습니다.
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
@@ -400,7 +400,7 @@ ms.locfileid: "44565063"
 ## <a name="version-1907-august-13"></a>버전 1907: 8월 13일
 *버전 1907 (빌드 11901.20218)*
 
-보안 업데이트가 [여기](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)에 나열되어 있습니다.
+보안 업데이트가 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열되어 있습니다.
 
 ### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트
 
@@ -454,7 +454,7 @@ ms.locfileid: "44565063"
 ## <a name="version-1906-july-09"></a>버전 1906: 7월 9일
 *버전 1906 (빌드 11727.20244)*
 
-나열된 보안 업데이트는 [여기](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
+나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ### <a name="outlook-non-security-updates"></a>Outlook: 비보안 업데이트
 
@@ -520,7 +520,7 @@ ms.locfileid: "44565063"
 
 ## <a name="version-1905-june-11"></a>버전 1905: 6월 11일
 *버전 1905(빌드 11629.20246)*
-<br/>나열된 보안 업데이트는 [여기](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
+<br/>나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트
 

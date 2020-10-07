@@ -1,8 +1,8 @@
 ---
 title: Microsoft 365 앱 업데이트에 대한 릴리스 정보
-ms.author: andrewmo
+ms.author: anankani
 author: andymosten
-manager: andrewmo
+manager: anankani
 ms.date: 7/23/2019
 ms.audience: ITPro
 ms.topic: reference
@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 업데이트 채널별 Microsoft 365 앱의 최신 릴리스 및 릴리스 정보와 업데이트 기록에 대한 링크 목록을 IT 전문가에게 제공합니다.
-ms.openlocfilehash: e82c61c32af89e0be6406a0680e83f6afef6864d
-ms.sourcegitcommit: d8a7a35f1f685d01fbdd1780890737897364935a
+ms.openlocfilehash: da1785c6d08afec30753b97d633f3baa9fbd209b
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "44695561"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48370136"
 ---
 # <a name="release-information-for-updates-to-microsoft-365-apps"></a>Microsoft 365 앱 업데이트에 대한 릴리스 정보
 
@@ -64,7 +64,7 @@ Microsoft 365 앱을 포함하는 모든 Microsoft 365 구독 플랜에 포함�
 
 ## <a name="related-topics"></a>관련 항목
 
-- [Microsoft 365 앱의 업데이트 채널 개요](https://docs.microsoft.com/deployoffice/overview-of-update-channels-for-office-365-proplus)
+- [Microsoft 365 앱의 업데이트 채널 개요](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
 - [Office 배포](https://docs.microsoft.com/deployoffice/)
 - [Microsoft 365 앱의 새로운 기능](https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426)
 - [Microsoft 365 앱 로드맵](https://products.office.com/business/office-365-roadmap)

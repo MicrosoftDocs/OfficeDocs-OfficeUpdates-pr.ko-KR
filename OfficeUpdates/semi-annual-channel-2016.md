@@ -1,8 +1,8 @@
 ---
 title: 2016 년 반기 채널 릴리스에 대 한 릴리스 정보
-ms.author: andrewmo
+ms.author: anankani
 author: andymosten
-manager: andrewmo
+manager: anankani
 ms.date: 12/13/2016
 ms.audience: ITPro
 ms.topic: reference
@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: 2016의 Office 365 ProPlus에 대 한 반기 채널 릴리스에 대 한 릴리스 정보를 IT 전문가에 게 제공 합니다.
-ms.openlocfilehash: b70dda115d271a4ec0779c4b99927275dae7969d
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: 749a68d693a3f962d547bc2f8cb257fba5e70370
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42615032"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48370146"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2016"></a>2016 년 반기 채널 릴리스에 대 한 릴리스 정보
 
