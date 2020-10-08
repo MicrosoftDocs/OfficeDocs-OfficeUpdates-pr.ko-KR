@@ -1,8 +1,8 @@
 ---
 title: 2018년 반기 채널 릴리스에 대한 릴리스 정보
-ms.author: andrewmo
+ms.author: anankani
 author: andymosten
-manager: andrewmo
+manager: anankani
 ms.date: 12/13/2018
 ms.audience: ITPro
 ms.topic: reference
@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2018년 Office 365 ProPlus에 대한 반기 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: ab7cdeb05800c0f98f97bf895f1c88c167075ff9
-ms.sourcegitcommit: 45f5df6186e148390dac8910bb6e728a618589b2
+ms.openlocfilehash: 62c342fc8e2d8829398377dd0611e101f4a01fac
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "44163550"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48370126"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2018"></a>2018년 반기 채널 릴리스에 대한 릴리스 정보
 

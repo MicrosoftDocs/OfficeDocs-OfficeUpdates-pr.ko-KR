@@ -1,9 +1,9 @@
 ### YamlMime:Landing
 title: Office 업데이트
-summary: Microsoft 365 앱, Mac 용 Office, Office Server 제품 및 정품 버전을 포함 하는 Office 제품 업데이트에 대 한 정보를 확인 하세요.
+summary: Microsoft 365 앱, Office for Mac, Office Server 제품 및 Office의 영구 버전을 비롯한 Office 제품의 기능, 업데이트에 대한 정보를 확인할 수 있습니다.
 metadata:
   title: Office 업데이트
-  description: Microsoft 365 앱, Mac 용 Office, Office Server 제품 및 정품 버전을 포함 하는 Office 제품 업데이트에 대 한 정보를 확인 하세요.
+  description: Microsoft 365 앱, Office for Mac, Office Server 제품 및 Office의 영구 버전을 비롯한 Office 제품의 기능, 업데이트에 대한 정보를 확인할 수 있습니다.
   ms.service: o365-proplus-itpro
   manager: andrewmo
   ms.audience: ITPro
@@ -12,12 +12,12 @@ metadata:
   author: TimDavenport
   ms.author: andrewmo
   ms.date: 06/18/2020
-  ms.openlocfilehash: c8b117874eca2923172290475e6ce7cad5894b1c
-  ms.sourcegitcommit: 75dd224cc25daf9e0dae2056ea7d53e7e7e790e3
-  ms.translationtype: MTPE
+  ms.openlocfilehash: 01f52a9d26307a582896969a567055f9107df572
+  ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 06/23/2020
-  ms.locfileid: "44854584"
+  ms.lasthandoff: 10/07/2020
+  ms.locfileid: "48369966"
 landingContent:
 - title: Microsoft 365 앱
   linkLists:
@@ -37,9 +37,9 @@ landingContent:
     links:
     - text: 릴리스 노트(Microsoft 365, 2019)
       url: release-notes-office-for-mac.md
-    - text: 업데이트 기록(Microsoft 365, 2019)
+    - text: 업데이트 이력(Microsoft 365, 2019)
       url: update-history-office-for-mac.md
-    - text: 릴리스 정보(2016)
+    - text: 릴리스 노트(2016)
       url: release-notes-office-2016-mac.md
     - text: MAU 릴리스
       url: release-history-microsoft-autoupdate.md
@@ -55,11 +55,11 @@ landingContent:
       url: sharepoint-updates.md
     - text: 비즈니스용 Skype 서버 업데이트
       url: https://docs.microsoft.com/SkypeForBusiness/sfb-server-updates
-- title: Office (정품 라이선스)
+- title: Office(영구 라이선스)
   linkLists:
   - linkListType: overview
     links:
-    - text: Office 2016 및 2019 (C2R)
+    - text: Office 2016 및 2019(C2R)
       url: update-history-office-2019.md
     - text: Office 2010, 2013 및 2016 업데이트(MSI)
       url: office-updates-msi.md
@@ -75,7 +75,7 @@ landingContent:
       url: https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426
     - text: Microsoft 365 로드맵
       url: https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=O365
-    - text: Microsoft 365 변경 사항 맨 위에 유지
+    - text: Microsoft 365 변경 내용 관리
       url: https://support.office.com/article/719f4904-cbdd-4889-a0cf-fbd7837dfecd
     - text: Office 블로그
       url: https://www.microsoft.com/microsoft-365/blog/office/
@@ -87,7 +87,7 @@ landingContent:
       url: https://www.microsoft.com/itpro/windows-10/release-information
     - text: Microsoft 수명 주기 정책
       url: https://support.microsoft.com/lifecycle
-    - text: Microsoft 보안 업데이트 가이드
+    - text: Microsoft Security 업데이트 가이드
       url: https://portal.msrc.microsoft.com/
     - text: Microsoft 기술 커뮤니티
       url: https://techcommunity.microsoft.com/

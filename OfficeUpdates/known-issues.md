@@ -1,6 +1,6 @@
 ---
 title: Office 365 ProPlus의 알려진 문제
-ms.author: andrewmo
+ms.author: anankani
 author: anankani
 manager: andrewmo
 ms.audience: ITPro
@@ -9,14 +9,14 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus의 알려진 문제에 대한 정보를 제공합니다.
-ms.openlocfilehash: 45464d14ecfbf849929daba122b0a57bc74d05c5
-ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
+ms.openlocfilehash: eb771e0584a76f4ab4d506987a6b2379cc7087ee
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715436"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48369946"
 ---
-# <a name="office-365-proplus-known-issues"></a>Office 365 ProPlus의 알려진 문제
+# <a name="microsoft-365-apps-known-issues"></a>Microsoft 365 앱 알려진 문제
 
 이러한 알려진 문제는 엔터프라이즈용 Microsoft 365 앱, 비즈니스용 Microsoft 365 앱, Project와 Visio 데스크톱 앱의 구독 버전에 대한 2019년 월 단위 채널, 반기 채널(대상 지정), 반기 채널 업데이트에 포함된 비보안 업데이트 관련 정보를 제공합니다.
 

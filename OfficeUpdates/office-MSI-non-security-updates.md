@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Office 2016, Office 2013 및 Office 2010 영구 버전의 최신 비보안 업데이트 정보에 대한 링크를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 53d2533ecb240ad91b77662f3586804cf68f6cc9
-ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
+ms.openlocfilehash: fe1e5347280edc069ad769b543b3e259012dceab
+ms.sourcegitcommit: 3687214921cd454de794fe95f38a7bcc6782873a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48174527"
+ms.lasthandoff: 10/06/2020
+ms.locfileid: "48367795"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Windows Installer(MSI)를 사용하는 Office 버전에 대한 최신 비보안 업데이트
 
@@ -25,6 +25,13 @@ ms.locfileid: "48174527"
 > - 이 문서의 정보는 Microsoft 365 앱에 적용되지 않습니다.
 > - Office 업데이트 설치에 대한 자세한 내용은 [Office 업데이트 설치](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)를 참조하세요.
 <br/><br/>
+
+## <a name="october-6-2020"></a>2020년 10월 6일
+**Office 2016**<br/>
+Microsoft Office 2016에 대한 업데이트([KB4475584](https://support.microsoft.com/help/4475584))<br/>
+Microsoft Project 2016에 대한 업데이트([KB4484502](https://support.microsoft.com/help/4484502))<br/>
+Microsoft Visio 2016에 대한 업데이트([KB4484333](https://support.microsoft.com/help/4484333))<br/>
+비즈니스용 Skype 2016에 대한 업데이트([KB4486669](https://support.microsoft.com/help/4486669))<br/> 
 
 ## <a name="september-1-2020"></a>2020년 9월 1일
 **Office 2016**<br/>
@@ -76,15 +83,6 @@ Microsoft Office 2016에 대한 업데이트([KB4484339](https://support.microso
 
 **Office 2013**<br/>
 비즈니스용 Skype 2015에 대한 업데이트([KB4484289](https://support.microsoft.com/help/4484289))<br/>
-
-## <a name="april-7-2020"></a>2020년 4월 7일
-
-**Office 2016**<br/>
-Microsoft Office 2016에 대한 업데이트([KB4484101](https://support.microsoft.com/help/4484101))<br/>
-Microsoft Office 2016에 대한 업데이트([KB4484106](https://support.microsoft.com/help/4484106))<br/>
-Microsoft Office 2016에 대한 업데이트([KB4484248](https://support.microsoft.com/help/4484248))<br/>
-Microsoft Office 2016에 대한 업데이트([KB4475586](https://support.microsoft.com/help/4475586))<br/>
-Microsoft Office 2016에 대한 업데이트([KB4484286](https://support.microsoft.com/help/4484286)) <br/>
 
 <br/>
 
