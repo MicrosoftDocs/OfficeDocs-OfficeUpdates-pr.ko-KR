@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 앱에 대한 월 단위 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 0cc64d47a2e30409e6186e41a129ea6fb8512076
-ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
+ms.openlocfilehash: c9d58f34f90b8fac9d765ebc0242c49c169e72ff
+ms.sourcegitcommit: 01f34ec0267eb63ffb29045cca4d0a4520256ad0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/07/2020
-ms.locfileid: "48370156"
+ms.lasthandoff: 10/09/2020
+ms.locfileid: "48398403"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>2020년 현재 채널 릴리스에 대한 릴리스 정보
 
@@ -32,6 +32,36 @@ ms.locfileid: "48370156"
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2009-october-08"></a>버전 2009: 10월 8일
+*버전 2009(빌드 13231.20368)*
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="outlook"></a>Outlook
+
+- 캐시되지 않은 공유 일정을 검색할 때 검색에서 결과가 반환되지 않도록 하는 문제를 해결했습니다.
+
+
+- 일부 사용자가 예기치 않게 오프라인 상태에서 Outlook을 관찰하게 한 문제를 해결했습니다.
+
+
+- 다른 사서함에서 공유 폴더를 열 때 딜러가 간헐적으로 오류를 발견하게 한 문제를 해결했습니다.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 제한된 보기에서 PowerPoint 파일을 열 때 IRM 보호를 사용하지 않도록 설정한 문제를 해결하기 위한 보안 수정입니다.
+
+
+### <a name="office-suite"></a>Office 제품군
+
+- 사용자가 사무실 잉크젯 프린터에서 잉크젯 프린터의 문서/파일을 인쇄할 때 잉크젯 프린터에 토너가 없더라도 "토너 부족" 또는 "토너 없음" 메시지가 표시됩니다. 메시지를 변경하여 "토너/링크 부족" 및 "토너/링크 없음"을 표시합니다.
 
 
 
@@ -1304,7 +1334,7 @@ ms.locfileid: "48370156"
 
 - **모든 사용자를 위한 프레젠테이션 최적화: ** 접근성 검사기는 기능은 스크린 리더를 염두에 두고 슬라이드에서 개체를 정렬하는데 도움을 줍니다.
 
-- **GIF 즉시 만들기:** 하나의 슬라이드, 하나의 프레임. PowerPoint에서 쉽게 루핑 GIF를 만들 수 있습니다. [자세한 정보](https://support.office.com/en-us/article/a598753e-92de-4f1b-8393-714db4d334b4)
+- **GIF 즉시 만들기:** 하나의 슬라이드, 하나의 프레임. PowerPoint에서 쉽게 루핑 GIF를 만들 수 있습니다. [자세한 정보](https://support.office.com/ko-KR/article/a598753e-92de-4f1b-8393-714db4d334b4)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
@@ -1341,6 +1371,7 @@ ms.locfileid: "48370156"
 > Office를 사용하는 데 발생한 문제에 대해 도움이 필요하면 [Microsoft의 Answers 포럼](https://answers.microsoft.com/) 또는 [기술 커뮤니티](https://techcommunity.microsoft.com/)에 질문을 게시하거나 [지원 서비스](https://support.microsoft.com/contactus)에 문의할 수 있습니다.
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|CC|Production| |16.0.13231.20368|version-2009-october-08|)
 [//]: # (|Win32|CC|Production| |16.0.13231.20262|version-2009-september-28|)
 [//]: # (|Win32|CC|Production| |16.0.13127.20508|version-2008-september-22|)
 [//]: # (|Win32|CC|Production| |16.0.13127.20408|version-2008-september-09|)
@@ -1350,5 +1381,4 @@ ms.locfileid: "48370156"
 [//]: # (|Win32|CC|Production| |16.0.13029.20308|version-2007-july-30|)
 [//]: # (|Win32|CC|Production| |16.0.13001.20498|version-2006-july-28|)
 [//]: # (|Win32|CC|Production| |16.0.13001.20384|version-2006-july-14|)
-[//]: # (|Win32|CC|Production| |16.0.13001.20266|version-2006-june-30|)
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 끝)

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 이후 참가자 대상 그룹에게 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 1bafe7aada2fc74fa57c2e5344deb6605db9cebe
-ms.sourcegitcommit: a543668818e709f17019d13f7e094c8cae33433a
+ms.openlocfilehash: e481bdbb11579efd8de903f1099038faf9a1c8e2
+ms.sourcegitcommit: 3e406a2082be4a9c922f3f7143b4ad3850a08181
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48368711"
+ms.lasthandoff: 10/08/2020
+ms.locfileid: "48382717"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 현재 채널(미리 보기)에 대한 릴리스 정보
 
@@ -27,6 +27,52 @@ ms.locfileid: "48368711"
 > - 릴리스 정보 게시 날짜는 실제 빌드 릴리스 날짜와 일치하지 않을 수 있습니다.
 
 [//]: # (제거하지 마세요)
+
+## <a name="version-2009-october-07"></a>버전 2009: 10월 7일
+*버전 2009(빌드 13231.20360)*
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="excel"></a>Excel
+
+- **파워 쿼리를 사용하여 데이터 형식 만들기:** 모든 데이터 원본에서 파워 쿼리로 다양한 데이터 형식을 만듭니다
+
+### <a name="outlook"></a>Outlook
+
+- **문법 검사를 도움:** Outlook에서 사용자가 입력할 때 문법 오류를 표시하여 클릭 한 번으로 제안을 적용할 수 있습니다. <br />[블로그 게시물](https://insider.office.com/ko-KR/blog/grammar-and-style-suggestions-available-in-outlook)에서 세부 정보 보기
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="outlook"></a>Outlook
+
+- 캐시되지 않은 공유 일정을 검색할 때 검색에서 결과가 반환되지 않는 문제를 해결했습니다.
+
+
+- 일부 사용자가 예기치 않게 오프라인 상태에서 Outlook이 시작되는 것을 관찰하게 한 문제를 해결했습니다.
+
+
+- 다른 사서함에서 공유 폴더를 열 때 대리인이 간헐적으로 오류를 발견하게 한 문제를 해결했습니다.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 제한된 보기에서 PowerPoint 파일을 열 때 IRM 보호를 사용하지 않도록 설정한 문제를 해결하기 위한 보안 수정입니다.
+
+
+### <a name="office-suite"></a>Office 제품군
+
+- Office에서 사용자가 잉크젯 프린터로 문서/파일을 인쇄하고 프린터의 잉크가 부족하면, 잉크젯 프린터에 토너가 없더라도 "토너 부족" 또는 "토너 없음" 메시지가 표시됩니다. 메시지를 변경하여 "토너/잉크 부족" 및 "토너/잉크 없음"으로 표시합니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2009-september-26"></a>버전 2009: 9월 26일
 *버전 2009(빌드 13231.20262)*
@@ -42,7 +88,6 @@ ms.locfileid: "48368711"
 ### <a name="project"></a>Project
 
 - 이벤트 코드를 실행 중이고 작업 폼 보기를 통하여 변경을 하려고 하는 경우, 확인 단추를 클릭하면 변경 내용이 커밋되지 않는 문제를 해결했습니다.
-
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
