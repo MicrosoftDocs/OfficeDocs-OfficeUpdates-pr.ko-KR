@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 594acccf4870613399a10f74233fd5a1b3c68237
-ms.sourcegitcommit: a543668818e709f17019d13f7e094c8cae33433a
+ms.openlocfilehash: 0de6ff1bec677f614284253708171f321b973f17
+ms.sourcegitcommit: 38049d061041fd0c40ccd138d7eeea6767e5d262
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48368701"
+ms.lasthandoff: 10/09/2020
+ms.locfileid: "48409072"
 ---
 # <a name="release-notes-for-beta-channel"></a>베타 채널용 릴리스 정보
 
@@ -31,7 +31,80 @@ ms.locfileid: "48368701"
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-## <a name="version-2010-october-02"></a>버전 2010: 10월 02일
+## <a name="version-2011-october-09"></a>버전 2011: 10월 9일
+*버전 2011(빌드 13406.20000)*
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="excel"></a>Excel
+
+- **쿼리에서 Power Platform 데이터 흐름 만들기:** 이제 새 Power Platform 데이터 흐름을 만드는 데 사용할 수 있는 파워 쿼리 템플릿으로 쿼리를 내보낼 수 있습니다.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **범위 내에서 애니메이션 GIF 내보내기:** 애니메이션 GIF로 내보낼 때 슬라이드 범위 선택
+
+- **투명 한 배경으로 Gif 만들기:** 애니메이션 GIF로 내보낼 때 새 옵션을 사용하여 배경을 투명하게 만들 수 있습니다.
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- COM 추가 기능을 사용하도록 설정하여 다른 이름으로 저장 작업 후 파일 이름이 변경되지 않는 문제를 해결했습니다.
+
+
+- Excel 데이터 모델에 잘못된 측정값이 정의된 경우, 잘못된/오해의 소지가 있는 오류 메시지와 함께 자동 저장에 실패하는 문제를 해결했습니다.
+
+
+- 프리젠테이션 영역을 확대/축소하여 확대된 선택 영역과 마우스 포인터 사이에 간격이 생긴 문제를 해결했습니다.
+
+
+### <a name="outlook"></a>Outlook
+
+- 이미지 첨부 파일에 대한 빠른 인쇄에서 다음 오류 메시지가 발생하는 문제를 해결했습니다. “Windows에서 이 그림을 찾을 수 없습니다. 위치를 확인한 후 다시 시도하세요".
+
+
+- 일부 사용자가 온라인으로 작업하기 위해 수동으로 선택할 때까지 Outlook이 오프라인 상태에서 시작하는 문제를 해결했습니다.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 프레젠테이션 영역을 확대/축소할 경우 확대된 선택 영역과 마우스 포인터 사이에 간격이 생기는 문제를 해결했습니다.
+
+
+### <a name="project"></a>Project
+
+- 작업 양식 유형 보기에서 간격이 변경되는 경우 ProjectBeforeTaskChagne 이벤트의 NewVal에 올바른 값이 없는 문제를 해결했습니다.
+
+
+- 프로젝트 사이트에 작업 목록이 있고 작업 목록을 그룹화한 경우, 작업 목록을 빠르게 편집할 수 없는 문제를 해결했습니다.
+
+
+- CSOM을 통해 엔터프라이즈 리소스를 업데이트하는 경우, 리소스 최대 단위가 손실될 수 있는 문제를 해결했습니다.
+
+
+### <a name="word"></a>Word
+
+- 프리젠테이션 영역을 확대/축소하여 확대된 선택 영역과 마우스 포인터 사이에 간격이 생긴 문제를 해결했습니다.
+
+
+### <a name="office-suite"></a>Office 제품군
+
+- SSO API 대화형 로그인이 오류 코드를 반환하는 문제를 해결했습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2010-october-02"></a>버전 2010: 10월 2일
 *버전 2010(버전 13328.20000)*
 
 
@@ -1586,6 +1659,7 @@ ms.locfileid: "48368701"
 
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13406.20000|version-2011-october-09|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13328.20000|version-2010-october-02|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13318.20000|version-2010-september-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13312.20006|version-2010-september-18|)
@@ -1595,5 +1669,4 @@ ms.locfileid: "48368701"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13212.20000|version-2009-august-21|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13205.20000|version-2009-august-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13130.20000|version-2009-august-07|)
-[//]: # (|Win32|DevMain|참가자| |16.0.13127.20002|버전-2008-july-31|)
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 끝)
