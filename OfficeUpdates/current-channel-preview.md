@@ -9,24 +9,186 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 이후 참가자 대상 그룹에게 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: e481bdbb11579efd8de903f1099038faf9a1c8e2
-ms.sourcegitcommit: 3e406a2082be4a9c922f3f7143b4ad3850a08181
+ms.openlocfilehash: 46c2e42002bf1df8c4b83b437d64c823e6c12e7a
+ms.sourcegitcommit: 9b9a423f50245a12dfb1917b1a9cdb2e7eca1614
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/08/2020
-ms.locfileid: "48382717"
+ms.lasthandoff: 10/12/2020
+ms.locfileid: "48422557"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 현재 채널(미리 보기)에 대한 릴리스 정보
 
-이 자료에는 Word, Excel, PowerPoint, Outlook, Access 및 Project for Windows 데스크톱의 현재 채널 빌드에 대한 릴리스 정보가 포함되어 있습니다. 매주 Microsoft는 흥미로운 새 기능, 중요한 수정 사항, 여러분에게 알아야 할 중요한 문제를 강조합니다. 일정 기간 동안 기능(때로는 수정)을 현재 채널(미리 보기)에 롤아웃하는 경우가 있습니다. 이로서 더욱 광범위한 사용자들에게 기능을 릴리스하기 전에 원활하게 작동하는지 확인할 수 있습니다. 따라서 아래에 설명된 기능이 보이지 않더라도 곧 제공되게 되므로 걱정할 필요가 없습니다.  
+This article contains release notes for Current Channel (Preview) builds of Word, Excel, PowerPoint, Outlook, Access, and Project for Windows desktop. Every week, we’ll highlight interesting new features, important fixes, and any significant issues we want you to know about. Note that we often roll out features (and sometimes even fixes) to Current Channel (Preview) over a period of time. This allows us to ensure that things are working smoothly before releasing the feature to a wider audience. So, if you don’t see something described below, don't worry you'll get it eventually.  
 
 > [!IMPORTANT]
-> 당사는 Microsoft 365 앱에 대한 업데이트 채널을 일부 변경하고 있습니다. 여기에는 새 업데이트 채널 추가(월별 엔터프라이즈 채널) 및 기존 업데이트 채널의 이름 변경 등이 포함됩니다. 자세한 내용은 [이 문서를 참조](https://go.microsoft.com/fwlink/p/?linkid=2127441)하세요.
+> We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 
 > [!NOTE]
 > - 릴리스 정보 게시 날짜는 실제 빌드 릴리스 날짜와 일치하지 않을 수 있습니다.
 
 [//]: # (제거하지 마세요)
+
+## <a name="version-2010-october-11"></a>버전 2010: 10월 11일
+*버전 2010(빌드 13328.20154)*
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="excel"></a>Excel
+
+- **악의적인 파일로부터 데이터 보호** Application Guard를 사용하여 독립된 컨테이너에서 Office 파일을 읽기, 인쇄 및 저장하여 맬웨어로부터 보호할 수 있습니다. [자세한 정보](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **악의적인 파일로부터 데이터 보호** Application Guard를 사용하여 독립된 컨테이너에서 Office 파일을 읽기, 인쇄 및 저장하여 맬웨어로부터 보호할 수 있습니다. [자세한 정보](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
+
+### <a name="word"></a>Word
+
+- **악의적인 파일로부터 데이터 보호** Application Guard를 사용하여 독립된 컨테이너에서 Office 파일을 읽기, 인쇄 및 저장하여 맬웨어로부터 보호할 수 있습니다. [자세한 정보](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="access"></a>Access
+
+- 스크롤하는 동안 저장된 쿼리/관계 창을 로드하는 경우 스크롤 막대 위치가 제대로 설정되지 않은 문제가 해결되었습니다.
+
+
+- 테이블 추가 작업창에서 '&'를 포함하는 이름을 제대로 표시하지 않는 문제가 해결되었습니다.
+
+
+### <a name="excel"></a>Excel
+
+- 차트에서 다단계 범주 수동 간격이 작동하지 않는 문제가 해결되었습니다.
+
+
+- VBA를 사용하여 계열의 최대값, 중간값 및 최소값에 대한 색을 설정하는 기능이 작동하지 않는 2D 지도 차트의 문제가 해결되었습니다.
+
+
+- "하나 이상의 수식을 계산하는 동안 Excel 리소스를 모두 사용했습니다" 오류가 발생하는 문제를 해결했습니다.
+
+
+- Office 언어를 스페인어로 설정했을 때 데이터 유효성 검사 목록에 목록의 모든 항목이 표시되지 않는 문제가 해결되었습니다.
+
+
+- '페이지 나누기 미리 보기'가 활성화되었을 때 대량의 데이터가 있는 워크시트를 전환할 때 현저한 지연이 발생할 수 있는 문제를 해결했습니다.
+
+
+- 데이터 유효성 검사에 사용되는 테이블을 추가해도 통합 문서에 있는 모든 시트에 대한 옵션이 업데이트되지 않는 문제가 해결되었습니다.
+
+
+- OLAP 피벗 테이블을 새로 고칠 때 중단될 수 있는 문제가 해결되었습니다.
+
+
+- 수식 입력줄을 통해 수식을 입력할 때 일부의 경우에 차트 시트가 충돌하는 문제를 해결했습니다.
+
+
+- 원격 세션 연결/연결 끊기, 모니터 변경 등과 같이 장치 연결이 끊어진 후에 Excel 수식 입력줄이 완전히 렌더링되지 않는 문제를 해결했습니다.
+
+
+### <a name="onenote"></a>OneNote
+
+- 사용자가 OutSpace 파일 > 정보에 있는 텍스트 상자에서 전자 필기장 URL을 선택하고 복사할 수 없는 문제를 해결했습니다.
+
+
+- 사용자가 전자 필기장 색 선택기에서 초록색을 마우스로 가리킨 경우 팝업 창에서 "빨간색 분필"을 읽는 문제가 해결되었습니다.
+
+
+- OneNote가 사용자 지정 테마에 대한 캔버스에서 고대비 색을 적용하지 못하는 문제가 해결되었습니다.
+
+
+### <a name="outlook"></a>Outlook
+
+- 일부 전자 메일의 제목 줄이 비어있는 경우 자동으로 생성된 전자 메일이 이를 빈 본문과 함께 보내는 문제를 해결합니다.
+
+
+- 폴더에 대해 잘못된 폴더 GUID가 캐시되는 문제를 해결했습니다.
+
+
+- 사용자가 전자 메일 주소를 표시 이름으로 받는 사람 필드에 복사하여 붙여 넣는 경우, 전자 메일 주소가 정확하게 구문 분석되지 않았고 잘못된 전자 메일 주소에 대한 경고가 표시되었습니다.  이 문제가 해결되었으므로 이름과 전자 메일 주소가 정확하게 구문 분석되고 경고가 더 이상 표시되지 않습니다.
+
+
+- 온라인 공유 폴더가 상위 폴더 이름을 반환하지 않는 문제를 해결했습니다. 실패하는 대신, 주 계정으로 잘못 이동한 빈 경로가 반환되었습니다.
+
+
+- 클래식 첨부 파일에서 다른 이름으로 저장 옵션을 사용할 수 없는 문제가 해결되었습니다.
+
+
+- 정책을 재정의할 때 사유 텍스트를 사용자 지정할 수 있는 방법을 제공하도록 문제를 해결했습니다.
+
+
+- 읽기 전용 미리 보기 창에서 초안을 다시 연 후에 변경 내용 추적이 켜지는 문제가 해결되었습니다.
+
+
+- 중요 받은 편지함을 끄고 정렬하면 전자 메일이 숨겨지는 문제를 해결했습니다.
+
+
+- 클라우드 설정을 사용하도록 설정한 사용자에 대해 Outlook에서 두 번째 빈 서명을 만드는 문제를 해결되었습니다.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- PDF로 내보낼 때 PowerPoint가 직사각형 글머리 기호를 내보내지 않는 문제를 해결했습니다.
+
+
+- GIF가 편집기 및 슬라이드 쇼에서 한 번만 활성화되는 문제를 해결했습니다.
+
+
+- 사용자가 원본 경로를 로컬 OneDrive 폴더로 변경한 경우 연결된 Excel 차트가 Excel 시트로 잘못 변경되는 문제가 해결되었습니다.
+
+
+- 마지막 슬라이드에 있는 경우와 '세션 종료'를 누른 후와 요약이 표시되기 전에 다음 슬라이드로 살짝 미는 경우, 세션 종료 대화 상자가 요약 페이지에도 표시되는 문제가 해결되었습니다.
+
+
+### <a name="project"></a>Project
+
+- 동일한 프로젝트를 여러 번 추가하고 AttachToSources를 false로 설정하는 경우 ConsolidateProjects VBA 메서드가 실패할 수 있는 문제가 해결되었습니다.
+
+
+- 이벤트 코드를 실행 중이고 작업 폼 보기를 통하여 변경을 하려고 하는 경우, 확인 단추를 클릭하면 변경 내용이 커밋되지 않는 문제를 해결했습니다.
+
+
+- 동일한 프로젝트를 여러 번 추가하고 AttachToSources를 false로 설정하는 경우 ConsolidateProjects VBA 메서드가 실패할 수 있는 문제가 해결되었습니다.
+
+
+- 수식이 포함된 사용자 지정 필드가 있고 획득 가치를 사용하는 경우, 보기를 전환하고 프로젝트/작업 세부 정보를 열 때 성능이 저하될 수 있는 문제가 해결되었습니다.
+
+
+- 자원 배정 현황 또는 시트 보기에 그룹화 기준을 적용한 후 열을 삽입하는 경우 Project가 중단될 수 있는 문제가 해결되었습니다.
+
+
+### <a name="word"></a>Word
+
+- 워크플로를 사용하도록 설정한 파일에 대한 링크가 정상적으로 열리지 않는 문제가 해결되었습니다.
+
+
+- 추적된 변경 내용(삽입/삭제)을 탭하면 메모가 표시되는 문제가 해결되었습니다.
+
+
+- Word에서 메모 설명선을 삭제할 때 발생하는 문제가 해결되었습니다.
+
+
+- 메시지가 전달 금지로 설정된 Outlook 에 발생하는 문제를 해결했습니다.
+
+
+- 인용문과 수식이 포함된 Word 문서를 저장할 때 발생하는 문제가 해결되었습니다.
+
+
+- 스타일 갤러리 대화 상자와 관련된 문제를 해결했습니다.
+
+
+### <a name="office-suite"></a>Office 제품군
+
+- Office에서 사용자가 잉크젯 프린터로 문서/파일을 인쇄하고 프린터의 잉크가 부족하면, 잉크젯 프린터에 토너가 없더라도 "토너 부족" 또는 "토너 없음" 메시지가 표시됩니다. 메시지를 변경하여 "토너/잉크 부족" 및 "토너/잉크 없음"으로 표시합니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2009-october-07"></a>버전 2009: 10월 7일
 *버전 2009(빌드 13231.20360)*
