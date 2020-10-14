@@ -13,12 +13,12 @@ ms.collection:
 - RelNotes_Server
 ms.assetid: 4b32dfba-1af6-4077-9a92-7cec8f220f20
 description: SharePoint Server 2016, SharePoint 2013 및 SharePoint 2010에 대한 업데이트를 한 위치에서 찾고 관리합니다. 업데이트에 대한 자세한 내용을 알아본 후 업데이트를 다운로드하려면 이 페이지의 링크를 사용하세요.
-ms.openlocfilehash: 3f9a24046816c4a8a4673e9a232b37f115a95a15
-ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
+ms.openlocfilehash: 25f681cb899c661426f595d287550c3f277b8795
+ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48174717"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48453336"
 ---
 # <a name="sharepoint-updates"></a>SharePoint 업데이트
 
@@ -32,6 +32,7 @@ ms.locfileid: "48174717"
 
 |**패키지 이름**|**KB 번호**|**버전**|**릴리스 날짜**|
 |:-----|:-----|:-----|:-----|
+|SharePoint Server 2019 <br/> SharePoint Server 2019 MUI/언어 패치  <br/>|[KB 4486676](https://support.microsoft.com/help/4486676)<br/>[KB 4486675](https://support.microsoft.com/help/4486675)<br/>|16.0.10367.20000|2020년 10월|
 |SharePoint Server 2019 <br/> SharePoint Server 2019 MUI/언어 패치  <br/>|[KB 4484505](https://support.microsoft.com/help/4484505)<br/>[KB 4484504](https://support.microsoft.com/help/4484504)<br/>|16.0.10366.12106|2020년 9월|
 |SharePoint Server 2019  <br/> SharePoint Server 2019 MUI/언어 패치  <br/> |[KB 4484472](https://support.microsoft.com/help/4484472) <br/>[KB 4484471](https://support.microsoft.com/help/4484471) <br/>|16.0.10364.20001| 2020년 8월 <br/>|
 |SharePoint Server 2019  <br/> SharePoint Server 2019 MUI/언어 패치  <br/> |[KB 4484453](https://support.microsoft.com/help/4484453) <br/> [KB 4484452](https://support.microsoft.com/help/4484452) <br/> |16.0.10363.12107|2020년 7월  <br/> |
@@ -59,6 +60,7 @@ ms.locfileid: "48174717"
 
 |**패키지 이름**|**KB 번호**|**버전**|**릴리스 날짜**|
 |:-----|:-----|:-----|:-----|
+|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/언어 패치  <br/>|[KB 4486677](https://support.microsoft.com/help/4486677 ) <br/>[KB 4486681](https://support.microsoft.com/help/4486681 ) <br/>|16.0.5071.1000 <br/>|2020년 10월|
 |SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/언어 패치  <br/>|[KB 4484506](https://support.microsoft.com/help/4484506 ) <br/>[KB 4484512](https://support.microsoft.com/help/4484512 ) <br/>|16.0.5056.1001 <br/> 16.0.5056.1000 <br/>|2020년 9월|
 |SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/언어 패치  <br/> |[KB 4484473](https://support.microsoft.com/help/4484473) <br/>[KB 4484476](https://support.microsoft.com/help/4484476) <br/>|16.0.5044.1000 |2020년 8월 <br/>|
 |SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/언어 패치  <br/> |[KB 4484436](https://support.microsoft.com/help/4484436) <br/> [KB 4484440](https://support.microsoft.com/help/4484440) <br/> |16.0.5032.1002  |2020년 7월  <br/> |
@@ -128,6 +130,7 @@ ms.locfileid: "48174717"
     
 |**패키지 이름**|**KB 번호**|**버전**|**릴리스 날짜**|
 |:-----|:-----|:-----|:-----|
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/>|[KB 4486690](https://support.microsoft.com/help/4486690) <br/>[KB 4486693](https://support.microsoft.com/help/4486693) <br/>|15.0.5285.1000|2020년 10월|
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/>|[KB 4484519](https://support.microsoft.com/help/4484519) <br/>[KB 4484523](https://support.microsoft.com/help/4484523) <br/>|15.0.5275.1001|2020년 9월|
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/>|[KB 4484482](https://support.microsoft.com/help/4484482) <br/>[KB 4484485](https://support.microsoft.com/help/4484485) <br/>|15.0.5267.1000 |2020년 8월|
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4484444](https://support.microsoft.com/help/4484444) <br/> [KB 4484447](https://support.microsoft.com/help/4484447) <br/> |15.0.5259.1001 |2020년 7월  <br/> |
@@ -212,6 +215,7 @@ ms.locfileid: "48174717"
 
 |**패키지 이름**|**KB 번호**|**버전**|**릴리스 날짜**|
 |:-----|:-----|:-----|:-----|
+|SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/>|[KB 4486708](https://support.microsoft.com/help/4486708)<br>[KB 4486705](https://support.microsoft.com/help/4486705)<br>|14.0.7261.5000|2020년 10월|
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/>|[KB 4486667](https://support.microsoft.com/help/4486667)<br>[KB 4486662](https://support.microsoft.com/help/4486662)<br>|14.0.7260.5000|2020년 9월|
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB 4484462](https://support.microsoft.com/help/4484462) <br/>[KB 4484496](https://support.microsoft.com/help/4484496) <br/>|14.0.7256.5000| 2020년 8월|
 |SharePoint Server 2010  <br/> |[KB 4484459](https://support.microsoft.com/help/4484459) <br/> |14.0.7255.5000  |2020년 7월  <br/> |

@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 릴리스 정보에 대한 링크를 포함하여 Microsoft 365 앱 릴리스의 전체 목록을 날짜별로 구성해서 IT 전문가에게 제공합니다.
-ms.openlocfilehash: adf26720387ee5d3bb1bc1abbf46999566302589
-ms.sourcegitcommit: 01f34ec0267eb63ffb29045cca4d0a4520256ad0
+ms.openlocfilehash: 3bf6c9882cb09a45b1e4dd1ac28f2643da11da73
+ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/09/2020
-ms.locfileid: "48398393"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48453106"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 앱의 업데이트 기록(날짜순)
 
 이러한 버전 및 빌드 번호는 엔터프라이즈용 Microsoft 365 앱, 비즈니스용 Microsoft 365 앱 그리고 Project 및 Visio용 데스크톱 앱의 구독 버전에 적용됩니다.
 
 > [!IMPORTANT]
-> - 당사는 Microsoft 365 앱에 대한 업데이트 채널을 일부 변경하고 있습니다. 여기에는 새 업데이트 채널 추가(월별 엔터프라이즈 채널) 및 기존 업데이트 채널의 이름 변경 등이 포함됩니다. 자세한 내용은 [이 문서를 검토하세요](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> - We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 > - Office 365 ProPlus는 2004 버전부터 엔터프라이즈용 Microsoft 365 앱으로 이름이 변경됩니다.자세한 내용은  [이 문서를 검토하세요](https://go.microsoft.com/fwlink/p/?linkid=2123420).이 문서에서는 일반적으로 이를 Microsoft 365 앱이라고 지칭합니다.
 
 
@@ -36,12 +36,12 @@ ms.locfileid: "48398393"
 
 |**채널**|**버전**|**빌드**|**릴리스 날짜**|**다음 이하 버전까지 지원**|
 |:-----|:-----|:-----|:-----|:-----|
-|현재 채널<br/>|2009년<br/>|13231.20368<br/>|2020년 10월 8일<br/>|버전 2010 출시<br/>|
-|월 단위 엔터프라이즈 채널<br/>|2007<br/>|13029.20534<br/>|2020년 9월 8일<br/>|2020년 11월 10일<br/>|
-|월 단위 엔터프라이즈 채널<br/>|2006<br/>|13001.20648<br/>|2020년 9월 8일<br/>|2020년 10월 13일<br/>|
-|반기 엔터프라이즈 채널(미리 보기)<br/>|2008<br/>|13127.20408<br/>|2020년 9월 8일<br/>|2021년 3월 9일<br/>|
-|반기 엔터프라이즈 채널<br/>|2002<br/>|12527.21104<br/>|2020년 9월 8일<br/>|2021년 9월 14일<br/>|
-|반기 엔터프라이즈 채널<br/>|1908<br/>|11929.20946<br/>|2020년 9월 8일<br/>|2021년 3월 9일<br/>|
+|현재 채널<br/>|2009년<br/>|13231.20390<br/>|2020년 10월 13일<br/>|버전 2010 출시<br/>|
+|월 단위 엔터프라이즈 채널<br/>|2008<br/>|13127.20638<br/>|2020년 10월 13일<br/>|2020년 12월 8일<br/>|
+|월 단위 엔터프라이즈 채널<br/>|2007<br/>|13029.20708<br/>|2020년 10월 13일<br/>|2020년 11월 10일<br/>|
+|반기 엔터프라이즈 채널(미리 보기)<br/>|2008<br/>|13127.20638<br/>|2020년 10월 13일<br/>|2021년 3월 9일<br/>|
+|반기 엔터프라이즈 채널<br/>|2002<br/>|12527.21236<br/>|2020년 10월 13일<br/>|2021년 9월 14일<br/>|
+|반기 엔터프라이즈 채널<br/>|1908<br/>|11929.20966<br/>|2020년 10월 13일<br/>|2021년 3월 9일<br/>|
 
 [//]: # (EOSTABLEEND)
 
@@ -53,6 +53,7 @@ ms.locfileid: "48398393"
 
 |**년도**|**릴리스 날짜**|**현재 채널**|**월 단위 엔터프라이즈 채널**|**반기 엔터프라이즈 채널(미리 보기)**|**반기 엔터프라이즈 채널**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2020|10월 13일|[버전 2009(빌드 13231.20390)](current-channel.md#version-2009-october-13)|[버전 2008(빌드 13127.20638)](monthly-enterprise-channel.md#version-2008-october-13)|[버전 2008(빌드 13127.20638)](semi-annual-enterprise-channel-preview.md#version-2008-october-13)|[버전 2002(빌드 12527.21236)](semi-annual-enterprise-channel.md#version-2002-october-13)<br/>[버전 1908(빌드 11929.20966)](semi-annual-enterprise-channel.md#version-1908-october-13)|
 |2020|10월 8일|[버전 2009(빌드 13231.20368)](current-channel.md#version-2009-october-08)| | | |
 |2020|9월 28일|[버전 2009(빌드 13231.20262)](current-channel.md#version-2009-september-28)| | | |
 |2020|9월 22일|[버전 2008(빌드13127.20508)](current-channel.md#version-2008-september-22)| | | |

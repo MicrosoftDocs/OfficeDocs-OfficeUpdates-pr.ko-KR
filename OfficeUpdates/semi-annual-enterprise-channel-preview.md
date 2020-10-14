@@ -9,20 +9,93 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 앱에 대한 반기 채널(대상 지정) 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 224c64a8f12489edd5050be683e477a05369f8c9
-ms.sourcegitcommit: b7cd1fc37ece6cf0399d89549f7916a4dc40d829
+ms.openlocfilehash: 1d67f64f2d0821addfdffbe4ac5b51895bf1e48f
+ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "47942865"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48453396"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview-releases-in-2020"></a>2020의 반기 엔터프라이즈 채널(미리 보기) 릴리스의 릴리스 정보
 
 이 릴리스 정보에서는 엔터프라이즈용 Microsoft 365 앱, 비즈니스용 Microsoft 365 앱 및 프로젝트 및 Visio용 데스크톱 앱의 구독 버전에 대한 2020년 반기별 엔터프라이즈 채널(미리 보기) 업데이트에 포함된 새로운 기능 및 비보안 업데이트에 대한 정보를 제공합니다.
 
 > [!IMPORTANT]
-> 당사는 Microsoft 365 앱에 대한 업데이트 채널을 일부 변경하고 있습니다. 여기에는 새 업데이트 채널 추가(월별 엔터프라이즈 채널) 및 기존 업데이트 채널의 이름 변경 등이 포함됩니다. 자세한 내용은 [이 문서를 참조](https://go.microsoft.com/fwlink/p/?linkid=2127441)하세요.
+> We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 
+
+## <a name="version-2008-october-13"></a>버전 2008: 10월 13일
+*버전 2008(빌드 13127.20638)*
+
+[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- 'Before' 및 'After' 필터 조건이 바뀐 PivotDateFilter API로 버그를 수정했습니다.
+
+
+- 사용자가 Analysis Services 데이터베이스에 존재하지 않는 값으로 설정하였기 때문에 피벗 테이블 필터를 수정할 수 없는 문제를 해결했습니다.
+
+
+- 시트의 첫 행을 고정한 후 빠른 분석을 사용하는 경우 Excel에서 충돌이 발생하는 문제를 해결했습니다.
+
+
+- IFNA()를 사용하여 수식이 포함된 경우 손상된 통합 문서에 대한 경고를 발생시킬 수 있는 문제를 해결했습니다.
+
+
+### <a name="outlook"></a>Outlook
+
+- 사용자가 코너에서 "X"를 클릭하여 공유 일정을 닫을 수 없는 문제를 해결합니다.
+
+
+- “공유 일정 개선사항 설정” 설정이 기존 공유 일정관리에 적용되지 않는 문제를 해결합니다.
+
+
+- 클라우드 첨부 파일을 열 때 열려고 했던 문서 대신 사용자가 안전 링크 페이지에서 오류를 보는 문제를 해결합니다.
+
+
+- 첨부 파일 업로드에 대한 성능 문제를 해결합니다.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 이 변경 사항에서는 내보내기 단추를 클릭해도 내보내지 않는 경우 애니메이션 GIF로 내보내기 하는 기능의 문제를 해결합니다.
+
+
+- 제한된 보기에서 PowerPoint 파일을 열 때 IRM 보호를 사용하지 않도록 설정한 문제를 해결하기 위한 보안 수정입니다.
+
+
+### <a name="word"></a>Word
+
+- 사용자가 크기가 큰 특정 전자 메일을 열 때 충돌이 발생하는 문제를 해결했습니다.
+
+
+- 일부 사용자가 문서를 여는 경우, 충돌이 발생할 수 있는 문제를 해결했습니다.
+
+
+- Word 부팅 시 충돌이 발생할 수 있는 문제를 해결했습니다.
+
+
+- 스타일 갤러리 대화 상자와 관련된 문제를 해결했습니다.
+
+
+### <a name="office-suite"></a>Office 제품군
+
+- Office에서 사용자가 잉크젯 프린터로 문서/파일을 인쇄하고 프린터의 잉크가 부족하면, 잉크젯 프린터에 토너가 없더라도 "토너 부족" 또는 "토너 없음" 메시지가 표시됩니다. 메시지를 변경하여 "토너/잉크 부족" 및 "토너/잉크 없음"으로 표시합니다.
+
+
+- GIF/애니메이션 모델3D를 사용하여 유휴 상태에서 높은 CPU 사용량 문제를 해결합니다.
+
+
+- 이 변경 사항은 d2d1.dll 로드 실패로 인한 Office 앱을 시작할 때 발생하는 충돌 문제를 해결합니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2008-september-08"></a>버전 2008: 9월 8일
 *버전 2008(빌드 13127.20408)*
@@ -65,7 +138,7 @@ ms.locfileid: "47942865"
 
 - **받은 편지함을 벗어나지 않고 모임 참가:** 온라인 모임에 참가하기 위해 일정으로 전환할 필요가 없습니다. 일정을 할 일 창에 고정하고 클릭 한 번만으로 모든 모임에 참여하세요.
 
-- **종속적인 Wi-Fi 네트워크에 대한 새로운 경험: ** 로그인하기 위해 웹 페이지가 필요한 Wi-Fi 네트워크에 가입한 적이 있습니까? 이제 Outlook이 이를 감지하여 연결하는 데 도움을 줍니다.<br />[블로그 게시물](https://insider.office.com/en-us/blog/outlook-on-public-wi-fi-networks-just-got-easier)에서 세부 정보를 참조하세요.
+- **종속적인 Wi-Fi 네트워크에 대한 새로운 경험: ** 로그인하기 위해 웹 페이지가 필요한 Wi-Fi 네트워크에 가입한 적이 있습니까? 이제 Outlook이 이를 감지하여 연결하는 데 도움을 줍니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/outlook-on-public-wi-fi-networks-just-got-easier)에서 세부 정보를 참조하세요.
 
 - **사람을 검색할 때 전자 메일 제안 받기:** 검색 상자에 사람의 이름을 입력하면 가장 관련성이 높은 전자 메일 메시지가 검색 제안에 포함됩니다. [자세한 정보](https://support.office.com/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
 
@@ -1115,6 +1188,7 @@ ms.locfileid: "47942865"
 
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|FRDC|Insiders| |16.0.13127.20638|version-2008-october-13|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20408|version-2008-september-08|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.12527.20988|version-2002-august-11|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.12527.20880|버전 2002년 7월 14일|)

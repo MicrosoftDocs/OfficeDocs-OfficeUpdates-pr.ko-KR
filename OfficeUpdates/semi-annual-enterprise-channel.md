@@ -9,23 +9,80 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 앱에 대한 반기 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 9e420ed8c7c6f5c329b3137f21b952f7a29af7e1
-ms.sourcegitcommit: b7cd1fc37ece6cf0399d89549f7916a4dc40d829
+ms.openlocfilehash: f7f3b39521132fb11226bc512f782e0adec5aba8
+ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "47942775"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48453416"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-releases-in-2020"></a>2020의 반기 엔터프라이즈 채널 릴리스에 대한 릴리스 정보
 
 이 릴리스 정보에서는 엔터프라이즈용 Microsoft 365 앱, 비즈니스용 Microsoft 365 앱 및 프로젝트 및 Visio용 데스크톱 앱의 구독 버전에 대한 2020년 반기별 엔터프라이즈 채널 업데이트에 포함된 새로운 기능 및 비보안 업데이트에 대한 정보를 제공합니다.
 
 > [!IMPORTANT]
-> 당사는 Microsoft 365 앱에 대한 업데이트 채널을 일부 변경하고 있습니다. 여기에는 새 업데이트 채널 추가(월별 엔터프라이즈 채널) 및 기존 업데이트 채널의 이름 변경 등이 포함됩니다. 자세한 내용은 [이 문서를 참조](https://go.microsoft.com/fwlink/p/?linkid=2127441)하세요.
+> We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 
 > [!NOTE]
 >
 >- 반기 기업 채널의 사용자가 Office Portal에서 Microsoft 365 앱을 다운로드하여 Windows 10에 설치하는 경우 이제 OneNote 2016이 기본적으로 포함됩니다.
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2002-october-13"></a>버전 2002: 10월 13일
+*버전 2002(빌드 12527.21236)*
+
+[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="access"></a>Access
+
+- Access 데이터베이스 지침 및 요구 사항을 충족하는 한 64비트 버전의 Access에서 더 이상 “쿼리가 너무 복잡합니다.” 또는 시스템 리소스가 초과되는 오류가 발생하지 않습니다.
+
+
+- 쿼리 디자이너 이후에 필터 기능을 사용하기로 결정하면 데이터베이스가 더 이상 손상되지 않습니다. 해당 사항을 확인하세요.
+
+
+### <a name="excel"></a>Excel
+
+- 사용자가 Analysis Services 데이터베이스에 존재하지 않는 값으로 설정하였기 때문에 피벗 테이블 필터를 수정할 수 없는 문제를 해결했습니다.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 서식 파일에서 작성된 새 프리젠테이션은 양호한 공동 작성 환경을 방지하는 설정을 상속할 수 있습니다. 이 해결 방법을 사용하면 이 경우 설정이 해제됩니다.
+
+
+### <a name="word"></a>Word
+
+- 페이지 구분 및 열이 있는 문서를 열 때 사용자에게 "Microsoft Word에서 허용하는 최대 페이지 수를 초과했거나 문서가 손상되었을 수 있습니다."라는 오류 메시지가 나타날 수 있는 문제를 해결했습니다.
+
+
+### <a name="office-suite"></a>Office 제품군
+
+- Office에서 사용자가 잉크젯 프린터로 문서/파일을 인쇄하고 프린터의 잉크가 부족하면, 잉크젯 프린터에 토너가 없더라도 "토너 부족" 또는 "토너 없음" 메시지가 표시됩니다. 메시지를 변경하여 "토너/잉크 부족" 및 "토너/잉크 없음"으로 표시합니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-1908-october-13"></a>버전 1908: 10월 13일
+*버전 1908(빌드 11929.20966)*
+
+[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="office-suite"></a>Office 제품군
+
+- Office에서 사용자가 잉크젯 프린터로 문서/파일을 인쇄하고 프린터의 잉크가 부족하면, 잉크젯 프린터에 토너가 없더라도 "토너 부족" 또는 "토너 없음" 메시지가 표시됩니다. 메시지를 변경하여 "토너/잉크 부족" 및 "토너/잉크 없음"으로 표시합니다.
+
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -819,7 +876,7 @@ ms.locfileid: "47942775"
 
 - 사용자가 공유 일정 폴더를 OST와 동기화하는 데 문제가있어 이러한 폴더와 상호 작용할 때 권한 오류가 발생하는 문제를 해결합니다.
 
-- Citrix 환경에서 30개 이상의 일정을 볼 때 사용자에게 충돌이 발생하는 문제를 해결합니다. 여기에는 [이전 버전에 대해 문서화된 개별 KB](https://support.microsoft.com/en-us/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen)가 있습니다.
+- Citrix 환경에서 30개 이상의 일정을 볼 때 사용자에게 충돌이 발생하는 문제를 해결합니다. 여기에는 [이전 버전에 대해 문서화된 개별 KB](https://support.microsoft.com/ko-KR/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen)가 있습니다.
 
 - SMIME 알고리즘 선택 관련 문제를 수정합니다.
 
@@ -1697,6 +1754,7 @@ ms.locfileid: "47942775"
 
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|DC|Production| |16.0.12527.21236|version-2002-october-13|)
 [//]: # (|Win32|DC|Production| |16.0.12527.21104|version-2002-september-08|)
 [//]: # (|Win32|DC|Production| |16.0.12527.20988|version-2002-august-11|)
 [//]: # (|Win32|DC|Production| |16.0.12527.20880|version-2002-july-14|)

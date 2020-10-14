@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT 전문가에게 MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록을 제공합니다.
-ms.openlocfilehash: 0be44aaa71134e942d74c12bf38a32cbe1801169
-ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
+ms.openlocfilehash: d6c578011aae3e4358801df483e6596bf00a30e3
+ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48174637"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48453190"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록
  
@@ -29,6 +29,27 @@ ms.locfileid: "48174637"
 > - Microsoft 자동 업데이트는 Microsoft의 다양한 Mac 제품에 대한 업데이트를 제공합니다. 따라서 Mac용 Office를 실행하고 있지 않더라도 Microsoft 자동 업데이트를 업데이트하라는 알림을 받을 수 있습니다.
 
 릴리스 정보를 확인하려면 [릴리스 정보](release-notes-office-for-mac.md)를 참고하세요.<br/><br/>
+
+## <a name="october-2020-release"></a>2020년 10월 릴리스
+
+**릴리스 날짜:** 2020년 10월 13일
+
+*Microsoft 자동 업데이트 4.28*
+
+**버그 수정 및 개선 사항:**
+-   MAU UI: 이제 요약 보기에 사용자의 주의가 필요한 오류가 표시됩니다.
+-   이제 MAU UI와 업데이트 도우미 모두 72시간 동안 아무런 작업도 수행하지 않으면 자동으로 종료됩니다.
+-   MMAU UI: 이제 Windows 메뉴와 함께 제공됩니다.
+
+**MAU 업데이트 링크:**
+
+[Microsoft 자동 업데이트 4.28 패키지 다운로드](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 해시:**
+
+80171D842C59BA3B26A085DD3AB6E63E32102088078848C95AEBECF4C91B0438
+
+<br/><br/>
 
 ## <a name="september-2020-release"></a>2020년 9월 릴리스
 
@@ -166,7 +187,7 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 - SSD를 사용하는 MacOS 컴퓨터는 업데이트로 인해 더 빨라진 업데이트 속도 및 무시해도 되는 정도의 앱 중단만을 경험합니다.
 
 
-[CVE-2020-0984](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0984)를 참조하세요.
+[CVE-2020-0984](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0984)를 참조하세요.
 
 **MAU 업데이트 링크:**
 

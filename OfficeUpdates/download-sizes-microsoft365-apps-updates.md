@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 각 업데이트 채널에 대한 Microsoft 365 앱 업데이트의 대략적인 다운로드 크기 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 9bc7fd4a134c46d74198afb17147a81a151a4f64
-ms.sourcegitcommit: 01f34ec0267eb63ffb29045cca4d0a4520256ad0
+ms.openlocfilehash: 5f7e6ca7fc98e3b3e8620807c523893802ba69de
+ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/09/2020
-ms.locfileid: "48398373"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48453276"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 앱 업데이트의 다운로드 크기
 
@@ -26,7 +26,7 @@ Microsoft의 목표는 기업 고객이 네트워크 대역폭 사용률을 계�
 
 
 > [!IMPORTANT]
-> - 당사는 Microsoft 365 앱에 대한 업데이트 채널을 일부 변경하고 있습니다. 여기에는 새 업데이트 채널 추가(월별 엔터프라이즈 채널) 및 기존 업데이트 채널의 이름 변경 등이 포함됩니다. 자세한 내용은 [이 문서를 검토하세요](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> - We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 > - Office 365 ProPlus는 2004 버전부터 엔터프라이즈용 Microsoft 365 앱으로 이름이 변경됩니다.자세한 내용은  [이 문서를 검토하세요](https://go.microsoft.com/fwlink/p/?linkid=2123420).이 문서에서는 일반적으로 이를 Microsoft 365 앱이라고 지칭합니다.
 
 
@@ -35,6 +35,52 @@ Microsoft의 목표는 기업 고객이 네트워크 대역폭 사용률을 계�
 > - 지난 4개월 동안의 릴리스만 표시됩니다.
 
 [//]: # (제거하지 마세요)
+
+## <a name="october-13-2020"></a>2020년 10월 13일
+
+[//]: # (콘텐츠를 제거하지 마세요. 시작 2020년 10월 13일)
+
+### <a name="current-channel"></a>현재 채널
+
+가장 최근 릴리스는 버전 2009(빌드 13231.20390)입니다.
+
+|**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
+|:-----|:-----|:-----|
+|버전 2009(빌드 13231.20368) <br/> |2020년 10월 8일 <br/> |42<br/> |
+|버전 2009(빌드 13231.20262) <br/> |2020년 9월 28일 <br/> |47<br/> |
+
+
+### <a name="monthly-enterprise-channel"></a>월 단위 기업 채널
+
+가장 최근 릴리스는 버전 2008(빌드 13127.20638)입니다.
+
+|**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
+|:-----|:-----|:-----|
+|버전 2007(빌드 13029.20534) <br/> |2020년 9월 8일 <br/> |252<br/> |
+
+
+### <a name="semi-annual-enterprise-channel-preview"></a>반기 엔터프라이즈 채널(미리 보기)
+
+가장 최근 릴리스는 버전 2008(빌드 13127.20638)입니다.
+
+|**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
+|:-----|:-----|:-----|
+|버전 2008(빌드 13127.20408) <br/> |2020년 9월 8일 <br/> |49<br/> |
+|버전 2002(빌드 12527.20988) <br/> |2020년 8월 11일 <br/> |499<br/> |
+
+
+### <a name="semi-annual-enterprise-channel"></a>반기 엔터프라이즈 채널
+
+가장 최근 릴리스는 버전 2002(빌드 12527.21236)입니다.
+
+|**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
+|:-----|:-----|:-----|
+|버전 2002(빌드 12527.21104) <br/> |2020년 9월 8일 <br/> |76<br/> |
+|버전 2002(빌드 12527.20988) <br/> |2020년 8월 11일 <br/> |89<br/> |
+
+
+
+[//]: # (콘텐츠를 제거하지 마세요 종료 2020년 10월 13일)
 
 ## <a name="october-8-2020"></a>2020년 10월 8일
 
@@ -52,42 +98,8 @@ Microsoft의 목표는 기업 고객이 네트워크 대역폭 사용률을 계�
 
 [//]: # (콘텐츠를 제거하지 마세요 종료 2020년 10월 8일)
 
-[//]: # (예상 콘텐츠를 제거하지 마세요. 시작)
-
-## <a name="october-8-2020"></a>2020년 10월 8일
 
 
-### <a name="monthly-enterprise-channel"></a>월 단위 기업 채널
-
-<i>예상된 릴리스는 버전 2008(빌드 13127.20618)입니다.</i>
-
-|**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
-|:-----|:-----|:-----|
-|버전 2007(빌드 13029.20534) <br/> |2020년 9월 8일 <br/> |252<br/> |
-
-
-
-### <a name="semi-annual-enterprise-channel-preview"></a>반기 기업 채널(프리뷰)
-
-<i>예상된 릴리스는 버전 2008(빌드 13127.20600)입니다.</i>
-
-|**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
-|:-----|:-----|:-----|
-|버전 2008(빌드 13127.20408) <br/> |2020년 9월 8일 <br/> |48<br/> |
-|버전 2002(빌드 12527.20988) <br/> |2020년 8월 11일 <br/> |499<br/> |
-
-
-### <a name="semi-annual-enterprise-channel"></a>반기 기업 채널
-
-<i>예상된 릴리스는 버전 2002(빌드 12527.21216)입니다.</i>
-
-|**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
-|:-----|:-----|:-----|
-|버전 2002(빌드 12527.21104) <br/> |2020년 9월 8일 <br/> |72<br/> |
-|버전 2002(빌드 12527.20988) <br/> |2020년 8월 11일 <br/> |86<br/> |
-
-
-[//]: # (예상 항목을 제거하지 마세요. 종료)
 
 ## <a name="september-28-2020"></a>2020년 9월 28일
 

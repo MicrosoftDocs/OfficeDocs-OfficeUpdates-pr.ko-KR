@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 앱에 대한 월 단위 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: c9d58f34f90b8fac9d765ebc0242c49c169e72ff
-ms.sourcegitcommit: 01f34ec0267eb63ffb29045cca4d0a4520256ad0
+ms.openlocfilehash: eecc9d0164fbec792cf944b6ee6e5cd361d53ef4
+ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/09/2020
-ms.locfileid: "48398403"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48453326"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>2020년 현재 채널 릴리스에 대한 릴리스 정보
 
 이러한 릴리스 정보는 엔터프라이즈용 Microsoft 365 앱, 비즈니스용 Microsoft 365 앱, Project와 Visio 데스크톱 앱의 구독 버전에 대한 2020년 현재 채널 업데이트에 포함된 새로운 기능 및 비보안 업데이트 관련 정보를 제공합니다.
 
 > [!IMPORTANT]
-> 당사는 Microsoft 365 앱에 대한 업데이트 채널을 일부 변경하고 있습니다. 여기에는 새 업데이트 채널 추가(월별 엔터프라이즈 채널) 및 기존 업데이트 채널의 이름 변경 등이 포함됩니다. 자세한 내용은 [이 문서를 참조](https://go.microsoft.com/fwlink/p/?linkid=2127441)하세요.
+> We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 
  > [!NOTE]
 >
@@ -37,6 +37,23 @@ ms.locfileid: "48398403"
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
+## <a name="version-2009-october-13"></a>버전 2009: 10월 13일
+*버전 2009(빌드 13231.20390)*
+
+[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="project"></a>Project
+
+- 특정 방식으로 리소스 윤곽선이 지정된 파일을 열 때 프로젝트가 충돌할 수 있는 문제를 해결했습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
 ## <a name="version-2009-october-08"></a>버전 2009: 10월 8일
 *버전 2009(빌드 13231.20368)*
 
@@ -45,13 +62,13 @@ ms.locfileid: "48398403"
 ### <a name="resolved-issues"></a>해결된 문제
 ### <a name="outlook"></a>Outlook
 
-- 캐시되지 않은 공유 일정을 검색할 때 검색에서 결과가 반환되지 않도록 하는 문제를 해결했습니다.
+- 캐시되지 않은 공유 일정을 검색할 때 검색에서 결과가 반환되지 않는 문제를 해결했습니다.
 
 
-- 일부 사용자가 예기치 않게 오프라인 상태에서 Outlook을 관찰하게 한 문제를 해결했습니다.
+- 일부 사용자가 예기치 않게 오프라인 상태에서 Outlook이 시작되는 것을 관찰하게 한 문제를 해결했습니다.
 
 
-- 다른 사서함에서 공유 폴더를 열 때 딜러가 간헐적으로 오류를 발견하게 한 문제를 해결했습니다.
+- 다른 사서함에서 공유 폴더를 열 때 대리인이 간헐적으로 오류를 발견하게 한 문제를 해결했습니다.
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -61,7 +78,7 @@ ms.locfileid: "48398403"
 
 ### <a name="office-suite"></a>Office 제품군
 
-- 사용자가 사무실 잉크젯 프린터에서 잉크젯 프린터의 문서/파일을 인쇄할 때 잉크젯 프린터에 토너가 없더라도 "토너 부족" 또는 "토너 없음" 메시지가 표시됩니다. 메시지를 변경하여 "토너/링크 부족" 및 "토너/링크 없음"을 표시합니다.
+- Office에서 사용자가 잉크젯 프린터로 문서/파일을 인쇄하고 프린터의 잉크가 부족하면, 잉크젯 프린터에 토너가 없더라도 "토너 부족" 또는 "토너 없음" 메시지가 표시됩니다. 메시지를 변경하여 "토너/잉크 부족" 및 "토너/잉크 없음"으로 표시합니다.
 
 
 
@@ -1371,6 +1388,7 @@ ms.locfileid: "48398403"
 > Office를 사용하는 데 발생한 문제에 대해 도움이 필요하면 [Microsoft의 Answers 포럼](https://answers.microsoft.com/) 또는 [기술 커뮤니티](https://techcommunity.microsoft.com/)에 질문을 게시하거나 [지원 서비스](https://support.microsoft.com/contactus)에 문의할 수 있습니다.
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|CC|Production| |16.0.13231.20390|version-2009-october-13|)
 [//]: # (|Win32|CC|Production| |16.0.13231.20368|version-2009-october-08|)
 [//]: # (|Win32|CC|Production| |16.0.13231.20262|version-2009-september-28|)
 [//]: # (|Win32|CC|Production| |16.0.13127.20508|version-2008-september-22|)
@@ -1380,5 +1398,4 @@ ms.locfileid: "48398403"
 [//]: # (|Win32|CC|Production| |16.0.13029.20344|version-2007-august-11|)
 [//]: # (|Win32|CC|Production| |16.0.13029.20308|version-2007-july-30|)
 [//]: # (|Win32|CC|Production| |16.0.13001.20498|version-2006-july-28|)
-[//]: # (|Win32|CC|Production| |16.0.13001.20384|version-2006-july-14|)
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 끝)
