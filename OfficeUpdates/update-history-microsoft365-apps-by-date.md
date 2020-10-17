@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 릴리스 정보에 대한 링크를 포함하여 Microsoft 365 앱 릴리스의 전체 목록을 날짜별로 구성해서 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 31c289363017fd7511036d7a879542dd34a2a83c
-ms.sourcegitcommit: 3a03037114edb3662a0e076218e42be7c4c1ee89
+ms.openlocfilehash: 1ba64e6f8c8c6c4f28784aa7bc32472ee7b7088b
+ms.sourcegitcommit: cffaa3a1571bd422c22e182b1722d2428cb6a6af
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "48464731"
+ms.lasthandoff: 10/15/2020
+ms.locfileid: "48473049"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 앱의 업데이트 기록(날짜순)
 
@@ -52,7 +52,7 @@ ms.locfileid: "48464731"
 |**년도**|**릴리스 날짜**|**현재 채널**|**월 단위 엔터프라이즈 채널**|**반기 엔터프라이즈 채널(미리 보기)**|**반기 엔터프라이즈 채널**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
 |
-|2020|10월 13일|[버전 2009(빌드 13231.20390)](current-channel.md#version-2009-october-13)|[버전 2008(빌드 13127.20638)](monthly-enterprise-channel.md#version-2008-october-13)<br/>[버전 2007(빌드 13029.20708)](monthly-enterprise-channel.md#version-2007-october-14)|[버전 2008(빌드 13127.20638)](semi-annual-enterprise-channel-preview.md#version-2008-october-13)|[버전 2002(빌드 12527.21236)](semi-annual-enterprise-channel.md#version-2002-october-13)<br/>[버전 1908(빌드 11929.20966)](semi-annual-enterprise-channel.md#version-1908-october-13)|
+|2020|10월 13일|[버전 2009(빌드 13231.20390)](current-channel.md#version-2009-october-13)|[버전 2008(빌드 13127.20638)](monthly-enterprise-channel.md#version-2008-october-13)<br/>[버전 2007(빌드 13029.20708)](monthly-enterprise-channel.md#version-2007-october-13)|[버전 2008(빌드 13127.20638)](semi-annual-enterprise-channel-preview.md#version-2008-october-13)|[버전 2002(빌드 12527.21236)](semi-annual-enterprise-channel.md#version-2002-october-13)<br/>[버전 1908(빌드 11929.20966)](semi-annual-enterprise-channel.md#version-1908-october-13)|
 |2020|10월 8일|[버전 2009(빌드 13231.20368)](current-channel.md#version-2009-october-08)| | | |
 |2020|9월 28일|[버전 2009(빌드 13231.20262)](current-channel.md#version-2009-september-28)| | | |
 |2020|9월 22일|[버전 2008(빌드13127.20508)](current-channel.md#version-2008-september-22)| | | |

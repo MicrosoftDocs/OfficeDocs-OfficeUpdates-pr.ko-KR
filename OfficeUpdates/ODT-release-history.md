@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: IT 전문가에게 ODT(Office 배포 도구)의 릴리스 기록을 제공합니다.
-ms.openlocfilehash: c01fbe403dacb0b474c37b7439eba5b616f8a08f
-ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
+ms.openlocfilehash: 4f65d41bfa18321a951fb18abcf919056bec7c5d
+ms.sourcegitcommit: 57e715a8a3c0565b902cb3e6ca45d18a26f8ec45
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48174647"
+ms.lasthandoff: 10/15/2020
+ms.locfileid: "48469997"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Office 배포 도구에 대한 릴리스 기록
 
@@ -29,6 +29,12 @@ ODT를 사용하여 Office 설치를 더 강력하게 제어할 수 있습니다
 
 [Office 배포 도구 다운로드](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
 
+## <a name="october-14-2020"></a>2020년 10월 14일
+버전 16.0.13231.20368 (setup.exe 버전 16.0.13231.20350)
+- 지정된 채널이 없는 경우 모든 제품은 이제 기본적으로 월간 채널 사용
+- RemoveMSI를 사용하는 경우 특정 Office 2007 제품이 예기치 않게 설치를 차단하는 문제 해결
+- 다른 DLL을 포함하는 디렉터리에서 ODT를 실행하는 경우 보안을 향상
+- 안정성 및 복원 기능 개선
 
 ## <a name="june-9-2020"></a>2020년 6월 9일
 
