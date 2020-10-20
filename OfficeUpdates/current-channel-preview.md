@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 이후 참가자 대상 그룹에게 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 46c2e42002bf1df8c4b83b437d64c823e6c12e7a
-ms.sourcegitcommit: 9b9a423f50245a12dfb1917b1a9cdb2e7eca1614
+ms.openlocfilehash: 137c1141a987a60f00674ce7e4eb0ac104d5df15
+ms.sourcegitcommit: d073ad1fa5007a3c01248e4cddc2d5a6e98e9811
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/12/2020
-ms.locfileid: "48422557"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "48597761"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 현재 채널(미리 보기)에 대한 릴리스 정보
 
@@ -27,6 +27,46 @@ This article contains release notes for Current Channel (Preview) builds of Word
 > - 릴리스 정보 게시 날짜는 실제 빌드 릴리스 날짜와 일치하지 않을 수 있습니다.
 
 [//]: # (제거하지 마세요)
+
+## <a name="version-2010-october-19"></a>버전 2010: 10월 19일
+‘버전 2010(빌드 13328.20210)’**
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="outlook"></a>Outlook
+
+- **메시지 작성 시간 절약:** Outlook에서 메시지를 신속하게 작성하는 데 도움이 되는 쓰기 제안을 표시합니다. 제안을 수락하려면 탭 키를 사용하면 됩니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/text-predictions-in-word-outlook)에서 세부 정보 보기
+
+- **기본 제공 변환기로 언어 장벽 부수기:** 번역을 위한 추가 기능이 더 이상 필요하지 않습니다. 메시지에서, 마우스 오른쪽 단추를 클릭하여 특정 단어, 구 또는 전체 메시지를 번역할 수 있습니다. [자세한 정보](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f)
+
+- **작업에 대한 사용자 환경 업데이트**: 작업 항목의 시각적 새로 고침
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **발표자 코치와 프레젠테이션 연습:** 페이싱, 많이 사용하는 단어, 바디랭귀지 등을 개선하여 청중이 몰입도를 유지할 수 있도록 도와 줍니다. [자세한 정보](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)
+
+### <a name="word"></a>Word
+
+- **Microsoft 편집기 창에서 데스크톱용 Word에서 업데이트 받기:** 데스크톱 클라이언트용 Word의 편집기 창에서 현재 환경을 업그레이드했습니다.
+
+- **한 번의 클릭으로 작문 제안:** 한 번의 클릭으로 작문 제안을 적용합니다. 업데이트된 편집기 창은 제안 사이를 쉽게 탐색할 수 있습니다.
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="powerpoint"></a>PowerPoint
+
+- PresentationBeforeClose 이벤트를 청취하고 프레젠테이션을 확인하는 추가 기능이 있을 때 문서를 닫는 경우 저장 프롬프트가 루프에 표시되는 문제에 대한 수정 사항입니다. 속성을 이벤트 처리기의 일부로 저장했습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2010-october-11"></a>버전 2010: 10월 11일
 *버전 2010(빌드 13328.20154)*
