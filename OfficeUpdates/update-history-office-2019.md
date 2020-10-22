@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: C2R(간편 실행)을 사용하는 Office 2016 및 2019 영구 버전에 대한 업데이트 기록을 IT 전문가에게 제공합니다.
-ms.openlocfilehash: d808192979c1d29053e5782e7ce64d0f144a9de5
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: b4564f0ee33fe1f1625e2410855330f07fb391bd
+ms.sourcegitcommit: 1fa0c0b581efdfd4225f535186cb12fbccc403a1
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453096"
+ms.lasthandoff: 10/22/2020
+ms.locfileid: "48657306"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Office 2016 C2R 및 Office 2019의 업데이트 기록
 
@@ -85,12 +85,12 @@ Microsoft는 Office 2016 C2R(간편 실행) 버전과 Office 2019의 보안 및 
 
 |**릴리스 날짜**|**버전 번호**|**추가 정보**|
 |:-----|:-----|:-----|
+|2020년 10월 21일|버전 2009(빌드 13231.20418)| |
 |2020년 10월 13일|버전 2009(빌드 13231.20390)|[보안 업데이트 페이지](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 참조  |
 |2020년 10월 8일|버전 2009(빌드 13231.20368)| |
 |2020년 9월 28일|버전 2009(빌드 13231.20262)| |
 |2020년 9월 22일|버전 2008(빌드 13127.20508)| |
 |2020년 9월 9일|버전 2008(빌드 13127.20408)|[보안 업데이트 페이지](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 참조 |
-|2020년 8월 31일|버전 2008(빌드 13127.20296)| |
 
 
 [//]: # (VL 테이블 시작 제거 안 함)
@@ -104,6 +104,7 @@ Microsoft는 Office 2016 C2R(간편 실행) 버전과 Office 2019의 보안 및 
 
 |**릴리스 날짜**|**버전 번호**|**추가 정보**|
 |:-----|:-----|:-----|
+|2020년 8월 31일|버전 2008(빌드 13127.20296)| |
 |2020년 8월 25일|버전 2007(빌드 13029.20460)| |
 |2020년 8월 11일|버전 2007(빌드 13029.20344)|[보안 업데이트 페이지](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 참조 |
 |2020년 7월 30일|버전 2007(빌드 13029.20308)  |다양한 버그 및 성능 수정 사항.  <br/>  |

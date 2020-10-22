@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 각 업데이트 채널에 대한 Microsoft 365 앱 업데이트의 대략적인 다운로드 크기 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 5f7e6ca7fc98e3b3e8620807c523893802ba69de
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: 4d29effb3a70a844c0165f848cdc8aacbf922d50
+ms.sourcegitcommit: 1fa0c0b581efdfd4225f535186cb12fbccc403a1
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453276"
+ms.lasthandoff: 10/22/2020
+ms.locfileid: "48657296"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 앱 업데이트의 다운로드 크기
 
@@ -27,7 +27,7 @@ Microsoft의 목표는 기업 고객이 네트워크 대역폭 사용률을 계�
 
 > [!IMPORTANT]
 > - We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
-> - Office 365 ProPlus는 2004 버전부터 엔터프라이즈용 Microsoft 365 앱으로 이름이 변경됩니다.자세한 내용은  [이 문서를 검토하세요](https://go.microsoft.com/fwlink/p/?linkid=2123420).이 문서에서는 일반적으로 이를 Microsoft 365 앱이라고 지칭합니다.
+> - Office 365 ProPlus는 2004 버전부터 엔터프라이즈용 Microsoft 365 앱으로 이름이 변경됩니다. 자세한 내용은 [이 문서를 검토하세요](https://go.microsoft.com/fwlink/p/?linkid=2123420). 문서에서는 일반적으로 Microsoft 365 앱이라고 지칭합니다.
 
 
 > [!NOTE]
@@ -35,6 +35,22 @@ Microsoft의 목표는 기업 고객이 네트워크 대역폭 사용률을 계�
 > - 지난 4개월 동안의 릴리스만 표시됩니다.
 
 [//]: # (제거하지 마세요)
+
+## <a name="october-21-2020"></a>2020년 10월 21일
+
+[//]: # (콘텐츠를 제거하지 마세요. 시작 2020년 10월 21일)
+
+### <a name="current-channel"></a>현재 채널
+
+가장 최근 릴리스는 버전 2009(빌드 13231.20418)입니다.
+
+|**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
+|:-----|:-----|:-----|
+|버전 2009(빌드 13231.20390) <br/> |2020년 10월 13일 <br/> |38<br/> |
+|버전 2009(빌드 13231.20368) <br/> |2020년 10월 8일 <br/> |173<br/> |
+
+
+[//]: # (콘텐츠를 제거하지 마세요 종료 2020년 10월 21일)
 
 ## <a name="october-13-2020"></a>2020년 10월 13일
 
