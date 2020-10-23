@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 앱에 대한 월 단위 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: eecc9d0164fbec792cf944b6ee6e5cd361d53ef4
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: 34072956ee4dafc1ebe04f8d9761e1ee831dc88e
+ms.sourcegitcommit: 1fa0c0b581efdfd4225f535186cb12fbccc403a1
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453326"
+ms.lasthandoff: 10/22/2020
+ms.locfileid: "48657326"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>2020년 현재 채널 릴리스에 대한 릴리스 정보
 
@@ -32,6 +32,31 @@ ms.locfileid: "48453326"
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2009-october-21"></a>버전 2009: 10월 21일
+*버전 2009(빌드 13231.20418)*
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="outlook"></a>Outlook
+
+- 사용자가 대리인에게 편집자 권한을 부여할 수 없게 하는 문제를 해결했습니다.
+
+
+- 사용자가 검색 결과를 선택하면 응용 프로그램이 예기치 않게 종료되는 문제를 해결했습니다.
+
+
+- 회신하거나 전달할 때 중국어 메시지의 머리글을 읽을 수 없게 하는 문제를 해결했습니다.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 사용자가 다른 슬라이드를 클릭하여 표시할 때까지 양식 콘텐츠 추가 기능이 삽입 후에 렌더링되지 않는 문제를 해결했습니다.
 
 
 
@@ -405,7 +430,7 @@ ms.locfileid: "48453326"
 
 - **민감도 레이블 자동 적용 또는 권장:** Office는 감지되는 중요한 콘텐츠에 기반하여 민감도 레이블을 권장하거나 자동으로 적용할 수 있습니다.
 
-- **Excel 내의 Power BI에 있는 데이터셋에서 PivotTables 생성:** 몇 번의 클릭으로 Power BI에 저장된 데이터셋에 연결된 PivotTables를 Excel에서 생성할 수 있습니다. 이렇게 하면 PivotTables와 Power BI를 모두 최대한 활용할 수 있습니다. 보안 Power BI 데이터셋에서 PivotTables를 사용하여 데이터를 계산, 요약 및 분석할 수 있습니다. [자세한 정보](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)<br />[블로그 게시물](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)에서 세부 정보 보기
+- **Excel 내의 Power BI에 있는 데이터셋에서 PivotTables 생성:** 몇 번의 클릭으로 Power BI에 저장된 데이터셋에 연결된 PivotTables를 Excel에서 생성할 수 있습니다.  이렇게 하면 PivotTables와 Power BI를 모두 최대한 활용할 수 있습니다. 보안 Power BI 데이터셋에서 PivotTables를 사용하여 데이터를 계산, 요약 및 분석할 수 있습니다. [자세한 정보](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)<br />[블로그 게시물](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)에서 세부 정보 보기
 
 ### <a name="outlook"></a>Outlook
 
@@ -1180,7 +1205,7 @@ ms.locfileid: "48453326"
 ### <a name="feature-updates"></a>기능 업데이트
 ### <a name="excel"></a>Excel
 
-- **통합 문서 통계:** 셀, 수식, 차트, 표 등이 자동으로 계산됩니다.
+- **통합 문서 통계:** 셀, 수식, 차트, 표... 등이 자동으로 계산됩니다.
 
 - **쿼리 편집기의 데이터 프로파일링:** 열에서 데이터를 한눈에 분석하고 오류와 비어 있는 값을 식별하며 배포 히스토그램을 표시하는 기능 등을 사용할 수 있습니다.
 
@@ -1388,6 +1413,7 @@ ms.locfileid: "48453326"
 > Office를 사용하는 데 발생한 문제에 대해 도움이 필요하면 [Microsoft의 Answers 포럼](https://answers.microsoft.com/) 또는 [기술 커뮤니티](https://techcommunity.microsoft.com/)에 질문을 게시하거나 [지원 서비스](https://support.microsoft.com/contactus)에 문의할 수 있습니다.
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|CC|Production| |16.0.13231.20418|version-2009-october-21|)
 [//]: # (|Win32|CC|Production| |16.0.13231.20390|version-2009-october-13|)
 [//]: # (|Win32|CC|Production| |16.0.13231.20368|version-2009-october-08|)
 [//]: # (|Win32|CC|Production| |16.0.13231.20262|version-2009-september-28|)
@@ -1397,5 +1423,4 @@ ms.locfileid: "48453326"
 [//]: # (|Win32|CC|Production| |16.0.13029.20460|version-2007-august-25|)
 [//]: # (|Win32|CC|Production| |16.0.13029.20344|version-2007-august-11|)
 [//]: # (|Win32|CC|Production| |16.0.13029.20308|version-2007-july-30|)
-[//]: # (|Win32|CC|Production| |16.0.13001.20498|version-2006-july-28|)
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 끝)
