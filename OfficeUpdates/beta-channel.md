@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 03110a28e621110ab9d2c0061018576fae1d7f03
-ms.sourcegitcommit: ea220b40f5d2f1ab4a20597c90ed317e5c309b1d
+ms.openlocfilehash: e610cad6deafeb73ca08eaec454e85916f1c3d89
+ms.sourcegitcommit: 33f70d8bdd50099f33bef7143d909c5ab2dfe27e
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48495915"
+ms.lasthandoff: 10/23/2020
+ms.locfileid: "48750577"
 ---
 # <a name="release-notes-for-beta-channel"></a>베타 채널용 릴리스 정보
 
@@ -31,9 +31,52 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
+## <a name="version-2011-october-23"></a>버전 2011: 10월 23일
+*버전 2011(빌드 13415.20002)*
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="powerpoint"></a>PowerPoint
+
+- **발표자 코치와 프레젠테이션 예행 연습:** 페이싱, 피치, 필러어, 민감한 문구 등 청중들의 몰입도를 유지하는 데 도움이 되는 사항에 대한 피드백을 받아보세요. [자세한 정보](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="access"></a>액세스
+
+- 동기화된 OneDrive 폴더에서 쿼리를 내보내려고 할 때 일부 사용자에게 “시스템 리소스가 초과했습니다.”라는 오류가 표시되는 문제를 해결했습니다.
+
+- 양식 창 간의 '자동' 전환이 다른 양식으로 전환되는 문제를 해결했습니다.
+
+### <a name="outlook"></a>Outlook
+
+- 모임 장소에서 다른 위치(예: 브라우저)로 복사한 URL을 붙여넣는 경우 URL 마지막에 세미콜론이 포함되는 문제를 해결했습니다.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 슬라이드 쇼를 보조 모니터에 복제할 때 슬라이드 쇼가 다른 창 뒤에 숨겨질 수 있는 문제를 해결했습니다.
+
+### <a name="project"></a>Project
+
+- 특정 방식으로 리소스 윤곽선이 지정된 파일을 열 때 Project가 예기치 않게 종료될 수 있는 문제를 해결했습니다.
+
+### <a name="word"></a>Word
+
+- 변경사항 추적에서 Word 문서를 열면 오류 대화상자가 표시될 수 있는 문제를 수정했습니다.
+
+- 워터마크가 적용된 민감도 레이블 인쇄 문제를 해결했습니다.
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
 ## <a name="version-2011-october-16"></a>버전 2011: 10월 16일
 *버전 2011 (빌드 13408.20000)*
-
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
@@ -239,7 +282,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 ### <a name="outlook"></a>Outlook
 
-- **작업에 대한 사용자 환경 업데이트**: 작업 항목의 시각적 새로 고침
+- **작업에 대한 사용자 환경 업데이트** : 작업 항목의 시각적 새로 고침
 
 - **메시지 작성 시간 절약:** Outlook에서 메시지를 신속하게 작성하는 데 도움이 되는 쓰기 제안을 표시합니다. 제안을 수락하려면 탭 키를 사용하면 됩니다.
 
@@ -595,19 +638,19 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 ### <a name="feature-updates"></a>기능 업데이트
 ### <a name="excel"></a>Excel
 
-- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보를 참조하세요.
+- **Office에 iPhone 사진을 직접 삽입** : 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보를 참조하세요.
 
 ### <a name="outlook"></a>Outlook
 
-- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보를 참조하세요.
+- **Office에 iPhone 사진을 직접 삽입** : 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보를 참조하세요.
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보를 참조하세요.
+- **Office에 iPhone 사진을 직접 삽입** : 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보를 참조하세요.
 
 ### <a name="word"></a>Word
 
-- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보를 참조하세요.
+- **Office에 iPhone 사진을 직접 삽입** : 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보를 참조하세요.
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
@@ -748,7 +791,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 ### <a name="feature-updates"></a>기능 업데이트
 ### <a name="outlook"></a>Outlook
 
-- **간단한 설문 조사로 Outlook에 설문 조사 만들기**: 설문 조사를 쉽게 작성하고 투표를 수집하며 전자 메일에서 결과를 볼 수 있습니다 [자세한 내용 보기](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
+- **간단한 설문 조사로 Outlook에 설문 조사 만들기** : 설문 조사를 쉽게 작성하고 투표를 수집하며 전자 메일에서 결과를 볼 수 있습니다 [자세한 내용 보기](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
 
 - **새 모임이실 찾기:** 다양한 기능으로 모임실을 검색합니다.
 
@@ -905,7 +948,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 - **Excel에서 공동 작업하는 동안 정렬/필터링:** 이제 다른 사용자와 공동 작업하면서 Excel 파일을 정렬하고 필터링할 수 있습니다. 이 새 기능을 사용하면 문서를 공동 작성하는 동안 다른 사용자의 정렬 및 필터에 영향을 받지 않습니다.
 
-- **Excel 내의 Power BI에 있는 데이터셋에서 PivotTables 생성:** 몇 번의 클릭으로 Power BI에 저장된 데이터셋에 연결된 PivotTables를 Excel에서 생성할 수 있습니다. 이렇게 하면 PivotTables와 Power BI를 모두 최대한 활용할 수 있습니다. 보안 Power BI 데이터셋에서 PivotTables를 사용하여 데이터를 계산, 요약 및 분석할 수 있습니다. [자세한 정보](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)
+- **Excel 내의 Power BI에 있는 데이터셋에서 PivotTables 생성:** 몇 번의 클릭으로 Power BI에 저장된 데이터셋에 연결된 PivotTables를 Excel에서 생성할 수 있습니다.  이렇게 하면 PivotTables와 Power BI를 모두 최대한 활용할 수 있습니다. 보안 Power BI 데이터셋에서 PivotTables를 사용하여 데이터를 계산, 요약 및 분석할 수 있습니다. [자세한 정보](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)
 
 ### <a name="outlook"></a>Outlook
 
@@ -955,13 +998,13 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 
-## <a name="version2006may29"></a>버전 2006: 5월 29일
-*버전 2006(빌드 12920.20000)*
+## <a name="version-2006-may-29"></a>버전 2006: 5월 29일
+*버전 2006(빌드 12920.20000)*
 
-### <a name="featureupdates"></a>기능 업데이트
+### <a name="feature-updates"></a>기능 업데이트
 ### <a name="outlook"></a>Outlook
 
-- **Outlook 토스트 알림에 추가 버튼 추가:** 이제 Windows 10에서 Outlook을 실행할 때 Outlook 토스트 알림에 빠른 작업 버튼이 나타납니다.
+- **Outlook 토스트 알림에 추가 버튼이 추가되었습니다.이제 윈도우즈 10에서 아웃룩을 실행할 때 Outlook 토스트 알림에** 빠른 작업 버튼이 나타납니다.
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -973,7 +1016,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="resolvedissues"></a>해결된 문제
+### <a name="resolved-issues"></a>해결된 문제
 
 ### <a name="excel"></a>Excel
 
@@ -993,7 +1036,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 - 정책 Word 2007 이상 바이너리 문서와 서식 파일을 사용하는 경우 일부 공동 작성 사례에서 오류가 발생하는 문제를 해결했습니다.
 - 경로 이름이 32K보다 큰 파일이 열리지 않고 적절한 오류 메시지가 표시되지 않는 문제를 해결했습니다.
 
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 
 ## <a name="version-2006-may-22"></a>버전 2006: 5월 22일
@@ -1451,13 +1494,13 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 ### <a name="feature-updates"></a>기능 업데이트
 
 ### <a name="excel"></a>Excel
-- **민감도 레이블**: 조직에서 사용자 지정 권한에 대한 메시지를 표시하도록 구성한 민감도 레이블을 적용할 수 있습니다. [자세한 정보](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **민감도 레이블** : 조직에서 사용자 지정 권한에 대한 메시지를 표시하도록 구성한 민감도 레이블을 적용할 수 있습니다. [자세한 정보](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 
 ### <a name="powerpoint"></a>PowerPoint
-- **민감도 레이블**: 조직에서 사용자 지정 권한에 대한 메시지를 표시하도록 구성한 민감도 레이블을 적용할 수 있습니다. [자세한 정보](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **민감도 레이블** : 조직에서 사용자 지정 권한에 대한 메시지를 표시하도록 구성한 민감도 레이블을 적용할 수 있습니다. [자세한 정보](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 
 ### <a name="word"></a>Word
-- **민감도 레이블**: 조직에서 사용자 지정 권한에 대한 메시지를 표시하도록 구성한 민감도 레이블을 적용할 수 있습니다. [자세한 정보](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **민감도 레이블** : 조직에서 사용자 지정 권한에 대한 메시지를 표시하도록 구성한 민감도 레이블을 적용할 수 있습니다. [자세한 정보](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
@@ -1611,11 +1654,11 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 ### <a name="feature-updates"></a>기능 업데이트
 ### <a name="outlook"></a>Outlook
 
-- **종속적인 Wi-Fi 네트워크에 대한 새로운 경험: ** 로그인하기 위해 웹 페이지가 필요한 Wi-Fi 네트워크에 가입한 적이 있습니까? 이제 Outlook이 이를 감지하여 연결하는 데 도움을 줍니다.
+- **종속적인 Wi-Fi 네트워크에 대한 새로운 경험:** 로그인하기 위해 웹 페이지가 필요한 Wi-Fi 네트워크에 가입한 적이 있습니까? 이제 Outlook이 이를 감지하여 연결하는 데 도움을 줍니다.
 
 ### <a name="word"></a>Word
 
-- **그리기 도구 상자에서 잉크 편집기 찾기: ** 그리기를 선택한 다음 잉크 편집기 펜을 선택하여 손가락이나 디지털 펜으로 문서를 편집하세요. [자세한 정보](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
+- **그리기 도구 상자에서 잉크 편집기 찾기:** 그리기를 선택한 다음 잉크 편집기 펜을 선택하여 손가락이나 디지털 펜으로 문서를 편집하세요. [자세한 정보](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
 
 ### <a name="office-suite"></a>Office 제품군
 
@@ -1709,6 +1752,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13415.20002|version-2011-october-23|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13408.20000|version-2011-october-16|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13406.20000|version-2011-october-09|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13328.20000|version-2010-october-02|)
@@ -1718,5 +1762,4 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (|Win32|DevMain|Insiders| |16.0.13301.20004|version-2010-september-04|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13219.20004|version-2009-august-28|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13212.20000|version-2009-august-21|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13205.20000|version-2009-august-14|)
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 끝)
