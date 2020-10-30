@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 릴리스 정보에 대한 링크를 포함하여 Microsoft 365 앱 릴리스의 전체 목록을 날짜별로 구성해서 IT 전문가에게 제공합니다.
-ms.openlocfilehash: bee2186e91336f29f36edde863cbedae082835a8
-ms.sourcegitcommit: 1fa0c0b581efdfd4225f535186cb12fbccc403a1
+ms.openlocfilehash: d94549f509b812d37638a5f0e6a0077fafd229f6
+ms.sourcegitcommit: 16da127be61d3ac4db852de244516a36e3f5e129
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "48657316"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "48782323"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 앱의 업데이트 기록(날짜순)
 
@@ -34,7 +34,7 @@ ms.locfileid: "48657316"
 
 |**채널**|**버전**|**빌드**|**릴리스 날짜**|**다음 이하 버전까지 지원**|
 |:-----|:-----|:-----|:-----|:-----|
-|현재 채널<br/>|2009년<br/>|13231.20418<br/>|2020년 10월 21일<br/>|버전 2010 출시<br/>|
+|현재 채널<br/>|2010<br/>|13328.20292<br/>|2020년 10월 27일<br/>|버전 2011 출시<br/>|
 |월 단위 엔터프라이즈 채널<br/>|2008<br/>|13127.20638<br/>|2020년 10월 13일<br/>|2020년 12월 8일<br/>|
 |월 단위 엔터프라이즈 채널<br/>|2007<br/>|13029.20708<br/>|2020년 10월 13일<br/>|2020년 11월 10일<br/>|
 |반기 엔터프라이즈 채널(미리 보기)<br/>|2008<br/>|13127.20638<br/>|2020년 10월 13일<br/>|2021년 3월 9일<br/>|
@@ -51,6 +51,7 @@ ms.locfileid: "48657316"
 
 |**년도**|**릴리스 날짜**|**현재 채널**|**월 단위 엔터프라이즈 채널**|**반기 엔터프라이즈 채널(미리 보기)**|**반기 엔터프라이즈 채널**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2020|10월 27일|[버전 2010(빌드 13328.20292)](current-channel.md#version-2010-october-27)| | | |
 |2020|10월 21일|[버전 2009(빌드 13231.20418)](current-channel.md#version-2009-october-21)| | | |
 |2020|10월 13일|[버전 2009(빌드 13231.20390)](current-channel.md#version-2009-october-13)|[버전 2008(빌드 13127.20638)](monthly-enterprise-channel.md#version-2008-october-13)<br/>[버전 2007(빌드 13029.20708)](monthly-enterprise-channel.md#version-2007-october-13)|[버전 2008(빌드 13127.20638)](semi-annual-enterprise-channel-preview.md#version-2008-october-13)|[버전 2002(빌드 12527.21236)](semi-annual-enterprise-channel.md#version-2002-october-13)<br/>[버전 1908(빌드 11929.20966)](semi-annual-enterprise-channel.md#version-1908-october-13)|
 |2020|10월 8일|[버전 2009(빌드 13231.20368)](current-channel.md#version-2009-october-08)| | | |

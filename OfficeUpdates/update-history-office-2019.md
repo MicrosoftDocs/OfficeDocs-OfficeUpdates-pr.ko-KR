@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: C2R(간편 실행)을 사용하는 Office 2016 및 2019 영구 버전에 대한 업데이트 기록을 IT 전문가에게 제공합니다.
-ms.openlocfilehash: b4564f0ee33fe1f1625e2410855330f07fb391bd
-ms.sourcegitcommit: 1fa0c0b581efdfd4225f535186cb12fbccc403a1
+ms.openlocfilehash: ba996da9bf21f307388eec47801e18ee10567c58
+ms.sourcegitcommit: 16da127be61d3ac4db852de244516a36e3f5e129
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "48657306"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "48782283"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Office 2016 C2R 및 Office 2019의 업데이트 기록
 
@@ -23,8 +23,8 @@ Microsoft는 Office 2016 C2R(간편 실행) 버전과 Office 2019의 보안 및 
 최신 상태인지 확인하려는 경우 Office 버전 번호를 확인하고 필요한 경우 Office를 직접 업데이트합니다. Office의 버전을 확인하려면 다음을 수행합니다.
 
   1.    Word 또는 Excel과 같은 Office 응용 프로그램을 엽니다.
-  2.    **파일 > 계정**을 선택합니다.
-  3.    **제품 정보**에서 **정보 섹션** 아래의 버전 번호를 확인합니다.
+  2.    **파일 > 계정** 을 선택합니다.
+  3.    **제품 정보** 에서 **정보 섹션** 아래의 버전 번호를 확인합니다.
 
 버전 번호가 최신 버전과 일치하는 경우 최신 버전을 사용하는 것입니다. 그렇지 않은 경우 수동으로 업데이트하여 최신 버전의 Office를 가져올 수 있습니다. Office를 업데이트하려면 [다음 단계를 따르세요](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
 
@@ -85,12 +85,12 @@ Microsoft는 Office 2016 C2R(간편 실행) 버전과 Office 2019의 보안 및 
 
 |**릴리스 날짜**|**버전 번호**|**추가 정보**|
 |:-----|:-----|:-----|
+|2020년 10월 27일|버전 2010(빌드 13328.20292)| |
 |2020년 10월 21일|버전 2009(빌드 13231.20418)| |
 |2020년 10월 13일|버전 2009(빌드 13231.20390)|[보안 업데이트 페이지](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 참조  |
 |2020년 10월 8일|버전 2009(빌드 13231.20368)| |
 |2020년 9월 28일|버전 2009(빌드 13231.20262)| |
 |2020년 9월 22일|버전 2008(빌드 13127.20508)| |
-|2020년 9월 9일|버전 2008(빌드 13127.20408)|[보안 업데이트 페이지](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 참조 |
 
 
 [//]: # (VL 테이블 시작 제거 안 함)
@@ -104,6 +104,7 @@ Microsoft는 Office 2016 C2R(간편 실행) 버전과 Office 2019의 보안 및 
 
 |**릴리스 날짜**|**버전 번호**|**추가 정보**|
 |:-----|:-----|:-----|
+|2020년 9월 9일|버전 2008(빌드 13127.20408)|[보안 업데이트 페이지](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 참조 |
 |2020년 8월 31일|버전 2008(빌드 13127.20296)| |
 |2020년 8월 25일|버전 2007(빌드 13029.20460)| |
 |2020년 8월 11일|버전 2007(빌드 13029.20344)|[보안 업데이트 페이지](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 참조 |

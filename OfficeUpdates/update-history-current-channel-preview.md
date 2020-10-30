@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 월간 채널 업데이트 내역 제공 Windows 데스크톱의 대상 릴리스
-ms.openlocfilehash: 164f08c6b192be36396419c8e5c4b5412b0e8e7a
-ms.sourcegitcommit: d073ad1fa5007a3c01248e4cddc2d5a6e98e9811
+ms.openlocfilehash: 8856e1e2bf934bb51aba4c3614d62da3650ff4b1
+ms.sourcegitcommit: aff017c0f687d7501c877de09291079fecfc9362
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "48597771"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "48773610"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Windows Office 현재 채널(미리 보기)에 업데이트 기록
 
@@ -23,13 +23,13 @@ ms.locfileid: "48597771"
 
 ## <a name="office-current-channel-preview-versions-and-builds"></a>Office 현재 채널(미리 보기) 버전 및 빌드
 
-이전에 이후 참가자라고 불렸던 현재 채널(미리보기) 레벨에 등록한 경우 새로운 Office 기능 업데이트를 약 한달에 한번 그리고 그 외 중요한 수정 및 보안 보조 빌드를 얻을 수 있습니다. 다음 목록에서는 가장 최신의 현재 채널(미리보기) 버전 및 빌드를 보여줍니다(**가장 최신 릴리스된 빌드가 먼저 보여집니다**). 새 빌드에는 이전 빌드에 포함된 모든 업데이트가 포함됩니다.
+이전에 이후 참가자라고 불렸던 현재 채널(미리보기) 레벨에 등록한 경우 새로운 Office 기능 업데이트를 약 한달에 한번 그리고 그 외 중요한 수정 및 보안 보조 빌드를 얻을 수 있습니다. 다음 목록에서는 가장 최신의 현재 채널(미리보기) 버전 및 빌드를 보여줍니다( **가장 최신 릴리스된 빌드가 먼저 보여집니다** ). 새 빌드에는 이전 빌드에 포함된 모든 업데이트가 포함됩니다.
 릴리스 정보를 찾으려면 [참조](https://docs.microsoft.com/OfficeUpdates/current-channel-preview) 하세요. [Office 참가자의 새로운 기능](https://insider.office.com/ko-KR/releasenotes/windows/slow)을 참조하세요.
 
 
 > [!IMPORTANT]
 > - We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
-> - Office 365 ProPlus is being renamed to Microsoft 365 Apps for enterprise, starting with Version 2004. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2123420). In our documentation, we'll usually just refer to it as Microsoft 365 Apps.
+> - Office 365 ProPlus는 2004 버전부터 엔터프라이즈용 Microsoft 365 앱으로 이름이 변경됩니다. 자세한 내용은 [이 문서](https://go.microsoft.com/fwlink/p/?linkid=2123420)를 참조하세요. 문서에서 Microsoft 365 앱이라고 지칭합니다.
 
 > [!NOTE]
 > - 업데이트 내역에는 릴리스된 모든 빌드가 나열됩니다.
@@ -37,6 +37,12 @@ ms.locfileid: "48597771"
 
 
 [//]: # (제거하지 마세요)
+
+**2020년 10월 27일**<br/>
+버전 2010(빌드 13328.20292)<br/>
+
+**2020년 10월 24일**<br/>
+버전 2010(빌드 13328.20278)<br/>
 
 **2020년 10월 19일**<br/>
 버전 2010(빌드 13328.20210)<br/>
