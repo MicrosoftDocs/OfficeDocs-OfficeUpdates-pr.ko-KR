@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: e610cad6deafeb73ca08eaec454e85916f1c3d89
-ms.sourcegitcommit: 33f70d8bdd50099f33bef7143d909c5ab2dfe27e
+ms.openlocfilehash: 350eaf8320ae031ce8bc43ca188cc1e48b339092
+ms.sourcegitcommit: e79abb06d8096f75a23bb759ac4bb5491e071719
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/23/2020
-ms.locfileid: "48750577"
+ms.lasthandoff: 10/30/2020
+ms.locfileid: "48815604"
 ---
 # <a name="release-notes-for-beta-channel"></a>베타 채널용 릴리스 정보
 
@@ -30,6 +30,93 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (제거하지 마세요)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+## <a name="version-2011-october-30"></a>버전 2011: 10월 30일
+*버전 2011(빌드 13426.20004)*
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="excel"></a>Excel
+
+- **향상된 조건부 서식 대화 상자:** 조건부 서식 대화 상자의 크기를 조정할 수 있으며, 이제 한 번의 클릭으로 규칙을 복제할 수 있습니다. [자세한 정보](https://support.office.com/article/fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f)
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="access"></a>Access
+
+- Office가 아닌 응용 프로그램에서 DAO를 사용할 경우 응용 프로그램이 예기치 않게 종료되는 문제를 해결했습니다.
+
+
+### <a name="excel"></a>Excel
+
+- Oracle 데이터베이스에 대한 연결을 사용하는 경우의 파워 피벗 문제를 해결했습니다.
+
+
+- MTR 계산 및 그룹 정책 개체 업데이트(예: 원격 그룹 정책 새로 고침을 통해)가 트리거되는 경우 Excel이 예기치 않게 종료되는 문제를 해결했습니다.
+
+
+- 이 변경 내용은 Excel에서 atomsvc 파일을 로드하려고 시도할 때 오류를 발생시키는 버그를 수정합니다.
+
+
+- Excel 통합 문서를 Word 문서에 삽입하면 Word가 중단되는 문제를 해결했습니다.
+
+
+### <a name="outlook"></a>Outlook
+
+- 옵션이 회색으로 처리되어 사서함 소유자가 자신의 일정에 대한 공유 권한을 관리할 수 없는 문제를 해결했습니다.
+
+
+- 전자 메일 서식 파일을 .OFT로 저장하는 경우에 중국어 문자가 물음표로 변경되는 문제를 해결했습니다.
+
+
+- Outlook에서 제한된 권한으로 메시지를 작성할 수 없는 문제를 해결했습니다.
+
+
+- 첨부 파일을 추가하거나 저장할 때 Outlook이 산발적으로 작동을 멈추게 하는 문제를 해결했습니다.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 디자인 창을 닫을 때 눈금선이 슬라이드에서 이동되는 문제를 해결했습니다.
+
+
+- 선택 창이 열린 상태에서 화면 녹화를 중지한 후 슬라이드의 스크롤 막대가 스스로 조정하기 시작하는 문제를 해결했습니다.
+
+
+### <a name="project"></a>Project
+
+- PWA에서 로컬 mpp 파일로 프로젝트를 저장하는 경우 ProjectBeforeTaskChangeEvent가 실제로 사용자가 변경하지 않은 데이터에 대해 발생하는 문제를 해결했습니다.
+
+
+- 동일한 이름을 가진 여러 자원이 있을 경우 리소스 계약에서 GUID 대신 이름을 사용하여 리소스를 검색하는 문제를 해결했습니다.
+
+
+### <a name="word"></a>Word
+
+- 메모 힌트를 클릭 시 확대하여 보기에 메모 카드를 표시하지 않는 문제를 해결했습니다.
+
+
+- 열 사이 선이 이동할 수 있는 레이아웃 문제를 해결했습니다.
+
+
+- Excel 통합 문서를 Word 문서에 삽입하면 Word가 중단되는 문제를 해결했습니다.
+
+
+### <a name="office-suite"></a>Office 제품군
+
+- Office 2007 "Microsoft 응용 프로그램 오류 보고"제품과 함께 RemoveMSI 기능을 사용할 때 구성이 실패하는 Office 배포 도구 관련 문제를 해결했습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2011-october-23"></a>버전 2011: 10월 23일
 *버전 2011(빌드 13415.20002)*
@@ -1752,6 +1839,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13426.20004|version-2011-october-30|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13415.20002|version-2011-october-23|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13408.20000|version-2011-october-16|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13406.20000|version-2011-october-09|)
@@ -1761,5 +1849,4 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (|Win32|DevMain|Insiders| |16.0.13304.20000|version-2010-september-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13301.20004|version-2010-september-04|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13219.20004|version-2009-august-28|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13212.20000|version-2009-august-21|)
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 끝)
