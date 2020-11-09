@@ -9,25 +9,25 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Microsoft 365 앱 구독자를 위한 Mac용 Office 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 069f7c5eddef4a3d06b28414a9dd7fd857d6cad8
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: ba500a25ed32a9a3c7a57401fbfdc7ba7b3f208d
+ms.sourcegitcommit: 6da2dfccc63a75bf36d2660b770a62e61e8463be
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453216"
+ms.lasthandoff: 11/07/2020
+ms.locfileid: "48944168"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac용 Office에 대한 릴리스 정보
 
  
 Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데이트 및 비보안 업데이트를 제공하기 위해 정기적으로 업데이트됩니다.
   
-업데이트는 Microsoft 자동 업데이트(MAU)에서 사용할 수 있습니다. Microsoft 자동 업데이트를 사용하려면 Word와 같은 Office 응용 프로그램을 시작하고 **도움말** > **업데이트 확인**을 선택합니다. 관리자이며 기존 소프트웨어 배포 도구를 사용하여 조직의 컴퓨터를 업데이트하려는 경우 각 응용 프로그램에 대한 업데이트 패키지를 다운로드하고 배포할 수 있습니다.
+업데이트는 Microsoft 자동 업데이트(MAU)에서 사용할 수 있습니다. Microsoft 자동 업데이트를 사용하려면 Word와 같은 Office 응용 프로그램을 시작하고 **도움말** > **업데이트 확인** 을 선택합니다. 관리자이며 기존 소프트웨어 배포 도구를 사용하여 조직의 컴퓨터를 업데이트하려는 경우 각 응용 프로그램에 대한 업데이트 패키지를 다운로드하고 배포할 수 있습니다.
 
   
 > [!NOTE]
-> - Office 참가자인 경우 [초기 참가자 빌드용 릴리스 정보](https://support.office.com/article/b3260859-2c1e-4f12-92a4-62a6997efb3a)를 참조하세요.
+> - Office 참가자인 경우 [Mac 베타 채널 릴리스 노트](https://insider.office.com/releasenotes/mac/fast)를 참조하세요.
 > - 2018년 9월 16.17 릴리스부터 릴리스 정보는 소매점 또는 볼륨 라이선스 계약을 통해 일회용 구매 제품으로 사용할 수 있는 Mac용 Office 버전인 Mac용 Office 2019에도 적용됩니다. 그렇지만 릴리스 정보에 나열된 일부 기능은 Microsoft 365 구독이 있는 경우에만 사용할 수 있습니다.
-> - 종종 일정 기간 월 단위 채널에 기능(및 때때로 수정 항목)을 출시하기도 합니다. 이를 통해 기능을 더 많은 대상 그룹에 출시하기 전에 모두 원활하게 작동하는지 확인할 수 있습니다. 따라서 아래에 설명된 문제가 보이지 않는 이상 결국 받게 되니 아무것도 걱정할 필요가 없습니다. [자세히 알아보기](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+> - Microsoft는 일정 기간 동안 기능(및 경우에 따라서는 수정 사항)을 롤아웃합니다. 이를 통해 기능을 좀 더 광범위한 대상에게 출시하기 전에 원활하게 작동하는지 확인합니다. 따라서 아래에 설명된 기능이 보이지 않더라도 곧 제공될 예정이므로 걱정할 필요가 없습니다. [자세히 알아보기](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - 당사는 때때로 일반적인 품질 및 성능 향상을 포함하지만 새 기능은 포함되지 않은 업데이트를 릴리스합니다. 아래에 앱이 구체적으로 나열되어 있지 않은 경우 해당 앱에 대한 업데이트는 품질 및 성능 개선만을 포함하고 있습니다.
 
 
@@ -72,7 +72,7 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 
 ### <a name="powerpoint-mac"></a>PowerPoint Mac
 
-- **향상된 오디오 녹음 환경: **사용자의 녹음된 오디오를 추가할 수 있는 간단한 환경
+- **향상된 오디오 녹음 환경:** 사용자의 녹음된 오디오를 추가할 수 있는 간단한 환경
 
 ### <a name="word"></a>Word
 
@@ -181,7 +181,7 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 
 ### <a name="outlook"></a>Outlook
 
-- **손쉬운 빠른 작업**: 실행 가능한 메시지를 통해 전자 메일 내에서 바로 승인, 설문 조사 작성과 같은 빠른 작업을 수행할 수 있습니다.
+- **손쉬운 빠른 작업** : 실행 가능한 메시지를 통해 전자 메일 내에서 바로 승인, 설문 조사 작성과 같은 빠른 작업을 수행할 수 있습니다.
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -270,7 +270,7 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 
 - **원하는 내용 찾기:** 검색 창을 사용하여 텍스트, 명령, 도움말 등을 찾으세요. [자세한 정보](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)에서 세부 정보를 참조하세요.
 
-- **셀을 추가하는 빠른 방법**: **클릭하여 추가 모드를 사용하도록 설정**한 다음 =를 입력하고 일부 셀을 선택하여 셀 값을 추가하는 수식을 빠르게 만듭니다. **메뉴** > **기본 설정** > **편집**에서 옵션을 찾습니다.  [자세한 정보](https://support.office.com/ko-KR/article/what-s-new-in-microsoft-365-95c8d81d-08ba-42c1-914f-bca4603e1426#Platform=Mac) <br />[블로그 게시물](https://blog-insider.office.com/2020/04/21/click-to-add-mode-feedback-in-action/)에서 세부 정보 보기
+- **셀을 추가하는 빠른 방법** : **클릭하여 추가 모드를 사용하도록 설정** 한 다음 =를 입력하고 일부 셀을 선택하여 셀 값을 추가하는 수식을 빠르게 만듭니다. **메뉴** > **기본 설정** > **편집** 에서 옵션을 찾습니다.  [자세한 정보](https://support.office.com/ko-KR/article/what-s-new-in-microsoft-365-95c8d81d-08ba-42c1-914f-bca4603e1426#Platform=Mac) <br />[블로그 게시물](https://blog-insider.office.com/2020/04/21/click-to-add-mode-feedback-in-action/)에서 세부 정보 보기
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -309,13 +309,13 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 ### <a name="feature-updates"></a>기능 업데이트
 ### <a name="excel"></a>Excel
 
-- **자동으로 새 데이터 형식 사용**: 가능한 재고량 또는 지리적 위치와 유사한 데이터 값을 입력하면 Excel에서 재고량 또는 지역 중 해당하는 연결된 데이터 형식으로 변환할 것을 제안합니다.
-- **다양한 방향을 지닌 워크시트 인쇄**: 전체 통합 문서를 한꺼번에 인쇄할 경우 Mac용 Excel에서는 페이지 레이아웃 옵션을 기준으로 가로 또는 세로 방향으로 각 시트를 인쇄할 수 있습니다.
+- **자동으로 새 데이터 형식 사용** : 가능한 재고량 또는 지리적 위치와 유사한 데이터 값을 입력하면 Excel에서 재고량 또는 지역 중 해당하는 연결된 데이터 형식으로 변환할 것을 제안합니다.
+- **다양한 방향을 지닌 워크시트 인쇄** : 전체 통합 문서를 한꺼번에 인쇄할 경우 Mac용 Excel에서는 페이지 레이아웃 옵션을 기준으로 가로 또는 세로 방향으로 각 시트를 인쇄할 수 있습니다.
 - **통합 문서에 대한 통계 가져오기:** 통합 문서 통계는 통합 문서의 내용을 간략하게 파악하는 데 도움이 되는 통합 문서의 내용에 대한 개요를 제공합니다.
 
 ### <a name="outlook"></a>Outlook
 
-- **Outlook Mac에서 오프라인으로 일정 검색**: 이제 오프라인 상태에서 Mac의 Outlook 일정에서 이벤트 및 약속을 검색할 수 있습니다.
+- **Outlook Mac에서 오프라인으로 일정 검색** : 이제 오프라인 상태에서 Mac의 Outlook 일정에서 이벤트 및 약속을 검색할 수 있습니다.
 
 ### <a name="security-updates"></a>보안 업데이트
 
@@ -331,18 +331,18 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 ### <a name="feature-updates"></a>기능 업데이트
 ### <a name="excel"></a>Excel
 
-- **민감도 레이블**: 조직에서 사용자 지정 권한에 대한 메시지를 표시하도록 구성한 민감도 레이블을 적용할 수 있습니다. [자세한 정보](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+- **민감도 레이블** : 조직에서 사용자 지정 권한에 대한 메시지를 표시하도록 구성한 민감도 레이블을 적용할 수 있습니다. [자세한 정보](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
 
 ### <a name="powerpoint"></a>PowerPoint
 
 - **발표자 보기에서 현재 슬라이드 창을 축소 하는 기능:** 화면 왼쪽으로 줄 나눔줄을 끌어 현재 슬라이드 보기를 축소하여 프레젠테이션이 진행되는 동안 "다음 슬라이드"만 볼 수 있습니다.
-- **민감도 레이블**: 조직에서 사용자 지정 권한에 대한 메시지를 표시하도록 구성한 민감도 레이블을 적용할 수 있습니다. [자세한 정보](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+- **민감도 레이블** : 조직에서 사용자 지정 권한에 대한 메시지를 표시하도록 구성한 민감도 레이블을 적용할 수 있습니다. [자세한 정보](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
 
 
 
 ### <a name="word"></a>Word
 
-- **민감도 레이블**: 조직에서 사용자 지정 권한에 대한 메시지를 표시하도록 구성한 민감도 레이블을 적용할 수 있습니다. [자세한 정보](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+- **민감도 레이블** : 조직에서 사용자 지정 권한에 대한 메시지를 표시하도록 구성한 민감도 레이블을 적용할 수 있습니다. [자세한 정보](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
 
 
 ### <a name="security-updates"></a>보안 업데이트
@@ -367,7 +367,7 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 
 - **읽고 즉시 회신:** 통합 문서를 열지 않고 전자 메일에서 바로 메모와 멘션에 회신합니다.
 
-- **왼쪽을 보고, 오른쪽을 보십시오… XLOOKUP이 여기 있습니다! ** 행별로 XLOOKUP을 사용하여 테이블 또는 범위에서 필요한 것을 모두 찾으십시오. [자세한 정보](https://support.office.com/article/b7fd680e-6d10-43e6-84f9-88eae8bf5929)
+- **왼쪽을 보고, 오른쪽을 보십시오… XLOOKUP이 여기 있습니다!** 행별로 XLOOKUP을 사용하여 테이블 또는 범위에서 필요한 것을 모두 찾으십시오. [자세한 정보](https://support.office.com/article/b7fd680e-6d10-43e6-84f9-88eae8bf5929)
 
 - **로컬 테이블 및 범위에서 데이터 새로 고침:** 로컬 테이블 및 범위에서 Mac Power Query 쿼리를 새로 고침 합니다.
 
@@ -641,8 +641,8 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 
 ### <a name="word-feature-updates"></a>Word: 기능 업데이트
 
-- **\@@멘션**으로 주의 끌기: 메모에 @멘션을 사용하여 입력이 필요하다는 사실을 동료들에게 알립니다.
-- **공동 작성 향상**: 문서를 공동 작성하는 경우 Word 성능이 향상 됩니다.
+- **\@@멘션** 으로 주의 끌기: 메모에 @멘션을 사용하여 입력이 필요하다는 사실을 동료들에게 알립니다.
+- **공동 작성 향상** : 문서를 공동 작성하는 경우 Word 성능이 향상 됩니다.
 
 ### <a name="word-security-updates"></a>Word: 보안 업데이트
 
@@ -651,13 +651,13 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 
 ### <a name="excel-feature-updates"></a>Excel: 기능 업데이트
 
-- **\@@멘션**으로 주의 끌기: 메모에 @멘션을 사용하여 입력이 필요하다는 사실을 동료들에게 알립니다.
+- **\@@멘션** 으로 주의 끌기: 메모에 @멘션을 사용하여 입력이 필요하다는 사실을 동료들에게 알립니다.
 - **그룹화 필요성:** 피벗 테이블 날짜는 그룹으로 묶을 필요가 없습니다. Excel > 기본 설정 > 표 및 필터에서 자동 그룹화를 끕니다.
 - **아래 첨자 및 위 첨자의 빠른 사용:** 아래 첨자, 위 첨자, 취소선을 자주 사용한다면 리본 및 빠른 실행 도구 모음에 추가하여 쉽게 사용할 수 있습니다.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 기능 업데이트
 
-- **\@@멘션**으로 주의 끌기: 메모에 @멘션을 사용하여 입력이 필요하다는 사실을 동료들에게 알립니다.
+- **\@@멘션** 으로 주의 끌기: 메모에 @멘션을 사용하여 입력이 필요하다는 사실을 동료들에게 알립니다.
 - **온라인 비디오의 새로운 홈:** 조직의 모든 사람이 볼 수 있도록 비디오를 Microsoft Stream에 저장하세요. 비디오 링크를 삽입하고 파일 크기의 일부로 멀티미디어 프레젠테이션을 즐겨보세요.
 - **라이브 캡션 및 자막:** 사용자가 발표하는 동안 사용자의 단어가 캡션으로 자동으로 표시되거나 원하는 언어의 자막으로 번역됩니다. 효과를 높이려면 헤드셋 마이크를 사용하세요.
 
@@ -813,19 +813,19 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 
 |**애플리케이션**|**기능 업데이트**|**보안 업데이트**|**업데이트 패키지용 다운로드 링크**|
 |:-----|:-----|:-----|:-----|
-|Word  <br/>| **iPhone에서 즉시 Word로:** Apple 연속성 카메라를 사용하여 iPhone에서 문서에 삽입합니다. MacOS Mojave가 필요합니다. [자세히 알아보기](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> **문서에 민감도 레이블 적용:** 조직의 정보 보호 정책을 항상 준수하기 위해 문서에 민감도 레이블을 적용합니다.[자세히 알아보기](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9)<br/><br/>**필터가 적용된 SVG 삽입:** Office 사용자는 이제 필터가 적용된 SVG를 삽입할 수 있습니다. [자세히 알아보기](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>| [CVE-2019-0561](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-0561): Microsoft Word 정보 노출 취약성  <br/><br/> [CVE-2019-0585](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-0585): Microsoft Word 원격 코드 실행 취약성 |[Word 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.21.19011500_Updater.pkg) <br/>|
-|Excel  <br/>| **메모를 사용하여 공동 작업:** 기본 제공 회신 상자를 사용하여 스프레드시트에서 바로 대화를 진행합니다. [자세히 알아보기](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8)<br/><br/> **워크시트에 민감도 레이블 적용:** 조직의 정보 보호 정책을 항상 준수하기 위해 워크시트에 민감도 레이블을 적용합니다.[자세히 알아보기](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>**필터가 적용된 SVG 삽입:** Office 사용자는 이제 필터가 적용된 SVG를 삽입할 수 있습니다. [자세히 알아보기](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**SVG 지원:** 시각적 효과를 추가하려면 통합 문서에 SVG를 삽입하고 편집합니다. [자세한 정보](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**히스토그램, 폭포, 트리맵, 선버스트, 깔때기형 및 지도 차트의 추가 서식 옵션:** 서식 창을 사용하여 새 차트 종류의 서식 옵션을 더 세밀하게 제어할 수 있습니다.|[Excel 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.21.19011500_Updater.pkg) <br/>|
-|PowerPoint  <br/>| **유인물에 슬라이드 번호 인쇄:** 프레젠테이션을 유인물로 인쇄하면 각 슬라이드의 번호가 함께 표시됩니다. <br/><br/> **프레젠테이션에 민감도 레이블 적용:** 조직의 정보 보호 정책을 항상 준수하기 위해 프레젠테이션에 민감도 레이블을 적용합니다.[자세히 알아보기](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9)<br/><br/>**필터가 적용된 SVG 삽입:** Office 사용자는 이제 필터가 적용된 SVG를 삽입할 수 있습니다. [자세히 알아보기](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**글꼴의 하위 집합 포함:** 이제 프레젠테이션에서 사용한 문자만 포함할 수 있습니다.  [자세한 정보](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3)|[PowerPoint 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.21.19011500_Updater.pkg) <br/>|
-|Outlook  <br/>| **메시지에 민감도 레이블 적용:** 조직의 정보 보호 정책을 항상 준수하기 위해 메시지에 민감도 레이블을 적용합니다.[자세히 알아보기](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>**필터가 적용된 SVG 삽입:** Office 사용자는 이제 필터가 적용된 SVG를 삽입할 수 있습니다. [자세히 알아보기](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**현재 사서함에서 빠르게 메일 찾기:** 검색 상자를 선택하여 최근 검색 기록을 바탕으로 신속하게 제안합니다. 입력할 필요가 없습니다. [자세한 정보](https://support.office.com/article/53b60f65-25b7-4582-9c5e-4adf16e503a1)<br/><br/>**Gmail 계정을 더 쉽게 추가하기:** 보안 개선으로 더 이상 “덜 안전한 앱”에 대한 액세스를 허용하거나 Outlook에 Gmail 계정을 추가하기 위해 앱 암호를 설정할 필요가 없습니다. <br/><br/>**Mac 용 Outlook에서 검색어 강조 표시:** 단어나 이름을 검색하면서 Outlook이 항목 목록이나 미리 보기 창에 검색 용어를 강조 표시하기를 바란 적이 있으세요? 이제 여기에 나와 있으니 더 이상 궁금해하지 않아도 됩니다.||[Outlook 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.21.19011500_Updater.pkg) <br/>|
+|Word  <br/>| **iPhone에서 즉시 Word로:** Apple 연속성 카메라를 사용하여 iPhone에서 문서에 삽입합니다. MacOS Mojave가 필요합니다. [자세히 알아보기](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> **문서에 민감도 레이블 적용:** 조직의 정보 보호 정책을 항상 준수하기 위해 문서에 민감도 레이블을 적용합니다. [자세히 알아보기](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9)<br/><br/>**필터가 적용된 SVG 삽입:** Office 사용자는 이제 필터가 적용된 SVG를 삽입할 수 있습니다. [자세히 알아보기](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>| [CVE-2019-0561](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-0561): Microsoft Word 정보 노출 취약성  <br/><br/> [CVE-2019-0585](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-0585): Microsoft Word 원격 코드 실행 취약성 |[Word 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.21.19011500_Updater.pkg) <br/>|
+|Excel  <br/>| **메모를 사용하여 공동 작업:** 기본 제공 회신 상자를 사용하여 스프레드시트에서 바로 대화를 진행합니다. [자세히 알아보기](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8)<br/><br/> **워크시트에 민감도 레이블 적용:** 조직의 정보 보호 정책을 항상 준수하기 위해 워크시트에 민감도 레이블을 적용합니다. [자세히 알아보기](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>**필터가 적용된 SVG 삽입:** Office 사용자는 이제 필터가 적용된 SVG를 삽입할 수 있습니다. [자세히 알아보기](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**SVG 지원:** 시각적 효과를 추가하려면 통합 문서에 SVG를 삽입하고 편집합니다. [자세한 정보](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**히스토그램, 폭포, 트리맵, 선버스트, 깔때기형 및 지도 차트의 추가 서식 옵션:** 서식 창을 사용하여 새 차트 종류의 서식 옵션을 더 세밀하게 제어할 수 있습니다.|[Excel 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.21.19011500_Updater.pkg) <br/>|
+|PowerPoint  <br/>| **유인물에 슬라이드 번호 인쇄:** 프레젠테이션을 유인물로 인쇄하면 각 슬라이드의 번호가 함께 표시됩니다. <br/><br/> **프레젠테이션에 민감도 레이블 적용:** 조직의 정보 보호 정책을 항상 준수하기 위해 프레젠테이션에 민감도 레이블을 적용합니다. [자세히 알아보기](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9)<br/><br/>**필터가 적용된 SVG 삽입:** Office 사용자는 이제 필터가 적용된 SVG를 삽입할 수 있습니다. [자세히 알아보기](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**글꼴의 하위 집합 포함:** 이제 프레젠테이션에서 사용한 문자만 포함할 수 있습니다.  [자세한 정보](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3)|[PowerPoint 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.21.19011500_Updater.pkg) <br/>|
+|Outlook  <br/>| **메시지에 민감도 레이블 적용:** 조직의 정보 보호 정책을 항상 준수하기 위해 메시지에 민감도 레이블을 적용합니다. [자세히 알아보기](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>**필터가 적용된 SVG 삽입:** Office 사용자는 이제 필터가 적용된 SVG를 삽입할 수 있습니다. [자세히 알아보기](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**현재 사서함에서 빠르게 메일 찾기:** 검색 상자를 선택하여 최근 검색 기록을 바탕으로 신속하게 제안합니다. 입력할 필요가 없습니다. [자세한 정보](https://support.office.com/article/53b60f65-25b7-4582-9c5e-4adf16e503a1)<br/><br/>**Gmail 계정을 더 쉽게 추가하기:** 보안 개선으로 더 이상 “덜 안전한 앱”에 대한 액세스를 허용하거나 Outlook에 Gmail 계정을 추가하기 위해 앱 암호를 설정할 필요가 없습니다. <br/><br/>**Mac 용 Outlook에서 검색어 강조 표시:** 단어나 이름을 검색하면서 Outlook이 항목 목록이나 미리 보기 창에 검색 용어를 강조 표시하기를 바란 적이 있으세요? 이제 여기에 나와 있으니 더 이상 궁금해하지 않아도 됩니다.||[Outlook 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.21.19011500_Updater.pkg) <br/>|
 |Microsoft 자동 업데이트 4.7 <br/>| 이제 설치 프로세스의 일환으로 자동 업데이트 디먼이 시작됩니다. 이는 이전에 사용자에게 표시된 헷갈리는 보안 대화를 제거합니다. <br/><br/> Microsoft 자동 업데이트의 보안 기능이 향상되어 SHA256 인증서를 지원할 수 있습니다. <br/>|<br/> | [Microsoft 자동 업데이트의 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.7.19011500_Updater.pkg)|
 
 > [!NOTE]
-> 버전 16.21부터 Microsoft Teams가 ***새*** 설치에 기본적으로 설치됩니다. 자세한 내용은 [Mac에 Microsoft Teams 설치](https://docs.microsoft.com/DeployOffice/teams-install#microsoft-teams-installations-on-a-mac)를 참조하세요.  
+> 버전 16.21부터 Microsoft Teams가 * *_새_* _ 설치에 기본적으로 설치됩니다. 자세한 내용은[Mac에 Microsoft Teams 설치](https://docs.microsoft.com/DeployOffice/teams-install#microsoft-teams-installations-on-a-mac)를 참조하세요.  
 
 
 ## <a name="december-2018-release"></a>2018년 12월 릴리스
 
- **릴리스 날짜:** 2018년 12월 11일 
+ _ *릴리스 날짜:* * 2018년 12월 11일 
   
  *버전 16.20.0(빌드 18120801)* 
   
@@ -887,7 +887,7 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 |:-----|:-----|:-----|:-----|
 |Word  <br/> |<br/>**잉크로 그리기:** 마우스 또는 터치 패드와 그리기 탭의 펜을 사용하여 글을 쓰고 그림을 그리고 강조 표시합니다. [자세히 알아보기](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/>**3D 모델을 삽입하여 모든 각도 보기:** 3D 모델을 쉽게 삽입하고 360도까지 회전합니다. [자세히 알아보기](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/>||[Word 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.17.18090901_Updater.pkg) <br/>|
 |Excel  <br/> |**잉크로 그리기:** 마우스 또는 터치 패드와 그리기 탭의 펜을 사용하여 글을 쓰고 그림을 그리고 강조 표시합니다. [자세히 알아보기](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**3D 모델을 삽입하여 모든 각도 보기:** 3D 모델을 쉽게 삽입하고 360도까지 회전합니다. [자세히 알아보기](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**사용자 지정 바로 가기 키 복원:** 여러분의 의견을 반영했습니다. 요구에 응해 사용자 지정 바로 가기 키를 복원했습니다. [자세히 알아보기](https://support.office.com/article/6bbeb90e-96d9-4e03-b199-fc026ebdc321) <br/>|[CVE-2018-8429](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8429): Microsoft Excel 정보 노출 취약성 <br/><br/>[CVE-2018-8331](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8331): Microsoft Excel 원격 코드 실행 취약성 <br/>  |[Excel 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.17.18090901_Updater.pkg) <br/>|
-|PowerPoint  <br/> |<br/>**잉크로 그리기:** 마우스 또는 터치 패드와 그리기 탭의 펜을 사용하여 글을 쓰고 그림을 그리고 강조 표시합니다.[자세히 알아보기](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**3D 모델을 삽입하여 모든 각도 보기:** 3D 모델을 쉽게 삽입하고 360도까지 회전합니다. [자세히 알아보기](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**선택한 글꼴을 그대로 표시:** 파일에 사용자 지정 글꼴을 포함시켜 파일이 어디로 가든 폰트도 항상 따라갑니다. [자세히 알아보기](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/>||[PowerPoint 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.17.18090901_Updater.pkg) <br/>|
+|PowerPoint  <br/> |<br/>**잉크로 그리기:** 마우스 또는 터치 패드와 그리기 탭의 펜을 사용하여 글을 쓰고 그림을 그리고 강조 표시합니다. [자세히 알아보기](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**3D 모델을 삽입하여 모든 각도 보기:** 3D 모델을 쉽게 삽입하고 360도까지 회전합니다. [자세히 알아보기](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**선택한 글꼴을 그대로 표시:** 파일에 사용자 지정 글꼴을 포함시켜 파일이 어디로 가든 폰트도 항상 따라갑니다. [자세히 알아보기](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/>||[PowerPoint 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.17.18090901_Updater.pkg) <br/>|
 |Outlook  <br/> |||[Outlook 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.17.18090901_Updater.pkg) <br/>|
 |Microsoft 자동 업데이트 4.3  <br/> |||| 
 |Office 제품군  <br/> ||[CVE-2018-8332](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8332): Microsoft 그래픽 원격 코드 취약성 <br/>||
@@ -1225,7 +1225,7 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
   
 |**응용 프로그램**|**비보안 업데이트**|
 |:-----|:-----|
-|Microsoft 자동 업데이트 3.9.1  <br/> | - "자동 확인"을 선택한 경우 자동 업데이트 알림이 표시되지 않도록 하는 심각한 문제를 해결합니다.  <br/><br/>  - OS X 10.10에서 자동 업데이트가 중단되는 문제를 해결합니다.  <br/><br/> - 업데이트가 보류 중인 경우 앱이 시작되지 않는 문제를 해결합니다.   <br/><br/> **중요:** Microsoft 자동 업데이트 3.9.0으로 업데이트했으며 자동 업데이트 설정이 "자동 확인"으로 지정되면 다음 방법 중 하나를 사용하여 수동으로 Microsoft 자동 업데이트 3.9.1로 업데이트해야 합니다.  <br/><br/>  - **도움말** > **업데이트 확인**으로 이동한 후 **업데이트 확인**을 선택합니다.  <br/><br/>  - **도움말** > **업데이트 확인**으로 이동한 후 **자동 다운로드 및 설치**를 선택합니다.  |
+|Microsoft 자동 업데이트 3.9.1  <br/> | - "자동 확인"을 선택한 경우 자동 업데이트 알림이 표시되지 않도록 하는 심각한 문제를 해결합니다.  <br/><br/>  - OS X 10.10에서 자동 업데이트가 중단되는 문제를 해결합니다.  <br/><br/> - 업데이트가 보류 중인 경우 앱이 시작되지 않는 문제를 해결합니다.   <br/><br/> **중요:** Microsoft 자동 업데이트 3.9.0으로 업데이트했으며 자동 업데이트 설정이 "자동 확인"으로 지정되면 다음 방법 중 하나를 사용하여 수동으로 Microsoft 자동 업데이트 3.9.1로 업데이트해야 합니다.  <br/><br/>  - **도움말** > **업데이트 확인** 으로 이동한 후 **업데이트 확인** 을 선택합니다.  <br/><br/>  - **도움말** > **업데이트 확인** 으로 이동한 후 **자동 다운로드 및 설치** 를 선택합니다.  |
    
 ## <a name="april-2017-release"></a>2017년 4월 릴리스
 
