@@ -9,17 +9,17 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: 간편 실행을 사용하는 Office 2010 영구 버전에 대한 업데이트 기록을 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 93ac645aaef5ab770d4ca07f0e4049c93354ead4
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: b01719e43ad29de589bd9cf90c583cb11d7fb0bb
+ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453406"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "48989937"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Office 2010 간편 실행 제품에 대한 업데이트 기록
 
 > [!IMPORTANT]
-> Office 2010에 대한 지원이 2020년 10월 13일에 종료됩니다. 아직 Office 2010 환경 업그레이드를 시작하지 않았다면 지금 시작하는 것이 좋습니다. 자세한 내용은 [Office 2010 지원 종료 로드맵](https://docs.microsoft.com/DeployOffice/office-2010-end-support-roadmap)을 참조하세요. 
+> Office 2010에 대 한 지원은 2020 년 10 월 13 일에 종료 되었습니다. 아직 Office 2010 환경 업그레이드를 시작하지 않았다면 지금 시작하는 것이 좋습니다. 자세한 내용은 [Office 2010 지원 종료 로드맵](https://docs.microsoft.com/DeployOffice/office-2010-end-support-roadmap)을 참조하세요. 
 
 
 다음 Office 2010 제품은 간편 실행이라는 기술을 사용하여 자동으로 최신 상태로 유지됩니다.  
@@ -33,13 +33,13 @@ ms.locfileid: "48453406"
 이러한 제품 중 하나를 사용하고 있는 경우 최신 상태인지 확인하려면 Office 버전 번호를 확인하고 필요한 경우 Office 를 수동으로 업데이트하세요.
   
 > [!NOTE]
-> 최신 버전의 Office 2010는 **14.0.7261.5000**이며 2020는 10 월 13 일에 출시 되었습니다.
+> 최신 버전의 Office 2010는 **14.0.7261.5000** 이며 2020는 10 월 13 일에 출시 되었습니다.
   
 Office의 버전을 확인하려면 다음을 수행합니다.
   
 1. Word 또는 Excel과 같은 Office 2010 응용 프로그램을 엽니다.
     
-2. **파일** > **도움말**을 선택합니다.
+2. **파일** > **도움말** 을 선택합니다.
     
 3. **간편 실행 제품 업데이트** 아래에서 나열되는 버전 번호를 기록해 둡니다.
     
@@ -57,7 +57,7 @@ Office의 버전을 확인하려면 다음을 수행합니다.
   
 |**릴리스 연도**|**릴리스 날짜**|**버전 번호**|**추가 정보**|
 |:-----|:-----|:-----|:-----|
-|2020|10월 13일|14.0.7261.5000 <br/>|[(영문) 4583495](https://support.microsoft.com/help/4583495)<br/>|
+|2020|10월 13일|14.0.7261.5000 <br/>|[KB 4583495](https://support.microsoft.com/help/4583495)<br/>|
 ||9월 8일|14.0.7258.5000 <br/> |[KB 4576653](https://support.microsoft.com/help/4576653)<br/>|
 || 8월 11일 <br/>|14.0.7257.5000 <br/>|[KB 4563408](https://support.microsoft.com/help/4563408) <br/>|
 ||7월 14일 <br/> |14.0.7254.5000 <br/> |[KB 4559453](https://support.microsoft.com/help/4559453) <br/>|

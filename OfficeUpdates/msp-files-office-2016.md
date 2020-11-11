@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Windows Installer (MSI)를 사용 하는 정품 버전의 Office 2016에 대 한 최신 .msp 파일 목록을 IT 전문가에 게 제공 합니다.
-ms.openlocfilehash: 860998111e69aaaec77bdf91544ec5ce48133930
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: 1a759cb88e4e502f99dbfd1c1baf1d47d96a8a9c
+ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453306"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "48990123"
 ---
 # <a name="list-of-the-most-current-msp-files-for-office-2016-products"></a>Office 2016 제품의 가장 최근 .msp 파일 목록
 
@@ -24,15 +24,15 @@ ms.locfileid: "48453306"
   
 ## <a name="most-recently-updated-msp-files"></a>가장 최근에 업데이트 된 .msp 파일
 
-다음 표에서는 **2020 년 10 월**에 업데이트 된 .msp 파일을 보여 줍니다.
+다음 표에서는 **11 월 2020** 일에 업데이트 된 .msp 파일을 보여 줍니다.
   
 |비보안 업데이트 * * * *|보안 업데이트 * * * *|
 |:-----|:-----|
-|filterpack-x-없음<br>|excel-x-없음<br/>|
-|lync-x-없음<br>|그래프-x-없음<br/>|
-|프로젝트-x-없음<br>|outlook-x-없음<br/>|
-|visio-x-없음<br>|vbe7-x-없음<br/>|
-| <br>| 단어-x-없음<br/>|
+|lync-x-없음<br>|ace-x-없음<br/>|
+|mso-x-없음<br>|excel-x-없음<br/>|
+|msodll30-x-없음<br>|그래프-x-없음<br/>|
+|outlook-x-없음<br>|단어-x-없음<br/>|
+|프로젝트-x-없음<br>|<br/>|
 
 
 
@@ -45,7 +45,7 @@ ms.locfileid: "48453306"
 |.msp 파일 이름 * * * *|제품 * * * *|비보안 릴리스 날짜 * * * *|비 보안 기술 자료 문서 * * * *|보안 릴리스 날짜 * * * *|보안 릴리스 기술 자료 문서 * * * *|보안 KB(대체 됨 * * * *|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |access-x-없음  <br/> |Access 2016  <br/> |2019년 11월 5일  <br/> |[4475539](https://support.microsoft.com/help/4475539) <br/> |2020년 8월 11일  <br/> |[4484340](https://support.microsoft.com/help/4484340) <br/> |[4484167](https://support.microsoft.com/help/4484167) <br/> | 
-|ace-x-없음  <br/> |Office 2016  <br/> |2020년 6월 2일  <br/> |[4484394](https://support.microsoft.com/help/4484394) <br/> |2020년 8월 11일  <br/> |[4484431](https://support.microsoft.com/help/4484431) <br/>|[4484287](https://support.microsoft.com/help/4484287) <br/> |
+|ace-x-없음  <br/> |Office 2016  <br/> |2020년 6월 2일  <br/> |[4484394](https://support.microsoft.com/help/4484394) <br/> | 2020년 11월 10일  <br/> |[4484508](https://support.microsoft.com/help/4484508) <br/> |[4484431](https://support.microsoft.com/help/4484431) <br/>|
 |acewss-x-없음  <br/> |Office 2016  <br/> |2017 년 11 월 7 일  <br/> |[4011259](https://support.microsoft.com/help/4011259) <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |
 |차트-x-없음  <br/> |Office 2016  <br/> |2020년 6월 2일  <br/> |[4484171](https://support.microsoft.com/help/4484171) <br/> |2018년 4월 10일  <br/> |[4018319](https://support.microsoft.com/help/4018319) <br/> |[4011095](https://support.microsoft.com/help/4011095) <br/> |
 |conv-x-없음  <br/> |Office 2016  <br/> |해당 없음  <br/> |해당 없음  <br/> |2017년 9월 12일  <br/> |[3213551](https://support.microsoft.com/help/3213551) <br/> |[3203383](https://support.microsoft.com/help/3203383) <br/> |
@@ -53,23 +53,23 @@ ms.locfileid: "48453306"
 |csisyncclient-x-없음  <br/> |Office 2016  <br/> |2016년 10월 4일  <br/> |[3118264](https://support.microsoft.com/help/3118264) <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |
 |dcf-x-없음  <br/> |Office 2016  <br/> |2019년 1월 2일  <br/> |[4461435](https://support.microsoft.com/help/4461435) <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |
 |eqnedt32-x-없음  <br/> |Office 2016  <br/> |해당 없음  <br/> |해당 없음  <br/> |2018년 1월 9일  <br/> |[4011574](https://support.microsoft.com/help/4011574) <br/> |[4011262](https://support.microsoft.com/help/4011262)  <br/> |
-|excel-x-없음  <br/> |Excel 2016  <br/> |2020년 7월 7일  <br/> |[4484437](https://support.microsoft.com/help/4484437) <br/> |2020년 10월 13일  <br/> |[4486678](https://support.microsoft.com/help/4486678) <br/>|[4484507](https://support.microsoft.com/help/4484507) <br/> |
+|excel-x-없음  <br/> |Excel 2016  <br/> |2020년 7월 7일  <br/> |[4484437](https://support.microsoft.com/help/4484437) <br/> |2020년 11월 10일  <br/> |[4486718](https://support.microsoft.com/help/4486718) <br/> |[4486678](https://support.microsoft.com/help/4486678) <br/>|
 |excel 페이지-x-없음  <br/> |Office 2016  <br/> |2019년 9월 3일  <br/> |[4011629](https://support.microsoft.com/help/4011629) <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |
 |f.pdf-x-없음  <br/> |Office 2016  <br/> |2016 년 4 월 5 일  <br/> |[2920720](https://support.microsoft.com/help/2920720) <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |
 |filterpack-x-없음  <br/> |Office 2016  <br/> |2020년 10월 6일  <br/> |[4475584](https://support.microsoft.com/help/4475584) <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |
 |글꼴-x-없음  <br/> |Office 2016  <br/> |2016 년 4 월 5 일  <br/> |[3114903](https://support.microsoft.com/help/3114903) <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |
 |gkall-x-없음  <br/> |Office 2016  <br/> |2016년 9월 6일  <br/> |[3115276](https://support.microsoft.com/help/3115276) <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |
-|그래프-x-없음  <br/> |Office 2016  <br/> |2018 년 3 월 6 일  <br/> |[4011624](https://support.microsoft.com/help/4011624) <br/> |2020년 10월 13일  <br/> |[4486682](https://support.microsoft.com/help/4486682) <br/>|[4484513](https://support.microsoft.com/help/4484513) <br/> |
+|그래프-x-없음  <br/> |Office 2016  <br/> |2018 년 3 월 6 일  <br/> |[4011624](https://support.microsoft.com/help/4011624) <br/> |2020년 11월 10일  <br/> |[4486722](https://support.microsoft.com/help/4486722) <br/> |[4486682](https://support.microsoft.com/help/4486682) <br/>|
 |그루브-x-없음  <br/> |비즈니스용 OneDrive  <br/> |2018 년 8 월 7 일  <br/> |[4022219](https://support.microsoft.com/help/4022219) <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |
 |ieawsdc-x-없음  <br/> |Office 2016  <br/> |해당 없음  <br/> |해당 없음 <br/> |2015년 10월 13일  <br/> |[3085538](https://support.microsoft.com/help/3085538)  <br/> |해당 사항 없음  <br/> |
 |kohhc-x-없음  <br/> |Office 2016  <br/> |2017 년 6 월 6 일  <br/> |[3191929](https://support.microsoft.com/help/3191929) <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |
-|lip-*참조* <sup>1</sup> <br/> |Office 2016 언어 인터페이스 팩  <br/> |2020년 3월 3일  <br/> |[4484136](https://support.microsoft.com/help/4484136) <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |
-|lync-x-없음  <br/> |비즈니스용 Skype 2016  <br/> |2020년 10월 6일  <br/> |[4486669](https://support.microsoft.com/help/4486669) <br/> |2019년 7월 9일  <br/> |[4475545](https://support.microsoft.com/help/4475545) <br/> |[4461473](https://support.microsoft.com/help/4461473)  <br/> |
+|lip- *참조* <sup>1</sup> <br/> |Office 2016 언어 인터페이스 팩  <br/> |2020년 3월 3일  <br/> |[4484136](https://support.microsoft.com/help/4484136) <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |
+|lync-x-없음  <br/> |비즈니스용 Skype 2016  <br/> |2020년 11월 3일  <br/> |[4486710](https://support.microsoft.com/help/4486710) <br/> |2019년 7월 9일  <br/> |[4475545](https://support.microsoft.com/help/4475545) <br/> |[4461473](https://support.microsoft.com/help/4461473)  <br/> |
 |mscomctlocx-x-없음  <br/> |Office 2016  <br/> |해당 없음  <br/> |해당 없음  <br/> |2016년 1월 12일  <br/> |[2920727](https://support.microsoft.com/help/2920727) <br/> |해당 사항 없음  <br/> |
 |msmipc-x-없음  <br/> |Office 2016  <br/> |2017 년 4 월 4 일  <br/> |[3178666](https://support.microsoft.com/help/3178666) <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |
-|mso-x-없음  <br/> |Office 2016  <br/> |2020년 7월 7일  <br/> |[4484439](https://support.microsoft.com/help/4484439) <br/> |2020년 9월 8일  <br/> |[4484466](https://support.microsoft.com/help/4484466) <br/> |[4484342](https://support.microsoft.com/help/4484342) <br/> |
+|mso-x-없음  <br/> |Office 2016  <br/> |2020년 11월 3일  <br/> |[4486680](https://support.microsoft.com/help/4486680) <br/> |2020년 9월 8일  <br/> |[4484466](https://support.microsoft.com/help/4484466) <br/> |[4484342](https://support.microsoft.com/help/4484342) <br/> |
 |msodll20-x-없음  <br/> |Office 2016  <br/> |2020년 9월 1일  <br/> |[4484251](https://support.microsoft.com/help/4484251) <br/> |2017년 6월 13일  <br/> |[3178667](https://support.microsoft.com/help/3178667) <br/> |해당 사항 없음  <br/> |
-|msodll30-x-없음  <br/> |Office 2016  <br/> |2020년 5월 5일  <br/> |[4484328](https://support.microsoft.com/help/4484328) <br/> |2017년 9월 12일  <br/> |[4011126](https://support.microsoft.com/help/4011126) <br/> |[3213545](https://support.microsoft.com/help/3213545)  <br/> |
+|msodll30-x-없음  <br/> |Office 2016  <br/> |2020년 11월 3일  <br/> |[4484397](https://support.microsoft.com/help/4484397) <br/> |2017년 9월 12일  <br/> |[4011126](https://support.microsoft.com/help/4011126) <br/> |[3213545](https://support.microsoft.com/help/3213545)  <br/> |
 |msodll40ui-x-없음  <br/> |Office 2016  <br/> |2020년 7월 7일  <br/> |[4484174](https://support.microsoft.com/help/4484174) <br/> |2016년 5월 10일  <br/> |[3115103](https://support.microsoft.com/help/3115103) <br/> |해당 사항 없음  <br/> |
 |msodll99l-x-없음  <br/> |Office 2016  <br/> |2020년 9월 1일  <br/> |[4484395](https://support.microsoft.com/help/4484395) <br/> |2019년 7월 9일  <br/> |[4475514](https://support.microsoft.com/help/4475514) <br/> |[4011622](https://support.microsoft.com/help/4011622) <br/> |
 |mso히 vi-x-없음  <br/> |Office 2016  <br/> |5 월 1 일, 2018  <br/> |[4022133](https://support.microsoft.com/help/4022133) <br/> |2019년 1월 8일  <br/> |[4022162](https://support.microsoft.com/help/4022162)  <br/> |해당 사항 없음  <br/> |
@@ -87,11 +87,11 @@ ms.locfileid: "48453306"
 |이상 없음-x-없음  <br/> |Office 2016  <br/> |해당 없음  <br/> |해당 없음  <br/> |2016년 3월 8일  <br/> |[3114690](https://support.microsoft.com/help/3114690) <br/> |해당 사항 없음  <br/> |
 |outexum-x-없음  <br/> |Office 2016  <br/> |2019년 8월 6일  <br/> |[4464535](https://support.microsoft.com/help/4464535) <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |
 |outlfltr-x-없음  <br/> |Office 2016  <br/> |2016 년 8 월 2 일  <br/> |[3115407](https://support.microsoft.com/help/3115407) <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |
-|outlook-x-없음  <br/> |Outlook 2016  <br/> |2020년 9월 1일  <br/> |[4484511](https://support.microsoft.com/help/4484511) <br/> |2020년 10월 13일  <br/> |[4486671](https://support.microsoft.com/help/4486671) <br/>|[4484475](https://support.microsoft.com/help/4484475) <br/>|
+|outlook-x-없음  <br/> |Outlook 2016  <br/> |2020년 11월 3일  <br/> |[4486720](https://support.microsoft.com/help/4486720) <br/> |2020년 10월 13일  <br/> |[4486671](https://support.microsoft.com/help/4486671) <br/>|[4484475](https://support.microsoft.com/help/4484475) <br/>|
 |policytips-x-없음  <br/> |Office 2016  <br/> |2016년 6월 7일  <br/> |[3115081](https://support.microsoft.com/help/3115081) <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |
 |powerpoint-x-없음  <br/> |PowerPoint 2016  <br/> |2020년 5월 5일  <br/> |[4484337](https://support.microsoft.com/help/4484337) <br/> |2020년 4월 14일  <br/> |[4484246](https://support.microsoft.com/help/4484246) <br/> |[4484166](https://support.microsoft.com/help/4484166) <br/> |
 |ppaddin-x-없음  <br/> |Office 2016  <br/> |2017 년 12 월 5 일  <br/> |[4011225](https://support.microsoft.com/help/4011225) <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |
-|프로젝트-x-없음  <br/> |Project 2016  <br/> |2020년 10월 6일  <br/> |[4484502](https://support.microsoft.com/help/4484502) <br/> |2020년 7월 14일  <br/> |[4484441](https://support.microsoft.com/help/4484441) <br/>|[4484399](https://support.microsoft.com/help/4484399) <br/> |
+|프로젝트-x-없음  <br/> |Project 2016  <br/> |2020년 11월 3일  <br/> |[4486712](https://support.microsoft.com/help/4486712) <br/> |2020년 7월 14일  <br/> |[4484441](https://support.microsoft.com/help/4484441) <br/>|[4484399](https://support.microsoft.com/help/4484399) <br/> |
 |저해상도-x-없음  <br/> |Office 2016  <br/> |2019년 5월 7일  <br/> |[4464538](https://support.microsoft.com/help/4464538) <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |
 |protocolhndlr-x-없음  <br/> |Office 2016  <br/> |2019년 9월 3일  <br/> |[3114852](https://support.microsoft.com/help/3114852) <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |
 |publisher-x-없음  <br/> |Publisher 2016  <br/> |2017 년 8 월 1 일  <br/> |[3178696](https://support.microsoft.com/help/3178696) <br/> |2020년 4월 14일  <br/> |[4011097](https://support.microsoft.com/help/4011097) <br/> |[2920680](https://support.microsoft.com/help/2920680) <br/> |
@@ -103,7 +103,7 @@ ms.locfileid: "48453306"
 |vbe7-x-없음  <br/> |Office 2016  <br/> |2020년 6월 2일  <br/> |[4484335](https://support.microsoft.com/help/4484335) <br/> |2020년 10월 13일  <br/> |[4484417](https://support.microsoft.com/help/4484417) <br/> |[3128012](https://support.microsoft.com/help/3128012) <br/> |
 |visio-x-없음  <br/> |Visio 2016  <br/> |2020년 10월 6일  <br/> |[4484333](https://support.microsoft.com/help/4484333) <br/> |2020년 4월 14일  <br/> |[4484244](https://support.microsoft.com/help/4484244) <br/> |[3115041](https://support.microsoft.com/help/3115041) <br/> |
 |vviewer-x-없음  <br/> |Office 2016  <br/> |2020년 1월 7일  <br/> |[2920709](https://support.microsoft.com/help/2920709) <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |
-|단어-x-없음  <br/> |Word 2016  <br/> |2020년 5월 5일  <br/> |[4484341](https://support.microsoft.com/help/4484341) <br/> |2020년 10월 13일  <br/> |[4486679](https://support.microsoft.com/help/4486679) <br/>|[4484510](https://support.microsoft.com/help/4484510) <br/> |
+|단어-x-없음  <br/> |Word 2016  <br/> |2020년 5월 5일  <br/> |[4484341](https://support.microsoft.com/help/4484341) <br/> |2020년 11월 10일  <br/> |[4486719](https://support.microsoft.com/help/4486719) <br/> |[4486679](https://support.microsoft.com/help/4486679) <br/>|
 |wxpcore-x-없음  <br/> |Office 2016  <br/> |2016년 10월 4일  <br/> |[3118263](https://support.microsoft.com/help/3118263) <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |
 |wxpnse-x-없음  <br/> |Office 2016  <br/> |2016년 10월 4일  <br/> |[3118262](https://support.microsoft.com/help/3118262) <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |
 |xdext-x-없음  <br/> |Office 2016  <br/> |2017 년 8 월 1 일  <br/> |[3213650](https://support.microsoft.com/help/3213650) <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |
