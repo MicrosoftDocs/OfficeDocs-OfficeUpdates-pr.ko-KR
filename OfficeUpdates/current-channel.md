@@ -9,23 +9,23 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 앱에 대한 월 단위 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: d47124846cd605174e6ca23e26cd0e61bb5cf779
-ms.sourcegitcommit: d03cdba884e24c4122db59bd06176ae5273d16e4
+ms.openlocfilehash: ddf6a8dc89f09b831bf162ecab4e853970843431
+ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/04/2020
-ms.locfileid: "48878922"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "48989907"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>2020년 현재 채널 릴리스에 대한 릴리스 정보
 
 이러한 릴리스 정보는 엔터프라이즈용 Microsoft 365 앱, 비즈니스용 Microsoft 365 앱, Project와 Visio 데스크톱 앱의 구독 버전에 대한 2020년 현재 채널 업데이트에 포함된 새로운 기능 및 비보안 업데이트 관련 정보를 제공합니다.
 
 > [!IMPORTANT]
-> We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> 새 업데이트 채널(월 단위 엔터프라이즈 채널) 추가 및 기존 업데이트 채널 이름 변경을 포함한 Microsoft 365 앱의 업데이트 채널 일부를 변경 중에 있습니다. 자세한 내용은 [이 문서를 참조하세요](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 
  > [!NOTE]
 >
->- Microsoft는 일정 기간 동안 현재 기능(및 경우에 따라 수정 사항)을 배포합니다.  아래에서 설명했던 내용이 바로 보이지 않으면 곧 예측할 수 있습니다. [자세한 정보](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
+>- Microsoft는 일정 기간 동안 현재 기능(및 수정 사항)을 수시로 배포합니다. 아래 설명된 내용이 바로 보이지 않는 경우, 조만간 배포될 수 있습니다. [자세한 정보](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 >- Microsoft Teams 기능은 출시 흐름이 보다 빈번하기 때문에 최근 출시된 최신 채널과 다를 수 있습니다.
 
 
@@ -35,7 +35,29 @@ ms.locfileid: "48878922"
 
 
 
-[//]: # (BUGDETILES 컨텐츠 끝)을(를) 제거하지 마세요.
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
+
+## <a name="version-2010-november-10"></a>버전 2010: 11월 10일
+*버전 2010(빌드 13328.20356)*
+
+보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열됨
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="outlook"></a>Outlook
+
+- 사용자가 대리인에게 편집자 권한을 부여할 수 없게 하는 문제를 해결했습니다.
+
+
+### <a name="office-suite"></a>Office 제품군
+
+- 동기화 지원에서 서버 전용으로 전환된 파일을 저장할 때 오류가 발생하는 문제를 해결했습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2010-october-27"></a>버전 2010: 10월 27일
 *버전 2010(빌드 13328.20292)*
@@ -132,10 +154,10 @@ ms.locfileid: "48878922"
 
 - Office에서 사용자가 잉크젯 프린터로 문서/파일을 인쇄하고 프린터의 잉크가 부족하면, 잉크젯 프린터에 토너가 없더라도 "토너 부족" 또는 "토너 없음" 메시지가 표시됩니다. 메시지를 변경하여 "토너/잉크 부족" 및 "토너/잉크 없음"으로 표시합니다.
 
-- Microsoft 365 끝점 데이터 손실 방지를 사용하여 System Center Configuration Manager 또는 Office 업데이트용 기타 관리 도구를 사용하는 상용 고객을 대상으로 한 문제 해결되었습니다.
+- Microsoft 365 끝점 데이터 손실 방지가 디스크에서 Office 문서를 분류할 수 없는 문제를 해결했습니다.
 
 
-[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
 
 ## <a name="version-2009-october-21"></a>버전 2009: 10월 21일
 *버전 2009(빌드 13231.20418)*
@@ -1512,7 +1534,8 @@ ms.locfileid: "48878922"
 > [!NOTE]
 > Office를 사용하는 데 발생한 문제에 대해 도움이 필요하면 [Microsoft의 Answers 포럼](https://answers.microsoft.com/) 또는 [기술 커뮤니티](https://techcommunity.microsoft.com/)에 질문을 게시하거나 [지원 서비스](https://support.microsoft.com/contactus)에 문의할 수 있습니다.
 
-[//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요 시작)
+[//]: # (|Win32|CC|Production| |16.0.13328.20356|version-2010-november-10|)
 [//]: # (|Win32|CC|Production| |16.0.13328.20292|version-2010-october-27|)
 [//]: # (|Win32|CC|Production| |16.0.13231.20418|version-2009-october-21|)
 [//]: # (|Win32|CC|Production| |16.0.13231.20390|version-2009-october-13|)
@@ -1522,5 +1545,4 @@ ms.locfileid: "48878922"
 [//]: # (|Win32|CC|Production| |16.0.13127.20408|version-2008-september-09|)
 [//]: # (|Win32|CC|Production| |16.0.13127.20296|version-2008-august-31|)
 [//]: # (|Win32|CC|Production| |16.0.13029.20460|version-2007-august-25|)
-[//]: # (|Win32|CC|Production| |16.0.13029.20344|version-2007-august-11|)
-[//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 끝)
+[//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요 끝)
