@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: C2R(간편 실행)을 사용하는 Office 2016 및 2019 영구 버전에 대한 업데이트 기록을 IT 전문가에게 제공합니다.
-ms.openlocfilehash: ba996da9bf21f307388eec47801e18ee10567c58
-ms.sourcegitcommit: 16da127be61d3ac4db852de244516a36e3f5e129
+ms.openlocfilehash: 53a03da1c23fc2a500ad5938150b844907ec20a8
+ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48782283"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "48989917"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Office 2016 C2R 및 Office 2019의 업데이트 기록
 
@@ -46,15 +46,15 @@ Microsoft는 Office 2016 C2R(간편 실행) 버전과 Office 2019의 보안 및 
 
 |**릴리스 날짜**|**버전 번호**|**추가 정보**|
 |:-----|:-----|:-----|
+|2020년 11월 10일|버전 1808(빌드 10368.20035)| [보안 업데이트 페이지](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 참조 |
 |2020년 10월 13일|버전 1808(빌드 10367.20048)|[보안 업데이트 페이지](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 참조  |
 |2020년 9월 8일|버전 1808(빌드 10366.20016)|[보안 업데이트 페이지](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 참조 |
 |2020년 8월 11일|버전 1808(빌드 10364.20059)|[보안 업데이트 페이지](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 참조 |
 |2020년 7월 14일   |버전 1808(빌드 10363.20015)  |[CVE-2020-1342](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1342) <br/>[CVE-2020-1349](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1349) <br/>[CVE-2020-1445](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1445) <br/>[CVE-2020-1446](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1446) <br/>[CVE-2020-1447](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1447) <br/>[CVE-2020-1448](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1448) <br/>[CVE-2020-1449](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1449) <br/>|
 |2020년 6월 9일   |버전 1808(빌드 10361.20002)  |[CVE-2020-1225](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1225) <br/> [CVE-2020-1226](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1226) <br/>[CVE-2020-1229](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1229) <br/>[CVE-2020-1321](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1321) <br/>[CVE-2020-1322](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1322) <br/>|
-|2020년 5월 12일   |버전 1808(빌드 10359.20023)  |[CVE-2020-0901](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0901) <br/> |
 
 
-[//]: # (VL TABLE END를 제거하지 마십시오.)
+[//]: # (VL TABLE END를 제거하지 마십시오)
 
 <details>
 <summary>이전 버전</summary>
@@ -65,6 +65,7 @@ Microsoft는 Office 2016 C2R(간편 실행) 버전과 Office 2019의 보안 및 
 
 |**릴리스 날짜**|**버전 번호**|**추가 정보**|
 |:-----|:-----|:-----|
+|2020년 5월 12일   |버전 1808(빌드 10359.20023)  |[CVE-2020-0901](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0901) <br/> |
 |2020년 4월 14일   |버전 1808(빌드 10358.20061)  |[CVE-2020-0760](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0760) <br/> [CVE-2020-0906](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0906) <br/> [CVE-2020-0961](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0961) <br/> [CVE-2020-0980](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0980) <br/>[CVE-2020-0991](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0991) <br/> |
 |2020년 3월 10일   |버전 1808 (빌드 10357.20081)  |[CVE-2020-0850](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0850) <br/> [CVE-2020-0852](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0852) <br/> [CVE-2020-0892](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0892) <br/>  |
 |2020년 2월 11일   |버전 1808 (빌드 10356.20006)  |[CVE-2020-0696](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0696) <br/> [CVE-2020-0759](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0759) <br/>  |
@@ -85,12 +86,12 @@ Microsoft는 Office 2016 C2R(간편 실행) 버전과 Office 2019의 보안 및 
 
 |**릴리스 날짜**|**버전 번호**|**추가 정보**|
 |:-----|:-----|:-----|
+|2020년 11월 10일|버전 2010(빌드 13328.20356)| |
 |2020년 10월 27일|버전 2010(빌드 13328.20292)| |
 |2020년 10월 21일|버전 2009(빌드 13231.20418)| |
 |2020년 10월 13일|버전 2009(빌드 13231.20390)|[보안 업데이트 페이지](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 참조  |
 |2020년 10월 8일|버전 2009(빌드 13231.20368)| |
 |2020년 9월 28일|버전 2009(빌드 13231.20262)| |
-|2020년 9월 22일|버전 2008(빌드 13127.20508)| |
 
 
 [//]: # (VL 테이블 시작 제거 안 함)
@@ -104,6 +105,7 @@ Microsoft는 Office 2016 C2R(간편 실행) 버전과 Office 2019의 보안 및 
 
 |**릴리스 날짜**|**버전 번호**|**추가 정보**|
 |:-----|:-----|:-----|
+|2020년 9월 22일|버전 2008(빌드 13127.20508)| |
 |2020년 9월 9일|버전 2008(빌드 13127.20408)|[보안 업데이트 페이지](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 참조 |
 |2020년 8월 31일|버전 2008(빌드 13127.20296)| |
 |2020년 8월 25일|버전 2007(빌드 13029.20460)| |
