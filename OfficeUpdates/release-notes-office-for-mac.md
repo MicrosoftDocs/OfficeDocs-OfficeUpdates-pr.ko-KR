@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Microsoft 365 앱 구독자를 위한 Mac용 Office 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: ba500a25ed32a9a3c7a57401fbfdc7ba7b3f208d
-ms.sourcegitcommit: 6da2dfccc63a75bf36d2660b770a62e61e8463be
+ms.openlocfilehash: 9700bf78b5c49d5e5419a26cde1f2fd9d24d1bf3
+ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/07/2020
-ms.locfileid: "48944168"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "48990107"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac용 Office에 대한 릴리스 정보
 
@@ -45,6 +45,34 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 
 
 
+
+
+
+## <a name="november-10-2020"></a>2020년 11월 10일
+*버전 16.43(빌드 20110804)*
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="powerpoint-mac"></a>PowerPoint Mac
+
+- **빠르고 간편한 검색: 검색 상자를 사용하여 파일을 빠르게 검색**
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요 끝)
+
+
+[//]: # (보안 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+
+### <a name="security-updates"></a>보안 업데이트
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-17067](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-17067)
+
+[//]: # (보안 세부 정보 콘텐츠를 제거하지 마세요 끝)
 
 ## <a name="october-13-2020"></a>2020년 10월 13일
 *버전 16.42(빌드 20101102)*
@@ -820,7 +848,7 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 |Microsoft 자동 업데이트 4.7 <br/>| 이제 설치 프로세스의 일환으로 자동 업데이트 디먼이 시작됩니다. 이는 이전에 사용자에게 표시된 헷갈리는 보안 대화를 제거합니다. <br/><br/> Microsoft 자동 업데이트의 보안 기능이 향상되어 SHA256 인증서를 지원할 수 있습니다. <br/>|<br/> | [Microsoft 자동 업데이트의 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.7.19011500_Updater.pkg)|
 
 > [!NOTE]
-> 버전 16.21부터 Microsoft Teams가 * *_새_* _ 설치에 기본적으로 설치됩니다. 자세한 내용은[Mac에 Microsoft Teams 설치](https://docs.microsoft.com/DeployOffice/teams-install#microsoft-teams-installations-on-a-mac)를 참조하세요.  
+> 버전 16.21부터 Microsoft Teams가 * *_새_* _ 설치에 기본적으로 설치됩니다. 자세한 내용은 [Mac에 Microsoft Teams 설치](https://docs.microsoft.com/DeployOffice/teams-install#microsoft-teams-installations-on-a-mac)를 참조하세요.  
 
 
 ## <a name="december-2018-release"></a>2018년 12월 릴리스

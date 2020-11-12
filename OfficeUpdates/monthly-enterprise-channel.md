@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 Apps에 대한 Monthly Enterprise Channel 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 022bfa584cf864f9e1c38a57d7d1c54d4f5dc34e
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: 924c774b56a1b39fdaaf6a55ea2cfcff65e128fb
+ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453316"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "48990157"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>2020년 Monthly Enterprise Channel 릴리스에 대한 릴리스 정보
 
@@ -26,6 +26,172 @@ ms.locfileid: "48453316"
 [//]: # (제거하지 마세요)
 
 
+
+## <a name="version-2009-november-10"></a>버전 2009: 11월 10일
+*버전 2009(빌드 13231.20514)*
+
+보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열됨
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="excel"></a>Excel
+
+- **민감도 레이블 자동 적용 또는 권장:** Office는 감지되는 중요한 콘텐츠에 기반하여 민감도 레이블을 권장하거나 자동으로 적용할 수 있습니다.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **민감도 레이블 자동 적용 또는 권장:** Office는 감지되는 중요한 콘텐츠에 기반하여 민감도 레이블을 권장하거나 자동으로 적용할 수 있습니다.
+
+### <a name="word"></a>Word
+
+- **민감도 레이블 자동 적용 또는 권장:** Office는 감지되는 중요한 콘텐츠에 기반하여 민감도 레이블을 권장하거나 자동으로 적용할 수 있습니다.
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="outlook"></a>Outlook
+
+- 회신하거나 전달할 때 중국어 메시지의 머리글을 읽을 수 없게 하는 문제를 해결했습니다.
+
+
+- 대리인이 다른 사서함에서 공유 폴더를 열 때 간헐적으로 오류가 생기는 문제를 해결했습니다.
+
+
+- 전자 메일의 제목 줄이 비어있는 경우 일부 자동으로 생성된 전자 메일이 이를 빈 본문으로 보내는 문제를 해결했습니다.
+
+
+- 일부 사용자가 예기치 않게 오프라인 상태에서 Outlook이 시작되는 것을 관찰하는 문제를 해결했습니다.
+
+
+- 캐시되지 않은 공유 일정을 검색할 때 검색에서 결과가 반환되지 않는 문제를 해결했습니다.
+
+
+- 사용자가 검색 결과를 선택하면 응용 프로그램이 예기치 않게 종료되는 문제를 해결했습니다.
+
+
+- 사용자가 대리인에게 편집자 권한을 부여할 수 없게 하는 문제를 해결했습니다.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 많은 수의 특정 데이터 개체 유형(E2o)이 포함된 파일에서 공동 작성 속도가 느려지는 문제를 해결했습니다.
+
+
+- 제한된 보기에서 PowerPoint 파일을 열 때 IRM 보호를 사용하지 않도록 설정하는 문제를 해결했습니다.
+
+
+- 사용자가 다른 슬라이드를 클릭하여 표시할 때까지 Forms 콘텐츠 추가 기능이 삽입 후에 렌더링되지 않는 문제를 해결했습니다.
+
+
+### <a name="project"></a>Project
+
+- 이벤트 코드를 실행 중이고 작업 양식 보기를 통하여 변경을 하려고 하는 경우, 확인 단추를 클릭해도 변경 내용이 커밋되지 않는 문제를 해결했습니다.
+
+
+- 특정 방식으로 리소스 배분 형식이 지정된 파일을 열 때 Project가 예기치 않게 종료될 수 있는 문제를 해결했습니다.
+
+
+- PWA에서 로컬 mpp 파일로 프로젝트를 저장하는 경우 ProjectBeforeTaskChangeEvent가 실제로 사용자가 변경하지 않은 데이터에 대해 발생하는 문제를 해결했습니다.
+
+
+### <a name="word"></a>Word
+
+- 스타일 갤러리 대화 상자와 관련된 문제를 해결했습니다.
+
+
+### <a name="office-suite"></a>Office 제품군
+
+- 특정 사용자 설정이 유지되지 않는 그림 압축 대화 상자의 문제를 해결했습니다.
+
+
+- Microsoft 365 끝점 데이터 손실 방지가 디스크에서 Office 문서를 분류할 수 없는 문제를 해결했습니다.
+
+
+- Office에서 사용자가 잉크젯 프린터로 문서/파일을 인쇄하고 프린터의 잉크가 부족하면, 잉크젯 프린터에 토너가 없더라도 "토너 부족" 또는 "토너 없음" 메시지가 표시됩니다. 메시지를 변경하여 "토너/잉크 부족" 및 "토너/잉크 없음"으로 표시합니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
+
+## <a name="version-2008-november-10"></a>버전 2008: 11월 10일
+*버전 2008(빌드 13127.20760)*
+
+보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열됨
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- 차트 데이터 시트가 활성 시트면 범위에 FormulaR1C1 속성 설정에 매크로를 사용할 때 셀 참조가 부정확한 문제를 해결했습니다.
+
+
+- "하나 이상의 수식을 계산하는 동안 Excel 리소스를 모두 사용했습니다" 오류가 발생하는 문제를 해결했습니다.
+
+
+- Office 언어를 스페인어로 설정했을 때 데이터 유효성 검사 목록에 목록의 모든 항목이 표시되지 않는 문제를 해결했습니다.
+
+
+- OLAP 피벗 테이블을 새로 고칠 때 중단될 수 있는 문제를 해결했습니다.
+
+
+- 통합 문서를 로드한 후 특정 함수에 잘못된 결과가 발생하는 문제를 해결했습니다.
+
+
+- XLAM 추가 기능 참조 및 명명된 범위와 관련된 응용 프로그램이 예기치 않게 종료되는 문제를 해결했습니다.
+
+### <a name="outlook"></a>Outlook
+
+- 회신하거나 전달할 때 중국어 메시지의 머리글이 깨져 보이는 문제를 해결했습니다.
+
+
+- 전자 메일의 제목 줄이 비어있는 경우 일부 자동으로 생성된 전자 메일이 이를 빈 본문으로 보내는 문제를 해결했습니다.
+
+
+- 대리인이 다른 사서함에서 공유 폴더를 열 때 간헐적으로 오류가 생기는 문제를 해결했습니다.
+
+
+- 그룹 일정에서 검색이 결과를 반환하지 못하는 문제를 해결했습니다.
+
+
+- 사용자가 검색 결과를 선택하면 응용 프로그램이 예기치 않게 종료되는 문제를 해결했습니다.
+
+
+- 이제 다른 Office 애플리케이션 사용을 비활성화할 필요없이 Outlook용 IRM(정보 권한 관리)를 사용을 비활성화할 수 있도록 문제를 해결했습니다.
+
+
+- 사용자가 대리인에게 편집자 권한을 부여할 수 없게 하는 문제를 해결했습니다.
+
+
+- 선택적으로 연결된 환경이 로딩으로부터 웹 추가 기능을 차단하는 문제를 해결했습니다.<br />
+  [블로그 게시물](https://developer.microsoft.com/ko-KR/office/blogs/outlook-add-ins-and-optional-connected-experiences/)에서 세부 정보 보기
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- PresentationBeforeClose 이벤트를 청취하고 이벤트 처리기의 일부로 Presentation.Saved 속성을 확인하는 추가 기능이 있을 때 문서를 닫는 경우, 저장 프롬프트가 루프에 표시되는 문제에 대한 수정 사항입니다.
+
+
+- 사용자가 다른 슬라이드를 클릭하여 표시할 때까지 Forms 콘텐츠 추가 기능이 삽입 후에 렌더링되지 않는 문제를 해결했습니다.
+
+
+### <a name="office-suite"></a>Office 제품군
+
+- Microsoft 365 끝점 데이터 손실 방지를 사용하여 System Center Configuration Manager 또는 Office 업데이트용 기타 관리 도구를 사용하는 상용 고객을 대상으로 한 문제를 해결했습니다.
+
+- Office 추가 기능에 대한 메시징 API가 작동하지 않는 문제를 해결했습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
 
 ## <a name="version-2008-october-13"></a>버전 2008: 10월 13일
 *버전 2008(빌드 13127.20638)*
@@ -48,7 +214,7 @@ ms.locfileid: "48453316"
 
 ### <a name="outlook"></a>Outlook
 
-- **간단한 설문 조사로 Outlook에 설문 조사 만들기**: 설문 조사를 쉽게 작성하고 투표를 수집하며 전자 메일에서 결과를 볼 수 있습니다 [자세한 내용 보기](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
+- **간단한 설문 조사로 Outlook에 설문 조사 만들기** : 설문 조사를 쉽게 작성하고 투표를 수집하며 전자 메일에서 결과를 볼 수 있습니다 [자세한 내용 보기](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
 
 - **Outlook용 새 프로필 카드:** 보다 효율적인 조직 보기를 포함하는 Outlook의 새 프로필 카드와 Outlook 웹의 카드 스타일을 일치시킵니다. [자세한 정보](https://support.office.com/article/e80f931f-5fc4-4a59-ba6e-c1e35a85b501)
 
@@ -363,7 +529,7 @@ ms.locfileid: "48453316"
 
 - **그룹의 데이터 보호 지원:** 그룹을 만들 때 선택한 민감도 레이블이 그룹 전자 메일, 문서, 팀 사이트에 적용됩니다.
 
-- **애니메이션 GIF로 이야기하기: **애니메이션 GIF가 오피스 편집기에서 지원되므로 문서가 더 복잡해집니다.
+- **애니메이션 GIF로 이야기하기:** 애니메이션 GIF가 오피스 편집기에서 지원되므로 문서가 더 복잡해집니다.
 
 - **Outlook에서 메일 작성 시 @멘션 제안을 사용하지 않는 새 옵션:** @멘션 선택기가 유용하기보다는 불편하게 느껴지나요? 원하는 경우 바로 지금 비활성화할 수 있습니다.<br />[블로그 게시물](https://blog-insider.office.com/2020/03/26/feedback-in-action-disable-mentions/)에서 세부 정보 보기
 
@@ -605,7 +771,7 @@ ms.locfileid: "48453316"
 
 ### <a name="office-suite"></a>Office 제품군
 
-- **민감도 레이블**: 조직에서 사용자 지정 권한에 대한 메시지를 표시하도록 구성한 민감도 레이블을 적용할 수 있습니다.
+- **민감도 레이블** : 조직에서 사용자 지정 권한에 대한 메시지를 표시하도록 구성한 민감도 레이블을 적용할 수 있습니다.
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -697,7 +863,7 @@ ms.locfileid: "48453316"
 
 - **유용한 함수 6개:** 스프레드시트를 더욱 유용하게 사용할 수 있는 함수 6개(FILTER, SORT, SORTBY, UNIQUE, SEQUENCE 및 RANDARRAY)가 추가되었습니다. [자세한 정보](https://support.office.com/article/003df6c7-1dcb-4388-8e2e-0fe77a0887bc)
 
-- **왼쪽을 보고, 오른쪽을 보십시오… XLOOKUP이 여기 있습니다! ** 행별로 XLOOKUP을 사용하여 테이블 또는 범위에서 필요한 것을 모두 찾으십시오. [자세한 정보](https://support.office.com/article/b7fd680e-6d10-43e6-84f9-88eae8bf5929)<br />[블로그 게시물](https://blog-insider.office.com/2019/08/29/announcing-xlookup/)에서 세부 정보를 참조합니다
+- **왼쪽을 보고, 오른쪽을 보십시오… XLOOKUP이 여기 있습니다!** 행별로 XLOOKUP을 사용하여 테이블 또는 범위에서 필요한 것을 모두 찾으십시오. [자세한 정보](https://support.office.com/article/b7fd680e-6d10-43e6-84f9-88eae8bf5929)<br />[블로그 게시물](https://blog-insider.office.com/2019/08/29/announcing-xlookup/)에서 세부 정보를 참조합니다
 
 - **읽고 즉시 회신:** 통합 문서를 열지 않고 전자 메일에서 바로 메모와 멘션을 통해 회신합니다.
 
@@ -709,7 +875,7 @@ ms.locfileid: "48453316"
 
 - **받은 편지함을 벗어나지 않고 모임 참가:** 온라인 모임에 참가하기 위해 일정으로 전환할 필요가 없습니다. 일정을 할 일 창에 고정하고 클릭 한 번만으로 모든 모임에 참여하세요.
 
-- **종속적인 Wi-Fi 네트워크에 대한 새로운 경험: ** 로그인하기 위해 웹 페이지가 필요한 Wi-Fi 네트워크에 가입한 적이 있습니까? 이제 Outlook이 이를 감지하여 연결하는 데 도움을 줍니다.
+- **종속적인 Wi-Fi 네트워크에 대한 새로운 경험:** 로그인하기 위해 웹 페이지가 필요한 Wi-Fi 네트워크에 가입한 적이 있습니까? 이제 Outlook이 이를 감지하여 연결하는 데 도움을 줍니다.
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -839,7 +1005,8 @@ ms.locfileid: "48453316"
 > Office를 사용하는 데 발생한 문제에 대해 도움이 필요하면 [Microsoft의 Answers 포럼](https://answers.microsoft.com/) 또는 [기술 커뮤니티](https://techcommunity.microsoft.com/)에 질문을 게시하거나 [지원 서비스](https://support.microsoft.com/contactus)에 문의할 수 있습니다.
 
 
-[//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요 시작)
+[//]: # (|Win32|MEC|Production|Feature|16.0.13231.20514|version-2009-november-10|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13127.20638|version-2008-october-13|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13029.20534|version-2007-september-08|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13001.20520|version-2006-august-11|)
