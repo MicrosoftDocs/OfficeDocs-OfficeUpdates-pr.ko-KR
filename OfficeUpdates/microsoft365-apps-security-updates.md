@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT 전문가에게 Microsoft Office 보안 업데이트에 대한 릴리스 정보를 제공합니다.
-ms.openlocfilehash: c9a4d3af52431016160bc8aa9e5f37200b90966d
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: 47c4bc082265b63106f3293fbad1b830d012b504
+ms.sourcegitcommit: d898fa4f06c90444f9d729a1b0df2c82bde7d719
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453296"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "48992693"
 ---
 # <a name="release-notes-for-microsoft-office-security-updates"></a>Microsoft Office 보안 업데이트 릴리스 정보
 
@@ -24,13 +24,47 @@ ms.locfileid: "48453296"
 
 
 > [!IMPORTANT]
-> - We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
-> - Office 365 ProPlus는 2004 버전부터 엔터프라이즈용 Microsoft 365 앱으로 이름이 변경됩니다.자세한 내용은  [이 문서를 검토하세요](https://go.microsoft.com/fwlink/p/?linkid=2123420).이 문서에서는 일반적으로 이를 Microsoft 365 앱이라고 지칭합니다.
+> - 새 업데이트 채널(월 단위 기업 채널) 추가 및 기존 업데이트 채널 이름 변경을 포함한 Microsoft 365 앱의 업데이트 채널 일부를 변경 중에 있습니다. 자세한 내용은 [이 문서를 참조하세요](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> - Office 365 ProPlus는 2004 버전부터 엔터프라이즈용 Microsoft 365 앱으로 이름이 변경됩니다. 자세한 내용은 [이 문서](https://go.microsoft.com/fwlink/p/?linkid=2123420)를 참조하세요. 문서에서 Microsoft 365 앱이라고 지칭합니다.
 
 
  
 
 [//]: # (공백으로 사용하므로, 위의 선을 삭제하지 마세요.)  
+
+## <a name="november-10-2020"></a>2020년 11월 10일
+현재 채널: 버전 2010(빌드 13328.20356)  
+월 단위 기업 채널: 버전 2009(빌드 13231.20514)  
+월 단위 기업 채널: 버전 2008(빌드 13127.20760)  
+반기 기업 채널(미리 보기): 버전 2008(빌드 13127.20760)  
+반기 기업 채널: 버전 2002(빌드 12527.21330)  
+반기 기업 채널: 버전 1908(빌드 11929.20974)  
+Windows 7 기반 Microsoft 365 앱: 버전 2002(빌드 12527.21330)  
+Office 2019 소매: 버전 2010(빌드 13328.20356)  
+Office 2016 소매: 버전 2010(빌드 13328.20356)  
+Office 2019 볼륨 라이선스: 버전 1808(빌드 10368.20035)  
+
+[//]: # (보안 세부 정보 콘텐츠를 제거하지 마세요 시작)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-17064](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-17064)
+-   [CVE-2020-17065](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-17065)
+-   [CVE-2020-17067](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-17067)
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-17020](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-17020)
+
+### <a name="office-suite"></a>Office 제품군
+
+-   [CVE-2020-17062](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-17062)
+-   [CVE-2020-17063](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-17063)
+
+[//]: # (보안 세부 정보 콘텐츠를 제거하지 마세요 끝)
+
+
 
 ## <a name="october-13-2020"></a>2020년 10월 13일
 현재 채널: 버전 2009(빌드 13231.20390)  

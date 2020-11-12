@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: IT 전문가에게 ODT(Office 배포 도구)의 릴리스 기록을 제공합니다.
-ms.openlocfilehash: f578849552bb4fda0198bad3651170923d0ceb35
-ms.sourcegitcommit: b19297da26ce6f740f3e2c94ea8a6c5d4e2aaa75
+ms.openlocfilehash: b14d9998a0dab3ea0d4a4f6cae10702688fa4427
+ms.sourcegitcommit: d898fa4f06c90444f9d729a1b0df2c82bde7d719
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48806796"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "48992683"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Office 배포 도구에 대한 릴리스 기록
 
@@ -28,6 +28,11 @@ ODT를 사용하여 Office 설치를 더 강력하게 제어할 수 있습니다
  **설치 방법** : 다운로드한 다음 Office 배포 도구 실행 파일(setup.exe) 및 샘플 구성 파일(configuration.xml)이 포함된 자동 압축 풀기 실행 파일을 실행합니다. 
 
 [Office 배포 도구 다운로드](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
+
+## <a name="november-10-2020"></a>2020년 11월 10일
+버전 16.0.13328.20356 (setupODT.exe 버전 16.0.13328.20336)
+- 안정성 및 복원 기능 개선
+- 혼동을 방지하고 보다 쉽게 설치 오류를 진단하기 위해 이제 ODT는 기본적으로 setupODT.exe로 명명됩니다. 
 
 ## <a name="october-29-2020"></a>2020년 10월 29일
 버전 16.0.13328.20292 (setup.exe 버전 16.0.13328.20290)

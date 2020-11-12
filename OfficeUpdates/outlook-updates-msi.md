@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Outlook 2016, Outlook 2013 및 Outlook 2010 영구 버전의 최신 업데이트 정보에 대한 링크를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 4195d1fe125ea6d962f7d8606d7019b02e144044
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: aa96c3580f834af83277bbd75275d3334ef38fca
+ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453206"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "48989807"
 ---
 # <a name="latest-updates-for-versions-of-outlook-that-use-windows-installer-msi"></a>Windows Installer(MSI)를 사용하는 Outlook 버전에 대한 최신 업데이트
 
@@ -43,7 +43,7 @@ Microsoft 365 및 온-프레미스 환경과의 Outlook 호환성은 배포에 �
 
 |**최신 SP(서비스 팩)**|**최소 필수 업데이트**|**최신 PU(공개 업데이트)**|
 |:-----|:-----|:-----|
-|해당 없음  <br/> |2016년 3월 PU <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |2020년 10월 PU <br/>[KB4486671](https://support.microsoft.com/help/4486671) 
+|해당 없음  <br/> |2016년 3월 PU <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |2020년 11월 PU <br/>[KB4486720](https://support.microsoft.com/help/4486720) 
 
 ## <a name="outlook-2013-updates"></a>Outlook 2013 업데이트
 
@@ -53,7 +53,7 @@ Microsoft 365 및 온-프레미스 환경과의 Outlook 호환성은 배포에 �
    
 ## <a name="outlook-2010-updates"></a>Outlook 2010 업데이트
 > [!IMPORTANT]
-> Office 2010에 대한 지원이 2020년 10월 13일에 종료됩니다. 아직 Office 2010 환경 업그레이드를 시작하지 않았다면 지금 시작하는 것이 좋습니다. 자세한 내용은 [Office 2010 지원 종료 로드맵](https://docs.microsoft.com/DeployOffice/office-2010-end-support-roadmap)을 참조하세요.
+> Office 2010에 대한 지원이 2020년 10월 13일자로 종료되었습니다. 아직 Office 2010 환경 업그레이드를 시작하지 않았다면 지금 시작하는 것이 좋습니다. 자세한 내용은 [Office 2010 지원 종료 로드맵](https://docs.microsoft.com/DeployOffice/office-2010-end-support-roadmap)을 참조하세요.
 
 |**최신 SP(서비스 팩)**|**최소 필수 업데이트**|**최신 PU(공개 업데이트)**|
 |:-----|:-----|:-----|

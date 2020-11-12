@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 앱에 대한 반기 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: f7f3b39521132fb11226bc512f782e0adec5aba8
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: c719a54075f57b031cf99ef7459fe38c0cab63dc
+ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453416"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "48990077"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-releases-in-2020"></a>2020의 반기 엔터프라이즈 채널 릴리스에 대한 릴리스 정보
 
@@ -28,7 +28,49 @@ ms.locfileid: "48453416"
 >- 반기 기업 채널의 사용자가 Office Portal에서 Microsoft 365 앱을 다운로드하여 Windows 10에 설치하는 경우 이제 OneNote 2016이 기본적으로 포함됩니다.
 
 
-[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
+
+## <a name="version-2002-november-10"></a>버전 2002: 11월 10일
+*버전 2002(빌드 12527.21330)*
+
+보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열됨
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- Office 언어를 스페인어로 설정했을 때 데이터 유효성 검사 목록에 목록의 모든 항목이 표시되지 않는 문제를 해결했습니다.
+
+
+- OLAP 피벗 테이블을 새로 고칠 때 중단될 수 있는 문제를 해결했습니다.
+
+
+- 통합 문서를 로드한 후 특정 함수에 잘못된 결과가 발생하는 문제를 해결했습니다.
+
+
+- XLAM 추가 기능 참조 및 명명된 범위와 관련된 응용 프로그램이 예기치 않게 종료되는 문제를 해결했습니다.
+
+
+- 고급 필터 매크로를 실행하면 오류가 잘못 보고되는 문제를 해결했습니다.
+
+
+### <a name="outlook"></a>Outlook
+
+- 선택적 연결된 환경을 사용하지 않도록 설정했을 때, 내부 추가 기능이 예기치 않게 사용하지 않도록 설정되는 문제를 해결했습니다.
+
+
+- 사용자가 전체 주소 목록에서 숨겨져 있는 배포 목록을 대신하여 보낼 수 없는 문제를 해결했습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
+
+## <a name="version-1908-november-10"></a>버전 1908: 11월 10일
+*버전 1908(빌드 11929.20974)*
+
+보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열됨
 
 ## <a name="version-2002-october-13"></a>버전 2002: 10월 13일
 *버전 2002(빌드 12527.21236)*
@@ -188,11 +230,11 @@ ms.locfileid: "48453416"
 
 ### <a name="excel"></a>Excel
 
-- **더 빠른 파일 공유**: 파일을 열지 않고 최근에 사용한 목록에서 문서를 바로 공유할 수 있습니다.
+- **더 빠른 파일 공유** : 파일을 열지 않고 최근에 사용한 목록에서 문서를 바로 공유할 수 있습니다.
 
 - **데이터 시각화 도우미 추가 기능:** Excel에서 빠르게 Visio 플로차트를 만들 수 있습니다. [자세한 정보](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
-- ** 더 많은 접근 가능한 PDF 만들기:** PDF를 만들면 액세스 가능성 검사기가 저장하기 전에 수정해야 할 접근성 문제를 해결합니다. [자세한 정보](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)<br />[블로그 게시물](https://blog-insider.office.com/2019/08/13/accessible-pdfs-made-easier/)에서 세부 정보를 참조하세요.
+- **더 많은 접근 가능한 PDF 만들기:** PDF를 만들면 액세스 가능성 검사기가 저장하기 전에 수정해야 할 접근성 문제를 해결합니다. [자세한 정보](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)<br />[블로그 게시물](https://blog-insider.office.com/2019/08/13/accessible-pdfs-made-easier/)에서 세부 정보를 참조하세요.
 
 - **분위기에 맞는 더 다양한 아이콘:** 300개가 넘는 새로운 아이콘이 추가되었습니다. 삽입 > 아이콘에서 찾을 수 있습니다. [자세한 정보](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
 
@@ -210,7 +252,7 @@ ms.locfileid: "48453416"
 
 - **유용한 함수 6개:** 스프레드시트를 더욱 유용하게 사용할 수 있는 함수 6개(FILTER, SORT, SORTBY, UNIQUE, SEQUENCE 및 RANDARRAY)가 추가되었습니다. [자세한 정보](https://support.office.com/article/003df6c7-1dcb-4388-8e2e-0fe77a0887bc)
 
-- **왼쪽을 보고, 오른쪽을 보십시오… XLOOKUP이 여기 있습니다! ** 행별로 XLOOKUP을 사용하여 테이블 또는 범위에서 필요한 것을 모두 찾으십시오. [자세한 정보](https://support.office.com/article/b7fd680e-6d10-43e6-84f9-88eae8bf5929)<br />[블로그 게시물](https://blog-insider.office.com/2019/08/29/announcing-xlookup/)에서 세부 정보를 참조하세요.
+- **왼쪽을 보고, 오른쪽을 보십시오… XLOOKUP이 여기 있습니다!** 행별로 XLOOKUP을 사용하여 테이블 또는 범위에서 필요한 것을 모두 찾으십시오. [자세한 정보](https://support.office.com/article/b7fd680e-6d10-43e6-84f9-88eae8bf5929)<br />[블로그 게시물](https://blog-insider.office.com/2019/08/29/announcing-xlookup/)에서 세부 정보를 참조하세요.
 
 - **큰 통합 문서 관리:** 셀, 수식, 차트, 표... 통합 문서 통계를 사용하여 통합 문서를 한 눈에 볼 수 있습니다.
 
@@ -268,9 +310,9 @@ ms.locfileid: "48453416"
 
 - **분위기에 맞는 더 다양한 아이콘:** 300개가 넘는 새로운 아이콘이 추가되었습니다. 삽입 > 아이콘에서 찾을 수 있습니다. [자세한 정보](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
 
-- ** 더 많은 접근 가능한 PDF 만들기:** PDF를 만들면 액세스 가능성 검사기가 저장하기 전에 수정해야 할 접근성 문제를 해결합니다.<br />[블로그 게시물](https://blog-insider.office.com/2019/08/13/accessible-pdfs-made-easier/)에서 세부 정보를 참조하세요.
+- **더 많은 접근 가능한 PDF 만들기:** PDF를 만들면 액세스 가능성 검사기가 저장하기 전에 수정해야 할 접근성 문제를 해결합니다.<br />[블로그 게시물](https://blog-insider.office.com/2019/08/13/accessible-pdfs-made-easier/)에서 세부 정보를 참조하세요.
 
-- **더 빠른 파일 공유**: 파일을 열지 않고 최근에 사용한 목록에서 문서를 바로 공유할 수 있습니다.
+- **더 빠른 파일 공유** : 파일을 열지 않고 최근에 사용한 목록에서 문서를 바로 공유할 수 있습니다.
 
 - **PowerPoint에서 빠르게 실시간 공동 작업 수행:** PowerPoint에서 빠르게 실시간 공동 작업 수행
 
@@ -280,7 +322,7 @@ ms.locfileid: "48453416"
 
 - **라이브 캡션 및 자막:** 발표자의 단어가 화면에 캡션으로 자동으로 표시되고 원하는 언어로 자막으로 번역됩니다. [자세한 정보](https://support.office.com/article/68d20e49-aec3-456a-939d-34a79e8ddd5f)
 
-- **모든 사용자를 위한 프레젠테이션 최적화: ** 접근성 검사기는 스크린 리더를 염두에 두고 슬라이드에서 개체를 정렬하는데 도움을 줍니다.<br />[블로그 게시물](https://blog-insider.office.com/2019/10/15/reach-more-people-by-making-your-powerpoint-slides-work-with-a-screen-reader/)에서 세부 정보를 참조하세요.
+- **모든 사용자를 위한 프레젠테이션 최적화:** 접근성 검사기는 스크린 리더를 염두에 두고 슬라이드에서 개체를 정렬하는데 도움을 줍니다.<br />[블로그 게시물](https://blog-insider.office.com/2019/10/15/reach-more-people-by-making-your-powerpoint-slides-work-with-a-screen-reader/)에서 세부 정보를 참조하세요.
 
 - **재개발 대신 재사용:** 사용자가 작성했거나 다른 사용자가 공유하도록 한 슬라이드를 다시 사용하여 시간을 절약하세요. [자세한 정보](https://support.office.com/article/4772661f-ced0-446b-bb28-878dfa8c23f1)
 
@@ -294,9 +336,9 @@ ms.locfileid: "48453416"
 
 - **더욱 안전한 비디오 환경:** 보안 강화는 더욱 안전한 온라인 비디오 환경을 의미합니다. [자세한 정보](https://support.office.com/article/bf11b812-0243-4f53-a1f9-432fbf7ace2c)
 
-- ** 더 많은 접근 가능한 PDF 만들기:** PDF를 만들면 액세스 가능성 검사기가 저장하기 전에 수정해야 할 접근성 문제를 해결합니다. [자세한 정보](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)<br />[블로그 게시물](https://blog-insider.office.com/2019/08/13/accessible-pdfs-made-easier/)에서 세부 정보를 참조하세요.
+- **더 많은 접근 가능한 PDF 만들기:** PDF를 만들면 액세스 가능성 검사기가 저장하기 전에 수정해야 할 접근성 문제를 해결합니다. [자세한 정보](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)<br />[블로그 게시물](https://blog-insider.office.com/2019/08/13/accessible-pdfs-made-easier/)에서 세부 정보를 참조하세요.
 
-- **더 빠른 파일 공유**: 파일을 열지 않고 최근에 사용한 목록에서 문서를 바로 공유할 수 있습니다.
+- **더 빠른 파일 공유** : 파일을 열지 않고 최근에 사용한 목록에서 문서를 바로 공유할 수 있습니다.
 
 - **분위기에 맞는 더 다양한 아이콘:** 300개가 넘는 새로운 아이콘이 추가되었습니다. 삽입 > 아이콘에서 찾을 수 있습니다. [자세한 정보](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)<br />[블로그 게시물](https://blog-insider.office.com/2019/04/24/your-feedback-in-action-new-insertable-icons/)에서 세부 정보를 참조하세요.
 
@@ -316,7 +358,7 @@ ms.locfileid: "48453416"
 
 - **3D 개체의 병합으로 발생하는 문서 손상 문제 해결:** 3D 개체의 병합으로 발생하는 문서 손상 문제를 해결했습니다.
 
-- **공동 작성 기능 개선**: 문서 공동 작성 시 변경 내용 추적 기능을 사용하여 Word의 성능을 개선했습니다.
+- **공동 작성 기능 개선** : 문서 공동 작성 시 변경 내용 추적 기능을 사용하여 Word의 성능을 개선했습니다.
 
 - **공동 작성 향상** : 공동 작성 시 신뢰도가 향상될 수 있습니다.
 
@@ -679,7 +721,7 @@ ms.locfileid: "48453416"
 
 - 레지스트리 TabProcGrowth 값이 REG_SZ 유형이면 추가 기능이 활성화될 때 Office 호스트가 Windows에서 충돌하는 문제를 해결했습니다.
 
-- 이 업데이트는 PATH 환경 변수에서 지정된 위치를 검색하여 찾을 수 있는 사항을 참고로 하는 Visual Basic for Applications 프로젝트가 런타임에 제대로 발견되지 않아 VBA 런타임 오류로 이어질 수 있는 Microsoft Office에서의 문제를 해결합니다. 
+- 이 업데이트는 PATH 환경 변수에서 지정된 위치를 검색하여 찾을 수 있는 사항을 참고로 하는 Visual Basic for Applications 프로젝트가 런타임에 제대로 발견되지 않아 VBA 런타임 오류로 이어질 수 있는 Microsoft Office에서의 문제를 해결합니다.
 
 - 설치된 언어에 따라 Access 및 Publisher가 제대로 부팅되지 않을 수 있는 문제를 해결하였습니다.
 
@@ -1094,7 +1136,7 @@ ms.locfileid: "48453416"
 ### <a name="resolved-issues"></a>해결된 문제
 ### <a name="excel"></a>Excel
 
-- 색을 기준으로 필터링된 데이터를 다른 너비의 열에 복사하면 값의 붙여넣기가 되지 않습니다.
+- 색을 기준으로 필터링된 데이터를 다른 너비의 열에 복사하면 값을 붙여넣을 수 없습니다.
 
 ### <a name="outlook"></a>Outlook
 
@@ -1104,7 +1146,7 @@ ms.locfileid: "48453416"
 
 - 2개의 문서를 하나로 병합할 때 발생하는 문제를 해결했습니다.
 
-- 편집에 대해 보호된 문서의 비교 기능 문제를 해결했습니다.
+- 편집에 대해 보호된 문서의 기능 비교 문제가 해결되었습니다.
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
@@ -1136,9 +1178,9 @@ ms.locfileid: "48453416"
 
 - 특정 검색 결과를 선택할 때 사용자에게 충돌이 발생하는 문제를 해결했습니다.
 
-- 첨부 파일 도구에서 “클라우드에 저장” 단추가 누락되는 문제를 해결했습니다.
+- 첨부 파일 도구에서 "클라우드에 저장" 단추가 누락되는 문제를 해결했습니다.
 
-- 기본적으로 보존 정책 레이블에는 보존 기간이 괄호로 표시됩니다.이는 관리자가 정책 이름만 표시하도록 지정할 수 있는 레지스트리 키를 제공합니다. HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Preferences\HideRetentionPolicyDuration.0 = 기본값 1 = 보존 정책 텍스트의 PolicyName만 표시됩니다.
+- 기본적으로 보존 정책 레이블에는 보존 기간이 괄호로 표시됩니다. 이는 관리자가 정책 이름만 표시하도록 지정할 수 있는 레지스트리 키를 제공합니다. HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Preferences\HideRetentionPolicyDuration. 0 = 기본값 1 = 보존 정책 텍스트에 대한 PolicyName만 표시합니다.
 
 ### <a name="office-suite"></a>Office 제품군
 
@@ -1150,21 +1192,21 @@ ms.locfileid: "48453416"
 ### <a name="resolved-issues"></a>해결된 문제
 ### <a name="office-suite"></a>Office 제품군
 
-- 라이브러리 이름 또는 라이브러리 경로에 DBCS 문자가 있는 코드 라이브러리에 대한 참조를 포함하는 특정 VBA 프로젝트를 로드할 때 Office 응용 프로그램에서 손상된 것으로 보이는 Microsoft Office의 VBA(Visual Basic for Applications) 문제가 해결되었습니다.
+- 라이브러리 이름 또는 라이브러리 경로에 DBCS 문자가 있는 코드 라이브러리에 대한 참조를 포함하는 특정 VBA 프로젝트를 로드할 때 Office 응용 프로그램에서 손상된 것으로 보이는 Microsoft Office의 VBA(Visual Basic for Applications) 문제를 해결했습니다.
 
-## <a name="version1908april-26"></a>버전 1908: 4월 26일
+## <a name="version-1908-april-26"></a>버전 1908: 4월 26일
 *버전 1908(빌드 11929.20736)*
 
- [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 보안 업데이트가 나열됩니다.
+보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열됨
 
 ### <a name="resolved-issues"></a>해결된 문제
 ### <a name="excel"></a>Excel
 
 - VBA 매크로를 사용하여 범위의 내용을 지우면 사용자가 경험할 수 있는 성능 문제를 해결했습니다.
 
-- 범위에 값을 입력하는 것이 예상한 것 보다 느려지는 VBA 문제를 해결했습니다.
+- 범위에 값을 입력하는 것이 예상외로 느려지는 VBA 문제를 해결했습니다.
 
-- 파일을 저장하고 다시 열 때 차트 축의 "값 교점" 속성이 예기치 않게 변경되는 문제를 해결했습니다.
+- 파일을 저장하고 다시 열 때 차트 축의 "값 교점" 속성이 예기치 않게 변경되는 문제를 해결 하였습니다.
 
 - Excel 2016에서 디지털 서명을 사용하여 저장한 통합 문서를 최신 버전의 Excel에서 열면 서명이 무효가 될 수 있습니다.
 
@@ -1396,7 +1438,7 @@ ms.locfileid: "48453416"
 
 - **메시지를 전달하는 동안에도 작업 지속 가능:** Outlook이 이제 백그라운드에서 메시지를 전달합니다. 따라서 폴더 간에 많은 메시지를 주고 받는 동안에도 작업을 계속할 수 있습니다.
 
-- **연달아 있는 모임 사이에 시간 넣기: **모임이 기본적으로 5~10분 일찍 끝나도록 설정하여 참석자에게 잠시 숨을 돌리거나 장소를 이동할 시간을 줄 수 있습니다.
+- **연달아 있는 모임 사이에 시간 넣기:** 모임이 기본적으로 5~10분 일찍 끝나도록 설정하여 참석자에게 잠시 숨을 돌리거나 장소를 이동할 시간을 줄 수 있습니다.
 
 - **자주 하는 작업 선택:** 플래그 및 삭제를 사용하지 않나요? [보관] 또는 [읽은 상태로 표시]는 어떤가요? 가장 많이 사용하는 명령으로 빠른 작업 메뉴를 사용자 지정합니다.
 
@@ -1683,7 +1725,7 @@ ms.locfileid: "48453416"
 
 - 일부 인스턴스에서 동기화 엔진 백업 Sharepoint 파일에 '저장됨'이 표시되지만, 실제로 변경 내용이 저장되지 않아 데이터가 손실될 수 있었습니다.
 
-- 사용자가 Word, Excel 및 PowerPoint 문서를 저장할 수 없는 문제가 해결되었습니다. 이 문제는 새 파일을 만든 후 저장 아이콘을 클릭하거나 Ctrl + S를 눌러 "다른 이름으로 저장 대화 상자" 옵션을 표시하는 사용자에게 영향을 줍니다.
+- 사용자가 Word, Excel 및 PowerPoint 문서를 저장할 수 없는 문제를 해결했습니다. 이 문제는 새 파일을 만든 후 저장 아이콘을 클릭하거나 Ctrl + S를 눌러 "다른 이름으로 저장 대화 상자" 옵션을 표시하는 사용자에게 영향을 줍니다.
 
 - Win7에서는 모든 앱의 리본 메뉴에서 도형 갤러리 삽입을 표시하는 데 약 4초가 걸리는 성능 문제를 수정했습니다.
 
@@ -1753,7 +1795,8 @@ ms.locfileid: "48453416"
 > Office를 사용하는 데 발생한 문제에 대해 도움이 필요하면 [Microsoft의 Answers 포럼](https://answers.microsoft.com/) 또는 [기술 커뮤니티](https://techcommunity.microsoft.com/)에 질문을 게시하거나 [지원 서비스](https://support.microsoft.com/contactus)에 문의할 수 있습니다.
 
 
-[//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요 시작)
+[//]: # (|Win32|DC|Production| |16.0.12527.21330|version-2002-november-10|)
 [//]: # (|Win32|DC|Production| |16.0.12527.21236|version-2002-october-13|)
 [//]: # (|Win32|DC|Production| |16.0.12527.21104|version-2002-september-08|)
 [//]: # (|Win32|DC|Production| |16.0.12527.20988|version-2002-august-11|)
