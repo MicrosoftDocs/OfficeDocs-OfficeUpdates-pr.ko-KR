@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 3704121a210dc5e31cc63f98fe0ea763ee50e097
-ms.sourcegitcommit: 23b4900574769cc6848db009b4204c460621d909
+ms.openlocfilehash: 36166e5e6ab4c814e56d5a5458747ba1c67964e7
+ms.sourcegitcommit: 9775ae224ef323ec5f92db13c85a8d0abf256f9c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2020
-ms.locfileid: "48939305"
+ms.lasthandoff: 11/13/2020
+ms.locfileid: "49071537"
 ---
 # <a name="release-notes-for-beta-channel"></a>베타 채널용 릴리스 정보
 
@@ -29,7 +29,48 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 [//]: # (제거하지 마세요)
 
-[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요 시작)
+
+## <a name="version-2012-november-13"></a>버전 2012: 11월 13일
+*버전 2012(빌드 13510.20004)*
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- OneDrive 로컬 동기화 폴더에서 파일을 삽입하는 경우 개체 삽입 명령에 올바른 아이콘이 표시되지 않는 문제를 해결했습니다.
+
+
+### <a name="outlook"></a>Outlook
+
+- 작업 상태 보고서에서 수신자 필드를 비어 있게 만드는 문제를 해결했습니다.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Slide.Shapes.AddMediaObject2가 레거시 비디오 형식(MPG-1, Mpeg-2)과 충돌하는 VBA 문제를 해결했습니다.
+
+
+### <a name="project"></a>Project
+
+- 결과물이 연결된 SharePoint 사이트가 더 이상 존재하지 않는 경우, 결과물에 대한 종속성을 삭제할 수 없는 문제를 해결했습니다.
+
+
+- 사용자가 업데이트된 정보를 사용하여 저장된 것으로 고려되는 프로젝트를 여는 경우 업데이트가 누락되는 문제를 해결했습니다.
+
+
+### <a name="word"></a>Word
+
+- 확대/축소하는 동안 흐리게 표시되는 사진과 관련된 문제를 해결했습니다.
+
+
+- 긴 하이퍼링크가 잘리는 문제를 해결했습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
 
 ## <a name="version-2012-november-06"></a>버전 2012: 11월 6일
 *버전 2012(빌드 13430.20000)*
@@ -919,7 +960,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 - **간단한 설문 조사로 Outlook에 설문 조사 만들기** : 설문 조사를 쉽게 작성하고 투표를 수집하며 전자 메일에서 결과를 볼 수 있습니다 [자세한 내용 보기](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
 
-- **새 모임이실 찾기:** 다양한 기능으로 모임실을 검색합니다.
+- **새 회의실 찾기:** 다양한 기능으로 회의실을 검색합니다.
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
@@ -1877,7 +1918,8 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 
-[//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요 시작)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13510.20004|version-2012-november-13|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13430.20000|version-2012-november-06|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13426.20004|version-2011-october-30|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13415.20002|version-2011-october-23|)
@@ -1887,5 +1929,4 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (|Win32|DevMain|Insiders| |16.0.13318.20000|version-2010-september-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13312.20006|version-2010-september-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13304.20000|version-2010-september-11|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13301.20004|version-2010-september-04|)
-[//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 끝)
+[//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요 끝)
