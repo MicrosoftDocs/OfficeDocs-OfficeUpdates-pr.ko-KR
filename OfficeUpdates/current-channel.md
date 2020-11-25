@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 앱에 대한 월 단위 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: ddf6a8dc89f09b831bf162ecab4e853970843431
-ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
+ms.openlocfilehash: 1601e91a17da4d4896ca6e058d14f2973c8c4eaa
+ms.sourcegitcommit: 20605334d158c0b79db02d1bd4fbc418578b575c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "48989907"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "49387463"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>2020년 현재 채널 릴리스에 대한 릴리스 정보
 
@@ -32,6 +32,135 @@ ms.locfileid: "48989907"
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
+
+## <a name="version-2011-november-23"></a>버전 2011: 11월 23일
+*버전 2011(빌드 13426.20274)*
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="access"></a>Access
+
+- **Office 테마를 자동으로 전환:** Office는 Windows 10 테마 설정에 맞게 테마를 자동으로 전환할 수 있습니다. 파일 > 계정으로 이동하고 Office 테마 드롭다운에서 "시스템 설정 사용"을 선택합니다. [자세한 정보](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="excel"></a>Excel
+
+- **SVG 클립보드 지원:** 이제 Office의 SVG 콘텐츠를 타사 앱에 붙여 을 수 있습니다. [자세한 정보](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+
+- **Office 테마를 자동으로 전환:** Office는 Windows 10 테마 설정에 맞게 테마를 자동으로 전환할 수 있습니다. 파일 > 계정으로 이동하고 Office 테마 드롭다운에서 "시스템 설정 사용"을 선택합니다. [자세한 정보](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="onenote"></a>OneNote
+
+- **Office 테마를 자동으로 전환:** Office는 Windows 10 테마 설정에 맞게 테마를 자동으로 전환할 수 있습니다. 파일 > 계정으로 이동하고 Office 테마 드롭다운에서 "시스템 설정 사용"을 선택합니다. [자세한 정보](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="outlook"></a>Outlook
+
+- **SVG 클립보드 지원:** 이제 Office의 SVG 콘텐츠를 타사 앱에 붙여 을 수 있습니다. [자세한 정보](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+
+- **Office 테마를 자동으로 전환:** Office는 Windows 10 테마 설정에 맞게 테마를 자동으로 전환할 수 있습니다. 파일 > Office 계정으로 이동하고 Office 테마 드롭다운에서 "시스템 설정 사용"을 선택합니다. [자세히 알아보기](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+- **작업에 대한 사용자 환경 업데이트**: 작업 항목의 시각적 새로 고침
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **SVG 클립보드 지원:** 이제 Office의 SVG 콘텐츠를 타사 앱에 붙여 을 수 있습니다. [자세한 정보](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />[블로그 게시물](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)에서 세부 정보 보기
+
+- **투명한 배경으로 GIF 만들기:** 애니메이션 GIF로 내보낼 때 새 옵션을 사용하여 배경을 투명하게 만들 수 있습니다.<br />[블로그 게시물](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)에서 세부 정보 보기
+
+- **Office 테마를 자동으로 전환:** Office는 Windows 10 테마 설정에 맞게 테마를 자동으로 전환할 수 있습니다. 파일 > 계정으로 이동하고 Office 테마 드롭다운에서 "시스템 설정 사용"을 선택합니다. [자세히 알아보기](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+- **범위 내에서 애니메이션 GIF 내보내기:** 애니메이션 GIF로 내보낼 때 슬라이드 범위 선택
+
+### <a name="project"></a>Project
+
+- **Office 테마를 자동으로 전환:** Office는 Windows 10 테마 설정에 맞게 테마를 자동으로 전환할 수 있습니다. 파일 > 계정으로 이동하고 Office 테마 드롭다운에서 "시스템 설정 사용"을 선택합니다. [자세한 정보](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="publisher"></a>게시자
+
+- **Office 테마를 자동으로 전환:** Office는 Windows 10 테마 설정에 맞게 테마를 자동으로 전환할 수 있습니다. 파일 > 계정으로 이동하고 Office 테마 드롭다운에서 "시스템 설정 사용"을 선택합니다. [자세한 정보](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="visio"></a>Visio
+
+- **Office 테마를 자동으로 전환:** Office는 Windows 10 테마 설정에 맞게 테마를 자동으로 전환할 수 있습니다. 파일 > 계정으로 이동하고 Office 테마 드롭다운에서 "시스템 설정 사용"을 선택합니다. [자세한 정보](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="word"></a>Word
+
+- **SVG 클립보드 지원:** 이제 Office의 SVG 콘텐츠를 타사 앱에 붙여 을 수 있습니다. [자세한 정보](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+
+- **Office 테마를 자동으로 전환:** Office는 Windows 10 테마 설정에 맞게 테마를 자동으로 전환할 수 있습니다. 파일 > 계정으로 이동하고 Office 테마 드롭다운에서 "시스템 설정 사용"을 선택합니다. [자세한 정보](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="outlook"></a>Outlook
+
+- 작업에 대해 상황 보고서를 보낼 때 To 필드가 비어 있는 문제를 해결했습니다.
+
+
+- MailItem.BeforeAttachmentAdd 이벤트를 중단시키는 문제를 해결했습니다.
+
+
+- IDataObject 작업(예: 끌어서 놓기, 클립보드)에서 첨부 파일에 대한 filetime 포함을 사용하지 않도록 설정할 수 있는 regkey를 추가했습니다.  HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments. REG_DWORD IncludeFileTimesInDataObject. 0 = filetimes가 제외됩니다. 1 = (기본값) filetimes가 포함됩니다.
+
+
+- Azure Information Protection의 보호 레이블을 사용하여 메시지에 회신할 때 인라인 이미지를 사라지게 하는 문제를 해결했습니다.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Slide.Shapes.AddMediaObject2가 레거시 비디오 형식(MPG-1, Mpeg-2)과 충돌하는 VBA 문제를 해결했습니다.
+
+
+- 새로 녹음된 오디오가 포함된 슬라이드를 복제한 후 파일을 저장할 때 오류가 발생하는 문제를 해결했습니다.
+
+
+- 문서 복구 작업 후에도 손상된 PowerPoint 파일이 올바르게 열리지 않는 문제를 해결했습니다.
+
+
+### <a name="word"></a>Word
+
+- Word에 영향을 미치는 최적화된 게이트에 의해 노출된 어설트 버그를 수정합니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
+
+## <a name="version-2010-november-17"></a>버전 2010: 11월 17일
+*버전 2010(빌드 13328.20408)*
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="outlook"></a>Outlook
+
+- MailItem.BeforeAttachmentAdd 이벤트를 중단시키는 문제를 해결했습니다.
+
+
+- IDataObject 작업(예: 끌어서 놓기, 클립보드)에서 첨부 파일에 대한 filetime 포함을 사용하지 않도록 설정할 수 있는 regkey를 추가했습니다.  HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments.  REG_DWORD IncludeFileTimesInDataObject.  0 = filetimes가 제외됩니다.  1 = (기본값) filetimes가 포함됩니다.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 병합 오류 중에 IRM/보호된 문서를 사용할 때 문제를 해결하려면 이 항목을 수정합니다.
+
+
+### <a name="visio"></a>Visio
+
+- 사용자 지정 Visio 스텐실 및 내장 템플릿 모두에 대해 Visio for Office 365의 커넥터를 사용하여 직선을 생성할 수 있는 문제가 해결되었습니다.
+
+
+### <a name="office-suite"></a>Office 제품군
+
+- 특정 시나리오에서 SaveAs를 시도하면 실패하는 문제를 해결했습니다.
 
 
 
@@ -73,19 +202,19 @@ ms.locfileid: "48989907"
 
 - **파워 쿼리를 사용하여 데이터 형식 만들기:** 모든 데이터 원본에서 파워 쿼리로 다양한 데이터 형식을 만듭니다. [자세한 정보](https://support.office.com/article/a465a3b7-3d37-4eb1-a59c-bd3163315308)<br />[블로그 게시물](https://techcommunity.microsoft.com/t5/excel-blog/announcing-power-query-data-types/ba-p/1782903)에서 세부 정보 보기
 
-- **Office에 iPhone 사진을 직접 삽입** : 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
+- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
 
 - **작업 펜을 사용하여 빠르게 편집할 수 있습니다.** 작업 펜을 사용하여 셀에 직접 쓸 수 있으며, Excel 데이터로 자동으로 변환되는 잉크를 사용하여 데이터를 적을 수 있습니다.
 
 ### <a name="outlook"></a>Outlook
 
-- **Office에 iPhone 사진을 직접 삽입** : 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
+- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
 
-- **문법 검사의 도움:** Outlook에서 사용자가 입력할 때 문법 오류를 표시하여 클릭 한 번으로 제안을 적용할 수 있습니다. [자세한 정보](https://support.office.com/article/ddbadc42-4637-451d-b3f4-ecf295036fa9)<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/grammar-and-style-suggestions-available-in-outlook)에서 세부 정보 보기
+- **문법 검사의 도움:** Outlook에서 사용자가 입력할 때 문법 오류를 표시하여 클릭 한 번으로 제안을 적용할 수 있습니다. [자세한 정보](https://support.office.com/article/ddbadc42-4637-451d-b3f4-ecf295036fa9)<br />[블로그 게시물](https://insider.office.com/en-us/blog/grammar-and-style-suggestions-available-in-outlook)에서 세부 정보 보기
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Office에 iPhone 사진을 직접 삽입** : 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
+- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
 
 ### <a name="teams"></a>Teams
 
@@ -99,7 +228,7 @@ ms.locfileid: "48989907"
 
 ### <a name="word"></a>Word
 
-- **Office에 iPhone 사진을 직접 삽입** : 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보를 참조하세요.
+- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -471,7 +600,7 @@ ms.locfileid: "48989907"
 
 
 
-[//]: # (버그 세부 정보 콘텐츠 끝을 제거하지 마세요.)
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2007-august-25"></a>버전 2007: 8월 25일
 *버전 2007(빌드 13029.20460)*
@@ -556,7 +685,7 @@ ms.locfileid: "48989907"
 
 ### <a name="outlook"></a>Outlook
 
-- **간단한 설문 조사로 Outlook에 설문 조사 만들기** : 설문 조사를 쉽게 작성하고 투표를 수집하며 전자 메일에서 결과를 볼 수 있습니다 [자세한 내용 보기](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
+- **간단한 설문 조사로 Outlook에 설문 조사 만들기**: 설문 조사를 쉽게 작성하고 투표를 수집하며 전자 메일에서 결과를 볼 수 있습니다 [자세한 내용 보기](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
 
 - **전자 메일로 사진을 보낼 때 선명도를 높게 유지:.** 새 Outlook 설정을 사용하여 사진을 전자 메일 콘텐츠에 첨부해서 보낼 때 압축을 제한할 수 있습니다.
 
@@ -731,7 +860,7 @@ ms.locfileid: "48989907"
 
 - **채널 알림 설정을 관리하는 간단한 방법:** 사용자는 팀 및 채널 목록을 통하거나 채널 머리글에서 한 번 클릭으로 모든 활동을 켜고 끄거나 사용자 설정에서 선호하는 순열을 자세히 설정하여 알림 설정을 빠르게 관리할 수 있습니다.
 
-- **Walkie Talkie** : 누르면 통화가 가능한 푸시투토크(push-to-talk) 기능을 사용하면 즉각적인 음성 통신이 가능합니다.
+- **Walkie Talkie**: 누르면 통화가 가능한 푸시투토크(push-to-talk) 기능을 사용하면 즉각적인 음성 통신이 가능합니다.
 
 ### <a name="word"></a>Word
 
@@ -914,7 +1043,7 @@ ms.locfileid: "48989907"
 ### <a name="feature-updates"></a>기능 업데이트
 ### <a name="excel"></a>Excel
 
-- **자동으로 새 데이터 형식 사용** : 재고량 또는 지리적 위치와 유사한 데이터 값을 입력하면 Excel에서 재고량 또는 지역 중 연결된 올바른 데이터 형식으로 변환할 것을 제안합니다. [자세한 정보](https://support.office.com/article/61a33056-9935-484f-8ac8-f1a89e210877)
+- **자동으로 새 데이터 형식 사용**: 재고량 또는 지리적 위치와 유사한 데이터 값을 입력하면 Excel에서 재고량 또는 지역 중 연결된 올바른 데이터 형식으로 변환할 것을 제안합니다. [자세한 정보](https://support.office.com/article/61a33056-9935-484f-8ac8-f1a89e210877)
 
 - **대화에서 애니메이션 GIF 사용:** 애니메이션 GIF가 이제 Office 편집기에서 지원됩니다. 이제 문서가 더욱 돋보입니다.
 
@@ -940,7 +1069,7 @@ ms.locfileid: "48989907"
 
 - **Teams 모임에서 비디오 레이아웃 변경:** 곧 Teams 모임에서 동시에 볼 수 있는 참가자 수가 4명에서 9명으로 증가합니다.
 
-- **라이브 이벤트에 시스템 오디오 포함** : 라이브 이벤트의 발표자나 제작자는 이제 라이브 이벤트 도중 데스크톱이나 창 화면을 공유할 때 시스템 오디오를 포함할 수 있습니다. 시스템 오디오를 포함하면 공유하는 콘텐츠의 모든 오디오 부분을 사용자가 들을 수 있습니다.
+- **라이브 이벤트에 시스템 오디오 포함**: 라이브 이벤트의 발표자나 제작자는 이제 라이브 이벤트 도중 데스크톱이나 창 화면을 공유할 때 시스템 오디오를 포함할 수 있습니다. 시스템 오디오를 포함하면 공유하는 콘텐츠의 모든 오디오 부분을 사용자가 들을 수 있습니다.
 
 - **이끌이가 전화 접속 참가자의 대기실 설정을 변경할 수 있도록 설정:** 이 설정은 전화로 접속한 참가자가 자동으로 사용자 입장 설정과 관계없이 모임에 바로 참가할지 또는 대기실에서 기다릴지를 제어합니다.
 
@@ -948,7 +1077,7 @@ ms.locfileid: "48989907"
 
 - **모임 비디오 배경 사용자 지정:** 비디오로 모임을 진행하는 경우 이제 사용할 정적 배경 이미지를 다양하게 선택할 수 있습니다. 그러면 앉아 있는 실제 배경이 아닌 선택한 이미지가 표시됩니다.
 
-- **채팅에 더 많은 사용자 추가** : 이제 단일 채팅 스레드에 최대 350명의 사용자를 추가할 수 있습니다.
+- **채팅에 더 많은 사용자 추가**: 이제 단일 채팅 스레드에 최대 350명의 사용자를 추가할 수 있습니다.
 
 - **활동 피드의 설정 기어:** 사용자는 이제 설정 기어를 통해 피드 왼쪽 레일에서 활동 피드와 알림 설정에 직접 액세스할 수 있습니다.
 
@@ -1231,7 +1360,7 @@ ms.locfileid: "48989907"
 
 ### <a name="office-suite"></a>Office 제품군
 
-- **민감도 레이블** : 조직에서 사용자 지정 권한에 대한 메시지를 표시하도록 구성한 민감도 레이블을 적용할 수 있습니다.
+- **민감도 레이블**: 조직에서 사용자 지정 권한에 대한 메시지를 표시하도록 구성한 민감도 레이블을 적용할 수 있습니다.
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -1418,7 +1547,7 @@ ms.locfileid: "48989907"
 
 - **읽고 즉시 회신:** 통합 문서를 열지 않고 전자 메일에서 바로 메모와 멘션에 회신합니다.
 
-- **왼쪽을 보고, 오른쪽을 보세요… XLOOKUP이 여기 있습니다!** 행별로 XLOOKUP을 사용하여 테이블 또는 범위에서 필요한 것을 모두 찾으세요. [자세한 정보](https://support.office.com/article/b7fd680e-6d10-43e6-84f9-88eae8bf5929)
+- **왼쪽을 보고, 오른쪽을 보십시오… XLOOKUP이 여기 있습니다!** 행별로 XLOOKUP을 사용하여 테이블 또는 범위에서 필요한 것을 모두 찾으십시오. [자세한 정보](https://support.office.com/article/b7fd680e-6d10-43e6-84f9-88eae8bf5929)
 
 ### <a name="outlook"></a>Outlook
 
@@ -1498,7 +1627,7 @@ ms.locfileid: "48989907"
 
 - **모든 사용자를 위한 프레젠테이션 최적화:** 접근성 검사기는 기능은 스크린 리더를 염두에 두고 슬라이드에서 개체를 정렬하는데 도움을 줍니다.
 
-- **GIF 즉시 만들기:** 하나의 슬라이드, 하나의 프레임. PowerPoint에서 쉽게 루핑 GIF를 만들 수 있습니다. [자세한 정보](https://support.office.com/ko-KR/article/a598753e-92de-4f1b-8393-714db4d334b4)
+- **GIF 즉시 만들기:** 하나의 슬라이드, 하나의 프레임. PowerPoint에서 쉽게 루핑 GIF를 만들 수 있습니다. [자세한 정보](https://support.office.com/en-us/article/a598753e-92de-4f1b-8393-714db4d334b4)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
@@ -1535,6 +1664,8 @@ ms.locfileid: "48989907"
 > Office를 사용하는 데 발생한 문제에 대해 도움이 필요하면 [Microsoft의 Answers 포럼](https://answers.microsoft.com/) 또는 [기술 커뮤니티](https://techcommunity.microsoft.com/)에 질문을 게시하거나 [지원 서비스](https://support.microsoft.com/contactus)에 문의할 수 있습니다.
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요 시작)
+[//]: # (|Win32|CC|Production| |16.0.13426.20274|version-2011-november-23|)
+[//]: # (|Win32|CC|Production| |16.0.13328.20408|version-2010-november-17|)
 [//]: # (|Win32|CC|Production| |16.0.13328.20356|version-2010-november-10|)
 [//]: # (|Win32|CC|Production| |16.0.13328.20292|version-2010-october-27|)
 [//]: # (|Win32|CC|Production| |16.0.13231.20418|version-2009-october-21|)
@@ -1543,6 +1674,4 @@ ms.locfileid: "48989907"
 [//]: # (|Win32|CC|Production| |16.0.13231.20262|version-2009-september-28|)
 [//]: # (|Win32|CC|Production| |16.0.13127.20508|version-2008-september-22|)
 [//]: # (|Win32|CC|Production| |16.0.13127.20408|version-2008-september-09|)
-[//]: # (|Win32|CC|Production| |16.0.13127.20296|version-2008-august-31|)
-[//]: # (|Win32|CC|Production| |16.0.13029.20460|version-2007-august-25|)
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요 끝)

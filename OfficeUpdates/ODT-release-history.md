@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: IT 전문가에게 ODT(Office 배포 도구)의 릴리스 기록을 제공합니다.
-ms.openlocfilehash: acc7e37ae203c824c0759eab641491d377073a7f
-ms.sourcegitcommit: 0cba381a1439abdc7044a81772609c91998d65f0
+ms.openlocfilehash: a1553a3f08a254c9c177fec88073073c34a3427c
+ms.sourcegitcommit: 413694d561d367e93ad51c9be41495ad09a24af3
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "48999543"
+ms.lasthandoff: 11/23/2020
+ms.locfileid: "49385484"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Office 배포 도구에 대한 릴리스 기록
 
@@ -23,11 +23,19 @@ ODT(Office 배포 도구)는 Microsoft 365 앱과 같이 간편 실행 버전의
 
 ODT를 사용하면 Office 설치를 보다 잘 제어할 수 있습니다. 즉, 설치되는 제품 및 언어, 해당 제품의 업데이트 방법 및 사용자에게 설치 환경을 표시할지 여부 등을 정의할 수 있습니다. ODT 사용 방법에 대한 자세한 내용은 [Office 배포 도구 및 개요](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool)를 참조하세요.
 
- **지원되는 운영체제** : Windows 10, Windows 8.1, Windows Server 2019, Windows Server 2016 
+ **지원되는 운영체제**: Windows 10, Windows 8.1, Windows Server 2019, Windows Server 2016 
  
- **설치 방법** : 다운로드한 다음 Office 배포 도구 실행 파일(setupodt.exe) 및 샘플 구성 파일(configuration.xml)이 포함된 자동 압축 풀기 실행 파일을 실행합니다. 
+ **설치 방법**: 다운로드한 다음 Office 배포 도구 실행 파일(setup.exe) 및 샘플 구성 파일(configuration.xml)이 포함된 자동 압축 풀기 실행 파일을 실행합니다. 
 
 [Office 배포 도구 다운로드](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
+
+## <a name="november-23-2020"></a>2020년 11월 23일
+버전 16.0.13328.20420 (setup.exe 버전 16.0.13328.20420)
+- 언어 교정 도구가/다운로드 모드로 다운로드되지 않는 문제 해결
+- 관리자 권한 없는 사용자에게 실행 될 경우 다운로드 모드가 실패 하는 문제 해결
+- 구성 XML에서 버전 속성을 지정하면 /download 모드에서 불완전한 다운로드가 발생하는 문제 해결
+- 추출 시 Office 배포 도구 이름이 "setup.exe"로 지정되지 않은 문제 해결
+- 구성 XML에서 채널 특성이 제공되는 경우 설치 원본 우선 순위 지정에 대한 문제 해결
 
 ## <a name="november-10-2020"></a>2020년 11월 10일
 버전 16.0.13328.20356 (setupODT.exe 버전 16.0.13328.20336)

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 릴리스 정보에 대한 링크를 포함하여 Microsoft 365 앱 릴리스의 전체 목록을 날짜별로 구성해서 IT 전문가에게 제공합니다.
-ms.openlocfilehash: bf1870a04fbbc542d12aa64c611bf47351bba865
-ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
+ms.openlocfilehash: 7ff4270fbd49b887717858f0f9cb120f14903f4f
+ms.sourcegitcommit: 20605334d158c0b79db02d1bd4fbc418578b575c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "48989947"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "49387450"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 앱의 업데이트 기록(날짜순)
 
@@ -34,7 +34,7 @@ ms.locfileid: "48989947"
 
 |**채널**|**버전**|**빌드**|**릴리스 날짜**|**다음 이하 버전까지 지원**|
 |:-----|:-----|:-----|:-----|:-----|
-|현재 채널<br/>|2010<br/>|13328.20356<br/>|2020년 11월 10일<br/>|버전 2011 출시<br/>|
+|현재 채널<br/>|2011<br/>|13426.20274<br/>|2020년 11월 23일<br/>|버전 2012 출시<br/>|
 |월 단위 엔터프라이즈 채널<br/>|2009<br/>|13231.20514<br/>|2020년 11월 10일<br/>|2021년 1월 12일<br/>|
 |월 단위 엔터프라이즈 채널<br/>|2008<br/>|13127.20760<br/>|2020년 11월 10일<br/>|2020년 12월 8일<br/>|
 |반기 엔터프라이즈 채널(미리 보기)<br/>|2008<br/>|13127.20760<br/>|2020년 11월 10일<br/>|2021년 3월 9일<br/>|
@@ -45,12 +45,14 @@ ms.locfileid: "48989947"
 
 이전 버전의 Microsoft 365 앱에서 가장 최근 릴리스로 업데이트할 경우 대략적인 다운로드 크기에 대한 내용은 [Microsoft 365 앱 업데이트의 다운로드 크기](download-sizes-office365-proplus-updates.md)를 참조하세요.
 
-다음 표에서는 다음 업데이트 채널에서 릴리스된 Microsoft 365 앱에 대한 각 업데이트의 버전 및 빌드 번호 목록을 제공합니다. 현재, 월간 엔터프라이즈, 반기 엔터프라이즈(미리 보기) 및 반기 엔터프라이즈 대상입니다. 표의 각 항목은 해당 릴리스의 릴리스 노트에 직접 연결됩니다. 이 릴리스 정보는 Microsoft 365 앱 업데이트에 포함된 기능 및 보안 업데이트 및 비보안 업데이트에 대한 정보를 제공합니다.  
+The following table provides a list of the version and build numbers for each update to Microsoft 365 Apps released in the following update channels: Current, Monthly Enterprise, Semi-Annual Enterprise (Preview), and Semi-Annual Enterprise. Each entry in the table links directly to the release notes for that release. These release notes provide information about features, security updates, and non-security updates that are included in the update to Microsoft 365 Apps.  
 
 [//]: # (HISTORYTABLESTART)
 
 |**년도**|**릴리스 날짜**|**현재 채널**|**월 단위 엔터프라이즈 채널**|**반기 엔터프라이즈 채널(미리 보기)**|**반기 엔터프라이즈 채널**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2020|11월 23일|[버전 2011(빌드 13426.20274)](current-channel.md#version-2011-november-23)| | | |
+|2020|11월 17일|[버전 2010(빌드 13328.20408)](current-channel.md#version-2010-november-17)| | | |
 |2020|11월 10일|[버전 2010(빌드 13328.20356)](current-channel.md#version-2010-november-10)|[버전 2009(빌드 13231.20514)](monthly-enterprise-channel.md#version-2009-november-10)<br/>[버전 2008(빌드 13127.20760)](monthly-enterprise-channel.md#version-2008-november-10)|[버전 2008(빌드 13127.20760)](semi-annual-enterprise-channel-preview.md#version-2008-november-10)|[버전 2002(빌드 12527.21330)](semi-annual-enterprise-channel.md#version-2002-november-10)<br/>[버전 1908(빌드 11929.20974)](semi-annual-enterprise-channel.md#version-1908-november-10)|
 |2020|10월 27일|[버전 2010(빌드 13328.20292)](current-channel.md#version-2010-october-27)| | | |
 |2020|10월 21일|[버전 2009(빌드 13231.20418)](current-channel.md#version-2009-october-21)| | | |

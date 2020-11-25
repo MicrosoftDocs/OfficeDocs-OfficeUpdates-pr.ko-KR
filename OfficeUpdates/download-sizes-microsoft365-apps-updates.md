@@ -9,20 +9,20 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 각 업데이트 채널에 대한 Microsoft 365 앱 업데이트의 대략적인 다운로드 크기 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 03142d126521058ac2762a3f0004b7944f4f2bc4
-ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
+ms.openlocfilehash: b5b7bdea32117e9147861133dd37c0c7035589a1
+ms.sourcegitcommit: 20605334d158c0b79db02d1bd4fbc418578b575c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "48990137"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "49387451"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 앱 업데이트의 다운로드 크기
 
 Microsoft의 목표는 기업 고객이 네트워크 대역폭 사용률을 계획하는 데 도움이 되도록 미리 업데이트 크기 정보를 제공하는 것입니다.
 
-다음 표에는 이전 버전의 Microsoft 365 앱에서 최신 릴리스로 업데이트할 때의 대략적인 다운로드 크기가 나와 있습니다. 실제 다운로드 크기는 50MB 정도까지 달라질 수 있습니다. 이전 릴리스에서 현재 릴리스로 업데이트하는 경우 다운로드 크기가 더 커질 수 있습니다.
+The following tables show the approximate download size when updating from the previous release of Microsoft 365 Apps to the most current release. Actual download sizes might vary, by as much as 50 mb. If you are updating from an older release to the current release, your download size could be larger.
 
-다른 채널로 전환하는 경우(예: 반기 채널(대상 지정)에서 반기 채널로), 업데이트 크기가 표에 나오는 것보다 훨씬 클 수 있습니다. 이 경우 전체 다운로드가 필요할 수 있으며 1GB 이상일 수 있습니다.
+If you are switching to a different channel, for example from Semi-Annual Channel (Targeted) to Semi-Annual Channel, your update size could be considerably larger than what's listed in the table. It could entail a full download, which could be at least 1 GB.
 
 
 > [!IMPORTANT]
@@ -35,6 +35,38 @@ Microsoft의 목표는 기업 고객이 네트워크 대역폭 사용률을 계�
 > - 지난 4개월 동안의 릴리스만 표시됩니다.
 
 [//]: # (제거하지 마세요)
+
+## <a name="november-23-2020"></a>2020년 11월 23일
+
+[//]: # (콘텐츠를 제거하지 마세요. 시작 2020년 11월 23일)
+
+### <a name="current-channel"></a>현재 채널
+
+가장 최근 릴리스는 버전 2011(빌드 13426.20274)입니다.
+
+|**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
+|:-----|:-----|:-----|
+|버전 2010(빌드 13328.20408) <br/> |2020년 11월 17일 <br/> |143<br/> |
+|버전 2010(빌드 13328.20356) <br/> |2020년 11월 10일 <br/> |148<br/> |
+
+
+[//]: # (콘텐츠를 제거하지 마세요 종료 2020년 11월 23일)
+
+## <a name="november-17-2020"></a>2020년 11월 17일
+
+[//]: # (콘텐츠를 제거하지 마세요. 시작 2020년 11월 17일)
+
+### <a name="current-channel"></a>현재 채널
+
+가장 최근 릴리스는 버전 2010(빌드 13328.20408)입니다.
+
+|**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
+|:-----|:-----|:-----|
+|버전 2010(빌드 13328.20356) <br/> |2020년 11월 10일 <br/> |51<br/> |
+|버전 2010(빌드 13328.20292) <br/> |2020년 10월 27일 <br/> |60<br/> |
+
+
+[//]: # (콘텐츠를 제거하지 마세요 종료 2020년 11월 17일)
 
 ## <a name="november-10-2020"></a>2020년 11월 10일
 
