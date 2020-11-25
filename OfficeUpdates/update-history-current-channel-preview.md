@@ -9,22 +9,20 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 월간 채널 업데이트 내역 제공 Windows 데스크톱의 대상 릴리스
-ms.openlocfilehash: 499bf2eca1a90149c3fe1806e855be82058af2c5
-ms.sourcegitcommit: 82473b6efabedf74014a9a41c6c43ec53b0def88
+ms.openlocfilehash: c2be3991959bb0dbd2110bc356df0659a6f06b0a
+ms.sourcegitcommit: 3a7eddcac9238b1394f1c1623ddb3273254b9ceb
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48949977"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "49408354"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Windows Office 현재 채널(미리 보기)에 업데이트 기록
 
-안녕하세요 참가자 여러분! 최신 업데이트 설치 여부와 또는 최신 현재 채널(미리보기) 빌드의 최근 목록은 여기에서 확인하실 수 있습니다.
-참가자 프로그램에 대한 자세한 내용을 보려면 [여기](https://insider.office.com/) 클릭하세요.
+Hello, Insiders! If you're wondering whether you have the latest update installed or are looking for a list of recent Current Channel (Preview) builds, you're in the right place. Click [here](https://insider.office.com/) for more information on the Insiders Program.
 
 ## <a name="office-current-channel-preview-versions-and-builds"></a>Office 현재 채널(미리 보기) 버전 및 빌드
 
-이전에 이후 참가자라고 불렸던 현재 채널(미리보기) 레벨에 등록한 경우 새로운 Office 기능 업데이트를 약 한달에 한번 그리고 그 외 중요한 수정 및 보안 보조 빌드를 얻을 수 있습니다. 다음 목록에서는 가장 최신의 현재 채널(미리보기) 버전 및 빌드를 보여줍니다( **가장 최신 릴리스된 빌드가 먼저 보여집니다** ). 새 빌드에는 이전 빌드에 포함된 모든 업데이트가 포함됩니다.
-릴리스 정보를 찾으려면 [참조](https://docs.microsoft.com/OfficeUpdates/current-channel-preview) 하세요. [Office 참가자의 새로운 기능](https://insider.office.com/ko-KR/releasenotes/windows/slow)을 참조하세요.
+If you're enrolled in the Current Channel (Preview) level, which was formerly called Insider Slow, you get a new Office feature update approximately once a month, plus subsequent builds containing important fixes or security updates. The following list shows recent Current Channel (Preview) versions and builds, with **the most recently released build listed first**. New builds contain all the updates contained in previous builds. To find release notes, [see](https://docs.microsoft.com/OfficeUpdates/current-channel-preview). Also, you can see [What's new for Office Insiders](https://insider.office.com/en-us/releasenotes/windows/slow).
 
 
 > [!IMPORTANT]
@@ -37,6 +35,18 @@ ms.locfileid: "48949977"
 
 
 [//]: # (제거하지 마세요)
+
+**2020년 11월 24일**<br/>
+버전 2011(빌드 13426.20294)<br/>
+
+**2020년 11월 21일**<br/>
+버전 2011(빌드 13426.20274)<br/>
+
+**2020년 11월 18일**<br/>
+버전 2011(빌드 13426.20250)<br/>
+
+**2020년 11월 16일**<br/>
+버전 2011(빌드 13426.20234)<br/>
 
 **2020년 11월 9일**<br/>
 버전 2011(빌드 13426.20184)<br/>

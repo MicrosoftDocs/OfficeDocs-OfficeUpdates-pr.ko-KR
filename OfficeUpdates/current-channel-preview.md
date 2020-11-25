@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 이후 참가자 대상 그룹에게 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 246f164b26d01b25894879cfb0625cf76829a2e0
-ms.sourcegitcommit: 82473b6efabedf74014a9a41c6c43ec53b0def88
+ms.openlocfilehash: 23b62c7eb5c91e4fecb0c14567b2554f4f89b371
+ms.sourcegitcommit: 3a7eddcac9238b1394f1c1623ddb3273254b9ceb
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48950007"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "49408344"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 현재 채널(미리 보기)에 대한 릴리스 정보
 
@@ -28,7 +28,88 @@ This article contains release notes for Current Channel (Preview) builds of Word
 
 [//]: # (제거하지 마세요)
 
-## <a name="version-2011-november-09"></a>버전 2011: 10월 9일
+## <a name="version-2011-november-24"></a>버전 2011: 11월 24일
+*버전 2011(빌드 13426.20294)*
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="office-suite"></a>Office 제품군
+
+- Word에서 Powerpoint로 수식을 복사/붙여넣기를 할 때 발생하는 문제를 해결했습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
+
+## <a name="version-2011-november-21"></a>버전 2011: 11월 21일
+*버전 2011(빌드 13426.20274)*
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="powerpoint"></a>PowerPoint
+
+- **비디오 라이브러리:** 앱에서 사용 가능한 엄선된 로열티 없는 비디오 영상 라이브러리로 문서의 수준을 높이세요.
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="outlook"></a>Outlook
+
+- MailItem.BeforeAttachmentAdd 이벤트를 중단시키는 문제를 해결했습니다.
+
+
+- IDataObject 작업(예: 끌어서 놓기, 클립보드)에서 첨부 파일에 대한 filetime 포함을 사용하지 않도록 설정할 수 있는 regkey를 추가했습니다. HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments. REG_DWORD IncludeFileTimesInDataObject. 0 = filetimes가 제외됩니다. 1 = (기본값)filetimes가 포함됩니다.
+
+
+- Azure Information Protection의 보호 레이블을 사용하여 메시지에 회신할 때 인라인 이미지를 사라지게 하는 문제를 해결했습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
+
+## <a name="version-2011-november-18"></a>버전 2011: 11월 18일
+*버전 2011(빌드 13426.20250)*
+* 다양한 버그 및 성능 수정 사항.
+
+## <a name="version-2011-november-16"></a>버전 2011: 11월 16일
+*버전 2011(빌드 13426.20234)*
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="outlook"></a>Outlook
+
+- **모든 장치에 같은 서명:** 서명이 클라우드에 저장됩니다. 서명을 한 번 만들면 모든 장치의 Outlook에서 사용할 수 있습니다.
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="outlook"></a>Outlook
+
+- 작업에 대해 상황 보고서를 보낼 때 To 필드가 비어 있는 문제를 해결했습니다.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Slide.Shapes.AddMediaObject2가 레거시 비디오 형식(MPG-1, Mpeg-2)과 충돌하는 VBA 문제를 해결했습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
+
+## <a name="version-2011-november-09"></a>버전 2011: 11월 9일
 *버전 2011(빌드 13426.20184)*
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -207,9 +288,9 @@ This article contains release notes for Current Channel (Preview) builds of Word
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **SVG 클립보드 지원:** 이제 Office의 SVG 콘텐츠를 타사 앱에 붙여 을 수 있습니다. [자세한 정보](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/svg-content-office-third-party-apps)에서 세부 정보 보기
+- **SVG 클립보드 지원:** 이제 Office의 SVG 콘텐츠를 타사 앱에 붙여 을 수 있습니다. [자세한 정보](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />[블로그 게시물](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)에서 세부 정보 보기
 
-- **투명한 배경으로 GIF 만들기:** 애니메이션 GIF로 내보낼 때 새 옵션을 사용하여 배경을 투명하게 만들 수 있습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/export-animated-gifs-transparent-backgrounds)에서 세부 정보를 확인하세요.
+- **투명한 배경으로 GIF 만들기:** 애니메이션 GIF로 내보낼 때 새 옵션을 사용하여 배경을 투명하게 만들 수 있습니다.<br />[블로그 게시물](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)에서 세부 정보 보기
 
 - **범위 내에서 애니메이션 GIF 내보내기:** 애니메이션 GIF로 내보낼 때 슬라이드 범위 선택
 
@@ -303,11 +384,11 @@ This article contains release notes for Current Channel (Preview) builds of Word
 ### <a name="feature-updates"></a>기능 업데이트
 ### <a name="outlook"></a>Outlook
 
-- **메시지 작성 시간 절약:** Outlook에서 메시지를 신속하게 작성하는 데 도움이 되는 쓰기 제안을 표시합니다. 제안을 수락하려면 탭 키를 사용하면 됩니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/text-predictions-in-word-outlook)에서 세부 정보 보기
+- **메시지 작성 시간 절약:** Outlook에서 메시지를 신속하게 작성하는 데 도움이 되는 쓰기 제안을 표시합니다. 제안을 수락하려면 탭 키를 사용하면 됩니다.<br />[블로그 게시물](https://insider.office.com/en-us/blog/text-predictions-in-word-outlook)에서 세부 정보 보기
 
 - **기본 제공 변환기로 언어 장벽 부수기:** 번역을 위한 추가 기능이 더 이상 필요하지 않습니다. 메시지에서, 마우스 오른쪽 단추를 클릭하여 특정 단어, 구 또는 전체 메시지를 번역할 수 있습니다. [자세한 정보](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f)
 
-- **작업에 대한 사용자 환경 업데이트** : 작업 항목의 시각적 새로 고침
+- **작업에 대한 사용자 환경 업데이트**: 작업 항목의 시각적 새로 고침
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -509,7 +590,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 
 ### <a name="outlook"></a>Outlook
 
-- **문법 검사를 도움:** Outlook에서 사용자가 입력할 때 문법 오류를 표시하여 클릭 한 번으로 제안을 적용할 수 있습니다. <br />[블로그 게시물](https://insider.office.com/ko-KR/blog/grammar-and-style-suggestions-available-in-outlook)에서 세부 정보 보기
+- **문법 검사를 도움:** Outlook에서 사용자가 입력할 때 문법 오류를 표시하여 클릭 한 번으로 제안을 적용할 수 있습니다. <br />[블로그 게시물](https://insider.office.com/en-us/blog/grammar-and-style-suggestions-available-in-outlook)에서 세부 정보 보기
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -573,7 +654,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 
 ### <a name="excel"></a>Excel
 
-- **Office에 iPhone 사진을 직접 삽입** : 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
+- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
 
 - **Office 테마를 자동으로 전환:** Office는 Windows 10 테마 설정에 맞게 테마를 자동으로 전환할 수 있습니다. 파일 > 옵션으로 이동한 다음 Office 테마 옆에 있는 "시스템 설정 사용"을 선택합니다. [자세한 정보](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -585,13 +666,13 @@ This article contains release notes for Current Channel (Preview) builds of Word
 
 - **메시지 소유자별 대화 삭제:** 소유자별로 메시지를 삭제할 수 있도록 하는 기능입니다.
 
-- **Office에 iPhone 사진을 직접 삽입** : 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
+- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
 
 - **Office 테마를 자동으로 전환:** Office는 Windows 10 테마 설정에 맞게 테마를 자동으로 전환할 수 있습니다. 파일 > 옵션으로 이동한 다음 Office 테마 옆에 있는 "시스템 설정 사용"을 선택합니다. [자세한 정보](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Office에 iPhone 사진을 직접 삽입** : 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
+- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
 
 - **Office 테마를 자동으로 전환:** Office는 Windows 10 테마 설정에 맞게 테마를 자동으로 전환할 수 있습니다. 파일 > 옵션으로 이동한 다음 Office 테마 옆에 있는 "시스템 설정 사용"을 선택합니다. [자세한 정보](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -609,7 +690,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 
 ### <a name="word"></a>Word
 
-- **Office에 iPhone 사진을 직접 삽입** : 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
+- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
 
 - **Office 테마를 자동으로 전환:** Office는 Windows 10 테마 설정에 맞게 테마를 자동으로 전환할 수 있습니다. 파일 > 옵션으로 이동한 다음 Office 테마 옆에 있는 "시스템 설정 사용"을 선택합니다. [자세한 정보](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -857,7 +938,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
 ### <a name="resolved-issues"></a>해결된 문제
-### <a name="outlook"></a>Outlook입니다.
+### <a name="outlook"></a>Outlook
 
 - 프로필에 추가된 보조 계정에서 모임 요청을 만들려고 시도한 사용자에게 전자 메일 주소 대신 빈 보낸 사람: 필드가 표시되지 않는 문제를 수정합니다.
 
@@ -1338,7 +1419,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 
 ### <a name="outlook"></a>Outlook
 
-- **간단한 설문 조사로 Outlook에 설문 조사 만들기** : 설문 조사를 쉽게 작성하고 투표를 수집하며 전자 메일에서 결과를 볼 수 있습니다 [자세한 내용 보기](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
+- **간단한 설문 조사로 Outlook에 설문 조사 만들기**: 설문 조사를 쉽게 작성하고 투표를 수집하며 전자 메일에서 결과를 볼 수 있습니다 [자세한 내용 보기](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
 
 - **전자 메일로 사진을 보낼 때 선명도를 높게 유지:.** 새 Outlook 설정을 사용하여 사진을 전자 메일 콘텐츠에 첨부해서 보낼 때 압축을 제한할 수 있습니다.
 
@@ -1551,7 +1632,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 
 - 한 슬라이드의 편집기가 다음 슬라이드와 겹치는 문제를 해결했습니다.
 
-### <a name="project"></a>프로젝트
+### <a name="project"></a>Project
 
 - 프로젝트 요약 작업(프로젝트 시작/작업 필드)이 변경될 때 ProjectBeforeTaskChange 이벤트가 발생하지 않는 문제를 해결했습니다.
 
@@ -1880,7 +1961,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 ### <a name="feature-updates"></a>기능 업데이트
 ### <a name="excel"></a>Excel
 
-- **대화에서 애니메이션 GIF 사용:** 애니메이션 GIF가 이제 Office 편집기에서 지원됩니다. 이제 문서가 더욱 돋보
+- **대화에서 애니메이션 GIF 사용:** 애니메이션 GIF가 이제 Office 편집기에서 지원됩니다. 이제 문서가 더욱 돋보입니다.
 
 ### <a name="outlook"></a>Outlook
 
@@ -2351,13 +2432,13 @@ This article contains release notes for Current Channel (Preview) builds of Word
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 ### <a name="feature-updates"></a>기능 업데이트
 ### <a name="excel"></a>Excel
-- **민감도 레이블** : 조직에서 사용자 지정 권한에 대한 메시지를 표시하도록 구성한 민감도 레이블을 적용할 수 있습니다. [자세한 정보](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **민감도 레이블**: 조직에서 사용자 지정 권한에 대한 메시지를 표시하도록 구성한 민감도 레이블을 적용할 수 있습니다. [자세한 정보](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 
 ### <a name="powerpoint"></a>PowerPoint
-- **민감도 레이블** : 조직에서 사용자 지정 권한에 대한 메시지를 표시하도록 구성한 민감도 레이블을 적용할 수 있습니다. [자세한 정보](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **민감도 레이블**: 조직에서 사용자 지정 권한에 대한 메시지를 표시하도록 구성한 민감도 레이블을 적용할 수 있습니다. [자세한 정보](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 
 ### <a name="word"></a>Word
-- **민감도 레이블** : 조직에서 사용자 지정 권한에 대한 메시지를 표시하도록 구성한 민감도 레이블을 적용할 수 있습니다. [자세한 정보](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **민감도 레이블**: 조직에서 사용자 지정 권한에 대한 메시지를 표시하도록 구성한 민감도 레이블을 적용할 수 있습니다. [자세한 정보](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 </br>
 
 ### <a name="resolved-issues"></a>해결된 문제
