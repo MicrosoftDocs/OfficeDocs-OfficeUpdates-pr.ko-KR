@@ -9,20 +9,20 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 참가자에게 Windows Desktop용 월 단위 채널 참가자 빠른 릴리스에 대한 업데이트 내역을 제공합니다.
-ms.openlocfilehash: f5e93a54dfc4745e1b7c412d1dbd02037d6cef3b
-ms.sourcegitcommit: 413694d561d367e93ad51c9be41495ad09a24af3
+ms.openlocfilehash: e183ddcbfb653678aaf3246fc7caae179c8b6426
+ms.sourcegitcommit: 551c3050697b157bbfb4f1d6bf8800ee9542ead3
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/23/2020
-ms.locfileid: "49385494"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49588301"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Office Beta 채널에 대한 업데이트 기록
 
 안녕하세요. 참가자 여러분, 최신 업데이트 설치 여부 또는 최신 참가지 빌드 목록은 여기에서 확인하실 수 있습니다. 참가자 프로그램에 대한 자세한 내용을 보려면 [여기](https://insider.office.com/)를 클릭하세요.
 
 > [!IMPORTANT]
-> - We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
-> - Office 365 ProPlus는 2004 버전부터 엔터프라이즈용 Microsoft 365 앱으로 이름이 변경됩니다. 자세한 내용은 [이 문서](https://go.microsoft.com/fwlink/p/?linkid=2123420)를 참조하세요. 문서에서 Microsoft 365 앱이라고 지칭합니다.
+> - 당사는 Microsoft 365 앱에 대한 업데이트 채널을 일부 변경하고 있습니다. 여기에는 새 업데이트 채널 추가(월별 엔터프라이즈 채널) 및 기존 업데이트 채널의 이름 변경 등이 포함됩니다. 자세한 내용은 [이 문서를 검토하세요](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> - Office 365 ProPlus는 2004 버전부터 엔터프라이즈용 Microsoft 365 앱으로 이름이 변경됩니다. 자세한 내용은 [이 문서를 검토하세요](https://go.microsoft.com/fwlink/p/?linkid=2123420). 문서에서는 일반적으로 Microsoft 365 앱이라고 지칭합니다.
 
 > [!NOTE]
 >
@@ -31,12 +31,21 @@ ms.locfileid: "49385494"
 
 ## <a name="office-beta-channel-versions-and-builds"></a>Office Beta 채널 버전 및 빌드
 
-If you're enrolled in the Insider level you get frequent updates with new features and improvements. The following list shows a history of recent Beta Channel versions and builds, with **the most recently released build listed first**. New builds contain all the updates contained in previous builds.
+참가자 수준에 등록한 경우 새로운 기능 및 개선 사항이 포함된 업데이트를 자주 받습니다. 다음 목록에는 **가장 최근에 릴리스된 빌드** 가 먼저 나열되는 최신 베타 채널 버전 및 빌드의 기록이 나와 있습니다. 새 빌드에는 이전 빌드에 포함된 모든 업데이트가 포함됩니다.
 
 릴리스 정보를 찾으려면 [Windows용 Office의 내부 관리자 릴리스 정보](https://docs.microsoft.com/OfficeUpdates/beta-channel)를 참조하십시오.
 
 
 [//]: # (제거하지 마세요)
+
+**2020년 12월 7일**<br/>
+버전 2101(빌드 13604.20000)<br/>
+
+**2020년 12월 2일**<br/>
+버전 2012(빌드 13530.20000)<br/>
+
+**2020년 11월 30일**<br/>
+버전 2012(빌드 13524.20004)<br/>
 
 **2020년 11월 23일**<br/>
 버전 2012(빌드 13519.20000)<br/>
