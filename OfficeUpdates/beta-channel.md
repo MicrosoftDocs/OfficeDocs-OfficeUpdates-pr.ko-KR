@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 5fd63ab3b6b4f0cbba13a4873baec870d1249932
-ms.sourcegitcommit: abe501ea3224670ce1b07859f4ef2f3eb8f7628c
+ms.openlocfilehash: 3fa31ed1c5dac96ba16d4af2a1ed59c1eab533bd
+ms.sourcegitcommit: 86478ce864c9594772fcd1e377e2ab04aef9bf56
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "49372272"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49575022"
 ---
 # <a name="release-notes-for-beta-channel"></a>베타 채널용 릴리스 정보
 
-This article contains release notes for Beta Channel builds of Word, Excel, PowerPoint, Outlook, Access, and Project for Windows desktop. Every week, we'll highlight interesting new features, important fixes, and any significant issues we want you to know about. Note that we often roll out features (and sometimes even fixes) to Beta Channel over a period of time. This allows us to ensure that things are working smoothly before releasing the feature to a wider audience. So, if you don't see something described below, don't worry you'll get it eventually.  
+이 문서에는 Windows 데스크톱용 Word, Excel, PowerPoint, Outlook, Access 및 Project의 베타 채널 빌드에 대한 릴리스 정보가 포함되어 있습니다. 매주 Microsoft는 흥미로운 새 기능, 중요한 수정 사항, 알리려는 중요한 문제를 강조합니다. Microsoft는 일정 기간 동안 자주 베타 채널에 기능을 배포하며 때로는 수정 사항도 배포합니다. 이로서 더욱 광범위한 사용자들에게 기능을 릴리스하기 전에 원활하게 작동하는지 확인할 수 있습니다. 따라서 아래에 설명된 기능이 보이지 않더라도 곧 제공되게 되므로 걱정할 필요가 없습니다.  
 
 > [!IMPORTANT]
-> We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> 당사는 Microsoft 365 앱에 대한 업데이트 채널을 일부 변경하고 있습니다. 여기에는 새 업데이트 채널 추가(월별 엔터프라이즈 채널) 및 기존 업데이트 채널의 이름 변경 등이 포함됩니다. 자세한 내용은 [이 문서를 검토하세요](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 
 > [!NOTE]
 > - 릴리스 정보는 매주 포스팅되며 여러 빌드의 편집일 수 있습니다.
@@ -29,7 +29,101 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 [//]: # (제거하지 마세요)
 
-[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요 시작)
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+## <a name="version-2012-december-04"></a>버전 2012: 12월 4일
+*버전 2012(빌드 13530.20000)*
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="outlook"></a>Outlook
+
+- **연달아 있는 모임 사이에 시간 넣기:** 모임이 기본적으로 5~10분 일찍 끝나도록 설정하여 참석자에게 잠시 숨을 돌리거나 장소를 이동할 시간을 줄 수 있습니다. [자세한 정보](https://support.office.com/article/be84396a-0903-4e25-b31c-1c99ce0dacf2)
+
+### <a name="visio"></a>Visio
+
+- **새 Azure 스텐실 및 셰이프:** 최신 Azure 다이어그램을 작성하는 데 도움이 되도록 스텐실을 더 추가했습니다. [자세한 정보](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- 덮어쓰기 모드에서 편집할 때 IME를 사용해야 하는 언어의 편집이 제대로 작동하지 않는 문제를 해결했습니다.
+
+
+- 자동 저장을 사용할 수 없는 경우 경고의 도움말 문서에 대한 하이퍼링크가 손상되는 문제를 해결했습니다.
+
+
+- 수식 뷰에서 데이터를 복사하고 붙여넣을 때 Excel이 예기치 않게 닫히는 문제를 해결했습니다.
+
+
+### <a name="outlook"></a>Outlook
+
+- 초안에 저장할 때 SmartLinks의 서식이 손실되는 문제를 해결했습니다.
+
+
+### <a name="project"></a>Project
+
+- 리소스가 많은 프로젝트를 여는 데 시간이 오래 걸리는 문제를 해결했습니다.
+
+
+- 로드의 특정 부분에 프로젝트 파일에 문제가 있는 경우 특정 프로젝트를 열 수 있는 문제를 해결했습니다.
+
+
+### <a name="word"></a>Word
+
+- 보통 텍스트로 붙여넣기(일반 텍스트로 붙여넣기)는 리치 텍스트로 붙여넣기보다 선호되는 경우가 많습니다. 이 상황에 맞는 메뉴 수정사항을 사용하여 일반 텍스트로 붙여넣을 수 있습니다. 그렇지 않으면 사용자는 메모장과 같은 일반 텍스트 편집기에 복사한 다음 메모장에서 원하는 대상 앱으로 복사해야 합니다.
+
+
+
+[//]: # (BUGDETILES 컨텐츠 끝)을(를) 제거하지 않습니다.
+
+## <a name="version-2012-november-27"></a>버전 2012: 11월 27일
+*버전 2012(빌드 13519.20000)*
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- 이렇게 하면 Power Pivot가 탭으로 구분된 텍스트 파일을 올바르게 가져올 수 없는 문제가 해결됩니다.
+
+
+### <a name="outlook"></a>Outlook
+
+- Outlook 이외의 응용 프로그램에서 Outlook 메일을 보낼 때 사용자에게 몇 가지 문제가 발생하는 문제를 해결했습니다.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 이 변경 사항은 잉크 분석 중에 발생한 시간 초과와 관련된 문제를 해결합니다.
+
+
+- 이 변경사항은 애니메이션 GIF 사용자 인터페이스의 문법 오류를 해결합니다.
+
+
+- 문서 복구 작업 후에도 손상된 PowerPoint 파일이 올바르게 열리지 않는 문제를 해결했습니다.
+
+
+### <a name="project"></a>Project
+
+- 작업에 연결된 할당되지 않은 과제가 여러 개 표시되는 문제를 해결했습니다.
+
+
+- 대규모 프로젝트에서 작업 이름을 입력하는 속도가 매우 느릴 수 있는 문제를 해결했습니다.
+
+
+
+[//]: # (BUGDETILES 컨텐츠 끝)을(를) 제거하지 않습니다.
 
 ## <a name="version-2012-november-20"></a>버전 2012: 11월 20일
 *버전 2012(빌드 13512.20000)*
@@ -65,7 +159,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 
 
-[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
+[//]: # (BUGDETILES 컨텐츠 끝)을(를) 제거하지 않습니다.
 
 ## <a name="version-2012-november-13"></a>버전 2012: 11월 13일
 *버전 2012(빌드 13510.20004)*
@@ -251,7 +345,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
 ### <a name="resolved-issues"></a>해결된 문제
-### <a name="access"></a>액세스
+### <a name="access"></a>Access
 
 - 동기화된 OneDrive 폴더에서 쿼리를 내보내려고 할 때 일부 사용자에게 “시스템 리소스가 초과했습니다.”라는 오류가 표시되는 문제를 해결했습니다.
 
@@ -400,7 +494,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
-## <a name="version-2010-october-02"></a>버전 2010: 10월 2일
+## <a name="version-2010-october-02"></a>버전 2010: 10월 02일
 *버전 2010(버전 13328.20000)*
 
 
@@ -726,7 +820,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 - 문서를 HTML 형식으로 저장할 때 긴 링크가 줄바꿈되지 않는 문제를 해결했습니다.
 - AutoExec 전에 AutoOpen이 실행되는 매크로 문제를 해결했습니다.
 
-[//]: # (버그 세부 정보 콘텐츠 끝을 제거하지 마세요.)
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2009-august-28"></a>버전 2009: 8월 28일
 *버전 2009(빌드 13219.20004)*
@@ -996,7 +1090,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 - **간단한 설문 조사로 Outlook에 설문 조사 만들기**: 설문 조사를 쉽게 작성하고 투표를 수집하며 전자 메일에서 결과를 볼 수 있습니다 [자세한 내용 보기](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
 
-- **새 회의실 찾기:** 다양한 기능으로 회의실을 검색합니다.
+- **새 모임이실 찾기:** 다양한 기능으로 모임실을 검색합니다.
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
@@ -1535,7 +1629,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
 ### <a name="resolved-issues"></a>해결된 문제
-### <a name="access"></a>접근
+### <a name="access"></a>Access
 
 - 작업창에서 표 크기 조정 및 새로 고침과 관련된 문제가 해결되었습니다.
 
@@ -1954,7 +2048,9 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 
-[//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요 시작)
+[//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13530.20000|version-2012-december-04|)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13519.20000|version-2012-november-27|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13512.20000|version-2012-november-20|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13510.20004|version-2012-november-13|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13430.20000|version-2012-november-06|)
@@ -1963,6 +2059,4 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (|Win32|DevMain|Insiders| |16.0.13408.20000|version-2011-october-16|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13406.20000|version-2011-october-09|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13328.20000|version-2010-october-02|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13318.20000|version-2010-september-25|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13312.20006|version-2010-september-18|)
-[//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요 끝)
+[//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 끝)
