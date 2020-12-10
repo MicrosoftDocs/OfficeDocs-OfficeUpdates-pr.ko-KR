@@ -9,25 +9,126 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 앱에 대한 반기 채널(대상 지정) 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: e448b5e1d0ea334401c9bd9c91291376f6579367
-ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
+ms.openlocfilehash: ea0bcf4a30146c52bb45fef6361d490580b64739
+ms.sourcegitcommit: c7f7982f4d2d0d8db4fc4fbf961b79a03bc8b36e
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "48990057"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49601613"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview-releases-in-2020"></a>2020의 반기 엔터프라이즈 채널(미리 보기) 릴리스의 릴리스 정보
 
 이 릴리스 정보에서는 엔터프라이즈용 Microsoft 365 앱, 비즈니스용 Microsoft 365 앱 및 프로젝트 및 Visio용 데스크톱 앱의 구독 버전에 대한 2020년 반기별 엔터프라이즈 채널(미리 보기) 업데이트에 포함된 새로운 기능 및 비보안 업데이트에 대한 정보를 제공합니다.
 
 > [!IMPORTANT]
-> 새 업데이트 채널(월 단위 엔터프라이즈 채널) 추가 및 기존 업데이트 채널 이름 변경을 포함한 Microsoft 365 앱의 업데이트 채널 일부를 변경 중에 있습니다. 자세한 내용은 [이 문서를 참조하세요](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> 당사는 Microsoft 365 앱에 대한 업데이트 채널을 일부 변경하고 있습니다. 여기에는 새 업데이트 채널 추가(월별 엔터프라이즈 채널) 및 기존 업데이트 채널의 이름 변경 등이 포함됩니다. 자세한 내용은 [이 문서를 참조](https://go.microsoft.com/fwlink/p/?linkid=2127441)하세요.
 
+
+## <a name="version-2008-december-08"></a>버전 2008: 12월 8일
+*버전 2008(빌드 13127.20910)*
+
+[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="access"></a>Access
+
+- ODBC DSN 빌더를 사용할 때 발생하는 오류 문제를 해결했습니다.
+
+
+### <a name="excel"></a>Excel
+
+- 피벗 테이블을 Project 계획에서 내보낸 경우 피벗 테이블을 편집할 수 없고 통합 문서를 저장할 수 없는 문제를 해결했습니다.
+
+
+- 읽기 전용 모드에서 파일을 열 때 여러 개의 메시지 표시줄이 나타나는 문제를 해결했습니다.
+
+
+- 중복된 열 머리글 값이 많을 때 개요 하위 합계가 작동을 중지할 수 있는 문제를 해결했습니다.
+
+
+- 다중 스레드 재계산 중 그룹 정책 개체 업데이트(예: 원격 그룹 정책 새로 고침)가 있을 때 Excel이 작동을 중지하는 문제를 해결했습니다.
+
+
+- 사용자가 255개 이상의 열에서 소계 함수를 사용할 때 Excel이 작동을 중지하는 문제를 해결했습니다.
+
+
+- 콘텐츠를 Excel에서 복사하여 Embed 옵션으로 PowerPoint에 붙여넣을 때 PowerPoint에서 커닝이 개선되었습니다.
+
+
+- PowerPivot의 테이블 프리뷰 및 쿼리 편집기에서 전환되지 않는 문제를 해결했습니다.
+
+
+- 사용자가 SharePoint에서 직접 atomsvc(UTF8+BOM) 파일을 열 수 없는 문제를 해결했습니다.
+
+
+- 파워 피벗이 탭 구분 기호를 성공적으로 인식하는 문제를 해결했습니다.
+
+
+### <a name="outlook"></a>Outlook
+
+- 작업에 대해 상황 보고서를 보낼 때 받는 사람 필드가 비어 있는 문제를 해결했습니다.
+
+
+- MailItem.BeforeAttachmentAdd 이벤트가 중단되는 문제를 해결했습니다.
+
+
+- Outlook 이외의 응용 프로그램에서 Outlook 메일을 보낼 때 일부 사용자가 예기치 않게 응용 프로그램을 종료하는 문제가 발생했습니다.
+
+
+- 온라인 모드에서 폴더 간에 여러 메일 항목을 이동할 때 사용자의 성능이 저하되는 문제를 해결했습니다.
+
+
+- IDataObject 작업(예: 끌어서 놓기, 클립보드)에서 첨부 파일에 대한 filetime 포함을 사용하지 않도록 설정할 수 있는 regkey를 추가했습니다.  HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments REG_DWORD IncludeFileTimesInDataObject  0 = filetimes 제외됨  1 = (기본값) filetimes 포함됨
+
+
+- Azure Information Protection의 보호 레이블을 사용하여 메시지에 회신할 때 인라인 이미지를 사라지게 하는 문제를 해결했습니다.
+
+
+- Azure Protected Voicemail을 보낼 때 사용자 이름을 전화 번호로 표시하여 Outlook 데스크톱 사용자가 외부 사용자의 음성 메일을 열 수 없게 하는 문제를 해결했습니다.
+
+
+- OME 구성을 설정하면 서비스 측에서 DecryptAttachmentsForEncryptOnly 옵션이 설정되어 있는데도 Outlook에서 메시지를 암호화하도록 강제하는 관련 없는 첨부 파일이 메일 항목에 추가되는 문제가 해결되었습니다.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 사용자가 원본 경로를 로컬 OneDrive 폴더로 변경한 경우 연결된 Excel 차트가 Excel 시트로 잘못 변경되는 문제가 해결되었습니다.
+
+
+- ‘Welcome back! 기능으로 인해 발생하는 문제를 해결했습니다. Office에서 중단한 위치 픽업'이(가) PowerPoint 에서 작동하지 않았습니다.
+
+
+### <a name="visio"></a>Visio
+
+- 사용자 지정 Visio 스텐실 및 내장 템플릿 모두에 대해 Visio for Office 365의 커넥터를 사용하여 직선을 생성할 수 있는 문제를 해결했습니다.
+
+
+### <a name="word"></a>Word
+
+- 문서를 HTML 형식으로 저장할 때 긴 링크가 줄바꿈되지 않는 문제를 해결했습니다.
+
+
+- 확장 목록에 알 수 없는 확장명을 가진 상위 설명에 회신할 경우 같은 확장명을 받는 문제가 해결되었습니다.
+
+
+- 메시지가 전달 금지로 설정된 Outlook 에 발생하는 문제를 해결했습니다.
+
+
+### <a name="office-suite"></a>Office 제품군
+
+- ADAL이 비활성화되었을 때 사용자가 SPO 목록을 가져올 수 없는 문제를 해결합니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2008-november-10"></a>버전 2008: 11월 10일
 *버전 2008(빌드 13127.20760)*
 
-보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열됨
+[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -42,20 +143,20 @@ ms.locfileid: "48990057"
 - XLAM 추가 기능 참조 및 명명된 범위와 관련된 응용 프로그램이 예기치 않게 종료되는 문제를 해결했습니다.
 
 
-- 차트 데이터 시트가 활성 시트면 범위에 FormulaR1C1 속성 설정에 매크로를 사용할 때 셀 참조가 부정확한 문제를 해결했습니다.
+- 차트 데이터 시트가 활성 시트면 범위에 FormulaR1C1 속성 설정에 매크로를 사용할 때 셀 참조가 부정확한 문제가 해결되었습니다.
 
 
 - "하나 이상의 수식을 계산하는 동안 Excel 리소스를 모두 사용했습니다" 오류가 발생하는 문제를 해결했습니다.
 
 
-- Office 언어를 스페인어로 설정했을 때 데이터 유효성 검사 목록에 목록의 모든 항목이 표시되지 않는 문제를 해결했습니다.
+- Office 언어를 스페인어로 설정했을 때 데이터 유효성 검사 목록에 목록의 모든 항목이 표시되지 않는 문제가 해결되었습니다.
 
 
 - OLAP 피벗 테이블을 새로 고칠 때 중단될 수 있는 문제를 해결했습니다.
 
 ### <a name="outlook"></a>Outlook
 
-- 이제 다른 Office 응용 프로그램 사용을 비활성화할 필요없이 Outlook용 IRM(정보 권한 관리)를 사용을 비활성화할 수 있도록 문제를 수정했습니다.
+- 이제 다른 Office 애플리케이션 사용을 비활성화할 필요 없이 Outlook용 IRM(정보 권한 관리)를 사용을 비활성화할 수 있도록 문제를 수정했습니다.
 
 
 - 사용자가 대리인에게 편집자 권한을 부여할 수 없게 하는 문제를 해결했습니다.
@@ -75,8 +176,7 @@ ms.locfileid: "48990057"
 
 - 회신하거나 전달할 때 중국어 메시지의 머리글이 깨져 보이는 문제를 해결했습니다.
 
-- 선택적으로 연결된 환경이 로딩으로부터 웹 추가 기능을 차단하는 문제를 해결했습니다.  <br />
-  [블로그 게시물](https://developer.microsoft.com/ko-KR/office/blogs/outlook-add-ins-and-optional-connected-experiences/)에서 세부 정보 보기
+- 선택적으로 연결된 환경이 로딩으로부터 웹 추가 기능을 차단하는 문제를 해결했습니다.  <br />[블로그 게시물](https://developer.microsoft.com/en-us/office/blogs/outlook-add-ins-and-optional-connected-experiences/)에서 세부 정보 보기
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -194,7 +294,7 @@ ms.locfileid: "48990057"
 
 - **완벽한 색상 선택:** 16진 색상 코드를 사용하여 글꼴, 텍스트 강조 등 원하는 색상을 정확하게 선택하세요.<br />[블로그 게시물](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)에서 세부 정보를 참조하세요.
 
-- **Excel 내의 Power BI에 있는 데이터 집합에서 피벗 테이블 만들기:** 몇 번의 클릭으로 Power BI에 저장된 데이터 집합에 연결된 Excel에서 피벗 테이블을 만들 수 있습니다.  이렇게 하면 PivotTables와 Power BI를 모두 최대한 활용할 수 있습니다. 보안 Power BI 데이터셋에서 PivotTables를 사용하여 데이터를 계산, 요약 및 분석할 수 있습니다. [자세한 정보](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)<br />[블로그 게시물](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)에서 세부 정보를 참조하세요.
+- **Excel 내의 Power BI에 있는 데이터셋에서 PivotTables 생성:** 몇 번의 클릭으로 Power BI에 저장된 데이터셋에 연결된 PivotTables를 Excel에서 생성할 수 있습니다.  이렇게 하면 PivotTables와 Power BI를 모두 최대한 활용할 수 있습니다. 보안 Power BI 데이터셋에서 PivotTables를 사용하여 데이터를 계산, 요약 및 분석할 수 있습니다. [자세한 정보](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)<br />[블로그 게시물](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)에서 세부 정보를 참조하세요.
 
 - **자주 사용하는 Excel 함수가 더욱 빨라졌습니다.** SUMIFS, AVERAGEIFS, COUNTIFS, MAXIFS 및 MINIFS 함수가 그 어느 때보다 훨씬 빨라졌습니다. 더 빠르게 결과 값을 얻을 수 있습니다. 지금 바로 시도해 보세요.
 
@@ -214,7 +314,7 @@ ms.locfileid: "48990057"
 
 - **받은 편지함을 벗어나지 않고 모임 참가:** 온라인 모임에 참가하기 위해 일정으로 전환할 필요가 없습니다. 일정을 할 일 창에 고정하고 클릭 한 번만으로 모든 모임에 참여하세요.
 
-- **종속적인 Wi-Fi 네트워크에 대한 새로운 경험:** 로그인하기 위해 웹 페이지가 필요한 Wi-Fi 네트워크에 가입한 적이 있습니까? 이제 Outlook이 이를 감지하여 연결하는 데 도움을 줍니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/outlook-on-public-wi-fi-networks-just-got-easier)에서 세부 정보를 참조하세요.
+- **종속적인 Wi-Fi 네트워크에 대한 새로운 경험:** 로그인하기 위해 웹 페이지가 필요한 Wi-Fi 네트워크에 가입한 적이 있습니까? 이제 Outlook이 이를 감지하여 연결하는 데 도움을 줍니다.<br />[블로그 게시물](https://insider.office.com/en-us/blog/outlook-on-public-wi-fi-networks-just-got-easier)에서 세부 정보를 참조하세요.
 
 - **사람을 검색할 때 전자 메일 제안 받기:** 검색 상자에 사람의 이름을 입력하면 가장 관련성이 높은 전자 메일 메시지가 검색 제안에 포함됩니다. [자세한 정보](https://support.office.com/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
 
@@ -251,7 +351,7 @@ ms.locfileid: "48990057"
 
 ### <a name="office-suite"></a>Office 제품군
 
-- **민감도 레이블** : 조직에서 사용자 지정 권한에 대한 메시지를 표시하도록 구성한 민감도 레이블을 적용할 수 있습니다.
+- **민감도 레이블**: 조직에서 사용자 지정 권한에 대한 메시지를 표시하도록 구성한 민감도 레이블을 적용할 수 있습니다.
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -532,7 +632,7 @@ ms.locfileid: "48990057"
 
 - "읽기 전용 권장 사항"으로 열린 파일에 대해 편집으로 전환할 수 없는 문제 해결
 
-### <a name="onenote"></a>원노트
+### <a name="onenote"></a>OneNote
 
 - 중복 ID 호출을 제거하여 리소스 활용률 감소
 
@@ -540,11 +640,11 @@ ms.locfileid: "48990057"
 
 - 오류 감지 기능 및 동기화 경험 품질 향상
 
-### <a name="outlook"></a>전망
+### <a name="outlook"></a>Outlook
 
 - 일부 테넌트에 대해 Outlook을 시작할 때 중요한 성능 문제를 일으킨 문제 해결
 
-### <a name="skype"></a>스카이프
+### <a name="skype"></a>Skype
 
 - 32비트 Skype for Business 클라이언트에서 며칠 동안 실행된 후 화면 공유 시작에 실패할 수 있는 문제 해결
 
@@ -625,7 +725,7 @@ ms.locfileid: "48990057"
 - 레지스트리 TabProcGrowth 값이 REG_SZ 유형이면 추가 기능이 활성화될 때 Office 호스트가 Windows에서 충돌하는 문제를 해결했습니다.
 
 
-[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2002-june-09"></a>버전 2002: 6월 9일
 *버전 2002(빌드 12527.20720)*
@@ -782,8 +882,7 @@ ms.locfileid: "48990057"
 
 - **다중값을 반환하는 공식을 입력:** 다중값을 반환하는 공식을 신속히 입력하면 자동으로 인접한 셀들로 입력됩니다. [자세한 정보](https://support.microsoft.com/en-us/office/new-array-functions-003df6c7-1dcb-4388-8e2e-0fe77a0887bc?ui=en-us&rs=en-us&ad=us)
 - **유용한 함수 6개:** 스프레드시트를 더욱 유용하게 사용할 수 있는 함수 6개(FILTER, SORT, SORTBY, UNIQUE, SEQUENCE 및 RANDARRAY)가 추가되었습니다.  [자세한 정보](https://support.microsoft.com/en-us/office/easier-array-formulas-5c2c9cbb-def8-409a-b380-2fbf91b20aa3?ui=en-us&rs=en-us&ad=us)
-- **왼쪽을 보고, 오른쪽을 보십시오… XLOOKUP이 여기 있습니다!** 행별로 XLOOKUP을 사용하여 테이블 또는 범위에서 필요한 것을 모두 찾으십시오.  
-  [자세한 정보](https://support.office.com/en-us/article/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929?ui=en-US&rs=en-US&ad=US)
+- **왼쪽을 보고, 오른쪽을 보십시오… XLOOKUP이 여기 있습니다!** 행별로 XLOOKUP을 사용하여 테이블 또는 범위에서 필요한 것을 모두 찾으십시오.  [자세한 정보](https://support.office.com/en-us/article/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929?ui=en-US&rs=en-US&ad=US)
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
@@ -861,7 +960,7 @@ ms.locfileid: "48990057"
 
 - **그림 스케치:** 통합 문서에서 Office 도형에 손으로 그린 캐주얼한 모양을 넣을 수 있습니다. [자세한 정보](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
 
-- **더 빠른 파일 공유** : 파일을 열지 않고 최근에 사용한 목록에서 문서를 바로 공유할 수 있습니다.
+- **더 빠른 파일 공유**: 파일을 열지 않고 최근에 사용한 목록에서 문서를 바로 공유할 수 있습니다.
 
 - **더 이상 브라우저에 바운싱하지 않음:** 브라우저나 앱에서 Office 문서에 대한 링크를 여는 방법을 결정합니다.
 
@@ -921,7 +1020,7 @@ ms.locfileid: "48990057"
 
 - **그림 스케치:** 프레젠테이션에서 Office 도형에 손으로 그린 캐주얼한 모양을 넣을 수 있습니다. [자세한 정보](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
 
-- **더 빠른 파일 공유** : 파일을 열지 않고 최근에 사용한 목록에서 문서를 바로 공유할 수 있습니다.
+- **더 빠른 파일 공유**: 파일을 열지 않고 최근에 사용한 목록에서 문서를 바로 공유할 수 있습니다.
 
 - **더 이상 브라우저에 바운싱하지 않음:** 브라우저나 앱에서 Office 문서에 대한 링크를 여는 방법을 결정합니다.
 
@@ -965,7 +1064,7 @@ ms.locfileid: "48990057"
 
 - **공동으로 매크로 사용 문서 편집 공동:** 비즈니스용 OneDrive에서 .docm 파일을 저장하고 공동 작업자와 실시간으로 편집합니다.
 
-- **공동 작성 기능 개선** : 문서를 공동 작성 시 변경 내용 추적 기능을 사용하여 Word의 성능을 개선했습니다.
+- **공동 작성 기능 개선**: 문서를 공동 작성 시 변경 내용 추적 기능을 사용하여 Word의 성능을 개선했습니다.
 
 - **분위기에 맞는 더 다양한 아이콘:** 300개가 넘는 새로운 아이콘이 추가되었습니다. 삽입 > 아이콘에서 찾을 수 있습니다. [자세한 정보](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
 
@@ -975,7 +1074,7 @@ ms.locfileid: "48990057"
 
 - **정확하게 지우기:** 두 개의 지우개 크기 중에 선택하고 작은 잉킹 결함을 수정하세요. [자세한 정보](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
-- **더 빠른 파일 공유** : 파일을 열지 않고 최근에 사용한 목록에서 문서를 바로 공유할 수 있습니다.
+- **더 빠른 파일 공유**: 파일을 열지 않고 최근에 사용한 목록에서 문서를 바로 공유할 수 있습니다.
 
 - **더 이상 브라우저로 바운스하지 않음:** 사용자가 브라우저나 앱에서 Office 문서로의 링크를 여는 방법을 결정합니다. [자세한 정보](https://support.office.com/article/fe241745-9e05-4142-9ba8-1bb1dc044773)
 
@@ -1153,7 +1252,7 @@ ms.locfileid: "48990057"
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-1908-february-11"></a>버전 1908: 2월 11일
-*버전 1908(빌드 11929.20606)*
+*버전 1908 (빌드 11929.20606)*
 
 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
 
@@ -1263,7 +1362,8 @@ ms.locfileid: "48990057"
 > Office를 사용하는 데 발생한 문제에 대해 도움이 필요하면 [Microsoft의 Answers 포럼](https://answers.microsoft.com/) 또는 [기술 커뮤니티](https://techcommunity.microsoft.com/)에 질문을 게시하거나 [지원 서비스](https://support.microsoft.com/contactus)에 문의할 수 있습니다.
 
 
-[//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요 시작)
+[//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|FRDC|Insiders| |16.0.13127.20910|version-2008-december-08|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20760|version-2008-november-10|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20638|version-2008-october-13|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20408|version-2008-september-08|)

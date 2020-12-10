@@ -9,31 +9,31 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 앱에 대한 반기 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: c719a54075f57b031cf99ef7459fe38c0cab63dc
-ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
+ms.openlocfilehash: 60e12b7b58c06415c80db20cd35f41c622c0bbd0
+ms.sourcegitcommit: c7f7982f4d2d0d8db4fc4fbf961b79a03bc8b36e
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "48990077"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49601473"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-releases-in-2020"></a>2020의 반기 엔터프라이즈 채널 릴리스에 대한 릴리스 정보
 
 이 릴리스 정보에서는 엔터프라이즈용 Microsoft 365 앱, 비즈니스용 Microsoft 365 앱 및 프로젝트 및 Visio용 데스크톱 앱의 구독 버전에 대한 2020년 반기별 엔터프라이즈 채널 업데이트에 포함된 새로운 기능 및 비보안 업데이트에 대한 정보를 제공합니다.
 
 > [!IMPORTANT]
-> We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> 당사는 Microsoft 365 앱에 대한 업데이트 채널을 일부 변경하고 있습니다. 여기에는 새 업데이트 채널 추가(월별 엔터프라이즈 채널) 및 기존 업데이트 채널의 이름 변경 등이 포함됩니다. 자세한 내용은 [이 문서를 참조](https://go.microsoft.com/fwlink/p/?linkid=2127441)하세요.
 
 > [!NOTE]
 >
 >- 반기 기업 채널의 사용자가 Office Portal에서 Microsoft 365 앱을 다운로드하여 Windows 10에 설치하는 경우 이제 OneNote 2016이 기본적으로 포함됩니다.
 
 
-[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
-## <a name="version-2002-november-10"></a>버전 2002: 11월 10일
-*버전 2002(빌드 12527.21330)*
+## <a name="version-2002-december-08"></a>버전 2002: 12월 8일
+*버전 2002(빌드 12527.21416)*
 
-보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열됨
+[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -41,7 +41,56 @@ ms.locfileid: "48990077"
 ### <a name="resolved-issues"></a>해결된 문제
 ### <a name="excel"></a>Excel
 
-- Office 언어를 스페인어로 설정했을 때 데이터 유효성 검사 목록에 목록의 모든 항목이 표시되지 않는 문제를 해결했습니다.
+- 콘텐츠를 Excel에서 복사하여 Embed 옵션으로 PowerPoint에 붙여넣을 때 PowerPoint에서 커닝이 개선되었습니다.
+
+
+- 다시 계산하는 동안 Excel 작동이 중지되는 문제를 해결했습니다.
+
+
+- 사용자가 SharePoint에서 직접 atomsvc(UTF8+BOM) 파일을 열 수 없는 문제를 해결했습니다.
+
+
+- PowerPivot의 테이블 프리뷰 및 쿼리 편집기에서 전환되지 않는 문제를 해결했습니다.
+
+
+- 최근에 릴리스된 여러 기능을 사용하는 파일의 성능이 개선되었습니다.
+
+
+### <a name="outlook"></a>Outlook
+
+- OME 구성을 설정하면 서비스 측에서 DecryptAttachmentsForEncryptOnly 옵션이 설정되어 있는데도 Outlook에서 메시지를 암호화하도록 강제하는 관련 없는 첨부 파일이 메일 항목에 추가되는 문제가 해결되었습니다.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 사용자가 원본 경로를 로컬 OneDrive 폴더로 변경한 경우 연결된 Excel 차트가 Excel 시트로 잘못 변경되는 문제가 해결되었습니다.
+
+
+### <a name="project"></a>Project
+
+- Project Web App에서 URL이 .com으로 끝나는 경우 Project 데스크톱 클라이언트에서 프로젝트를 열 수 없는 문제를 해결했습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-1908-december-08"></a>버전 1908: 12월 8일
+*버전 1908 (빌드11929.20984)*
+
+보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열되어 있습니다.
+
+## <a name="version-2002-november-10"></a>버전 2002: 11월 10일
+*버전 2002(빌드 12527.21330)*
+
+[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- Office 언어를 스페인어로 설정했을 때 데이터 유효성 검사 목록에 목록의 모든 항목이 표시되지 않는 문제가 해결되었습니다.
 
 
 - OLAP 피벗 테이블을 새로 고칠 때 중단될 수 있는 문제를 해결했습니다.
@@ -81,7 +130,7 @@ ms.locfileid: "48990077"
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
 ### <a name="resolved-issues"></a>해결된 문제
-### <a name="access"></a>Access
+### <a name="access"></a>액세스
 
 - Access 데이터베이스 지침 및 요구 사항을 충족하는 한 64비트 버전의 Access에서 더 이상 “쿼리가 너무 복잡합니다.” 또는 시스템 리소스가 초과되는 오류가 발생하지 않습니다.
 
@@ -177,7 +226,7 @@ ms.locfileid: "48990077"
 
 - "읽기 전용 권장 사항"으로 열린 파일에 대해 편집으로 전환할 수 없는 문제 해결
 
-### <a name="onenote"></a>원노트
+### <a name="onenote"></a>OneNote
 
 - 중복 ID 호출을 제거하여 리소스 활용률 감소
 
@@ -185,11 +234,11 @@ ms.locfileid: "48990077"
 
 - 오류 감지 기능 및 동기화 경험 품질 향상
 
-### <a name="outlook"></a>전망
+### <a name="outlook"></a>Outlook
 
 - 일부 테넌트에 대해 Outlook을 시작할 때 중요한 성능 문제를 일으킨 문제 해결
 
-### <a name="skype"></a>스카이프
+### <a name="skype"></a>Skype
 
 - 32비트 Skype for Business 클라이언트에서 며칠 동안 실행된 후 화면 공유 시작에 실패할 수 있는 문제 해결
 
@@ -230,7 +279,7 @@ ms.locfileid: "48990077"
 
 ### <a name="excel"></a>Excel
 
-- **더 빠른 파일 공유** : 파일을 열지 않고 최근에 사용한 목록에서 문서를 바로 공유할 수 있습니다.
+- **더 빠른 파일 공유**: 파일을 열지 않고 최근에 사용한 목록에서 문서를 바로 공유할 수 있습니다.
 
 - **데이터 시각화 도우미 추가 기능:** Excel에서 빠르게 Visio 플로차트를 만들 수 있습니다. [자세한 정보](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
@@ -312,7 +361,7 @@ ms.locfileid: "48990077"
 
 - **더 많은 접근 가능한 PDF 만들기:** PDF를 만들면 액세스 가능성 검사기가 저장하기 전에 수정해야 할 접근성 문제를 해결합니다.<br />[블로그 게시물](https://blog-insider.office.com/2019/08/13/accessible-pdfs-made-easier/)에서 세부 정보를 참조하세요.
 
-- **더 빠른 파일 공유** : 파일을 열지 않고 최근에 사용한 목록에서 문서를 바로 공유할 수 있습니다.
+- **더 빠른 파일 공유**: 파일을 열지 않고 최근에 사용한 목록에서 문서를 바로 공유할 수 있습니다.
 
 - **PowerPoint에서 빠르게 실시간 공동 작업 수행:** PowerPoint에서 빠르게 실시간 공동 작업 수행
 
@@ -338,7 +387,7 @@ ms.locfileid: "48990077"
 
 - **더 많은 접근 가능한 PDF 만들기:** PDF를 만들면 액세스 가능성 검사기가 저장하기 전에 수정해야 할 접근성 문제를 해결합니다. [자세한 정보](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)<br />[블로그 게시물](https://blog-insider.office.com/2019/08/13/accessible-pdfs-made-easier/)에서 세부 정보를 참조하세요.
 
-- **더 빠른 파일 공유** : 파일을 열지 않고 최근에 사용한 목록에서 문서를 바로 공유할 수 있습니다.
+- **더 빠른 파일 공유**: 파일을 열지 않고 최근에 사용한 목록에서 문서를 바로 공유할 수 있습니다.
 
 - **분위기에 맞는 더 다양한 아이콘:** 300개가 넘는 새로운 아이콘이 추가되었습니다. 삽입 > 아이콘에서 찾을 수 있습니다. [자세한 정보](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)<br />[블로그 게시물](https://blog-insider.office.com/2019/04/24/your-feedback-in-action-new-insertable-icons/)에서 세부 정보를 참조하세요.
 
@@ -358,7 +407,7 @@ ms.locfileid: "48990077"
 
 - **3D 개체의 병합으로 발생하는 문서 손상 문제 해결:** 3D 개체의 병합으로 발생하는 문서 손상 문제를 해결했습니다.
 
-- **공동 작성 기능 개선** : 문서 공동 작성 시 변경 내용 추적 기능을 사용하여 Word의 성능을 개선했습니다.
+- **공동 작성 기능 개선**: 문서 공동 작성 시 변경 내용 추적 기능을 사용하여 Word의 성능을 개선했습니다.
 
 - **공동 작성 향상** : 공동 작성 시 신뢰도가 향상될 수 있습니다.
 
@@ -721,7 +770,7 @@ ms.locfileid: "48990077"
 
 - 레지스트리 TabProcGrowth 값이 REG_SZ 유형이면 추가 기능이 활성화될 때 Office 호스트가 Windows에서 충돌하는 문제를 해결했습니다.
 
-- 이 업데이트는 PATH 환경 변수에서 지정된 위치를 검색하여 찾을 수 있는 사항을 참고로 하는 Visual Basic for Applications 프로젝트가 런타임에 제대로 발견되지 않아 VBA 런타임 오류로 이어질 수 있는 Microsoft Office에서의 문제를 해결합니다.
+- 이 업데이트는 PATH 환경 변수에서 지정된 위치를 검색하여 찾을 수 있는 사항을 참고로 하는 Visual Basic for Applications 프로젝트가 런타임에 제대로 발견되지 않아 VBA 런타임 오류로 이어질 수 있는 Microsoft Office에서의 문제를 해결합니다. 
 
 - 설치된 언어에 따라 Access 및 Publisher가 제대로 부팅되지 않을 수 있는 문제를 해결하였습니다.
 
@@ -918,7 +967,7 @@ ms.locfileid: "48990077"
 
 - 사용자가 공유 일정 폴더를 OST와 동기화하는 데 문제가있어 이러한 폴더와 상호 작용할 때 권한 오류가 발생하는 문제를 해결합니다.
 
-- Citrix 환경에서 30개 이상의 일정을 볼 때 사용자에게 충돌이 발생하는 문제를 해결합니다. 여기에는 [이전 버전에 대해 문서화된 개별 KB](https://support.microsoft.com/ko-KR/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen)가 있습니다.
+- Citrix 환경에서 30개 이상의 일정을 볼 때 사용자에게 충돌이 발생하는 문제를 해결합니다. 여기에는 [이전 버전에 대해 문서화된 개별 KB](https://support.microsoft.com/en-us/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen)가 있습니다.
 
 - SMIME 알고리즘 선택 관련 문제를 수정합니다.
 
@@ -1136,7 +1185,7 @@ ms.locfileid: "48990077"
 ### <a name="resolved-issues"></a>해결된 문제
 ### <a name="excel"></a>Excel
 
-- 색을 기준으로 필터링된 데이터를 다른 너비의 열에 복사하면 값을 붙여넣을 수 없습니다.
+- 색을 기준으로 필터링된 데이터를 다른 너비의 열에 복사하면 값의 붙여넣기가 되지 않습니다.
 
 ### <a name="outlook"></a>Outlook
 
@@ -1176,7 +1225,7 @@ ms.locfileid: "48990077"
 ### <a name="resolved-issues"></a>해결된 문제
 ### <a name="outlook"></a>Outlook
 
-- 특정 검색 결과를 선택할 때 사용자에게 충돌이 발생하는 문제를 해결했습니다.
+- 특정 검색 결과를 선택할 때 작동이 멈추는 문제를 해결했습니다.
 
 - 첨부 파일 도구에서 "클라우드에 저장" 단추가 누락되는 문제를 해결했습니다.
 
@@ -1192,12 +1241,12 @@ ms.locfileid: "48990077"
 ### <a name="resolved-issues"></a>해결된 문제
 ### <a name="office-suite"></a>Office 제품군
 
-- 라이브러리 이름 또는 라이브러리 경로에 DBCS 문자가 있는 코드 라이브러리에 대한 참조를 포함하는 특정 VBA 프로젝트를 로드할 때 Office 응용 프로그램에서 손상된 것으로 보이는 Microsoft Office의 VBA(Visual Basic for Applications) 문제를 해결했습니다.
+- 라이브러리 이름 또는 라이브러리 경로에 DBCS 문자가 있는 코드 라이브러리에 대한 참조를 포함하는 특정 VBA 프로젝트를 로드할 때 Office 응용 프로그램에서 손상된 것으로 보이는 Microsoft Office의 VBA(Visual Basic for Applications) 문제가 해결되었습니다.
 
 ## <a name="version-1908-april-26"></a>버전 1908: 4월 26일
 *버전 1908(빌드 11929.20736)*
 
-보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열됨
+[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 보안 업데이트가 나열됩니다.
 
 ### <a name="resolved-issues"></a>해결된 문제
 ### <a name="excel"></a>Excel
@@ -1298,7 +1347,7 @@ ms.locfileid: "48990077"
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-1908-february-11"></a>버전 1908: 2월 11일
-*버전 1908(빌드 11929.20606)*
+*버전 1908 (빌드 11929.20606)*
 
 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
 
@@ -1725,7 +1774,7 @@ ms.locfileid: "48990077"
 
 - 일부 인스턴스에서 동기화 엔진 백업 Sharepoint 파일에 '저장됨'이 표시되지만, 실제로 변경 내용이 저장되지 않아 데이터가 손실될 수 있었습니다.
 
-- 사용자가 Word, Excel 및 PowerPoint 문서를 저장할 수 없는 문제를 해결했습니다. 이 문제는 새 파일을 만든 후 저장 아이콘을 클릭하거나 Ctrl + S를 눌러 "다른 이름으로 저장 대화 상자" 옵션을 표시하는 사용자에게 영향을 줍니다.
+- 사용자가 Word, Excel 및 PowerPoint 문서를 저장할 수 없는 문제가 해결되었습니다. 이 문제는 새 파일을 만든 후 저장 아이콘을 클릭하거나 Ctrl + S를 눌러 "다른 이름으로 저장 대화 상자" 옵션을 표시하는 사용자에게 영향을 줍니다.
 
 - Win7에서는 모든 앱의 리본 메뉴에서 도형 갤러리 삽입을 표시하는 데 약 4초가 걸리는 성능 문제를 수정했습니다.
 
@@ -1795,7 +1844,8 @@ ms.locfileid: "48990077"
 > Office를 사용하는 데 발생한 문제에 대해 도움이 필요하면 [Microsoft의 Answers 포럼](https://answers.microsoft.com/) 또는 [기술 커뮤니티](https://techcommunity.microsoft.com/)에 질문을 게시하거나 [지원 서비스](https://support.microsoft.com/contactus)에 문의할 수 있습니다.
 
 
-[//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요 시작)
+[//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|DC|Production| |16.0.12527.21416|version-2002-december-08|)
 [//]: # (|Win32|DC|Production| |16.0.12527.21330|version-2002-november-10|)
 [//]: # (|Win32|DC|Production| |16.0.12527.21236|version-2002-october-13|)
 [//]: # (|Win32|DC|Production| |16.0.12527.21104|version-2002-september-08|)
