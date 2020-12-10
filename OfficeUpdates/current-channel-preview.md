@@ -9,24 +9,221 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 이후 참가자 대상 그룹에게 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 23b62c7eb5c91e4fecb0c14567b2554f4f89b371
-ms.sourcegitcommit: 3a7eddcac9238b1394f1c1623ddb3273254b9ceb
+ms.openlocfilehash: 39d685dc793bf9afae8126923272c428470125bd
+ms.sourcegitcommit: 40dff4c716db4382af4841031ba0050869e78e42
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "49408344"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "49613540"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 현재 채널(미리 보기)에 대한 릴리스 정보
 
-This article contains release notes for Current Channel (Preview) builds of Word, Excel, PowerPoint, Outlook, Access, and Project for Windows desktop. Every week, we’ll highlight interesting new features, important fixes, and any significant issues we want you to know about. Note that we often roll out features (and sometimes even fixes) to Current Channel (Preview) over a period of time. This allows us to ensure that things are working smoothly before releasing the feature to a wider audience. So, if you don’t see something described below, don't worry you'll get it eventually.  
+이 문서에는 Windows 데스크톱용 Word, Excel, PowerPoint, Outlook, Access, Project 및 Teams의 현재 채널(미리 보기) 빌드에 대한 릴리스 정보가 포함되어 있습니다. 매주 Microsoft는 흥미로운 새 기능, 중요한 수정 사항, 여러분에게 알아야 할 중요한 문제를 강조합니다. 일정 기간 동안 기능(때로는 수정)을 현재 채널(미리 보기)에 롤아웃하는 경우가 있습니다. 이로서 더욱 광범위한 사용자들에게 기능을 릴리스하기 전에 원활하게 작동하는지 확인할 수 있습니다. 따라서 아래에 설명된 기능이 보이지 않더라도 곧 제공되게 되므로 걱정할 필요가 없습니다.  
 
 > [!IMPORTANT]
-> We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> 당사는 Microsoft 365 앱에 대한 업데이트 채널을 일부 변경하고 있습니다. 여기에는 새 업데이트 채널 추가(월별 엔터프라이즈 채널) 및 기존 업데이트 채널의 이름 변경 등이 포함됩니다. 자세한 내용은 [이 문서를 참조](https://go.microsoft.com/fwlink/p/?linkid=2127441)하세요.
 
 > [!NOTE]
 > - 릴리스 정보 게시 날짜는 실제 빌드 릴리스 날짜와 일치하지 않을 수 있습니다.
+> - Microsoft Teams 기능은 릴리스 주기가 보다 빈번하기 때문에 최근에 릴리스된 현재 채널 미리 보기와 다를 수 있습니다.
 
 [//]: # (제거하지 마세요)
+
+## <a name="version-2012-december-07"></a>버전 2012: 12월 7일
+*버전 2012(빌드 13530.20064)*
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+
+### <a name="teams"></a>Teams
+
+- **이제 Windows 기본 알림이 Teams에서 지원됨:** 이제 사용자는 배너에 구축된 Teams나 Windows 기본 배너를 통해 원하는 알림 전달 방법을 선택할 수 있습니다.
+
+
+- **Citrix 및 VMWare VDI의 Teams 모임 2x2 갤러리 보기:** VDI 2x2 갤러리 보기 기능을 사용하면 Teams 클라이언트가 VDI 최적화 모드인 경우 Citrix, VMWare에서 VDI 클라이언트의 2x2 갤러리 보기로 최대 4개의 참석자 비디오를 볼 수 있습니다.
+
+
+- **모임 반응:**  모임 반응은 모임에서 상호 작용하는 새로운 방법입니다. 참가자는 공유 중인 콘텐츠에 스트림으로 표시되는 반응을 보낼 수 있으며, 모임 단계에 표시되는 경우 반응을 보낸 개인에게 보낼 수 있습니다. 
+
+
+- **웹 모임용 Together 모드 및 대형 갤러리** 대형 갤러리를 사용하면 한 번에 최대 49명의 다른 사람들의 비디오를 볼 수 있습니다. 이 옵션은 10명 이상의 사용자가 카메라를 켰을 때 사용할 수 있습니다. Together 모드를 사용하면 모임의 모든 사용자와 동일한 공유 공간에 있는 것 같은 느낌을 들게 됩니다. 모임에 5명 이상이 있는 경우 Together 모드를 사용할 수 있습니다. 
+
+
+- **통화 병합** 통화 병합을 사용하면 사용자가 걸고 있는 새 통화나 새 수신 전화를 1-1 또는 그룹 통화에 병합할 수 있습니다. 이는 Teams VOIP 통화 및 PSTN 통화에 적용됩니다. 
+
+
+### <a name="visio"></a>Visio
+
+- **새 Azure 스텐실 및 셰이프:** 최신 Azure 다이어그램을 작성하는 데 도움이 되도록 스텐실을 더 추가했습니다. [자세한 정보](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- 일부 리본 요소가 중국어 간체로 지역화되지 않은 문제를 해결했습니다.
+
+
+- Excel 업데이트 시 예기치 않게 종료되는 문제를 해결했습니다.
+
+
+- OneDrive 로컬 동기화 폴더에서 파일을 삽입하는 경우 개체 삽입 명령에 올바른 아이콘이 표시되지 않는 문제를 해결했습니다.
+
+
+- 덮어쓰기 모드에서 편집할 때 IME를 사용해야 하는 언어의 편집이 제대로 작동하지 않는 문제를 해결했습니다.
+
+
+- 공동 작성 시 파일의 새 버전을 알리는 메시지 표시줄이 일부 사용자에게 잘못 표시되는 문제를 해결했습니다.
+
+
+- 수식 뷰에서 데이터를 복사하고 붙여넣을 때 Excel이 예기치 않게 닫히는 문제를 해결했습니다.
+
+
+- 자동 저장을 사용할 수 없는 경우 경고의 도움말 문서에 대한 하이퍼링크가 손상되는 문제를 해결했습니다.
+
+
+- 엑셀이 특정 언어로 실행되는 동안 데이터를 입력할 때 Excel이 중지될 수 있는 문제를 해결했습니다.
+
+
+- 이 변경 사항은 수식 내에서 글꼴을 올바르게 표시하는 문제를 해결합니다.
+
+
+- 이렇게 하면 Power Pivot가 탭으로 구분된 텍스트 파일을 올바르게 가져올 수 없는 문제가 해결됩니다.
+
+
+### <a name="outlook"></a>Outlook
+
+- 작업 상태 보고서에서 수신자 필드를 비어 있게 만드는 문제를 해결했습니다.
+
+
+- MailItem.BeforeAttachmentAdd 이벤트를 중단시키는 문제를 해결했습니다.
+
+
+- Outlook 이외의 응용 프로그램에서 Outlook 메일을 보낼 때 사용자에게 몇 가지 문제가 발생하는 문제를 해결했습니다.
+
+
+- 초안에 저장할 때 SmartLinks의 서식이 손실되는 문제를 해결했습니다.
+
+
+- Zip 파일에서 열린 메시지에 첨부 파일을 추가하면 실패하는 문제를 해결했습니다.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Word에서 Powerpoint로 수식을 복사/붙여넣기를 할 때 발생하는 문제를 해결했습니다.
+
+
+- 이 변경 사항은 잉크 분석 중에 발생한 시간 초과와 관련된 문제를 해결합니다.
+
+
+- 이 변경사항은 애니메이션 GIF 사용자 인터페이스의 문법 오류를 해결합니다.
+
+
+- 이 변경 사항은 특정 지오메트리를 사용하여 형상 병합 작업을 적용할 때 경로 채우기 문제를 해결합니다.
+
+
+- 이 변경 사항은 수식 내에서 글꼴을 올바르게 표시하는 문제를 해결합니다.
+
+
+- 이 변경 사항은 비디오 로드 중에 발생할 수 있는 처리 오류 문제를 해결합니다.
+
+
+- Slide.Shapes.AddMediaObject2가 레거시 비디오 형식(MPG-1, Mpeg-2)과 충돌하는 VBA 문제를 해결했습니다.
+
+
+- 공동 작업자 대한 추가 정보가 있을 때 알 수 없는 공동 작업자의 현재 상태 표시기가 완전히 새로워지지 않는 문제를 해결했습니다.
+
+
+- 눈금자가 켜진 상태에서 슬라이드 뷰의 크기를 조정할 때 Null 포인터가 참조 해제되는 문제를 해결했습니다.
+
+
+- 문서 복구 작업 후에도 손상된 PowerPoint 파일이 올바르게 열리지 않는 문제를 해결했습니다.
+
+
+### <a name="project"></a>Project
+
+- 사용자가 업데이트된 정보를 사용하여 저장된 것으로 고려되는 프로젝트를 여는 경우 업데이트가 누락되는 문제를 해결했습니다.
+
+
+- 결과물이 연결된 SharePoint 사이트가 더 이상 존재하지 않는 경우, 결과물에 대한 종속성을 삭제할 수 없는 문제를 해결했습니다.
+
+
+- 리소스가 많은 프로젝트를 여는 데 시간이 오래 걸리는 문제를 해결했습니다.
+
+
+- 작업에 연결된 할당되지 않은 과제가 여러 개 표시되는 문제를 해결했습니다.
+
+
+- 대규모 프로젝트에서 작업 이름을 입력하는 속도가 매우 느릴 수 있는 문제를 해결했습니다.
+
+
+- 로드의 특정 부분에 프로젝트 파일에 문제가 있는 경우 특정 프로젝트를 열 수 있는 문제를 해결했습니다.
+
+
+### <a name="word"></a>Word
+
+- 서식 있는 텍스트로 붙여넣기보다 일반 텍스트로 붙여넣기를 선호하는 경우가 많습니다. 이 상황에 맞는 메뉴 수정사항을 사용하여 일반 텍스트로 붙여넣을 수 있습니다. 그렇지 않으면 사용자는 메모장과 같은 일반 텍스트 편집기에 복사한 다음 메모장에서 원하는 대상 앱으로 복사해야 합니다.
+
+
+- Word에서 Powerpoint로 수식을 복사/붙여넣기를 할 때 발생하는 문제를 해결했습니다.
+
+
+- 이 변경 사항은 문서 편집 시 커서 문제를 해결합니다.
+
+
+- 확대/축소하는 동안 사진이 흐릿해지는 문제를 해결했습니다.
+
+
+- 긴 하이퍼링크가 잘리는 문제를 해결했습니다.
+
+
+### <a name="office-suite"></a>Office 제품군
+
+- Office 제품군 이전 버전에서 새 Office 버전을 설치하면 레지스트리 항목이 누락되어 전원 쿼리를 사용할 수 없는 등의 기능이 누락될 수 있는 문제가 해결되었습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2011-december-01"></a>버전 2011: 12월 1일
+*버전 2011(빌드 13426.20306)*
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="outlook"></a>Outlook
+
+- **모든 온라인 모임** : 새 설정으로 온라인 모임을 더욱 쉽게 예약하여 모든 모임을 기본적으로 온라인으로 설정할 수 있습니다.
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="outlook"></a>Outlook
+
+- 일부 모임에서 다른 참석자가 모임을 전달할 때 기존 참석자가 모임이 취소되는 문제를 해결했습니다.
+
+
+- 하나 이상의 서명이 구성되었음에도 불구하고 일부 사용자에게 서명 드롭다운이 표시되지 않는 문제를 해결했습니다.
+
+
+### <a name="project"></a>Project
+
+- 로드의 특정 부분에 프로젝트 파일에 문제가 있는 경우 특정 프로젝트를 열 수 있는 문제를 해결했습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2011-november-24"></a>버전 2011: 11월 24일
 *버전 2011(빌드 13426.20294)*
@@ -40,7 +237,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 
 
 
-[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2011-november-21"></a>버전 2011: 11월 21일
 *버전 2011(빌드 13426.20274)*
@@ -72,7 +269,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 
 
 
-[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2011-november-18"></a>버전 2011: 11월 18일
 *버전 2011(빌드 13426.20250)*
@@ -107,7 +304,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 
 
 
-[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2011-november-09"></a>버전 2011: 11월 9일
 *버전 2011(빌드 13426.20184)*
@@ -192,7 +389,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- 프리젠테이션 영역을 확대/축소하여 확대된 선택 영역과 마우스 포인터 사이에 간격이 생긴 문제를 해결했습니다.
+- 프레젠테이션 영역을 확대/축소할 경우 확대된 선택 영역과 마우스 포인터 사이에 간격이 생기는 문제를 해결했습니다.
 
 
 - 그림 옆에 있는 콘텐츠 개체 틀 아이콘에 도구 설명이 없는 문제를 해결했습니다.
@@ -290,7 +487,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 
 - **SVG 클립보드 지원:** 이제 Office의 SVG 콘텐츠를 타사 앱에 붙여 을 수 있습니다. [자세한 정보](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />[블로그 게시물](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)에서 세부 정보 보기
 
-- **투명한 배경으로 GIF 만들기:** 애니메이션 GIF로 내보낼 때 새 옵션을 사용하여 배경을 투명하게 만들 수 있습니다.<br />[블로그 게시물](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)에서 세부 정보 보기
+- **투명한 배경으로 GIF 만들기:** 애니메이션 GIF로 내보낼 때 새 옵션을 사용하여 배경을 투명하게 만들 수 있습니다.<br />[블로그 게시물](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)에서 세부 정보를 확인하세요.
 
 - **범위 내에서 애니메이션 GIF 내보내기:** 애니메이션 GIF로 내보낼 때 슬라이드 범위 선택
 
@@ -1712,7 +1909,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 
 ### <a name="excel"></a>Excel
 
-- **Excel 내의 Power BI에 있는 데이터셋에서 PivotTables 생성:** 몇 번의 클릭으로 Power BI에 저장된 데이터셋에 연결된 PivotTables를 Excel에서 생성할 수 있습니다.  이렇게 하면 PivotTables와 Power BI를 모두 최대한 활용할 수 있습니다. 보안 Power BI 데이터셋에서 PivotTables를 사용하여 데이터를 계산, 요약 및 분석할 수 있습니다.
+- **Excel 내의 Power BI에 있는 데이터셋에서 피벗 테이블 생성:** 몇 번의 클릭으로 Power BI에 저장된 데이터셋에 연결된 피벗 테이블은 Excel에서 생성할 수 있습니다.  이렇게 하면 PivotTables와 Power BI를 모두 최대한 활용할 수 있습니다. 보안 Power BI 데이터셋에서 PivotTables를 사용하여 데이터를 계산, 요약 및 분석할 수 있습니다.
 
 ### <a name="outlook"></a>Outlook
 
@@ -2115,7 +2312,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
 ### <a name="resolved-issues"></a>해결된 문제
-### <a name="access"></a>접근
+### <a name="access"></a>Access
 
 - 작업창에서 표 크기 조정 및 새로 고침과 관련된 문제가 해결되었습니다.
 
