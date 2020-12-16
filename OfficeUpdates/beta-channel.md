@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 3fa31ed1c5dac96ba16d4af2a1ed59c1eab533bd
-ms.sourcegitcommit: 86478ce864c9594772fcd1e377e2ab04aef9bf56
+ms.openlocfilehash: 5c7201236c3974e0b0001d7a17d4d945d359947e
+ms.sourcegitcommit: 0de1e313cbab2fcb6c3216e71f90312249bb4396
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49575022"
+ms.lasthandoff: 12/11/2020
+ms.locfileid: "49655308"
 ---
 # <a name="release-notes-for-beta-channel"></a>베타 채널용 릴리스 정보
 
@@ -30,6 +30,58 @@ ms.locfileid: "49575022"
 [//]: # (제거하지 마세요)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+## <a name="version-2101-december-11"></a>버전 2101: 12월 11일
+*버전 2101(빌드 13604.20000)*
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="outlook"></a>Outlook
+
+- **클라우드에서 Outlook 설정: 자동 회신, 중요 받은 편지함, 개인 정보 보호 등과 같이 Windows용 Outlook 설정을 선택하고 모든 PC에서 사용할 수 있습니다** .
+
+### <a name="word"></a>Word
+
+- **최신 주석을 활용한 더 나은 공동 작업:** 개체에 메모를 추가하고, 동료를 @멘션하고, 메모 스레드를 해결하여 공동 작업 환경을 개선해보세요. [자세한 정보](https://support.office.com/article/8d3f868a-867e-4df2-8c68-bf96671641e2)<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/modern-commenting-in-word)에서 세부 정보 보기
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- Excel이 새 버전의 파일을 사용할 수 있다는 메시지 표시줄을 잘못 표시하여 사용자가 변경 내용을 통합 문서 사본에 저장하거나 변경 내용을 취소하는 문제를 해결했습니다.
+
+
+- Selection.Parent.Copy 요청 후 구분 기호 전환 문제를 해결했습니다.
+
+
+### <a name="outlook"></a>Outlook
+
+- 일반 텍스트 S/MIME 메시지가 전송 시 왜곡되는 문제를 해결했습니다.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 슬라이드 쇼에서 배경 비디오 재생을 반복하여 문제를 해결합니다.
+
+
+- QAT에서 추가한 글꼴 크기 명령에 대한 문제를 해결 했습니다. 이 문제는 업데이트하는 동안 가장 가까운 정의된 글꼴 크기로 자동 완성됩니다.
+
+
+### <a name="word"></a>Word
+
+- 콘텐츠 컨트롤에서 편집할 수 없는 것으로 표시된 최신 메모를 삭제하는 문제를 해결했습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
 
 ## <a name="version-2012-december-04"></a>버전 2012: 12월 4일
 *버전 2012(빌드 13530.20000)*
@@ -80,7 +132,7 @@ ms.locfileid: "49575022"
 
 ### <a name="word"></a>Word
 
-- 보통 텍스트로 붙여넣기(일반 텍스트로 붙여넣기)는 리치 텍스트로 붙여넣기보다 선호되는 경우가 많습니다. 이 상황에 맞는 메뉴 수정사항을 사용하여 일반 텍스트로 붙여넣을 수 있습니다. 그렇지 않으면 사용자는 메모장과 같은 일반 텍스트 편집기에 복사한 다음 메모장에서 원하는 대상 앱으로 복사해야 합니다.
+- 서식 있는 텍스트로 붙여넣기보다 일반 텍스트로 붙여넣기를 선호하는 경우가 많습니다. 이 상황에 맞는 메뉴 수정사항을 사용하여 일반 텍스트로 붙여넣을 수 있습니다. 그렇지 않으면 사용자는 메모장과 같은 일반 텍스트 편집기에 복사한 다음 메모장에서 원하는 대상 앱으로 복사해야 합니다.
 
 
 
@@ -260,7 +312,7 @@ ms.locfileid: "49575022"
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
 ### <a name="resolved-issues"></a>해결된 문제
-### <a name="access"></a>Access
+### <a name="access"></a>액세스
 
 - Office가 아닌 응용 프로그램에서 DAO를 사용할 경우 응용 프로그램이 예기치 않게 종료되는 문제를 해결했습니다.
 
@@ -345,7 +397,7 @@ ms.locfileid: "49575022"
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
 ### <a name="resolved-issues"></a>해결된 문제
-### <a name="access"></a>Access
+### <a name="access"></a>액세스
 
 - 동기화된 OneDrive 폴더에서 쿼리를 내보내려고 할 때 일부 사용자에게 “시스템 리소스가 초과했습니다.”라는 오류가 표시되는 문제를 해결했습니다.
 
@@ -935,19 +987,19 @@ ms.locfileid: "49575022"
 ### <a name="feature-updates"></a>기능 업데이트
 ### <a name="excel"></a>Excel
 
-- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
+- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
 
 ### <a name="outlook"></a>Outlook
 
-- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
+- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
+- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
 
 ### <a name="word"></a>Word
 
-- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
+- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
@@ -2049,6 +2101,7 @@ ms.locfileid: "49575022"
 
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13604.20000|version-2101-december-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13530.20000|version-2012-december-04|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13519.20000|version-2012-november-27|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13512.20000|version-2012-november-20|)
@@ -2058,5 +2111,4 @@ ms.locfileid: "49575022"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13415.20002|version-2011-october-23|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13408.20000|version-2011-october-16|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13406.20000|version-2011-october-09|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13328.20000|version-2010-october-02|)
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 끝)

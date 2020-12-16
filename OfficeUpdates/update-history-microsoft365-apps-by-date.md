@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 릴리스 정보에 대한 링크를 포함하여 Microsoft 365 앱 릴리스의 전체 목록을 날짜별로 구성해서 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 86e2ac3bb42e3b179214e1c030ef941878054883
-ms.sourcegitcommit: c7f7982f4d2d0d8db4fc4fbf961b79a03bc8b36e
+ms.openlocfilehash: b6fb5a7ee354c847d907b87933b44b76f168c727
+ms.sourcegitcommit: 033070b22b91c5d361c030abc516986ee305390a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49601563"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "49662703"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 앱의 업데이트 기록(날짜순)
 
@@ -30,13 +30,15 @@ ms.locfileid: "49601563"
 
 다음 표에는 각 업데이트 채널에 대한 지원되는 버전 및 최신 빌드 번호가 나와 있습니다.
 
+### <a name="supported-versions"></a>**지원되는 버전**
+
 [//]: # (EOSTABLESTART)
 
 |**채널**|**버전**|**빌드**|**릴리스 날짜**|**다음 이하 버전까지 지원**|
 |:-----|:-----|:-----|:-----|:-----|
 |현재 채널<br/>|2011<br/>|13426.20332<br/>|2020년 12월 8일<br/>|버전 2012 출시<br/>|
-|월 단위 엔터프라이즈 채널<br/>|2010년<br/>|13328.20478<br/>|2020년 12월 8일<br/>|2021년 2월 9일<br/>|
-|월 단위 엔터프라이즈 채널<br/>|2009년<br/>|13231.20620<br/>|2020년 12월 8일<br/>|2021년 1월 12일<br/>|
+|월 단위 엔터프라이즈 채널<br/>|2010<br/>|13328.20478<br/>|2020년 12월 8일<br/>|2021년 2월 9일<br/>|
+|월 단위 엔터프라이즈 채널<br/>|2009<br/>|13231.20620<br/>|2020년 12월 8일<br/>|2021년 1월 12일<br/>|
 |반기 엔터프라이즈 채널(미리 보기)<br/>|2008<br/>|13127.20910<br/>|2020년 12월 8일<br/>|2021년 3월 9일<br/>|
 |반기 엔터프라이즈 채널<br/>|2002<br/>|12527.21416<br/>|2020년 12월 8일<br/>|2021년 9월 14일<br/>|
 |반기 엔터프라이즈 채널<br/>|1908<br/>|11929.20984<br/>|2020년 12월 8일<br/>|2021년 3월 9일<br/>|
@@ -45,7 +47,9 @@ ms.locfileid: "49601563"
 
 이전 버전의 Microsoft 365 앱에서 가장 최근 릴리스로 업데이트할 경우 대략적인 다운로드 크기에 대한 내용은 [Microsoft 365 앱 업데이트의 다운로드 크기](download-sizes-office365-proplus-updates.md)를 참조하세요.
 
-다음 표에서는 다음 업데이트 채널에서 릴리스된 Microsoft 365 앱에 대한 각 업데이트의 버전 및 빌드 번호 목록을 제공합니다. 현재, 월간 엔터프라이즈, 반기 엔터프라이즈(미리 보기) 및 반기 엔터프라이즈 대상입니다. 표의 각 항목은 해당 릴리스의 릴리스 노트에 직접 연결됩니다. 이 릴리스 정보는 Microsoft 365 앱 업데이트에 포함된 기능 및 보안 업데이트 및 비보안 업데이트에 대한 정보를 제공합니다.  
+다음 표에서는 다음 업데이트 채널에서 릴리스된 Microsoft 365 앱에 대한 각 업데이트의 버전 및 빌드 번호 목록을 제공합니다. 현재, 월간 엔터프라이즈, 반기 엔터프라이즈(미리 보기) 및 반기 엔터프라이즈 대상입니다. 표의 각 항목은 해당 릴리스의 릴리스 노트에 직접 연결됩니다. 이 릴리스 정보는 Microsoft 365 앱 업데이트에 포함된 기능 및 보안 업데이트 및 비보안 업데이트에 대한 정보를 제공합니다.
+
+### <a name="version-history"></a>**버전 기록**
 
 [//]: # (HISTORYTABLESTART)
 
@@ -97,9 +101,9 @@ ms.locfileid: "49601563"
 |2019|11월 22일|[버전 1910(빌드 12130.20410)](monthly-channel-2019.md#version-1910-november-22)| |[버전 1908(빌드 11929.20494)](semi-annual-channel-targeted-2019.md#version-1908-november-22)|[버전 1902(빌드 11328.20480)](semi-annual-channel-2019.md#version-1902-november-22)<br/>[버전 1808(빌드 10730.20422)](semi-annual-channel-2019.md#version-1808-november-22)|
 |2019년|11월 18일|[버전 1910 (빌드 12130.20390)](monthly-channel-2019.md#version-1910-november-18)| | | |
 |2019년|11월 12일|[버전 1910 (빌드 12130.20344)](monthly-channel-2019.md#version-1910-november-12) | |[버전 1908(빌드 11929.20436)](semi-annual-channel-targeted-2019.md#version-1908-november-12)|[버전 1902(빌드 11328.20468)](semi-annual-channel-2019.md#version-1902-november-12)<br/>[버전 1808 (빌드 10730.20416)](semi-annual-channel-2019.md#version-1808-november-12)|
-|2019|10월 30일|[버전 1910 (빌드 12130.20272)](monthly-channel-2019.md#version-1910-october-30)| | | |
-|2019|10월 22일|[버전 1909 (빌드 12026.20344)](monthly-channel-2019.md#version-1909-october-22)| | | |
-|2019|10월 14일|[버전 1909(빌드 12026.20334)](monthly-channel-2019.md#version-1909-october-14)| |[버전 1908(빌드 11929.20396)](semi-annual-channel-targeted-2019.md#version-1908-october-14)| |
+|2019년|10월 30일|[버전 1910 (빌드 12130.20272)](monthly-channel-2019.md#version-1910-october-30)| | | |
+|2019년|10월 22일|[버전 1909 (빌드 12026.20344)](monthly-channel-2019.md#version-1909-october-22)| | | |
+|2019년|10월 14일|[버전 1909(빌드 12026.20334)](monthly-channel-2019.md#version-1909-october-14)| |[버전 1908(빌드 11929.20396)](semi-annual-channel-targeted-2019.md#version-1908-october-14)| |
 |2019|10월 8일|[버전 1909 (빌드 12026.20320)](monthly-channel-2019.md#version-1909-october-08)| |[버전 1908 (빌드 11929.20388)](semi-annual-channel-targeted-2019.md#version-1908-october-08)|[버전 1902(빌드 11328.20438)](semi-annual-channel-2019.md#version-1902-october-08)<br/>[버전 1808(빌드 10730.20386)](semi-annual-channel-2019.md#version-1808-october-08)|
 |2019|9월 30일|[버전 1909 (빌드 12026.20264)](monthly-channel-2019.md#version-1909-september-30)| | | |
 |2019|9월 10일|[버전 1908 (빌드 11929.20300)](monthly-channel-2019.md#version-1908-september-10)| |[버전 1908 (빌드 11929.20300)](semi-annual-channel-targeted-2019.md#version-1908-september-10)|[버전 1902 (빌드 11328.20420)](semi-annual-channel-2019.md#version-1902-september-10)<br/>[버전 1808 (빌드 10730.20380)](semi-annual-channel-2019.md#version-1808-september-10)|
