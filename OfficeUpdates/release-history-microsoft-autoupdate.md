@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT 전문가에게 MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록을 제공합니다.
-ms.openlocfilehash: 67a97d3d11dfea8db10f3d0cfbf45800dfd0b773
-ms.sourcegitcommit: 8365e449159add26608ff6b0188d05ab14ff0fef
+ms.openlocfilehash: f6b5462189fa7cf9310c3d69b8ab34474ed96c07
+ms.sourcegitcommit: 1587fea5b37f632608fe67e28030d380aba6b781
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "48994967"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "49684080"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록
  
@@ -29,6 +29,25 @@ ms.locfileid: "48994967"
 > - Microsoft 자동 업데이트는 Microsoft의 다양한 Mac 제품에 대한 업데이트를 제공합니다. 따라서 Mac용 Office를 실행하고 있지 않더라도 Microsoft 자동 업데이트를 업데이트하라는 알림을 받을 수 있습니다.
 
 릴리스 정보를 확인하려면 [릴리스 정보](release-notes-office-for-mac.md)를 참고하세요.<br/><br/>
+
+## <a name="december-2020-release"></a>2020년 12월 릴리스
+
+**릴리스 날짜:** 2020년 12월 15일
+
+*Microsoft 자동 업데이트 4.30*
+
+**버그 수정 및 개선 사항:**
+- M1이 포함된 Mac용 범용 앱 지원을 추가합니다.
+
+**MAU 업데이트 링크:**
+
+[Microsoft 자동 업데이트 4.30 패키지 다운로드](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 해시:**
+
+9F4C49BE4FCC82DED7BD394F4F2057912B40D0083F754D15495B7BDE9E58EAC4
+
+<br/><br/>
 
 
 ## <a name="november-2020-release"></a>2020년 11월 릴리스
