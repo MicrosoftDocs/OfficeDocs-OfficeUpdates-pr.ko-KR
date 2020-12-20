@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 5c7201236c3974e0b0001d7a17d4d945d359947e
-ms.sourcegitcommit: 0de1e313cbab2fcb6c3216e71f90312249bb4396
+ms.openlocfilehash: ade0bd6ee25f8a5cce262f1c2428adeeef9a2b5d
+ms.sourcegitcommit: 481be0fc1d299537985563e5b29249f0fdc873a1
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49655308"
+ms.lasthandoff: 12/18/2020
+ms.locfileid: "49716948"
 ---
 # <a name="release-notes-for-beta-channel"></a>베타 채널용 릴리스 정보
 
@@ -30,6 +30,66 @@ ms.locfileid: "49655308"
 [//]: # (제거하지 마세요)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+## <a name="version-2101-december-18"></a>버전 2101: 12월 18일
+*버전 2101(빌드 13610.20002)*
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="excel"></a>Excel
+
+- **M365 관리자에게 민감도 레이블에 대한 감사 데이터를 보냄:** 사용자가 문서 및 이메일에 민감도 레이블을 적용, 변경 또는 제거하면 Office는 관리자가 볼 수 있도록 감사 데이터를 M365 감사 백엔드로 보냅니다. 이는 관리자 혜택을 위한 자동 기능(UI 없음)입니다.
+
+### <a name="outlook"></a>Outlook
+
+- **M365 관리자에게 민감도 레이블에 대한 감사 데이터를 보냄:** 사용자가 문서 및 이메일에 민감도 레이블을 적용, 변경 또는 제거하면 Office는 관리자가 볼 수 있도록 감사 데이터를 M365 감사 백엔드로 보냅니다. 이는 관리자 혜택을 위한 자동 기능(UI 없음)입니다.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **M365 관리자에게 민감도 레이블에 대한 감사 데이터를 보냄:** 사용자가 문서 및 이메일에 민감도 레이블을 적용, 변경 또는 제거하면 Office는 관리자가 볼 수 있도록 감사 데이터를 M365 감사 백엔드로 보냅니다. 이는 관리자 혜택을 위한 자동 기능(UI 없음)입니다.
+
+### <a name="word"></a>Word
+
+- **M365 관리자에게 민감도 레이블에 대한 감사 데이터를 보냄:** 사용자가 문서 및 이메일에 민감도 레이블을 적용, 변경 또는 제거하면 Office는 관리자가 볼 수 있도록 감사 데이터를 M365 감사 백엔드로 보냅니다. 이는 관리자 혜택을 위한 자동 기능(UI 없음)입니다.
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- 피벗 테이블에서 서식 스타일을 적용할 때 성능이 향상되었습니다.
+
+
+### <a name="outlook"></a>Outlook
+
+- 사용자가 검색할 범주를 두 개 이상 선택할 수 없게 하는 문제를 해결했습니다.
+
+
+- 다른 약속에서 이벤트를 복사할 때 일부 일정 항목의 시작 시간이 예기치 않게 변경되는 문제를 해결했습니다.
+
+
+### <a name="project"></a>Project
+
+- 사용자가 업데이트된 정보를 사용하여 저장된 것으로 고려되는 프로젝트를 여는 경우 업데이트가 누락되는 문제를 해결했습니다.
+
+
+### <a name="word"></a>Word
+
+- 메모 카드 아래에 입력할 때 애니메이션을 수정했습니다.
+
+
+- 숨겨진 텍스트가 있는 PDF에 문서를 저장할 때 Word가 걸려 있는 문제를 해결했습니다.
+
+
+
+[//]: # (BUGDETILES 컨텐츠 끝)을(를) 제거하지 않습니다.
 
 ## <a name="version-2101-december-11"></a>버전 2101: 12월 11일
 *버전 2101(빌드 13604.20000)*
@@ -1453,6 +1513,8 @@ ms.locfileid: "49655308"
 
 - **PDF 연결 설정:** PDF로 연결하고 PDF에서 데이터를 가져오고 새로 고칩니다. [자세한 정보](https://support.office.com/article/9967afd8-85ee-4df3-aa06-753bcc1a2724)
 
+- **민감도 레이블 자동 적용 또는 권장:** Office는 감지되는 중요한 콘텐츠에 기반하여 민감도 레이블을 권장하거나 자동으로 적용할 수 있습니다.
+
 ### <a name="outlook"></a>Outlook
 
 - **원하는 항목만 찾기:** 폴더, 보낸 사람, 날짜, 첨부 정보 등의 옵션을 사용하여 검색 범위를 좁힙니다.
@@ -1460,6 +1522,8 @@ ms.locfileid: "49655308"
 ### <a name="powerpoint"></a>PowerPoint
 
 - **이어폰이 원격 조정 기능을 수행하여 클릭커가 필요하지 않습니다.** Surface Earbuds를 사용하여 PowerPoint 프레젠테이션을 컨트롤합니다. 중요: 제스처를 사용하여 프레젠테이션을 제어하려면 Windows 10용 Surface Audio 앱에서 Surface Earbuds를 페어링해야 합니다. Windows 10에서 Surface Audio 앱을 시작하는 방법에 대한 지침은 여기에서 확인할 수 있습니다. [자세한 정보](https://support.office.com/article/6319a6f3-ad69-44e6-a8ff-e79676423e4a)
+
+- **민감도 레이블 자동 적용 또는 권장:** Office는 감지되는 중요한 콘텐츠에 기반하여 민감도 레이블을 권장하거나 자동으로 적용할 수 있습니다.
 
 ### <a name="word"></a>Word
 
@@ -2101,6 +2165,7 @@ ms.locfileid: "49655308"
 
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13610.20002|version-2101-december-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13604.20000|version-2101-december-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13530.20000|version-2012-december-04|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13519.20000|version-2012-november-27|)
@@ -2110,5 +2175,4 @@ ms.locfileid: "49655308"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13426.20004|version-2011-october-30|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13415.20002|version-2011-october-23|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13408.20000|version-2011-october-16|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13406.20000|version-2011-october-09|)
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 끝)
