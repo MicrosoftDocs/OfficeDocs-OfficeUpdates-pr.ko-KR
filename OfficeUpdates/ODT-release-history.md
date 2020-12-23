@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: IT 전문가에게 ODT(Office 배포 도구)의 릴리스 기록을 제공합니다.
-ms.openlocfilehash: 125f37f1fb4b21d2d63784e51703c1297d928f49
-ms.sourcegitcommit: c7f7982f4d2d0d8db4fc4fbf961b79a03bc8b36e
+ms.openlocfilehash: df3e2d20f3355f25da37aaeb078687a1c4763993
+ms.sourcegitcommit: 8d67b1150d1818c1faa7f0ef4d7ab58a7dd653d2
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49601413"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "49725073"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Office 배포 도구에 대한 릴리스 기록
 
@@ -28,6 +28,12 @@ ODT를 사용하여 Office 설치를 더 강력하게 제어할 수 있습니다
  **설치 방법**: 다운로드한 다음 Office 배포 도구 실행 파일(setup.exe) 및 샘플 구성 파일(configuration.xml)이 포함된 자동 압축 풀기 실행 파일을 실행합니다. 
 
 [Office 배포 도구 다운로드](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
+
+## <a name="december-21-2020"></a>2020년 12월 21일
+버전 16.0.13426.20370(setup.exe 버전 16.0.13426.20352)
+- PerpetualVL2019 채널에서 ProofingTools의 로컬 소스 설치가 실패하는 문제를 해결했습니다.
+- 기존 설치에 전체 Office 언어가 아닌 추가 제품을 추가할 때 간편 실행 클라이언트가 자체 업데이트를 시도하는 문제를 해결했습니다.
+
 
 ## <a name="december-8-2020"></a>2020년 12월 8일
 버전 16.0.13426.20308 (setup.exe 버전 16.0.13426.20308)
