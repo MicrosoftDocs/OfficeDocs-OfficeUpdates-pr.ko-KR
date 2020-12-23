@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 릴리스 정보에 대한 링크를 포함하여 Microsoft 365 앱 릴리스의 전체 목록을 날짜별로 구성해서 IT 전문가에게 제공합니다.
-ms.openlocfilehash: b6fb5a7ee354c847d907b87933b44b76f168c727
-ms.sourcegitcommit: 033070b22b91c5d361c030abc516986ee305390a
+ms.openlocfilehash: 2f72d1f036be1874e5b911ec57ca18a07fc1c41c
+ms.sourcegitcommit: d4973d351666da9b360f4f83cd588e327ccbab1a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "49662703"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "49725757"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 앱의 업데이트 기록(날짜순)
 
@@ -36,7 +36,7 @@ ms.locfileid: "49662703"
 
 |**채널**|**버전**|**빌드**|**릴리스 날짜**|**다음 이하 버전까지 지원**|
 |:-----|:-----|:-----|:-----|:-----|
-|현재 채널<br/>|2011<br/>|13426.20332<br/>|2020년 12월 8일<br/>|버전 2012 출시<br/>|
+|현재 채널<br/>|2011<br/>|13426.20404<br/>|2020년 12월 21일<br/>|버전 2012 출시<br/>|
 |월 단위 엔터프라이즈 채널<br/>|2010<br/>|13328.20478<br/>|2020년 12월 8일<br/>|2021년 2월 9일<br/>|
 |월 단위 엔터프라이즈 채널<br/>|2009<br/>|13231.20620<br/>|2020년 12월 8일<br/>|2021년 1월 12일<br/>|
 |반기 엔터프라이즈 채널(미리 보기)<br/>|2008<br/>|13127.20910<br/>|2020년 12월 8일<br/>|2021년 3월 9일<br/>|
@@ -55,7 +55,8 @@ ms.locfileid: "49662703"
 
 |**년도**|**릴리스 날짜**|**현재 채널**|**월 단위 엔터프라이즈 채널**|**반기 엔터프라이즈 채널(미리 보기)**|**반기 엔터프라이즈 채널**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
-|2020|12월 8일|[버전 2011(빌드 13426.20332)](current-channel.md#version-2011-december-08)|[버전 2010(빌드 13328.20478)](monthly-enterprise-channel.md#version-2010-december-08)<br/>[버전 2009(빌드 13231.20620)](monthly-enterprise-channel.md#version-2009-december-08)|[버전 2008(빌드 13127.20910)](semi-annual-enterprise-channel-preview.md#version-2008-december-08)|[버전 2002 (빌드 12527.21416)](semi-annual-enterprise-channel.md#version-2002-december-08)<br/>[버전 1908(빌드 11929.20984)](semi-annual-enterprise-channel.md#version-1908-december-08)|
+|2020|12월 21일|[버전 2011(빌드 13426.20404)](current-channel.md#version-2011-december-21)| | | |
+|2020년|12월 8일|[버전 2011(빌드 13426.20332)](current-channel.md#version-2011-december-08)|[버전 2010(빌드 13328.20478)](monthly-enterprise-channel.md#version-2010-december-08)<br/>[버전 2009(빌드 13231.20620)](monthly-enterprise-channel.md#version-2009-december-08)|[버전 2008(빌드 13127.20910)](semi-annual-enterprise-channel-preview.md#version-2008-december-08)|[버전 2002 (빌드 12527.21416)](semi-annual-enterprise-channel.md#version-2002-december-08)<br/>[버전 1908(빌드 11929.20984)](semi-annual-enterprise-channel.md#version-1908-december-08)|
 |2020|12월 2일|[버전 2011(빌드 13426.20308)](current-channel.md#version-2011-december-02)| | | |
 |2020|11월 30일|[버전 2011(빌드 13426.20294)](current-channel.md#version-2011-november-30)| | | |
 |2020|11월 23일|[버전 2011(빌드 13426.20274)](current-channel.md#version-2011-november-23)| | | |
@@ -115,8 +116,8 @@ ms.locfileid: "49662703"
 |2019|6월 26일|[버전 1906(빌드 11727.20224)](monthly-channel-2019.md#version-1906-june-26)| | | |
 |2019|6월 24일|[버전 1906(빌드 11727.20210)](monthly-channel-2019.md#version-1906-june-24)| | | |
 |2019|6월 11일|[버전 1905(빌드 11629.20246)](monthly-channel-2019.md#version-1905-june-11)| |[버전 1902(빌드 11328.20318)](semi-annual-channel-targeted-2019.md#version-1902-june-11)|[버전 1808(빌드 10730.20348)](semi-annual-channel-2019.md#version-1808-june-11)<br/>[버전 1803(빌드 9126.2388)](semi-annual-channel-2019.md#version-1803-june-11)|
-|2019|6월 3일 |[버전 1905(빌드 11629.20214)](monthly-channel-2019.md#version-1905-june-3)| | | |
-|2019년|5월 29일 |[버전 1905(빌드 11629.20196)](monthly-channel-2019.md#version-1905-may-29)| | | |
+|2019년|6월 3일 |[버전 1905(빌드 11629.20214)](monthly-channel-2019.md#version-1905-june-3)| | | |
+|2019|5월 29일 |[버전 1905(빌드 11629.20196)](monthly-channel-2019.md#version-1905-may-29)| | | |
 |2019|5월 22일 |[버전 1904(빌드 11601.20230)](monthly-channel-2019.md#version-1904-may-22)| | | |
 |2019|5월 14일 |[버전 1904(빌드 11601.20204)](monthly-channel-2019.md#version-1904-may-14)| |[버전 1902(빌드 11328.20286)](semi-annual-channel-targeted-2019.md#version-1902-may-14) |[버전 1808(빌드 10730.20344)](semi-annual-channel-2019.md#version-1808-may-14)  <br/>  [버전 1803(빌드 9126.2387)](semi-annual-channel-2019.md#version-1803-may-14) |
 |2019|5월 8일 |[버전 1904(빌드 11601.20178)](monthly-channel-2019.md#version-1904-may-8)| | | |
@@ -128,7 +129,7 @@ ms.locfileid: "49662703"
 |2019|4월 1일 |[버전 1903(빌드 11425.20202)](monthly-channel-2019.md#version-1903-april-01)| | | |
 |2019|3월 25일 |[버전 1902(빌드 11328.20222)](monthly-channel-2019.md#version-1902-march-25)| | | |
 |2019|3월 12일 |[버전 1902(빌드 11328.20158)](monthly-channel-2019.md#version-1902-march-12)| |[버전 1902(빌드 11328.20158)](semi-annual-channel-targeted-2019.md#version-1902-march-12) |[버전 1808(빌드 10730.20304)](semi-annual-channel-2019.md#version-1808-march-12)  <br/> | |
-|2019|3월 4일  |[버전 1902(빌드 11328.20146)](monthly-channel-2019.md#version-1902-march-4)| | | |
+|2019년|3월 4일  |[버전 1902(빌드 11328.20146)](monthly-channel-2019.md#version-1902-march-4)| | | |
 |2019년|2월 12일 |[버전 1901(빌드 11231.20174)](monthly-channel-2019.md#version-1901-february-12)| |[버전 1808(빌드 10730.20280)](semi-annual-channel-targeted-2019.md#version-1808-february-12) |[버전 1808(빌드 10730.20280)](semi-annual-channel-2019.md#version-1808-february-12)  <br/>  [버전 1803(빌드 9126.2356)](semi-annual-channel-2019.md#version-1803-february-12)  <br/> [버전 1708(빌드 8431.2372)](office365-proplus-security-updates.md#february-12-2019) |
 |2019|1월 31일   |[버전 1901(빌드 11231.20130)](monthly-channel-2019.md#version-1901-january-31)| | | |
 |2019|1월 14일   |[버전 1812(빌드 11126.20266)](monthly-channel-2019.md#version-1812-january-14)| | | |
