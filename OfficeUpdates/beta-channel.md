@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: ade0bd6ee25f8a5cce262f1c2428adeeef9a2b5d
-ms.sourcegitcommit: 481be0fc1d299537985563e5b29249f0fdc873a1
+ms.openlocfilehash: 6b42dcee02fa315647a1176bda1d581833ca5211
+ms.sourcegitcommit: 9a0952ac6d6c19231b3f4148a69d3260300ae78a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49716948"
+ms.lasthandoff: 12/25/2020
+ms.locfileid: "49733211"
 ---
 # <a name="release-notes-for-beta-channel"></a>베타 채널용 릴리스 정보
 
@@ -30,6 +30,48 @@ ms.locfileid: "49716948"
 [//]: # (제거하지 마세요)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+## <a name="version-2101-december-25"></a>버전 2101: 12월 25일
+*버전 2101(빌드 13617.20002)*
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- Excel에서 차트를 복사하여 Word에 붙여넣을 때 소수점 및 천 단위 구분 기호 설정을 같이 붙여넣도록 업데이트
+
+
+- 잘못된 파일 특성(만든 시간, 수정된 시간 등)이 있는 UNC 파일을 열 때 Excel이 예기치 않게 닫히는 문제를 해결했습니다.
+
+
+- 이 변경으로 SVG 이미지의 윤곽선 색을 변경하는 것과 관련된 문제를 해결할 수 있습니다.
+
+
+### <a name="outlook"></a>Outlook
+
+- 사용자가 Word에서 메일 병합을 시작할 때 액세스를 허용하는 데 걸리는 시간을 지정할 수 없어 과도한 메시지가 표시되는 문제를 해결했습니다.
+
+
+- 사용자가 상환 기반 추가 기능을 사용하는 경우 Outlook이 예기치 않게 종료되는 문제를 해결했습니다.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 이 변경으로 SVG 이미지의 윤곽선 색을 변경하는 것과 관련된 문제를 해결할 수 있습니다.
+
+
+### <a name="word"></a>Word
+
+- 이 변경으로 SVG 이미지의 윤곽선 색을 변경하는 것과 관련된 문제를 해결할 수 있습니다.
+
+
+- 메모 카드의 회신 상자가 화면에 표시되지 않는 문제를 해결합니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
 
 ## <a name="version-2101-december-18"></a>버전 2101: 12월 18일
 *버전 2101(빌드 13610.20002)*
@@ -271,7 +313,7 @@ ms.locfileid: "49716948"
 
 
 
-[//]: # (BUGDETILES 컨텐츠 끝)을(를) 제거하지 않습니다.
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
 
 ## <a name="version-2012-november-13"></a>버전 2012: 11월 13일
 *버전 2012(빌드 13510.20004)*
@@ -372,7 +414,7 @@ ms.locfileid: "49716948"
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
 ### <a name="resolved-issues"></a>해결된 문제
-### <a name="access"></a>액세스
+### <a name="access"></a>Access
 
 - Office가 아닌 응용 프로그램에서 DAO를 사용할 경우 응용 프로그램이 예기치 않게 종료되는 문제를 해결했습니다.
 
@@ -457,7 +499,7 @@ ms.locfileid: "49716948"
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
 ### <a name="resolved-issues"></a>해결된 문제
-### <a name="access"></a>액세스
+### <a name="access"></a>Access
 
 - 동기화된 OneDrive 폴더에서 쿼리를 내보내려고 할 때 일부 사용자에게 “시스템 리소스가 초과했습니다.”라는 오류가 표시되는 문제를 해결했습니다.
 
@@ -2165,6 +2207,7 @@ ms.locfileid: "49716948"
 
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13617.20002|version-2101-december-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13610.20002|version-2101-december-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13604.20000|version-2101-december-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13530.20000|version-2012-december-04|)
@@ -2174,5 +2217,4 @@ ms.locfileid: "49716948"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13430.20000|version-2012-november-06|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13426.20004|version-2011-october-30|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13415.20002|version-2011-october-23|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13408.20000|version-2011-october-16|)
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 끝)
