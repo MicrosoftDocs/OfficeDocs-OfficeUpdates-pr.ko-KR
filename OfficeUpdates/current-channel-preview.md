@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 이후 참가자 대상 그룹에게 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: ba9448af2e899aa4bc60d9d825117be3d895dbcd
-ms.sourcegitcommit: 148e77b6199c7f6f584542a60e35b434fa830b80
+ms.openlocfilehash: 7e328c89e2aae647ced22808720a1bcfdf906f79
+ms.sourcegitcommit: aae2d2bcce3ea8a26226062f0ad695d80587db11
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/28/2020
-ms.locfileid: "49735506"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49750629"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 현재 채널(미리 보기)에 대한 릴리스 정보
 
@@ -28,6 +28,29 @@ ms.locfileid: "49735506"
 > - Microsoft Teams 기능은 릴리스 주기가 보다 빈번하기 때문에 최근에 릴리스된 현재 채널 미리 보기와 다를 수 있습니다.
 
 [//]: # (제거하지 마세요)
+
+## <a name="version-2012-january-04"></a>버전 2012: 1월 4일
+*버전 2012(빌드 13530.20316)*
+* 다양한 버그 및 성능 수정 사항.
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="excel"></a>Excel
+
+- **필수 레이블 지정:** 필수 라벨 지정 정책을 사용하는 사용자는 문서와 전자 메일에 레이블을 표시해야 합니다.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **필수 레이블 지정:** 필수 라벨 지정 정책을 사용하는 사용자는 문서와 전자 메일에 레이블을 표시해야 합니다.
+
+### <a name="word"></a>Word
+
+- **필수 레이블 지정:** 필수 라벨 지정 정책을 사용하는 사용자는 문서와 전자 메일에 레이블을 표시해야 합니다.
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2012-december-28"></a>버전 2012: 12월 28일
 *버전 2012(빌드 13530.20264)*

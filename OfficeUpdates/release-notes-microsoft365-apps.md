@@ -10,18 +10,18 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 업데이트 채널별 Microsoft 365 앱의 최신 릴리스 및 릴리스 정보와 업데이트 기록에 대한 링크 목록을 IT 전문가에게 제공합니다.
-ms.openlocfilehash: da1785c6d08afec30753b97d633f3baa9fbd209b
-ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
+ms.openlocfilehash: 6050fdcd08ffcfcde37b0f79886079dc38ddc790
+ms.sourcegitcommit: f0d1cbcbb5b9e5077dc21b7de9b2146b9e4c530c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/07/2020
-ms.locfileid: "48370136"
+ms.lasthandoff: 01/04/2021
+ms.locfileid: "49748236"
 ---
 # <a name="release-information-for-updates-to-microsoft-365-apps"></a>Microsoft 365 앱 업데이트에 대한 릴리스 정보
 
 
 > [!IMPORTANT]
-> Office 365 ProPlus는 2004 버전부터 Microsoft Office 365 ProPlus로 이름이 변경됩니다.자세한 내용은  [이 문서를 검토하세요](https://go.microsoft.com/fwlink/p/?linkid=2123420).이 문서에서는 일반적으로 Microsoft 365 앱으로 지칭합니다.
+> Office 365 ProPlus는 2004 버전부터 엔터프라이즈용 Microsoft 365 앱으로 이름이 변경됩니다. 자세한 내용은 [이 문서를 검토하세요](https://go.microsoft.com/fwlink/p/?linkid=2123420). 문서에서는 일반적으로 Microsoft 365 앱이라고 지칭합니다.
 
 
 ## <a name="security-updates-for-microsoft-365-apps-releases"></a>Microsoft 365 앱 릴리스용 보안 업데이트
@@ -45,10 +45,10 @@ ms.locfileid: "48370136"
 ## <a name="release-notes-for-microsoft-365-apps-releases"></a>Microsoft 365 앱 릴리스의 릴리스 정보
 
 업데이트 채널 및 연도별 릴리스 정보의 전체 목록을 보려면 다음 문서를 참조하세요.
- - 현재: [2020](current-channel.md), [2019](monthly-channel-2019.md), [2018](monthly-channel-2018.md), [2017](monthly-channel-2017.md), [2016](monthly-channel-2016.md)
- - 월 단위 엔터프라이즈 채널: [2020](monthly-enterprise-channel.md)
- - 반기 엔터프라이즈(미리 보기): [2020](semi-annual-enterprise-channel-preview.md), [2019](semi-annual-channel-targeted-2019.md), [2018](semi-annual-channel-targeted-2018.md), [2017](semi-annual-channel-targeted-2017.md), [2016](semi-annual-channel-targeted-2016.md)
- - 반기 엔터프라이즈: [2020](semi-annual-enterprise-channel.md), [2019](semi-annual-channel-2019.md), [2018](semi-annual-channel-2018.md), [2017](semi-annual-channel-2017.md), [2016](semi-annual-channel-2016.md)
+ - 현재 채널: [2021-2020](current-channel.md), [2019](monthly-channel-2019.md), [2018](monthly-channel-2018.md)
+ - 월 단위 엔터프라이즈 채널:  [2021-2020](monthly-enterprise-channel.md)
+ - 반기 엔터프라이즈(미리 보기): [2021-2020](semi-annual-enterprise-channel-preview.md), [2019](semi-annual-channel-targeted-2019.md), [2018](semi-annual-channel-targeted-2018.md)
+ - 반기 엔터프라이즈: [2021-2020](semi-annual-enterprise-channel.md), [2019](semi-annual-channel-2019.md), [2018](semi-annual-channel-2018.md)
 
  ## <a name="release-history-for-office-deployment-tool"></a>Office 배포 도구에 대한 릴리스 기록
  Office 배포 도구 릴리스의 전체 목록을 보려면 다음 문서를 참조하세요.
@@ -64,7 +64,7 @@ Microsoft 365 앱을 포함하는 모든 Microsoft 365 구독 플랜에 포함�
 
 ## <a name="related-topics"></a>관련 항목
 
-- [Microsoft 365 앱의 업데이트 채널 개요](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
+- [Microsoft 365 앱의 업데이트 채널 개요](https://docs.microsoft.com/deployoffice/overview-of-update-channels-for-office-365-proplus)
 - [Office 배포](https://docs.microsoft.com/deployoffice/)
 - [Microsoft 365 앱의 새로운 기능](https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426)
 - [Microsoft 365 앱 로드맵](https://products.office.com/business/office-365-roadmap)
