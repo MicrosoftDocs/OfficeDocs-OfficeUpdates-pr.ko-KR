@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 6b42dcee02fa315647a1176bda1d581833ca5211
-ms.sourcegitcommit: 9a0952ac6d6c19231b3f4148a69d3260300ae78a
+ms.openlocfilehash: 042e83845d033f3f2f854e7d3f2198f698032c7a
+ms.sourcegitcommit: f0d1cbcbb5b9e5077dc21b7de9b2146b9e4c530c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/25/2020
-ms.locfileid: "49733211"
+ms.lasthandoff: 01/04/2021
+ms.locfileid: "49748226"
 ---
 # <a name="release-notes-for-beta-channel"></a>베타 채널용 릴리스 정보
 
@@ -30,6 +30,65 @@ ms.locfileid: "49733211"
 [//]: # (제거하지 마세요)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+## <a name="version-2101-january-01"></a>버전 2101: 1월 1일
+*버전 2101(빌드 13624.20002)*
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="excel"></a>Excel
+
+- **필수 레이블 지정:** 필수 레이블 지정 정책 집합을 사용하는 사용자. 해당 관리자는 문서와 전자 메일에 레이블을 지정해야 합니다.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **필수 레이블 지정:** 필수 레이블 지정 정책 집합을 사용하는 사용자. 해당 관리자는 문서와 전자 메일에 레이블을 지정해야 합니다.
+
+### <a name="word"></a>Word
+
+- **필수 레이블 지정:** 필수 레이블 지정 정책 집합을 사용하는 사용자. 해당 관리자는 문서와 전자 메일에 레이블을 지정해야 합니다.
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="onenote"></a>OneNote
+
+- 이 변경 사항으로 OneNote에 영향을 미치는 렌더링 문제를 해결합니다.
+
+
+### <a name="outlook"></a>Outlook
+
+- 이렇게 변경하면 Outlook에서 Exchange Online 보관 사서함을 최종 사용자에 표시하지 않는 Exchange 서버 설정을 활용할 수 있습니다.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 이 변경 사항으로 텍스트 작업을 수행하는 도형 병합과 관련된 문제를 해결합니다.
+
+
+### <a name="word"></a>Word
+
+- 최신 설명을 더욱 견고하게 하도록 수정합니다.
+
+
+- @Mention을 사용하여 댓글 달기 게시물을 편집할 때의 문제를 해결했습니다.
+
+
+- 새 Word 인스턴스를 만들 때 메모 초안이 사라집니다.
+
+
+- 메모 창에서 중첩된 스크롤 막대와 관련된 문제를 해결합니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
 
 ## <a name="version-2101-december-25"></a>버전 2101: 12월 25일
 *버전 2101(빌드 13617.20002)*
@@ -2207,6 +2266,7 @@ ms.locfileid: "49733211"
 
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13624.20002|version-2101-january-01|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13617.20002|version-2101-december-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13610.20002|version-2101-december-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13604.20000|version-2101-december-11|)
@@ -2216,5 +2276,4 @@ ms.locfileid: "49733211"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13510.20004|version-2012-november-13|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13430.20000|version-2012-november-06|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13426.20004|version-2011-october-30|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13415.20002|version-2011-october-23|)
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 끝)
