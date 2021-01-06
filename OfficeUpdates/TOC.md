@@ -5,23 +5,22 @@
 ## [업데이트 크기](download-sizes-microsoft365-apps-updates.md)
 
 ## 현재 채널
-### [2021~2020](current-channel.md)
-### [2019](monthly-channel-2019.md)
-### [2018](monthly-channel-2018.md)
+### [릴리스 정보](current-channel.md)
+### [보관된 릴리스 정보](monthly-channel-2019.md)
 
-## 월 단위 엔터프라이즈 채널
-### [2021~2020](monthly-enterprise-channel.md)
+## 월 단위 기업 채널
+### [릴리스 정보](monthly-enterprise-channel.md)
 
-## 반기 엔터프라이즈 채널
-### [2021~2020](semi-annual-enterprise-channel.md)
-### [2019](semi-annual-channel-2019.md)
-### [2018](semi-annual-channel-2018.md)
+## 반기 기업 채널
+### [릴리스 정보](semi-annual-enterprise-channel.md)
+### [보관된 릴리스 정보](semi-annual-channel-2019.md)
 
 
-## 반기 엔터프라이즈 채널(미리 보기)
-### [2021~2020](semi-annual-enterprise-channel-preview.md)
-### [2019](semi-annual-channel-targeted-2019.md)
-### [2018](semi-annual-channel-targeted-2018.md)
+
+## 반기 기업 채널(미리 보기)
+### [릴리스 정보](semi-annual-enterprise-channel-preview.md)
+### [보관된 릴리스 정보](semi-annual-channel-targeted-2019.md)
+
 
 
 ## Office 참가자 프로그램  
