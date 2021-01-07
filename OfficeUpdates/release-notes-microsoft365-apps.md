@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 업데이트 채널별 Microsoft 365 앱의 최신 릴리스 및 릴리스 정보와 업데이트 기록에 대한 링크 목록을 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 6050fdcd08ffcfcde37b0f79886079dc38ddc790
-ms.sourcegitcommit: f0d1cbcbb5b9e5077dc21b7de9b2146b9e4c530c
+ms.openlocfilehash: dfba017d577f874222fd6d9cde05088820a7bf90
+ms.sourcegitcommit: 96185aa6c5a06095c58b57ac36cb2800add8bea0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "49748236"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "49760642"
 ---
 # <a name="release-information-for-updates-to-microsoft-365-apps"></a>Microsoft 365 앱 업데이트에 대한 릴리스 정보
 
@@ -45,10 +45,10 @@ ms.locfileid: "49748236"
 ## <a name="release-notes-for-microsoft-365-apps-releases"></a>Microsoft 365 앱 릴리스의 릴리스 정보
 
 업데이트 채널 및 연도별 릴리스 정보의 전체 목록을 보려면 다음 문서를 참조하세요.
- - 현재 채널: [2021-2020](current-channel.md), [2019](monthly-channel-2019.md), [2018](monthly-channel-2018.md)
- - 월 단위 엔터프라이즈 채널:  [2021-2020](monthly-enterprise-channel.md)
- - 반기 엔터프라이즈(미리 보기): [2021-2020](semi-annual-enterprise-channel-preview.md), [2019](semi-annual-channel-targeted-2019.md), [2018](semi-annual-channel-targeted-2018.md)
- - 반기 엔터프라이즈: [2021-2020](semi-annual-enterprise-channel.md), [2019](semi-annual-channel-2019.md), [2018](semi-annual-channel-2018.md)
+ - 현재 채널: [릴리스 정보](current-channel.md) [보관된 릴리스 정보](monthly-channel-archived.md)
+ - 월 단위 엔터프라이즈 채널 [릴리스 정보](monthly-enterprise-channel.md)
+ - 반기 기업 채널(프리뷰): [릴리스 정보](semi-annual-enterprise-channel-preview.md), [보관된 릴리스 정보](semi-annual-enterprise-channel-preview-archived.md)
+ - 반기 기업 채널: [릴리스 정보](semi-annual-enterprise-channel.md), [보관된 릴리스 정보](semi-annual-enterprise-channel-archived.md)
 
  ## <a name="release-history-for-office-deployment-tool"></a>Office 배포 도구에 대한 릴리스 기록
  Office 배포 도구 릴리스의 전체 목록을 보려면 다음 문서를 참조하세요.
