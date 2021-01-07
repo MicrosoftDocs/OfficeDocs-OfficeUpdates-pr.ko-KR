@@ -6,20 +6,20 @@
 
 ## 현재 채널
 ### [릴리스 정보](current-channel.md)
-### [보관된 릴리스 정보](monthly-channel-2019.md)
+### [보관된 릴리스 정보](monthly-channel-archived.md)
 
 ## 월 단위 기업 채널
 ### [릴리스 정보](monthly-enterprise-channel.md)
 
 ## 반기 기업 채널
 ### [릴리스 정보](semi-annual-enterprise-channel.md)
-### [보관된 릴리스 정보](semi-annual-channel-2019.md)
+### [보관된 릴리스 정보](semi-annual-enterprise-channel-archived.md)
 
 
 
 ## 반기 기업 채널(미리 보기)
 ### [릴리스 정보](semi-annual-enterprise-channel-preview.md)
-### [보관된 릴리스 정보](semi-annual-channel-targeted-2019.md)
+### [보관된 릴리스 정보](semi-annual-enterprise-channel-preview-archived.md)
 
 
 
