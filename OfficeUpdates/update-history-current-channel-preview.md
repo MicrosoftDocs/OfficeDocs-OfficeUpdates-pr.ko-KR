@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 월간 채널 업데이트 내역 제공 Windows 데스크톱의 대상 릴리스
-ms.openlocfilehash: 4e5ea1f2cd80022529c027ae060d8c995824315e
-ms.sourcegitcommit: aae2d2bcce3ea8a26226062f0ad695d80587db11
+ms.openlocfilehash: 1bc3b7efabc1db713885754da753bfb3bb3d3ea4
+ms.sourcegitcommit: 1404eb977e0bc5d5de5a89c713eae9f32fdc877f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49750609"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "49780696"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Windows Office 현재 채널(미리 보기)에 업데이트 기록
 
@@ -38,6 +38,9 @@ ms.locfileid: "49750609"
 
 
 [//]: # (제거하지 마세요)
+
+**2021년 1월 7일**<br/>
+버전 2101(빌드 13628.20030)<br/>
 
 **2021년 1월 4일**<br/>
 버전 2012(빌드 13530.20316)<br/>
