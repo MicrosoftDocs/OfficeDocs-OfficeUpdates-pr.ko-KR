@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 업데이트 채널별 Microsoft 365 앱의 최신 릴리스 및 릴리스 정보와 업데이트 기록에 대한 링크 목록을 IT 전문가에게 제공합니다.
-ms.openlocfilehash: dfba017d577f874222fd6d9cde05088820a7bf90
-ms.sourcegitcommit: 96185aa6c5a06095c58b57ac36cb2800add8bea0
+ms.openlocfilehash: 40c9a96422c9e608e6b847fbe4e2d220f4f407ab
+ms.sourcegitcommit: 1404eb977e0bc5d5de5a89c713eae9f32fdc877f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "49760642"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "49780676"
 ---
 # <a name="release-information-for-updates-to-microsoft-365-apps"></a>Microsoft 365 앱 업데이트에 대한 릴리스 정보
 
@@ -64,12 +64,12 @@ Microsoft 365 앱을 포함하는 모든 Microsoft 365 구독 플랜에 포함�
 
 ## <a name="related-topics"></a>관련 항목
 
-- [Microsoft 365 앱의 업데이트 채널 개요](https://docs.microsoft.com/deployoffice/overview-of-update-channels-for-office-365-proplus)
+- [Microsoft 365 앱의 업데이트 채널 개요](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
 - [Office 배포](https://docs.microsoft.com/deployoffice/)
 - [Microsoft 365 앱의 새로운 기능](https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426)
 - [Microsoft 365 앱 로드맵](https://products.office.com/business/office-365-roadmap)
 - [Microsoft 365 앱 메시지 센터 개요](https://support.office.com/article/38fb3333-bfcc-4340-a37b-deda509c2093)
-- [Windows 10 릴리스 정보](https://www.microsoft.com/itpro/windows-10/release-information)
+- [Windows 10 릴리스 정보](https://aka.ms/windows/releaseinfo)
 - [Microsoft 보안 업데이트 가이드](https://portal.msrc.microsoft.com/)
 
 > [!NOTE]
