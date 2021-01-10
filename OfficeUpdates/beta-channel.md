@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 042e83845d033f3f2f854e7d3f2198f698032c7a
-ms.sourcegitcommit: f0d1cbcbb5b9e5077dc21b7de9b2146b9e4c530c
+ms.openlocfilehash: f2eb63f0f9724ab4f5927df9696f7007917fe82e
+ms.sourcegitcommit: 75e30d61054abf480f9344b5a54370db93198d11
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "49748226"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "49785750"
 ---
 # <a name="release-notes-for-beta-channel"></a>베타 채널용 릴리스 정보
 
@@ -30,6 +30,37 @@ ms.locfileid: "49748226"
 [//]: # (제거하지 마세요)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+## <a name="version-2102-january-08"></a>버전 2102: 1월 8일
+*버전 2102(빌드 13704.20000)*
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="outlook"></a>Outlook
+
+- **받아쓰기 기능이 개선되었습니다.** 이제 새로운 받아쓰기 도구 모음, 음성 명령 그리고 자동 문장 부호 지원을 사용하여 음성을 통해 콘텐츠를 더 쉽게 만들 수 있습니다.
+
+### <a name="word"></a>Word
+
+- **받아쓰기 기능이 개선되었습니다.** 이제 새로운 받아쓰기 도구 모음, 음성 명령 그리고 자동 문장 부호 지원을 사용하여 음성을 통해 콘텐츠를 더 쉽게 만들 수 있습니다.
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- PowerPoint에서 포함된 Excel 범위 미리 보기에 잘못된 크기가 표시되는 문제를 수정했습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
 
 ## <a name="version-2101-january-01"></a>버전 2101: 1월 1일
 *버전 2101(빌드 13624.20002)*
@@ -2266,6 +2297,7 @@ ms.locfileid: "49748226"
 
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13704.20000|version-2102-january-08|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13624.20002|version-2101-january-01|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13617.20002|version-2101-december-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13610.20002|version-2101-december-18|)
@@ -2275,5 +2307,4 @@ ms.locfileid: "49748226"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13512.20000|version-2012-november-20|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13510.20004|version-2012-november-13|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13430.20000|version-2012-november-06|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13426.20004|version-2011-october-30|)
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 끝)
