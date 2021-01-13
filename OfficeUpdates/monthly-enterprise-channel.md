@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 Apps에 대한 Monthly Enterprise Channel 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 44a77260e0e674eccf53a76a0a451a3bfa2d7566
-ms.sourcegitcommit: 244f8fded28adafd66397baee0418254db5c9de2
+ms.openlocfilehash: e4c46d64476cab52b9f4d78480dc4d4b652aae6f
+ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49623129"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "49837549"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>2020년 Monthly Enterprise Channel 릴리스에 대한 릴리스 정보
 
@@ -26,6 +26,145 @@ ms.locfileid: "49623129"
 [//]: # (제거하지 마세요)
 
 
+
+## <a name="version-2011-january-12"></a>버전 2011: 1월 12일
+*버전 2011(빌드 13426.20526)*
+
+[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="access"></a>Access
+
+- **Office 테마를 자동으로 전환:** Office는 Windows 10 테마 설정에 맞게 테마를 자동으로 전환할 수 있습니다. 파일 > 계정으로 이동하고 Office 테마 드롭다운에서 "시스템 설정 사용"을 선택합니다. [자세한 정보](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="excel"></a>Excel
+
+- **수식에 사용할 변수 만들기:** LET 기능으로 성능, 가독성 및 구성성을 향상시킵니다. 이 함수를 사용하면 새로운 공식 또는 기존 공식으로 명명된 변수를 작성할 수 있습니다. [자세한 정보](https://support.office.com/article/34842dd8-b92b-4d3f-b325-b8b8f9908999)<br />[블로그 게시물](https://blog-insider.office.com/2020/06/01/let-names-in-formulas-for-excel/)에서 세부 정보 보기
+
+- **파워 쿼리에서 사용자 지정 데이터 유형 생성:** 원하는 데이터 원본을 사용하여 하나의 열에 여러 관련 정보를 로드할 수 있는 사용자 정의 데이터 유형을 생성합니다. [자세한 정보](https://support.office.com/article/a465a3b7-3d37-4eb1-a59c-bd3163315308)<br />[블로그 게시물](https://techcommunity.microsoft.com/t5/excel-blog/announcing-power-query-data-types/ba-p/1782903)에서 세부 정보 보기
+
+- **원본 쿼리 후 새 시트의 이름 지정:** 새 시트로 데이터가 로드되면 원본 쿼리의 이름을 기반으로 시트의 이름이 지정됩니다.
+
+- **Office 테마를 자동으로 전환:** Office는 Windows 10 테마 설정에 맞게 테마를 자동으로 전환할 수 있습니다. 파일 > 계정으로 이동하고 Office 테마 드롭다운에서 "시스템 설정 사용"을 선택합니다. [자세한 정보](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="onenote"></a>OneNote
+
+- **Office 테마를 자동으로 전환:** Office는 Windows 10 테마 설정에 맞게 테마를 자동으로 전환할 수 있습니다. 파일 > 계정으로 이동하고 Office 테마 드롭다운에서 "시스템 설정 사용"을 선택합니다. [자세한 정보](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="outlook"></a>Outlook
+
+- **Office 테마를 자동으로 전환:** Office는 Windows 10 테마 설정에 맞게 테마를 자동으로 전환할 수 있습니다. 파일 > 계정으로 이동하고 Office 테마 드롭다운에서 "시스템 설정 사용"을 선택합니다. [자세한 정보](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **비디오 라이브러리:** 앱에서 사용 가능한 엄선된 로열티 없는 비디오 영상 라이브러리로 문서의 수준을 높이세요.
+
+- **Office 테마를 자동으로 전환:** Office는 Windows 10 테마 설정에 맞게 테마를 자동으로 전환할 수 있습니다. 파일 > 계정으로 이동하고 Office 테마 드롭다운에서 "시스템 설정 사용"을 선택합니다. [자세한 정보](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="project"></a>Project
+
+- **Office 테마를 자동으로 전환:** Office는 Windows 10 테마 설정에 맞게 테마를 자동으로 전환할 수 있습니다. 파일 > 계정으로 이동하고 Office 테마 드롭다운에서 "시스템 설정 사용"을 선택합니다. [자세한 정보](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="publisher"></a>게시자
+
+- **Office 테마를 자동으로 전환:** Office는 Windows 10 테마 설정에 맞게 테마를 자동으로 전환할 수 있습니다. 파일 > 계정으로 이동하고 Office 테마 드롭다운에서 "시스템 설정 사용"을 선택합니다. [자세한 정보](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="visio"></a>Visio
+
+- **Office 테마를 자동으로 전환:** Office는 Windows 10 테마 설정에 맞게 테마를 자동으로 전환할 수 있습니다. 파일 > 계정으로 이동하고 Office 테마 드롭다운에서 "시스템 설정 사용"을 선택합니다. [자세한 정보](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="word"></a>Word
+
+- **Office 테마를 자동으로 전환:** Office는 Windows 10 테마 설정에 맞게 테마를 자동으로 전환할 수 있습니다. 파일 > 계정으로 이동하고 Office 테마 드롭다운에서 "시스템 설정 사용"을 선택합니다. [자세한 정보](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- Excel이 새 버전의 파일을 사용할 수 있다는 메시지 표시줄을 잘못 표시하여 사용자가 변경 내용을 통합 문서 사본에 저장하거나 변경 내용을 취소하는 문제를 해결했습니다.
+
+
+- Excel 4.0 매크로가 포함된 Excel 추가 기능 파일을 열 때 메시지 표시없이 매크로를 사용하지 않는 상태로 둘 수 있는 문제를 해결했습니다.
+
+
+### <a name="outlook"></a>Outlook
+
+- 하나 이상의 서명이 구성되었음에도 불구하고 일부 사용자에게 서명 드롭다운이 표시되지 않는 문제를 해결했습니다.
+
+
+- IDataObject 작업(예: 끌어서 놓기, 클립보드)에서 첨부 파일에 대한 filetime 포함을 사용하지 않도록 설정할 수 있는 regkey를 추가했습니다.  HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments. REG_DWORD IncludeFileTimesInDataObject. 0 = filetimes가 제외됩니다. 1 = (기본값) filetimes가 포함됩니다.
+
+
+- Azure Information Protection의 보호 레이블을 사용하여 메시지에 회신할 때 인라인 이미지를 사라지게 하는 문제를 해결했습니다.
+
+
+- MailItem.BeforeAttachmentAdd 이벤트를 중단시키는 문제를 해결했습니다.
+
+
+- 작업에 대해 상황 보고서를 보낼 때 To 필드가 비어 있는 문제를 해결했습니다.
+
+
+- 일부 모임에서 다른 참석자가 모임을 전달할 때 기존 참석자가 모임이 취소되는 문제를 해결했습니다.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 문서 복구 작업 후에도 손상된 PowerPoint 파일이 올바르게 열리지 않는 문제를 해결했습니다.
+
+
+- 새로 녹음된 오디오가 포함된 슬라이드를 복제한 후 파일을 저장할 때 오류가 발생하는 문제를 해결했습니다.
+
+
+- Slide.Shapes.AddMediaObject2가 레거시 비디오 형식(MPG-1, Mpeg-2)과 충돌하는 VBA 문제를 해결했습니다.
+
+
+- 이 변경 사항은 비디오 로드 중에 발생할 수 있는 처리 오류 문제를 해결합니다.
+
+
+- Word에서 PowerPoint로 방정식을 복사/붙여넣는 문제를 해결했습니다.
+
+
+### <a name="project"></a>Project
+
+- 로드의 특정 부분에 프로젝트 파일에 문제가 있는 경우 특정 프로젝트를 열 수 있는 문제를 해결했습니다.
+
+
+### <a name="word"></a>Word
+
+- Word에 영향을 미치는 최적화된 게이트에 의해 노출된 어설트 버그를 수정합니다.
+
+
+- 서식 파일에서 문서 스타일을 다른 스타일로 바꾸는 문제를 해결했습니다.
+
+
+- 이 변경 사항은 문서 편집 시 커서 문제를 해결합니다.
+
+
+- Word에서 PowerPoint로 방정식을 복사/붙여넣는 문제를 해결했습니다.
+
+
+### <a name="office-suite"></a>Office 제품군
+
+- 이전 버전에서 새 Office 버전을 설치하면 레지스트리 항목이 누락되어 전원 쿼리를 사용할 수 없는 등의 기능이 누락될 수 있는 문제가 해결되었습니다.
+
+
+- 캐시의 URL과 OneDrive의 URL이 일치하지 않을 때 파일이 SyncBacked가 아닌 상태로 열리는 문제를 해결했습니다.
+
+
+- SaveRequestManagerCam이 오류를 반환하는 대신 응용 프로그램을 종료하는 문제를 해결했습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2010-december-08"></a>버전 2010: 12월 8일
 *버전 2010(빌드 13328.20478)*
@@ -50,7 +189,7 @@ ms.locfileid: "49623129"
 
 - **범위 내에서 애니메이션 GIF 내보내기:** 애니메이션 GIF로 내보낼 때 슬라이드 범위 선택
 
-- **투명한 배경으로 GIF 만들기:** 애니메이션 GIF로 내보낼 때 새 옵션을 사용하여 배경을 투명하게 만들 수 있습니다.<br />[블로그 게시물](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)에서 세부 정보 보기
+- **투명한 배경으로 GIF 만들기:** 애니메이션 GIF로 내보낼 때 새 옵션을 사용하여 배경을 투명하게 만들 수 있습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/export-animated-gifs-transparent-backgrounds)에서 세부 정보 보기
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -60,7 +199,7 @@ ms.locfileid: "49623129"
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
 ### <a name="resolved-issues"></a>해결된 문제
-### <a name="access"></a>액세스
+### <a name="access"></a>Access
 
 - Office가 아닌 응용 프로그램에서 DAO를 사용할 경우 응용 프로그램이 예기치 않게 종료되는 문제를 해결했습니다.
 
@@ -295,7 +434,8 @@ ms.locfileid: "49623129"
 - 사용자가 대리인에게 편집자 권한을 부여할 수 없게 하는 문제를 해결했습니다.
 
 
-- 선택적으로 연결된 환경이 로딩으로부터 웹 추가 기능을 차단하는 문제를 해결했습니다.<br />[블로그 게시물](https://developer.microsoft.com/en-us/office/blogs/outlook-add-ins-and-optional-connected-experiences/)에서 세부 정보 보기
+- 선택적으로 연결된 환경이 로딩으로부터 웹 추가 기능을 차단하는 문제를 해결했습니다.<br />
+  [블로그 게시물](https://developer.microsoft.com/ko-KR/office/blogs/outlook-add-ins-and-optional-connected-experiences/)에서 세부 정보 보기
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -888,7 +1028,7 @@ ms.locfileid: "49623129"
 
 - **잉크 올가미:** 그리기 탭의 올가미 도구를 사용하면 잉크로 그린 개체를 선택할 수 있습니다. 개별 스트로크를 선택하거나 단어 전체를 선택합니다. [자세한 정보](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
-- **완벽한 색상 선택:** 16진 색상 코드를 사용하여 글꼴, 텍스트 강조 등 원하는 색상을 정확하게 선택하세요.<br />[블로그 게시물](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)에서 세부 정보를 참조하세요.
+- **완벽한 색상 선택:** 16진 색상 코드를 사용하여 글꼴, 텍스트 강조 등 원하는 색상을 정확하게 선택하세요.<br />[블로그 게시물](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)에서 세부 정보를 참조합니다
 
 - **문서에 활기를 불어넣어줄 새로운 이미지:** 수천 개의 무료 스톡 이미지, 아이콘 및 스티커를 문서에서 사용할 수 있습니다. 시작 하려면 삽입 > 사진 > 스톡 이미지로 이동합니다. [자세한 정보](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/06/premium-creative-content/)에서 세부 정보 보기
 
@@ -1129,6 +1269,7 @@ ms.locfileid: "49623129"
 
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|MEC|Production|Feature|16.0.13426.20526|version-2011-january-12|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13328.20478|version-2010-december-08|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13231.20514|version-2009-november-10|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13127.20638|version-2008-october-13|)

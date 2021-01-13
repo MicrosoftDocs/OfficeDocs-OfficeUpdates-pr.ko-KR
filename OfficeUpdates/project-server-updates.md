@@ -12,12 +12,12 @@ ms.collection:
 - IT_ProjectAdmin_Top
 - RelNotes_Server
 description: 한 곳에서 Project Server 2013 및 Project Server 2010용 업데이트를 찾아서 관리합니다. 이 페이지의 링크를 사용하여 업데이트에 대해 자세히 알아보고 업데이트를 다운로드할 수 있습니다.
-ms.openlocfilehash: 714cc2e06f984d3d12ee1a0859629853467b3614
-ms.sourcegitcommit: c7f7982f4d2d0d8db4fc4fbf961b79a03bc8b36e
+ms.openlocfilehash: 31ae19c946c06cf759c882e0db728b78516881c8
+ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49601483"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "49837519"
 ---
 # <a name="project-server-updates"></a>Project Server 업데이트
 
@@ -29,6 +29,7 @@ ms.locfileid: "49601483"
   
 |**릴리스 날짜**|**KB 번호**|
 |:-----|:-----|:-----|
+|2021년 1월 <br/>|[KB4493173](https://support.microsoft.com/kb/4493173) <br/>|
 |2020년 12월 <br/>|[KB4486763](https://support.microsoft.com/kb/4486763) <br/>|
 |2020년 11월 <br/>|[KB4486729](https://support.microsoft.com/kb/4486729) <br/>|
 |2020년 10월 <br/>|[KB4486691](https://support.microsoft.com/kb/4486691) <br/>|
@@ -106,6 +107,7 @@ ms.locfileid: "49601483"
 
 |**릴리스 날짜**|**KB 번호**|
 |:-----|:-----|:-----|
+|2021년 1월 <br/>|[KB4493182](https://support.microsoft.com/kb/4493182) <br/>|
 |2020년 12월 <br/>|[KB4493144](https://support.microsoft.com/kb/4493144) <br/>|
 |2020년 11월 <br/>|[KB4486739](https://support.microsoft.com/kb/4486739) <br/>|
 |2020년 10월 <br/>|[KB4486702](https://support.microsoft.com/kb/4486702) <br/>|

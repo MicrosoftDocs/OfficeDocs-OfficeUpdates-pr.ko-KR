@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 앱에 대한 반기 채널(대상 지정) 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: b10c08a3f2375ef3d11653d998f92b3df70a769d
-ms.sourcegitcommit: 96185aa6c5a06095c58b57ac36cb2800add8bea0
+ms.openlocfilehash: 71bc9b10ba52a077ba5cb20e2ab916ef7190814c
+ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "49760652"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "49837629"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>반기 기업 채널(프리뷰)의 릴리스 정보
 
@@ -23,6 +23,78 @@ ms.locfileid: "49760652"
 > [!IMPORTANT]
 > 당사는 Microsoft 365 앱에 대한 업데이트 채널을 일부 변경하고 있습니다. 여기에는 새 업데이트 채널 추가(월별 엔터프라이즈 채널) 및 기존 업데이트 채널의 이름 변경 등이 포함됩니다. 자세한 내용은 [이 문서를 참조](https://go.microsoft.com/fwlink/p/?linkid=2127441)하세요.
 
+
+## <a name="version-2008-january-12"></a>버전 2008: 1월 12일
+*버전 2008(빌드 13127.21064)*
+
+[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- 읽기 전용 책을 열면 피벗 테이블 데이터를 더 이상 새로 고칠 수 없는 문제를 해결했습니다.
+
+
+- 이 변경 사항은 다음 문제에 대한 수정 사항을 제공합니다. OneDrive 로컬 동기화 폴더에서 파일을 삽입하면 Excel "개체 삽입"에 올바른 아이콘이 표시되지 않습니다.
+
+
+- 공동 작성 시 새 파일 버전에 대한 알림을 고객이 잘못 받는 문제를 해결했습니다.
+
+
+- 덮어쓰기 모드에서 IME를 사용하면 추가 문자를 잘못 전달할 수 있는 편집 문제를 해결했습니다.
+
+
+- 다중 스레드 재호출 기능과 함께 실시간 데이터를 사용할 때 문제를 해결했습니다.
+
+
+- 특정 Windows 보안 공격 방지 설정(SimExec, 호출자 확인)을 사용 중인 경우 Excel이 예기치 않게 시작되지 않거나 닫히는 문제를 해결합니다.
+
+
+### <a name="outlook"></a>Outlook
+
+- 초안에 저장할 때 SmartLinks의 서식이 손실되는 문제를 해결했습니다.
+
+
+- 정책을 재정의할 때 사유 텍스트를 사용자 지정할 수 있는 방법을 제공하도록 문제를 해결했습니다.
+
+
+- OFT 파일로 저장하면 중국어 문자가 물음표로 변경되는 문제를 해결했습니다.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Slide.Shapes.AddMediaObject2가 레거시 비디오 형식(MPG-1, Mpeg-2)과 충돌하는 VBA 문제를 해결했습니다.
+
+
+- 문서 복구 작업 후에도 손상된 PowerPoint 파일이 올바르게 열리지 않는 문제를 해결했습니다.
+
+
+### <a name="project"></a>Project
+
+- 특정 방식으로 리소스 윤곽선이 지정된 파일을 열 때 Project가 예기치 않게 종료될 수 있는 문제를 해결했습니다.
+
+
+### <a name="skype"></a>Skype
+
+- 사용자의 TLS-DSK 인증서가 예상 시간에 갱신되지 않고 유효 기간이 12시간 미만인 경우에만 갱신되는 문제를 해결합니다.
+
+
+- Office에 대한 라이선스가 아직 없을 때 로그인 후 비즈니스용 Skype UI가 공백으로 표시되는 문제를 해결합니다.
+
+
+### <a name="office-suite"></a>Office 제품군
+
+- 이렇게 변경하면 레거시 다이어그램이 포함된 파일 열기 관련 문제가 해결됩니다.
+
+
+- 이렇게 변경하면 액세스 위반을 초래하는 SVG 예비 프록시의 문제가 해결됩니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
 
 ## <a name="version-2008-december-08"></a>버전 2008: 12월 8일
 *버전 2008(빌드 13127.20910)*
@@ -103,7 +175,7 @@ ms.locfileid: "49760652"
 
 ### <a name="visio"></a>Visio
 
-- 사용자 지정 Visio 스텐실 및 내장 템플릿 모두에 대해 Visio for Office 365의 커넥터를 사용하여 직선을 생성할 수 있는 문제를 해결했습니다.
+- 사용자 지정 Visio 스텐실 및 내장 템플릿 모두에 대해 Office 365용 Visio의 커넥터를 사용하여 직선을 생성할 수 있는 문제를 해결했습니다.
 
 
 ### <a name="word"></a>Word
@@ -123,7 +195,7 @@ ms.locfileid: "49760652"
 
 
 
-[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
 
 ## <a name="version-2008-november-10"></a>버전 2008: 11월 10일
 *버전 2008(빌드 13127.20760)*
@@ -1365,6 +1437,7 @@ ms.locfileid: "49760652"
 
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|FRDC|Insiders| |16.0.13127.21064|version-2008-january-12|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20910|version-2008-december-08|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20760|version-2008-november-10|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20638|version-2008-october-13|)
