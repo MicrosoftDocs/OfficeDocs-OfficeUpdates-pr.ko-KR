@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Microsoft 365 앱 구독자를 위한 Mac용 Office 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: ab5f18ee1b2deb738e5d3e6e55a78a5adf624585
-ms.sourcegitcommit: 1587fea5b37f632608fe67e28030d380aba6b781
+ms.openlocfilehash: 5e63a6441de32b956a7e25e6bc0026d6fd485f2a
+ms.sourcegitcommit: 38acc55545cbeccd16603b7f731dc41a26e4a5ea
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49684090"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "49863205"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac용 Office에 대한 릴리스 정보
 
@@ -50,6 +50,51 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 
 
 
+
+
+## <a name="january-13-2021"></a>2021년 1월 13일
+*버전 16.45(빌드 21011103)*
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="excel"></a>Excel
+
+- **민감도 레이블 자동 적용 또는 권장:** Office는 감지되는 중요한 콘텐츠에 기반하여 민감도 레이블을 권장하거나 자동으로 적용할 수 있습니다. [자세한 정보](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
+
+### <a name="outlook"></a>Outlook
+
+- **민감도 레이블 자동 적용 또는 권장:** Office는 감지되는 중요한 콘텐츠에 기반하여 민감도 레이블을 권장하거나 자동으로 적용할 수 있습니다. [자세한 정보](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **민감도 레이블 자동 적용 또는 권장:** Office는 감지되는 중요한 콘텐츠에 기반하여 민감도 레이블을 권장하거나 자동으로 적용할 수 있습니다. [자세한 정보](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
+
+### <a name="word"></a>Word
+
+- **민감도 레이블 자동 적용 또는 권장:** Office는 감지되는 중요한 콘텐츠에 기반하여 민감도 레이블을 권장하거나 자동으로 적용할 수 있습니다. [자세한 정보](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+
+[//]: # (보안 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+
+### <a name="security-updates"></a>보안 업데이트
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2021-1714](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2021-1714)
+-   [CVE-2021-1713](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2021-1713)
+
+### <a name="word"></a>Word
+
+-   [CVE-2021-1716](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2021-1716)
+-   [CVE-2021-1715](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2021-1715)
+
+[//]: # (보안 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
 ## <a name="december-15-2020"></a>2020년 12월 15일
 *버전 16.44(빌드 20121301)*
 
@@ -62,7 +107,7 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **슬라이드 쇼를 창 환경에서 표시:** 읽기용 보기를 사용하시면 여러 작업을 수행하고 여러 개의 창으로 된 슬라이드 쇼를 볼 수 있습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/reading-view-available-in-powerpoint-for-mac)에서 세부 정보 보기
+- **슬라이드 쇼를 창 환경에서 표시:** 읽기용 보기를 사용하시면 여러 작업을 수행하고 여러 개의 창으로 된 슬라이드 쇼를 볼 수 있습니다.<br />[블로그 게시물](https://insider.office.com/en-us/blog/reading-view-available-in-powerpoint-for-mac)에서 세부 정보 보기
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -76,17 +121,17 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 
 ### <a name="excel"></a>Excel
 
--   [CVE-2020-17123](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-17123)
--   [CVE-2020-17126](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-17126)
--   [CVE-2020-17128](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-17128)
+-   [CVE-2020-17123](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-17123)
+-   [CVE-2020-17126](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-17126)
+-   [CVE-2020-17128](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-17128)
 
 ### <a name="outlook"></a>Outlook
 
--   [CVE-2020-17119](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-17119)
+-   [CVE-2020-17119](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-17119)
 
 ### <a name="powerpoint"></a>PowerPoint
 
--   [CVE-2020-17124](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-17124)
+-   [CVE-2020-17124](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-17124)
 
 [//]: # (보안 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
@@ -112,7 +157,7 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 
 ### <a name="excel"></a>Excel
 
--   [CVE-2020-17067](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-17067)
+-   [CVE-2020-17067](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-17067)
 
 [//]: # (보안 세부 정보 콘텐츠를 제거하지 마세요 끝)
 
@@ -126,7 +171,7 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 
 - **Microsoft SQL Server에서 데이터 새로 고침:** Mac용 Microsoft SQL Server에서 파워 쿼리를 새로 고칩니다.
 
-- **수식에 사용할 변수 만들기:** LET 함수로 성능, 가독성 및 구성성을 향상시킵니다. 이 함수를 사용하면 새로운 공식 또는 기존 공식으로 명명된 변수를 작성할 수 있습니다. [자세한 정보](https://support.office.com/article/34842dd8-b92b-4d3f-b325-b8b8f9908999)<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/let-names-in-formulas-for-excel)에서 세부 정보 보기
+- **수식에 사용할 변수 만들기:** LET 함수로 성능, 가독성 및 구성성을 향상시킵니다. 이 함수를 사용하면 새로운 공식 또는 기존 공식으로 명명된 변수를 작성할 수 있습니다. [자세한 정보](https://support.office.com/article/34842dd8-b92b-4d3f-b325-b8b8f9908999)<br />[블로그 게시물](https://insider.office.com/en-us/blog/let-names-in-formulas-for-excel)에서 세부 정보 보기
 
 - **Excel에서 세련된 Visio 다이어그램 만들기:** 워크시트의 데이터를 사용하여 순서도나 조직도와 같은 데이터 기반 다이어그램을 만들 수 있습니다. [자세한 정보](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
@@ -160,15 +205,15 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 
 ### <a name="excel"></a>Excel
 
--   [CVE-2020-16929](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-16929)
+-   [CVE-2020-16929](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-16929)
 
 ### <a name="word"></a>Word
 
--   [CVE-2020-16933](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-16933)
+-   [CVE-2020-16933](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-16933)
 
 ### <a name="office-suite"></a>Office 제품군
 
--   [CVE-2020-16918](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-16918)
+-   [CVE-2020-16918](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-16918)
 
 [//]: # (보안 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
@@ -183,17 +228,17 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 
 ### <a name="excel"></a>Excel
 
--   [CVE-2020-1224](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1224)
+-   [CVE-2020-1224](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1224)
 
 ### <a name="word"></a>Word
 
--   [CVE-2020-1218](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1218)
--   [CVE-2020-1338](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1338)
+-   [CVE-2020-1218](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1218)
+-   [CVE-2020-1338](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1338)
 
 ### <a name="office-suite"></a>Office 제품군
 
--   [CVE-2020-1193](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1193)
--   [CVE-2020-16855](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-16855)
+-   [CVE-2020-1193](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1193)
+-   [CVE-2020-16855](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-16855)
 
 [//]: # (보안 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
@@ -205,7 +250,7 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 ### <a name="feature-updates"></a>기능 업데이트
 ### <a name="excel"></a>Excel
 
-- **다른 사람을 방해하지 않고 필터링 및 정렬:** Excel에서 다른 사람과 협업하면서 사용자 자신의 보기를 만들어 다른 사람이 보는 것을 방해하지 않고 필터링하고 정렬할 수 있습니다. [자세한 정보](https://support.office.com/article/0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6)<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/sheet-view-makes-collaborating-easier)에서 세부 정보 보기
+- **다른 사람을 방해하지 않고 필터링 및 정렬:** Excel에서 다른 사람과 협업하면서 사용자 자신의 보기를 만들어 다른 사람이 보는 것을 방해하지 않고 필터링하고 정렬할 수 있습니다. [자세한 정보](https://support.office.com/article/0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6)<br />[블로그 게시물](https://insider.office.com/en-us/blog/sheet-view-makes-collaborating-easier)에서 세부 정보를 참조하세요.
 
 ### <a name="outlook"></a>Outlook
 
@@ -227,13 +272,13 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 
 ### <a name="excel"></a>Excel
 
--   [CVE-2020-1495](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1495)
--   [CVE-2020-1498](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1498)
+-   [CVE-2020-1495](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1495)
+-   [CVE-2020-1498](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1498)
 
 ### <a name="word"></a>Word
 
--   [CVE-2020-1503](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1503)
--   [CVE-2020-1583](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1583)
+-   [CVE-2020-1503](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1503)
+-   [CVE-2020-1583](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1583)
 
 [//]: # (보안 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
@@ -273,14 +318,14 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 
 ### <a name="word"></a>Word
 
--   [CVE-2020-1342](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1342)
--   [CVE-2020-1445](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1445)
--   [CVE-2020-1446](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1446)
--   [CVE-2020-1447](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1447)
+-   [CVE-2020-1342](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1342)
+-   [CVE-2020-1445](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1445)
+-   [CVE-2020-1446](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1446)
+-   [CVE-2020-1447](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1447)
 
 ### <a name="office-suite"></a>Office 제품군
 
--   [CVE-2020-1409](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1409)
+-   [CVE-2020-1409](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1409)
 
 [//]: # (보안 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
@@ -292,7 +337,7 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 ### <a name="feature-updates"></a>기능 업데이트
 ### <a name="excel"></a>Excel
 
-- **사진에서 데이터 가져오기:** 사진, 삽입 탭 또는 iPhone에서 직접 테이블 데이터를 추가합니다. [자세한 정보](https://support.office.com/article/3c1bb58d-2c59-4bc0-b04a-a671a6868fd7)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/13/data-from-picture-in-excel/)에서 세부 정보 보기
+- **사진에서 데이터 가져오기:** 사진, 삽입 탭 또는 iPhone에서 직접 테이블 데이터를 추가합니다. [자세한 정보](https://support.office.com/article/3c1bb58d-2c59-4bc0-b04a-a671a6868fd7)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/13/data-from-picture-in-excel/)에서 세부 정보를 참조하세요.
 
 ### <a name="outlook"></a>Outlook
 
@@ -314,17 +359,17 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 
 ### <a name="excel"></a>Excel
 
--   [CVE-2020-1225](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1225)
--   [CVE-2020-1226](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1226)
+-   [CVE-2020-1225](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1225)
+-   [CVE-2020-1226](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1226)
 
 ### <a name="outlook"></a>Outlook
 
--   [CVE-2020-1229](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1229)
+-   [CVE-2020-1229](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1229)
 
 
 ### <a name="office-suite"></a>Office 제품군
 
--   [CVE-2020-1321](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-1321)
+-   [CVE-2020-1321](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1321)
 
 [//]: # (보안 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
@@ -340,7 +385,7 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 
 - **원하는 내용 찾기:** 검색 창을 사용하여 텍스트, 명령, 도움말 등을 찾으세요. [자세한 정보](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)에서 세부 정보를 참조하세요.
 
-- **셀을 추가하는 빠른 방법**: **클릭하여 추가 모드를 사용하도록 설정** 한 다음 =를 입력하고 일부 셀을 선택하여 셀 값을 추가하는 수식을 빠르게 만듭니다. **메뉴** > **기본 설정** > **편집** 에서 옵션을 찾습니다.  [자세한 정보](https://support.office.com/ko-KR/article/what-s-new-in-microsoft-365-95c8d81d-08ba-42c1-914f-bca4603e1426#Platform=Mac) <br />[블로그 게시물](https://blog-insider.office.com/2020/04/21/click-to-add-mode-feedback-in-action/)에서 세부 정보 보기
+- **셀을 추가하는 빠른 방법**: **클릭하여 추가 모드를 사용하도록 설정** 한 다음 =를 입력하고 일부 셀을 선택하여 셀 값을 추가하는 수식을 빠르게 만듭니다. **메뉴** > **기본 설정** > **편집** 에서 옵션을 찾습니다.  [자세한 정보](https://support.office.com/en-us/article/what-s-new-in-microsoft-365-95c8d81d-08ba-42c1-914f-bca4603e1426#Platform=Mac) <br />[블로그 게시물](https://blog-insider.office.com/2020/04/21/click-to-add-mode-feedback-in-action/)에서 세부 정보를 참조하세요.
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -348,14 +393,14 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 
 - **슬라이드에 연결:** 동료에게 슬라이드 모음에 게시하도록 요청하고 도움이 필요한 슬라이드에서 직접 시작해 보세요. [자세한 정보](https://support.office.com/article/4f5f3d5e-1674-4742-8cf1-9623050c19ef)
 
-- **원하는 내용 찾기:** 검색 창을 사용하여 텍스트, 명령, 도움말 등을 찾으세요. [자세한 정보](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)에서 세부 정보 보기
+- **원하는 내용 찾기:** 검색 창을 사용하여 텍스트, 명령, 도움말 등을 찾으세요. [자세한 정보](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)에서 세부 정보를 참조하세요.
 
 ### <a name="word"></a>Word
 
 - **핸즈 프리 입력:** 마이크가 있나요? 받아쓰기를 클릭하고 말하는 동안 Word에 입력되는 내용을 확인하세요. [자세한 정보](https://support.office.com/article/3876e05f-3fcc-418f-b8ab-db7ce0d11d3c)<br />[블로그 게시물](https://blog-insider.office.com/2020/01/24/dictate-your-documents-in-word-on-mac/)에서 세부 정보 보기
 
 
-- **원하는 내용 찾기:** 검색 창을 사용하여 텍스트, 명령, 도움말 등을 찾으세요. [자세한 정보](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)에서 세부 정보 보기
+- **원하는 내용 찾기:** 검색 창을 사용하여 텍스트, 명령, 도움말 등을 찾으세요. [자세한 정보](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)에서 세부 정보를 참조하세요.
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -369,7 +414,7 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 
 ### <a name="excel"></a>Excel
 
--   [CVE-2020-0901](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0901)
+-   [CVE-2020-0901](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0901)
 
 [//]: # (보안 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
@@ -391,7 +436,7 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 
 ### <a name="word"></a>Word
 
--   [CVE-2020-0980](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0980)
+-   [CVE-2020-0980](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0980)
 
 
 ## <a name="march-10-2020"></a>2020년 3월 10일
@@ -420,10 +465,10 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 
 ### <a name="word"></a>Word
 
--   [CVE-2020-0850](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0850)
--   [CVE-2020-0851](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0851)
--   [CVE-2020-0855](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0855)
--   [CVE-2020-0892](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0892)
+-   [CVE-2020-0850](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0850)
+-   [CVE-2020-0851](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0851)
+-   [CVE-2020-0855](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0855)
+-   [CVE-2020-0892](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0892)
 
 [//]: # (보안 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
@@ -453,7 +498,7 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 
 ### <a name="excel"></a>Excel
 
--   [CVE-2020-0759](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0759)
+-   [CVE-2020-0759](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0759)
 
 [//]: # (보안 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
@@ -489,8 +534,8 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 
 ### <a name="excel"></a>Excel
 
--   [CVE-2020-0650](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0650)
--   [CVE-2020-0651](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0651)
+-   [CVE-2020-0650](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0650)
+-   [CVE-2020-0651](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0651)
 
 [//]: # (보안 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
@@ -530,11 +575,11 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 
 ### <a name="excel"></a>Excel
 
--   [CVE-2019-1464](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1464)
+-   [CVE-2019-1464](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1464)
 
 ### <a name="powerpoint"></a>PowerPoint
 
--   [CVE-2019-1462](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1462)
+-   [CVE-2019-1462](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1462)
 
 [//]: # (보안 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
@@ -552,9 +597,9 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 
  ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
 
-- [CVE-2019-1446](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1446): Microsoft Excel 정보 노출 취약성
-- [CVE-2019-1448](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1448): Microsoft Excel 원격 코드 실행 취약성
-- [CVE-2019-1457](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1457): Microsoft Office Excel 보안 기능 바이패스
+- [CVE-2019-1446](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1446): Microsoft Excel 정보 노출 취약성
+- [CVE-2019-1448](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1448): Microsoft Excel 원격 코드 실행 취약성
+- [CVE-2019-1457](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1457): Microsoft Office Excel 보안 기능 바이패스
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 기능 업데이트
 
@@ -579,8 +624,8 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 
  ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
 
-- [CVE-2019-1327](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1327): Microsoft Excel 원격 코드 실행 취약성
-- [CVE-2019-1331](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1331): Microsoft Excel 원격 코드 실행 취약성
+- [CVE-2019-1327](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1327): Microsoft Excel 원격 코드 실행 취약성
+- [CVE-2019-1331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1331): Microsoft Excel 원격 코드 실행 취약성
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 기능 업데이트
 
@@ -621,8 +666,8 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 
  ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
 
-- [CVE-2019-1263](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1263): Microsoft Excel 정보 노출 취약성
-- [CVE-2019-1297](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1297): Microsoft Excel 원격 코드 실행 취약성
+- [CVE-2019-1263](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1263): Microsoft Excel 정보 노출 취약성
+- [CVE-2019-1297](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1297): Microsoft Excel 원격 코드 실행 취약성
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 기능 업데이트
 
@@ -638,13 +683,13 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 ### <a name="word-feature-updates"></a>Word: 기능 업데이트
 
 - **그림 스케치:** 프레젠테이션에서 Office 도형에 손으로 그린 캐주얼한 모양을 넣을 수 있습니다. [자세한 정보](https://support.office.com/article/15967a38-117b-4e36-b588-253a8c464bf0)
-- **정확하게 지우기:** 두 개의 지우개 크기 중에 선택하여 작은 잉킹 결함을 수정할 수 있습니다. [자세한 정보](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+- **정확하게 지우기:** 두 개의 지우개 크기 중에 선택하여 작은 잉킹 결함을 수정할 수 있습니다. [자세한 정보](https://support.office.com/article/6D76C674-7F4B-414D-B67F-B3FFEF6CCF53)
 - **향상된 지도 차트:** 매핑된 위치에 대한 풍부한 정보를 볼 수 있는 Excel의 지리적 데이터 유형에 통합하여 지도 차트를 더 효율적으로 만들 수 있습니다. [자세한 정보](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
 ### <a name="word-security-updates"></a>Word: 보안 업데이트
 
-- [CVE-2019-1201](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1201): Microsoft Word 원격 코드 실행 취약성
-- [CVE-2019-1205](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1205): Microsoft Word 원격 코드 실행 취약성
+- [CVE-2019-1201](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1201): Microsoft Word 원격 코드 실행 취약성
+- [CVE-2019-1205](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1205): Microsoft Word 원격 코드 실행 취약성
 
 ### <a name="excel-feature-updates"></a>Excel: 기능 업데이트
 
@@ -667,10 +712,10 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 
 ### <a name="office-suite-security-updates"></a>Office 제품군: 보안 업데이트
 
-- [CVE-2019-1148](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1148): Microsoft 그래픽 구성 요소 정보 노출 취약성
-- [CVE-2019-1149](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1149): Microsoft 그래픽 원격 코드 실행 취약성
-- [CVE-2019-1151](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1151): Microsoft 그래픽 원격 코드 실행 취약성
-- [CVE-2019-1153](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1153): Microsoft 그래픽 구성 요소 정보 노출 취약성
+- [CVE-2019-1148](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1148): Microsoft 그래픽 구성 요소 정보 노출 취약성
+- [CVE-2019-1149](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1149): Microsoft 그래픽 원격 코드 실행 취약성
+- [CVE-2019-1151](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1151): Microsoft 그래픽 원격 코드 실행 취약성
+- [CVE-2019-1153](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1153): Microsoft 그래픽 구성 요소 정보 노출 취약성
 
 
 ## <a name="july-16-2019-release"></a>2019년 7월 16일 릴리스
@@ -691,8 +736,8 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
 
-- [CVE-2019-1110](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1110): Microsoft Excel 원격 코드 실행 취약성
-- [CVE-2019-1111](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1111): Microsoft Excel 원격 코드 실행 취약성
+- [CVE-2019-1110](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1110): Microsoft Excel 원격 코드 실행 취약성
+- [CVE-2019-1111](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1111): Microsoft Excel 원격 코드 실행 취약성
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 기능 업데이트
 
 - 다양한 성능 문제가 수정되었습니다.
@@ -704,7 +749,7 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 - **읽기 창에서의 어두운 모드 지원:** 사용자가 수신하는 전자메일은 이제 어두운 환경에서 더 쉽게 볼 수 있도록 어두운 배경을 가지고 있습니다. macOS Mojave가 필요합니다. 
 ### <a name="outlook-security-updates"></a>Outlook: 보안 업데이트
 
-- [CVE-2019-1084](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1084): Microsoft Excel 정보 노출 취약성<br/><br/>
+- [CVE-2019-1084](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1084): Microsoft Excel 정보 노출 취약성<br/><br/>
 ## <a name="june-11-2019-release"></a>2019년 6월 11일 릴리스
 *버전 16.26(빌드 19060901)*
 
@@ -716,8 +761,8 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 
 ### <a name="word-security-updates"></a>Word: 보안 업데이트
 
-- [CVE-2019-1034](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1034): Microsoft Word 원격 코드 실행 취약성
-- [CVE-2019-1035](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-1035): Microsoft Word 원격 코드 실행 취약성
+- [CVE-2019-1034](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1034): Microsoft Word 원격 코드 실행 취약성
+- [CVE-2019-1035](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1035): Microsoft Word 원격 코드 실행 취약성
 
 ### <a name="excel-feature-updates"></a>Excel: 기능 업데이트
 
@@ -746,7 +791,7 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 
 |**응용 프로그램**|**업데이트**|**보안 업데이트**|**업데이트 패키지용 다운로드 링크**|
 |:-----|:-----|:-----|:-----|
-|Word  <br/><br/>|**전자 메일 첨부 파일 확인:** 전자 메일 첨부 파일은 이제 공유 탭에서 사용할 수 있습니다. |[CVE-2019-0953](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-0953): Microsoft Word 원격 코드 실행 취약성<br/>|[Word 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Word_16.25.19051201_Updater.pkg)<br/>|
+|Word  <br/><br/>|**전자 메일 첨부 파일 확인:** 전자 메일 첨부 파일은 이제 공유 탭에서 사용할 수 있습니다. |[CVE-2019-0953](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0953): Microsoft Word 원격 코드 실행 취약성<br/>|[Word 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Word_16.25.19051201_Updater.pkg)<br/>|
 |Excel<br/>|**전자 메일 첨부 파일 확인:** 전자 메일 첨부 파일은 이제 공유 탭에서 사용할 수 있습니다.<br/><br/>**공동 작성 통합 향상** : 공동 작성 기능으로 조건부 서식, 셀 스타일, 범위 보호, 눈금선 보기 및 여러 시트 잘라내기와 붙여넣기에 대한 작업을 할 때 병합 성공률이 향상되었습니다.|<br/>|[Excel 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.25.19051201_Updater.pkg)<br/>|
 |PowerPoint<br/>|**전자 메일 첨부 파일 확인:** 전자 메일 첨부 파일은 이제 공유 탭에서 사용할 수 있습니다.<br/><br/>**새로운 바로 가기로 작업을 더 빠르게:** 자르기, 앞으로 보내기/뒤로 보내기 및 목록 항목 승격/강등과 같은 작업의 바로 가기 키가 있습니다.|<br/>|[PowerPoint 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.25.19051201_Updater.pkg)<br/>|
 |Outlook  <br/>|**연락처의 가용성을 한눈에 파악** : Outlook 내 Teams에 있는 연락처의 현재 상태 정보를 볼 수 있습니다. <br/><br/>**연락처의 주요 세부 정보 표시:** 사진, 전화 번호, 전자 메일, 조직도 등을 보려면 메시지 또는 일정 이벤트에서 연락처의 이름을 선택하세요. [자세한 정보](https://support.office.com/article/cf25962a-3a3e-47be-9181-afa2e1f84b07) <br/><br/> | |[Outlook 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.25.19051201_Updater.pkg) <br/>|
@@ -780,11 +825,11 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 |**응용 프로그램**|**기능 업데이트**|**보안 업데이트**|**업데이트 패키지용 다운로드 링크**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/>|**새 Office 앱 아이콘:** Office의 간단하고 강력하며 지능적인 경험을 반영하여 다시 디자인된 응용 프로그램 아이콘. <br/><br/>**더 빠른 시작:** 사용자의 활동과 사용자 주변의 사람들이 무엇을 하는지에 기반한 추천을 얻으십시오.<br/><br/>**생동감 있는 문서 보기:** 애니메이션 3D 그래픽을 삽입하여 페이지에 심장 박동, 행성 궤도, 공룡 난동 모습을 표시합니다. [자세한 정보](https://support.office.com/article/6f08009a-3da5-400d-a706-8e23f304cd72)<br/>|<br/><br/> |[Word 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.24.19041401_Updater.pkg) <br/>|
-|Excel  <br/>|**새 Office 앱 아이콘:** Office의 간단하고 강력하며 지능적인 경험을 반영하여 다시 디자인된 응용 프로그램 아이콘.<br/> <br/>**모든 매크로 사용자 호출:** 상대 참조를 사용하여 매크로를 기록합니다. 이를 재생하는 경우, 기록하는 데 사용된 셀이 아닌 활성 셀에서 작동합니다. [자세한 정보](https://support.office.com/article/f0cac51a-7449-4d6d-bb10-24561edbc785)<br/><br/>**쉽게 접근할 수 있는 자주 사용하는 명령:** 찾기 및 검색, 선택 영역 확대/축소, 모두 정렬 등과 같은 일반적인 작업에 신속하고 간편하게 접근할 수 있습니다. 리본에서 찾기 [자세한 정보](https://support.office.com/article/22db33e7-3e10-4406-9cad-ad9f2ce4f642)<br/><br/>**더 빠른 시작:** 사용자의 활동과 사용자 주변의 사람들이 무엇을 하는지에 기반한 추천을 얻으십시오.<br/><br/>**생동감 있는 워크시트 보기:** 애니메이션 3D 그래픽을 삽입하여 워크북을 통해 심장 박동, 행성 궤도, 공룡 난동 모습 등을 표시합니다. [자세한 정보](https://support.office.com/article/6f08009a-3da5-400d-a706-8e23f304cd72)|[CVE-2019-0828](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-0828): Microsoft Excel 원격 코드 실행 취약성 |[Excel 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.24.19041401_Updater.pkg) <br/>|
+|Excel  <br/>|**새 Office 앱 아이콘:** Office의 간단하고 강력하며 지능적인 경험을 반영하여 다시 디자인된 응용 프로그램 아이콘.<br/> <br/>**모든 매크로 사용자 호출:** 상대 참조를 사용하여 매크로를 기록합니다. 이를 재생하는 경우, 기록하는 데 사용된 셀이 아닌 활성 셀에서 작동합니다. [자세한 정보](https://support.office.com/article/f0cac51a-7449-4d6d-bb10-24561edbc785)<br/><br/>**쉽게 접근할 수 있는 자주 사용하는 명령:** 찾기 및 검색, 선택 영역 확대/축소, 모두 정렬 등과 같은 일반적인 작업에 신속하고 간편하게 접근할 수 있습니다. 리본에서 찾기 [자세한 정보](https://support.office.com/article/22db33e7-3e10-4406-9cad-ad9f2ce4f642)<br/><br/>**더 빠른 시작:** 사용자의 활동과 사용자 주변의 사람들이 무엇을 하는지에 기반한 추천을 얻으십시오.<br/><br/>**생동감 있는 워크시트 보기:** 애니메이션 3D 그래픽을 삽입하여 워크북을 통해 심장 박동, 행성 궤도, 공룡 난동 모습 등을 표시합니다. [자세한 정보](https://support.office.com/article/6f08009a-3da5-400d-a706-8e23f304cd72)|[CVE-2019-0828](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0828): Microsoft Excel 원격 코드 실행 취약성 |[Excel 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.24.19041401_Updater.pkg) <br/>|
 |PowerPoint  <br/>|**새 Office 앱 아이콘:** Office의 간단하고 강력하며 지능적인 경험을 반영하여 다시 디자인된 응용 프로그램 아이콘.<br/><br/>**더 빠른 시작:** 사용자의 활동과 사용자 주변의 사람들이 무엇을 하는지에 기반한 추천을 얻으십시오.<br/><br/>**포함된 미디어를 간편하게 저장:** Ctrl + 클릭만으로 오디오와 비디오를 저장합니다. [자세한 정보](https://support.office.com/article/F773D119-0FB3-4884-A18A-29573AC97B25)<br/><br/>**생동감 있는 슬라이드 보기:** 화면에서 애니메이션 3D 그래픽을 삽입하여 심장 박동, 행성 궤도 및 공룡 난동 모습을 표시합니다. [자세한 정보](https://support.office.com/article/6f08009a-3da5-400d-a706-8e23f304cd72)| |[PowerPoint 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.24.19041401_Updater.pkg) <br/>|
 |Outlook  <br/>|**새 Office 앱 아이콘:** Office의 간단하고 강력하며 지능적인 경험을 반영하여 다시 디자인된 응용 프로그램 아이콘. <br/><br/>**안전한 링크:** ATP(고급 위협 방지) 안전 링크 지원.  ||[Outlook 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.24.19041401_Updater.pkg) <br/>|
 |Microsoft 자동 업데이트 4.10<br/>|**설치시 복제 기능향상:** SSD 장치의 경우, 사용 중인 앱의 복제에 관한 업데이트 공개하므로 업데이트로 인한 앱 가동 중지 시간이 줄어듭니다. <br/><br/>**설치 최적화:** 업데이트 프로세스에서 병렬화된 복제를 사용하므로, 업데이트로 인한 앱 가동 중지 시간이 줄어듭니다.|<br/> | [Microsoft 자동 업데이트의 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.10.19041401_Updater.pkg)<br/>|
-|Office 제품군  <br/><br/>| |[CVE-2019-0822](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-0822) Microsoft 그래픽 구성 요소 원격 코드 실행 취약성<br/><br/>|<br/>|
+|Office 제품군  <br/><br/>| |[CVE-2019-0822](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0822) Microsoft 그래픽 구성 요소 원격 코드 실행 취약성<br/><br/>|<br/>|
 
 
 
@@ -847,7 +892,7 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 |**응용 프로그램**|**기능 업데이트**|**보안 업데이트**|**업데이트 패키지용 다운로드 링크**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/>| **트랙 패드를 사용하여 스케치:** 트랙 패드 위에서 손가락을 움직여 화면에 표시되는 잉크 흐름을 관찰하세요. [자세한 정보](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/>**이미지를 액세스 가능하게 만들기:** 그림을 삽입하면 시각 장애를 가진 사용자가 읽을 수 있도록 Office가 캡션을 제안합니다. | |[Word 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.22.19021100_Updater.pkg) <br/>|
-|Excel  <br/>| **트랙 패드를 사용하여 스케치:** 트랙 패드 위에서 손가락을 움직여 화면에 표시되는 잉크 흐름을 관찰하세요. [자세한 정보](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/>  | [CVE-2019-0669](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-0669) <br/><br/>  |[Excel 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.22.19021100_Updater.pkg) <br/>|
+|Excel  <br/>| **트랙 패드를 사용하여 스케치:** 트랙 패드 위에서 손가락을 움직여 화면에 표시되는 잉크 흐름을 관찰하세요. [자세한 정보](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/>  | [CVE-2019-0669](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0669) <br/><br/>  |[Excel 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.22.19021100_Updater.pkg) <br/>|
 |PowerPoint  <br/>| **트랙 패드를 사용하여 스케치:** 트랙 패드 위에서 손가락을 움직여 화면에 표시되는 잉크 흐름을 관찰하세요. [자세한 정보](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/>**생생한 색상의 하이퍼링크:** 이제 파란색 외의 다양한 색상으로 하이퍼링크를 표시할 수 있습니다. 원하는 글꼴 색을 적용해 보세요. [자세한 정보](https://support.office.com/article/988ed94c-82e9-4e2c-96a1-7ffd2c382ce8) | <br/>|[PowerPoint 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.22.19021100_Updater.pkg) <br/>|
 |Outlook  <br/>|  <br/><br/>  ||[Outlook 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.22.19021100_Updater.pkg) <br/>|
 |Microsoft 자동 업데이트 4.7 <br/>| <br/>|<br/> | [Microsoft 자동 업데이트의 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.7.19011500_Updater.pkg)|
@@ -883,7 +928,7 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 
 |**응용 프로그램**|**기능 업데이트**|**보안 업데이트**|**업데이트 패키지용 다운로드 링크**|
 |:-----|:-----|:-----|:-----|
-|Word  <br/>| **iPhone에서 즉시 Word로:** Apple 연속성 카메라를 사용하여 iPhone에서 문서에 삽입합니다. MacOS Mojave가 필요합니다. [자세히 알아보기](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> **문서에 민감도 레이블 적용:** 조직의 정보 보호 정책을 항상 준수하기 위해 문서에 민감도 레이블을 적용합니다.[자세히 알아보기](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9)<br/><br/>**필터가 적용된 SVG 삽입:** Office 사용자는 이제 필터가 적용된 SVG를 삽입할 수 있습니다. [자세히 알아보기](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>| [CVE-2019-0561](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-0561): Microsoft Word 정보 노출 취약성  <br/><br/> [CVE-2019-0585](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-0585): Microsoft Word 원격 코드 실행 취약성 |[Word 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.21.19011500_Updater.pkg) <br/>|
+|Word  <br/>| **iPhone에서 즉시 Word로:** Apple 연속성 카메라를 사용하여 iPhone에서 문서에 삽입합니다. MacOS Mojave가 필요합니다. [자세히 알아보기](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> **문서에 민감도 레이블 적용:** 조직의 정보 보호 정책을 항상 준수하기 위해 문서에 민감도 레이블을 적용합니다.[자세히 알아보기](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9)<br/><br/>**필터가 적용된 SVG 삽입:** Office 사용자는 이제 필터가 적용된 SVG를 삽입할 수 있습니다. [자세히 알아보기](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>| [CVE-2019-0561](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0561): Microsoft Word 정보 노출 취약성  <br/><br/> [CVE-2019-0585](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0585): Microsoft Word 원격 코드 실행 취약성 |[Word 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.21.19011500_Updater.pkg) <br/>|
 |Excel  <br/>| **메모를 사용하여 공동 작업:** 기본 제공 회신 상자를 사용하여 스프레드시트에서 바로 대화를 진행합니다. [자세히 알아보기](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8)<br/><br/> **워크시트에 민감도 레이블 적용:** 조직의 정보 보호 정책을 항상 준수하기 위해 워크시트에 민감도 레이블을 적용합니다.[자세히 알아보기](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>**필터가 적용된 SVG 삽입:** Office 사용자는 이제 필터가 적용된 SVG를 삽입할 수 있습니다. [자세히 알아보기](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**SVG 지원:** 시각적 효과를 추가하려면 통합 문서에 SVG를 삽입하고 편집합니다. [자세한 정보](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**히스토그램, 폭포, 트리맵, 선버스트, 깔때기형 및 지도 차트의 추가 서식 옵션:** 서식 창을 사용하여 새 차트 종류의 서식 옵션을 더 세밀하게 제어할 수 있습니다.|[Excel 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.21.19011500_Updater.pkg) <br/>|
 |PowerPoint  <br/>| **유인물에 슬라이드 번호 인쇄:** 프레젠테이션을 유인물로 인쇄하면 각 슬라이드의 번호가 함께 표시됩니다. <br/><br/> **프레젠테이션에 민감도 레이블 적용:** 조직의 정보 보호 정책을 항상 준수하기 위해 프레젠테이션에 민감도 레이블을 적용합니다.[자세히 알아보기](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9)<br/><br/>**필터가 적용된 SVG 삽입:** Office 사용자는 이제 필터가 적용된 SVG를 삽입할 수 있습니다. [자세히 알아보기](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**글꼴의 하위 집합 포함:** 이제 프레젠테이션에서 사용한 문자만 포함할 수 있습니다.  [자세한 정보](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3)|[PowerPoint 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.21.19011500_Updater.pkg) <br/>|
 |Outlook  <br/>| **메시지에 민감도 레이블 적용:** 조직의 정보 보호 정책을 항상 준수하기 위해 메시지에 민감도 레이블을 적용합니다.[자세히 알아보기](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>**필터가 적용된 SVG 삽입:** Office 사용자는 이제 필터가 적용된 SVG를 삽입할 수 있습니다. [자세히 알아보기](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**현재 사서함에서 빠르게 메일 찾기:** 검색 상자를 선택하여 최근 검색 기록을 바탕으로 신속하게 제안합니다. 입력할 필요가 없습니다. [자세한 정보](https://support.office.com/article/53b60f65-25b7-4582-9c5e-4adf16e503a1)<br/><br/>**Gmail 계정을 더 쉽게 추가하기:** 보안 개선으로 더 이상 “덜 안전한 앱”에 대한 액세스를 허용하거나 Outlook에 Gmail 계정을 추가하기 위해 앱 암호를 설정할 필요가 없습니다. <br/><br/>**Mac 용 Outlook에서 검색어 강조 표시:** 단어나 이름을 검색하면서 Outlook이 항목 목록이나 미리 보기 창에 검색 용어를 강조 표시하기를 바란 적이 있으세요? 이제 여기에 나와 있으니 더 이상 궁금해하지 않아도 됩니다.||[Outlook 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.21.19011500_Updater.pkg) <br/>|
@@ -904,8 +949,8 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 |**응용 프로그램**|**기능 업데이트**|**보안 업데이트**|**업데이트 패키지용 다운로드 링크**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/>| **어두운 모드를 사용하여 눈에 편안함을 주기:** 어두운 배경은 빛이 약한 환경에서 눈에 더 편안합니다. MacOS Mojave가 필요합니다. <br/><br/>  **텍스트의 모양을 유지:** 글꼴을 포함하여 모든 컴퓨터에서 문서의 텍스트 모양이 같도록 합니다. 더는 당황하지 않아도 됩니다. [자세히 알아보기](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/><br/>**문서에 포함된 글꼴 보기:** 파일에 포함 된 글꼴을 Mac Word에서 렌더링할 수 있습니다.<br/><br/>**포커스 모드 호출 가능 상태 표시줄:** 포커스 모드에서는 호출 가능한 상태 표시줄을 사용하여 간편하게 단어 개수를 확인하고 확대/축소 배율에 액세스할 수 있습니다.<br/><br/>**포커스 모드로 더 많은 것을 얻으세요:** 보내주신 의견을 반영했습니다. 이제 확대/축소 수준 설정 시 포커스 모드가 열리며 또한 스크롤하는 동안 페이지 번호가 표시됩니다.| |[Word 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.20.18120801_Updater.pkg) <br/>|
-|Excel  <br/>|  **어두운 모드를 사용하여 눈에 편안함을 주기:** 어두운 배경은 빛이 약한 환경에서 눈에 더 편안합니다. MacOS Mojave가 필요합니다. <br/><br/> | [CVE-2018-8597](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8597): Microsoft Excel 원격 코드 실행 취약성 <br/><br/> [CVE-2018-8627](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8627): Microsoft Excel 정보 노출 취약성 |[Excel 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.20.18120801_Updater.pkg) <br/>|
-|PowerPoint  <br/>| **어두운 모드를 사용하여 눈에 편안함을 주기:** 어두운 배경은 빛이 약한 환경에서 눈에 더 편안합니다. MacOS Mojave가 필요합니다. <br/><br/>  **iPhone에서 즉시 PowerPoint로:** Apple 연속성 카메라를 사용하여 iPhone에서 사진을 슬라이드에 삽입합니다. MacOS Mojave가 필요합니다. [자세히 알아보기](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> |[CVE-2018-8628](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8628): Microsoft PowerPoint 원격 코드 실행 취약성 <br/>|[PowerPoint 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.20.18120801_Updater.pkg) <br/>|
+|Excel  <br/>|  **어두운 모드를 사용하여 눈에 편안함을 주기:** 어두운 배경은 빛이 약한 환경에서 눈에 더 편안합니다. MacOS Mojave가 필요합니다. <br/><br/> | [CVE-2018-8597](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8597): Microsoft Excel 원격 코드 실행 취약성 <br/><br/> [CVE-2018-8627](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8627): Microsoft Excel 정보 노출 취약성 |[Excel 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.20.18120801_Updater.pkg) <br/>|
+|PowerPoint  <br/>| **어두운 모드를 사용하여 눈에 편안함을 주기:** 어두운 배경은 빛이 약한 환경에서 눈에 더 편안합니다. MacOS Mojave가 필요합니다. <br/><br/>  **iPhone에서 즉시 PowerPoint로:** Apple 연속성 카메라를 사용하여 iPhone에서 사진을 슬라이드에 삽입합니다. MacOS Mojave가 필요합니다. [자세히 알아보기](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> |[CVE-2018-8628](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8628): Microsoft PowerPoint 원격 코드 실행 취약성 <br/>|[PowerPoint 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.20.18120801_Updater.pkg) <br/>|
 |Outlook  <br/>|  **어두운 모드를 사용하여 눈에 편안함을 주기:** 어두운 배경은 빛이 약한 환경에서 눈에 더 편안합니다. MacOS Mojave가 필요합니다. <br/><br/>  **일정 공유:** 가족과 친과, 동료와 캘린더를 공유합니다. Mac, PC 또는 클라우드 버전의 Outlook에서 공유된 캘린더를 엽니다. [자세히 알아보기](https://support.office.com/article/365-b576ecc3-0945-4d75-85f1-5efafb8a37b4) <br/><br/> **모임 전달 해제:** 참석자가 모임을 다른 사람에게 전달하지 못하도록 합니다. [잫자세히 알아보기](https://support.office.com/article/8cd354e5-b319-403e-8dd2-88b8ee89b4dd) <br/><br/> **팀을 사용하여 모임에 연결:** 원격 팀과 함께 작업하세요? Outlook에서 팀을 사용하여 모임을 예약하고 온라인으로 참여합니다. [자세히 알아보기](https://support.office.com/article/883cc15c-580f-441a-92ea-0992c00a9b0f) <br/><br/>**모임에 참여하는 사람 알아보기:** 캘린더에 있는 모든 모임 또는 이벤트를 클릭하여 누가 참여할 계획인지 알아봅니다.<br/><br/> **세 가지 표준 시간대 보기:** 표준 시간대가 다른 지역 간에 모임을 예약해야 하나요? 여러 표준 시간대를 캘린더에 추가하여 모든 사람의 가용성을 쉽게 확인하고 모두가 참여할 수 있는 시간을 선택할 수 있습니다. [자세히 알아보기](https://support.office.com/article/938d9db9-14ae-4203-ab91-b2d183429382)<br/><br/>  ||[Outlook 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.20.18120801_Updater.pkg) <br/>|
 |Microsoft 자동 업데이트 4.6 <br/>| SHA-1 대신 SHA-256 해시를 포함하도록 업데이트된 보안 카탈로그 <br/>|<br/> | [Microsoft 자동 업데이트의 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.6.18120801_Updater.pkg)|
 |Office 제품군  <br/>|**새로운 모습의 리본 아이콘:** 모든 기능은 동일하니 걱정하지 마세요. 또한 모든 아이콘은 모든 크기의 화면에서 멋지게 보입니다. [자세한 정보](https://support.office.com/article/a6cdf19a-b2bd-4be1-9515-d74a37aa59bf)<br/><br/>**업데이트된 대체 텍스트 창:** 유용한 캡션을 추가하거나 요소를 장식용으로 표시하여 콘텐츠의 접근성을 높일 수 있습니다. |<br/>||
@@ -922,7 +967,7 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 |**응용 프로그램**|**기능 업데이트**|**보안 업데이트**|**업데이트 패키지용 다운로드 링크**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/>| **그림이 필요한가요?** Office 앱의 웹에서 그림을 검색합니다. 삽입 > 온라인 그림을 선택하여 시작하세요. [자세히 알아보기](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d) <br/><br/>  **파일 이름 안에 있는 것은? 편리한 도구:** 파일 이름을 클릭하여 신속하게 이동하거나 이름을 바꾸거나 클라우드 문서의 버전 기록을 찾아보세요. [자세히 알아보기](https://support.office.com/article/baea7aab-760b-4ee0-af58-06e940d505a4) <br/><br/>||[Word 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.19.18110915_Updater.pkg) <br/>|
-|Excel  <br/>| **그림이 필요한가요?** Office 앱의 웹에서 그림을 검색합니다. 삽입 > 온라인 그림을 선택하여 시작하세요. [자세히 알아보기](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d) <br/><br/> **파일 이름 안에 있는 것은? 편리한 도구:** 파일 이름을 클릭하여 신속하게 이동하거나 이름을 바꾸거나 클라우드 문서의 버전 기록을 찾아보세요. [자세히 알아보기](https://support.office.com/article/baea7aab-760b-4ee0-af58-06e940d505a4) <br/><br/>|[CVE-2018-8574](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8574): Microsoft Excel 원격 코드 실행 취약성 <br/>[CVE-2018-8577](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8577): Microsoft Excel 원격 코드 실행 취약성 <br/><br/>|[Excel 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.19.18110915_Updater.pkg) <br/>|
+|Excel  <br/>| **그림이 필요한가요?** Office 앱의 웹에서 그림을 검색합니다. 삽입 > 온라인 그림을 선택하여 시작하세요. [자세히 알아보기](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d) <br/><br/> **파일 이름 안에 있는 것은? 편리한 도구:** 파일 이름을 클릭하여 신속하게 이동하거나 이름을 바꾸거나 클라우드 문서의 버전 기록을 찾아보세요. [자세히 알아보기](https://support.office.com/article/baea7aab-760b-4ee0-af58-06e940d505a4) <br/><br/>|[CVE-2018-8574](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8574): Microsoft Excel 원격 코드 실행 취약성 <br/>[CVE-2018-8577](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8577): Microsoft Excel 원격 코드 실행 취약성 <br/><br/>|[Excel 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.19.18110915_Updater.pkg) <br/>|
 |PowerPoint  <br/>| **그림이 필요한가요?** Office 앱의 웹에서 그림을 검색합니다. 삽입 > 온라인 그림을 선택하여 시작하세요. [자세히 알아보기](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d) <br/><br/> **파일 이름 안에 있는 것은? 편리한 도구:** 파일 이름을 클릭하여 신속하게 이동하거나 이름을 바꾸거나 클라우드 문서의 버전 기록을 찾아보세요. [자세히 알아보기](https://support.office.com/article/baea7aab-760b-4ee0-af58-06e940d505a4) <br/><br/> **확대/축소 - 직선적이지 않은 방식으로 콘텐츠 보여주기:** 요약 확대/축소를 사용하여 대화형 목차를 만들거나 슬라이드 확대/축소 및 구역 확대/축소를 통해 특정 슬라이드와 구역으로 점프합니다. [자세히 알아보기](https://support.office.com/article/9d6c58cd-2125-4d29-86b1-0097c7dc47d7)  <br/><br/> **오디오 내레이션과 함께 비디오로 내보내기:** 이제 오디오 내레이션이 비디오에 포함됩니다. ||[PowerPoint 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.19.18110915_Updater.pkg) <br/>|
 |Outlook  <br/>| **더 쉬워진 이메일 암호화:** 이제 조직 내외부에서 암호화된 이메일을 보내기가 더 쉽게 암호화 단추에 암호화 필수 옵션이 포함됩니다.  [자세히 알아보기](https://support.office.com/article/a18ecf7f-a7ac-4edd-b02e-687b05eff547) <br/><br/> ||[Outlook 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.19.18110915_Updater.pkg) <br/>|
 |Office 제품군  <br/>| |<br/>||
@@ -942,7 +987,7 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 |Excel  <br/>|**메모를 사용하여 공동 작업:** 기본 제공 회신 상자를 사용하여 스프레드시트에서 바로 대화를 진행합니다. [자세히 알아보기](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8 ) <br/> <br/>  **자동 완성의 "자동" 기능 강화:** 수식을 입력하면 유용한 자동 완성 메뉴가 나타나며 선택 가능한 인수 옵션을 표시합니다.  <br/><br/> **더욱 향상된 VoiceOver 탐색:** Excel에서 VoiceOver를 사용하려면? VO + U를 눌러 시트에서 시트로 이동합니다. macOS Trackpad Commander를 사용하여 이동할 수도 있습니다. <br/> ||[Excel 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.18.18101400_Updater.pkg) <br/>|
 |PowerPoint  <br/>|**이미지를 액세스 가능하게 만들기:** 그림을 삽입하면 시각 장애를 가진 사용자가 읽을 수 있도록 Office가 캡션을 제안합니다.  <br/><br/> **애니메이션 트리거 기능:** 요청이 많았던 기능입니다. 애니메이션 트리거는 이제 Windows 밖에서도 사용 가능합니다. 애니메이션 탭에서 해당 기능을 찾아보세요. [자세히 알아보기](https://support.office.com/article/651726d6-9454-4bfd-b8e5-11d84767a6da) <br/><br/> ||[PowerPoint 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.18.18101400_Updater.pkg) <br/>|
 |Outlook  <br/>|**향상 된 검색:** 상자를 선택하면 최근 검색 기록에 따라 빠르게 단어를 제안합니다. 입력이 필요 없습니다.  [자세히 알아보기](https://support.office.com/article/53b60f65-25b7-4582-9c5e-4adf16e503a1) <br/><br/> ||[Outlook 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.18.18101400_Updater.pkg) <br/>|
-|Office 제품군  <br/>| |[CVE-2018-8432](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8432) Microsoft 그래픽 구성 요소 원격 코드 실행 취약성 <br/>||
+|Office 제품군  <br/>| |[CVE-2018-8432](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8432) Microsoft 그래픽 구성 요소 원격 코드 실행 취약성 <br/>||
 
 
 ## <a name="september-2018-release"></a>2018년 9월 릴리스
@@ -956,11 +1001,11 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 |**응용 프로그램**|**기능 업데이트**|**보안 업데이트**|**업데이트 패키지용 다운로드 링크**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/> |<br/>**잉크로 그리기:** 마우스 또는 터치 패드와 그리기 탭의 펜을 사용하여 글을 쓰고 그림을 그리고 강조 표시합니다. [자세히 알아보기](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/>**3D 모델을 삽입하여 모든 각도 보기:** 3D 모델을 쉽게 삽입하고 360도까지 회전합니다. [자세히 알아보기](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/>||[Word 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.17.18090901_Updater.pkg) <br/>|
-|Excel  <br/> |**잉크로 그리기:** 마우스 또는 터치 패드와 그리기 탭의 펜을 사용하여 글을 쓰고 그림을 그리고 강조 표시합니다. [자세히 알아보기](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**3D 모델을 삽입하여 모든 각도 보기:** 3D 모델을 쉽게 삽입하고 360도까지 회전합니다. [자세히 알아보기](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**사용자 지정 바로 가기 키 복원:** 여러분의 의견을 반영했습니다. 요구에 응해 사용자 지정 바로 가기 키를 복원했습니다. [자세히 알아보기](https://support.office.com/article/6bbeb90e-96d9-4e03-b199-fc026ebdc321) <br/>|[CVE-2018-8429](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8429): Microsoft Excel 정보 노출 취약성 <br/><br/>[CVE-2018-8331](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8331): Microsoft Excel 원격 코드 실행 취약성 <br/>  |[Excel 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.17.18090901_Updater.pkg) <br/>|
+|Excel  <br/> |**잉크로 그리기:** 마우스 또는 터치 패드와 그리기 탭의 펜을 사용하여 글을 쓰고 그림을 그리고 강조 표시합니다. [자세히 알아보기](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**3D 모델을 삽입하여 모든 각도 보기:** 3D 모델을 쉽게 삽입하고 360도까지 회전합니다. [자세히 알아보기](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**사용자 지정 바로 가기 키 복원:** 여러분의 의견을 반영했습니다. 요구에 응해 사용자 지정 바로 가기 키를 복원했습니다. [자세히 알아보기](https://support.office.com/article/6bbeb90e-96d9-4e03-b199-fc026ebdc321) <br/>|[CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429): Microsoft Excel 정보 노출 취약성 <br/><br/>[CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331): Microsoft Excel 원격 코드 실행 취약성 <br/>  |[Excel 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.17.18090901_Updater.pkg) <br/>|
 |PowerPoint  <br/> |<br/>**잉크로 그리기:** 마우스 또는 터치 패드와 그리기 탭의 펜을 사용하여 글을 쓰고 그림을 그리고 강조 표시합니다.[자세히 알아보기](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**3D 모델을 삽입하여 모든 각도 보기:** 3D 모델을 쉽게 삽입하고 360도까지 회전합니다. [자세히 알아보기](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**선택한 글꼴을 그대로 표시:** 파일에 사용자 지정 글꼴을 포함시켜 파일이 어디로 가든 폰트도 항상 따라갑니다. [자세히 알아보기](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/>||[PowerPoint 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.17.18090901_Updater.pkg) <br/>|
 |Outlook  <br/> |||[Outlook 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.17.18090901_Updater.pkg) <br/>|
 |Microsoft 자동 업데이트 4.3  <br/> |||| 
-|Office 제품군  <br/> ||[CVE-2018-8332](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8332): Microsoft 그래픽 원격 코드 취약성 <br/>||
+|Office 제품군  <br/> ||[CVE-2018-8332](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332): Microsoft 그래픽 원격 코드 취약성 <br/>||
 
 ## <a name="august-2018-release"></a>2018년 8월 릴리스
 
@@ -973,10 +1018,10 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 |**응용 프로그램**|**기능 업데이트**|**보안 업데이트**|**업데이트 패키지용 다운로드 링크**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/> |||[Word 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.16.18081201_Updater.pkg) <br/>|
-|Excel  <br/> ||[CVE-2018-8375](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8375): Microsoft Excel 원격 코드 실행 취약성  <br/>[CVE-2018-8382](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8382): Microsoft Excel 정보 노출 취약성  <br/>  |[Excel 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.16.18081402_Updater.pkg) <br/>|
+|Excel  <br/> ||[CVE-2018-8375](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8375): Microsoft Excel 원격 코드 실행 취약성  <br/>[CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382): Microsoft Excel 정보 노출 취약성  <br/>  |[Excel 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.16.18081402_Updater.pkg) <br/>|
 |PowerPoint  <br/> |||[PowerPoint 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.16.18081201_Updater.pkg) <br/>|
 |Outlook  <br/> |||[Outlook 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.16.18081201_Updater.pkg) <br/>|
-|Microsoft 자동 업데이트 4.2  <br/> ||[CVE-2018-8412](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8412): Microsoft 자동 업데이트 Office 권한 상승 취약성  <br/>| | 
+|Microsoft 자동 업데이트 4.2  <br/> ||[CVE-2018-8412](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8412): Microsoft 자동 업데이트 Office 권한 상승 취약성  <br/>| | 
 |Office 제품군  <br/> ||||
 
 ## <a name="july-2018-release"></a>2018년 7월 릴리스
@@ -994,7 +1039,7 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 |PowerPoint  <br/> |**비디오로 생동감 주기:** YouTube 비디오를 사용하여 슬라이드에 라이브 동작을 추가한 후 앱을 빠져 나가지 않고도 볼 수 있습니다. [자세히 알아보기](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db=Office_2016_for_Mac) <br/> ||[PowerPoint 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.15.18070902_Updater.pkg) <br/>|
 |Outlook  <br/> |**Google 계정 보안 향상:** 보안 향상으로 더 이상 “안전하지 않은 앱”의 액세스를 허용하거나 Outlook에 Google 계정을 추가하기 위해 앱 비밀번호를 설정할 필요가 없습니다. [자세한 정보](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b=Office_2016_for_Mac) <br/> ||[Outlook 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.15.18070902_Updater.pkg) <br/>|
 |Microsoft 자동 업데이트 4.1  <br/> |Aria SDK 8.4로 업데이트됩니다. 메모리 누수 문제가 해결됩니다.<br/><br/>앱 등록으로 변경됩니다. 이제 Office 2019 미리 보기가 지원됩니다.|| | 
-|Office 제품군  <br/> ||[CVE-2018-8281](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8281): Microsoft Office 원격 코드 실행 취약성  <br/> ||
+|Office 제품군  <br/> ||[CVE-2018-8281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8281): Microsoft Office 원격 코드 실행 취약성  <br/> ||
 
 
 ## <a name="june-2018-release"></a>2018년 6월 릴리스
@@ -1052,8 +1097,8 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 |**응용 프로그램**|**기능 업데이트**|**보안 업데이트**|**업데이트 패키지용 다운로드 링크**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/> |**편집하는 동안 공동 작성자와 채팅:** Word를 종료하지 않고도 공동 작성자와 채팅하여 더욱 효율적으로 공동 작업을 할 수 있습니다. [자세한 정보](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd.aspx) <br/><br/> **아이콘 삽입 및 편집:** 500개 아이콘 중 하나를 삽입하고 편집하여 아이콘으로 문서에 시각적 효과를 줄 수 있습니다. [자세한 정보](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79) <br/><br/> **LinkedIn의 도움을 받아 최상의 이력서 또는 CV 작성:** 이력서 도우미에는 지정된 직책에 대한 경력 사항, 주요 기술 등이 표시됩니다. 검토 탭에서 찾아보세요. [자세한 정보](https://support.office.com/article/444ff6f0-ef74-4a9c-9091-ffd7a9d1917a.aspx)<br/> <br/> **기본 제공된 접근성:** 키보드를 사용하여 리본에 빠르게 액세스하고 방금 삽입한 단어 또는 그림에 서식을 적용할 수 있습니다.  <br/> |||
-|Excel  <br/> |**편집하는 동안 공동 작성자와 채팅:** Excel을 종료하지 않고도 공동 작성자와 채팅하여 더욱 효율적으로 공동 작업을 할 수 있습니다. [자세한 정보](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd.aspx) <br/><br/> **아이콘 삽입 및 편집:** 500개 아이콘 중 하나를 삽입하고 편집하여 아이콘으로 통합 문서에 시각적 효과를 줄 수 있습니다. [자세한 정보](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79) <br/> <br/>**시간 표시 막대를 사용하여 데이터 필터링:** 쉽게 시간 표시 막대 필터로 날짜 범위를 이동하여 피벗 테이블을 쉽게 필터링할 수 있습니다. [자세한 정보](https://support.office.com/article/d3956083-01be-408c-906d-6fc99d9fadfa) <br/> |[CVE-2018-8147](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8147): Microsoft Excel 원격 코드 실행 취약성   <br/><br/> [CVE-2018-8162](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8162): Microsoft Excel 원격 코드 실행 취약성  <br/> ||
-|PowerPoint  <br/> |**편집하는 동안 공동 작성자와 채팅:** PowerPoint를 종료하지 않고도 공동 작성자와 채팅하여 더욱 효율적으로 공동 작업을 할 수 있습니다. [자세한 정보](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd.aspx) <br/> <br/>**아이콘 삽입 및 편집:** 500개 아이콘 중 하나를 삽입하고 편집하여 아이콘으로 프레젠테이션에 시각적 효과를 줄 수 있습니다. [자세한 정보](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79) <br/> |[CVE-2018-8176](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8176): PowerPoint 원격 코드 실행 취약성  <br/> ||
+|Excel  <br/> |**편집하는 동안 공동 작성자와 채팅:** Excel을 종료하지 않고도 공동 작성자와 채팅하여 더욱 효율적으로 공동 작업을 할 수 있습니다. [자세한 정보](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd.aspx) <br/><br/> **아이콘 삽입 및 편집:** 500개 아이콘 중 하나를 삽입하고 편집하여 아이콘으로 통합 문서에 시각적 효과를 줄 수 있습니다. [자세한 정보](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79) <br/> <br/>**시간 표시 막대를 사용하여 데이터 필터링:** 쉽게 시간 표시 막대 필터로 날짜 범위를 이동하여 피벗 테이블을 쉽게 필터링할 수 있습니다. [자세한 정보](https://support.office.com/article/d3956083-01be-408c-906d-6fc99d9fadfa) <br/> |[CVE-2018-8147](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8147): Microsoft Excel 원격 코드 실행 취약성   <br/><br/> [CVE-2018-8162](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8162): Microsoft Excel 원격 코드 실행 취약성  <br/> ||
+|PowerPoint  <br/> |**편집하는 동안 공동 작성자와 채팅:** PowerPoint를 종료하지 않고도 공동 작성자와 채팅하여 더욱 효율적으로 공동 작업을 할 수 있습니다. [자세한 정보](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd.aspx) <br/> <br/>**아이콘 삽입 및 편집:** 500개 아이콘 중 하나를 삽입하고 편집하여 아이콘으로 프레젠테이션에 시각적 효과를 줄 수 있습니다. [자세한 정보](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79) <br/> |[CVE-2018-8176](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8176): PowerPoint 원격 코드 실행 취약성  <br/> ||
 |Outlook  <br/> |**살짝 밀기 제스처 사용자 지정:** 오른쪽으로 살짝 밀기 제스처 및 왼쪽 살짝 밀기 제스처를 가장 많이 사용하는 작업으로 설정할 수 있습니다. 삭제, 보관, 읽음으로 표시, 플래그 또는 없음 중에서 선택합니다. [자세한 정보](https://support.office.com/article/c8534c2e-1002-450d-a8f3-e53cc8e36b1d.aspx) <br/><br/> **Google 캘린더 및 연락처 지원:** Outlook을 종료하지 않고 Google 캘린더 및 연락처를 관리할 수 있습니다. [자세한 정보](https://support.office.com/article/985f9e19-d308-4e85-9d1d-0c6f32f8e981#officeversion=outlook_2016_for_mac) <br/><br/> \**이 기능은 일정 기간에 걸쳐 Office 365 구독자에게 롤아웃되므로 당장은 보이지 않을 수도 있습니다.* |||
 |Microsoft 자동 업데이트 4.0  <br/> || <br/> |
    
@@ -1069,7 +1114,7 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 |**응용 프로그램**|**기능 업데이트**|**보안 업데이트**|**비보안 업데이트**|**업데이트 패키지용 다운로드 링크**|
 |:-----|:-----|:-----|:-----|:-----|
 |Word  <br/> |**향상된 공유 및 공동 작업:** 로컬로 동기화된 OneDrive 문서가 클라우드에서 직접 열리므로 쉽게 자동으로 저장하고, 공유하고, 공동 작업을 수행할 수 있습니다.  <br/> <br/> **시각적 효과 추가:** 문서에 SVG(확장 가능한 벡터 그래픽)를 삽입하고 편집하여 시각적 효과를 추가하고 높은 이미지 품질을 유지할 수 있습니다. [자세한 정보](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c#ID0EAAFAAA=Office_2016_on_Mac&ID0EAAEAAA=Office_2016_on_Mac) <br/> ||||
-|Excel  <br/> |**향상된 공유 및 공동 작업:** 로컬로 동기화된 OneDrive 통합 문서가 클라우드에서 직접 열리므로 쉽게 자동으로 저장하고, 공유하고, 공동 작업을 수행할 수 있습니다.  <br/> <br/> **시각적 효과 추가:** 통합 문서에 SVG(확장 가능한 벡터 그래픽)를 삽입하고 편집하여 시각적 효과를 추가하고 높은 이미지 품질을 유지할 수 있습니다. [자세한 정보](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c#ID0EAAFAAA=Office_2016_on_Mac&ID0EAAEAAA=Office_2016_on_Mac) <br/> |[CVE-2018-1029](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-1029): Microsoft Excel 원격 코드 실행 취약성  <br/> ||||
+|Excel  <br/> |**향상된 공유 및 공동 작업:** 로컬로 동기화된 OneDrive 통합 문서가 클라우드에서 직접 열리므로 쉽게 자동으로 저장하고, 공유하고, 공동 작업을 수행할 수 있습니다.  <br/> <br/> **시각적 효과 추가:** 통합 문서에 SVG(확장 가능한 벡터 그래픽)를 삽입하고 편집하여 시각적 효과를 추가하고 높은 이미지 품질을 유지할 수 있습니다. [자세한 정보](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c#ID0EAAFAAA=Office_2016_on_Mac&ID0EAAEAAA=Office_2016_on_Mac) <br/> |[CVE-2018-1029](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1029): Microsoft Excel 원격 코드 실행 취약성  <br/> ||||
 |PowerPoint  <br/> |**향상된 공유 및 공동 작업:** 로컬로 동기화된 OneDrive 프레젠테이션이 클라우드에서 직접 열리므로 쉽게 자동으로 저장하고, 공유하고, 공동 작업을 수행할 수 있습니다.   <br/><br/> **시각적 효과 추가:** 프레젠테이션에 SVG(확장 가능한 벡터 그래픽)를 삽입하고 편집하여 시각적 효과를 추가하고 높은 이미지 품질을 유지할 수 있습니다. [자세한 정보](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c#ID0EAAFAAA=Office_2016_on_Mac&ID0EAAEAAA=Office_2016_on_Mac) <br/> ||||
 |Outlook  <br/> |**시각적 효과 추가:** 전자 메일에 SVG(확장 가능한 벡터 그래픽)를 삽입하고 편집하여 시각적 효과를 추가하고 높은 이미지 품질을 유지할 수 있습니다. [자세한 정보](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c#ID0EAAFAAA=Office_2016_on_Mac&ID0EAAEAAA=Office_2016_on_Mac) <br/>  <br/>**실행 가능한 추가 일정:** 일정에서 모임 또는 이벤트를 클릭하여 관련된 모든 세부 정보를 볼 수 있습니다. 초대 받은 사람을 확인하거나, 응답을 편집하거나, 모임에 참여하는 모든 작업을 한 곳에서 처리할 수 있습니다.<br/> <br/> **보다 간편해진 검색 결과 검색:** Outlook의 항목 목록 또는 미리 보기 창에서 검색어가 강조 표시됩니다.  <br/> <br/> **주 번호:** 이제 일정 월 보기와 사이드바의 미니 달력에 주 번호가 표시됩니다. 이 기능을 사용하도록 설정하려면 Outlook \> 기본 설정 \> 일정 \> 일정 옵션에서 "몇째 주인지 표시"를 선택합니다.<br/> <br/> **Skype 모임 예약:** 이제 대리인이 보안 주체의 전자 메일 주소를 사용하여 보안 주체 대신 비즈니스용 Skype Online 회의를 예약할 수 있습니다. *(비즈니스용 Skype Online에만 해당합니다. 이 기능은 향후 서버 업데이트의 Skype용 비즈니스 서버 2015에서 사용할 수 있습니다.)*  <br/> ||서버 규칙을 편집 및 삭제할 때 오류 처리 기능이 개선되었습니다. 오류를 포함하는 서버 규칙을 규칙 목록에서 처음 표시하면 강조 표시됩니다.  <br/> ||
 |OneNote  <br/> ||||
@@ -1095,10 +1140,10 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 |**응용 프로그램**|**기능 업데이트**|**보안 업데이트**|**비보안 업데이트**|
 |:-----|:-----|:-----|:-----|:-----|
 |Word  <br/> |**포커스 모드에서 더 많은 작업 수행:** 이제 포커스 모드가 설정된 확대/축소 수준에서 열리며, 스크롤하는 동안 페이지 번호가 표시됩니다.  <br/> ||||
-|Excel  <br/> ||[CVE-2018-0907](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0907): Microsoft Office Excel 보안 기능 바이패스  <br/> |||
+|Excel  <br/> ||[CVE-2018-0907](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0907): Microsoft Office Excel 보안 기능 바이패스  <br/> |||
 |PowerPoint  <br/> |**포함된 글꼴:** 포함된 글꼴을 사용하면 프레젠테이션이 모든 컴퓨터에서 동일하게 표시되고, 콘텐츠가 의도한 대로 사용자에게 표시됩니다.  <br/> ||||
 |Outlook  <br/> |**표:** 메시지 및 일정 이벤트에 표를 삽입하고, 콘텐츠에 구조를 적용할 수 있습니다. 다른 Office 앱에서 더 이상 복사하여 붙여넣을 필요가 없습니다. [자세한 정보](https://support.office.com/article/cb35806b-4174-41d2-9cba-b6b624d988b3)  <br/><br/> **한 번에 두 표준 시간대 보기:** 세계의 다른 지역은 몇 시인지 알고 싶으세요? 이제 Outlook에 표준 시간대를 하나 더 추가할 수 있습니다.  <br/><br/> **다른 표준 시간대에서 예약:** 다른 표준 시간대의 지역을 여행 중인가요? 시작 및 끝 표준 시간대가 다른 이벤트를 만들어보세요. Outlook에서 알아서 변환해줍니다.<br/><br/> **텍스트 크기 변경:** 사이드바, 메시지 목록 및 읽기 창에서 글꼴 크기를 늘리거나 줄일 수 있습니다. [자세한 정보](https://support.office.com/article/b225d877-1449-4757-9ee7-120d1c5da6b4) <br/> ||컴퓨터의 기본 표준 시간대가 DST(일광 절약 시간)를 따르고 주 보기가 선택될 경우 DST가 시작될 때 모든 이벤트가 주의 일정 표에서 1시간씩 이동되는 문제를 해결합니다.  <br/> |
-|Office 제품군  <br/> ||[CVE-2018-0919](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0919): Microsoft Office 정보 노출 취약성  <br/> |
+|Office 제품군  <br/> ||[CVE-2018-0919](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0919): Microsoft Office 정보 노출 취약성  <br/> |
 
    
 ## <a name="february-2018-release"></a>2018년 2월 릴리스
@@ -1134,11 +1179,11 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
   
 |**응용 프로그램**|**기능 업데이트**|**보안 업데이트**|
 |:-----|:-----|:-----|
-|Word  <br/> |**다른 사용자와 함께 실시간으로 편집:** 창의 오른쪽 위 모서리에 있는 축소판 그림에는 공유 문서에서 함께 작업 중인 다른 사용자가 표시됩니다. 플래그 아이콘에는 다른 사용자가 작업 중인 위치가 표시되며 해당 사용자가 입력하면 변경 내용을 볼 수 있습니다. [자세한 정보](https://support.office.com/article/7dd3040c-3f30-4fdd-bab0-8586492a1f1d#ID0EABAAA=Mac)  <br/><br/> **안전한 자동 저장 기능** 클라우드에 저장된 문서, 워크시트 및 프레젠테이션에 대해 변경 내용이 자동으로 저장되므로 다른 사람이 업데이트한 내용을 바로 볼 수 있습니다. 롤백해야 합니까? 버전 기록에서 변경 내용 목록을 확인하고 이전 버전에액 세스할 수 있습니다. [자세한 정보](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5.aspx#OfficeVersion=Mac) <br/> <br/> **사이트와 그룹에 빠르게 액세스:** 열기 메뉴에서 자주 사용하는 사이트 및 그룹에 저장된 프레젠테이션을 빠르게 찾을 수 있습니다.  <br/> |[CVE-2018-0792](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0792): Microsoft Word 원격 코드 실행 취약성  <br/>  <br/>[CVE-2018-0794](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0794): Microsoft Word 원격 코드 실행 취약성 |
+|Word  <br/> |**다른 사용자와 함께 실시간으로 편집:** 창의 오른쪽 위 모서리에 있는 축소판 그림에는 공유 문서에서 함께 작업 중인 다른 사용자가 표시됩니다. 플래그 아이콘에는 다른 사용자가 작업 중인 위치가 표시되며 해당 사용자가 입력하면 변경 내용을 볼 수 있습니다. [자세한 정보](https://support.office.com/article/7dd3040c-3f30-4fdd-bab0-8586492a1f1d#ID0EABAAA=Mac)  <br/><br/> **안전한 자동 저장 기능** 클라우드에 저장된 문서, 워크시트 및 프레젠테이션에 대해 변경 내용이 자동으로 저장되므로 다른 사람이 업데이트한 내용을 바로 볼 수 있습니다. 롤백해야 합니까? 버전 기록에서 변경 내용 목록을 확인하고 이전 버전에액 세스할 수 있습니다. [자세한 정보](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5.aspx#OfficeVersion=Mac) <br/> <br/> **사이트와 그룹에 빠르게 액세스:** 열기 메뉴에서 자주 사용하는 사이트 및 그룹에 저장된 프레젠테이션을 빠르게 찾을 수 있습니다.  <br/> |[CVE-2018-0792](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0792): Microsoft Word 원격 코드 실행 취약성  <br/>  <br/>[CVE-2018-0794](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0794): Microsoft Word 원격 코드 실행 취약성 |
 |Excel  <br/> |**공동 작업 편집:** 통합 문서에서 다른 사용자와 동시에 작업합니다. 창의 오른쪽 위 모서리에 표시되는 축소판 그림에 사용자와 함께 파일을 보거나 편집하고 있는 다른 사용자가 표시됩니다. [자세한 정보](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104#ID0EAABAAA=Mac)  <br/><br/> **안전한 자동 저장 기능** 클라우드에 저장된 문서, 워크시트 및 프레젠테이션에 대해 변경 내용이 자동으로 저장되므로 다른 사람이 업데이트한 내용을 바로 볼 수 있습니다. 롤백해야 합니까? 버전 기록에서 변경 내용 목록을 확인하고 이전 버전에액 세스할 수 있습니다. [자세한 정보](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5.aspx#OfficeVersion=Mac)  <br/><br/> **추가 차트:** 깔대기형, 선 버스트 및 히스토그램과 같은 새로운 차트를 사용하여 데이터를 전문적인 시각화로 변환하거나 새로운 지도 차트 형식을 사용하여 몇 단계만으로 지리적 데이터를 지도로 변환할 수 있습니다.   <br/><br/> **추가 함수:** 새 논리 함수, [IFS 함수](https://support.office.com/article/36329a26-37b2-467c-972b-4a39bd951d45) 및 [SWITCH 함수](https://support.office.com/article/47ab33c0-28ce-4530-8a45-d532ec4aa25e)를 사용하여 작성하는 수식을 줄일 수 있습니다.   <br/><br/> **사이트와 그룹에 빠르게 액세스:** 열기 메뉴에서 자주 사용하는 사이트 및 그룹에 저장된 프레젠테이션을 빠르게 찾을 수 있습니다.  <br/> <br/> **피벗 테이블 차트에 대한 지원 개선:** 피벗 테이블에서 필터를 변경할 수 있으며, 원하는 내용이 정확히 표시되도록 만든 차트가 자동으로 조정됩니다.  <br/> <br/> **다중 스레드 계산** Excel에서 여러 처리 스레드를 사용하기 때문에 값이 변경될 때 수식이 더 빠르게 업데이트됩니다. |
 |PowerPoint  <br/> |**다른 사용자와 함께 실시간으로 편집:** 창의 오른쪽 위 모서리에 있는 축소판 그림에는 공유 문서에서 함께 작업 중인 다른 사용자가 표시됩니다. 플래그 아이콘에는 다른 사용자가 작업 중인 위치가 표시되며 해당 사용자가 입력하면 변경 내용을 볼 수 있습니다. [자세한 정보](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)  <br/><br/> **안전한 자동 저장 기능** 클라우드에 저장된 문서, 워크시트 및 프레젠테이션에 대해 변경 내용이 자동으로 저장되므로 다른 사람이 업데이트한 내용을 바로 볼 수 있습니다. 롤백해야 합니까? 버전 기록에서 변경 내용 목록을 확인하고 이전 버전에액 세스할 수 있습니다. [자세한 정보](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5.aspx#OfficeVersion=Mac) <br/> <br/> **변경 내용 확인:** 부재 시에 다른 사용자가 수정한 슬라이드가 강조 표시됩니다. [자세한 정보](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d) <br/> <br/> **빠른 리서치 시작:** 처음부터 새로 시작하는 것은 어렵습니다. 빠른 시작은 추천된 논점으로 선택 항목에 대한 개요를 자동으로 만들고 프레젠테이션이 돋보이게 디자인합니다. [자세한 정보](https://support.office.com/article/4784f273-0b2c-456c-9c89-24e5b977c224.aspx) <br/> <br/> **미디어 트리밍:** 오디오 또는 비디오 클립의 끝 부분에서 원치 않는 콘텐츠를 제거합니다. [자세한 정보](https://support.office.com/article/1fc386f2-8404-43e8-9dbd-fee3a11a1d8f#Platform=Mac) <br/> <br/> **사이트와 그룹에 빠르게 액세스:** 열기 메뉴에서 자주 사용하는 사이트 및 그룹에 저장된 프레젠테이션을 빠르게 찾을 수 있습니다.  <br/> <br/> **슬라이드 쇼의 레이저 포인터:** 마우스를 레이저 포인터로 사용하여 슬라이드의 특정 부분에 관심을 집중합니다.<br/><br/>**텍스트 형광펜:** 이제 Mac에 텍스트 강조 표시가 있습니다! 텍스트 형광펜을 사용하여 중요한 텍스트 부분을 강조 합니다.
  |
-|Outlook  <br/> |**한 번 살짝 밀어 보관 또는 삭제:** 두 손가락으로 터치 패드를 왼쪽으로 살짝 밀어 전자 메일을 보관하고, 오른쪽으로 살짝 밀어 삭제함으로써 받은 편지함 구성 시간을 단축할 수 있습니다.  <br/> |[CVE-2018-0793](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0793): Microsoft Outlook 원격 코드 실행 취약성 |
+|Outlook  <br/> |**한 번 살짝 밀어 보관 또는 삭제:** 두 손가락으로 터치 패드를 왼쪽으로 살짝 밀어 전자 메일을 보관하고, 오른쪽으로 살짝 밀어 삭제함으로써 받은 편지함 구성 시간을 단축할 수 있습니다.  <br/> |[CVE-2018-0793](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0793): Microsoft Outlook 원격 코드 실행 취약성 |
 
    
 ## <a name="december-2017-release"></a>2017년 12월 릴리스
@@ -1158,7 +1203,7 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
   
 |**응용 프로그램**|**보안 업데이트**|
 |:-----|:-----|
-|PowerPoint  <br/> |[CVE-2017-11934](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2017-11934): Microsoft PowerPoint 정보 노출 취약성 |
+|PowerPoint  <br/> |[CVE-2017-11934](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11934): Microsoft PowerPoint 정보 노출 취약성 |
 
    
 ## <a name="november-2017-release"></a>2017년 11월 릴리스
@@ -1172,8 +1217,8 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
   
 |**응용 프로그램**|**보안 업데이트**|
 |:-----|:-----|
-|Word  <br/> |[공지 170020](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/ADV170020): Microsoft Office 심층 방어 업데이트  |
-|Excel  <br/> |[CVE-2017-11877](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2017-11877): Microsoft Excel 보안 기능 바이패스 취약성  |
+|Word  <br/> |[공지 170020](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170020): Microsoft Office 심층 방어 업데이트  |
+|Excel  <br/> |[CVE-2017-11877](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11877): Microsoft Excel 보안 기능 바이패스 취약성  |
 
    
 ## <a name="october-2017-release"></a>2017년 10월 릴리스
@@ -1191,7 +1236,7 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 |Excel  <br/> |**향상된 Visual Basic Editor:** IntelliSense를 VBA 메뉴 및 도구 모음, 디버그 도구, 개체 브라우저 등을 사용하여 Visual Basic Editor에서 매크로를 만들고 편집할 수 있습니다.  |
 |PowerPoint  <br/> |**향상된 Visual Basic Editor:** IntelliSense를 VBA 메뉴 및 도구 모음, 디버그 도구, 개체 브라우저 등을 사용하여 Visual Basic Editor에서 매크로를 만들고 편집할 수 있습니다.  |
 |Outlook  <br/> |**가독성 및 접근성 개선:** 이제 전자 메일 메시지와 모임 초대 머리글이 눈에 더 잘 띕니다. 덜 복잡해지고 키보드 탐색이 더 쉬워지고 VoiceOver는 개선되었습니다.   |
-|Office 제품군  <br/> ||[CVE-2017-11825](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2017-11825): Microsoft Office 원격 코드 실행 취약성  |
+|Office 제품군  <br/> ||[CVE-2017-11825](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11825): Microsoft Office 원격 코드 실행 취약성  |
 
    
 ## <a name="september-2017-release"></a>2017년 9월 릴리스
@@ -1205,8 +1250,8 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
   
 |**응용 프로그램**|**기능 업데이트**|**보안 업데이트**|
 |:-----|:-----|:-----|
-|Excel  <br/> ||[CVE-2017-8631](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2017-8631): Microsoft Office 메모리 손상 취약성   <br/><br/> [CVE-2017-8632](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2017-8632): Microsoft Office 메모리 손상 취약성  |
-|Office 제품군  <br/> ||[CVE-2017-8676](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2017-8676): Windows GDI+ 정보 공개 취약성  |
+|Excel  <br/> ||[CVE-2017-8631](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8631): Microsoft Office 메모리 손상 취약성   <br/><br/> [CVE-2017-8632](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8632): Microsoft Office 메모리 손상 취약성  |
+|Office 제품군  <br/> ||[CVE-2017-8676](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8676): Windows GDI+ 정보 공개 취약성  |
 |Microsoft 자동 업데이트 3.9.3  <br/> |누락되었거나 손상된 구성 요소가 감지될 경우 MAU를 다시 설치하도록 경고됩니다. |
    
 ## <a name="august-2017-release"></a>2017년 8월 릴리스
@@ -1246,7 +1291,7 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 |:-----|:-----|:-----|
 |Excel  <br/> |**머리글 및 바닥글의 그림:** 머리글 및 바닥글에 이미지를 추가하여 인쇄된 통합 문서를 사용자 지정할 수 있습니다. ||
 |Outlook  <br/> |**일정에 따라 전자 메일 보내기:** 메시지 배달을 연기하거나 전송 시간을 선택할 수 있습니다. [자세한 정보](https://support.office.com/article/a02097de-76c2-4895-9557-0818ef229024)  <br/><br/> **모든 즐겨찾기 폴더를 한 곳에 유지:** 정기적으로 사용하는 모든 폴더에 대한 바로 가기를 만들 수 있습니다. 모든 바로 가기는 사이드바의 맨 위에 있는 즐겨찾기에 나열됩니다. [자세한 정보](https://support.office.com/article/4357e516-8608-4bfd-b229-fb08ad29b08d)  <br/><br/> **서식 복사:** 전자 메일, 이벤트 및 작업을 만들 때 사용할 수 있습니다.  <br/> ||
-|Office 제품군  <br/> ||[CVE-2017-8501](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2017-8501): Microsoft Office 메모리 손상 취약성 |
+|Office 제품군  <br/> ||[CVE-2017-8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8501): Microsoft Office 메모리 손상 취약성 |
    
 ## <a name="june-2017-release"></a>2017년 6월 릴리스
 
@@ -1267,7 +1312,7 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
   
 |**응용 프로그램**|**기능 업데이트**|**보안 업데이트**|
 |:-----|:-----|:-----|
-|Word  <br/> ||[CVE-2017-8509](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2017-8509): Microsoft Office 원격 코드 실행 취약성  |
+|Word  <br/> ||[CVE-2017-8509](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8509): Microsoft Office 원격 코드 실행 취약성  |
 |Outlook  <br/> |**전자 메일 작성 시간 단축:** 전자 메일 서식 파일을 만든 후 나중에 다시 사용하여 시간을 절약할 수 있습니다. [자세한 정보](https://support.office.com/article/6339b60e-2e5a-4aed-a9e6-2e7b5d7eb5a0)  <br/><br/> **읽음 확인 및 배달 알림 요청:** 중요한 전자 메일 메시지가 배달되고 받는 사람이 열 때 알림을 받을 수 있습니다. [자세한 정보](https://support.office.com/article/2493ae0b-fba6-47f3-a5d5-ca0c0dbfe878)  <br/><br/> **보다 간편한 계정 설정:** 이제 Exchange 또는 Gmail 계정을 추가할 때 설정이 자동으로 업데이트됩니다. 사용자 이름 및 암호를 제공하기만 하면 됩니다. [자세한 정보](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b#PickTab=Outlook_for_Mac)|
 
 
@@ -1285,7 +1330,7 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 |Excel  <br/> |**두바이 글꼴:** 아랍어 스크립트를 사용하는 주요 언어와 서유럽 언어를 모두 지원하는 글꼴 집합입니다. [자세한 정보](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
 |PowerPoint  <br/> |**두바이 글꼴:** 아랍어 스크립트를 사용하는 주요 언어와 서유럽 언어를 모두 지원하는 글꼴 집합입니다. [자세한 정보](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
 |Outlook  <br/> |**그룹:** 상위 10개 그룹을 보고, 그룹 폴더에서 직접 그룹 대화를 읽거나 회신할 수 있습니다.  <br/> <br/> **두바이 글꼴:** 아랍어 스크립트를 사용하는 주요 언어와 서유럽 언어를 모두 지원하는 글꼴 집합입니다. [자세한 정보](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
-|Office 제품군  <br/> ||[CVE-2017-0254](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2017-0254): Microsoft Office 메모리 손상 취약성   |
+|Office 제품군  <br/> ||[CVE-2017-0254](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0254): Microsoft Office 메모리 손상 취약성   |
 
 <br/><br/>
    
