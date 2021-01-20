@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 이후 참가자 대상 그룹에게 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 318bdeb50f56102977ba51282e0bcb14458f62e7
-ms.sourcegitcommit: 73f90b5a0c22dc87f8b8d88fe23f849209f5c849
+ms.openlocfilehash: ddd84106439eace1f0566ed336a4ecc83d4d897f
+ms.sourcegitcommit: 7261f86f16c400b51d14f6fd03e81552c78a8326
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/11/2021
-ms.locfileid: "49793886"
+ms.lasthandoff: 01/19/2021
+ms.locfileid: "49903851"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 현재 채널(미리 보기)에 대한 릴리스 정보
 
@@ -28,6 +28,31 @@ ms.locfileid: "49793886"
 > - Microsoft Teams 기능은 릴리스 주기가 보다 빈번하기 때문에 최근에 릴리스된 현재 채널 미리 보기와 다를 수 있습니다.
 
 [//]: # (제거하지 마세요)
+
+## <a name="version-2101-january-18"></a>버전 2101: 1월 18일
+*버전 2101 (빌드 13628.20158)*
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="project"></a>Project
+
+- 팀 플래너 보기에 작업에 대한 테두리가 표시되지 않는 문제를 수정했습니다.
+
+
+- 끌어서 놓기 작업이 팀 플래너에서 작동하지 않는 문제가 수정되었습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
 
 ## <a name="version-2101-january-09"></a>버전 2101: 1월 9일
 *버전 2101(빌드 13628.20118)*
@@ -791,7 +816,7 @@ ms.locfileid: "49793886"
 
 
 
-[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+[//]: # (BUGDETILES 컨텐츠 끝)을(를) 제거하지 마세요.
 
 ## <a name="version-2010-october-27"></a>버전 2010: 10월 27일
 *버전 2010(빌드 13328.20292)*
@@ -1468,7 +1493,7 @@ ms.locfileid: "49793886"
 
 
 
-[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+[//]: # (버그 세부 정보를 제거하지 마세요. 끝)
 
 ## <a name="version-2008-august-17"></a>버전 2008: 8월 17일
 *버전 2008(빌드 13127.20208)*
