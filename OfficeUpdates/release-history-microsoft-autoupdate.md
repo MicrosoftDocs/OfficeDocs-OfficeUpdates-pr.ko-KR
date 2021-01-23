@@ -9,14 +9,14 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT 전문가에게 MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록을 제공합니다.
-ms.openlocfilehash: 5250255af7fe776e7f8ed07a7d5987076fc08079
-ms.sourcegitcommit: 053560beb18fc8b527e2be661b165e0034e3b1bf
+ms.openlocfilehash: 74388a251d2c568322e13cca34d973f3d790e023
+ms.sourcegitcommit: e47d22b7b3ad48ad20ca184c30824480e1701c35
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "49849493"
+ms.lasthandoff: 01/23/2021
+ms.locfileid: "49943278"
 ---
-# <a name="release-history-for-microsoft-auto-update-mau"></a>MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록
+# <a name="release-history-for-microsoft-autoupdate-mau"></a>MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록
  
 항상 최신 버전의 MAU(Microsoft 자동 업데이트)로 업데이트하는 것이 좋습니다.
 
@@ -34,7 +34,7 @@ ms.locfileid: "49849493"
 
 **릴리스 날짜:** 2020년 1월 13일
 
-*Microsoft 자동 업데이트 4.31*
+*Microsoft AutoUpdate 4.31*
 
 **버그 수정 및 개선 사항:**
 - 자동 업데이트 중이 아닌 장치의 경우 Microsoft 자동 업데이트에서 이제 MAU UI를 여는 대신 알림을 통해 새 업데이트에 대해 알립니다.
@@ -51,7 +51,7 @@ ms.locfileid: "49849493"
 
 **릴리스 날짜:** 2020년 12월 15일
 
-*Microsoft 자동 업데이트 4.30*
+*Microsoft AutoUpdate 4.30*
 
 **버그 수정 및 개선 사항:**
 - M1이 포함된 Mac용 범용 앱 지원을 추가합니다.
@@ -71,7 +71,7 @@ ms.locfileid: "49849493"
 
 **릴리스 날짜:** 2020년 11월 10일
 
-*Microsoft 자동 업데이트 4.29*
+*Microsoft AutoUpdate 4.29*
 
 **버그 수정 및 개선 사항:**
 -   Microsoft 365의 채널 이름이 업데이트되었습니다.
@@ -91,7 +91,7 @@ ms.locfileid: "49849493"
 
 **릴리스 날짜:** 2020년 10월 13일
 
-*Microsoft 자동 업데이트 4.28*
+*Microsoft AutoUpdate 4.28*
 
 **버그 수정 및 개선 사항:**
 -   MAU UI: 이제 요약 보기에 사용자의 주의가 필요한 오류가 표시됩니다.
@@ -112,7 +112,7 @@ ms.locfileid: "49849493"
 
 **릴리스 날짜:** 2020년 9월 16일
 
-*Microsoft 자동 업데이트 4.27*
+*Microsoft AutoUpdate 4.27*
 
 **버그 수정 및 개선 사항:**
 -   이제 MAU 업데이트 도우미는 정기적인 검사 주기가 없는 경우에도 잠긴 화면 뒤에서 업데이트를 합니다.
@@ -131,7 +131,7 @@ ms.locfileid: "49849493"
 
 **릴리스 날짜:** 2020년 8월 11일
 
-*Microsoft 자동 업데이트 4.26*
+*Microsoft AutoUpdate 4.26*
 
 **버그 수정 및 개선 사항:**
 -   이제 도크에서 MAU 아이콘에 사용 가능한 업데이트 수가 표시됩니다. 
@@ -155,14 +155,14 @@ E81CEADF900A0C7E7D593720D08146DBC1C55868D5B21C7E7A175AA36DFE0178
 
 **릴리스 날짜:** 2020년 7월 14일
 
-*Microsoft 자동 업데이트 4.25*
+*Microsoft AutoUpdate 4.25*
 
 **버그 수정 및 개선 사항:**
 - 앱 종료를 감지하고 "앱 열기"와 관련하여 표시 된 대화 상자를 자동으로 제거합니다.
 - 4월 릴리스에 소개된 자동 업데이트 기능을 사용하지 않는 사용자가 Microsoft 자동 업데이트 UI를 매 주 한번만 보도록 하는 기능을 되돌렸습니다.
 - 업데이트를 다운로드 한 후 설치를 시작하기 전에 업데이트 도우미가 종료 되는 문제가 해결 되었습니다..
 - 사용자 알림이 보류 되는 기간이 지나면 업데이트 도우미가 종료 되지 않는 문제가 해결 되었습니다.
-- 설치 후에 MAU UI를 다시 열리거나 다시 열리지 않는 문제를 해결 했습니다. 업데이트를 MAU UI 자체에서 시작 한 경우 또는 사용자가 직접 업데이트를 초기화 한 경우 (Finder, Terminal를 통해)에는 설치 된 후에 UI가 열려야 합니다.
+- 설치 후에 MAU UI를 다시 열리거나 다시 열리지 않는 문제를 해결했습니다. 업데이트를 MAU UI 자체에서 시작한 경우 또는 사용자가 직접 업데이트를 초기화한 경우 (Finder, Terminal 등을 통해)에는 설치된 후에 UI가 열려야 합니다.
 
 **SHA-256 해시:**
 
@@ -174,7 +174,7 @@ B8E3D4391E48732F42217589784D8B3417F6F14489D9DE04395198A01BFDFA46
 
 **릴리스 날짜:** 2020년 6월 18일
 
-*Microsoft 자동 업데이트 4.24*
+*Microsoft AutoUpdate 4.24*
 
 **버그 수정 및 개선 사항:**
 - 고객 메시지 캠페인: Mac 2016용 Office는 2020년 10월부터 지원되지 않습니다. 
@@ -190,11 +190,11 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 
 **릴리스 날짜:** 2020년 5월 12일
 
-*Microsoft 자동 업데이트 4.23*
+*Microsoft AutoUpdate 4.23*
 
 **버그 수정 및 개선 사항:**
 - MacOS 10.13 이상과 Office 2016 버전을 사용하는 디바이스의 경우, 사용자에게 지원 종료에 도달하는 Office 2016에 대한 알림이 표시됩니다. 
-- Word, Excel 및 Powerpoint 앱에 열린 창이 없고 디바이스가 Microsoft 자동 업데이트의 자동 업데이트 모드에 있는 경우, 업데이트를 적용하기 위해 해당 앱을 종료하지 않아도 됩니다. 3. 이제 업데이트 대시보드를 새로 고치거나 새 자동 업데이트 세션을 시작하지 않아도, Microsoft 자동 업데이트에서 CDN의 최신 릴리스로 업데이트 대시보드를 자동으로 새로 고칩니다. 
+- Word, Excel 및 Powerpoint 앱에 열린 창이 없고 디바이스가 Microsoft 자동 업데이트의 자동 업데이트 모드에 있는 경우, 업데이트를 적용하기 위해 해당 앱을 종료하지 않아도 됩니다. 이제 업데이트 대시보드를 새로 고치거나 새 자동 업데이트 세션을 시작하지 않아도, Microsoft 자동 업데이트에서 CDN의 최신 릴리스로 업데이트 대시보드를 자동으로 새로 고칩니다. 
 
 **SHA-256 해시:**
 
@@ -206,7 +206,7 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 
 **릴리스 날짜:** 2020년 4월 21일
 
-*Microsoft 자동 업데이트 4.22*
+*Microsoft AutoUpdate 4.22*
 
 **버그 수정 및 개선 사항:**
 - Microsoft 자동 업데이트 UI가 다운로드할 수 있는 새 업데이트가 없을 때 자동이 아닌 모드로 업데이트하는 장치에서뿐만 아니라 Microsoft 자동 업데이트를 통해 '자동 모드'로 Office 앱을 업데이트하는 장치에도 표시되지 않습니다.
@@ -219,7 +219,7 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 
 **릴리스 날짜:** 2020년 4월 14일
 
-*Microsoft 자동 업데이트 4.22*
+*Microsoft AutoUpdate 4.22*
 
  **기능 업데이트:**
 
@@ -228,7 +228,7 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 - SSD를 사용하는 MacOS 컴퓨터는 업데이트로 인해 더 빨라진 업데이트 속도 및 무시해도 되는 정도의 앱 중단만을 경험합니다.
 
 
-[CVE-2020-0984](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0984)를 참조하세요.
+[CVE-2020-0984](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0984)를 참조하세요.
 
 **SHA-256 해시:**
 
@@ -239,7 +239,7 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 
 **릴리스 날짜:** 2020년 3월 10일
 
-*Microsoft Auto Update 4.21*
+*Microsoft AutoUpdate 4.21*
 
  **기능 업데이트:**
 
@@ -254,7 +254,7 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 
 **릴리스 날짜:** 2020년 2월 11일
 
-*Microsoft 자동 업데이트 4.20*
+*Microsoft AutoUpdate 4.20*
 
  **기능 업데이트:**
 
@@ -269,7 +269,7 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 
 **릴리스 날짜:** 2020년 1월 14일
 
-*Microsoft 자동 업데이트 4.19*
+*Microsoft AutoUpdate 4.19*
 
  **기능 업데이트:**
 
@@ -283,7 +283,7 @@ D480D4FD23BDC07852DEFBADCE4CCBEF00265500E6595FE8B299444EB8F90C3F<br/><br/>
 
 **릴리스 날짜:** 2019년 12월 10일
 
-*Microsoft 자동 업데이트 4.18*
+*Microsoft AutoUpdate 4.18*
 
  **기능 업데이트:**
 
@@ -297,12 +297,12 @@ D480D4FD23BDC07852DEFBADCE4CCBEF00265500E6595FE8B299444EB8F90C3F<br/><br/>
 
 **릴리스 날짜:** 2019년 11월 12일
 
-*Microsoft 자동 업데이트 4.17*
+*Microsoft AutoUpdate 4.17*
 
  **기능 업데이트:**
 
 - 이제 Microsoft AutoUpdate 대시보드에서 주요 업데이트의 새로운 기능을 볼 수 있습니다.
-- Office 2019 업데이트에 대한 최소 OS 요구 사항은 Catalina의 출시와 함께 macOS 10.13으로 변경이 되었으며 당사는 사용자들에게 최신 Office 업데이트를 받도록 업그레이드할 것을 통보하고 있습니다.
+- Office 2019 업데이트에 대한 최소 OS 요구 사항은 Catalina의 출시와 함께 macOS 10.13으로 변경되었습니다. 사용자는 최신 Office 업데이트로 업그레이드하기 위해 알림을 받을 수 있습니다.
 
 **SHA-256 해시:**
 
@@ -312,7 +312,7 @@ D480D4FD23BDC07852DEFBADCE4CCBEF00265500E6595FE8B299444EB8F90C3F<br/><br/>
 
 **릴리스 날짜:** 2019년 10월 15일
 
-*Microsoft 자동 업데이트 4.16*
+*Microsoft AutoUpdate 4.16*
 
  **기능 업데이트:**
 
@@ -325,7 +325,7 @@ D480D4FD23BDC07852DEFBADCE4CCBEF00265500E6595FE8B299444EB8F90C3F<br/><br/>
 
 **릴리스 날짜:** 2019년 9월 10일
 
-*Microsoft 자동 업데이트 4.15*
+*Microsoft AutoUpdate 4.15*
 
  **기능 업데이트:**
 
@@ -340,7 +340,7 @@ E5D4EADF632745115CD4819DAB3B1A1838FA8263ECDDC6E621AEA19A3C84F6F7<br/><br/>
 
 **릴리스 날짜:** 2019년 8월 13일
 
-*Microsoft 자동 업데이트 4.14*
+*Microsoft AutoUpdate 4.14*
 
  **기능 업데이트:**
 
@@ -354,7 +354,7 @@ E5D4EADF632745115CD4819DAB3B1A1838FA8263ECDDC6E621AEA19A3C84F6F7<br/><br/>
 
 **릴리스 날짜:** 2019년 7월 18일
 
-*Microsoft 자동 업데이트 4.13*
+*Microsoft AutoUpdate 4.13*
 
  **기능 업데이트:**
 
@@ -370,7 +370,7 @@ E5D4EADF632745115CD4819DAB3B1A1838FA8263ECDDC6E621AEA19A3C84F6F7<br/><br/>
 
 **릴리스 날짜:** 2019년 6월 27일
 
-*Microsoft 자동 업데이트 4.12*
+*Microsoft AutoUpdate 4.12*
 
  **기능 업데이트:**
 
@@ -383,7 +383,7 @@ E5D4EADF632745115CD4819DAB3B1A1838FA8263ECDDC6E621AEA19A3C84F6F7<br/><br/>
 
 **릴리스 날짜:** 2019년 6월 9일
 
-*Microsoft 자동 업데이트 4.12*
+*Microsoft AutoUpdate 4.12*
 
  **기능 업데이트:**
 
@@ -401,7 +401,7 @@ ABCC7D58DA7DB1B8B24B9B1BE6B1DB93BDC97AE487EFB615EC5695B9E1CC0FC9
 
 **릴리스 날짜:** 2019년 5월 14일
 
-*Microsoft 자동 업데이트 4.11*
+*Microsoft AutoUpdate 4.11*
 
  **기능 업데이트:**
 
@@ -418,12 +418,12 @@ EE3403B79E536191E545E70708A99D3A33B384372F65C028490AFFB551CD1EE2
 
 **릴리스 날짜:** 2019년 4월 16일
 
-*Microsoft 자동 업데이트 4.10*
+*Microsoft AutoUpdate 4.10*
 
  **기능 업데이트:**
 
-- 설치시 복제 기능향상: SSD 장치의 경우, 사용 중인 앱의 복제에 관한 업데이트 공개하므로 업데이트로 인한 앱 가동 중지 시간이 줄어듭니다.
-- 설치 최적화: 업데이트 프로세스에서 병렬화된 복제를 사용하므로, 업데이트로 인한 앱 가동 중지 시간이 줄어듭니다.
+- 복제 기능 향상 기능을 설치할 때 다음을 수행합니다. SSD 디바이스의 경우 사용 중인 애플리케이션의 클론에 대한 업데이트를 롤아웃하여 업데이트로 인한 애플리케이션 다운타임을 줄입니다.
+- 설치 최적화: 업데이트 프로세스에서는 병렬 복제를 사용하기 때문에 앱 다운타임이 줄어듭니다.
 
 **SHA-256 해시:**
 
@@ -475,7 +475,7 @@ FF676870D5B3521202095810B85DEF36538B59E00AEA44A2ED0D7EA8B3B99D6C
 |2016년 1월 5일  <br/> |3.4.0  <br/> |[KB 3133674](https://support.microsoft.com/kb/3133674) <br/> | <br/> |
 
 
-## <a name="related-topics"></a>관련 항목
+## <a name="related-articles"></a>관련 문서
 
 - [Mac용 Office에 대한 업데이트 기록](update-history-office-for-mac.md)
 - [Mac용 Office에 대한 릴리스 정보](release-notes-office-for-mac.md) 
