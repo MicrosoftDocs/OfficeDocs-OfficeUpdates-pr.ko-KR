@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 6c96bdecd5cfc8fcfdebe4d851d29ac57e66ef72
-ms.sourcegitcommit: 4ba886bf4644bc78de9d15e25c2b338c002643e9
+ms.openlocfilehash: dfc33d79d7746d60b88b2c58fc7511e00cfe4fed
+ms.sourcegitcommit: d321589264b07388b317099e86baf327358c060e
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49878741"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "49937073"
 ---
 # <a name="release-notes-for-beta-channel"></a>베타 채널용 릴리스 정보
 
@@ -30,6 +30,62 @@ ms.locfileid: "49878741"
 [//]: # (제거하지 마세요)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+## <a name="version-2102-january-22"></a>버전 2102: 1월 22일
+*버전 2102(빌드 13714.20000)*
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="excel"></a>Excel
+
+- **정부 고객: 문서 및 전자 메일에 민감도 레이블 적용:** 이제 GCC 및 GCC-H 환경의 고객이 민감도 레이블 기능을 사용할 수 있습니다. [자세한 정보](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+
+### <a name="outlook"></a>Outlook
+
+- **정부 고객: 문서 및 전자 메일에 민감도 레이블 적용:** 이제 GCC 및 GCC-H 환경의 고객이 민감도 레이블 기능을 사용할 수 있습니다. [자세한 정보](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **정부 고객: 문서 및 전자 메일에 민감도 레이블 적용:** 이제 GCC 및 GCC-H 환경의 고객이 민감도 레이블 기능을 사용할 수 있습니다. [자세한 정보](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+
+### <a name="word"></a>Word
+
+- **정부 고객: 문서 및 전자 메일에 민감도 레이블 적용:** 이제 GCC 및 GCC-H 환경의 고객이 민감도 레이블 기능을 사용할 수 있습니다. [자세한 정보](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- 파일을 다시 열 때 불연속적인 셀 범위를 사용하는 특정 차트가 로드되지 않는 문제를 해결합니다.
+
+
+- 특정 Windows 보안 악용 방지 설정(SimExec, CallerCheck)을 사용 중인 경우 Excel이 예기치 않게 시작되지 않거나 충돌하는 문제를 해결합니다.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 색으로 이모지 표시와 관련된 문제를 해결했습니다.
+
+
+### <a name="word"></a>Word
+
+
+- 일정 시간 인터넷 연결이 끊기면 실시간 입력과 현재 상태가 복원되지 않는 문제를 해결합니다.
+
+
+- 공동 작성 관련 문제를 해결했습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
 
 ## <a name="version-2102-january-15"></a>버전 2102: 1월 15일
 *버전 2102(빌드 13707.20008)*
@@ -1189,7 +1245,7 @@ ms.locfileid: "49878741"
 
 - 글머리 기호 아이콘이 제대로 표시되지 않는 문제를 수정했습니다.
 
-[//]: # (BUGDETILES 컨텐츠 끝)을(를) 제거하지 마십시오.
+[//]: # (BUGDETILES 컨텐츠 끝)을(를) 제거하지 마세요.
 
 ## <a name="version-2009-august-07"></a>버전 2009: 8월 7일
 *버전 2009(빌드 13130.20000)*
@@ -2333,6 +2389,7 @@ ms.locfileid: "49878741"
 
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13714.20000|version-2102-january-22|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13707.20008|version-2102-january-15|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13704.20000|version-2102-january-08|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13624.20002|version-2101-january-01|)
@@ -2342,5 +2399,4 @@ ms.locfileid: "49878741"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13530.20000|version-2012-december-04|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13519.20000|version-2012-november-27|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13512.20000|version-2012-november-20|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13510.20004|version-2012-november-13|)
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 끝)
