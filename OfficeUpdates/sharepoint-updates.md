@@ -13,12 +13,12 @@ ms.collection:
 - RelNotes_Server
 ms.assetid: 4b32dfba-1af6-4077-9a92-7cec8f220f20
 description: SharePoint Server 2016, SharePoint 2013 및 SharePoint 2010에 대한 업데이트를 한 위치에서 찾고 관리합니다. 업데이트에 대한 자세한 내용을 알아본 후 업데이트를 다운로드하려면 이 페이지의 링크를 사용하세요.
-ms.openlocfilehash: f94b64d28c61d5d98c64daebd4cc406439bafcf4
-ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
+ms.openlocfilehash: b3d51cbd5990de8cf0c36f018881278b6f5989d4
+ms.sourcegitcommit: e9067730e4a7e0bd546c59642362b5f01f1aae64
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "49837579"
+ms.lasthandoff: 01/26/2021
+ms.locfileid: "49980422"
 ---
 # <a name="sharepoint-updates"></a>SharePoint 업데이트
 
@@ -26,9 +26,13 @@ ms.locfileid: "49837579"
 
 최신 SharePoint Online 및 Microsoft 365 업데이트에 대해서는 [Microsoft 365 로드맵](https://go.microsoft.com/fwlink/p/?linkid=529454)을 참조하세요.
 
+
+
 <a name="BKMK_2016"> </a>
   
 ## <a name="sharepoint-2019-update-history"></a>SharePoint 2019 업데이트 기록
+> [!NOTE]
+>각 릴리스 날짜에 나열된 첫 번째 업데이트/KB는 언어 독립적인 STS 패치입니다. 두 번째 업데이트는 언어 종속적인 WSSLOC 패치로, 영어 설치를 포함한 모든 언어 팩을 포함합니다. 언어 종속적인 WSSLOC 패치는 매월 릴리스되지 않을 수 있으나 팜을 완전히 업데이트하려면 두 가지 업데이트가 모두 필요합니다.
 
 |**패키지 이름**|**KB 번호**|**버전**|**릴리스 날짜**|
 |:-----|:-----|:-----|:-----|
@@ -60,6 +64,9 @@ ms.locfileid: "49837579"
 |SharePoint Server 2019  <br/>  |[KB 4461548](https://support.microsoft.com/help/4461548)  <br/> ||2018년 12월  <br/> |
 |SharePoint Server 2019  <br/>  |[KB 4461513](https://support.microsoft.com/help/4461513)  <br/> ||2018년 11월  <br/> |
 ## <a name="sharepoint-2016-update-history"></a>SharePoint 2016 업데이트 기록
+
+> [!NOTE]
+>각 릴리스 날짜에 나열된 첫 번째 업데이트/KB는 언어 독립적인 STS 패치입니다. 두 번째 업데이트는 언어 종속적인 WSSLOC 패치로, 영어 설치를 포함한 모든 언어 팩을 포함합니다. 언어 종속적인 WSSLOC 패치는 매월 릴리스되지 않을 수 있으나 팜을 완전히 업데이트하려면 두 가지 업데이트가 모두 필요합니다.
 
 |**패키지 이름**|**KB 번호**|**버전**|**릴리스 날짜**|
 |:-----|:-----|:-----|:-----|
