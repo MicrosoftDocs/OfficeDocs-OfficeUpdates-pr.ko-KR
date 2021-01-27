@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 각 업데이트 채널에 대한 Microsoft 365 앱 업데이트의 대략적인 다운로드 크기 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 3749b725ef816a48552438c3e79ea78d026b26b4
-ms.sourcegitcommit: 322c2ae414beb38571117d522ddc5a3abb9ecc11
+ms.openlocfilehash: 7b4cda2310ee10bb297384b6d3f25e30a028ee7d
+ms.sourcegitcommit: 0e5154d937aaa5fd45f8fa79b8f0b2a614b7e5a0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49934396"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50013249"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 앱 업데이트의 다운로드 크기
 
@@ -35,6 +35,22 @@ Microsoft의 목표는 기업 고객이 네트워크 대역폭 사용률을 계�
 > - 지난 4개월 동안의 릴리스만 표시됩니다.
 
 [//]: # (제거하지 마세요)
+
+## <a name="january-26-2021"></a>2021년 1월 26일
+
+[//]: # (항목을 제거하지 마세요. 시작 2021년 1월 26일)
+
+### <a name="current-channel"></a>현재 채널
+
+가장 최근 릴리스는 버전 2101(빌드 13628.20274)입니다.
+
+|**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
+|:-----|:-----|:-----|
+|버전 2012(빌드 13530.20440) <br/> |2021년 1월 21일 <br/> |197<br/> |
+|버전 2012(빌드 13530.20376) <br/> |2021년 1월 12일 <br/> |211<br/> |
+
+
+[//]: # (콘텐츠를 제거하지 마세요 종료 2021년 1월 26일)
 
 ## <a name="january-21-2021"></a>2021년 1월 21일
 
@@ -477,7 +493,7 @@ Microsoft의 목표는 기업 고객이 네트워크 대역폭 사용률을 계�
 
 ## <a name="related-topics"></a>관련 항목
 
-- [Microsoft 365 앱의 업데이트 채널 개요](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
+- [Microsoft 365 앱의 업데이트 채널의 개요](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
 
 - [Microsoft 365 앱의 업데이트 기록(날짜순)](update-history-office365-proplus-by-date.md)
 

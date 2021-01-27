@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 앱에 대한 월 단위 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 2a724fbea64b9e0cc76637fbe438f94379a390eb
-ms.sourcegitcommit: 322c2ae414beb38571117d522ddc5a3abb9ecc11
+ms.openlocfilehash: 1947dcee128684821afb91cec6bb16f015015ed5
+ms.sourcegitcommit: 0e5154d937aaa5fd45f8fa79b8f0b2a614b7e5a0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49934416"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50013289"
 ---
 # <a name="release-notes-for-current-channel"></a>현재 채널에 대한 릴리스 정보
 
@@ -32,6 +32,86 @@ ms.locfileid: "49934416"
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2101-january-26"></a>버전 2101: 1월 26일
+*버전 2101(빌드 13628.20274)*
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="excel"></a>Excel
+
+- **M365 관리자에게 민감도 레이블에 대한 감사 데이터를 보냄:** 사용자가 문서 및 이메일에 민감도 레이블을 적용, 변경 또는 제거하면 Office는 관리자가 볼 수 있도록 감사 데이터를 M365 감사 백엔드로 보냅니다. 이는 관리자 혜택을 위한 자동 기능(UI 없음)입니다.
+
+- 
+  **정부 고객: 문서 및 전자 메일에 민감도 레이블 적용:** 이제 GCC 및 GCC-H 환경의 고객이 민감도 레이블 기능을 사용할 수 있습니다(자세한 정보 - https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitivity-labels).
+
+### <a name="outlook"></a>Outlook
+
+- **메시지 소유자별 대화 삭제:** 소유자별로 메시지를 삭제할 수 있도록 하는 기능입니다.
+
+- **연달아 있는 모임 사이에 시간 넣기:** 모임이 기본적으로 5~10분 일찍 끝나도록 설정하여 참석자에게 잠시 숨을 돌리거나 장소를 이동할 시간을 줄 수 있습니다. [자세한 정보](https://support.office.com/article/be84396a-0903-4e25-b31c-1c99ce0dacf2)
+
+- **온라인의 모든 모임:** 일정 설정을 업데이트하여 Teams 모임을 만드는 모든 모임을 기본값으로 설정하면 Teams 모임 옵션을 클릭하는 것을 더 이상 기억할 필요가 없습니다.
+
+- **M365 관리자에게 민감도 레이블에 대한 감사 데이터를 보냄:** 사용자가 문서 및 이메일에 민감도 레이블을 적용, 변경 또는 제거하면 Office는 관리자가 볼 수 있도록 감사 데이터를 M365 감사 백엔드로 보냅니다. 이는 관리자 혜택을 위한 자동 기능(UI 없음)입니다.
+
+- 
+  **정부 고객: 문서 및 전자 메일에 민감도 레이블 적용:** 이제 GCC 및 GCC-H 환경의 고객이 민감도 레이블 기능을 사용할 수 있습니다(자세한 정보 - https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitivity-labels).
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **M365 관리자에게 민감도 레이블에 대한 감사 데이터를 보냄:** 사용자가 문서 및 이메일에 민감도 레이블을 적용, 변경 또는 제거하면 Office는 관리자가 볼 수 있도록 감사 데이터를 M365 감사 백엔드로 보냅니다. 이는 관리자 혜택을 위한 자동 기능(UI 없음)입니다.
+
+- 
+  **정부 고객: 문서 및 전자 메일에 민감도 레이블 적용:** 이제 GCC 및 GCC-H 환경의 고객이 민감도 레이블 기능을 사용할 수 있습니다(자세한 정보 - https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitivity-labels).
+
+### <a name="word"></a>Word
+
+- **M365 관리자에게 민감도 레이블에 대한 감사 데이터를 보냄:** 사용자가 문서 및 이메일에 민감도 레이블을 적용, 변경 또는 제거하면 Office는 관리자가 볼 수 있도록 감사 데이터를 M365 감사 백엔드로 보냅니다. 이는 관리자 혜택을 위한 자동 기능(UI 없음)입니다.
+
+- 
+  **정부 고객: 문서 및 전자 메일에 민감도 레이블 적용:** 이제 GCC 및 GCC-H 환경의 고객이 민감도 레이블 기능을 사용할 수 있습니다(자세한 정보 - https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitivity-labels).
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- 특정 Windows 보안 공격 방지 설정(SimExec, 호출자 확인)을 사용 중인 경우 Excel이 예기치 않게 시작되지 않거나 닫히는 문제를 해결합니다.
+
+
+### <a name="excelexe"></a>excel.exe
+
+- 일부 레거시 Excel 4.0 및 Excel 5.0 매크로와 일부 VBA를 dialogsheets.show에 호출하는 문제를 해결했습니다.
+
+
+### <a name="outlook"></a>Outlook
+
+- 일부 사용자가 특정 검색 시나리오에서 Outlook이 예기치 않게 종료되는 문제를 해결했습니다.
+
+
+- 프로필에 큰 계층이 있는 공유 사서함 또는 위임된 사서함을 가진 사용자가 중단되는 문제를 해결했습니다.
+
+
+### <a name="project"></a>Project
+
+- 팀 플래너 보기에 작업에 대한 테두리가 표시되지 않는 문제를 수정했습니다.
+
+
+- 끌어서 놓기 작업이 팀 플래너에서 작동하지 않는 문제가 수정되었습니다.
+
+
+- 마일스톤 작업에 비용 자원이 할당되었을 때 기준 비용이 올바르게 롤업되지 않는 문제를 해결했습니다.
 
 
 
@@ -440,7 +520,7 @@ ms.locfileid: "49934416"
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
 ### <a name="resolved-issues"></a>해결된 문제
-### <a name="access"></a>액세스
+### <a name="access"></a>Access
 
 - Office가 아닌 응용 프로그램에서 DAO를 사용할 경우 응용 프로그램이 예기치 않게 종료되는 문제를 해결했습니다.
 
@@ -1866,6 +1946,7 @@ ms.locfileid: "49934416"
 > Office를 사용하는 데 발생한 문제에 대해 도움이 필요하면 [Microsoft의 Answers 포럼](https://answers.microsoft.com/) 또는 [기술 커뮤니티](https://techcommunity.microsoft.com/)에 질문을 게시하거나 [지원 서비스](https://support.microsoft.com/contactus)에 문의할 수 있습니다.
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|CC|Production| |16.0.13628.20274|version-2101-january-26|)
 [//]: # (|Win32|CC|Production| |16.0.13530.20440|version-2012-january-21|)
 [//]: # (|Win32|CC|Production| |16.0.13530.20376|version-2012-january-12|)
 [//]: # (|Win32|CC|Production| |16.0.13530.20316|version-2012-january-05|)
@@ -1875,5 +1956,4 @@ ms.locfileid: "49934416"
 [//]: # (|Win32|CC|Production| |16.0.13426.20294|version-2011-november-30|)
 [//]: # (|Win32|CC|Production| |16.0.13426.20274|version-2011-november-23|)
 [//]: # (|Win32|CC|Production| |16.0.13328.20408|version-2010-november-17|)
-[//]: # (|Win32|CC|Production| |16.0.13328.20356|version-2010-november-10|)
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 끝)
