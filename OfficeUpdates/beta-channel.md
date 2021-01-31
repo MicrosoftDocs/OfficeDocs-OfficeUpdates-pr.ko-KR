@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: dfc33d79d7746d60b88b2c58fc7511e00cfe4fed
-ms.sourcegitcommit: d321589264b07388b317099e86baf327358c060e
+ms.openlocfilehash: d76a29f3c54500e86fe833b6ac7e9de91c5e9b9d
+ms.sourcegitcommit: 71b7d573a7e32ab27a597330017ea60f7b094f5d
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49937073"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "50054510"
 ---
 # <a name="release-notes-for-beta-channel"></a>베타 채널용 릴리스 정보
 
@@ -30,6 +30,29 @@ ms.locfileid: "49937073"
 [//]: # (제거하지 마세요)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+## <a name="version-2102-january-29"></a>버전 2102: 1월 29일
+*버전 2102(빌드 13721.20008)*
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- 이름 정의 대화 상자에 이름을 추가하면 Excel이 예기치 않게 종료되는 문제가 해결되었습니다.
+
+
+### <a name="outlook"></a>Outlook
+
+- 암호화 전용 옵션을 사용하여 보낸 전자 메일에 대해 암호화 아이콘이 표시되지 않는 문제가 수정되었습니다.
+
+### <a name="project"></a>Project
+
+- 긴 키릴 자모 이름이 있는 프로젝트를 프로젝트 센터를 통해 열 수 없는 문제가 수정되었습니다.
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
 
 ## <a name="version-2102-january-22"></a>버전 2102: 1월 22일
 *버전 2102(빌드 13714.20000)*
@@ -1245,7 +1268,7 @@ ms.locfileid: "49937073"
 
 - 글머리 기호 아이콘이 제대로 표시되지 않는 문제를 수정했습니다.
 
-[//]: # (BUGDETILES 컨텐츠 끝)을(를) 제거하지 마세요.
+[//]: # (BUGDETILES 컨텐츠 끝)을(를) 제거하지 마십시오.
 
 ## <a name="version-2009-august-07"></a>버전 2009: 8월 7일
 *버전 2009(빌드 13130.20000)*
@@ -2389,6 +2412,7 @@ ms.locfileid: "49937073"
 
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13721.20008|version-2102-january-29|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13714.20000|version-2102-january-22|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13707.20008|version-2102-january-15|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13704.20000|version-2102-january-08|)
@@ -2398,5 +2422,4 @@ ms.locfileid: "49937073"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13604.20000|version-2101-december-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13530.20000|version-2012-december-04|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13519.20000|version-2012-november-27|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13512.20000|version-2012-november-20|)
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 끝)
