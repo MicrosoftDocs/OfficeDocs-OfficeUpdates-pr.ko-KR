@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Office 2016, Office 2013 및 Office 2010 영구 버전의 최신 비보안 업데이트 정보에 대한 링크를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: a27f237ebfa45bc00503ae56680c3082c6e05af0
-ms.sourcegitcommit: 83279185266cdc7c628bc5092360d2914e240034
+ms.openlocfilehash: d678db0661a86e65dc8fc17b659d7339c9ad2b65
+ms.sourcegitcommit: 94cecf570c23c9f540a659820706fca049ed97ab
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49756757"
+ms.lasthandoff: 02/02/2021
+ms.locfileid: "50080949"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Windows Installer(MSI)를 사용하는 Office 버전에 대한 최신 비보안 업데이트
 
@@ -25,6 +25,19 @@ ms.locfileid: "49756757"
 > - 이 문서의 정보는 Microsoft 365 앱에 적용되지 않습니다.
 > - Office 업데이트 설치에 대한 자세한 내용은 [Office 업데이트 설치](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)를 참조하세요.
 <br/><br/>
+
+## <a name="february-2-2021"></a>2021년 2월 2일
+**Office 2016**<br/>
+Microsoft Office 2016에 대한 업데이트([KB4493189](https://support.microsoft.com/help/4493189)) </br> Microsoft Outlook 2016에 대한 업데이트([KB4493190](https://support.microsoft.com/help/4493190)) </br> Microsoft PowerPoint 2016에 대한 업데이트([KB4493164](https://support.microsoft.com/help/4493164)) </br> 
+
+**Office 2013**<br/>
+Microsoft Office 2013에 대한 업데이트([KB4486684](https://support.microsoft.com/help/4486684)) </br>
+Microsoft PowerPoint 2013에 대한 업데이트([KB4493169](https://support.microsoft.com/help/4493169)) </br>
+
+**Office 2010**<br/>
+Microsoft Office 2010에 대한 업데이트([KB4493180](https://support.microsoft.com/help/4493180)) </br>
+Microsoft PowerPoint 2010 업데이트([KB4493179](https://support.microsoft.com/help/4493179))</br>
+
 
 ## <a name="january-5-2021"></a>2021년 1월 5일
 **Office 2016**</br>
