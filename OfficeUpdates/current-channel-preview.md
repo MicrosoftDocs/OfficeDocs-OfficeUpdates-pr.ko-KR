@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 이후 참가자 대상 그룹에게 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 647619401b48a0770bc40c26d3ccafd11d511c91
-ms.sourcegitcommit: 596f79408a3c2db9e81ce0ef236680ead06035b6
+ms.openlocfilehash: 20c8d43321c9eb99ba667e7d9ec418de7eedf607
+ms.sourcegitcommit: 64ec3051f942003a63c28a4713f5511d85f2fa20
 ms.translationtype: HT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 02/04/2021
-ms.locfileid: "50101366"
+ms.locfileid: "50105220"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 현재 채널(미리 보기)에 대한 릴리스 정보
 
@@ -78,16 +78,11 @@ ms.locfileid: "50101366"
 
 - **정부 고객: 문서 및 전자 메일에 민감도 레이블 적용:** 이제 GCC 및 GCC-H 환경의 고객이 민감도 레이블 기능을 사용할 수 있습니다. [자세히 알아보기](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).
 
+
 ### <a name="word"></a>Word
 
 - **정부 고객: 문서 및 전자 메일에 민감도 레이블 적용:** 이제 GCC 및 GCC-H 환경의 고객이 민감도 레이블 기능을 사용할 수 있습니다. [자세한 정보](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
-
-[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
-
-<br/>
-
-[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
 ### <a name="resolved-issues"></a>해결된 문제
 ### <a name="outlook"></a>Outlook
@@ -97,6 +92,8 @@ ms.locfileid: "50101366"
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
+
+
 
 ## <a name="version-2101-january-18"></a>버전 2101: 1월 18일
 *버전 2101 (빌드 13628.20158)*
@@ -122,6 +119,19 @@ ms.locfileid: "50101366"
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
+
+## <a name="version-2101-january-13"></a>버전 2101: 1월 13일
+*버전 2101(빌드 13628.20118)*
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="teams"></a>Teams
+- **추가 테마:** 테마를 데스크톱 및 웹 클라이언트에 사용할 수 있습니다.
+
+- **PPT 공유:** 공유 트레이에서 PowerPoint 파일을 선택하면 Teams의 발표자 보기가 자동으로 열립니다. 현재 슬라이드, 슬라이드 노트 및 간단한 추가 슬라이드 탐색을 위해 데크의 모든 슬라이드의 축소판 그림 스트립을 볼 수 있습니다. 이 보기는 완전히 뒤에 숨겨져 있으며, 발표자가 제어할 수 있는 개인 정보입니다. 대상 그룹은 현재 슬라이드(큰 빨간색 상자에 강조 표시) 또는 이동하기로 선택한 슬라이드(대상 사용자에 의해 대상 탐색이 잠겨 있지 않은 경우)만 볼 수 있습니다. 
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+<br/>
 
 ## <a name="version-2101-january-09"></a>버전 2101: 1월 9일
 *버전 2101(빌드 13628.20118)*

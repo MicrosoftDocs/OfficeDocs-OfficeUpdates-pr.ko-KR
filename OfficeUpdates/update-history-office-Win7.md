@@ -9,36 +9,33 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Windows 7용 Microsoft 365 앱의 업데이트 기록에 대한 릴리스 노트를 고객에게 제공합니다.
-ms.openlocfilehash: 555cb8bd9ddeaa53e209655a9c744ed6b6eb3ddf
-ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
+ms.openlocfilehash: 26aac794e5dec7f92afff1dd020528520ce98662
+ms.sourcegitcommit: 6a32d4120b43fbedbf08362255277cebd2be11a5
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "49837574"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50118398"
 ---
 # <a name="update-history-for-microsoft-365-apps-on-windows-7"></a>Windows 7의 Microsoft 365 앱 업데이트 기록 
 
  > [!NOTE]
 >
->- Windows 7에 대한 지원은 2020년 1월 14일에 종료되었습니다. [자세한 정보](https://www.microsoft.com/microsoft-365/windows/end-of-windows-7-support?rtc=1)
->- Microsoft 365 앱은 Windows 7을 더 이상 지원하지 않지만 2023년 1월까지 보안 업데이트는 계속 받게 됩니다. [자세한 정보](https://docs.microsoft.com/DeployOffice/windows-7-support)
->- Windows 7에서 Office를 실행하는 가정용 사용자인 경우에는 [Windows 7의 지원 종료 및 Office를 참조하세요.](https://support.office.com/en-us/article/windows-7-end-of-support-and-office-78f20fab-b57b-44d7-8368-06a8493f3cb9?ui=en-US&rs=en-US&ad=US)
-버전 2002은 2020년 1월 Windows 7의 지원이 종료된 후에 Windows 7을 실행하는 장치에서 사용할 수 있는 Microsoft 365 앱의 마지막 버전입니다.  
+>- Windows 7에 대한 지원은 2020년 1월 14일에 종료되었습니다. [자세한 정보](https://www.microsoft.com/microsoft-365/windows/end-of-windows-7-support)
+>- Microsoft 365 앱은 Windows 7을 더 이상 지원하지 않지만 2023년 1월까지 보안 업데이트는 계속 받게 됩니다. 자세한 내용을 확인하려면 [Windows 7 지원 종료와 Microsoft 365 앱](https://docs.microsoft.com/DeployOffice/endofsupport/windows-7-support)을 참조하세요.
+>- Windows 7에서 Office를 실행하는 가정용 사용자인 경우에는 [Windows 7의 지원 종료 및 Office를 참조하세요.](https://support.microsoft.com/office/78f20fab-b57b-44d7-8368-06a8493f3cb9)
 
-다음의 채널에서 버전 2002를 사용할 수 있습니다.
-- 2020년 2월 후반 월별 채널
-- 2020년 3월 반기 채널(대상 지정)
-- 2020년 7월 반기 채널
+버전 2002는 Windows 7을 실행하는 장치에서 사용할 수 있는 최신 버전의 Microsoft 365 앱입니다. 버전 2002는 Microsoft 365 앱의 모든 업데이트 채널에서 사용할 수 있습니다.
 
-반기 채널의 버전은 보통 14개월 동안만 사용할 수 있지만, Windows 7에 대한 확장된 보안 업데이트(ESU)의 기간에 맞추어 버전 2002에 한해서 예외를 적용하고 있습니다.
+반기 엔터프라이즈 채널의 버전은 일반적으로 14개월 동안만 사용할 수 있습니다. 그러나, Windows 7에 대한 확장된 보안 업데이트(ESU)의 기간에 맞추어 버전 2002에 한해서 예외를 적용하고 있습니다.
 
-이 확장된 버전 2002의 가용성은 또한 월간 및 반기(대상 지정)와 같은 다른 업데이트 채널에도 적용되지만, Windows 7을 실행하는 장치에만 적용됩니다.
+이 확장된 버전 2002의 가용성은 또한 현재 채널과 같은 다른 업데이트 채널에도 적용되지만, Windows 7을 실행하는 장치에만 적용됩니다.
 
-Windows 7을 실행하는 장치에 2002 버전의 이전 버전이 여전히 지원되는 한 계속 배포할 수 있습니다. 예를 들어 버전 1908이 반기 채널에 대해 지원받지 못하는 2021년 3월까지 Windows 7을 실행하는 장치에서 계속 반기 채널의 버전 1908을 사용할 수 있습니다.
+매월 둘째주 화요일에는 필요에 따라 보안 업데이트가 포함된 버전 2002의 새 빌드가 릴리스됩니다. 버전 2002의 보안 업데이트 목록은 다음 [Microsoft Office 보안 업데이트 릴리스 정보](microsoft365-apps-security-updates.md)를 참조하세요.
 
-매월 둘째주 화요일에는 필요에 따라 보안 업데이트가 포함된 버전 2002의 새 빌드가 릴리스됩니다. 각 아키텍처(x86 또는 x64)에 대한 빌드는 하나만 존재하고 배포된 업데이트 채널에만 사용될 수 있습니다. 각 채널에 대한 버전 2002의 별도 빌드가 없습니다. 예를 들어 동일한 빌드를 사용하여 월간 채널을 사용하거나 반기 채널을 사용하는 Windows 7을 실행하는 장치를 업데이트할 수 있습니다.
+Microsoft Endpoint Configuration Manager를 사용하여 업데이트를 관리하는 경우 [업데이트를 위해 데이트 관리자에 사용하는 경우 지침](https://docs.microsoft.com/deployoffice/endofsupport/windows-7-support#guidance-when-using-configuration-manager-for-updates)을 참조하세요.
 
-##
+
+## <a name="update-history"></a>업데이트 기록
 
 [//]: # (제거하지 마세요)
 
