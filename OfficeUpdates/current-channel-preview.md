@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 이후 참가자 대상 그룹에게 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 20c8d43321c9eb99ba667e7d9ec418de7eedf607
-ms.sourcegitcommit: 64ec3051f942003a63c28a4713f5511d85f2fa20
+ms.openlocfilehash: a225ff4079216b634a0bc113e077b4925dab158e
+ms.sourcegitcommit: 7c433a6b5cd2736a9e2ddf7a6c3bd0ea6814ac6e
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "50105220"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50151966"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 현재 채널(미리 보기)에 대한 릴리스 정보
 
@@ -28,6 +28,106 @@ ms.locfileid: "50105220"
 > - Microsoft Teams 기능은 릴리스 주기가 보다 빈번하기 때문에 최근에 릴리스된 현재 채널 미리 보기와 다를 수 있습니다.
 
 [//]: # (제거하지 마세요)
+
+## <a name="version-2102-february-08"></a>버전 2102: 2월 8일
+*버전2102(빌드 13801.20084)*
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="outlook"></a>Outlook
+
+- **Microsoft Search 지원 작성(받는 사람\참조\숨은 참조) 제안:** 이제 Microsoft Search에서 받는 사람\참조 줄에 사용자 추가 기능을 제공합니다.
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="access"></a>Access
+
+- 이제 선택한 탭이 액세스에서 더 분명하게 표시됩니다.
+
+
+### <a name="excel"></a>Excel
+
+- 파일을 다시 열 때 불연속적인 셀 범위를 사용하는 특정 차트가 로드되지 않는 문제를 해결합니다.
+
+
+- 특정 Windows 보안 공격 방지 설정(SimExec, 호출자 확인)을 사용 중인 경우 Excel이 예기치 않게 시작되지 않거나 닫히는 문제를 해결합니다.
+
+
+- 차트에서 데이터 계열을 선택한 후 Excel이 응답하지 않는 문제를 해결했습니다.
+
+
+- 이름 정의 대화 상자에 이름을 추가하면 Excel이 예기치 않게 종료되는 문제를 해결했습니다.
+
+
+- 자르기 작업 중에 비율이 유지되는 그림과 관련된 문제가 수정되었습니다.
+
+
+### <a name="outlook"></a>Outlook
+
+- 사용자가 해당 옵션을 선택하지 않은 후 메일이 디지털 서명으로 전송될 수 있는 문제가 수정되었습니다.
+
+
+- 암호화 전용 옵션을 사용하여 보낸 전자 메일에 대해 암호화 아이콘이 표시되지 않는 문제를 해결했습니다.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 색으로 이모지 표시와 관련된 문제를 해결했습니다.
+
+
+- 자르기 작업 중에 비율이 유지되는 그림과 관련된 문제를 해결했습니다.
+
+
+### <a name="visio"></a>Visio
+
+- CAD 스텐실에서 모양 렌더링과 관련된 문제가 이제 해결되었습니다. 사용자는 최신 빌드에서 이 문제가 해결된 것을 확인할 수 있습니다.
+
+
+### <a name="word"></a>Word
+
+- 일정 시간 인터넷 연결이 끊기면 실시간 입력과 현재 상태가 복원되지 않는 문제를 해결했습니다.
+
+
+- 사용자가 설명에서 텍스트를 선택하면 Word는 이제 다른 설명에서 선택한 텍스트를 선택 취소합니다.
+
+
+- 이제 설명 텍스트를 Word에서 Excel로 복사할 수 있습니다.
+
+
+- VBA 매크로 ExportAsFixedFormat2를 실행할 때 "프레젠테이션(알 수 없는 구성원) 잘못된 값"이라는 오류와 함께 실패하는 문제를 해결했습니다.
+
+
+- 자르기 작업 중에 비율이 유지되는 그림과 관련된 문제가 수정되었습니다.
+
+
+- 링크가 있는 주석이 사용되지 않을 수 있는 문제가 수정되었습니다.
+
+
+- SharePoint Online으로 저장하는 데 문제가 수정되었습니다.
+
+
+- Word 문서를 PDF로 내보내는 작업과 관련된 문제가 수정되었습니다.
+
+
+- 자동 복구 관련 문제를 해결했습니다.
+
+
+### <a name="office-suite"></a>Office 제품군
+
+- 글머리 기호를 이미지로 삽입하면 글머리 기호가 사라지는 PowerPoint에서의 버그를 해결했습니다. 이 문제가 해결됨에 따라 더 안정적으로 렌더링됩니다.
+
+- 다른 로그인 계정에 대한 민감도 레이블을 표시해야 하는 경우에 Office에서 로그인한 계정에 대한 민감도 레이블이 표시되는 문제가 수정되었습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
 
 ## <a name="version-2101-february-03"></a>버전 2101: 2월 3일
 *버전 2101(빌드 13628.20330)*
