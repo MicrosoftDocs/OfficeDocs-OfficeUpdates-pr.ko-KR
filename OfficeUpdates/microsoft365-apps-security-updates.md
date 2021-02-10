@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT 전문가에게 Microsoft Office 보안 업데이트에 대한 릴리스 정보를 제공합니다.
-ms.openlocfilehash: 7f5cefd77c4639d4e06bd3974f56e070710bd2e8
-ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
+ms.openlocfilehash: 70d82af998c180290c0f826c46d0dd8f21b74243
+ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "49837679"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "50173717"
 ---
 # <a name="release-notes-for-microsoft-office-security-updates"></a>Microsoft Office 보안 업데이트 릴리스 정보
 
@@ -31,6 +31,29 @@ ms.locfileid: "49837679"
  
 
 [//]: # (공백으로 사용하므로, 위의 선을 삭제하지 마세요.)  
+
+## <a name="february-09-2021"></a>2021년 2월 9일
+월 단위 기업 채널: 버전 2012(빌드 13530.20528)  
+월 단위 기업 채널: 버전 2011(빌드 13426.20658)  
+반기 기업 채널(프리뷰): 버전 2008(빌드 13127.21216)  
+반기 기업 채널: 버전 2008(빌드 13127.21216)  
+반기 기업 채널: 버전 2002(빌드 12527.21594)  
+반기 기업 채널: 버전 1908(빌드 11929.21008)  
+Windows 7 기반 Microsoft 365 앱: 버전 2002(빌드 12527.21594)  
+Office 2019 볼륨 라이선스: 버전 1808(빌드 10371.20060)  
+
+[//]: # (보안 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2021-24069](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2021-24069)
+-   [CVE-2021-24070](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2021-24070)
+-   [CVE-2021-24067](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2021-24067)
+
+[//]: # (보안 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+
 
 ## <a name="january-12-2021"></a>2021년 1월 12일
 현재 채널: 버전 2012(빌드 13530.20376)  
@@ -99,7 +122,7 @@ Office 2019 볼륨 라이선스: 버전 1808(빌드 10369.20032)
 
 -   [CVE-2020-17124](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-17124)
 
-[//]: # (보안 세부 정보 콘텐츠를 제거하지 마세요 끝)
+[//]: # (보안 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 
 

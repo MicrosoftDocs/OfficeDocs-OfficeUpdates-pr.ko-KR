@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 앱에 대한 반기 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 260219b731e1edcb3b02ecc5a45e330b2ac4b0ca
-ms.sourcegitcommit: 34bca539ddfe0e06b772aaa294f4e992630b2a41
+ms.openlocfilehash: 6b50195e2e84292b0b4b1e259254592f2c4a591b
+ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "50032319"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "50173657"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>반기 기업 채널에 대한 릴리스 정보
 
@@ -29,6 +29,89 @@ ms.locfileid: "50032319"
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2008-february-09"></a>버전 2008: 2월 9일
+*버전 2008 (빌드 13127.21216)*
+
+[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- 잘못된 파일 특성(만든 시간, 수정된 시간 등)이 있는 UNC 파일을 열 때 Excel이 예기치 않게 닫히는 문제를 해결했습니다.
+
+
+- Excel에서 차트를 복사하여 Word 또는 PowerPoint에 붙여넣을 때 소수점 및 천 단위 구분 기호 설정이 수행되지 않는 문제를 해결했습니다.
+
+
+- 매크로가 실행될 때마다 피벗 테이블 범위 형식과 관련된 매크로 실행 성능이 저하되는 문제를 해결했습니다.
+
+
+- 시트를 복사하거나 다른 통합 문서로 이동할 때 조건부 서식 규칙이 삭제되는 문제를 해결했습니다.
+
+
+- 앱 부팅 시 시작 화면이 비활성화되었을 때 사용자가 Excel 파일에 민감도 레이블을 적용할 수 없는 문제를 해결했습니다.
+
+
+- OneDrive 동기화 폴더에서 클라우드 파일을 여는 중 생기는 문제를 해결했습니다.
+
+
+### <a name="outlook"></a>Outlook
+
+- 첨부 파일을 추가하거나 저장할 때 Outlook이 산발적으로 작동을 멈추게 하는 문제를 해결했습니다.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- QAT에서 추가한 글꼴 크기 명령이 업데이트하는 동안 가장 가까운 정의된 글꼴 크기로 자동 완성되는 문제를 수정했습니다.
+
+
+- '원본 서식 유지' 옵션이 때때로 새 슬라이드 마스터에 복사되는 문제를 해결했습니다.
+
+
+### <a name="word"></a>Word
+
+- 변경사항 추적에서 Word 문서를 열면 오류 대화상자가 표시될 수 있는 문제를 수정했습니다.
+
+
+- OneDrive 동기화 폴더에서 클라우드 파일을 여는 중 생기는 문제를 해결했습니다.
+
+
+### <a name="office-suite"></a>Office 제품군
+
+- Office에서 파일을 열 수 없는 문제를 수정했습니다.
+
+
+- 서식 복사를 통해 커넥터에 적용된 스케치된 윤곽선이 포함된 문서가 손상될 수 있는 문제를 해결했습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
+
+## <a name="version-2002-february-09"></a>버전 2002: 2월 9일
+*버전 2002(빌드 12527.21594)*
+
+[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="office-suite"></a>Office 제품군
+
+- 서식 복사를 통해 커넥터에 적용된 스케치된 윤곽선이 포함된 문서가 손상될 수 있는 문제를 해결했습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
+
+## <a name="version-1908-february-09"></a>버전 1908: 2월 9일
+*버전 1908(빌드 11929.21008)*
+
+[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 보안 업데이트가 나열됩니다.
 
 ## <a name="version-2008-january-12"></a>버전 2008: 1월 12일
 *버전 2008(빌드 13127.21064)*
@@ -2566,6 +2649,7 @@ ms.locfileid: "50032319"
 
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|DC|Production| |16.0.13127.21216|version-2008-february-09|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21064|version-2008-january-12|)
 [//]: # (|Win32|DC|Production| |16.0.12527.21416|version-2002-december-08|)
 [//]: # (|Win32|DC|Production| |16.0.12527.21330|version-2002-november-10|)

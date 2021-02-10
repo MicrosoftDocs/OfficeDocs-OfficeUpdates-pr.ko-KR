@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 각 업데이트 채널에 대한 Microsoft 365 앱 업데이트의 대략적인 다운로드 크기 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 85b022b5823661f2d2fed4a3cea2522e57e70075
-ms.sourcegitcommit: c3115d0acd9074ebe9be4b468f5e54361af6c582
+ms.openlocfilehash: 5e741a9bc7da8fc5476e27b88c71b2bd3e81393b
+ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "50108020"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "50173747"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 앱 업데이트의 다운로드 크기
 
@@ -36,14 +36,13 @@ Microsoft의 목표는 기업 고객이 네트워크 대역폭 사용률을 계�
 
 [//]: # (제거하지 마세요)
 
-[//]: # (예상 항목을 제거하지 마세요. 시작)
+## <a name="february-9-2021"></a>2021년 2월 9일
 
-## <a name="february-4-2021"></a>2021년 2월 4일
-
+[//]: # (콘텐츠를 제거하지 마세요. 시작 2021년 2월 9일)
 
 ### <a name="monthly-enterprise-channel"></a>월 단위 기업 채널
 
-<i>예상된 릴리스는 버전 2012(빌드 13530.20510)입니다.</i>
+가장 최근 릴리스는 버전 2012(빌드 13530.20528)입니다.
 
 |**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
 |:-----|:-----|:-----|
@@ -53,7 +52,7 @@ Microsoft의 목표는 기업 고객이 네트워크 대역폭 사용률을 계�
 
 ### <a name="semi-annual-enterprise-channel-preview"></a>반기 기업 채널(미리 보기)
 
-<i>예상된 릴리스는 버전 2008(빌드 13127.21184)입니다.</i>
+가장 최근 릴리스는 버전 2008(빌드 13127.21216)입니다.
 
 |**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
 |:-----|:-----|:-----|
@@ -63,7 +62,7 @@ Microsoft의 목표는 기업 고객이 네트워크 대역폭 사용률을 계�
 
 ### <a name="semi-annual-enterprise-channel"></a>반기 엔터프라이즈 채널
 
-<i>예상된 릴리스는 버전 2008(빌드 13127.21184)입니다.</i>
+가장 최근 릴리스는 버전 2008(빌드 13127.21216)입니다.
 
 |**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
 |:-----|:-----|:-----|
@@ -71,7 +70,10 @@ Microsoft의 목표는 기업 고객이 네트워크 대역폭 사용률을 계�
 |버전 2002 (빌드 12527.21416) <br/> |2020년 12월 8일 <br/> |363<br/> |
 
 
-[//]: # (예상 항목을 제거하지 마세요. 종료)
+[//]: # (컨텐츠를 제거하지 마세요. 종료 2021년 2월 9일)
+
+
+
 
 ## <a name="january-26-2021"></a>2021년 1월 26일
 

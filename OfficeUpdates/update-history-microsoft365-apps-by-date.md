@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 릴리스 정보에 대한 링크를 포함하여 Microsoft 365 앱 릴리스의 전체 목록을 날짜별로 구성해서 IT 전문가에게 제공합니다.
-ms.openlocfilehash: daa3193272c05afbcfab5296ba2fd17952667d51
-ms.sourcegitcommit: 0e5154d937aaa5fd45f8fa79b8f0b2a614b7e5a0
+ms.openlocfilehash: ebf10c81f15dc5b072ef0f8efe8e03bc11644a36
+ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50013279"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "50173807"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 앱의 업데이트 기록(날짜순)
 
@@ -37,12 +37,12 @@ ms.locfileid: "50013279"
 |**채널**|**버전**|**빌드**|**릴리스 날짜**|**다음 이하 버전까지 지원**|
 |:-----|:-----|:-----|:-----|:-----|
 |현재 채널<br/>|2101<br/>|13628.20274<br/>|2021년 1월 26일<br/>|버전 2102 릴리스됨<br/>|
-|월 단위 엔터프라이즈 채널<br/>|2011<br/>|13426.20526<br/>|2021년 1월 12일<br/>|2021년 3월 9일<br/>|
-|월 단위 엔터프라이즈 채널<br/>|2010<br/>|13328.20550<br/>|2021년 1월 12일<br/>|2021년 2월 9일<br/>|
-|반기 엔터프라이즈 채널(미리 보기)<br/>|2008<br/>|13127.21064<br/>|2021년 1월 12일<br/>|2021년 3월 9일<br/>|
-|반기 엔터프라이즈 채널<br/>|2008<br/>|13127.21064<br/>|2021년 1월 12일<br/>|2022년 3월 8일<br/>|
-|반기 엔터프라이즈 채널<br/>|2002<br/>|12527.21504<br/>|2021년 1월 12일<br/>|2021년 9월 14일<br/>|
-|반기 엔터프라이즈 채널<br/>|1908<br/>|11929.20994<br/>|2021년 1월 12일<br/>|2021년 3월 9일<br/>|
+|월 단위 엔터프라이즈 채널<br/>|2012<br/>|13530.20528<br/>|2021년 2월 9일<br/>|2021년 4월 13일<br/>|
+|월 단위 엔터프라이즈 채널<br/>|2011<br/>|13426.20658<br/>|2021년 2월 9일<br/>|2021년 3월 9일<br/>|
+|반기 엔터프라이즈 채널(미리 보기)<br/>|2008<br/>|13127.21216<br/>|2021년 2월 9일<br/>|2021년 3월 9일<br/>|
+|반기 엔터프라이즈 채널<br/>|2008<br/>|13127.21216<br/>|2021년 2월 9일<br/>|2022년 3월 8일<br/>|
+|반기 엔터프라이즈 채널<br/>|2002<br/>|12527.21594<br/>|2021년 2월 9일<br/>|2021년 9월 14일<br/>|
+|반기 엔터프라이즈 채널<br/>|1908<br/>|11929.21008<br/>|2021년 2월 9일<br/>|2021년 3월 9일<br/>|
 
 [//]: # (EOSTABLEEND)
 
@@ -56,6 +56,7 @@ ms.locfileid: "50013279"
 
 |**년도**|**릴리스 날짜**|**현재 채널**|**월 단위 엔터프라이즈 채널**|**반기 엔터프라이즈 채널(미리 보기)**|**반기 엔터프라이즈 채널**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2021|February 09| |[버전 2012(빌드 13530.20528)](monthly-enterprise-channel.md#version-2012-february-09)<br/>[버전 2011 (빌드 13426.20658)](monthly-enterprise-channel.md#version-2011-february-09)|[버전 2008(빌드 13127.21216)](semi-annual-enterprise-channel-preview.md#version-2008-february-09)|[버전 2008(빌드 13127.21216)](semi-annual-enterprise-channel.md#version-2008-february-09)<br/>[버전 2002(빌드 12527.21594)](semi-annual-enterprise-channel.md#version-2002-february-09)<br/>[버전 1908 (빌드 11929.21008)](semi-annual-enterprise-channel.md#version-1908-february-09)|
 |2021|1월 26일|[버전 2101(빌드 13628.20274)](current-channel.md#version-2101-january-26)| | | |
 |2021|1월 21일|[버전 2012(빌드 13530.20440)](current-channel.md#version-2012-january-21)| | | |
 |2021|1월 12일|[버전 2012(빌드 13530.20376)](current-channel.md#version-2012-january-12)|[버전 2011(빌드 13426.20526)](monthly-enterprise-channel.md#version-2011-january-12)<br/>[버전 2010(빌드 13328.20550)](monthly-enterprise-channel.md#version-2010-january-12)|[버전 2008(빌드 13127.21064)](semi-annual-enterprise-channel-preview.md#version-2008-january-12)|[버전 2008(빌드 13127.21064)](semi-annual-enterprise-channel.md#version-2008-january-12)<br/>[버전 2002(빌드 12527.21504)](semi-annual-enterprise-channel.md#version-2002-january-12)<br/>[버전 1908 (빌드 11929.20994)](semi-annual-enterprise-channel.md#version-1908-january-12)|
@@ -132,8 +133,8 @@ ms.locfileid: "50013279"
 |2019|4월 16일 |[버전 1903(빌드 11425.20218)](monthly-channel-archived.md#version-1903-april-16)| | | |
 |2019|4월 9일 |[버전 1903(빌드 11425.20204)](monthly-channel-archived.md#version-1903-april-9)| |[버전 1902(빌드 11328.20230)](semi-annual-enterprise-channel-preview-archived.md#version-1902-april-9) |[버전 1808(빌드 10730.20334)](semi-annual-enterprise-channel-archived.md#version-1808-april-9)  <br/>  [버전 1803(빌드 9126.2382)](semi-annual-enterprise-channel-archived.md#version-1803-april-9) |
 |2019|4월 1일 |[버전 1903(빌드 11425.20202)](monthly-channel-archived.md#version-1903-april-01)| | | |
-|2019|3월 25일 |[버전 1902(빌드 11328.20222)](monthly-channel-archived.md#version-1902-march-25)| | | |
-|2019|3월 12일 |[버전 1902(빌드 11328.20158)](monthly-channel-archived.md#version-1902-march-12)| |[버전 1902(빌드 11328.20158)](semi-annual-enterprise-channel-preview-archived.md#version-1902-march-12) |[버전 1808(빌드 10730.20304)](semi-annual-enterprise-channel-archived.md#version-1808-march-12)  <br/> | |
+|2019년|3월 25일 |[버전 1902(빌드 11328.20222)](monthly-channel-archived.md#version-1902-march-25)| | | |
+|2019년|3월 12일 |[버전 1902(빌드 11328.20158)](monthly-channel-archived.md#version-1902-march-12)| |[버전 1902(빌드 11328.20158)](semi-annual-enterprise-channel-preview-archived.md#version-1902-march-12) |[버전 1808(빌드 10730.20304)](semi-annual-enterprise-channel-archived.md#version-1808-march-12)  <br/> | |
 |2019년|3월 4일  |[버전 1902(빌드 11328.20146)](monthly-channel-archived.md#version-1902-march-4)| | | |
 |2019년|2월 12일 |[버전 1901(빌드 11231.20174)](monthly-channel-archived.md#version-1901-february-12)| |[버전 1808(빌드 10730.20280)](semi-annual-enterprise-channel-preview-archived.md#version-1808-february-12) |[버전 1808(빌드 10730.20280)](semi-annual-enterprise-channel-archived.md#version-1808-february-12)  <br/>  [버전 1803(빌드 9126.2356)](semi-annual-enterprise-channel-archived.md#version-1803-february-12)  <br/> [버전 1708(빌드 8431.2372)](office365-proplus-security-updates.md#february-12-2019) |
 |2019|1월 31일   |[버전 1901(빌드 11231.20130)](monthly-channel-archived.md#version-1901-january-31)| | | |
