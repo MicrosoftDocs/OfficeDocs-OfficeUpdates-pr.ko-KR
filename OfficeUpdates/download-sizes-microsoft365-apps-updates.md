@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 각 업데이트 채널에 대한 Microsoft 365 앱 업데이트의 대략적인 다운로드 크기 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 5e741a9bc7da8fc5476e27b88c71b2bd3e81393b
-ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
+ms.openlocfilehash: 853e398dab1e6eb040afbf5ccd6dbacd9fe6a9ea
+ms.sourcegitcommit: b015407aa6693d879f11025b40a7b45424753f99
 ms.translationtype: HT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 02/10/2021
-ms.locfileid: "50173747"
+ms.locfileid: "50177930"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 앱 업데이트의 다운로드 크기
 
@@ -39,6 +39,16 @@ Microsoft의 목표는 기업 고객이 네트워크 대역폭 사용률을 계�
 ## <a name="february-9-2021"></a>2021년 2월 9일
 
 [//]: # (콘텐츠를 제거하지 마세요. 시작 2021년 2월 9일)
+
+### <a name="current-channel"></a>현재 채널
+
+가장 최근 릴리스는 버전 2101(빌드 13628.20380)입니다.
+
+|**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
+|:-----|:-----|:-----|
+|버전 2101(빌드 13628.20274) <br/> |2021년 1월 26일 <br/> |62<br/> |
+|버전 2012(빌드 13530.20440) <br/> |2021년 1월 21일 <br/> |203<br/> |
+
 
 ### <a name="monthly-enterprise-channel"></a>월 단위 기업 채널
 

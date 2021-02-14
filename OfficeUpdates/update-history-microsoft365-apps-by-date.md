@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 릴리스 정보에 대한 링크를 포함하여 Microsoft 365 앱 릴리스의 전체 목록을 날짜별로 구성해서 IT 전문가에게 제공합니다.
-ms.openlocfilehash: ebf10c81f15dc5b072ef0f8efe8e03bc11644a36
-ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
+ms.openlocfilehash: 49df49e29ea96bd0c73d8238bc9e8d909b666656
+ms.sourcegitcommit: b015407aa6693d879f11025b40a7b45424753f99
 ms.translationtype: HT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 02/10/2021
-ms.locfileid: "50173807"
+ms.locfileid: "50177970"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 앱의 업데이트 기록(날짜순)
 
@@ -36,7 +36,7 @@ ms.locfileid: "50173807"
 
 |**채널**|**버전**|**빌드**|**릴리스 날짜**|**다음 이하 버전까지 지원**|
 |:-----|:-----|:-----|:-----|:-----|
-|현재 채널<br/>|2101<br/>|13628.20274<br/>|2021년 1월 26일<br/>|버전 2102 릴리스됨<br/>|
+|현재 채널<br/>|2101<br/>|13628.20380<br/>|2021년 2월 9일<br/>|버전 2102 릴리스됨<br/>|
 |월 단위 엔터프라이즈 채널<br/>|2012<br/>|13530.20528<br/>|2021년 2월 9일<br/>|2021년 4월 13일<br/>|
 |월 단위 엔터프라이즈 채널<br/>|2011<br/>|13426.20658<br/>|2021년 2월 9일<br/>|2021년 3월 9일<br/>|
 |반기 엔터프라이즈 채널(미리 보기)<br/>|2008<br/>|13127.21216<br/>|2021년 2월 9일<br/>|2021년 3월 9일<br/>|
@@ -56,7 +56,7 @@ ms.locfileid: "50173807"
 
 |**년도**|**릴리스 날짜**|**현재 채널**|**월 단위 엔터프라이즈 채널**|**반기 엔터프라이즈 채널(미리 보기)**|**반기 엔터프라이즈 채널**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
-|2021|February 09| |[버전 2012(빌드 13530.20528)](monthly-enterprise-channel.md#version-2012-february-09)<br/>[버전 2011 (빌드 13426.20658)](monthly-enterprise-channel.md#version-2011-february-09)|[버전 2008(빌드 13127.21216)](semi-annual-enterprise-channel-preview.md#version-2008-february-09)|[버전 2008(빌드 13127.21216)](semi-annual-enterprise-channel.md#version-2008-february-09)<br/>[버전 2002(빌드 12527.21594)](semi-annual-enterprise-channel.md#version-2002-february-09)<br/>[버전 1908 (빌드 11929.21008)](semi-annual-enterprise-channel.md#version-1908-february-09)|
+|2021|February 09|[버전 2101(빌드 13628.20380)](current-channel.md#version-2101-february-09)|[버전 2012(빌드 13530.20528)](monthly-enterprise-channel.md#version-2012-february-09)<br/>[버전 2011 (빌드 13426.20658)](monthly-enterprise-channel.md#version-2011-february-09)|[버전 2008(빌드 13127.21216)](semi-annual-enterprise-channel-preview.md#version-2008-february-09)|[버전 2008(빌드 13127.21216)](semi-annual-enterprise-channel.md#version-2008-february-09)<br/>[버전 2002(빌드 12527.21594)](semi-annual-enterprise-channel.md#version-2002-february-09)<br/>[버전 1908 (빌드 11929.21008)](semi-annual-enterprise-channel.md#version-1908-february-09)|
 |2021|1월 26일|[버전 2101(빌드 13628.20274)](current-channel.md#version-2101-january-26)| | | |
 |2021|1월 21일|[버전 2012(빌드 13530.20440)](current-channel.md#version-2012-january-21)| | | |
 |2021|1월 12일|[버전 2012(빌드 13530.20376)](current-channel.md#version-2012-january-12)|[버전 2011(빌드 13426.20526)](monthly-enterprise-channel.md#version-2011-january-12)<br/>[버전 2010(빌드 13328.20550)](monthly-enterprise-channel.md#version-2010-january-12)|[버전 2008(빌드 13127.21064)](semi-annual-enterprise-channel-preview.md#version-2008-january-12)|[버전 2008(빌드 13127.21064)](semi-annual-enterprise-channel.md#version-2008-january-12)<br/>[버전 2002(빌드 12527.21504)](semi-annual-enterprise-channel.md#version-2002-january-12)<br/>[버전 1908 (빌드 11929.20994)](semi-annual-enterprise-channel.md#version-1908-january-12)|

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT 전문가에게 Microsoft Office 보안 업데이트에 대한 릴리스 정보를 제공합니다.
-ms.openlocfilehash: 70d82af998c180290c0f826c46d0dd8f21b74243
-ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
+ms.openlocfilehash: 51cdd72d39d45d67069dde69bf3a0d5cf4bd90e6
+ms.sourcegitcommit: b015407aa6693d879f11025b40a7b45424753f99
 ms.translationtype: HT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 02/10/2021
-ms.locfileid: "50173717"
+ms.locfileid: "50177940"
 ---
 # <a name="release-notes-for-microsoft-office-security-updates"></a>Microsoft Office 보안 업데이트 릴리스 정보
 
@@ -33,6 +33,7 @@ ms.locfileid: "50173717"
 [//]: # (공백으로 사용하므로, 위의 선을 삭제하지 마세요.)  
 
 ## <a name="february-09-2021"></a>2021년 2월 9일
+현재 채널: 버전 2101(빌드 13628.20380)  
 월 단위 기업 채널: 버전 2012(빌드 13530.20528)  
 월 단위 기업 채널: 버전 2011(빌드 13426.20658)  
 반기 기업 채널(프리뷰): 버전 2008(빌드 13127.21216)  
@@ -40,6 +41,8 @@ ms.locfileid: "50173717"
 반기 기업 채널: 버전 2002(빌드 12527.21594)  
 반기 기업 채널: 버전 1908(빌드 11929.21008)  
 Windows 7 기반 Microsoft 365 앱: 버전 2002(빌드 12527.21594)  
+Office 2019 소매: 버전 2101(빌드 13628.20380)  
+Office 2016 소매: 버전 2101(빌드 13628.20380)  
 Office 2019 볼륨 라이선스: 버전 1808(빌드 10371.20060)  
 
 [//]: # (보안 세부 정보 콘텐츠를 제거하지 마세요. 시작)
