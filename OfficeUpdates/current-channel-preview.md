@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 이후 참가자 대상 그룹에게 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: c5e674a4de1d99939daf5d42266071aa4eddfdcf
-ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
+ms.openlocfilehash: abb6b5cc2d425bf2f99a947eda622d6798e4ec56
+ms.sourcegitcommit: 91cdc26b717315b6603bf75ded1347b29a84fcb6
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50173637"
+ms.lasthandoff: 02/16/2021
+ms.locfileid: "50263956"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 현재 채널(미리 보기)에 대한 릴리스 정보
 
@@ -28,6 +28,45 @@ ms.locfileid: "50173637"
 > - Microsoft Teams 기능은 릴리스 주기가 보다 빈번하기 때문에 최근에 릴리스된 현재 채널 미리 보기와 다를 수 있습니다.
 
 [//]: # (제거하지 마세요)
+
+## <a name="version-2102-february-16"></a>버전 2102: 2월 16일
+*버전 2102(빌드 13801.20160)*
+* 다양한 버그 및 성능 수정 사항.
+
+## <a name="version-2102-february-15"></a>버전 2102: 2월 15일
+*버전 2102(빌드 13801.20158)*
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="outlook"></a>Outlook
+
+- **받아쓰기 기능을 사용할 수 있는 추가 언어:** 이제 다음 7개 언어에서 받아쓰기 기능을 사용할 수 있습니다. 힌디어, 러시아어, 폴란드어, 포르투갈어(포르투갈), 한국어, 태국어, 중국어(대만)
+
+### <a name="word"></a>Word
+
+- **받아쓰기 기능을 사용할 수 있는 추가 언어:** 이제 다음 7개 언어에서 받아쓰기 기능을 사용할 수 있습니다. 힌디어, 러시아어, 폴란드어, 포르투갈어(포르투갈), 한국어, 태국어, 중국어(대만)
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- 사용자가 Excel 통합 문서를 PDF로 내보낼 수 없는 문제를 해결했습니다.
+
+
+### <a name="word"></a>Word
+
+- 공동으로 작성할 때 발생하는 충돌 문제를 해결했습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
 
 ## <a name="version-2102-february-08"></a>버전 2102: 2월 8일
 *버전2102(빌드 13801.20084)*
