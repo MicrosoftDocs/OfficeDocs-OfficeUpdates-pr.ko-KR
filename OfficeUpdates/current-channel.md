@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 앱에 대한 월 단위 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: f7ac64dfccab0196b01bceb1854dc4a450223c2a
-ms.sourcegitcommit: b015407aa6693d879f11025b40a7b45424753f99
+ms.openlocfilehash: c6b6b6b7f87257cd3e512f4b5dfd8164a2a65dec
+ms.sourcegitcommit: 4b7514025e31d2baef2082cd9cb8434646edfe82
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50177957"
+ms.lasthandoff: 02/17/2021
+ms.locfileid: "50271791"
 ---
 # <a name="release-notes-for-current-channel"></a>현재 채널에 대한 릴리스 정보
 
@@ -32,6 +32,31 @@ ms.locfileid: "50177957"
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2101-february-16"></a>버전 2101: 2월 16일
+*버전 2101(빌드 13628.20448)*
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="outlook"></a>Outlook
+
+- 사용자가 Outlook에서 검색할 때 앱이 가끔 예기치 않게 닫히는 문제를 해결했습니다.
+
+
+- 사용자가 해당 옵션을 선택하지 않은 후 메일이 디지털 서명된 채로 전송되는 문제를 해결했습니다.
+
+
+### <a name="office-suite"></a>Office 제품군
+
+- 미디어 컨트롤러 이벤트 알림과 관련된 문제를 해결합니다.
+
+
+- 미디어 플레이어 엔진 타이밍과 관련된 문제를 해결합니다.
 
 
 
@@ -1963,6 +1988,7 @@ ms.locfileid: "50177957"
 > Office를 사용하는 데 발생한 문제에 대해 도움이 필요하면 [Microsoft의 Answers 포럼](https://answers.microsoft.com/) 또는 [기술 커뮤니티](https://techcommunity.microsoft.com/)에 질문을 게시하거나 [지원 서비스](https://support.microsoft.com/contactus)에 문의할 수 있습니다.
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|CC|Production| |16.0.13628.20448|version-2101-february-16|)
 [//]: # (|Win32|CC|Production| |16.0.13628.20380|version-2101-february-09|)
 [//]: # (|Win32|CC|Production| |16.0.13628.20274|version-2101-january-26|)
 [//]: # (|Win32|CC|Production| |16.0.13530.20440|version-2012-january-21|)
@@ -1972,5 +1998,4 @@ ms.locfileid: "50177957"
 [//]: # (|Win32|CC|Production| |16.0.13426.20332|version-2011-december-08|)
 [//]: # (|Win32|CC|Production| |16.0.13426.20308|version-2011-december-02|)
 [//]: # (|Win32|CC|Production| |16.0.13426.20294|version-2011-november-30|)
-[//]: # (|Win32|CC|Production| |16.0.13426.20274|version-2011-november-23|)
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 끝)
