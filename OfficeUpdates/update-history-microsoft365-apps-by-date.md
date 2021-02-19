@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 릴리스 정보에 대한 링크를 포함하여 Microsoft 365 앱 릴리스의 전체 목록을 날짜별로 구성해서 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 49df49e29ea96bd0c73d8238bc9e8d909b666656
-ms.sourcegitcommit: b015407aa6693d879f11025b40a7b45424753f99
+ms.openlocfilehash: 8c430193def5bacbd177630c3d61598c8ab49bdd
+ms.sourcegitcommit: 22b0fb80adf158717f43f07a1d6e18ec91618fb4
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50177970"
+ms.lasthandoff: 02/17/2021
+ms.locfileid: "50279825"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 앱의 업데이트 기록(날짜순)
 
@@ -36,7 +36,7 @@ ms.locfileid: "50177970"
 
 |**채널**|**버전**|**빌드**|**릴리스 날짜**|**다음 이하 버전까지 지원**|
 |:-----|:-----|:-----|:-----|:-----|
-|현재 채널<br/>|2101<br/>|13628.20380<br/>|2021년 2월 9일<br/>|버전 2102 릴리스됨<br/>|
+|현재 채널<br/>|2101<br/>|13628.20448<br/>|2021년 2월 16일<br/>|버전 2102 릴리스됨<br/>|
 |월 단위 엔터프라이즈 채널<br/>|2012<br/>|13530.20528<br/>|2021년 2월 9일<br/>|2021년 4월 13일<br/>|
 |월 단위 엔터프라이즈 채널<br/>|2011<br/>|13426.20658<br/>|2021년 2월 9일<br/>|2021년 3월 9일<br/>|
 |반기 엔터프라이즈 채널(미리 보기)<br/>|2008<br/>|13127.21216<br/>|2021년 2월 9일<br/>|2021년 3월 9일<br/>|
@@ -56,6 +56,7 @@ ms.locfileid: "50177970"
 
 |**년도**|**릴리스 날짜**|**현재 채널**|**월 단위 엔터프라이즈 채널**|**반기 엔터프라이즈 채널(미리 보기)**|**반기 엔터프라이즈 채널**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2021|2월 16일|[버전 2101(빌드 13628.20448)](current-channel.md#version-2101-february-17)| | | |
 |2021|February 09|[버전 2101(빌드 13628.20380)](current-channel.md#version-2101-february-09)|[버전 2012(빌드 13530.20528)](monthly-enterprise-channel.md#version-2012-february-09)<br/>[버전 2011 (빌드 13426.20658)](monthly-enterprise-channel.md#version-2011-february-09)|[버전 2008(빌드 13127.21216)](semi-annual-enterprise-channel-preview.md#version-2008-february-09)|[버전 2008(빌드 13127.21216)](semi-annual-enterprise-channel.md#version-2008-february-09)<br/>[버전 2002(빌드 12527.21594)](semi-annual-enterprise-channel.md#version-2002-february-09)<br/>[버전 1908 (빌드 11929.21008)](semi-annual-enterprise-channel.md#version-1908-february-09)|
 |2021|1월 26일|[버전 2101(빌드 13628.20274)](current-channel.md#version-2101-january-26)| | | |
 |2021|1월 21일|[버전 2012(빌드 13530.20440)](current-channel.md#version-2012-january-21)| | | |
