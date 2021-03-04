@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Microsoft 365 앱 구독자를 위한 Mac용 Office 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 38acca443d355786ddefe61329756931eb93f803
-ms.sourcegitcommit: 91cdc26b717315b6603bf75ded1347b29a84fcb6
+ms.openlocfilehash: e671d6d2520edde125287179c49c1556914b3ab8
+ms.sourcegitcommit: 75e6b1f2f564b32969be80e0594e8055a2c4f34c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "50263936"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50425746"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac용 Office에 대한 릴리스 정보
 
@@ -74,17 +74,13 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 
 - **범위 내에서 애니메이션 GIF 내보내기:** 애니메이션 GIF로 내보낼 때 슬라이드 범위 선택
 
-- **투명 한 배경으로 Gif 만들기:** 애니메이션 GIF로 내보낼 때 새 옵션을 사용하여 배경을 투명하게 만들 수 있습니다.
-
-- **민감도 레이블 자동 적용 또는 권장:** Office는 감지되는 중요한 콘텐츠에 기반하여 민감도 레이블을 권장하거나 자동으로 적용할 수 있습니다. [자세한 정보](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
+- **투명한 배경으로 GIF 만들기:** 애니메이션 GIF로 내보낼 때 새 옵션을 사용하여 배경을 투명하게 만들 수 있습니다.
 
 - **정부 고객: 문서 및 전자 메일에 민감도 레이블 적용:** 이제 GCC 및 GCC-H 환경의 고객이 민감도 레이블 기능을 사용할 수 있습니다. [자세한 정보](https://docs.microsoft.com/ko-KR/microsoft-365/compliance/sensitivity-labels)
 
 - **민감도 레이블 감사 로깅:** 사용자가 문서 및 전자 메일에 민감도 레이블을 적용, 변경 또는 제거하면 Microsoft 365 감사 로그의 관리자가 해당 정보를 사용할 수 있게 됩니다.
 
 ### <a name="word"></a>Word
-
-- **민감도 레이블 자동 적용 또는 권장:** Office는 감지되는 중요한 콘텐츠에 기반하여 민감도 레이블을 권장하거나 자동으로 적용할 수 있습니다.
 
 - **정부 고객: 문서 및 전자 메일에 민감도 레이블 적용:** 이제 GCC 및 GCC-H 환경의 고객이 민감도 레이블 기능을 사용할 수 있습니다. [자세한 정보](https://docs.microsoft.com/ko-KR/microsoft-365/compliance/sensitivity-labels)
 
@@ -102,13 +98,9 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 
 ### <a name="excel"></a>Excel
 
--   [CVE-2021-1714](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2021-1714)
--   [CVE-2021-1713](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2021-1713)
+-   [CVE-2021-24067](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2021-24067)
+-   [CVE-2021-24069](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2021-24069)
 
-### <a name="word"></a>Word
-
--   [CVE-2021-1716](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2021-1716)
--   [CVE-2021-1715](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2021-1715)
 
 [//]: # (보안 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
@@ -310,7 +302,7 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 ### <a name="feature-updates"></a>기능 업데이트
 ### <a name="excel"></a>Excel
 
-- **다른 사람을 방해하지 않고 필터링 및 정렬:** Excel에서 다른 사람과 협업하면서 사용자 자신의 보기를 만들어 다른 사람이 보는 것을 방해하지 않고 필터링하고 정렬할 수 있습니다. [자세한 정보](https://support.office.com/article/0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6)<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/sheet-view-makes-collaborating-easier)에서 세부 정보 보기
+- **다른 사람을 방해하지 않고 필터링 및 정렬:** Excel에서 다른 사람과 협업하면서 사용자 자신의 보기를 만들어 다른 사람이 보는 것을 방해하지 않고 필터링하고 정렬할 수 있습니다. [자세한 정보](https://support.office.com/article/0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6)<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/sheet-view-makes-collaborating-easier)에서 세부 정보를 참조하세요.
 
 ### <a name="outlook"></a>Outlook
 
@@ -397,7 +389,7 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 ### <a name="feature-updates"></a>기능 업데이트
 ### <a name="excel"></a>Excel
 
-- **사진에서 데이터 가져오기:** 사진, 삽입 탭 또는 iPhone에서 직접 테이블 데이터를 추가합니다. [자세한 정보](https://support.office.com/article/3c1bb58d-2c59-4bc0-b04a-a671a6868fd7)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/13/data-from-picture-in-excel/)에서 세부 정보 보기
+- **사진에서 데이터 가져오기:** 사진, 삽입 탭 또는 iPhone에서 직접 테이블 데이터를 추가합니다. [자세한 정보](https://support.office.com/article/3c1bb58d-2c59-4bc0-b04a-a671a6868fd7)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/13/data-from-picture-in-excel/)에서 세부 정보를 참조하세요.
 
 ### <a name="outlook"></a>Outlook
 
@@ -445,7 +437,7 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 
 - **원하는 내용 찾기:** 검색 창을 사용하여 텍스트, 명령, 도움말 등을 찾으세요. [자세한 정보](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)에서 세부 정보를 참조하세요.
 
-- **셀을 추가하는 빠른 방법**: **클릭하여 추가 모드를 사용하도록 설정** 한 다음 =를 입력하고 일부 셀을 선택하여 셀 값을 추가하는 수식을 빠르게 만듭니다. **메뉴** > **기본 설정** > **편집** 에서 옵션을 찾습니다.  [자세한 정보](https://support.office.com/ko-KR/article/what-s-new-in-microsoft-365-95c8d81d-08ba-42c1-914f-bca4603e1426#Platform=Mac) <br />[블로그 게시물](https://blog-insider.office.com/2020/04/21/click-to-add-mode-feedback-in-action/)에서 세부 정보 보기
+- **셀을 추가하는 빠른 방법**: **클릭하여 추가 모드를 사용하도록 설정** 한 다음 =를 입력하고 일부 셀을 선택하여 셀 값을 추가하는 수식을 빠르게 만듭니다. **메뉴** > **기본 설정** > **편집** 에서 옵션을 찾습니다.  [자세한 정보](https://support.office.com/ko-KR/article/what-s-new-in-microsoft-365-95c8d81d-08ba-42c1-914f-bca4603e1426#Platform=Mac) <br />[블로그 게시물](https://blog-insider.office.com/2020/04/21/click-to-add-mode-feedback-in-action/)에서 세부 정보를 참조하세요.
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -453,14 +445,14 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 
 - **슬라이드에 연결:** 동료에게 슬라이드 모음에 게시하도록 요청하고 도움이 필요한 슬라이드에서 직접 시작해 보세요. [자세한 정보](https://support.office.com/article/4f5f3d5e-1674-4742-8cf1-9623050c19ef)
 
-- **원하는 내용 찾기:** 검색 창을 사용하여 텍스트, 명령, 도움말 등을 찾으세요. [자세한 정보](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)에서 세부 정보 보기
+- **원하는 내용 찾기:** 검색 창을 사용하여 텍스트, 명령, 도움말 등을 찾으세요. [자세한 정보](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)에서 세부 정보를 참조하세요.
 
 ### <a name="word"></a>Word
 
 - **핸즈 프리 입력:** 마이크가 있나요? 받아쓰기를 클릭하고 말하는 동안 Word에 입력되는 내용을 확인하세요. [자세한 정보](https://support.office.com/article/3876e05f-3fcc-418f-b8ab-db7ce0d11d3c)<br />[블로그 게시물](https://blog-insider.office.com/2020/01/24/dictate-your-documents-in-word-on-mac/)에서 세부 정보 보기
 
 
-- **원하는 내용 찾기:** 검색 창을 사용하여 텍스트, 명령, 도움말 등을 찾으세요. [자세한 정보](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)에서 세부 정보 보기
+- **원하는 내용 찾기:** 검색 창을 사용하여 텍스트, 명령, 도움말 등을 찾으세요. [자세한 정보](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)에서 세부 정보를 참조하세요.
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)

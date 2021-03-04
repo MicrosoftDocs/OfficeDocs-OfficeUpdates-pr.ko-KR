@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 앱에 대한 월 단위 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: c6b6b6b7f87257cd3e512f4b5dfd8164a2a65dec
-ms.sourcegitcommit: 4b7514025e31d2baef2082cd9cb8434646edfe82
+ms.openlocfilehash: ea8524fb21d263985793d12806c8a2e1401edf10
+ms.sourcegitcommit: 26835b8265e7046ff7a6b139a4c7a0b0250f3554
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/17/2021
-ms.locfileid: "50271791"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50418053"
 ---
 # <a name="release-notes-for-current-channel"></a>현재 채널에 대한 릴리스 정보
 
@@ -32,6 +32,104 @@ ms.locfileid: "50271791"
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2102-march-01"></a>버전 2102: 3월 1일
+*버전 2102(빌드 13801.20266)*
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="excel"></a>Excel
+
+- **여러 시트를 동시에 숨기기 취소:** 한 번에 여러 시트를 숨길 필요가 없습니다. 한 번에 여러 시트를 숨길 수 있습니다. [자세한 정보](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
+
+- **향상된 조건부 서식 대화 상자:** 조건부 서식 대화 상자의 크기를 조정할 수 있으며, 이제 한 번의 클릭으로 규칙을 복제할 수 있습니다. [자세한 정보](https://support.office.com/article/fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f)
+
+- **사용자에게 민감도 레이블을 적용해야 하는 경우:** 조직 정책에 필요한 경우 사용자에게 민감도 레이블을 적용하라는 메시지가 표시됩니다.
+
+### <a name="outlook"></a>Outlook
+
+- **업데이트된 연락처 목록 보기:** 연락처 목록에 전자 메일 주소와 업데이트된 사진 및 텍스트 크기가 표시됩니다.
+
+- **기본 제공 변환기로 언어 장벽 부수기:** 번역을 위한 추가 기능이 더 이상 필요하지 않습니다. 메시지에서, 마우스 오른쪽 단추를 클릭하여 특정 단어, 구 또는 전체 메시지를 번역할 수 있습니다. [자세한 정보](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **사용자에게 민감도 레이블을 적용해야 하는 경우:** 조직 정책에 필요한 경우 사용자에게 민감도 레이블을 적용하라는 메시지가 표시됩니다.
+
+### <a name="teams"></a>Teams
+
+- **PowerPoint 파일을 공유할 때 발표자 보기:** 모임에서 PowerPoint 파일을 공유할 때 발표자는 이제 간단한 임시 슬라이드 탐색을 위해 데크의 모든 슬라이드의 축소판 그림 스트립을 만들 수 있습니다.
+
+- **테마 및 아이콘 업데이트:** 기본 테마 색과 어두운 테마 색 및 아이콘을 업데이트했습니다.
+
+- **iPad의 라이브 이벤트 발표자 지원:** 지원되는 iPad 장치에서 라이브 이벤트로 발표할 수 있습니다.
+
+- **Microsoft Forms를 사용하여 모임 참가자 설문 조사:** Teams 모임을 위한 설문 조사는 더 참여도가 높고 생산적인 모임을 진행하는 데 도움이 되는 쉽게 탐색할 수 있는 원활한 환경입니다. Microsoft Forms에서 제공하는 설문 조사를 통해서 모임 발표자는 Teams 모임의 탭 아래에 있는 한 장소에서 모임 전, 진행 중, 이후에 각각 설문 조사를 준비하고, 시작하고, 평가할 수 있습니다. 모임 발표자는 Teams 모임에서 Forms 앱을 탭으로 추가한 다음 한 장소에서 설문 조사를 만들고, 시작하고, 평가할 수 있습니다. 모임이 시작되기 전이라도 모임 중에 시작할 설문 조사를 만들 수 있습니다. 그런 다음 모임이 끝난 후 탭, 내보낸 Excel 통합 문서 또는 Forms 앱의 웹에서 응답을 평가할 수 있습니다. 발표자는 익명 응답 사용, 설문 조사 닫기, Excel로 결과 내보내기 등 다양한 제어 기능을 사용할 수 있습니다. 모든 엔드포인트(모바일, 웹, 데스크톱)의 참석자는 모임 화면이나 모임 채팅에 표시될 때 설문 조사를 보고 응답할 수 있으며, 실시간으로 익명이 아닌 설문 조사 결과를 볼 수 있습니다.
+
+- **모임 반응:** 모임 반응은 모임에서 상호 작용하는 새로운 방법입니다. 참가자는 반응을 보낼 수 있으며 반응은 공유 중인 콘텐츠에 스트림으로 표시되고, 모임 단계에 표시되는 경우 반응을 보낸 개인에게 표시됩니다.
+
+- **데스크톱 클라이언트의 기록 메뉴:** Teams 데스크톱 클라이언트의 기록 메뉴를 사용하면 최근에 방문한 위치로 쉽게 돌아갈 수 있습니다. 데스크톱 클라이언트에서 앞으로 또는 뒤로 탐색 옵션 위에 마우스를 놓고 위치를 선택하기만 하면 됩니다. 바로 가기 키로 메뉴를 열 수도 있습니다.
+
+- **미국용 Microsoft Teams 룸의 Cortana:** Microsoft Teams 룸에서 Cortana 음성 도우미를 사용하면 회의실에서 번호로 전화를 걸거나, 모임에 참가하거나, 모임을 종료하거나, 모임에 번호를 추가할 수 있는 터치할 필요 없는 환경을 사용할 수 있습니다.
+
+- **전화번호 마스킹:** 전화 접속 참석자가 모임에 참가할 때 전화번호 마스킹을 위한 새로운 관리자 설정을 릴리스했습니다. 관리자는 모임에 있는 모든 사람(이끌이 제외)의 전화번호를 외부 사람으로부터만 마스킹하거나 마스킹을 비활성화도록 선택할 수 있습니다. 관리자가 이 설정을 사용하지 않도록 선택하는 경우 전체 전화번호가 모임에 표시됩니다.  (10월 말까지 비공개 릴리스)
+
+- **일정 공유:** 일정 탭에 채널을 추가하는 기능을 추가했습니다.
+
+- **더 많은 장면을 함께 모드로 가져오기:** Teams에서는 모임 이끌이나 발표자가 함께 모드 장면을 변경하여 참석자가 서로 다른 환경에 함께 표시될 수 있도록 하는 기능을 도입했습니다.
+
+### <a name="word"></a>Word
+
+- **한 번의 클릭으로 작문 제안:** 한 번의 클릭으로 작문 제안을 적용합니다. 업데이트된 편집기 창은 제안 사이를 쉽게 탐색할 수 있습니다. [자세한 정보](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/microsoft-editor-gets-an-upgrade)에서 세부 정보를 참조하세요.
+
+- **사용자에게 민감도 레이블을 적용해야 하는 경우:** 조직 정책에 필요한 경우 사용자에게 민감도 레이블을 적용하라는 메시지가 표시됩니다.
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="access"></a>Access
+
+- 사용자에게 "잘못된 커서 상태" 오류 대화 상자가 발생하는 문제를 해결했습니다.
+
+
+### <a name="excel"></a>Excel
+
+- 사용자가 Excel 통합 문서를 PDF로 내보낼 수 없는 문제를 해결했습니다.
+
+
+- 연결된 그림 붙여넣기 옵션을 사용할 때 이미지가 예상보다 작아지는 문제를 해결했습니다.
+
+
+### <a name="outlook"></a>Outlook
+
+- 공유 일정의 향상된 기능 사용자가 일정의 색을 노란색 또는 갈색으로 설정할 수 없는 문제를 해결했습니다.
+
+
+- 사용자가 새 그룹을 만들고 나서 중복 일정 그룹이 나타나는 문제를 수정했습니다.
+
+
+- 일부 사용자가 메시지 창을 닫을 때 앱이 종료되는 문제를 해결했습니다.
+
+
+- 유니코드 콘텐츠를 포함하는 서명이 손상되는 문제를 해결했습니다.
+
+
+- 인라인 번역 사용자가 피드백을 제출할 수 없는 문제를 해결했습니다.
+
+
+### <a name="word"></a>Word
+
+- 공동으로 작성할 때 발생하는 충돌 문제를 해결했습니다.
 
 
 
@@ -534,7 +632,7 @@ ms.locfileid: "50271791"
 
 - **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
 
-- **문법 검사의 도움:** Outlook에서 사용자가 입력할 때 문법 오류를 표시하여 클릭 한 번으로 제안을 적용할 수 있습니다. [자세한 정보](https://support.office.com/article/ddbadc42-4637-451d-b3f4-ecf295036fa9)<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/grammar-and-style-suggestions-available-in-outlook)에서 세부 정보 보기
+- **문법 검사의 도움:** Outlook에서 사용자가 입력할 때 문법 오류를 표시하여 클릭 한 번으로 제안을 적용할 수 있습니다. [자세한 정보](https://support.office.com/article/ddbadc42-4637-451d-b3f4-ecf295036fa9)<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/grammar-and-style-suggestions-available-in-outlook)에서 세부 정보를 참조하세요.
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -552,7 +650,7 @@ ms.locfileid: "50271791"
 
 ### <a name="word"></a>Word
 
-- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
+- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보를 참조하세요.
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -696,7 +794,7 @@ ms.locfileid: "50271791"
 
 - **데이터 형식을 사용하여 Power BI에서 조직 데이터를 가져오기:** 이제 Power BI의 Excel 데이터 형식을 Office 365 E5/A5 또는 Microsoft 365 E5/A5를 사용하는 조직의 참가자에게 배포합니다. 필요한 정보를 가져오고 손쉽게 새로 고치는 건 일상적인 여러 워크플로에 매우 중요합니다. Microsoft는 Power BI를 사용하여 Excel에서 데이터 형식으로 회사나 조직 정보에 액세스할 수 있도록 하여 스프레드시트에 연결된 정보를 제공하는 기능을 확장합니다. [자세한 정보](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />[블로그 게시물](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)에서 세부 정보 보기
 
-- **수식에 사용할 변수 만들기:** LET 기능으로 성능, 가독성 및 구성성을 향상시킵니다. 이 함수를 사용하면 새로운 공식 또는 기존 공식으로 명명된 변수를 작성할 수 있습니다. [자세한 정보](https://support.office.com/article/34842dd8-b92b-4d3f-b325-b8b8f9908999)<br />[블로그 게시물](https://blog-insider.office.com/2020/06/01/let-names-in-formulas-for-excel/)에서 세부 정보 보기
+- **수식에 사용할 변수 만들기:** LET 기능으로 성능, 가독성 및 구성성을 향상시킵니다. 이 함수를 사용하면 새로운 공식 또는 기존 공식으로 명명된 변수를 작성할 수 있습니다. [자세한 정보](https://support.office.com/article/34842dd8-b92b-4d3f-b325-b8b8f9908999)<br />[블로그 게시물](https://blog-insider.office.com/2020/06/01/let-names-in-formulas-for-excel/)에서 세부 정보를 참조하세요.
 
 ### <a name="outlook"></a>Outlook
 
@@ -832,11 +930,11 @@ ms.locfileid: "50271791"
 ### <a name="feature-updates"></a>기능 업데이트
 ### <a name="excel"></a>Excel
 
-- **고정된 폴더에 저장:** 폴더를 고정하면 Office 파일을 더 쉽게 저장할 수 있습니다. 새 파일을 저장할 때 사용할 수 있는 폴더에 대한 추가 제어를 원하다는 사용자 피드백을 받았습니다. 저장 대화 상자에서 폴더를 고정하는 새로운 기능을 제공하게 되어 기쁘게 생각합니다. 이 새로운 기능을 통해 Word, Excel 및 PowerPoint 파일을 더 쉽게 저장할 수 있습니다. [자세한 정보](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />[블로그 게시물](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)에서 세부 정보 보기
+- **고정된 폴더에 저장:** 폴더를 고정하면 Office 파일을 더 쉽게 저장할 수 있습니다. 새 파일을 저장할 때 사용할 수 있는 폴더에 대한 추가 제어를 원하다는 사용자 피드백을 받았습니다. 저장 대화 상자에서 폴더를 고정하는 새로운 기능을 제공하게 되어 기쁘게 생각합니다. 이 새로운 기능을 통해 Word, Excel 및 PowerPoint 파일을 더 쉽게 저장할 수 있습니다. [자세한 정보](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />[블로그 게시물](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)에서 세부 정보를 참조하세요.
 
 ### <a name="outlook"></a>Outlook
 
-- **전자 메일의 개선된 링크:** 파일에 대한 링크를 포함할 때 파일 이름이 URL로 바뀝니다. 모든 받는 사람이 액세스 권한을 갖도록 권한을 변경할 수 있습니다. [자세한 정보](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/20/automatically-shorten-links-onedrive-sharepoint/)에서 세부 정보 보기
+- **전자 메일의 개선된 링크:** 파일에 대한 링크를 포함할 때 파일 이름이 URL로 바뀝니다. 모든 받는 사람이 액세스 권한을 갖도록 권한을 변경할 수 있습니다. [자세한 정보](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/20/automatically-shorten-links-onedrive-sharepoint/)에서 세부 정보를 참조하세요.
 
 
 
@@ -858,7 +956,7 @@ ms.locfileid: "50271791"
 
 ### <a name="word"></a>Word
 
-- **고정된 폴더에 저장:** 폴더를 고정하면 Office 파일을 더 쉽게 저장할 수 있습니다. 새 파일을 저장할 때 사용할 수 있는 폴더에 대한 추가 제어를 원하다는 사용자 피드백을 받았습니다. 저장 대화 상자에서 폴더를 고정하는 새로운 기능을 제공하게 되어 기쁘게 생각합니다. 이 새로운 기능을 통해 Word, Excel 및 PowerPoint 파일을 더 쉽게 저장할 수 있습니다. [자세한 정보](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />[블로그 게시물](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)에서 세부 정보 보기
+- **고정된 폴더에 저장:** 폴더를 고정하면 Office 파일을 더 쉽게 저장할 수 있습니다. 새 파일을 저장할 때 사용할 수 있는 폴더에 대한 추가 제어를 원하다는 사용자 피드백을 받았습니다. 저장 대화 상자에서 폴더를 고정하는 새로운 기능을 제공하게 되어 기쁘게 생각합니다. 이 새로운 기능을 통해 Word, Excel 및 PowerPoint 파일을 더 쉽게 저장할 수 있습니다. [자세한 정보](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />[블로그 게시물](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)에서 세부 정보를 참조하세요.
 
 ### <a name="office-suite"></a>Office 제품군
 
@@ -1005,7 +1103,7 @@ ms.locfileid: "50271791"
 
 - **민감도 레이블 자동 적용 또는 권장:** Office는 감지되는 중요한 콘텐츠에 기반하여 민감도 레이블을 권장하거나 자동으로 적용할 수 있습니다.
 
-- **Excel 내의 Power BI에 있는 데이터셋에서 PivotTables 생성:** 몇 번의 클릭으로 Power BI에 저장된 데이터셋에 연결된 PivotTables를 Excel에서 생성할 수 있습니다.  이렇게 하면 PivotTables와 Power BI를 모두 최대한 활용할 수 있습니다. 보안 Power BI 데이터셋에서 PivotTables를 사용하여 데이터를 계산, 요약 및 분석할 수 있습니다. [자세한 정보](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)<br />[블로그 게시물](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)에서 세부 정보 보기
+- **Excel 내의 Power BI에 있는 데이터셋에서 PivotTables 생성:** 몇 번의 클릭으로 Power BI에 저장된 데이터셋에 연결된 PivotTables를 Excel에서 생성할 수 있습니다.  이렇게 하면 PivotTables와 Power BI를 모두 최대한 활용할 수 있습니다. 보안 Power BI 데이터셋에서 PivotTables를 사용하여 데이터를 계산, 요약 및 분석할 수 있습니다. [자세한 정보](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)<br />[블로그 게시물](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)에서 세부 정보를 참조하세요.
 
 ### <a name="outlook"></a>Outlook
 
@@ -1379,7 +1477,7 @@ ms.locfileid: "50271791"
 
 - **대화에서 애니메이션 GIF 사용:** 애니메이션 GIF가 이제 Office 편집기에서 지원됩니다. 이제 문서가 더욱 돋보입니다.
 
-- **일정 모양 변경:** 일정을 더욱 쉽게 훑어볼 수 있도록 하는 시각적 업데이트를 참조하세요. [자세한 정보](https://support.office.com/article/1c04e438-d84a-44fc-a404-170c9007e65c)<br />[블로그 게시물](https://blog-insider.office.com/2020/03/13/outlooks-calendar-gets-a-refresh/)에서 세부 정보 보기
+- **일정 모양 변경:** 일정을 더욱 쉽게 훑어볼 수 있도록 하는 시각적 업데이트를 참조하세요. [자세한 정보](https://support.office.com/article/1c04e438-d84a-44fc-a404-170c9007e65c)<br />[블로그 게시물](https://blog-insider.office.com/2020/03/13/outlooks-calendar-gets-a-refresh/)에서 세부 정보를 참조하세요.
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -1988,6 +2086,7 @@ ms.locfileid: "50271791"
 > Office를 사용하는 데 발생한 문제에 대해 도움이 필요하면 [Microsoft의 Answers 포럼](https://answers.microsoft.com/) 또는 [기술 커뮤니티](https://techcommunity.microsoft.com/)에 질문을 게시하거나 [지원 서비스](https://support.microsoft.com/contactus)에 문의할 수 있습니다.
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|CC|Production| |16.0.13801.20266|version-2102-march-01|)
 [//]: # (|Win32|CC|Production| |16.0.13628.20448|version-2101-february-16|)
 [//]: # (|Win32|CC|Production| |16.0.13628.20380|version-2101-february-09|)
 [//]: # (|Win32|CC|Production| |16.0.13628.20274|version-2101-january-26|)
@@ -1997,5 +2096,4 @@ ms.locfileid: "50271791"
 [//]: # (|Win32|CC|Production| |16.0.13426.20404|version-2011-december-21|)
 [//]: # (|Win32|CC|Production| |16.0.13426.20332|version-2011-december-08|)
 [//]: # (|Win32|CC|Production| |16.0.13426.20308|version-2011-december-02|)
-[//]: # (|Win32|CC|Production| |16.0.13426.20294|version-2011-november-30|)
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 끝)

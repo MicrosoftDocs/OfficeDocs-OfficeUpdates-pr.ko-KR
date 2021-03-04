@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: IT 전문가에게 ODT(Office 배포 도구)의 릴리스 기록을 제공합니다.
-ms.openlocfilehash: 1046a62a8440402e64bb25cb5ccf3dfbd84c894d
-ms.sourcegitcommit: b015407aa6693d879f11025b40a7b45424753f99
+ms.openlocfilehash: 9425577c975122e0ebeffcefed1734a9e024fa8c
+ms.sourcegitcommit: ab151c4f3172c007249a556fa02854b0765d24b9
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50177958"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50421412"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Office 배포 도구에 대한 릴리스 기록
 
@@ -28,6 +28,14 @@ ODT를 사용하여 Office 설치를 더 강력하게 제어할 수 있습니다
  **설치 방법**: 다운로드한 다음 Office 배포 도구 실행 파일(setup.exe) 및 샘플 구성 파일(configuration.xml)이 포함된 자동 압축 풀기 실행 파일을 실행합니다. 
 
 [Office 배포 도구 다운로드](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
+
+## <a name="february-25-2021"></a>2021년 2월 25일
+버전 16.0.13628.20476(setup.exe 버전 16.0.13628.20462)
+- 수십 개의 언어를 지정하는 configuration.xml 파일이 유효성을 검사하지 못하는 문제를 해결했습니다.
+- 마이그레이션 시나리오에서 FORCEAPPSHUTDOWN 속성이 존중되지 않는 문제를 해결했습니다.
+- configuration.xml에서 2개 이상의 PIDKEY 특성을 지정하여 PIDKeys를 설치하지 못하는 문제를 해결했습니다.
+
+
 
 ## <a name="february-9-2021"></a>2021년 2월 9일
 버전 16.0.13628.20274(setup.exe 버전 16.0.13628.20246)

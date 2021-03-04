@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: c251fccdf8c3f370d7ed6594e0478a73bfe37411
-ms.sourcegitcommit: c8a895031a6a22d6c6dc6d5e4c73918edcfac7b7
+ms.openlocfilehash: 9906e3180c91eaa19f0c42f4703e867bb4b45d35
+ms.sourcegitcommit: 26835b8265e7046ff7a6b139a4c7a0b0250f3554
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/14/2021
-ms.locfileid: "50242046"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50418043"
 ---
 # <a name="release-notes-for-beta-channel"></a>베타 채널용 릴리스 정보
 
@@ -30,6 +30,84 @@ ms.locfileid: "50242046"
 [//]: # (제거하지 마세요)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+## <a name="version-2103-february-26"></a>버전 2103: 2월 26일
+*버전 2103(빌드 13819.20006*)
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- 사용자가 Excel 통합 문서를 PDF로 내보낼 수 없는 문제를 해결했습니다.
+
+
+- 공동 작업하는 동안 시트를 복사할 때 일부 서식이 손실되는 문제를 해결했습니다.
+
+
+### <a name="outlook"></a>Outlook
+
+- DRM 보호를 제거할 때 첨부 파일이 복제될 수 있는 문제를 해결했습니다.
+
+
+### <a name="project"></a>Project
+
+- Project Web App에서 로컬 파일로 프로젝트를 저장하는 경우 작업 분할이 잘못 생성될 수 있는 문제를 해결했습니다. 이 문제는 표준이 아닌 작업 시간이 있는 작업 달력을 사용하는 경우 발생할 수 있습니다.
+
+
+- 표시기 열이 첫 번째 열 지점에 없는 경우 요약 작업을 잘라내면 하위 작업도 제거된다는 경고가 표시되지 않는 문제를 해결했습니다.
+
+
+- 사용자가 작업표에서 작업 기능에 직접 추가를 선택한 경우 생성된 배정에 올바른 자원 가용성 단위를 사용하지 못할 수 있는 문제를 해결했습니다.
+
+
+### <a name="word"></a>Word
+
+- 여러 개의 메모를 정렬할 때와 관련된 문제를 해결했습니다.
+
+
+- 소리 내어 읽기 작업 창 바로 가기 키의 문제를 해결했습니다.
+
+
+### <a name="office-suite"></a>Office 제품군
+
+- 이제 OneDrive 위치는 그룹 정책 설정에 따라 적절하게 필터링됩니다.
+
+
+- EMF 이미지를 로드할 때 발생할 수 있는 응답 없음과 관련된 문제를 해결합니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
+
+## <a name="version-2103-february-19"></a>버전 2103: 2월 19일
+*버전 2103(빌드 13811.20002)*
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="outlook"></a>Outlook
+
+- DRM 보호를 제거할 때 첨부 파일이 복제될 수 있는 문제를 해결했습니다.
+
+
+### <a name="project"></a>Project
+
+- 표시기 열이 첫 번째 열 지점에 없는 경우 요약 작업을 잘라내면 하위 작업도 제거된다는 경고가 표시되지 않는 문제를 해결했습니다.
+
+
+- 사용자가 작업표에서 작업 기능에 직접 추가를 선택한 경우 생성된 배정에 올바른 자원 가용성 단위를 사용하지 못할 수 있는 문제를 해결했습니다.
+
+
+### <a name="word"></a>Word
+
+- 소리 내어 읽기 작업 창 바로 가기 키의 문제를 해결했습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
 
 ## <a name="version-2103-february-12"></a>버전 2103: 2월 12일
 *버전 2103(빌드 13806.20000)*
@@ -2522,6 +2600,8 @@ ms.locfileid: "50242046"
 
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13819.20006|version-2103-february-26|)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13811.20002|version-2103-february-19|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13806.20000|version-2103-february-12|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13801.20004|version-2102-february-05|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13721.20008|version-2102-january-29|)
@@ -2530,6 +2610,4 @@ ms.locfileid: "50242046"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13704.20000|version-2102-january-08|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13624.20002|version-2101-january-01|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13617.20002|version-2101-december-25|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13610.20002|version-2101-december-18|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13604.20000|version-2101-december-11|)
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 끝)

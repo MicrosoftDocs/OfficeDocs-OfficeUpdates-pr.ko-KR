@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Office 2016, Office 2013 및 Office 2010 영구 버전의 최신 비보안 업데이트 정보에 대한 링크를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: d678db0661a86e65dc8fc17b659d7339c9ad2b65
-ms.sourcegitcommit: 94cecf570c23c9f540a659820706fca049ed97ab
+ms.openlocfilehash: 8627a47ca19b170f0d69e16d4a23cc787cb8a6bd
+ms.sourcegitcommit: 26835b8265e7046ff7a6b139a4c7a0b0250f3554
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "50080949"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50418063"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Windows Installer(MSI)를 사용하는 Office 버전에 대한 최신 비보안 업데이트
 
@@ -25,6 +25,15 @@ ms.locfileid: "50080949"
 > - 이 문서의 정보는 Microsoft 365 앱에 적용되지 않습니다.
 > - Office 업데이트 설치에 대한 자세한 내용은 [Office 업데이트 설치](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)를 참조하세요.
 <br/><br/>
+
+## <a name="march-2-2021"></a>2021년 3월 2일
+**Office 2016**<br/>
+Microsoft Access 2016에 대한 업데이트([KB4493188](https://support.microsoft.com/help/4493188)) </br> Microsoft Office 2016에 대한 업데이트([KB4493153](https://support.microsoft.com/help/4493153)) </br> Microsoft Outlook 2016에 대한 업데이트([KB4493226](https://support.microsoft.com/help/4493226)) </br> Microsoft Project 2016 업데이트([KB4493191](https://support.microsoft.com/help/4493191)) </br> 
+
+
+**Office 2013**<br/>
+Microsoft Outlook 2013에 대한 업데이트([KB4493174](https://support.microsoft.com/help/4493174)) </br> 
+
 
 ## <a name="february-2-2021"></a>2021년 2월 2일
 **Office 2016**<br/>

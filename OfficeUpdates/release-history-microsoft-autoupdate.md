@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT 전문가에게 MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록을 제공합니다.
-ms.openlocfilehash: 74388a251d2c568322e13cca34d973f3d790e023
-ms.sourcegitcommit: e47d22b7b3ad48ad20ca184c30824480e1701c35
+ms.openlocfilehash: 3ce9f8f366510103d47ae34dad4dffa060d5dccd
+ms.sourcegitcommit: ab151c4f3172c007249a556fa02854b0765d24b9
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/23/2021
-ms.locfileid: "49943278"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50421373"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록
  
@@ -29,6 +29,24 @@ ms.locfileid: "49943278"
 > - Microsoft 자동 업데이트는 Microsoft의 다양한 Mac 제품에 대한 업데이트를 제공합니다. 따라서 Mac용 Office를 실행하고 있지 않더라도 Microsoft 자동 업데이트를 업데이트하라는 알림을 받을 수 있습니다.
 
 릴리스 정보를 확인하려면 [릴리스 정보](release-notes-office-for-mac.md)를 참고하세요.<br/><br/>
+
+## <a name="february-2021-release"></a>2021년 2월 릴리스
+
+**릴리스 날짜:** 2021년 2월 17일
+
+*Microsoft AutoUpdate 4.32*
+
+**버그 수정 및 개선 사항:**
+- 설명서 업데이트: 이제 MAU의 명령줄 인터페이스에서 -t, -m 및 업데이트 플래그에 대한 플래그 설명이 누락되었습니다.
+- 접근성 옵션 업데이트: 이제 MAU UI의 다운로드/설치 진행률 표시줄과 MAU의 사용자 기본 설정 UI의 채널 업데이트 레이블에 대한 Voice Over 공지가 제공됩니다.
+- 기능 업데이트: 이제 MAU의 기본 메뉴 모음에는 키보드 단축키를 허용하는 편집 옵션이 있습니다.
+- 기타 업데이트: MOU의 저작권 연도가 2021년으로 업데이트되었습니다.
+
+[Microsoft 자동 업데이트 4.32 패키지 다운로드](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.32.21021202_Updater.pkg)<br/>
+<br/>
+**SHA-256 해시:**
+
+CCB758531B295848620C703957FD8CF3C7F1555C334FB320C4BB682ABA0261D6
 
 ## <a name="january-2021-release"></a>2021년 1월 릴리스
 
