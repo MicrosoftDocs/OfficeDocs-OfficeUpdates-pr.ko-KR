@@ -8,24 +8,30 @@ ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
-description: WINDOWS Installer(MSI)를 사용하는 Office 2013의 정수 버전에 대한 최신 .msp 파일 목록을 IT Pro에게 제공합니다.
-ms.openlocfilehash: ec1808889c6cfb6ec4c8f2ba113170b9539a7826
-ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
+description: Windows Installer(MSI)를 사용하는 Office 2013의 최신 .msp 파일 목록을 IT Pro에게 제공합니다.
+ms.openlocfilehash: 25f3534f259614703476b64c8f183afe9991bece
+ms.sourcegitcommit: 879f2edeb724cc4d2b838953df44bc776e252972
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50173667"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50468372"
 ---
 # <a name="list-of-the-most-current-msp-files-for-office-2013-products"></a>Office 2013 제품의 가장 최근 .msp 파일 목록
 
-다음 정보는 IT 전문가가 Visio 2013 및 Project 2013을 포함하여 Office 2013 제품에 대한 설치 이미지를 만들 때 포함해야 하는 가장 최근의 .msp 파일 목록을 제공합니다. 이러한 .msp 파일을 포함하면 사용자가 Office 2013 제품을 설치할 때 최신 보안 및 비보안 업데이트가 Office 설치에 자동으로 적용됩니다.
+다음 정보는 IT 전문가가 Visio 2013 및 Project 2013을 포함하여 Office 2013 제품의 설치 이미지를 만들 때 포함해야 하는 가장 최근의 .msp 파일 목록을 제공합니다. 이러한 .msp 파일을 포함하면 사용자가 Office 2013 제품을 설치할 때 최신 보안 및 비보안 업데이트가 Office 설치에 자동으로 적용됩니다.
   
-이 정보는 Windows Installer(MSI) 설치 기술을 사용하는 Office 2013 제품에만 적용됩니다. 예를 들어 볼륨 라이선스 버전인 Office Professional Plus 2013 및 Visio Standard 2013에서는 MSI를 사용하게 됩니다.
+이 정보는 Windows Installer(MSI) 설치 기술을 사용하는 Office 2013 제품에만 적용됩니다. 예를 들어 Office Professional Plus 2013 및 Visio Standard 2013의 볼륨 라이선스 버전은 MSI를 사용 합니다.
   
 ## <a name="most-recently-updated-msp-files"></a>가장 최근에 업데이트된 .msp 파일
 
+[//]: # (콘텐츠를 제거하지 마세요. 시작)
+
 다음 표에는 **2021년 2월에** 업데이트된 .msp 파일이 나열되어 있습니다. 
-  
+
+ [//]: # (컨텐츠를 제거하지 마세요. 종료)
+
+[//]: # (MSP 콘텐츠 시작을 제거하지 않습니다.)
+
 |비보안 업데이트****|보안 업데이트****|
 |:-----|:-----|
 |mso-x-none<br/>|excel-x-none<br/>|
@@ -35,12 +41,15 @@ ms.locfileid: "50173667"
 
 <br/>
 
- 
+[//]: # (MSP 콘텐츠를 제거하지 않습니다. 종료)
+
 ## <a name="list-of-all-msp-files"></a>모든 .msp 파일 목록
 
 다음 표에는 Office 2013 SP1(서비스 팩 1)이 2014년 2월에 출시된 이후 릴리스된 모든 .msp 파일이 나열됩니다. 비보안 릴리스 날짜보다 큰 .msp 파일의 보안 릴리스 날짜가 있는 경우 비보안 릴리스는 보안 릴리스로 변경된 것이기 때문에 필요하지 않습니다.
+
+[//]: # (과거 콘텐츠를 제거하지 마세요. 시작)
   
-|.msp filename****|제품****|비보안 릴리스 날짜****|비보안 KB 문서****|보안 릴리스 날짜****|보안 릴리스 KB 문서****|보안 KB가 대리****|
+|.msp 파일 이름****|제품****|비보안 릴리스 날짜****|비보안 KB 문서****|보안 릴리스 날짜****|보안 릴리스 KB 문서****|보안 KB가 Superseded****|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |access-x-none  <br/> |Access 2013  <br/> |2019년 2월 5일  <br/> |[4032252](https://support.microsoft.com/help/4032252) <br/> |2020년 8월 11일  <br/> |[4484366](https://support.microsoft.com/help/4484366) <br/>|[4462210](https://support.microsoft.com/help/4462210) <br/> |
 |ace-x-none  <br/> |Office 2013  <br/> |2016년 11월 1일  <br/> |[3039750](https://support.microsoft.com/kb/3039750) <br/> |2021년 1월 12일  <br/> |[4486762](https://support.microsoft.com/help/4486762) <br/>|[4484520](https://support.microsoft.com/help/4484520) <br/> |
@@ -117,7 +126,9 @@ ms.locfileid: "50173667"
 |wordpia-x-none  <br/> |Word 2013  <br/> |2017년 11월 7일  <br/> |[3162081](https://support.microsoft.com/help/3162081) <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |
 |wxpcore-x-none  <br/> |Office 2013  <br/> |2016년 3월 8일  <br/> |[3114499](https://support.microsoft.com/kb/3114499) <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |
 |wxpnse-x-none  <br/> |Office 2013  <br/> |2015년 10월 13일  <br/> |[3039701](https://support.microsoft.com/kb/3039701) <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |
-   
+
+[//]: # (과거 콘텐츠를 제거하지 마세요. 종료)
+
 <sup>1</sup> 이 파일은 Office 2013의 64비트 설치에만 해당됩니다.
   
 <sup>2</sup> 이 파일은 Office 2013의 32비트 설치에만 해당됩니다.

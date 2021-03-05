@@ -8,24 +8,30 @@ ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
-description: WINDOWS Installer(MSI)를 사용하는 Office 2016의 정수 버전에 대한 최신 .msp 파일 목록을 IT Pro에게 제공합니다.
-ms.openlocfilehash: 5f5b8641396990834f791b2e713e3659e619a407
-ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
+description: Windows Installer(MSI)를 사용하는 Office 2016의 최신 .msp 파일 목록을 IT Pro에게 제공합니다.
+ms.openlocfilehash: 58fb4c28c04f165f451a333c0f592923aa563c86
+ms.sourcegitcommit: 879f2edeb724cc4d2b838953df44bc776e252972
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50173817"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50468362"
 ---
 # <a name="list-of-the-most-current-msp-files-for-office-2016-products"></a>Office 2016 제품의 가장 최근 .msp 파일 목록
 
-다음 정보는 IT 전문가가 Visio 2016 및 Project 2016을 포함하여 Office 2016 제품에 대한 설치 이미지를 만들 때 포함해야 하는 가장 최근의 .msp 파일 목록을 제공합니다. 이러한 .msp 파일을 포함하면 사용자가 Office 2016 제품을 설치할 때 최신 보안 및 비보안 업데이트가 Office 설치에 자동으로 적용됩니다.
+다음 정보는 IT 전문가가 Visio 2016 및 Project 2016을 포함하여 Office 2016 제품의 설치 이미지를 만들 때 포함해야 하는 가장 최근의 .msp 파일 목록을 제공합니다. 이러한 .msp 파일을 포함하면 사용자가 Office 2016 제품을 설치할 때 최신 보안 및 비보안 업데이트가 Office 설치에 자동으로 적용됩니다.
   
 이 정보는 Windows Installer(MSI) 설치 기술을 사용하는 Office 2016 제품에만 적용됩니다.
   
 ## <a name="most-recently-updated-msp-files"></a>가장 최근에 업데이트된 .msp 파일
 
+[//]: # (콘텐츠를 제거하지 마세요. 시작)
+
 다음 표에는 **2021년 2월에** 업데이트된 .msp 파일이 나열되어 있습니다.
-  
+
+[//]: # (컨텐츠를 제거하지 마세요. 종료)
+
+[//]: # (MSP 콘텐츠 시작을 제거하지 않습니다.)
+
 |비보안 업데이트****|보안 업데이트****|
 |:-----|:-----|
 |mso-x-none<br/>|excel-x-none<br/>|
@@ -35,11 +41,15 @@ ms.locfileid: "50173817"
 
 <br/>
 
+[//]: # (MSP 콘텐츠를 제거하지 않습니다. 종료)
+
 ## <a name="list-of-all-msp-files"></a>모든 .msp 파일 목록
 
 다음 표에는 Office 2016이 2015년 9월에 릴리스된 이후 릴리스된 모든 .msp 파일이 나열됩니다. 비보안 릴리스 날짜보다 큰 .msp 파일의 보안 릴리스 날짜가 있는 경우 비보안 릴리스는 보안 릴리스로 변경된 것이기 때문에 필요하지 않습니다.
+
+[//]: # (과거 콘텐츠를 제거하지 마세요. 시작)
   
-|.msp filename****|제품****|비보안 릴리스 날짜****|비보안 KB 문서****|보안 릴리스 날짜****|보안 릴리스 KB 문서****|보안 KB가 대리****|
+|.msp 파일 이름****|제품****|비보안 릴리스 날짜****|비보안 KB 문서****|보안 릴리스 날짜****|보안 릴리스 KB 문서****|보안 KB가 Superseded****|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |access-x-none  <br/> |Access 2016  <br/> |2021년 1월 5일  <br/> |[4484509](https://support.microsoft.com/help/4484509) <br/> |2020년 8월 11일  <br/> |[4484340](https://support.microsoft.com/help/4484340) <br/> |[4484167](https://support.microsoft.com/help/4484167) <br/> | 
 |ace-x-none  <br/> |Office 2016  <br/> |2020년 6월 2일  <br/> |[4484394](https://support.microsoft.com/help/4484394) <br/> | 2021년 1월 12일  <br/> |[4486755](https://support.microsoft.com/help/4486755) <br/>|[4484508](https://support.microsoft.com/help/4484508) <br/> |
@@ -59,7 +69,7 @@ ms.locfileid: "50173817"
 |graph-x-none  <br/> |Office 2016  <br/> |2018년 3월 6일  <br/> |[4011624](https://support.microsoft.com/help/4011624) <br/> |2021년 1월 12일  <br/> |[4493168](https://support.microsoft.com/help/4493168) <br/> |[4486757](https://support.microsoft.com/help/4486757) <br/>|
 |groove-x-none  <br/> |비즈니스용 OneDrive  <br/> |2018년 8월 7일  <br/> |[4022219](https://support.microsoft.com/help/4022219) <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |
 |ieawsdc-x-none  <br/> |Office 2016  <br/> |해당 없음  <br/> |해당 없음 <br/> |2015년 10월 13일  <br/> |[3085538](https://support.microsoft.com/help/3085538)  <br/> |해당 사항 없음  <br/> |
-|kohhc-x-none  <br/> |Office 2016  <br/> |2017년 6월 6일  <br/> |[3191929](https://support.microsoft.com/help/3191929) <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |
+|kohc-x-none  <br/> |Office 2016  <br/> |2017년 6월 6일  <br/> |[3191929](https://support.microsoft.com/help/3191929) <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |
 |lip-*ll-cc* <sup>1</sup> <br/> |Office 2016 언어 인터페이스 팩  <br/> |2020년 3월 3일  <br/> |[4484136](https://support.microsoft.com/help/4484136) <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |
 |lync-x-none  <br/> |비즈니스용 Skype 2016  <br/> |2020년 12월 1일  <br/> |[4486745](https://support.microsoft.com/help/4486745) <br/> |2019년 7월 9일  <br/> |[4475545](https://support.microsoft.com/help/4475545) <br/> |[4461473](https://support.microsoft.com/help/4461473)  <br/> |
 |mscomctlocx-x-none  <br/> |Office 2016  <br/> |해당 없음  <br/> |해당 없음  <br/> |2016년 1월 12일  <br/> |[2920727](https://support.microsoft.com/help/2920727) <br/> |해당 사항 없음  <br/> |
@@ -104,6 +114,8 @@ ms.locfileid: "50173817"
 |wxpcore-x-none  <br/> |Office 2016  <br/> |2016년 10월 4일  <br/> |[3118263](https://support.microsoft.com/help/3118263) <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |
 |wxpnse-x-none  <br/> |Office 2016  <br/> |2016년 10월 4일  <br/> |[3118262](https://support.microsoft.com/help/3118262) <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |
 |xdext-x-none  <br/> |Office 2016  <br/> |2017년 8월 1일  <br/> |[3213650](https://support.microsoft.com/help/3213650) <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |
-   
-<sup>1</sup> *ll-cc는*  eu-es 또는 gl-es와 같은 적절한 언어를 나타내야 합니다. 
+
+[//]: # (과거 콘텐츠를 제거하지 마세요. 종료)
+
+<sup>1</sup> *ll-cc는*  eu-es 또는 gl-es와 같은 적절한 언어를 표현합니다. 
   
