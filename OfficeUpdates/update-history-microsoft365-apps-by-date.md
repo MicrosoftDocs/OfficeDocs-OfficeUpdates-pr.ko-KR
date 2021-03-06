@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 릴리스 정보에 대한 링크를 포함하여 Microsoft 365 앱 릴리스의 전체 목록을 날짜별로 구성해서 IT 전문가에게 제공합니다.
-ms.openlocfilehash: ea386ed41e693146e6e13ffc1c6cd1ea711deba6
-ms.sourcegitcommit: 26835b8265e7046ff7a6b139a4c7a0b0250f3554
+ms.openlocfilehash: cccd1af67f32ebcd94de4532b7f8f553b2336218
+ms.sourcegitcommit: a602c02ef920a2f7566232f5045ace1c9dd44b8b
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50418073"
+ms.lasthandoff: 03/06/2021
+ms.locfileid: "50515329"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 앱의 업데이트 기록(날짜순)
 
@@ -28,7 +28,7 @@ ms.locfileid: "50418073"
 > - 이 표는 릴리스 날짜순으로 정렬되어 가장 최근의 릴리스가 먼저 나열됩니다.
 > - 업데이트 채널에 대한 자세한 내용은 [Microsoft 365 앱 업데이트 채널의 개요](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)를 참조하세요.
 
-다음 표에는 각 업데이트 채널에 대한 지원되는 버전 및 최신 빌드 번호가 나와 있습니다.
+다음 표에는 각 업데이트 채널에 대한 지원되는 버전 및 최신 빌드 번호가 나와 있습니다. 릴리스 날짜는 최신 빌드가 릴리스된 날짜를 나타냅니다.
 
 ### <a name="supported-versions"></a>**지원되는 버전**
 
