@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 9906e3180c91eaa19f0c42f4703e867bb4b45d35
-ms.sourcegitcommit: 26835b8265e7046ff7a6b139a4c7a0b0250f3554
+ms.openlocfilehash: 7cc50ebb59a95a5b7a2e13f83264c3b6684f0a9a
+ms.sourcegitcommit: 16ea8464803ad28e97b14554df657d99b91a27de
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50418043"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50505670"
 ---
 # <a name="release-notes-for-beta-channel"></a>베타 채널용 릴리스 정보
 
@@ -30,6 +30,80 @@ ms.locfileid: "50418043"
 [//]: # (제거하지 마세요)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+## <a name="version-2103-march-05"></a>버전 2103: 3월 5일
+*버전 2103(빌드 13901.20036)*
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="excel"></a>Excel
+
+- **중요한 암호화된 문서에 자동 저장 및 공동 작성**: 생산성과 보안을 바꾸지 마세요. Microsoft Information Protection을 사용하면 민감도 레이블로 암호화된 문서를 자동 저장하여 암호화되지 않은 문서와 마찬가지로 실시간으로 다른 사용자와 공동 작성할 수 있습니다. 테넌트 옵트인(자세한 정보: https://aka.ms/mipcoauth)이 필요합니다
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **중요한 암호화된 문서에 자동 저장 및 공동 작성**: 생산성과 보안을 바꾸지 마세요. Microsoft Information Protection을 사용하면 민감도 레이블로 암호화된 문서를 자동 저장하여 암호화되지 않은 문서와 마찬가지로 실시간으로 다른 사용자와 공동 작성할 수 있습니다. 테넌트 옵트인(자세한 정보: https://aka.ms/mipcoauth)이 필요합니다
+
+### <a name="word"></a>Word
+
+- **중요한 암호화된 문서에 자동 저장 및 공동 작성**: 생산성과 보안을 바꾸지 마세요. Microsoft Information Protection을 사용하면 민감도 레이블로 암호화된 문서를 자동 저장하여 암호화되지 않은 문서와 마찬가지로 실시간으로 다른 사용자와 공동 작성할 수 있습니다. 테넌트 옵트인(자세한 정보: https://aka.ms/mipcoauth)이 필요합니다
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- 일본어 글꼴로 곱셈 또는 나눗셈 기호를 사용할 때 글꼴이 예기치 않게 변경되는 문제를 수정했습니다. 이제 문자를 지원하는 경우 동일한 글꼴을 계속 사용합니다.
+
+
+- .xls 또는 .xlt 형식으로 저장할 때 일부 피벗 테이블 형식이 워크북을 손상시키는 문제를 해결했습니다.
+
+
+- 통합 문서를 열 때 일부 노트가 예기치 않게 표시되는 문제를 해결했습니다.
+
+
+### <a name="outlook"></a>Outlook
+
+- ASCII가 아닌 문제를 해결했습니다.CSV로 내보낼 때 잘못 내보낼 문자입니다.
+
+
+- 메일을 작성할 때 사용자가 이름 확인을 사용하여 연락처 그룹을 검색할 수 없는 문제를 해결했습니다.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- PowerPoint 슬라이드쇼 모드에서 라인 차트의 화살표가 예상대로 표시되지 않는 문제를 해결했습니다.
+
+
+### <a name="word"></a>Word
+
+- 사용자가 MIP 보호 레이블에 액세스할 수 있는 ID에 로그인하지 않은 경우 MIP(Microsoft Information Protection) 레이블로 보호된 파일을 여는 것이 무기한 중단될 수 있는 문제를 해결했습니다. 사용자는 로그인 프롬프트를 표시하기 위해 강제로 열기를 취소해야 하며, 해당 시점 이후에만 열기 작업이 성공합니다. 열려 있는/다운로드 중에 로그인 프롬프트가 표시될 수 있도록 허용하여 이 문제를 해결합니다.
+
+
+- 열기/다운로드 중에 로그인 프롬프트를 표시하도록 하여 이 문제를 해결합니다.
+
+
+- 새로운 Word Commenting에서 Diction을 사용할 때 문제가 해결되었습니다. Comment 카드의 Dictation 버튼을 사용하여 올바르게 켜지거나 꺼집니다.
+
+
+- RTL에 입력된 다중 회선 코멘트를 게시하여 오른쪽이 아닌 왼쪽에서 두 번째 회선과 이후 회선이 정렬되는 문제를 해결하였습니다.
+
+
+- 맞춤법 검사가 두 개의 다른 맞춤법 수정 컨텍스트 메뉴 사이에서 전환되는 문제를 해결했습니다.
+
+
+- 열에 텍스트가 겹칠 수 있는 문제가 해결되었습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
 
 ## <a name="version-2103-february-26"></a>버전 2103: 2월 26일
 *버전 2103(빌드 13819.20006*)
@@ -2600,6 +2674,7 @@ ms.locfileid: "50418043"
 
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13901.20036|version-2103-march-05|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13819.20006|version-2103-february-26|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13811.20002|version-2103-february-19|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13806.20000|version-2103-february-12|)
@@ -2609,5 +2684,4 @@ ms.locfileid: "50418043"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13707.20008|version-2102-january-15|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13704.20000|version-2102-january-08|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13624.20002|version-2101-january-01|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13617.20002|version-2101-december-25|)
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 끝)
