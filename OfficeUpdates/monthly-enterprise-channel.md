@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 Apps에 대한 Monthly Enterprise Channel 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 98d9d851ca126b816185e4eb2f1b9d5237ac1ec9
-ms.sourcegitcommit: f67e9486398c358b4572720dc700aa98e3c0414f
+ms.openlocfilehash: e3ad3bb5d2265b8aa56346e87c1a835d52c6e579
+ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50455784"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "50595572"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>2020년 Monthly Enterprise Channel 릴리스에 대한 릴리스 정보
 
@@ -26,6 +26,70 @@ ms.locfileid: "50455784"
 [//]: # (제거하지 마세요)
 
 
+
+## <a name="version-2101-march-09"></a>버전 2101: 3월 9일
+*버전 2101(13628.20528)*
+
+[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- 특정 Windows 보안 공격 방지 설정(SimExec, 호출자 확인)을 사용 중인 경우 Excel이 예기치 않게 시작되지 않거나 닫히는 문제를 해결합니다.
+
+
+### <a name="outlook"></a>Outlook
+
+- 암호화 전용 옵션을 사용하여 보낸 전자 메일에 대해 암호화 아이콘이 표시되지 않는 문제가 수정되었습니다.
+
+
+- 사용자가 해당 옵션을 선택하지 않은 후 메일이 디지털 서명된 채로 전송되는 문제를 해결했습니다.
+
+
+- OWA에 올바른 기본 서명을 표시하는 것과 관련된 문제가 수정되었습니다.
+
+
+- 설정을 업데이트할 때 클라우드 설정 사용자가 중단되는 문제를 해결했습니다.
+
+
+- 사용자가 Outlook에서 검색할 때 앱이 가끔 예기치 않게 닫히는 문제를 해결했습니다.
+
+
+- 프로필에 큰 계층이 있는 공유 사서함 또는 위임된 사서함을 가진 사용자가 중단되는 문제를 해결했습니다.
+
+
+- 일부 사용자가 특정 검색 시나리오에서 Outlook이 예기치 않게 종료되는 문제를 해결했습니다.
+
+
+### <a name="project"></a>Project
+
+- 중요 시점 작업에 비용 자원이 할당되었을 때 기준 비용이 올바르게 롤업되지 않는 문제를 해결했습니다.
+
+
+- 팀 플래너 보기에 작업에 대한 테두리가 표시되지 않는 문제를 수정했습니다.
+
+
+- 끌어서 놓기 작업이 팀 플래너에서 작동하지 않는 문제가 수정되었습니다.
+
+
+### <a name="office-suite"></a>Office 제품군
+
+- 미디어 컨트롤러 이벤트 알림과 관련된 문제를 해결합니다.
+
+
+- 미디어 플레이어 엔진 타이밍과 관련된 문제를 해결합니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2012-march-09"></a>버전 2012: 3월 9일
+*버전 2012(빌드 13530.20628)*
+
+[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 보안 업데이트가 나열됩니다.
 
 ## <a name="version-2012-february-09"></a>버전 2012: 2월 9일
 *버전 2012(빌드 13530.20528)*
@@ -1388,6 +1452,7 @@ ms.locfileid: "50455784"
 
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|MEC|Production|Feature|16.0.13628.20528|version-2101-march-09|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13530.20528|version-2012-february-09|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13426.20526|version-2011-january-12|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13328.20478|version-2010-december-08|)

@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Office 2016, Office 2013 및 Office 2010 영구 버전의 최신 업데이트 정보에 대한 링크를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 0dfea59f98c2e1748fa19447c287a668c50b037c
-ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
+ms.openlocfilehash: 39d497c714588d5ca31e8c4fbf8e3157545b4e90
+ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50173727"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "50595502"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Windows Installer(MSI)를 사용하는 Office 버전에 대한 최신 업데이트
 
@@ -31,13 +31,13 @@ ms.locfileid: "50173727"
 
 |**버전 및 제품**|**최신 SP(서비스 팩)**|**최신 PU(공개 업데이트)**|
 |:-----|:-----|:-----|
-|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |해당 없음  <br/> |2021년 2월 PU  <br/> [KB5000653](https://support.microsoft.com/help/5000653) <br/> |
+|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |해당 없음  <br/> |2021년 3월 PU  <br/> [KB5000635](https://support.microsoft.com/help/5000635) <br/> |
    
 ## <a name="office-2013-updates"></a>Office 2013 업데이트
 
 |**버전 및 제품**|**최신 SP(서비스 팩)**|**최신 PU(공개 업데이트)**|
 |:-----|:-----|:-----|:-----|
-|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |2021년 2월 PU  <br/> [KB5000653](https://support.microsoft.com/help/5000653) <br/> |
+|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |2021년 3월 PU  <br/> [KB5000635](https://support.microsoft.com/help/5000635) <br/> |
    
 ## <a name="office-2010-updates"></a>Office 2010 업데이트
 > [!IMPORTANT]
@@ -45,11 +45,13 @@ ms.locfileid: "50173727"
 
 |**버전 및 제품**|**최신 SP(서비스 팩)**|**최신 PU(공개 업데이트)**|
 |:-----|:-----|:-----|:-----|
-|**2010** <br/> Office 2010 제품군  <br/> Project 2010  <br/> Visio 2010  <br/> Office 2010 서버  <br/> Office Web Apps  <br/> Search Server 2010  <br/> SharePoint 2010 제품  <br/> Project Server 2010  <br/> FAST Search Server 2010 for SharePoint  <br/> |SP2 <br/>[KB2687521](https://support.microsoft.com/kb/2687521) <br/> [KB2687522](https://support.microsoft.com/kb/2687522) <br/> |2021년 2월 PU  <br/> [KB5000653](https://support.microsoft.com/help/5000653) <br/> |
+|**2010** <br/> Office 2010 제품군  <br/> Project 2010  <br/> Visio 2010  <br/> Office 2010 서버  <br/> Office Web Apps  <br/> Search Server 2010  <br/> SharePoint 2010 제품  <br/> Project Server 2010  <br/> FAST Search Server 2010 for SharePoint  <br/> |SP2 <br/>[KB2687521](https://support.microsoft.com/kb/2687521) <br/> [KB2687522](https://support.microsoft.com/kb/2687522) <br/> |2021년 3월 PU  <br/> [KB5000635](https://support.microsoft.com/help/5000635) <br/> |
    
 
    
 ## <a name="updates-released-in-past-12-months"></a>지난 12개월 동안 릴리스된 업데이트
+
+[2021년 3월용 보안 및 비보안 업데이트: KB5000635](https://support.microsoft.com/help/5000635)
 
 [2021년 2월용 보안 및 비보안 업데이트: KB5000653](https://support.microsoft.com/help/5000653)
 
@@ -73,7 +75,7 @@ ms.locfileid: "50173727"
 
 [2020년 4월용 보안 및 비보안 업데이트: KB4549670](https://support.microsoft.com/help/4549670)
 
-[2020년 3월용 보안 및 비보안 업데이트: KB4538705](https://support.microsoft.com/help/4538705)
+
 
 
 
