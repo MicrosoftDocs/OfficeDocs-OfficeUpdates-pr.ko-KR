@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Windows Installer(MSI)를 사용하는 Office 2013의 최신 .msp 파일 목록을 IT Pro에게 제공합니다.
-ms.openlocfilehash: 25f3534f259614703476b64c8f183afe9991bece
-ms.sourcegitcommit: 879f2edeb724cc4d2b838953df44bc776e252972
+ms.openlocfilehash: ec17c6d9d6fc1cbcc7613dd9d78783063ef3527c
+ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50468372"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "50595552"
 ---
 # <a name="list-of-the-most-current-msp-files-for-office-2013-products"></a>Office 2013 제품의 가장 최근 .msp 파일 목록
 
@@ -26,7 +26,7 @@ ms.locfileid: "50468372"
 
 [//]: # (콘텐츠를 제거하지 마세요. 시작)
 
-다음 표에는 **2021년 2월에** 업데이트된 .msp 파일이 나열되어 있습니다. 
+다음 표에는 **2021년** 3월에 업데이트된 .msp 파일이 나열되어 있습니다. 
 
  [//]: # (컨텐츠를 제거하지 마세요. 종료)
 
@@ -34,8 +34,11 @@ ms.locfileid: "50468372"
 
 |비보안 업데이트****|보안 업데이트****|
 |:-----|:-----|
-|mso-x-none<br/>|excel-x-none<br/>|
-|powerpoint-x-none<br/>||
+|outlook-x-none<br/>|excel-x-none<br/>|
+|<br/>|graph-x-none<br/>|
+|<br/>|mso-x-none<br/>|
+|<br/>|powerpoint-x-none<br/>|
+|<br/>|visio-x-none<br/>|
  
 
 
@@ -64,14 +67,14 @@ ms.locfileid: "50468372"
 |duetserver-x-none<sup>1</sup> <br/> |Office 2013  <br/> |2015년 4월 14일  <br/> |[2965214](https://support.microsoft.com/kb/2965214) <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |
 |ediscovery-x-none<sup>2</sup> <br/> |Office 2013  <br/> |2017년 9월 5일  <br/> |[3172484](https://support.microsoft.com/help/3172484) <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |
 |eqnedt32-x-none  <br/> |Office 2013  <br/> |해당 없음  <br/> |해당 없음  <br/> |2018년 1월 9일  <br/> |[4011580](https://support.microsoft.com/help/4011580) <br/> |[3162047](https://support.microsoft.com/help/3162047) <br/> |
-|excel-x-none  <br/> |Excel 2013  <br/> |2018년 7월 3일  <br/> |[4022244](https://support.microsoft.com/help/4022244) <br/> |2021년 2월 9일  <br/> |[4493211](https://support.microsoft.com/help/4493211) <br/>|[4493176](https://support.microsoft.com/help/4493176) <br/> |
+|excel-x-none  <br/> |Excel 2013  <br/> |2018년 7월 3일  <br/> |[4022244](https://support.microsoft.com/help/4022244) <br/> |2021년 3월 9일  <br/> |[4493239](https://support.microsoft.com/help/4493239) <br/> |[4493211](https://support.microsoft.com/help/4493211) <br/>|
 |excelpp-x-none  <br/> |Office 2013  <br/> |2017년 6월 6일  <br/> |[3191872](https://support.microsoft.com/help/3191872) <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |
 |exppdf-x-none  <br/> |Office 2013  <br/> |2016년 4월 5일  <br/> |[3085587](https://support.microsoft.com/kb/3085587) <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |
 |filterpack-x-none  <br/> |Office 2013  <br/> |2016년 4월 5일  <br/> |[3039756](https://support.microsoft.com/kb/3039756) <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |
 |fm20-x-none  <br/> |Office 2013  <br/> |2015년 7월 14일  <br/> |[3023052](https://support.microsoft.com/kb/3023052) <br/> |2014년 12월 9일  <br/> |[2726958](https://support.microsoft.com/kb/2726958) <br/> |해당 사항 없음  <br/> |
 |gfonts-x-none  <br/> |Office 2013  <br/> |2014년 10월 14일  <br/> |[2760371](https://support.microsoft.com/kb/2760371) <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |
 |gkall-x-none  <br/> |Office 2013  <br/> |2016년 6월 7일  <br/> |[3039795](https://support.microsoft.com/kb/3039795) <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |
-|graph-x-none  <br/> |Office 2013  <br/> |2019년 4월 2일  <br/> |[4462203](https://support.microsoft.com/kb/4462203)  <br/> |2021년 1월 12일  <br/> |[4486759](https://support.microsoft.com/help/4486759) <br/> |[4486725](https://support.microsoft.com/help/4486725) <br/> |
+|graph-x-none  <br/> |Office 2013  <br/> |2019년 4월 2일  <br/> |[4462203](https://support.microsoft.com/kb/4462203)  <br/> |2021년 3월 9일  <br/> |[4493203](https://support.microsoft.com/help/4493203)| [4486759](https://support.microsoft.com/help/4486759) <br/> |
 |groove-x-none  <br/> |비즈니스용 OneDrive  <br/> |2018년 8월 7일  <br/> |[4022226](https://support.microsoft.com/help/4022226) <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |
 |ieawsdc-x-none  <br/> |Office 2013  <br/> |해당 없음  <br/> |해당 없음  <br/> |2015년 8월 11일  <br/> |[3039798](https://support.microsoft.com/kb/3039798) <br/> |해당 사항 없음  <br/> |
 |infopath-x-none  <br/> |InfoPath 2013  <br/> |2016년 5월 3일  <br/> |[3114946](https://support.microsoft.com/kb/3114946) <br/> |2016년 3월 8일  <br/> |[3114833](https://support.microsoft.com/kb/3114833) <br/> |[3054793](https://support.microsoft.com/kb/3054793) <br/> |
@@ -82,7 +85,7 @@ ms.locfileid: "50468372"
 |mscomct2-x-none  <br/> |Office 2013  <br/> |해당 없음  <br/> |해당 없음  <br/> |2014년 5월 13일  <br/> |[2760272](https://support.microsoft.com/kb/2760272) <br/> |해당 사항 없음  <br/> |
 |mscomctlocx-x-none<sup>2</sup> <br/> |Office 2013  <br/> |해당 없음  <br/> |해당 없음  <br/> |2016년 1월 12일  <br/> |[3039794](https://support.microsoft.com/kb/3039794) <br/> |[2880502](https://support.microsoft.com/kb/2880502) <br/> |
 |msmipc-x-none  <br/> |Office 2013  <br/> |2017년 4월 4일  <br/> |[3172523](https://support.microsoft.com/help/3172523) <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |
-|mso-x-none  <br/> |Office 2013  <br/> |2021년 2월 2일  <br/> |[4486684](https://support.microsoft.com/help/4486684) <br/> |2020년 9월 8일  <br/> |[4484469](https://support.microsoft.com/help/4484469) <br/> |[4484351](https://support.microsoft.com/help/4484351) <br/>|
+|mso-x-none  <br/> |Office 2013  <br/> |2021년 2월 2일  <br/> |[4486684](https://support.microsoft.com/help/4486684) <br/> |2021년 3월 9일  <br/> |[4493228](https://support.microsoft.com/help/4493228) <br/>|[4484469](https://support.microsoft.com/help/4484469) <br/> |
 |msohevi-x-none  <br/> |Office 2013  <br/> |해당 없음  <br/> |해당 없음  <br/> |2019년 1월 8일  <br/> |[3172522](https://support.microsoft.com/kb/3172522) <br/> |해당 사항 없음  <br/> |
 |msptls-x-none  <br/> |Office 2013  <br/> |2018년 7월 3일  <br/> |[4018378](https://support.microsoft.com/help/4018378) <br/> |2015년 8월 11일  <br/> |[3054816](https://support.microsoft.com/kb/3054816) <br/> |해당 사항 없음  <br/> |
 |msqry32-x-none  <br/> |Office 2013  <br/> |2015년 6월 9일  <br/> |[2889863](https://support.microsoft.com/kb/2889863) <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |
@@ -103,9 +106,9 @@ ms.locfileid: "50468372"
 |otkruntimertl-x-none  <br/> |Office 2013  <br/> |해당 없음  <br/> |해당 없음  <br/> |2016년 3월 8일  <br/> |[3039746](https://support.microsoft.com/kb/3039746) <br/> |[2910941](https://support.microsoft.com/kb/2910941) <br/> |
 |outexum-x-none  <br/> |Office 2013  <br/> |2019년 3월 5일  <br/> |[4092455](https://support.microsoft.com/kb/4092455) <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |
 |outlfltr-x-none  <br/> |Office 2013  <br/> |2016년 8월 2일  <br/> |[3115404](https://support.microsoft.com/kb/3115404) <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |
-|outlook-x-none  <br/> |Outlook 2013  <br/> |2019년 10월 1일 <br/> |[4484096](https://support.microsoft.com/help/4484096) <br/> |2020년 12월 8일  <br/> |[4486732](https://support.microsoft.com/help/4486732) <br/> |[4484524](https://support.microsoft.com/help/4484524) <br/> |
+|outlook-x-none  <br/> |Outlook 2013  <br/> |2021년 3월 2일<br/> |[4493174](https://support.microsoft.com/help/4493174) <br/> |2020년 12월 8일  <br/> |[4486732](https://support.microsoft.com/help/4486732) <br/> |[4484524](https://support.microsoft.com/help/4484524) <br/> |
 |peopledatahandler-x-none  <br/> |Office 2013  <br/> |2015년 9월 8일  <br/> |[3039766](https://support.microsoft.com/kb/3039766) <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |
-|powerpoint-x-none  <br/> |PowerPoint 2013  <br/> |2021년 2월 2일  <br/> |[4493169](https://support.microsoft.com/help/4493169) <br/> |2020년 12월 8일  <br/> |[4484468](https://support.microsoft.com/help/4484468) <br/> |[4484226](https://support.microsoft.com/help/4484226) <br/> |
+|powerpoint-x-none  <br/> |PowerPoint 2013  <br/> |2021년 2월 2일  <br/> |[4493169](https://support.microsoft.com/help/4493169) <br/> |2021년 3월 9일  <br/> |[4493227](https://support.microsoft.com/help/4493227) <br/> |[4484468](https://support.microsoft.com/help/4484468) <br/> |
 |ppaddin-x-none  <br/> |Office 2013  <br/> |2017년 9월 5일  <br/> |[3213536](https://support.microsoft.com/help/3213536) <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |
 |project-x-none  <br/> |Project 2013  <br/> |2019년 4월 2일 <br/> |[4462136](https://support.microsoft.com/help/4462136) <br/> |2020년 7월 14일  <br/> |[4484450](https://support.microsoft.com/help/4484450) <br/>|[4484369](https://support.microsoft.com/help/4484369) <br/> |
 |proof- *ll*   -   *cc* <sup>3</sup> <br/> |Office 2013  <br/> |2019년 5월 7일  <br/> |[4011677](https://support.microsoft.com/help/4011677) <br/> |2014년 5월 13일  <br/> |[2880463](https://support.microsoft.com/kb/2880463) <br/> |해당 사항 없음  <br/> |
@@ -119,7 +122,7 @@ ms.locfileid: "50468372"
 |stslist-x-none  <br/> |Office 2013  <br/> |2019년 2월 5일  <br/> |[3172473](https://support.microsoft.com/kb/3172473) <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |
 |vbe7-x-none  <br/> |Office 2013  <br/> |2020년 6월 2일  <br/> |[4484356](https://support.microsoft.com/help/4484356) <br/> |2020년 10월 13일  <br/> |[4484435](https://support.microsoft.com/help/4484435) <br/> |[4011104](https://support.microsoft.com/help/4011104) <br/> |
 |visconv-x-none<sup>2</sup> <br/> |Visio 2013 호환성 팩  <br/> |2015년 7월 14일  <br/> |[3054828](https://support.microsoft.com/kb/3054828) <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |
-|visio-x-none  <br/> |Visio 2013  <br/> |2020년 9월 1일  <br/> |[4484355](https://support.microsoft.com/help/4484355) <br/> |2020년 4월 14일  <br/> |[4464544](https://support.microsoft.com/help/4464544) <br/> |[3115020](https://support.microsoft.com/help/3115020) <br/> |
+|visio-x-none  <br/> |Visio 2013  <br/> |2020년 9월 1일  <br/> |[4484355](https://support.microsoft.com/help/4484355) <br/> |2021년 3월 9일  <br/> |[4486673](https://support.microsoft.com/help/4486673) <br/> |[4464544](https://support.microsoft.com/help/4464544) <br/> |
 |vviewer-x-none  <br/> |Visio Viewer 2013  <br/> |2014년 4월 8일  <br/> |[2817301](https://support.microsoft.com/kb/2817301) <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |
 |wec-x-none  <br/> |Office 2013  <br/> |2015년 11월 7일  <br/> |[3172533](https://support.microsoft.com/help/3172533) <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |
 |word-x-none  <br/> |Word 2013  <br/> |2019년 7월 2일 <br/> |[4475525](https://support.microsoft.com/help/4475525) <br/> |2021년 1월 12일  <br/> |[4486764](https://support.microsoft.com/help/4486764) <br/>|[4486730](https://support.microsoft.com/help/4486730) <br/>|
