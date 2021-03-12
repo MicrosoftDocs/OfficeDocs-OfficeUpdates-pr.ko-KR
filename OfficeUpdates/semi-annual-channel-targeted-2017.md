@@ -1,5 +1,5 @@
 ---
-title: 2017의 반기 채널 (대상 지정) 릴리스에 대 한 릴리스 정보
+title: 2017의 Semi-Annual 채널(대상 지정) 릴리스에 대한 릴리스 정보
 ms.author: anankani
 author: andymosten
 manager: anankani
@@ -9,24 +9,24 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
-description: 2017의 Office 365 ProPlus에 대 한 반기 채널 (대상 지정) 릴리스에 대 한 릴리스 정보를 IT 전문가에 게 제공 합니다.
-ms.openlocfilehash: 44f6c4b86f88419f97bee4e89b99b5a4a46133c9
-ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
+description: 2017년 Office 365 ProPlus용 Semi-Annual 채널(대상 지정) 릴리스에 대한 릴리스 정보 제공
+ms.openlocfilehash: 51a272f29ba9e68682285cb1de05e3964340d0f2
+ms.sourcegitcommit: 90a9ee90251f072398574a437e5f45d406d617eb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/07/2020
-ms.locfileid: "48370096"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "50735173"
 ---
-# <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2017"></a>2017의 반기 채널 (대상 지정) 릴리스에 대 한 릴리스 정보
+# <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2017"></a>2017의 Semi-Annual 채널(대상 지정) 릴리스에 대한 릴리스 정보
 
-이러한 릴리스 정보에서는 2017의 Office 365 ProPlus에 대 한 반기 채널 (대상 지정) 업데이트에 포함 된 새로운 기능, 보안 업데이트 및 비보안 업데이트에 대 한 정보를 제공 합니다.
+이러한 릴리스 정보는 2017년 Office 365 ProPlus에 대한 Semi-Annual 채널(대상 지정) 업데이트에 포함된 새로운 기능, 보안 업데이트 및 비보안 업데이트에 대한 정보를 제공합니다.
  
 > [!NOTE]
 > - 또한 Visio Pro for Office 365 및 Project Online 데스크톱 클라이언트에 대한 새로운 기능, 보안 업데이트 및 비보안 업데이트에 대한 정보도 제공합니다.
 > - 이 정보는 일부 Office 365 계획에 제공되는 Office 버전(예: Business Premium)인 Office 365 Business에도 적용됩니다.
-> - 반기 채널 (대상 지정)은 9 월 2017 이전 지연 채널에 대 한 첫 번째 릴리스입니다.
+> - Semi-Annual 채널(대상 지정)은 2017년 9월 이전에 지연 채널에 대한 첫 번째 릴리스로 이름이 지정되었습니다.
 
-## <a name="version-1708-december-12"></a>버전 1708:12 월 12 일
+## <a name="version-1708-december-12"></a>버전 1708: 12월 12일
 *버전 1708(빌드 8431.2131)*
 
  ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
@@ -52,7 +52,7 @@ ms.locfileid: "48370096"
 
 
 
-## <a name="version-1708-november-14"></a>버전 1708:11 월 14 일
+## <a name="version-1708-november-14"></a>버전 1708: 11월 14일
 *버전 1708(빌드 8431.2110)*
 
 ### <a name="access-non-security-updates"></a>Access: 비보안 업데이트
@@ -105,7 +105,7 @@ ms.locfileid: "48370096"
 
 
 
-## <a name="version-1708-october-10"></a>버전 1708:10 월 10 일
+## <a name="version-1708-october-10"></a>버전 1708: 10월 10일
 *버전 1708(빌드 8431.2107)*
 
 ### <a name="access-non-security-updates"></a>Access: 비보안 업데이트
@@ -151,7 +151,7 @@ ms.locfileid: "48370096"
 
 
 
-## <a name="version-1708-september-12"></a>버전 1708:9 월 12 일
+## <a name="version-1708-september-12"></a>버전 1708: 9월 12일
 *버전 1708(빌드 8431.2079)*
 
 ### <a name="access-feature-updates"></a>Access: 기능 업데이트
@@ -194,7 +194,7 @@ ms.locfileid: "48370096"
 -   **새 계정 구성:** 필요한 수동 단계가 줄어든 새 마법사로 새 계정을 설정합니다.
 -   **링크 첨부 대화:** 리본에서 파일 첨부를 사용하여 링크를 첨부할 때, 링크로 추가할지 첨부 파일로 추가할지를 선택할 수 있습니다. 이 대화를 매번 표시하지 않으려면 파일 \> 옵션 \> 일반으로 이동한 다음, “첨부 파일 옵션”에서 링크를 첨부할 방법을 지정하세요.
 -   **온-프레미스 첨부 파일에 대한 지원:** 온-프레미스 SharePoint Server의 파일은 메시지 \> 파일 첨부 아래에 최신 파일로 표시되고 온-프레미스 비즈니스용 OneDrive 및 SharePoint 팀 사이트는 파일 첨부 \> 웹 위치 찾아보기 아래에 표시되며, 로컬 파일은 온-프레미스 비즈니스용 OneDrive 사이트에 업로드될 수 있습니다.
--   **그룹에 대한 비즈니스 분류:**  Confidential과 같이 테넌트 관리자가 정의한 비즈니스 분류 수준은 그룹을 만들거나 편집하는 경우 할당될 수 있으며 해당 분류는 그룹 헤더에 표시됩니다.
+-   **그룹에 대한 비즈니스 분류:**  Confidential과 같이 테넌트 관리자가 정의한 비즈니스 분류 수준은 그룹을 만들거나 편집하는 경우 할당될 수 있으며 해당 분류는 그룹 헤더에 표시됩니다.
 -   **Office 365의 그룹에 대한 게스트 액세스:** 그룹 대화, 파일, 일정 초대 및 그룹 전자 필기장에 대한 액세스 권한을 부여하 여 조직 외부의 사용자와 공동으로 작업합니다. [추가 정보](https://support.office.com/article/bfc7a840-868f-4fd6-a390-f347bf51aff6)
 -   **실행 가능한 메시지:** 개발자는 사용자가 외부 웹 사이트나 별도 앱으로 전환하지 않고도 Outlook에서 간편하고 빠르게 조치를 취할 수 있도록 메시지를 만들 수 있습니다. [추가 정보](https://dev.office.com/blogs/create-more-engaging-conversations-with-new-actionable-messages-updates-announced-at-microsoft-build)
 
@@ -248,7 +248,7 @@ ms.locfileid: "48370096"
 -   [CVE-2017-8696](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8696): Microsoft 그래픽 구성 요소 원격 코드 실행 문제
 
 ### <a name="skype-for-business-non-security-updates"></a>비즈니스용 Skype: 비보안 업데이트
--   특정 포트가 차단되거나 IP가 허용 목록에 없는 경우 사용자가 모임에 참가할 수 없는 이유를 설명하는 대화 상자를 추가합니다.
+-   특정 포트가 차단되거나 IP가 허용되지 않을 때 사용자가 모임에 참가할 수 없는 이유를 설명하는 대화 상자를 추가합니다.
 -   IM 대화 탭을 클릭하면 영구 대화방의 읽지 않은 메시지가 읽음으로 표시되는 문제를 수정합니다.
 -   들어오는 IM 알림이 몇 초 동안 지연되는 문제를 수정합니다.
 -   Exchange와의 동기화를 사용할 수 없는 경우 AD 연락처가 연락처 이름이 아닌 전화번호로 표시되는 문제를 수정합니다.
@@ -273,7 +273,7 @@ ms.locfileid: "48370096"
 -   모임에 참가할 때까지 빈 대화 창이 나타나지 않는 문제를 해결합니다.
 -   직함 필드가 비어 있으면 검색 결과에 연락처 카드의 부서 필드 정보가 비는 문제를 해결합니다.
 -   방화벽 규칙으로 인해 온-프레미스에서 온라인으로 마이그레이션한 사용자에게 발생하는 로그인 오류를 해결합니다.
--   새 DWORD 레지스트리 키를 추가하여 사용자가 LyncAutoD를 수행하는 외부 네트워크의 클라이언트에 로그인할 때 클라이언트가 OAuthUsed 레지스트리 키를 False로 재설정하는 문제를 수정합니다. 이 문제를 해결 하려면 HKEY \_ CURRENT \_ USER \\ Software \\ Microsoft \\ Office \\ 16.0 \\ Lync \\ \<SipID\> 를 사용 하 여 EnableRestoreOAuthUsedKeyWhenUsingCachedWebTicket에 대해이 값을 1로 설정 합니다.
+-   새 DWORD 레지스트리 키를 추가하여 사용자가 LyncAutoD를 수행하는 외부 네트워크의 클라이언트에 로그인할 때 클라이언트가 OAuthUsed 레지스트리 키를 False로 재설정하는 문제를 수정합니다. 이 문제를 수정하려면 HKEY\_CURRENT\_USER\\Software\\Microsoft\\Office\\16.0\\Lync\\\<SipID\>에서 EnableRestoreOAuthUsedKeyWhenUsingCachedWebTicket의 값을 1로 설정합니다.
 
 ### <a name="visio-feature-updates"></a>Visio: 기능 업데이트
 -   **Excel 데이터에서 다이어그램 만들기:** 새 데이터 시각화 도우미 템플릿을 사용하여 Excel 데이터에서 기본 순서도 또는 부서간 업무 흐름도를 자동으로 만듭니다. [추가 정보](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
@@ -313,7 +313,7 @@ ms.locfileid: "48370096"
 
 
 
-## <a name="version-1705-august-8"></a>버전 1705:8 월 8 일
+## <a name="version-1705-august-8"></a>버전 1705: 8월 8일
 *버전 1705(빌드 8201.2171)*
 
 ### <a name="outlook-non-security-updates"></a>Outlook: 비보안 업데이트
@@ -325,7 +325,7 @@ ms.locfileid: "48370096"
 
 
 
-## <a name="version-1705-july-27"></a>버전 1705:7 월 27 일
+## <a name="version-1705-july-27"></a>버전 1705: 7월 27일
 *버전 1705(빌드 8201.2158)*
 
 ### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트
@@ -346,7 +346,7 @@ ms.locfileid: "48370096"
 
 
 
-## <a name="version-1705-july-13"></a>버전 1705:7 월 13 일
+## <a name="version-1705-july-13"></a>버전 1705: 7월 13일
 *버전 1705(빌드 8201.2136)*
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
@@ -375,12 +375,12 @@ ms.locfileid: "48370096"
 -   [CVE-2017-8570](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8570): Microsoft Office 원격 코드 실행 취약성
 
 ### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
--   Configuration Manager를 사용 하는 경우 Office 2013에서 Office 2016로의 무인 업그레이드에 실패 하는 문제를 해결 합니다.
+-   Configuration Manager를 사용할 때 Office 2013에서 Office 2016으로의 무인 업그레이드가 실패하는 문제를 해결합니다.
 -   회사 카탈로그를 통해 스토어에서 배포된 레거시 추가 기능이 로드되지 않는 문제를 수정합니다.
 
 
 
-## <a name="version-1705-june-13"></a>버전 1705:6 월 13 일
+## <a name="version-1705-june-13"></a>버전 1705: 6월 13일
 *버전 1705(빌드 8201.2102)*
 
 ### <a name="access-feature-updates"></a>Access: 기능 업데이트
@@ -388,7 +388,7 @@ ms.locfileid: "48370096"
 -   **큰 수(bigint) 지원:** Access 테이블에서 많은 큰 수 데이터 형식을 사용하여 큰 숫자를 계산할 수 있고 SQL Server 내의 bigint와 같이 동일한 데이터 형식을 사용하는 외부 데이터베이스에서 가져오거나 연결할 수 있습니다. [추가 정보](https://blogs.office.com/2017/03/06/new-in-access-2016-large-number-bigint-support/)
 
 ### <a name="excel-feature-updates"></a>Excel: 기능 업데이트
--   **WIP (Windows Information Protection) 지원:**    이제 Excel은 인식 된 앱 이며 구성 된 정책에 따라 보호할 대상 및 회사 및 개인 데이터를 구분할 수 있습니다.   [추가 정보](https://aka.ms/wiptechnet)
+-   **WIP(Windows Information Protection) 지원:**   Excel은 이제 인식된 앱이며 구성된 정책에 따라 보호할 대상을 정확하게 결정하면서 회사 및 개인 데이터를 구분할 수 있습니다.  [추가 정보](https://aka.ms/wiptechnet)
 -   **향상된 가져오기 및 변환 기능:** 쿼리 편집기에서 샘플 값을 제공하여 새 열을 만듭니다. 입력하는 동안 Excel은 필수 변형을 검색하고 새 열의 미리 보기를 표시합니다.
 -   **최근 링크 삽입:** 최근 클라우드 기반 파일이나 웹 사이트에 간단하게 하이퍼링크를 연결하고 화면 읽기 프로그램을 사용하는 사람들에게 의미 있는 화면 이름을 만들어줄 수 있습니다. [추가 정보](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
 -   **기본 피벗 테이블 레이아웃 개인 설정** 원하는 대로 피벗 테이블을 설정하고 새 피벗 테이블을 만들 때마다 해당 레이아웃으로 시작할 수 있습니다. [추가 정보](https://support.office.com/article/efd8569c-f07a-43c1-9db2-4f2912a0f94e)
@@ -402,7 +402,7 @@ ms.locfileid: "48370096"
 -   **펜을 사용하여 개체를 선택한 후 변경:** 디지털 펜의 개체 핸들을 사용하여 크기 조정, 회전, 이동 등을 수행할 수 있습니다.
 -   **지도 차트:** 값을 비교하고 지역별 범주를 표시합니다. [추가 정보](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 -   **SVG 이미지:** 통합 문서에 SVG(확장 가능한 벡터 그래픽)를 삽입하고 편집합니다. [추가 정보](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **아이콘 삽입:**   일러스트레이션 삽입 아이콘으로 이동 하 여 SVG (확장 가능한 벡터 그래픽) 파일의 표준 라이브러리에 있는 아이콘을 사용 \> \> 합니다. [추가 정보](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **아이콘 삽입:**  삽입 \> 그림 \> 아이콘으로 이동하여 SVG(확장 가능한 벡터 그래픽) 파일의 표준 라이브러리에 있는 아이콘을 사용합니다. [추가 정보](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **최근 폴더에 저장:** 파일 \> 다른 이름으로 저장으로 이동한 후 최근에 사용한 항목 탭을 사용하여 최근에 사용한 폴더에 통합 문서를 저장합니다.
 -   **향상된 내게 필요한 옵션:** 키보드, 내레이터 및 기타 보조 기술을 사용하여 통합 문서를 읽고 편집할 수 있도록 지원이 향상되었습니다. [추가 정보](https://support.office.com/article/51fcb17a-b15b-4b13-ae04-d4f38ece3f78)
 
@@ -429,7 +429,7 @@ ms.locfileid: "48370096"
 -   OneNote 캔버스가 뷰에 많은 단락이 있을 때 콘텐츠를 숨기거나 업데이트 하는 문제를 해결합니다.
 
 ### <a name="outlook-feature-updates"></a>Outlook: 기능 업데이트
--   **WIP (Windows Information Protection) 지원:**    Outlook은 이제 인식 된 앱 이며, 구성 된 정책에 따라 보호할 대상 및 회사 및 개인 데이터를 구분할 수 있습니다.   [추가 정보](https://aka.ms/wiptechnet)
+-   **WIP(Windows Information Protection) 지원:**   Outlook은 이제 인식된 앱이며 구성된 정책에 따라 보호할 대상을 정확하게 결정하면서 회사 및 개인 데이터를 구분할 수 있습니다.  [추가 정보](https://aka.ms/wiptechnet)
 -   **최근 링크 삽입:** 최근 클라우드 기반 파일이나 웹 사이트에 하이퍼링크를 연결하고 화면 읽기 프로그램을 사용하는 사람들에게 의미 있는 화면 이름을 만들어줄 수 있습니다. [추가 정보](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
 -   **두바이 글꼴:** 아랍어 스크립트를 사용하는 주요 언어와 서유럽 언어를 모두 지원하는 글꼴 집합입니다. [추가 정보](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
 -   **배경 제거:** 자유 형식 그리기 도구를 사용하여 배경 그림을 제거합니다.
@@ -437,7 +437,7 @@ ms.locfileid: "48370096"
 -   **첨부 파일에 대한 사용 권한 설정:** OneDrive 또는 SharePoint 첨부 파일에 대해 사용자는 조직 내부 혹은 외부의 받는 사람이 첨부 파일을 읽었거나 첨부 파일에 대한 권한을 편집할지 여부를 설정할 수 있습니다.
 -   **고정 가능 작업창:** 사서함에서 메시지 간에 전환하는 동안 추가 기능 작업창을 열어 둡니다. [추가 정보](https://blogs.msdn.microsoft.com/exchangedev/2017/01/26/pinnable-taskpane-in-outlook-2016/)
 -   **SVG 이미지:** 전자 메일에 SVG(확장 가능한 벡터 그래픽)를 삽입하고 편집합니다. [추가 정보](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **아이콘 삽입:**   일러스트레이션 삽입 아이콘으로 이동 하 여 SVG (확장 가능한 벡터 그래픽) 파일의 표준 라이브러리에 있는 아이콘을 사용 \> \> 합니다.  [ 추가 정보](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **아이콘 삽입:**  삽입 \> 그림 \> 아이콘으로 이동하여 SVG(확장 가능한 벡터 그래픽) 파일의 표준 라이브러리에 있는 아이콘을 사용합니다. [추가 정보](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="outlook-security-updates"></a>Outlook: 보안 업데이트
 -   [CVE-2017-0106](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0106): Microsoft Outlook 원격 코드 실행 취약성
@@ -454,14 +454,14 @@ ms.locfileid: "48370096"
 -   높은 DPI를 사용하는 컴퓨터에서 전송된 메시지에 포함된 이미지가 블랙아웃되는 문제를 해결합니다.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 기능 업데이트
--   **WIP (Windows Information Protection) 지원:**    PowerPoint는 이제 인식 된 앱 이며 구성 된 정책에 따라 보호할 대상 및 회사 및 개인 데이터를 구분할 수 있습니다.   [추가 정보](https://aka.ms/wiptechnet)
+-   **WIP(Windows Information Protection) 지원:**   PowerPoint는 이제 인식된 앱이며 구성된 정책에 따라 보호할 대상을 정확하게 결정하면서 회사 및 개인 데이터를 구분할 수 있습니다.  [추가 정보](https://aka.ms/wiptechnet)
 -   **최근 링크 삽입:** 최근 클라우드 기반 파일이나 웹 사이트에 하이퍼링크를 연결하고 화면 읽기 프로그램을 사용하는 사람들에게 의미 있는 화면 이름을 만들어줄 수 있습니다. [추가 정보](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
 -   **추가 기능의 중앙 집중식 배포**: 관리자는 Office 365 관리 센터에서 사용자 또는 그룹에게 추가 기능을 배포하고 업데이트할 수 있습니다. [추가 정보](https://dev.office.com/docs/add-ins/publish/centralized-deployment)
 -   **두바이 글꼴:** 아랍어 스크립트를 사용하는 주요 언어와 서유럽 언어를 모두 지원하는 글꼴 집합입니다. [추가 정보](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
 -   **배경 제거:** 자유 형식 그리기 도구를 사용하여 배경 그림을 제거합니다.
 -   **SVG 이미지:** 프레젠테이션에 SVG(확장 가능한 벡터 그래픽)를 삽입하고 편집합니다. [추가 정보](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **아이콘 삽입:**   일러스트레이션 삽입 아이콘으로 이동 하 여 SVG (확장 가능한 벡터 그래픽) 파일의 표준 라이브러리에 있는 아이콘을 사용 \> \> 합니다. [추가 정보](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
--   **공동 작성 시 실시간 입력:** 다른 사용자가 프레젠테이션에서 작업 중인 위치를 확인 하 고 입력 시 변경 내용을 확인 합니다. [추가 정보](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
+-   **아이콘 삽입:**  삽입 \> 그림 \> 아이콘으로 이동하여 SVG(확장 가능한 벡터 그래픽) 파일의 표준 라이브러리에 있는 아이콘을 사용합니다. [추가 정보](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **공동 작성 시** 실시간 입력: 다른 사람이 프레젠테이션에서 작업하는 위치를 보고 입력할 때 변경 내용을 봐야 합니다. [추가 정보](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
 -   **최근 폴더에 저장:** 파일 \> 다른 이름으로 저장으로 이동한 후 최근에 사용한 항목 탭을 사용하여 최근에 사용한 폴더에 프레젠테이션을 저장합니다.
 -   **정확한 잉크 개체 만들기:** 세그먼트 지우개를 끌어 가장 가까운 선까지 불필요한 잉크를 제거합니다.
 -   **펜으로 개체를 선택한 후 조작:** 디지털 펜의 핸들을 사용하여 개체를 이동, 크기 조정 또는 회전하거나, 올가미 선택 잉크에 지원되는 펜 단추를 사용합니다.
@@ -473,7 +473,7 @@ ms.locfileid: "48370096"
 
 ### <a name="project-feature-updates"></a>Project: 기능 업데이트
 -   **선행 작업 설정에 대한 빠른 드롭다운:** Gantt 차트 드롭다운을 사용해서 작업에 대한 링크를 연결하려는 선행 작업이나 후속 작업을 선택합니다.
--   **작업 요약 이름:**   작업의 요약 작업 이름을 보여주는 읽기 전용 작업 필드입니다.  
+-   **작업 요약 이름:**  작업의 요약 작업 이름을 보여주는 읽기 전용 작업 필드입니다.  
 
 ### <a name="project-non-security-updates"></a>Project: 비보안 업데이트
 -   Project Online에서 각 EPT(Enterprise 프로젝트 템플릿)가 프로젝트 사이트에 대한 자체 URL을 갖게 되므로 사이트에 대한 올바른 위치를 표시하도록 프로젝트 사이트 만들기 대화 상자를 수정합니다.
@@ -515,7 +515,7 @@ ms.locfileid: "48370096"
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business: 기능 업데이트
 -   **링크 삽입:** IM 및 그룹 채팅에 링크를 추가하고, 전체 URL 대신 링크를 적절히 설명하는 텍스트를 제공합니다.
 -   **Screen sharing notification:** A notification displays in the conversation window when you’re sharing a screen in an IM conversation or when screen sharing continues after you leave a meeting. The notification reminds you that you are still sharing your screen and makes it easy to stop sharing by using the “Stop Sharing” button.
--   **WIP(Windows Information Protection) 지원:** 비즈니스용 Skype는 이제 WIP 작업 전용 앱으로 지원됩니다.허용된 앱 목록에 Skype를 추가하면 Skype에서 개인 데이터를 처리하지 않음을 Windows에 나타냅니다.Windows가 비즈니스용 Skype 대신 데이터를 보호 합니다.   [추가 정보](https://aka.ms/wiptechnet)
+-   **WIP(Windows Information Protection) 지원:** 비즈니스용 Skype는 이제 WIP 작업 전용 앱으로 지원됩니다.  허용된 앱 목록에 Skype를 추가하면 Skype에서 개인 데이터를 처리하지 않음을 Windows에 나타냅니다.  Windows가 비즈니스용 Skype 대신 데이터를 보호합니다.  [추가 정보](https://aka.ms/wiptechnet)
 -   **암호 재설정 옵션:** 한 번 이상 로그인하지 못하면 로그인 창에 재설정 단추 링크가 나타납니다.
 
 ### <a name="skype-for-business-security-updates"></a>비즈니스용 Skype: 보안 업데이트
@@ -564,15 +564,15 @@ ms.locfileid: "48370096"
 -   **슬라이드 조각:** Visio 드로잉의 조각을 가져다 PowerPoint 슬라이드로 내보냅니다. [추가 정보](https://support.office.com/article/e7da404b-4208-49d1-9518-6fe1a4723657)
 
 ### <a name="word-feature-updates"></a>Word: 기능 업데이트
--   **WIP (Windows Information Protection) 지원:**    Word는 이제 인식 된 앱 이며, 구성 된 정책에 따라 보호할 대상 및 회사 및 개인 데이터를 구분할 수 있습니다.   [추가 정보](https://aka.ms/wiptechnet)
+-   **WIP(Windows Information Protection) 지원:**   Word는 이제 인식된 앱이며 구성된 정책에 따라 보호할 대상을 정확하게 결정하면서 회사 및 개인 데이터를 구분할 수 있습니다.  [추가 정보](https://aka.ms/wiptechnet)
 -   **최근 링크 삽입:** 최근 클라우드 기반 파일이나 웹 사이트에 하이퍼링크를 연결하고 화면 읽기 프로그램을 사용하는 사람들에게 의미 있는 화면 이름을 만들어줄 수 있습니다. [추가 정보](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
--   **추가 기능의 중앙 집중식 배포**: 관리자는 Office 365 관리 센터에서 사용자 또는 그룹에 추가 기능을 배포 하 고 업데이트할 수 있습니다.   [추가 정보](https://dev.office.com/docs/add-ins/publish/centralized-deployment)
+-   **추가 기능의 중앙 집중식 배포**: 관리자는 Office 365 관리 센터에서 사용자 또는 그룹에게 추가 기능을 배포하고 업데이트할 수 있습니다.  [추가 정보](https://dev.office.com/docs/add-ins/publish/centralized-deployment)
 -   **두바이 글꼴:** 아랍어 스크립트를 사용하는 주요 언어와 서유럽 언어를 모두 지원하는 글꼴 집합입니다. [추가 정보](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
 -   **배경 제거:** 자유 형식 그리기 도구를 사용하여 배경 그림을 제거합니다.
 -   **나란히:** 인쇄 레이아웃 보기에서 용지 더미처럼 나란히 밀어서 페이지를 탐색합니다. [추가 정보](https://support.office.com/article/21bfd0ff-0e1f-4c43-b188-8b36dfe6dcf4)
 -   **펜을 사용하여 개체를 선택한 후 변경:** 디지털 펜의 개체 핸들을 사용하여 크기 조정, 회전, 이동 등을 수행할 수 있습니다.
 -   **SVG 이미지:** 문서에 SVG(확장 가능한 벡터 그래픽)를 삽입하고 편집합니다. [추가 정보](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **아이콘 삽입:**   일러스트레이션 삽입 아이콘으로 이동 하 여 SVG (확장 가능한 벡터 그래픽) 파일의 표준 라이브러리에 있는 아이콘을 사용 \> \> 합니다.  [ 추가 정보](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **아이콘 삽입:**  삽입 \> 그림 \> 아이콘으로 이동하여 SVG(확장 가능한 벡터 그래픽) 파일의 표준 라이브러리에 있는 아이콘을 사용합니다. [추가 정보](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **최근 폴더에 저장:** 파일 \> 다른 이름으로 저장으로 이동한 후 최근에 사용한 항목 탭을 사용하여 최근에 사용한 폴더에 문서를 저장합니다.
 -   **학습 도구를 사용한 읽기 개선:** 읽기 모드에서 문서를 큰 소리로 읽을 때 텍스트 간격을 조정하고, 음절 사이에 구분선을 표시하고, 각 단어를 강조함으로써 읽기 기술을 높이는 새 명령이 추가되었습니다. [추가 정보](https://support.office.com/article/29efa413-e2da-4cac-b2a5-2defc6d34fd9)
 -   **도형 인식:** 그리기 \> 도형으로 변환을 사용하여 그림을 자동으로 도형으로 변환합니다. [추가 정보](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
@@ -581,8 +581,8 @@ ms.locfileid: "48370096"
 -   Microsoft 보안 공지 [MS17-014](https://technet.microsoft.com/library/security/ms17-014): Microsoft Office용 보안 업데이트(3217868)
 -   [CVE-2017-0254](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0254): Microsoft Office 메모리 손상 취약성
 -   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281): Microsoft Office 원격 코드 실행 취약성
--   [CVE-2017-0292](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0292): Windows PDF 원격 코드 실행 취약성 
--   [CVE-2017-8509](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8509): Microsoft Office 원격 코드 실행 취약성  
+-   [CVE-2017-0292](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0292): Windows PDF 원격 코드 실행 취약성 
+-   [CVE-2017-8509](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8509): Microsoft Office 원격 코드 실행 취약성  
 
 ### <a name="word-non-security-updates"></a>Word: 비보안 업데이트
 -   사용자가 PST 파일을 검색할 수 없는 문제를 해결합니다.
@@ -599,7 +599,7 @@ ms.locfileid: "48370096"
 
 
 
-## <a name="version-1701-may-9"></a>버전 1701:5 월 9 일부
+## <a name="version-1701-may-9"></a>버전 1701: 5월 9일
 *버전 1701(빌드 7766.2084)*
 
 ### <a name="outlook-non-security-updates"></a>Outlook: 비보안 업데이트
@@ -625,7 +625,7 @@ ms.locfileid: "48370096"
 
 
 
-## <a name="version-1701-april-11"></a>버전 1701:4 월 11 일
+## <a name="version-1701-april-11"></a>버전 1701: 4월 11일
 *버전 1701(빌드 7766.2076)*
 
 ### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트
@@ -649,7 +649,7 @@ ms.locfileid: "48370096"
 
 
 
-## <a name="version-1701-march-14"></a>버전 1701:3 월 14 일
+## <a name="version-1701-march-14"></a>버전 1701: 3월 14일
 *버전 1701(빌드 7766.2071)*
 
 ### <a name="access-non-security-updates"></a>Access: 비보안 업데이트
@@ -688,7 +688,7 @@ ms.locfileid: "48370096"
 
 
 
-## <a name="version-1701-february-22"></a>버전 1701:2 월 22 일
+## <a name="version-1701-february-22"></a>버전 1701: 2월 22일
 *버전 1701(빌드 7766.2060)*
 
 ### <a name="excel-feature-updates"></a>Excel: 기능 업데이트
@@ -789,7 +789,7 @@ ms.locfileid: "48370096"
 
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business: 기능 업데이트
 -   **Windows 알림 스타일:** 들어오는 호출 및 대화에 대한 알림의 모양이 변경되었습니다. [추가 정보](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/New-Skype-for-Business-2016-on-Windows-Notifications-look-and/ba-p/39885)
--   **문의 후 transfer:** 통화 내에서 다른 사용자에 게 통화를 전송 하기 전에 IM 또는 통화를 통해 해당 사용자에 게 문의 하세요. [추가 정보](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/Skype-for-Business-2016-on-Windows-Consultative-Transfer/ba-p/41122)
+-   **컨설팅 전송:** 통화 내에서 해당 사용자에게 통화를 전송하기 전에 IM 또는 통화를 통해 다른 사용자와 상의합니다. [추가 정보](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/Skype-for-Business-2016-on-Windows-Consultative-Transfer/ba-p/41122)
 -   **마이크 알림:** 운영 체제에서 마이크가 음소거되어 있거나 마이크에서 오디오를 선택하지 경우 대화 창에 알림 메시지를 표시합니다.
 -   **"내 번호" 사용 안 함:** DisableDisplayMyNumber 레지스트리 항목을 사용하여 다이얼 패드에서 "내 번호"를 사용하지 않도록 설정합니다.
 
@@ -820,7 +820,7 @@ ms.locfileid: "48370096"
 -   Polycom CX100 장치를 사용하는 경우 호출 시 마이크가 검색되지 않는 문제를 해결합니다.
 -   IM 메시지에서 \\\\servername 또는 file://와 같은 링크를 선택할 때 해당 위치가 열리지 않고 오류 메시지가 표시되는 문제를 해결합니다.
 -   위치 기반 라우팅을 사용하는 VDI(가상 데스크톱 인프라) 환경에서 서버가 사용자 위치를 PSTN 호출에 유효하지 않다고 판단하기 때문에 사용자가 PSTN 호출을 하거나 받지 못하는 문제를 해결합니다.
--   사용자의 상태가 방해 금지로 설정 되어 있거나 표시 되지 않는 경우 "부재 중 대화"와 " \<name\> 받는 사람의 \<Name\> 비즈니스용 Skype에서 메시지를 보냈습니다."에서 부재 중 메시지로 전송 된 전자 메일의 제목 줄을 변경 합니다.
+-   사용자의 상태가 방해 금지 또는 발표 금지로 설정된 경우 부재 중 메시지에 대해 보낸 전자 메일의 제목 줄을 "과의 부재 중 대화"에서 \<name\> "에서 " sent you in Skype for Business"로 변경합니다. \<Name\>
 -   로그인 안정성 추세를 파악하기 위한 인구 조사 데이터의 일부로 [장치의 처음 로그인에 대한](https://docs.microsoft.com/skypeforbusiness/legal-and-regulatory/data-collection-practices) 타임스탬프 캡처를 시작합니다.
 -   보조 모니터를 공유할 수 있는 옵션이 Windows 10 버전 1607(1주년 업데이트라고도 함)의 특정 모니터 구성에 나타나지 않는 문제를 해결합니다.
 -   공유자가 타사 RDP 구현을 사용 중일 때 공유 콘텐츠를 확대하면 비즈니스용 Skype가 충돌하는 문제를 해결합니다.
@@ -909,14 +909,14 @@ ms.locfileid: "48370096"
 -   Office 문서에 SVG 이미지를 삽입한 후에 문서를 저장했다가 다시 열 경우 SVG 이미지가 사라지는 문제를 해결합니다.
 -   Fix an issue where Office shows the following error message during activation for non-English users: "The maximum length of the product key is 25 characters."
 -   프레임의 z 좌표가 제대로 작동하지 않거나 잘못 표시되게 만들 수 있는 VBA 양식의 문제를 해결합니다.
--   Configuration Manager에서 업데이트 잘못 된 레지스트리 내의 UpdateChannel 설정이 유효한 업데이트 채널이 아닌 항목으로 변경 되는 문제를 해결 합니다.
+-   Configuration Manager에 의해 진행된 업데이트가 레지스트리의 UpdateChannel 설정을 유효한 업데이트 채널이 아닌 것으로 변경하는 문제를 해결합니다.
 
 
 
-## <a name="version-1609-january-10"></a>버전 1609:1 월 10 일
+## <a name="version-1609-january-10"></a>버전 1609: 1월 10일
 *버전 1609(빌드 7369.2102)*
 
-참고: Microsoft 보안 공지 [MS17-002](https://technet.microsoft.com/library/security/ms17-002) 에서 설명 하는 보안 업데이트는이 채널 릴리스의 Word 버전에는 적용 되지 않습니다.
+참고: Microsoft 보안 공지 [MS17-002에서](https://technet.microsoft.com/library/security/ms17-002) 다루는 보안 업데이트는 이 채널 릴리스의 Word 버전에는 적용되지 않습니다.
 
 ### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트
 -   측정값 편집 대화 상자를 사용하면 Excel이 중단되는 문제를 해결합니다.

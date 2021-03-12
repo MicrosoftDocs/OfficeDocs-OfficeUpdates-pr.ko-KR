@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 앱에 대한 반기 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 6b50195e2e84292b0b4b1e259254592f2c4a591b
-ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
+ms.openlocfilehash: 9e642912dd77ac1e61683ce3021a2d5ee2c5ec56
+ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50173657"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "50595693"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>반기 기업 채널에 대한 릴리스 정보
 
@@ -29,6 +29,46 @@ ms.locfileid: "50173657"
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2008-march-09"></a>버전 2008: 3월 9일
+*버전 2008(빌드 13127.21348)*
+
+[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- 차트에서 데이터 계열을 선택한 후 Excel이 응답하지 않습니다.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 문서 저장에 실패한 경우 응용 프로그램이 예기치 않게 닫힐 수 있는 문제를 해결했습니다.
+
+
+- 디자인 아이디어를 선택하면 프레젠테이션의 데이터 분류 레이블이 제거되는 문제를 해결합니다.
+
+
+### <a name="word"></a>Word
+
+- 문서 저장에 실패한 경우 응용 프로그램이 예기치 않게 닫힐 수 있는 문제를 해결했습니다.
+
+
+### <a name="office-suite"></a>Office 제품군
+
+- 비즈니스용 Skype 메시지에 복사/붙여넣기 시 "콘텐츠를 붙여넣는 중에 오류가 발생했습니다."라는 대화 상자가 표시되는 문제를 해결했습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
+
+## <a name="version-2002-march-09"></a>버전 2002: 3월 9일
+*버전 2002 (빌드 12527.21686)*
+
+[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 보안 업데이트가 나열됩니다.
 
 ## <a name="version-2008-february-09"></a>버전 2008: 2월 9일
 *버전 2008 (빌드 13127.21216)*
@@ -2649,6 +2689,7 @@ ms.locfileid: "50173657"
 
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|DC|Production| |16.0.13127.21348|version-2008-march-09|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21216|version-2008-february-09|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21064|version-2008-january-12|)
 [//]: # (|Win32|DC|Production| |16.0.12527.21416|version-2002-december-08|)
