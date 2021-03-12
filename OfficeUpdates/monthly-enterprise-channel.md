@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 Apps에 대한 Monthly Enterprise Channel 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: e3ad3bb5d2265b8aa56346e87c1a835d52c6e579
-ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
+ms.openlocfilehash: 729d6b9bd7d549522386c8f2b11c4d3b6761d117
+ms.sourcegitcommit: 90a9ee90251f072398574a437e5f45d406d617eb
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50595572"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "50735193"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>2020년 Monthly Enterprise Channel 릴리스에 대한 릴리스 정보
 
@@ -122,6 +122,8 @@ ms.locfileid: "50595572"
 
 - **온라인의 모든 모임:** 일정 설정을 업데이트하여 Teams 모임을 만드는 모든 모임을 기본값으로 설정하면 Teams 모임 옵션을 클릭하는 것을 더 이상 기억할 필요가 없습니다.
 
+- **새 회의실 찾기:** 다양한 기능으로 회의실을 검색합니다.
+
 ### <a name="powerpoint"></a>PowerPoint
 
 - **SVG 클립보드 지원:** 이제 Office의 SVG 콘텐츠를 타사 앱에 붙여 을 수 있습니다. [자세한 정보](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/svg-content-office-third-party-apps)에서 세부 정보 보기
@@ -129,6 +131,10 @@ ms.locfileid: "50595572"
 - **민감도 레이블 감사 로깅:** 사용자가 문서 및 전자 메일에 민감도 레이블을 적용, 변경 또는 제거하면 Microsoft 365 감사 로그의 관리자가 해당 정보를 사용할 수 있게 됩니다.
 
 - **정부 고객: 문서 및 전자 메일에 민감도 레이블 적용:** 이제 GCC 및 GCC-H 환경의 고객이 민감도 레이블 기능을 사용할 수 있습니다. [자세한 정보](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+
+### <a name="visio"></a>Visio
+
+- **새 Azure 스텐실 및 셰이프:** 최신 Azure 다이어그램을 작성하는 데 도움이 되도록 스텐실을 더 추가했습니다. [자세한 정보](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
 
 ### <a name="word"></a>Word
 
@@ -241,6 +247,7 @@ ms.locfileid: "50595572"
 
 - **Office 테마를 자동으로 전환:** Office는 Windows 10 테마 설정에 맞게 테마를 자동으로 전환할 수 있습니다. 파일 > 계정으로 이동하고 Office 테마 드롭다운에서 "시스템 설정 사용"을 선택합니다. [자세한 정보](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
+
 ### <a name="powerpoint"></a>PowerPoint
 
 - **비디오 라이브러리:** 앱에서 사용 가능한 엄선된 로열티 없는 비디오 영상 라이브러리로 문서의 수준을 높이세요.
@@ -349,6 +356,11 @@ ms.locfileid: "50595572"
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
+## <a name="version-2010-january-12"></a>버전 2010: 1월 12일
+*버전 2010(빌드 13328.20550)*
+
+[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 보안 업데이트가 나열됩니다.
+
 ## <a name="version-2010-december-08"></a>버전 2010: 12월 8일
 *버전 2010(빌드 13328.20478)*
 
@@ -360,7 +372,7 @@ ms.locfileid: "50595572"
 ### <a name="feature-updates"></a>기능 업데이트
 ### <a name="excel"></a>Excel
 
-- **데이터 형식을 사용하여 Power BI에서 조직 데이터를 가져오기:** 이제 Power BI의 Excel 데이터 형식을 Office 365/Microsoft 365를 사용하는 조직의 참가자에게 배포합니다. 필요한 정보를 가져오고 손쉽게 새로 고치는 건 일상적인 여러 워크플로에 매우 중요합니다. Microsoft는 Power BI를 사용하여 Excel에서 데이터 형식으로 회사나 조직 정보에 액세스할 수 있도록 하여 스프레드시트에 연결된 정보를 제공하는 기능을 확장합니다. [자세한 정보](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />[블로그 게시물](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)에서 세부 정보 보기
+- **데이터 형식을 사용하여 Power BI에서 조직 데이터를 가져오기:** 이제 Power BI의 Excel 데이터 형식을 Office 365/Microsoft 365를 사용하는 조직의 참가자에게 배포합니다. 필요한 정보를 가져오고 손쉽게 새로 고치는 건 일상적인 여러 워크플로에 매우 중요합니다. Microsoft는 Power BI를 사용하여 Excel에서 데이터 형식으로 회사나 조직 정보에 액세스할 수 있도록 하여 스프레드시트에 연결된 정보를 제공하는 기능을 확장합니다. [자세한 정보](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />[블로그 게시물](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)에서 세부 정보를 참조하세요.
 
 ### <a name="outlook"></a>Outlook
 
@@ -382,7 +394,7 @@ ms.locfileid: "50595572"
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
 ### <a name="resolved-issues"></a>해결된 문제
-### <a name="access"></a>Access
+### <a name="access"></a>액세스
 
 - Office가 아닌 응용 프로그램에서 DAO를 사용할 경우 응용 프로그램이 예기치 않게 종료되는 문제를 해결했습니다.
 
@@ -658,6 +670,8 @@ ms.locfileid: "50595572"
 
 - **도형을 그림으로 저장:** 몇 번의 클릭만으로 도형, 아이콘 또는 기타 개체를 그림 파일로 저장하여 다른 곳에서 다시 사용할 수 있습니다. [자세한 정보](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
+- **Excel에서 세련된 Visio 다이어그램 만들기:** 워크시트에 데이터를 입력하여 순서도 또는 조직도를 만듭니다. [자세한 정보](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
 ### <a name="outlook"></a>Outlook
 
 - **간단한 설문 조사로 Outlook에 설문 조사 만들기**: 설문 조사를 쉽게 작성하고 투표를 수집하며 전자 메일에서 결과를 볼 수 있습니다 [자세한 내용 보기](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
@@ -666,11 +680,11 @@ ms.locfileid: "50595572"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **고정된 폴더에 저장:** 폴더를 고정하면 Office 파일을 더 쉽게 저장할 수 있습니다.  새 파일을 저장할 때 사용할 수 있는 폴더에 대한 추가 제어를 원하다는 사용자 피드백을 받았습니다. 저장 대화 상자에서 폴더를 고정하는 새로운 기능을 제공하게 되어 기쁘게 생각합니다. 이 새로운 기능을 통해 Word, Excel 및 PowerPoint 파일을 더 쉽게 저장할 수 있습니다. [자세한 정보](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />[블로그 게시물](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)에서 세부 정보 보기
+- **고정된 폴더에 저장:** 폴더를 고정하면 Office 파일을 더 쉽게 저장할 수 있습니다.  새 파일을 저장할 때 사용할 수 있는 폴더에 대한 추가 제어를 원하다는 사용자 피드백을 받았습니다. 저장 대화 상자에서 폴더를 고정하는 새로운 기능을 제공하게 되어 기쁘게 생각합니다. 이 새로운 기능을 통해 Word, Excel 및 PowerPoint 파일을 더 쉽게 저장할 수 있습니다. [자세한 정보](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />[블로그 게시물](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)에서 세부 정보를 참조하세요.
 
 ### <a name="word"></a>Word
 
-- **고정된 폴더에 저장:** 폴더를 고정하면 Office 파일을 더 쉽게 저장할 수 있습니다.  새 파일을 저장할 때 사용할 수 있는 폴더에 대한 추가 제어를 원하다는 사용자 피드백을 받았습니다. 저장 대화 상자에서 폴더를 고정하는 새로운 기능을 제공하게 되어 기쁘게 생각합니다. 이 새로운 기능을 통해 Word, Excel 및 PowerPoint 파일을 더 쉽게 저장할 수 있습니다. [자세한 정보](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />[블로그 게시물](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)에서 세부 정보 보기
+- **고정된 폴더에 저장:** 폴더를 고정하면 Office 파일을 더 쉽게 저장할 수 있습니다.  새 파일을 저장할 때 사용할 수 있는 폴더에 대한 추가 제어를 원하다는 사용자 피드백을 받았습니다. 저장 대화 상자에서 폴더를 고정하는 새로운 기능을 제공하게 되어 기쁘게 생각합니다. 이 새로운 기능을 통해 Word, Excel 및 PowerPoint 파일을 더 쉽게 저장할 수 있습니다. [자세한 정보](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />[블로그 게시물](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)에서 세부 정보를 참조하세요.
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -1187,7 +1201,7 @@ ms.locfileid: "50595572"
 
 - **Facebook 커넥터 지원 종료:** 2020년 4월부터는 Excel에서 Facebook 커넥터를 사용하는 외부 데이터 연결을 더 이상 지원하지 않습니다.
 
-- **통합 문서에 활기를 불어넣어줄 새로운 이미지:** 수천 개의 무료 스톡 이미지, 아이콘 및 스티커를 통합 문서에서 사용할 수 있습니다. 시작 하려면 삽입 > 사진 > 스톡 이미지로 이동합니다. [자세한 정보](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/06/premium-creative-content/)에서 세부 정보 보기
+- **통합 문서에 활기를 불어넣어줄 새로운 이미지:** 수천 개의 무료 스톡 이미지, 아이콘 및 스티커를 통합 문서에서 사용할 수 있습니다. 시작 하려면 삽입 > 사진 > 스톡 이미지로 이동합니다. [자세한 정보](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/06/premium-creative-content/)에서 세부 정보를 참조하세요.
 
 ### <a name="outlook"></a>Outlook
 
@@ -1197,7 +1211,7 @@ ms.locfileid: "50595572"
 
 - **일정 모양 변경:** 일정을 더욱 쉽게 훑어볼 수 있도록 하는 시각적 업데이트를 참조하세요. [자세한 정보](https://support.office.com/article/1c04e438-d84a-44fc-a404-170c9007e65c)<br />[블로그 게시물](https://blog-insider.office.com/2020/03/13/outlooks-calendar-gets-a-refresh/)에서 세부 정보 보기
 
-- **메시지에 활기를 불어넣어줄 새로운 이미지:** 수천 개의 무료 스톡 이미지, 아이콘 및 스티커를 전자 메일 메시지에서 사용할 수 있습니다. 시작 하려면 삽입 > 사진 > 스톡 이미지로 이동합니다. [자세한 정보](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/06/premium-creative-content/)에서 세부 정보 보기
+- **메시지에 활기를 불어넣어줄 새로운 이미지:** 수천 개의 무료 스톡 이미지, 아이콘 및 스티커를 전자 메일 메시지에서 사용할 수 있습니다. 시작 하려면 삽입 > 사진 > 스톡 이미지로 이동합니다. [자세한 정보](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/06/premium-creative-content/)에서 세부 정보를 참조하세요.
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -1205,7 +1219,7 @@ ms.locfileid: "50595572"
 
 - **발표하는 동안 변경 내용 동기화:** 프레젠테이션이 슬라이드 쇼 모드에 있더라도 내용이 변경될 때마다 동기화됩니다. [자세한 정보](https://support.office.com/article/5a2921a9-97d4-436b-b0cd-295dfe2236bb)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/)에서 세부 정보 보기
 
-- **슬라이드에 활기를 불어넣어줄 새로운 이미지:** 수천 개의 무료 스톡 이미지, 아이콘 및 스티커를 프레젠테이션에서 사용할 수 있습니다. 시작 하려면 삽입 > 사진 > 스톡 이미지로 이동합니다. [자세한 정보](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/06/premium-creative-content/)에서 세부 정보 보기
+- **슬라이드에 활기를 불어넣어줄 새로운 이미지:** 수천 개의 무료 스톡 이미지, 아이콘 및 스티커를 프레젠테이션에서 사용할 수 있습니다. 시작 하려면 삽입 > 사진 > 스톡 이미지로 이동합니다. [자세한 정보](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/06/premium-creative-content/)에서 세부 정보를 참조하세요.
 
 ### <a name="word"></a>Word
 
@@ -1213,7 +1227,7 @@ ms.locfileid: "50595572"
 
 - **완벽한 색상 선택:** 16진 색상 코드를 사용하여 글꼴, 텍스트 강조 등 원하는 색상을 정확하게 선택하세요.<br />[블로그 게시물](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)에서 세부 정보를 참조하세요.
 
-- **문서에 활기를 불어넣어줄 새로운 이미지:** 수천 개의 무료 스톡 이미지, 아이콘 및 스티커를 문서에서 사용할 수 있습니다. 시작 하려면 삽입 > 사진 > 스톡 이미지로 이동합니다. [자세한 정보](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/06/premium-creative-content/)에서 세부 정보 보기
+- **문서에 활기를 불어넣어줄 새로운 이미지:** 수천 개의 무료 스톡 이미지, 아이콘 및 스티커를 문서에서 사용할 수 있습니다. 시작 하려면 삽입 > 사진 > 스톡 이미지로 이동합니다. [자세한 정보](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/06/premium-creative-content/)에서 세부 정보를 참조하세요.
 
 ### <a name="office-suite"></a>Office 제품군
 

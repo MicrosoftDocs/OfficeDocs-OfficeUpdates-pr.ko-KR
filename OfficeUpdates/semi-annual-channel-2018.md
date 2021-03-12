@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2018년 Office 365 ProPlus에 대한 반기 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 62c342fc8e2d8829398377dd0611e101f4a01fac
-ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
+ms.openlocfilehash: 87396dc4b6c0b6ba955d76eb8ce9e486073b1016
+ms.sourcegitcommit: 90a9ee90251f072398574a437e5f45d406d617eb
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/07/2020
-ms.locfileid: "48370126"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "50735183"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2018"></a>2018년 반기 채널 릴리스에 대한 릴리스 정보
 
@@ -822,7 +822,7 @@ ms.locfileid: "48370126"
 -   **새 계정 구성:** 필요한 수동 단계가 줄어든 새 마법사로 새 계정을 설정합니다.
 -   **링크 첨부 대화:** 리본에서 파일 첨부를 사용하여 링크를 첨부할 때, 링크로 추가할지 첨부 파일로 추가할지를 선택할 수 있습니다. 이 대화를 매번 표시하지 않으려면 파일 \> 옵션 \> 일반으로 이동한 다음, “첨부 파일 옵션”에서 링크를 첨부할 방법을 지정하세요.
 -   **온-프레미스 첨부 파일에 대한 지원:** 온-프레미스 SharePoint Server의 파일은 메시지 \> 파일 첨부 아래에 최신 파일로 표시되고 온-프레미스 비즈니스용 OneDrive 및 SharePoint 팀 사이트는 파일 첨부 \> 웹 위치 찾아보기 아래에 표시되며, 로컬 파일은 온-프레미스 비즈니스용 OneDrive 사이트에 업로드될 수 있습니다.
--   **그룹에 대한 비즈니스 분류:**  Confidential과 같이 테넌트 관리자가 정의한 비즈니스 분류 수준은 그룹을 만들거나 편집하는 경우 할당될 수 있으며 해당 분류는 그룹 헤더에 표시됩니다.
+-   **그룹에 대한 비즈니스 분류:**  Confidential과 같이 테넌트 관리자가 정의한 비즈니스 분류 수준은 그룹을 만들거나 편집하는 경우 할당될 수 있으며 해당 분류는 그룹 헤더에 표시됩니다.
 -   **Office 365의 그룹에 대한 게스트 액세스:** 그룹 대화, 파일, 일정 초대 및 그룹 전자 필기장에 대한 액세스 권한을 부여하 여 조직 외부의 사용자와 공동으로 작업합니다. [추가 정보](https://support.office.com/article/bfc7a840-868f-4fd6-a390-f347bf51aff6)
 -   **실행 가능한 메시지:** 개발자는 사용자가 외부 웹 사이트나 별도 앱으로 전환하지 않고도 Outlook에서 간편하고 빠르게 조치를 취할 수 있도록 메시지를 만들 수 있습니다. [추가 정보](https://dev.office.com/blogs/create-more-engaging-conversations-with-new-actionable-messages-updates-announced-at-microsoft-build)
 
@@ -894,7 +894,7 @@ ms.locfileid: "48370126"
 -   [CVE-2017-8696](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2017-8696): Microsoft 그래픽 구성 요소 원격 코드 실행 문제
 
 ### <a name="skype-for-business-non-security-updates"></a>비즈니스용 Skype: 비보안 업데이트
--   특정 포트가 차단되거나 IP가 허용 목록에 없는 경우 사용자가 모임에 참가할 수 없는 이유를 설명하는 대화 상자를 추가합니다.
+-   특정 포트가 차단되거나 IP가 허용되지 않은 경우 사용자가 모임에 참가할 수 없는 이유를 설명하는 대화 상자를 추가합니다.
 -   IM 대화 탭을 클릭하면 영구 대화방의 읽지 않은 메시지가 읽음으로 표시되는 문제를 수정합니다.
 -   들어오는 IM 알림이 몇 초 동안 지연되는 문제를 수정합니다.
 -   Exchange와의 동기화를 사용할 수 없는 경우 AD 연락처가 연락처 이름이 아닌 전화번호로 표시되는 문제를 수정합니다.

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus에 대한 반기 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 9947b1ffc822b5f9fd578bb991cb1b5898c2a560
-ms.sourcegitcommit: 96185aa6c5a06095c58b57ac36cb2800add8bea0
+ms.openlocfilehash: ac826a441d961f8215a9d6f088fe7e5429ff8425
+ms.sourcegitcommit: 90a9ee90251f072398574a437e5f45d406d617eb
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "49760747"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "50735212"
 ---
 # <a name="archived-release-notes-for-semi-annual-enterprise-channel"></a>반기 기업 채널에 대한 보관된 릴리스 정보
 
@@ -719,7 +719,8 @@ ms.locfileid: "49760747"
 
 ### <a name="office-suite-security-update"></a>Office 제품군: 보안 업데이트
 
-- **보안상의 이유로 Office에서 Flash, Silverlight 및 Shockwave 컨트롤이 활성화되지 않도록 차단:** 보안상의 이유로 Windows의 Office 365용 Microsoft Office의 새 빌드는 Flash, Silverlight 및 Shockwave 컨트롤의 활성화를 차단합니다. [여기](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729) 및 [여기](https://support.office.com/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1)에서 자세히 알아보세요.
+- 
+  **보안상의 이유로 Office에서 Flash, Silverlight 및 Shockwave 컨트롤이 활성화되지 않도록 차단:** 보안상의 이유로 Windows의 Office 365용 Microsoft Office의 새 빌드는 Flash, Silverlight 및 Shockwave 컨트롤의 활성화를 차단합니다. [여기](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729) 및 [여기](https://support.office.com/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1)에서 자세히 알아보세요.
  
 ### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
 - 특정 시나리오에서 업데이트 설치 시간이 오래 걸리는 문제를 해결했습니다.
@@ -1600,7 +1601,7 @@ ms.locfileid: "49760747"
 -   [CVE-2017-8696](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2017-8696): Microsoft 그래픽 구성 요소 원격 코드 실행 문제
 
 ### <a name="skype-for-business-non-security-updates"></a>비즈니스용 Skype: 비보안 업데이트
--   특정 포트가 차단되거나 IP가 허용 목록에 없는 경우 사용자가 모임에 참가할 수 없는 이유를 설명하는 대화 상자를 추가합니다.
+-   특정 포트가 차단되거나 IP가 허용되지 않은 경우 사용자가 모임에 참가할 수 없는 이유를 설명하는 대화 상자를 추가합니다.
 -   IM 대화 탭을 클릭하면 영구 대화방의 읽지 않은 메시지가 읽음으로 표시되는 문제를 수정합니다.
 -   들어오는 IM 알림이 몇 초 동안 지연되는 문제를 수정합니다.
 -   Exchange와의 동기화를 사용할 수 없는 경우 AD 연락처가 연락처 이름이 아닌 전화번호로 표시되는 문제를 수정합니다.
