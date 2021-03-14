@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 7cc50ebb59a95a5b7a2e13f83264c3b6684f0a9a
-ms.sourcegitcommit: 16ea8464803ad28e97b14554df657d99b91a27de
+ms.openlocfilehash: 2fccb4fde69a5755ca114baf6536ed0e8722f426
+ms.sourcegitcommit: 8491216d5901156e5e158f6eac33141882c53e8f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50505670"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "50756264"
 ---
 # <a name="release-notes-for-beta-channel"></a>베타 채널용 릴리스 정보
 
@@ -30,6 +30,38 @@ ms.locfileid: "50505670"
 [//]: # (제거하지 마세요)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+## <a name="version-2104-march-12"></a>버전 2104: 3월 12일
+*버전 2104(빌드 13906.20000)*
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="powerpoint"></a>PowerPoint
+
+- **PowerPoint에 Flipgrid 비디오 삽입:** PowerPoint에서 이제 슬라이드에 Flipgrid 비디오 삽입을 지원합니다.
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- 파일을 PDF 문서로 저장한 경우 HYPERLINK 함수를 사용하여 만든 하이퍼링크가 작동하지 않는 문제를 해결했습니다.
+
+
+### <a name="word"></a>Word
+
+- 공동 작성 중 메모 관련 문제를 해결했습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
 
 ## <a name="version-2103-march-05"></a>버전 2103: 3월 5일
 *버전 2103(빌드 13901.20036)*
@@ -1530,7 +1562,7 @@ ms.locfileid: "50505670"
 
 - 글머리 기호 아이콘이 제대로 표시되지 않는 문제를 수정했습니다.
 
-[//]: # (BUGDETILES 컨텐츠 끝)을(를) 제거하지 마세요.
+[//]: # (BUGDETILES 컨텐츠 끝)을(를) 제거하지 마십시오.
 
 ## <a name="version-2009-august-07"></a>버전 2009: 8월 7일
 *버전 2009(빌드 13130.20000)*
@@ -1711,7 +1743,7 @@ ms.locfileid: "50505670"
 
 - **간단한 설문 조사로 Outlook에 설문 조사 만들기**: 설문 조사를 쉽게 작성하고 투표를 수집하며 전자 메일에서 결과를 볼 수 있습니다 [자세한 내용 보기](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
 
-- **새 모임이실 찾기:** 다양한 기능으로 모임실을 검색합니다.
+- **새 회의실 찾기:** 다양한 기능으로 회의실을 검색합니다.
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
@@ -2674,6 +2706,7 @@ ms.locfileid: "50505670"
 
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13906.20000|version-2104-march-12|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13901.20036|version-2103-march-05|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13819.20006|version-2103-february-26|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13811.20002|version-2103-february-19|)
@@ -2683,5 +2716,4 @@ ms.locfileid: "50505670"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13714.20000|version-2102-january-22|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13707.20008|version-2102-january-15|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13704.20000|version-2102-january-08|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13624.20002|version-2101-january-01|)
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 끝)
