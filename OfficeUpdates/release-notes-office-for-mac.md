@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Microsoft 365 앱 구독자를 위한 Mac용 Office 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: e671d6d2520edde125287179c49c1556914b3ab8
-ms.sourcegitcommit: 75e6b1f2f564b32969be80e0594e8055a2c4f34c
+ms.openlocfilehash: 556b790add09ff23d2a3c885ddd6c0a49e534a02
+ms.sourcegitcommit: 39d26fb1a6f01b0a2da9c33530de5479fbac1084
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50425746"
+ms.lasthandoff: 03/17/2021
+ms.locfileid: "50837526"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac용 Office에 대한 릴리스 정보
 
@@ -53,6 +53,45 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 
 
 
+
+
+
+## <a name="march-16-2021"></a>2021년 3월 16일
+*버전 16.47(빌드 21031401)*
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="excel"></a>Excel
+
+- **여러 시트를 동시에 숨기기 취소:** 한 번에 여러 시트를 숨길 필요가 없습니다. 한 번에 여러 시트를 숨길 수 있습니다. [자세한 정보](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
+
+- **Excel 데이터 형식을 사용하여 Power BI에서 조직 데이터 얻기:** Excel 데이터 형식을 사용하여 조직의 데이터를 삽입할 수 있습니다. 통합 문서의 셀을 변환하여 추가 정보를 얻을 수 있으며 필요할 때 언제든지 데이터를 새로 고칠 수 있습니다.
+
+### <a name="powerpoint-mac"></a>PowerPoint Mac
+
+- **향상된 새로운 슬라이드 쇼로 프레젠테이션을녹음:** 슬라이드 쇼 녹화에서는 발표자 비디오 녹화, 녹음/녹화 및 레이저 포인터 녹음/녹화가 지원됩니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/record-slide-show-updates-powerpoint-mac)에서 세부 정보 보기
+
+### <a name="word"></a>Word
+
+- **음성 명령으로 문서 받아쓰기:** 받아쓰기 도구 모음, 음성 명령 및 자동 문장 부호를 사용하여 쉽고 빠르게 음성으로 콘텐츠를 만들 수 있습니다. [자세한 정보](https://support.office.com/article/3876e05f-3fcc-418f-b8ab-db7ce0d11d3c)
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+
+[//]: # (보안 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+
+### <a name="security-updates"></a>보안 업데이트
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2021-27054](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2021-27054)
+-   [CVE-2021-27057](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2021-27057)
+
+[//]: # (보안 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="february-16-2021"></a>2021년 2월 16일
 *버전 16.46(빌드 21021202)*
@@ -302,7 +341,7 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 ### <a name="feature-updates"></a>기능 업데이트
 ### <a name="excel"></a>Excel
 
-- **다른 사람을 방해하지 않고 필터링 및 정렬:** Excel에서 다른 사람과 협업하면서 사용자 자신의 보기를 만들어 다른 사람이 보는 것을 방해하지 않고 필터링하고 정렬할 수 있습니다. [자세한 정보](https://support.office.com/article/0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6)<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/sheet-view-makes-collaborating-easier)에서 세부 정보를 참조하세요.
+- **다른 사람을 방해하지 않고 필터링 및 정렬:** Excel에서 다른 사람과 협업하면서 사용자 자신의 보기를 만들어 다른 사람이 보는 것을 방해하지 않고 필터링하고 정렬할 수 있습니다. [자세한 정보](https://support.office.com/article/0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6)<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/sheet-view-makes-collaborating-easier)에서 세부 정보 보기
 
 ### <a name="outlook"></a>Outlook
 
@@ -389,7 +428,7 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 ### <a name="feature-updates"></a>기능 업데이트
 ### <a name="excel"></a>Excel
 
-- **사진에서 데이터 가져오기:** 사진, 삽입 탭 또는 iPhone에서 직접 테이블 데이터를 추가합니다. [자세한 정보](https://support.office.com/article/3c1bb58d-2c59-4bc0-b04a-a671a6868fd7)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/13/data-from-picture-in-excel/)에서 세부 정보를 참조하세요.
+- **사진에서 데이터 가져오기:** 사진, 삽입 탭 또는 iPhone에서 직접 테이블 데이터를 추가합니다. [자세한 정보](https://support.office.com/article/3c1bb58d-2c59-4bc0-b04a-a671a6868fd7)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/13/data-from-picture-in-excel/)에서 세부 정보 보기
 
 ### <a name="outlook"></a>Outlook
 
@@ -437,7 +476,7 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 
 - **원하는 내용 찾기:** 검색 창을 사용하여 텍스트, 명령, 도움말 등을 찾으세요. [자세한 정보](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)에서 세부 정보를 참조하세요.
 
-- **셀을 추가하는 빠른 방법**: **클릭하여 추가 모드를 사용하도록 설정** 한 다음 =를 입력하고 일부 셀을 선택하여 셀 값을 추가하는 수식을 빠르게 만듭니다. **메뉴** > **기본 설정** > **편집** 에서 옵션을 찾습니다.  [자세한 정보](https://support.office.com/ko-KR/article/what-s-new-in-microsoft-365-95c8d81d-08ba-42c1-914f-bca4603e1426#Platform=Mac) <br />[블로그 게시물](https://blog-insider.office.com/2020/04/21/click-to-add-mode-feedback-in-action/)에서 세부 정보를 참조하세요.
+- **셀을 추가하는 빠른 방법**: **클릭하여 추가 모드를 사용하도록 설정** 한 다음 =를 입력하고 일부 셀을 선택하여 셀 값을 추가하는 수식을 빠르게 만듭니다. **메뉴** > **기본 설정** > **편집** 에서 옵션을 찾습니다.  [자세한 정보](https://support.office.com/ko-KR/article/what-s-new-in-microsoft-365-95c8d81d-08ba-42c1-914f-bca4603e1426#Platform=Mac) <br />[블로그 게시물](https://blog-insider.office.com/2020/04/21/click-to-add-mode-feedback-in-action/)에서 세부 정보 보기
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -445,14 +484,14 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 
 - **슬라이드에 연결:** 동료에게 슬라이드 모음에 게시하도록 요청하고 도움이 필요한 슬라이드에서 직접 시작해 보세요. [자세한 정보](https://support.office.com/article/4f5f3d5e-1674-4742-8cf1-9623050c19ef)
 
-- **원하는 내용 찾기:** 검색 창을 사용하여 텍스트, 명령, 도움말 등을 찾으세요. [자세한 정보](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)에서 세부 정보를 참조하세요.
+- **원하는 내용 찾기:** 검색 창을 사용하여 텍스트, 명령, 도움말 등을 찾으세요. [자세한 정보](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)에서 세부 정보 보기
 
 ### <a name="word"></a>Word
 
 - **핸즈 프리 입력:** 마이크가 있나요? 받아쓰기를 클릭하고 말하는 동안 Word에 입력되는 내용을 확인하세요. [자세한 정보](https://support.office.com/article/3876e05f-3fcc-418f-b8ab-db7ce0d11d3c)<br />[블로그 게시물](https://blog-insider.office.com/2020/01/24/dictate-your-documents-in-word-on-mac/)에서 세부 정보 보기
 
 
-- **원하는 내용 찾기:** 검색 창을 사용하여 텍스트, 명령, 도움말 등을 찾으세요. [자세한 정보](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)에서 세부 정보를 참조하세요.
+- **원하는 내용 찾기:** 검색 창을 사용하여 텍스트, 명령, 도움말 등을 찾으세요. [자세한 정보](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)에서 세부 정보 보기
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
