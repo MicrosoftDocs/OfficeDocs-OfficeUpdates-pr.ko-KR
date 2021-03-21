@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT 전문가에게 MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록을 제공합니다.
-ms.openlocfilehash: 3ce9f8f366510103d47ae34dad4dffa060d5dccd
-ms.sourcegitcommit: ab151c4f3172c007249a556fa02854b0765d24b9
+ms.openlocfilehash: be0b124f22f53cb26742242ac48a62adf75d93f7
+ms.sourcegitcommit: 5b34305f450f8a1e8acec302030f2e02aacefd56
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50421373"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50902203"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록
  
@@ -29,6 +29,22 @@ ms.locfileid: "50421373"
 > - Microsoft 자동 업데이트는 Microsoft의 다양한 Mac 제품에 대한 업데이트를 제공합니다. 따라서 Mac용 Office를 실행하고 있지 않더라도 Microsoft 자동 업데이트를 업데이트하라는 알림을 받을 수 있습니다.
 
 릴리스 정보를 확인하려면 [릴리스 정보](release-notes-office-for-mac.md)를 참고하세요.<br/><br/>
+
+## <a name="march-2021-release"></a>2021년 3월 릴리스
+
+**릴리스 날짜:** 2021년 3월 17일
+
+*Microsoft AutoUpdate 4.33*
+
+**버그 수정 및 개선 사항:**
+- 이제 MAU에서 업데이트를 확인하면 MAU GUI의 "확인.." 단추가 비활성화됩니다.
+- 이제 "업데이트가 이미 진행 중입니다" 프롬프트에 추가 정보가 있습니다.
+- 업데이트를 다운로드하는 동안 MAU UI에 올바른 업데이트 크기가 표시됩니다.
+- MAU는 이제 Rosetta 없이 M1을 사용해 macOS 장치에서 설치할 수 있습니다.
+
+[Microsoft 자동 업데이트 4.33 패키지 다운로드](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.33.21031401_Updater.pkg)<br/>
+<br/>
+**SHA-256 Hash:** 8B851FD35B8172AB3220592E68ABCD6C302A55336FD7E9F8B5511683B372E7E1
 
 ## <a name="february-2021-release"></a>2021년 2월 릴리스
 
@@ -178,8 +194,8 @@ E81CEADF900A0C7E7D593720D08146DBC1C55868D5B21C7E7A175AA36DFE0178
 **버그 수정 및 개선 사항:**
 - 앱 종료를 감지하고 "앱 열기"와 관련하여 표시 된 대화 상자를 자동으로 제거합니다.
 - 4월 릴리스에 소개된 자동 업데이트 기능을 사용하지 않는 사용자가 Microsoft 자동 업데이트 UI를 매 주 한번만 보도록 하는 기능을 되돌렸습니다.
-- 업데이트를 다운로드 한 후 설치를 시작하기 전에 업데이트 도우미가 종료 되는 문제가 해결 되었습니다..
-- 사용자 알림이 보류 되는 기간이 지나면 업데이트 도우미가 종료 되지 않는 문제가 해결 되었습니다.
+- 업데이트를 다운로드 한 후 설치를 시작하기 전에 예기치 않게 업데이트 도우미가 종료되는 문제가 해결되었습니다.
+- 사용자 알림이 보류되는 기간이 지나면 업데이트 도우미가 종료되지 않는 문제가 해결되었습니다.
 - 설치 후에 MAU UI를 다시 열리거나 다시 열리지 않는 문제를 해결했습니다. 업데이트를 MAU UI 자체에서 시작한 경우 또는 사용자가 직접 업데이트를 초기화한 경우 (Finder, Terminal 등을 통해)에는 설치된 후에 UI가 열려야 합니다.
 
 **SHA-256 해시:**
@@ -405,7 +421,7 @@ E5D4EADF632745115CD4819DAB3B1A1838FA8263ECDDC6E621AEA19A3C84F6F7<br/><br/>
 
  **기능 업데이트:**
 
-- 바이너리 델타 업데이트 : SSD 장치의 경우 작은 업데이트를 롤아웃하여 업데이트로 인한 대역폭 소비를 줄입니다.
+- 바이너리 델타 업데이트: SSD 장치의 경우 더 작은 크기의 업데이트를 이용할 수 있게 하여 업데이트로 인한 대역폭 소비를 줄입니다.
 - 액세서리 앱 지원: 이제 MAU에서 Microsoft OneDrive와 같은 액세서리 앱을 지원합니다.
 - 복제본 향상 기능 설치 : 복제본 업데이트가 이제 보다 강력해지고 실패하지 않습니다.
 
@@ -440,7 +456,7 @@ EE3403B79E536191E545E70708A99D3A33B384372F65C028490AFFB551CD1EE2
 
  **기능 업데이트:**
 
-- 복제 기능 향상 기능을 설치할 때 다음을 수행합니다. SSD 디바이스의 경우 사용 중인 애플리케이션의 클론에 대한 업데이트를 롤아웃하여 업데이트로 인한 애플리케이션 다운타임을 줄입니다.
+- 복제본에 설치 기능 개선 사항: SSD 장치의 경우 사용 중인 앱의 복제본에 대한 업데이트를 배포하여 업데이트로 인한 앱의 가동 중지 시간을 줄입니다.
 - 설치 최적화: 업데이트 프로세스에서는 병렬 복제를 사용하기 때문에 앱 다운타임이 줄어듭니다.
 
 **SHA-256 해시:**

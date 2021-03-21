@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Microsoft 365 앱 구독자를 위한 Mac용 Office 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 556b790add09ff23d2a3c885ddd6c0a49e534a02
-ms.sourcegitcommit: 39d26fb1a6f01b0a2da9c33530de5479fbac1084
+ms.openlocfilehash: d62ae78e877444b44b16b7107a1417ad2c68b286
+ms.sourcegitcommit: 5b34305f450f8a1e8acec302030f2e02aacefd56
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/17/2021
-ms.locfileid: "50837526"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50902197"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac용 Office에 대한 릴리스 정보
 
@@ -68,7 +68,7 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 
 - **Excel 데이터 형식을 사용하여 Power BI에서 조직 데이터 얻기:** Excel 데이터 형식을 사용하여 조직의 데이터를 삽입할 수 있습니다. 통합 문서의 셀을 변환하여 추가 정보를 얻을 수 있으며 필요할 때 언제든지 데이터를 새로 고칠 수 있습니다.
 
-### <a name="powerpoint-mac"></a>PowerPoint Mac
+### <a name="powerpoint"></a>PowerPoint
 
 - **향상된 새로운 슬라이드 쇼로 프레젠테이션을녹음:** 슬라이드 쇼 녹화에서는 발표자 비디오 녹화, 녹음/녹화 및 레이저 포인터 녹음/녹화가 지원됩니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/record-slide-show-updates-powerpoint-mac)에서 세부 정보 보기
 
