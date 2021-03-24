@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: C2R(간편 실행)을 사용하는 Office 2016 및 2019 영구 버전에 대한 업데이트 기록을 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 32c769a8c7c365dd1562fb89cc1d628968e0dbfb
-ms.sourcegitcommit: 5b34305f450f8a1e8acec302030f2e02aacefd56
+ms.openlocfilehash: 5c6326711323caf1e4eb170bd0d636fff5e2eb40
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50902183"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169487"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Office 2016 C2R 및 Office 2019의 업데이트 기록
 
@@ -35,8 +35,8 @@ Microsoft는 Office 2016 C2R(간편 실행) 버전과 Office 2019의 보안 및 
 
 
  > [!NOTE]
-> - 2020년 8월 11일부터 Office 2016 및 2019에 대한 보안 업데이트(CVE 기사)가 이 페이지 대신 [ 보안 업데이트 페이지](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열됩니다. 
-> - Office 2016 및 2019는 [고정 수명 주기 정책](https://docs.microsoft.com/lifecycle/policies/fixed)에 따라 지원됩니다. 아래 나열된 최신 볼륨 라이선스 및 소매 릴리스 만 지원됩니다.
+> - 2020년 8월 11일부터 Office 2016 및 2019에 대한 보안 업데이트(CVE 기사)가 이 페이지 대신 [ 보안 업데이트 페이지](./microsoft365-apps-security-updates.md)에 나열됩니다. 
+> - Office 2016 및 2019는 [고정 수명 주기 정책](/lifecycle/policies/fixed)에 따라 지원됩니다. 아래 나열된 최신 볼륨 라이선스 및 소매 릴리스 만 지원됩니다.
 
 
 ## <a name="volume-licensed-versions-of-office-2019"></a>볼륨 라이선스 버전의 Office 2019
@@ -153,9 +153,3 @@ Microsoft는 Office 2016 C2R(간편 실행) 버전과 Office 2019의 보안 및 
 
 
 </details>
-
-
-
-
-
-

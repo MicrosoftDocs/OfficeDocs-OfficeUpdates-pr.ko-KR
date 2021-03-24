@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Outlook 2016, Outlook 2013 및 Outlook 2010 영구 버전의 최신 업데이트 정보에 대한 링크를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 8d3541747f9a650c1cb45121dcfcaac6dbabc53f
-ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
+ms.openlocfilehash: a5ff9d2142b1aefb64f40ad4a775ef4cf07919b4
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50595542"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169737"
 ---
 # <a name="latest-updates-for-versions-of-outlook-that-use-windows-installer-msi"></a>Windows Installer(MSI)를 사용하는 Outlook 버전에 대한 최신 업데이트
 
@@ -32,11 +32,11 @@ Microsoft 365 및 온-프레미스 환경과의 Outlook 호환성은 배포에 �
     
 - Exchange 온-프레미스 배포의 경우 사용 중인 Outlook 버전에 대한 시스템 요구 사항을 따르세요.
     
-  - [Exchange 2016 시스템 요구 사항](https://docs.microsoft.com/Exchange/plan-and-deploy/system-requirements)
+  - [Exchange 2016 시스템 요구 사항](/Exchange/plan-and-deploy/system-requirements)
     
-  - [Exchange 2013 시스템 요구 사항](https://docs.microsoft.com/exchange/exchange-2013-system-requirements-exchange-2013-help)
+  - [Exchange 2013 시스템 요구 사항](/exchange/exchange-2013-system-requirements-exchange-2013-help)
     
-  - [Exchange 2010 시스템 요구 사항](https://docs.microsoft.com/previous-versions/office/exchange-server-2010/aa996719(v=exchg.141))
+  - [Exchange 2010 시스템 요구 사항](/previous-versions/office/exchange-server-2010/aa996719(v=exchg.141))
 
    
 ## <a name="outlook-2016-updates"></a>Outlook 2016 업데이트
@@ -53,10 +53,8 @@ Microsoft 365 및 온-프레미스 환경과의 Outlook 호환성은 배포에 �
    
 ## <a name="outlook-2010-updates"></a>Outlook 2010 업데이트
 > [!IMPORTANT]
-> Office 2010에 대한 지원이 2020년 10월 13일자로 종료되었습니다. 아직 Office 2010 환경 업그레이드를 시작하지 않았다면 지금 시작하는 것이 좋습니다. 자세한 내용은 [Office 2010 지원 종료 로드맵](https://docs.microsoft.com/DeployOffice/office-2010-end-support-roadmap)을 참조하세요.
+> Office 2010에 대한 지원이 2020년 10월 13일자로 종료되었습니다. 아직 Office 2010 환경 업그레이드를 시작하지 않았다면 지금 시작하는 것이 좋습니다. 자세한 내용은 [Office 2010 지원 종료 로드맵](/DeployOffice/office-2010-end-support-roadmap)을 참조하세요.
 
 |**최신 SP(서비스 팩)**|**최소 필수 업데이트**|**최신 PU(공개 업데이트)**|
 |:-----|:-----|:-----|
 |SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br><br><br><br/> |2015년 10월 PU <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  MAPI/HTTP용 Office 2010의 2015년 4월 PU <br/> [KB2956191](https://support.microsoft.com/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |2020년 12월 PU <br/>[KB4486742](https://support.microsoft.com/help/4486742) <br><br><br><br/>|
-   
-

@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Office 2016, Office 2013 및 Office 2010 영구 버전의 최신 업데이트 정보에 대한 링크를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 39d497c714588d5ca31e8c4fbf8e3157545b4e90
-ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
+ms.openlocfilehash: a0bc255deaf46ffab63899468deaab9289689d47
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50595502"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169697"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Windows Installer(MSI)를 사용하는 Office 버전에 대한 최신 업데이트
 
@@ -41,7 +41,7 @@ ms.locfileid: "50595502"
    
 ## <a name="office-2010-updates"></a>Office 2010 업데이트
 > [!IMPORTANT]
-> Office 2010에 대한 지원이 2020년 10월 13일에 종료되었습니다. 아직 Office 2010 환경 업그레이드를 시작하지 않았다면 지금 시작하는 것이 좋습니다. 자세한 내용은 [Office 2010 지원 종료 로드맵](https://docs.microsoft.com/DeployOffice/office-2010-end-support-roadmap)을 참조하세요. 
+> Office 2010에 대한 지원이 2020년 10월 13일에 종료되었습니다. 아직 Office 2010 환경 업그레이드를 시작하지 않았다면 지금 시작하는 것이 좋습니다. 자세한 내용은 [Office 2010 지원 종료 로드맵](/DeployOffice/office-2010-end-support-roadmap)을 참조하세요. 
 
 |**버전 및 제품**|**최신 SP(서비스 팩)**|**최신 PU(공개 업데이트)**|
 |:-----|:-----|:-----|:-----|

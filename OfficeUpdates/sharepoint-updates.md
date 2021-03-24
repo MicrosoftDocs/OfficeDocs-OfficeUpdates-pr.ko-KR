@@ -13,12 +13,12 @@ ms.collection:
 - RelNotes_Server
 ms.assetid: 4b32dfba-1af6-4077-9a92-7cec8f220f20
 description: SharePoint Server 2016, SharePoint 2013 및 SharePoint 2010에 대한 업데이트를 한 위치에서 찾고 관리합니다. 업데이트에 대한 자세한 내용을 알아본 후 업데이트를 다운로드하려면 이 페이지의 링크를 사용하세요.
-ms.openlocfilehash: e9187ff0773046586409e63904b3be303dc4f222
-ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
+ms.openlocfilehash: ebcdf333a3c9a8cd934508a51159eaa7cb2a278c
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50595672"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51170247"
 ---
 # <a name="sharepoint-updates"></a>SharePoint 업데이트
 
@@ -323,20 +323,20 @@ SharePoint 업데이트 외에, SharePoint에 필요한 관련 제품의 다음 
 - SharePoint가 있는 Windows Server AppFabric
   
   - [AppFabric](https://msdn.microsoft.com/library/aa139641.aspx)
-  - [SharePoint가 있는 AppFabric 주요 개념](https://blogs.msdn.microsoft.com/besidethepoint/2013/03/27/appfabric-caching-and-sharepoint-concepts-and-examples-part-1/)
-  - [AppFabric 업데이트](https://blogs.msdn.microsoft.com/distributedservices/2014/02/26/how-to-update-windows-server-appfabric-1-1-with-cumulative-update-packages/)
+  - [SharePoint가 있는 AppFabric 주요 개념](/archive/blogs/besidethepoint/appfabric-caching-and-sharepoint-concepts-and-examples-part-1)
+  - [AppFabric 업데이트](/archive/blogs/distributedservices/how-to-update-windows-server-appfabric-1-1-with-cumulative-update-packages)
   
 - SharePoint를 사용한 워크플로 관리 
   
-  - [SharePoint Server용 워크플로 설치 및 구성](https://docs.microsoft.com/SharePoint/governance/install-and-configure-workflow-for-sharepoint-server)
-  - [워크플로 관리자 업데이트](https://blogs.msdn.microsoft.com/workflowteam/)
+  - [SharePoint Server용 워크플로 설치 및 구성](/SharePoint/governance/install-and-configure-workflow-for-sharepoint-server)
+  - [워크플로 관리자 업데이트](/archive/blogs/workflowteam/)
    
 
 ## <a name="related-topics"></a>관련 항목
 
-- [SharePoint Server 2019용 소프트웨어 업데이트 설치](https://docs.microsoft.com/SharePoint/upgrade-and-update/deploy-updates-for-sharepoint-server-2016)
-- [SharePoint Server 2016용 소프트웨어 업데이트 설치](https://docs.microsoft.com/SharePoint/upgrade-and-update/install-a-software-update)
-- [SharePoint Server 2013의 소프트웨어 업데이트 개요](https://docs.microsoft.com/SharePoint/upgrade-and-update/software-updates-overview-for-sharepoint-server-2013)
-- [SharePoint Server 2013용 소프트웨어 업데이트 배포 준비](https://docs.microsoft.com/SharePoint/upgrade-and-update/prepare-to-deploy-software-updates)
-- [Exchange Server 업데이트](https://docs.microsoft.com/Exchange/new-features/build-numbers-and-release-dates)
+- [SharePoint Server 2019용 소프트웨어 업데이트 설치](/SharePoint/upgrade-and-update/deploy-updates-for-sharepoint-server-2016)
+- [SharePoint Server 2016용 소프트웨어 업데이트 설치](/SharePoint/upgrade-and-update/install-a-software-update)
+- [SharePoint Server 2013의 소프트웨어 업데이트 개요](/SharePoint/upgrade-and-update/software-updates-overview-for-sharepoint-server-2013)
+- [SharePoint Server 2013용 소프트웨어 업데이트 배포 준비](/SharePoint/upgrade-and-update/prepare-to-deploy-software-updates)
+- [Exchange Server 업데이트](/Exchange/new-features/build-numbers-and-release-dates)
 - [Project Server 업데이트](project-server-updates.md)

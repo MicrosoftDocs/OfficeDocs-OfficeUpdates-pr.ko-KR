@@ -9,17 +9,17 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: 간편 실행을 사용하는 Office 2010 영구 버전에 대한 업데이트 기록을 IT 전문가에게 제공합니다.
-ms.openlocfilehash: b01719e43ad29de589bd9cf90c583cb11d7fb0bb
-ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
+ms.openlocfilehash: c99f3b4602deb5c72cea8b5b813101ef5af5f86a
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "48989937"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51170197"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Office 2010 간편 실행 제품에 대한 업데이트 기록
 
 > [!IMPORTANT]
-> Office 2010에 대 한 지원은 2020 년 10 월 13 일에 종료 되었습니다. 아직 Office 2010 환경 업그레이드를 시작하지 않았다면 지금 시작하는 것이 좋습니다. 자세한 내용은 [Office 2010 지원 종료 로드맵](https://docs.microsoft.com/DeployOffice/office-2010-end-support-roadmap)을 참조하세요. 
+> Office 2010에 대한 지원이 2020년 10월 13일자로 종료되었습니다. 아직 Office 2010 환경 업그레이드를 시작하지 않았다면 지금 시작하는 것이 좋습니다. 자세한 내용은 [Office 2010 지원 종료 로드맵](/DeployOffice/office-2010-end-support-roadmap)을 참조하세요. 
 
 
 다음 Office 2010 제품은 간편 실행이라는 기술을 사용하여 자동으로 최신 상태로 유지됩니다.  
@@ -33,7 +33,7 @@ ms.locfileid: "48989937"
 이러한 제품 중 하나를 사용하고 있는 경우 최신 상태인지 확인하려면 Office 버전 번호를 확인하고 필요한 경우 Office 를 수동으로 업데이트하세요.
   
 > [!NOTE]
-> 최신 버전의 Office 2010는 **14.0.7261.5000** 이며 2020는 10 월 13 일에 출시 되었습니다.
+> 최신 버전의 Office 2010은 2020년 10월 13일 릴리스된 **14.0.7261.5000입니다.**
   
 Office의 버전을 확인하려면 다음을 수행합니다.
   
@@ -70,7 +70,7 @@ Office의 버전을 확인하려면 다음을 수행합니다.
 |2019|12월 10일  <br/> |14.0.7243.5000  <br/> |[KB 4532624](https://support.microsoft.com/help/4532624) <br/> |
 ||11월 12일  <br/> |14.0.7241.5000  <br/> |[KB 4527848](https://support.microsoft.com/help/4527848) <br/> |
 ||10월 8일  <br/> |14.0.7239.5000  <br/> |[KB 4522242](https://support.microsoft.com/help/4522242) <br/> |
-||9월 10일  <br/> |14.0.7237.5000  <br/> |[(영문) 4517986](https://support.microsoft.com/help/4517986) <br/> |
+||9월 10일  <br/> |14.0.7237.5000  <br/> |[KB 4517986](https://support.microsoft.com/help/4517986) <br/> |
 ||8월 13일  <br/> |14.0.7236.5000  <br/> |[KB 4514418](https://support.microsoft.com/help/4514418) <br/> |
 ||7월 9일  <br/> |14.0.7235.5000  <br/> |[KB 4509295](https://support.microsoft.com/help/4509295) <br/> |
 ||6월 11일  <br/> |14.0.7234.5000  <br/> |[KB 4505743](https://support.microsoft.com/help/4505743) <br/> |
@@ -132,9 +132,9 @@ Office의 버전을 확인하려면 다음을 수행합니다.
 ||4월 8일  <br/> |14.0.7122.5000  <br/> |[KB 2955382](https://support.microsoft.com/kb/2955382) <br/> |
 ||2월 12일  <br/> |14.0.7113.5007  <br/> |[KB 2553378](https://support.microsoft.com/kb/2553378) <br/> |
 |2013  <br/> |5월 14일  <br/> |14.0.6137.5006  <br/> |[KB 2847265](https://support.microsoft.com/kb/2847265) <br/> |
-|2012  <br/> |10월 9일  <br/> |14.0.6126.5003  <br/> |[Microsoft 보안 공지 MS12-064](https://technet.microsoft.com/library/security/ms12-064) <br/> [Microsoft 보안 공지 MS12-066](https://technet.microsoft.com/library/security/ms12-066) <br/> Office 2010에 대한 정의 업데이트  <br/> |
+|2012  <br/> |10월 9일  <br/> |14.0.6126.5003  <br/> |[Microsoft 보안 공지 MS12-064](/security-updates/SecurityBulletins/2012/ms12-064) <br/> [Microsoft 보안 공지 MS12-066](/security-updates/SecurityBulletins/2012/ms12-066) <br/> Office 2010에 대한 정의 업데이트  <br/> |
 ||3월 13일  <br/> |14.0.6117.5002  <br/> |Office 2010에 대한 정의 업데이트  <br/> |
-|2011  <br/> |12월 13일  <br/> |14.0.6114.5002  <br/> |[Microsoft 보안 공지 MS11-089](https://technet.microsoft.com/library/security/ms11-089) <br/> [KB 2553439](https://support.microsoft.com/kb/2553439) <br/> Outlook 2010 정크 메일 차단 수준에 대한 업데이트  <br/> |
+|2011  <br/> |12월 13일  <br/> |14.0.6114.5002  <br/> |[Microsoft 보안 공지 MS11-089](/security-updates/SecurityBulletins/2011/ms11-089) <br/> [KB 2553439](https://support.microsoft.com/kb/2553439) <br/> Outlook 2010 정크 메일 차단 수준에 대한 업데이트  <br/> |
 ||4월 12일  <br/> |14.0.5138.5002  <br/> |[KB 2466146](https://support.microsoft.com/kb/2466146) <br/> [KB 2519975](https://support.microsoft.com/kb/2519975) <br/> [KB 2519984](https://support.microsoft.com/kb/2519984) <br/> Office 2010에 대한 정의 업데이트  <br/> |
 ||2월 9일  <br/> |14.0.5130.5004  <br/> |Office 2010에 대한 정의 업데이트  <br/> |
 |2010  <br/> |12월 14일  <br/> |14.0.5130.5001  <br/> |[KB 2413186](https://support.microsoft.com/kb/2413186) <br/> [KB 2289078](https://support.microsoft.com/kb/2289078) <br/> [KB 2433299](https://support.microsoft.com/kb/2433299) <br/> Office 2010에 대한 정의 업데이트  <br/> |
@@ -147,5 +147,3 @@ Office의 버전을 확인하려면 다음을 수행합니다.
 |2009  <br/> |12월 8일  <br/> |14.0.4541.1000(베타)  <br/> |Office 2010의 베타 버전입니다.  <br/> [KB 976133](https://support.microsoft.com/kb/976133) <br/> |
 ||11월 18일  <br/> |14.0.4536.1000  <br/> |Office 2010의 베타 버전입니다.  <br/> |
    
-  
-
