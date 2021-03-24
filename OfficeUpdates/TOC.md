@@ -48,14 +48,14 @@
 ## [Office 비보안 업데이트(MSI)](office-MSI-non-security-updates.md)
 ## [Office 2016 .msp 파일(MSI)](msp-files-office-2016.md)
 ## [Office 2013 .msp 파일(MSI)](msp-files-office-2013.md)
-## [비즈니스용 Skype 업데이트(MSI)](https://docs.microsoft.com/SkypeForBusiness/sfb-client-updates)
+## [비즈니스용 Skype 업데이트(MSI)](/SkypeForBusiness/sfb-client-updates)
 
 # Office 서버 제품
-## [Exchange Server 업데이트](https://docs.microsoft.com/Exchange/new-features/build-numbers-and-release-dates)
+## [Exchange Server 업데이트](/Exchange/new-features/build-numbers-and-release-dates)
 ## [Project Server 업데이트](project-server-updates.md)
 ## [SharePoint 업데이트](sharepoint-updates.md)
-## [비즈니스용 Skype 서버 업데이트](https://docs.microsoft.com/SkypeForBusiness/sfb-server-updates)
+## [비즈니스용 Skype 서버 업데이트](/SkypeForBusiness/sfb-server-updates)
 
 # 관련 링크
-## [Windows 10 릴리스](https://aka.ms/windows/releaseinfo)
+## [Windows 10 릴리스](/windows/release-health/release-information)
 ## [Microsoft 수명 주기 정책](https://support.microsoft.com/lifecycle)
