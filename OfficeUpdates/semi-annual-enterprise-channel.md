@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 앱에 대한 반기 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 99828dc0f08c9fb065a92620acee2a1b5e856b9e
-ms.sourcegitcommit: d7b61837c922993e563c83df547d865c6715517b
+ms.openlocfilehash: 547700388de93effd6e2d1ced5c5b1d6a570bdc3
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "50741651"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169616"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>반기 기업 채널에 대한 릴리스 정보
 
 이 릴리스 정보에서는 엔터프라이즈용 Microsoft 365 앱, 비즈니스용 Microsoft 365 앱 및 프로젝트 및 Visio용 데스크톱 앱의 구독 버전에 대한 반기별 엔터프라이즈 채널 업데이트에 포함된 새로운 기능 및 비보안 업데이트에 대한 정보를 제공합니다.
 
 > [!IMPORTANT]
-> 당사는 Microsoft 365 앱에 대한 업데이트 채널을 일부 변경하고 있습니다. 여기에는 새 업데이트 채널 추가(월별 엔터프라이즈 채널) 및 기존 업데이트 채널의 이름 변경 등이 포함됩니다. 자세한 내용은 [이 문서를 참조](https://go.microsoft.com/fwlink/p/?linkid=2127441)하세요.
+> 당사는 Microsoft 365 앱에 대한 업데이트 채널을 일부 변경하고 있습니다. 여기에는 새 업데이트 채널 추가(월별 엔터프라이즈 채널) 및 기존 업데이트 채널의 이름 변경 등이 포함됩니다. 자세한 내용은 [이 문서를 참조](/DeployOffice/update-channels-changes)하세요.
 
 > [!NOTE]
 >
@@ -33,7 +33,7 @@ ms.locfileid: "50741651"
 ## <a name="version-2008-march-09"></a>버전 2008: 3월 9일
 *버전 2008(빌드 13127.21348)*
 
-[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+[여기](./microsoft365-apps-security-updates.md) 나열된 보안 업데이트
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -68,12 +68,12 @@ ms.locfileid: "50741651"
 ## <a name="version-2002-march-09"></a>버전 2002: 3월 9일
 *버전 2002 (빌드 12527.21686)*
 
-[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 보안 업데이트가 나열됩니다.
+[여기](./microsoft365-apps-security-updates.md)에 보안 업데이트가 나열됩니다.
 
 ## <a name="version-2008-february-09"></a>버전 2008: 2월 9일
 *버전 2008 (빌드 13127.21216)*
 
-[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+[여기](./microsoft365-apps-security-updates.md) 나열된 보안 업데이트
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -134,7 +134,7 @@ ms.locfileid: "50741651"
 ## <a name="version-2002-february-09"></a>버전 2002: 2월 9일
 *버전 2002(빌드 12527.21594)*
 
-[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+[여기](./microsoft365-apps-security-updates.md) 나열된 보안 업데이트
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -151,12 +151,12 @@ ms.locfileid: "50741651"
 ## <a name="version-1908-february-09"></a>버전 1908: 2월 9일
 *버전 1908(빌드 11929.21008)*
 
-[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 보안 업데이트가 나열됩니다.
+[여기](./microsoft365-apps-security-updates.md)에 보안 업데이트가 나열됩니다.
 
 ## <a name="version-2008-january-12"></a>버전 2008: 1월 12일
 *버전 2008(빌드 13127.21064)*
 
-[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+[여기](./microsoft365-apps-security-updates.md) 나열된 보안 업데이트
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -178,7 +178,7 @@ ms.locfileid: "50741651"
 
 - **완벽한 색상 선택:** 16진 색상 코드를 사용하여 글꼴, 텍스트 강조 등 원하는 색상을 정확하게 선택하세요.<br />[블로그 게시물](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)에서 세부 정보를 참조하세요.
 
-- **Excel 내의 Power BI에 있는 데이터셋에서 PivotTables 생성:** 몇 번의 클릭으로 Power BI에 저장된 데이터셋에 연결된 PivotTables를 Excel에서 생성할 수 있습니다.  이렇게 하면 PivotTables와 Power BI를 모두 최대한 활용할 수 있습니다. 보안 Power BI 데이터셋에서 PivotTables를 사용하여 데이터를 계산, 요약 및 분석할 수 있습니다. [자세한 정보](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)<br />[블로그 게시물](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)에서 세부 정보를 참조하세요.
+- **Excel 내의 Power BI에 있는 데이터셋에서 PivotTables 생성:** 몇 번의 클릭으로 Power BI에 저장된 데이터셋에 연결된 PivotTables를 Excel에서 생성할 수 있습니다.  이렇게 하면 PivotTables와 Power BI를 모두 최대한 활용할 수 있습니다. 보안 Power BI 데이터셋에서 PivotTables를 사용하여 데이터를 계산, 요약 및 분석할 수 있습니다. [자세한 정보](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)<br />[블로그 게시물](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)에서 세부 정보 보기
 
 ### <a name="outlook"></a>Outlook
 
@@ -192,7 +192,7 @@ ms.locfileid: "50741651"
 
 - **받은 편지함을 벗어나지 않고 모임 참가:** 온라인 모임에 참가하기 위해 일정으로 전환할 필요가 없습니다. 할 일 창에 일정이 고정된 경우 Exchange Server 2019 또는 Exchange Online에서 호스트되는 사용자 계정은 클릭 한 번으로 모임에 참가할 수 있습니다. [자세한 정보](https://support.office.com/article/d8baa9d5-0645-41b8-9f36-b498a6c36064 )
 
-- **종속적인 Wi-Fi 네트워크에 대한 새로운 경험:** 로그인하기 위해 웹 페이지가 필요한 Wi-Fi 네트워크에 가입한 적이 있습니까? 이제 Outlook이 이를 감지하여 연결하는 데 도움을 줍니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/outlook-on-public-wi-fi-networks-just-got-easier)에서 세부 정보를 참조하세요.
+- **종속적인 Wi-Fi 네트워크에 대한 새로운 경험:** 로그인하기 위해 웹 페이지가 필요한 Wi-Fi 네트워크에 가입한 적이 있습니까? 이제 Outlook이 이를 감지하여 연결하는 데 도움을 줍니다.<br />[블로그 게시물](https://insider.office.com/en-us/blog/outlook-on-public-wi-fi-networks-just-got-easier)에서 세부 정보를 참조하세요.
 
 - **사람을 검색할 때 전자 메일 제안 받기:** 검색 상자에 사람의 이름을 입력하면 가장 관련성이 높은 전자 메일 메시지가 검색 제안에 포함됩니다. [자세한 정보](https://support.office.com/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
 
@@ -839,7 +839,7 @@ ms.locfileid: "50741651"
 ## <a name="version-2002-january-12"></a>버전 2002: 1월 12일
 *버전 2002(빌드 12527.21504)*
 
-[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+[여기](./microsoft365-apps-security-updates.md) 나열된 보안 업데이트
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -864,7 +864,7 @@ ms.locfileid: "50741651"
 ## <a name="version-1908-january-12"></a>버전 1908: 1월 12일
 *버전 1908(빌드 11929.20994)*
 
-[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+[여기](./microsoft365-apps-security-updates.md) 나열된 보안 업데이트
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -881,7 +881,7 @@ ms.locfileid: "50741651"
 ## <a name="version-2002-december-08"></a>버전 2002: 12월 8일
 *버전 2002(빌드 12527.21416)*
 
-[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+[여기](./microsoft365-apps-security-updates.md) 나열된 보안 업데이트
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -925,12 +925,12 @@ ms.locfileid: "50741651"
 ## <a name="version-1908-december-08"></a>버전 1908: 12월 8일
 *버전 1908 (빌드11929.20984)*
 
-보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열되어 있습니다.
+보안 업데이트는 [여기](./microsoft365-apps-security-updates.md)에 나열되어 있습니다.
 
 ## <a name="version-2002-november-10"></a>버전 2002: 11월 10일
 *버전 2002(빌드 12527.21330)*
 
-[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+[여기](./microsoft365-apps-security-updates.md) 나열된 보안 업데이트
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -967,12 +967,12 @@ ms.locfileid: "50741651"
 ## <a name="version-1908-november-10"></a>버전 1908: 11월 10일
 *버전 1908(빌드 11929.20974)*
 
-보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열됨
+보안 업데이트는 [여기](./microsoft365-apps-security-updates.md)에 나열됨
 
 ## <a name="version-2002-october-13"></a>버전 2002: 10월 13일
 *버전 2002(빌드 12527.21236)*
 
-[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+[여기](./microsoft365-apps-security-updates.md) 나열된 보안 업데이트
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -1012,7 +1012,7 @@ ms.locfileid: "50741651"
 ## <a name="version-1908-october-13"></a>버전 1908: 10월 13일
 *버전 1908(빌드 11929.20966)*
 
-[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+[여기](./microsoft365-apps-security-updates.md) 나열된 보안 업데이트
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -1029,7 +1029,7 @@ ms.locfileid: "50741651"
 ## <a name="version-2002-september-08"></a>버전 2002: 9월 8일
 *버전 2002(빌드 12527.21104)*
 
-[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+[여기](./microsoft365-apps-security-updates.md) 나열된 보안 업데이트
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -1059,12 +1059,12 @@ ms.locfileid: "50741651"
 ## <a name="version-1908-september-08"></a>버전 1908: 9월 8일
 *버전 1908(빌드 11929.20946)*
 
-[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+[여기](./microsoft365-apps-security-updates.md) 나열된 보안 업데이트
 
 ## <a name="version-2002-august-11"></a>버전 2002: 8월 11일
 *버전 2002(빌드 12527.20988)*
 
-[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+[여기](./microsoft365-apps-security-updates.md) 나열된 보안 업데이트
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -1099,12 +1099,12 @@ ms.locfileid: "50741651"
 ## <a name="version-1908-august-11"></a>버전 1908: 8월 11일
 *버전 1908(빌드 11929.20934)*
 
-보안 업데이트가 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열됨
+보안 업데이트가 [여기](./microsoft365-apps-security-updates.md)에 나열됨
 
 ## <a name="version-1902-august-11"></a>버전 1902: 8월 11일
 *버전 1902(빌드 11328.20644)*
 
-[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+[여기](./microsoft365-apps-security-updates.md) 나열된 보안 업데이트
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -1115,7 +1115,7 @@ ms.locfileid: "50741651"
 ## <a name="version-2002-july-14"></a>버전 2002: 7월 14일
 *버전 2002(빌드 12527.20880)*
 
-[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 보안 업데이트가 나열됩니다.
+[여기](./microsoft365-apps-security-updates.md)에 보안 업데이트가 나열됩니다.
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -1631,7 +1631,7 @@ ms.locfileid: "50741651"
 ## <a name="version-1908-july-14"></a>버전 1908: 7월 14일
 *버전 1908(빌드 11929.20904)*
 
-[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 보안 업데이트가 나열됩니다.
+[여기](./microsoft365-apps-security-updates.md)에 보안 업데이트가 나열됩니다.
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -1811,7 +1811,7 @@ ms.locfileid: "50741651"
 
 - 사용자가 공유 일정 폴더를 OST와 동기화하는 데 문제가있어 이러한 폴더와 상호 작용할 때 권한 오류가 발생하는 문제를 해결합니다.
 
-- Citrix 환경에서 30개 이상의 일정을 볼 때 사용자에게 충돌이 발생하는 문제를 해결합니다. 여기에는 [이전 버전에 대해 문서화된 개별 KB](https://support.microsoft.com/ko-KR/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen)가 있습니다.
+- Citrix 환경에서 30개 이상의 일정을 볼 때 사용자에게 충돌이 발생하는 문제를 해결합니다. 여기에는 [이전 버전에 대해 문서화된 개별 KB](https://support.microsoft.com/en-us/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen)가 있습니다.
 
 - SMIME 알고리즘 선택 관련 문제를 수정합니다.
 
@@ -1969,12 +1969,12 @@ ms.locfileid: "50741651"
 ## <a name="version-1902-july-14"></a>버전 1902: 7월 14일
 *버전 1902(빌드 11328.20624)*
 
-[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 보안 업데이트가 나열됩니다.
+[여기](./microsoft365-apps-security-updates.md)에 보안 업데이트가 나열됩니다.
 
 ## <a name="version-1908-june-09"></a>버전 1908: 6월 9일
 *버전 1908(빌드 11929.20838)*
 
-[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+[여기](./microsoft365-apps-security-updates.md) 나열된 보안 업데이트
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -2002,7 +2002,7 @@ ms.locfileid: "50741651"
 ## <a name="version-1902-june-09"></a>버전 1902: 6월 9일
 *버전 1902(빌드 11328.20602)*
 
-[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+[여기](./microsoft365-apps-security-updates.md) 나열된 보안 업데이트
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -2021,7 +2021,7 @@ ms.locfileid: "50741651"
 ## <a name="version-1908-may-12"></a>버전 1908: 5월 12일
 *버전 1908(빌드 11929.20776)*
 
-나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+나열된 보안 업데이트는 [여기](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -2046,7 +2046,7 @@ ms.locfileid: "50741651"
 ## <a name="version-1902-may-12"></a>버전 1902: 5월 12일
 *버전 1902(빌드 11328.20586)*
 
-나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+나열된 보안 업데이트는 [여기](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -2064,7 +2064,7 @@ ms.locfileid: "50741651"
 ## <a name="version-1908-may-04"></a>버전 1908: 5월 4일
 *버전 1908(빌드 11929.20752)*
 
-[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 보안 업데이트가 나열됩니다.
+[여기](./microsoft365-apps-security-updates.md)에 보안 업데이트가 나열됩니다.
 
 ### <a name="resolved-issues"></a>해결된 문제
 ### <a name="outlook"></a>Outlook
@@ -2090,7 +2090,7 @@ ms.locfileid: "50741651"
 ## <a name="version-1908-april-26"></a>버전 1908: 4월 26일
 *버전 1908(빌드 11929.20736)*
 
-[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 보안 업데이트가 나열됩니다.
+[여기](./microsoft365-apps-security-updates.md)에 보안 업데이트가 나열됩니다.
 
 ### <a name="resolved-issues"></a>해결된 문제
 ### <a name="excel"></a>Excel
@@ -2112,7 +2112,7 @@ ms.locfileid: "50741651"
 ## <a name="version-1908-april-14"></a>버전 1908: 4월 14일
 *버전 1908(빌드 11929.20708)*
 
-나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+나열된 보안 업데이트는 [여기](./microsoft365-apps-security-updates.md)
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
@@ -2145,14 +2145,14 @@ ms.locfileid: "50741651"
 ## <a name="version-1902-april-14"></a>버전 1902: 4월 14일
 *버전 1902(빌드 11328.20564)*
 
-나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+나열된 보안 업데이트는 [여기](./microsoft365-apps-security-updates.md)
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-1908-march-10"></a>버전 1908: 3월 10일
 *버전 1908 (빌드 11929.20648)*
 
-나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+나열된 보안 업데이트는 [여기](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -2186,14 +2186,14 @@ ms.locfileid: "50741651"
 ## <a name="version-1902-march-10"></a>버전 1902: 3월 10일
 *버전 1902 (빌드 11328.20554)*
 
-나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+나열된 보안 업데이트는 [여기](./microsoft365-apps-security-updates.md)
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-1908-february-11"></a>버전 1908: 2월 11일
 *버전 1908 (빌드 11929.20606)*
 
-[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+[여기](./microsoft365-apps-security-updates.md) 나열된 보안 업데이트
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -2261,7 +2261,7 @@ ms.locfileid: "50741651"
 ## <a name="version-1902-february-11"></a>버전 1902: 2월 11일
 *버전 1902 (빌드 11328.20526)*
 
-[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+[여기](./microsoft365-apps-security-updates.md) 나열된 보안 업데이트
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -2283,14 +2283,14 @@ ms.locfileid: "50741651"
 ## <a name="version-1808-february-11"></a>버전 1808: 2월 11일
 *버전 1808 (빌드 10730.20438)*
 
-[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+[여기](./microsoft365-apps-security-updates.md) 나열된 보안 업데이트
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-1908-january-14"></a>버전 1908: 1월 14일
 *버전 1908(빌드 11929.20562)*
 
-나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+나열된 보안 업데이트는 [여기](./microsoft365-apps-security-updates.md)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
@@ -2409,11 +2409,11 @@ ms.locfileid: "50741651"
 
 - **변경 내용을 실시간으로 저장:** 파일을 OneDrive에 업로드하여 모든 업데이트를 자동으로 저장할 수 있습니다.
 
-- **개인 정보 제어:** 진단 데이터 및 연결된 환경에 대한 업데이트 및 향상된 신규 컨트롤 작업 [자세한 정보](https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json)
+- **개인 정보 제어:** 진단 데이터 및 연결된 환경에 대한 업데이트 및 향상된 신규 컨트롤 작업 [자세한 정보](/DeployOffice/privacy/overview-privacy-controls?toc=%2fdeployoffice%2ftoc.json)
 
 - **Office 아이콘이 새롭게 단장했습니다.** 간단하고 강력하며 지능적인 Office 환경을 반영하여 Office 아이콘이 다시 디자인되었습니다.
 
-- **Microsoft Teams 설치:** Microsoft Teams는 기본적으로 Office 365 ProPlus 기존 설치에 설치됩니다. [자세한 정보](https://docs.microsoft.com/DeployOffice/teams-install)
+- **Microsoft Teams 설치:** Microsoft Teams는 기본적으로 Office 365 ProPlus 기존 설치에 설치됩니다. [자세한 정보](/DeployOffice/teams-install)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
@@ -2652,7 +2652,7 @@ ms.locfileid: "50741651"
 ## <a name="version-1902-january-14"></a>버전 1902: 1월 14일
 *버전 1902(빌드 11328.20512)*
 
-나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+나열된 보안 업데이트는 [여기](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -2680,7 +2680,7 @@ ms.locfileid: "50741651"
 ## <a name="version-1808-january-14"></a>버전 1808: 1월 14일
 *버전 1808(빌드 10730.20432)*
 
-나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+나열된 보안 업데이트는 [여기](./microsoft365-apps-security-updates.md)
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 

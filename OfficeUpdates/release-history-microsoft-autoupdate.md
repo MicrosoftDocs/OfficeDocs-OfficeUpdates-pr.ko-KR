@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT 전문가에게 MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록을 제공합니다.
-ms.openlocfilehash: be0b124f22f53cb26742242ac48a62adf75d93f7
-ms.sourcegitcommit: 5b34305f450f8a1e8acec302030f2e02aacefd56
+ms.openlocfilehash: c9d16f2c221612969ec5a7cfb08c2022d287ea7c
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50902203"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169717"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록
  
@@ -262,7 +262,7 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 - SSD를 사용하는 MacOS 컴퓨터는 업데이트로 인해 더 빨라진 업데이트 속도 및 무시해도 되는 정도의 앱 중단만을 경험합니다.
 
 
-[CVE-2020-0984](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0984)를 참조하세요.
+[CVE-2020-0984](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0984)를 참조하세요.
 
 **SHA-256 해시:**
 
@@ -393,7 +393,7 @@ E5D4EADF632745115CD4819DAB3B1A1838FA8263ECDDC6E621AEA19A3C84F6F7<br/><br/>
  **기능 업데이트:**
 
 - MAU에 대한 개인 정보 변경 내용: 필수 데이터 수집 알림이 규정 준수의 일부로 최종 사용자에게 표시됩니다.
-- MAU 업데이트 마감일: 이제 Mac 관리자가 MAU에 마감일을 설정하여 Mac 사용자에게 업데이트를 적용할 수 있습니다. [자세한 정보](https://docs.microsoft.com/deployoffice/mac/mau-deadline)
+- MAU 업데이트 마감일: 이제 Mac 관리자가 MAU에 마감일을 설정하여 Mac 사용자에게 업데이트를 적용할 수 있습니다. [자세한 정보](/deployoffice/mac/mau-deadline)
 - 다양한 버그 및 성능 수정 사항.
 
 **SHA-256 해시:**
@@ -440,7 +440,7 @@ ABCC7D58DA7DB1B8B24B9B1BE6B1DB93BDC97AE487EFB615EC5695B9E1CC0FC9
  **기능 업데이트:**
 
 - MAU에 대한 개인 정보 변경 내용: 필수 데이터 수집 알림이 규정 준수의 일부로 최종 사용자에게 표시됩니다.
-- MAU 업데이트 마감일: 이제 Mac 관리자가 MAU에 마감일을 설정하여 Mac 사용자에게 업데이트를 적용할 수 있습니다. [자세한 정보](https://docs.microsoft.com/deployoffice/mac/mau-deadline)
+- MAU 업데이트 마감일: 이제 Mac 관리자가 MAU에 마감일을 설정하여 Mac 사용자에게 업데이트를 적용할 수 있습니다. [자세한 정보](/deployoffice/mac/mau-deadline)
 - 다양한 버그 및 성능 수정 사항.
 
 **SHA-256 해시:**
@@ -512,4 +512,4 @@ FF676870D5B3521202095810B85DEF36538B59E00AEA44A2ED0D7EA8B3B99D6C
 ## <a name="related-articles"></a>관련 문서
 
 - [Mac용 Office에 대한 업데이트 기록](update-history-office-for-mac.md)
-- [Mac용 Office에 대한 릴리스 정보](release-notes-office-for-mac.md) 
+- [Mac용 Office에 대한 릴리스 정보](release-notes-office-for-mac.md)

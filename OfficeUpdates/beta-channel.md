@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: de8740891378ab34cb7944fff94aaf204d27e43c
-ms.sourcegitcommit: 5b34305f450f8a1e8acec302030f2e02aacefd56
+ms.openlocfilehash: f8d234b83d6b08b1f6fd15630055bb150441322b
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50902143"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169957"
 ---
 # <a name="release-notes-for-beta-channel"></a>베타 채널용 릴리스 정보
 
 이 문서에는 Windows 데스크톱용 Word, Excel, PowerPoint, Outlook, Access 및 Project의 베타 채널 빌드에 대한 릴리스 정보가 포함되어 있습니다. 매주 Microsoft는 흥미로운 새 기능, 중요한 수정 사항, 알리려는 중요한 문제를 강조합니다. Microsoft는 일정 기간 동안 자주 베타 채널에 기능을 배포하며 때로는 수정 사항도 배포합니다. 이로서 더욱 광범위한 사용자들에게 기능을 릴리스하기 전에 원활하게 작동하는지 확인할 수 있습니다. 따라서 아래에 설명된 기능이 보이지 않더라도 곧 제공되게 되므로 걱정할 필요가 없습니다.  
 
 > [!IMPORTANT]
-> 당사는 Microsoft 365 앱에 대한 업데이트 채널을 일부 변경하고 있습니다. 여기에는 새 업데이트 채널 추가(월별 엔터프라이즈 채널) 및 기존 업데이트 채널의 이름 변경 등이 포함됩니다. 자세한 내용은 [이 문서를 검토하세요](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> 당사는 Microsoft 365 앱에 대한 업데이트 채널을 일부 변경하고 있습니다. 여기에는 새 업데이트 채널 추가(월별 엔터프라이즈 채널) 및 기존 업데이트 채널의 이름 변경 등이 포함됩니다. 자세한 내용은 [이 문서를 검토하세요](/DeployOffice/update-channels-changes).
 
 > [!NOTE]
 > - 릴리스 정보는 매주 포스팅되며 여러 빌드의 편집일 수 있습니다.
@@ -387,19 +387,19 @@ ms.locfileid: "50902143"
 ### <a name="feature-updates"></a>기능 업데이트
 ### <a name="excel"></a>Excel
 
-- **정부 고객: 문서 및 전자 메일에 민감도 레이블 적용:** 이제 GCC 및 GCC-H 환경의 고객이 민감도 레이블 기능을 사용할 수 있습니다. [자세한 정보](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **정부 고객: 문서 및 전자 메일에 민감도 레이블 적용:** 이제 GCC 및 GCC-H 환경의 고객이 민감도 레이블 기능을 사용할 수 있습니다. [자세한 정보](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="outlook"></a>Outlook
 
-- **정부 고객: 문서 및 전자 메일에 민감도 레이블 적용:** 이제 GCC 및 GCC-H 환경의 고객이 민감도 레이블 기능을 사용할 수 있습니다. [자세한 정보](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **정부 고객: 문서 및 전자 메일에 민감도 레이블 적용:** 이제 GCC 및 GCC-H 환경의 고객이 민감도 레이블 기능을 사용할 수 있습니다. [자세한 정보](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **정부 고객: 문서 및 전자 메일에 민감도 레이블 적용:** 이제 GCC 및 GCC-H 환경의 고객이 민감도 레이블 기능을 사용할 수 있습니다. [자세한 정보](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **정부 고객: 문서 및 전자 메일에 민감도 레이블 적용:** 이제 GCC 및 GCC-H 환경의 고객이 민감도 레이블 기능을 사용할 수 있습니다. [자세한 정보](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="word"></a>Word
 
-- **정부 고객: 문서 및 전자 메일에 민감도 레이블 적용:** 이제 GCC 및 GCC-H 환경의 고객이 민감도 레이블 기능을 사용할 수 있습니다. [자세한 정보](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **정부 고객: 문서 및 전자 메일에 민감도 레이블 적용:** 이제 GCC 및 GCC-H 환경의 고객이 민감도 레이블 기능을 사용할 수 있습니다. [자세한 정보](/microsoft-365/compliance/sensitivity-labels)
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -675,7 +675,7 @@ ms.locfileid: "50902143"
 
 ### <a name="word"></a>Word
 
-- **최신 주석을 활용한 더 나은 공동 작업:** 개체에 메모를 추가하고, 동료를 @멘션하고, 메모 스레드를 해결하여 공동 작업 환경을 개선해보세요. [자세한 정보](https://support.office.com/article/8d3f868a-867e-4df2-8c68-bf96671641e2)<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/modern-commenting-in-word)에서 세부 정보 보기
+- **최신 주석을 활용한 더 나은 공동 작업:** 개체에 메모를 추가하고, 동료를 @멘션하고, 메모 스레드를 해결하여 공동 작업 환경을 개선해보세요. [자세한 정보](https://support.office.com/article/8d3f868a-867e-4df2-8c68-bf96671641e2)<br />[블로그 게시물](https://insider.office.com/en-us/blog/modern-commenting-in-word)에서 세부 정보 보기
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -1618,19 +1618,19 @@ ms.locfileid: "50902143"
 ### <a name="feature-updates"></a>기능 업데이트
 ### <a name="excel"></a>Excel
 
-- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
+- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
 
 ### <a name="outlook"></a>Outlook
 
-- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
+- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
+- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
 
 ### <a name="word"></a>Word
 
-- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
+- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
@@ -2478,13 +2478,13 @@ ms.locfileid: "50902143"
 ### <a name="feature-updates"></a>기능 업데이트
 
 ### <a name="excel"></a>Excel
-- **민감도 레이블**: 조직에서 사용자 지정 권한에 대한 메시지를 표시하도록 구성한 민감도 레이블을 적용할 수 있습니다. [자세한 정보](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **민감도 레이블**: 조직에서 사용자 지정 권한에 대한 메시지를 표시하도록 구성한 민감도 레이블을 적용할 수 있습니다. [자세한 정보](/microsoft-365/compliance/encryption-sensitivity-labels?preserve-view=true&view=o365-worldwide#let-users-assign-permissions)
 
 ### <a name="powerpoint"></a>PowerPoint
-- **민감도 레이블**: 조직에서 사용자 지정 권한에 대한 메시지를 표시하도록 구성한 민감도 레이블을 적용할 수 있습니다. [자세한 정보](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **민감도 레이블**: 조직에서 사용자 지정 권한에 대한 메시지를 표시하도록 구성한 민감도 레이블을 적용할 수 있습니다. [자세한 정보](/microsoft-365/compliance/encryption-sensitivity-labels?preserve-view=true&view=o365-worldwide#let-users-assign-permissions)
 
 ### <a name="word"></a>Word
-- **민감도 레이블**: 조직에서 사용자 지정 권한에 대한 메시지를 표시하도록 구성한 민감도 레이블을 적용할 수 있습니다. [자세한 정보](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **민감도 레이블**: 조직에서 사용자 지정 권한에 대한 메시지를 표시하도록 구성한 민감도 레이블을 적용할 수 있습니다. [자세한 정보](/microsoft-365/compliance/encryption-sensitivity-labels?preserve-view=true&view=o365-worldwide#let-users-assign-permissions)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 

@@ -9,20 +9,20 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 다운로드 패키지 및 업데이트 기록에 대한 링크를 포함하여 Mac용 Office의 최신 업데이트에 대한 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: dcb932bcb6a15b27b8340c6451f24812418807cf
-ms.sourcegitcommit: 39d26fb1a6f01b0a2da9c33530de5479fbac1084
+ms.openlocfilehash: d9ec4db6eb877e99ee3c7758f4050512b51bb669
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/17/2021
-ms.locfileid: "50837496"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51170177"
 ---
 # <a name="update-history-for-office-for-mac"></a>Mac용 Office에 대한 업데이트 기록
   
 Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데이트 및 비보안 업데이트를 제공하기 위해 정기적으로 업데이트됩니다. 다음 정보는 주로 조직의 사용자에게 Mac용 Office를 배포하는 IT 전문가를 위해 작성되었습니다.
 
 > [!NOTE]
-> - Office 제품군 설치 패키지를 사용하는 경우 버전 16.21부터 Microsoft Teams가 ***새*** 설치에 기본적으로 설치됩니다. 자세한 내용은 [Mac에 Microsoft Teams 설치](https://docs.microsoft.com/DeployOffice/teams-install#microsoft-teams-installations-on-a-mac)를 참조하세요.  
-> - 보안상의 이유로 Microsoft는 SHA-1을 더 이상 사용하지 않습니다. [자세히 알아보기](https://docs.microsoft.com/security-updates/SecurityAdvisories/2017/4010323)
+> - Office 제품군 설치 패키지를 사용하는 경우 버전 16.21부터 Microsoft Teams가 ***새*** 설치에 기본적으로 설치됩니다. 자세한 내용은 [Mac에 Microsoft Teams 설치](/DeployOffice/teams-install#microsoft-teams-installations-on-a-mac)를 참조하세요.  
+> - 보안상의 이유로 Microsoft는 SHA-1을 더 이상 사용하지 않습니다. [자세히 알아보기](/security-updates/SecurityAdvisories/2017/4010323)
 > - 이 정보는 2018년 9월 16.17 릴리스부터 Mac용 Office 버전인 Mac용 Office 2019에도 적용되며, 소매점 또는 볼륨 라이선스 계약을 통해 일회용 구매 제품으로 사용할 수 있습니다.
 > - 지정된 Mac용 Office 릴리스에 포함된 기능, 보안 업데이트 및 비보안 업데이트에 대한 내용은 [Mac용 Office에 대한 릴리스 정보](release-notes-office-for-mac.md)를 참조하세요.
 > - 새 릴리스에 미리 액세스하려면 [Office 참가자](https://support.office.com/article/f4208185-b63a-4b68-9c7a-9a32d2411c16#ID0EAACAAA=Mac) 프로그램에 가입하세요.

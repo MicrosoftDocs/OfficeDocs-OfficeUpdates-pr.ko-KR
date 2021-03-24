@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus의 알려진 문제에 대한 정보를 제공합니다.
-ms.openlocfilehash: eb771e0584a76f4ab4d506987a6b2379cc7087ee
-ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
+ms.openlocfilehash: f93d43233c448cdc1100fe82e255acbb1fd344f3
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/07/2020
-ms.locfileid: "48369946"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169847"
 ---
 # <a name="microsoft-365-apps-known-issues"></a>Microsoft 365 앱 알려진 문제
 
@@ -23,7 +23,7 @@ ms.locfileid: "48369946"
 
 > [!NOTE]
 >- 이 목록은 포괄적이지 않습니다.
->- 해결됨으로 표시된 채널이 아닌 채널에서 문제가 발생하는 경우 곧 해결을 기대할 수 있습니다. [자세한 정보](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus#BKMK_SAC)
+>- 해결됨으로 표시된 채널이 아닌 채널에서 문제가 발생하는 경우 곧 해결을 기대할 수 있습니다. [자세한 정보](/DeployOffice/overview-of-update-channels-for-office-365-proplus#BKMK_SAC)
 >- 해결된 문제는 해당 채널 페이지에도 문서화되어 있습니다.
 
 <br>

@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: 2017년 Office 365 ProPlus의 월별 채널 릴리스에 대한 릴리스 정보 제공
-ms.openlocfilehash: a41d4c959b108995e0a4d1d8601cf1635b2c594d
-ms.sourcegitcommit: 90a9ee90251f072398574a437e5f45d406d617eb
+ms.openlocfilehash: c8e653782d812013ce6eb9791977d6f52c908c1f
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50735203"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169817"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2017"></a>2017년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -323,7 +323,7 @@ ms.locfileid: "50735203"
 -   **위험한 확장 차단:** 위험을 초래할 것으로 간주되며, OLE 패키지 개체로 포함되어 있는 확장명은 기본적으로 활성화되지 않도록 차단됩니다. 예로 .exe, .vbs 및 .js가 있습니다. [자세한 정보](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="skype-for-business-non-security-updates"></a>비즈니스용 Skype: 비보안 업데이트
--   특정 포트가 차단되거나 IP가 허용되지 않을 때 사용자가 모임에 참가할 수 없는 이유를 설명하는 대화 상자를 추가합니다.
+-   특정 포트가 차단되거나 IP가 허용되지 않은 경우 사용자가 모임에 참가할 수 없는 이유를 설명하는 대화 상자를 추가합니다.
 -   IM 대화 탭을 클릭하면 영구 대화방의 읽지 않은 메시지가 읽음으로 표시되는 문제를 수정합니다.
 -   들어오는 IM 알림이 몇 초 동안 지연되는 문제를 수정합니다.
 -   Exchange와의 동기화를 사용할 수 없는 경우 AD 연락처가 연락처 이름이 아닌 전화번호로 표시되는 문제를 수정합니다.
@@ -601,22 +601,22 @@ ms.locfileid: "50735203"
 -   **쿼리 공유**: 쿼리 정의를 ODC(Office 데이터베이스 연결) 파일로 내보낸 후 통합 문서 또는 다른 사용자와 공유합니다.
 -   **데이터 로드:** 데이터 모델에 데이터를 저장하지 않고 쿼리의 데이터를 피벗 테이블 또는 피벗 차트로 직접 로드합니다.
 -   **향상된 가져오기 및 변환 기능:** 쿼리 편집기에서 샘플 값을 제공하여 새 열을 만듭니다. 입력하는 동안 Excel은 필수 변형을 검색하고 새 열의 미리 보기를 표시합니다.
--   **WIP(Windows Information Protection) 지원:**   Excel은 이제 인식된 앱이며 구성된 정책에 따라 보호할 대상을 정확하게 결정하면서 회사 및 개인 데이터를 구분할 수 있습니다.  [추가 정보](https://aka.ms/wiptechnet)
+-   **WIP(Windows Information Protection) 지원:**   Excel은 이제 인식된 앱이며 구성된 정책에 따라 보호할 대상을 정확하게 결정하면서 회사 및 개인 데이터를 구분할 수 있습니다.  [추가 정보](/windows/security/information-protection/windows-information-protection/protect-enterprise-data-using-wip)
 
 ### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트
 -   그룹화된 워크시트에서 병합하고 가운데 맞춤이 작동하지 않는 문제를 수정합니다.
 
 ### <a name="onenote-feature-updates"></a>OneNote: 기능 업데이트
--   **WIP(Windows Information Protection) 지원:** OneNote는 이제 인식된 앱이며 구성된 정책에 따라 보호할 대상을 정확하게 결정하면서 회사 및 개인 데이터를 구분할 수 있습니다. [추가 정보](https://aka.ms/wiptechnet)
+-   **WIP(Windows Information Protection) 지원:** OneNote는 이제 인식된 앱이며 구성된 정책에 따라 보호할 대상을 정확하게 결정하면서 회사 및 개인 데이터를 구분할 수 있습니다. [추가 정보](/windows/security/information-protection/windows-information-protection/protect-enterprise-data-using-wip)
 
 ### <a name="outlook-feature-updates"></a>Outlook: 기능 업데이트
--   **WIP(Windows Information Protection) 지원:** Outlook은 이제 인식된 앱이며 구성된 정책에 따라 보호할 대상을 정확하게 결정하면서 회사 및 개인 데이터를 구분할 수 있습니다. [추가 정보](https://aka.ms/wiptechnet)
+-   **WIP(Windows Information Protection) 지원:** Outlook은 이제 인식된 앱이며 구성된 정책에 따라 보호할 대상을 정확하게 결정하면서 회사 및 개인 데이터를 구분할 수 있습니다. [추가 정보](/windows/security/information-protection/windows-information-protection/protect-enterprise-data-using-wip)
 -   **링크 첨부 대화:** 리본에서 파일 첨부를 사용하여 링크를 첨부할 때, 링크로 추가할지 첨부 파일로 추가할지를 선택할 수 있습니다. 이 대화를 매번 표시하지 않으려면 파일 \> 옵션 \> 일반으로 이동한 다음, “첨부 파일 옵션”에서 링크를 첨부할 방법을 지정하세요.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 기능 업데이트
 -   **동영상의 선택 캡션:** 동영상에 더 쉽게 액세스할 수 있도록 선택 캡션을 추가합니다. [추가 정보](https://support.office.com/article/a16745e1-b3da-4428-b2a7-ff0c8b758d0b)
 -   **향상된 디자이너 기능:** 이제 디자이너에서 슬라이드에 추가된 차트에 대한 디자인 아이디어를 추천합니다.
--   **WIP(Windows Information Protection) 지원:**   PowerPoint는 이제 인식된 앱이며 구성된 정책에 따라 보호할 대상을 정확하게 결정하면서 회사 및 개인 데이터를 구분할 수 있습니다.  [추가 정보](https://aka.ms/wiptechnet)
+-   **WIP(Windows Information Protection) 지원:**   PowerPoint는 이제 인식된 앱이며 구성된 정책에 따라 보호할 대상을 정확하게 결정하면서 회사 및 개인 데이터를 구분할 수 있습니다.  [추가 정보](/windows/security/information-protection/windows-information-protection/protect-enterprise-data-using-wip)
 
 ### <a name="project-non-security-updates"></a>Project: 비보안 업데이트
 -   Project Online에서 각 EPT(Enterprise 프로젝트 템플릿)가 프로젝트 사이트에 대한 자체 URL을 갖게 되므로 사이트에 대한 올바른 위치를 표시하도록 프로젝트 사이트 만들기 대화 상자를 수정합니다.
@@ -631,7 +631,7 @@ ms.locfileid: "50735203"
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business: 기능 업데이트
 -   **링크 삽입:** IM 및 그룹 채팅에 링크를 추가하고, 전체 URL 대신 링크를 적절히 설명하는 텍스트를 제공합니다.
 -   **Screen sharing notification:** A notification displays in the conversation window when you’re sharing a screen in an IM conversation or when screen sharing continues after you leave a meeting. The notification reminds you that you are still sharing your screen and makes it easy to stop sharing by using the “Stop Sharing” button.
--   **WIP(Windows Information Protection) 지원:** 비즈니스용 Skype는 이제 WIP 작업 전용 앱으로 지원됩니다.  허용된 앱 목록에 Skype를 추가하면 Skype에서 개인 데이터를 처리하지 않음을 Windows에 나타냅니다.  Windows가 비즈니스용 Skype 대신 데이터를 보호합니다.  [추가 정보](https://aka.ms/wiptechnet)
+-   **WIP(Windows Information Protection) 지원:** 비즈니스용 Skype는 이제 WIP 작업 전용 앱으로 지원됩니다.  허용된 앱 목록에 Skype를 추가하면 Skype에서 개인 데이터를 처리하지 않음을 Windows에 나타냅니다.  Windows가 비즈니스용 Skype 대신 데이터를 보호합니다.  [추가 정보](/windows/security/information-protection/windows-information-protection/protect-enterprise-data-using-wip)
 
 ### <a name="skype-for-business-non-security-updates"></a>비즈니스용 Skype: 비보안 업데이트
 -   Change message for attempted calls to users with audio disabled by policy from "Cannot complete the call" to "Cannot call because an IT administrator has restricted audio. Try using instant messaging or email instead and ask to check with their IT administrator."
@@ -646,7 +646,7 @@ ms.locfileid: "50735203"
 ### <a name="word-feature-updates"></a>Word: 기능 업데이트
 -   **편집기 창의 향상된 쓰기 지원:** 편집기 창에서 고급 맞춤법, 문법 및 쓰기 스타일 권장 사항을 볼 수 있습니다. 보조 기술에 대한 향상된 지원을 통해 이러한 창 기능에 액세스할 수 있습니다.
 -   **대체 텍스트 만들기:** 클라우드 기반 서비스는 문서의 그림에 대한 대체 텍스트를 자동으로 생성합니다.
--   **WIP(Windows Information Protection) 지원:**   Word는 이제 인식된 앱이며 구성된 정책에 따라 보호할 대상을 정확하게 결정하면서 회사 및 개인 데이터를 구분할 수 있습니다.  [추가 정보](https://aka.ms/wiptechnet)
+-   **WIP(Windows Information Protection) 지원:**   Word는 이제 인식된 앱이며 구성된 정책에 따라 보호할 대상을 정확하게 결정하면서 회사 및 개인 데이터를 구분할 수 있습니다.  [추가 정보](/windows/security/information-protection/windows-information-protection/protect-enterprise-data-using-wip)
 
 ## <a name="version-1704-june-1"></a>버전 1704: 6월 1일
 *버전 1704(빌드 8067.2157)*
@@ -821,13 +821,13 @@ ms.locfileid: "50735203"
 *버전 1702(빌드 7870.2024)*
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
--   Microsoft 보안 공지 [MS17-014](https://technet.microsoft.com/library/security/ms17-014): Microsoft Office용 보안 업데이트(3217868)
+-   Microsoft 보안 공지 [MS17-014](/security-updates/SecurityBulletins/2017/ms17-014): Microsoft Office용 보안 업데이트(3217868)
 
 ### <a name="skype-for-business-security-updates"></a>비즈니스용 Skype: 보안 업데이트
--   Microsoft 보안 공지 [MS17-013](https://technet.microsoft.com/library/security/ms17-013): Microsoft 그래픽 구성 요소용 보안 업데이트(4013075)
+-   Microsoft 보안 공지 [MS17-013](/security-updates/SecurityBulletins/2017/ms17-013): Microsoft 그래픽 구성 요소용 보안 업데이트(4013075)
 
 ### <a name="word-security-updates"></a>Word: 보안 업데이트
--   Microsoft 보안 공지 [MS17-014](https://technet.microsoft.com/library/security/ms17-014): Microsoft Office용 보안 업데이트(3217868)
+-   Microsoft 보안 공지 [MS17-014](/security-updates/SecurityBulletins/2017/ms17-014): Microsoft Office용 보안 업데이트(3217868)
 
 
 
@@ -1007,7 +1007,7 @@ ms.locfileid: "50735203"
 -   페이지보다 큰 이미지를 인쇄할 때 OneNote가 충돌하는 문제를 해결합니다.
 
 ### <a name="outlook-feature-updates"></a>Outlook: 기능 업데이트
--   **고정 가능 작업창:** 사서함에서 메시지 간에 전환하는 동안 추가 기능 작업창을 열어 둡니다. [추가 정보](https://blogs.msdn.microsoft.com/exchangedev/2017/01/26/pinnable-taskpane-in-outlook-2016/)
+-   **고정 가능 작업창:** 사서함에서 메시지 간에 전환하는 동안 추가 기능 작업창을 열어 둡니다. [추가 정보](/archive/blogs/exchangedev/pinnable-taskpane-in-outlook-2016)
 
 ### <a name="outlook-non-security-updates"></a>Outlook: 비보안 업데이트
 -   대화에 대한 첨부 파일 목록에서 첨부 파일을 마우스 오른쪽 단추로 클릭할 경우 해당 메뉴 항목 대신 모든 상황에 맞는 메뉴 항목이 표시되는 문제를 해결합니다.
@@ -1044,7 +1044,7 @@ ms.locfileid: "50735203"
 -   IM 메시지에서 \\\\servername 또는 file://와 같은 링크를 선택할 때 해당 위치가 열리지 않고 오류 메시지가 표시되는 문제를 해결합니다.
 -   위치 기반 라우팅을 사용하는 VDI(가상 데스크톱 인프라) 환경에서 서버가 사용자 위치를 PSTN 호출에 유효하지 않다고 판단하기 때문에 사용자가 PSTN 호출을 하거나 받지 못하는 문제를 해결합니다.
 -   사용자의 상태가 방해 금지 또는 발표 금지로 설정된 경우 부재 중 메시지에 대해 보낸 전자 메일의 제목 줄을 "과의 부재 중 대화"에서 \<name\> "에서 " sent you in Skype for Business"로 변경합니다. \<Name\>
--   로그인 안정성 추세를 파악하기 위한 인구 조사 데이터의 일부로 [장치의 처음 로그인에 대한](https://docs.microsoft.com/skypeforbusiness/legal-and-regulatory/data-collection-practices) 타임스탬프 캡처를 시작합니다.
+-   로그인 안정성 추세를 파악하기 위한 인구 조사 데이터의 일부로 [장치의 처음 로그인에 대한](/skypeforbusiness/legal-and-regulatory/data-collection-practices) 타임스탬프 캡처를 시작합니다.
 
 ### <a name="visio-feature-updates"></a>Visio: 기능 업데이트
 -   **향상된 내게 필요한 옵션:** 키보드, 내레이터 및 기타 보조 기술을 사용하여 도형 관련 작업을 수행하고 다른 사용자와 함께 편집하는 등의 작업이 가능하도록 지원이 개선되었습니다.
@@ -1065,7 +1065,7 @@ ms.locfileid: "50735203"
 ## <a name="version-1611-january-4"></a>버전 1611: 1월 4일
 *버전 1611(빌드 7571.2109)*
 
-참고: Microsoft 보안 공지 [MS17-002에서](https://technet.microsoft.com/library/security/ms17-002) 다루는 보안 업데이트는 이 채널 릴리스의 Word 버전에는 적용되지 않습니다.
+참고: Microsoft 보안 공지 [MS17-002에서](/security-updates/SecurityBulletins/2017/ms17-002) 다루는 보안 업데이트는 이 채널 릴리스의 Word 버전에는 적용되지 않습니다.
 
 ### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트
 -   CSV 또는 CSV UTF-8로 저장하는 경우 텍스트와 큰따옴표가 있는 셀 값을 올바르게 내보낼 수 없는 문제를 해결합니다.

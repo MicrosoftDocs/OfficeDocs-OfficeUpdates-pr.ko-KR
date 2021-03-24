@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 앱에 대한 월 단위 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 95d8c91b0456919fc32bdfe5482d1be830b86c06
-ms.sourcegitcommit: 5b34305f450f8a1e8acec302030f2e02aacefd56
+ms.openlocfilehash: 901b51893436270a39d6977eaa6c9f5ffcdc643e
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50902173"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169947"
 ---
 # <a name="release-notes-for-current-channel"></a>현재 채널에 대한 릴리스 정보
 
 이러한 릴리스 정보는 엔터프라이즈용 Microsoft 365 앱, 비즈니스용 Microsoft 365 앱, Project와 Visio 데스크톱 앱의 구독 버전에 대한 현재 채널 업데이트에 포함된 새로운 기능 및 비보안 업데이트 관련 정보를 제공합니다.
 
 > [!IMPORTANT]
-> 당사는 Microsoft 365 앱에 대한 업데이트 채널을 일부 변경하고 있습니다. 여기에는 새 업데이트 채널 추가(월별 엔터프라이즈 채널) 및 기존 업데이트 채널의 이름 변경 등이 포함됩니다. 자세한 내용은 [이 문서를 참조](https://go.microsoft.com/fwlink/p/?linkid=2127441)하세요.
+> 당사는 Microsoft 365 앱에 대한 업데이트 채널을 일부 변경하고 있습니다. 여기에는 새 업데이트 채널 추가(월별 엔터프라이즈 채널) 및 기존 업데이트 채널의 이름 변경 등이 포함됩니다. 자세한 내용은 [이 문서를 참조](/DeployOffice/update-channels-changes)하세요.
 
  > [!NOTE]
 >
@@ -76,7 +76,7 @@ ms.locfileid: "50902173"
 ## <a name="version-2102-march-09"></a>버전 2102: 3월 9일
 *버전 2102(빌드 13801.20294)*
 
-[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+[여기](./microsoft365-apps-security-updates.md) 나열된 보안 업데이트
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -155,7 +155,7 @@ ms.locfileid: "50902173"
 
 ### <a name="word"></a>Word
 
-- **한 번의 클릭으로 작문 제안:** 한 번의 클릭으로 작문 제안을 적용합니다. 업데이트된 편집기 창은 제안 사이를 쉽게 탐색할 수 있습니다. [자세한 정보](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/microsoft-editor-gets-an-upgrade)에서 세부 정보를 참조하세요.
+- **한 번의 클릭으로 작문 제안:** 한 번의 클릭으로 작문 제안을 적용합니다. 업데이트된 편집기 창은 제안 사이를 쉽게 탐색할 수 있습니다. [자세한 정보](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />[블로그 게시물](https://insider.office.com/en-us/blog/microsoft-editor-gets-an-upgrade)에서 세부 정보를 참조하세요.
 
 - **사용자에게 민감도 레이블을 적용해야 하는 경우:** 조직 정책에 필요한 경우 사용자에게 민감도 레이블을 적용하라는 메시지가 표시됩니다.
 
@@ -233,7 +233,7 @@ ms.locfileid: "50902173"
 ## <a name="version-2101-february-09"></a>버전 2101: 2월 9일
 *버전 2101(빌드 13628.20380)*
 
-[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+[여기](./microsoft365-apps-security-updates.md) 나열된 보안 업데이트
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -263,7 +263,7 @@ ms.locfileid: "50902173"
 
 - **M365 관리자에게 민감도 레이블에 대한 감사 데이터를 보냄:** 사용자가 문서 및 이메일에 민감도 레이블을 적용, 변경 또는 제거하면 Office는 관리자가 볼 수 있도록 감사 데이터를 M365 감사 백엔드로 보냅니다. 이는 관리자 혜택을 위한 자동 기능(UI 없음)입니다.
 
-- **정부 고객: 문서 및 전자 메일에 민감도 레이블 적용:** 이제 GCC 및 GCC-H 환경의 고객이 민감도 레이블 기능을 사용할 수 있습니다. [자세한 정보](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **정부 고객: 문서 및 전자 메일에 민감도 레이블 적용:** 이제 GCC 및 GCC-H 환경의 고객이 민감도 레이블 기능을 사용할 수 있습니다. [자세한 정보](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="outlook"></a>Outlook
 
@@ -275,19 +275,19 @@ ms.locfileid: "50902173"
 
 - **M365 관리자에게 민감도 레이블에 대한 감사 데이터를 보냄:** 사용자가 문서 및 이메일에 민감도 레이블을 적용, 변경 또는 제거하면 Office는 관리자가 볼 수 있도록 감사 데이터를 M365 감사 백엔드로 보냅니다. 이는 관리자 혜택을 위한 자동 기능(UI 없음)입니다.
 
-- **정부 고객: 문서 및 전자 메일에 민감도 레이블 적용:** 이제 GCC 및 GCC-H 환경의 고객이 민감도 레이블 기능을 사용할 수 있습니다. [자세한 정보](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **정부 고객: 문서 및 전자 메일에 민감도 레이블 적용:** 이제 GCC 및 GCC-H 환경의 고객이 민감도 레이블 기능을 사용할 수 있습니다. [자세한 정보](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="powerpoint"></a>PowerPoint
 
 - **M365 관리자에게 민감도 레이블에 대한 감사 데이터를 보냄:** 사용자가 문서 및 이메일에 민감도 레이블을 적용, 변경 또는 제거하면 Office는 관리자가 볼 수 있도록 감사 데이터를 M365 감사 백엔드로 보냅니다. 이는 관리자 혜택을 위한 자동 기능(UI 없음)입니다.
 
-- **정부 고객: 문서 및 전자 메일에 민감도 레이블 적용:** 이제 GCC 및 GCC-H 환경의 고객이 민감도 레이블 기능을 사용할 수 있습니다. [자세한 정보](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **정부 고객: 문서 및 전자 메일에 민감도 레이블 적용:** 이제 GCC 및 GCC-H 환경의 고객이 민감도 레이블 기능을 사용할 수 있습니다. [자세한 정보](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="word"></a>Word
 
 - **M365 관리자에게 민감도 레이블에 대한 감사 데이터를 보냄:** 사용자가 문서 및 이메일에 민감도 레이블을 적용, 변경 또는 제거하면 Office는 관리자가 볼 수 있도록 감사 데이터를 M365 감사 백엔드로 보냅니다. 이는 관리자 혜택을 위한 자동 기능(UI 없음)입니다.
 
-- **정부 고객: 문서 및 전자 메일에 민감도 레이블 적용:** 이제 GCC 및 GCC-H 환경의 고객이 민감도 레이블 기능을 사용할 수 있습니다. [자세한 정보](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **정부 고객: 문서 및 전자 메일에 민감도 레이블 적용:** 이제 GCC 및 GCC-H 환경의 고객이 민감도 레이블 기능을 사용할 수 있습니다. [자세한 정보](/microsoft-365/compliance/sensitivity-labels)
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -352,7 +352,7 @@ ms.locfileid: "50902173"
 ## <a name="version-2012-january-12"></a>버전 2012: 1월 12일
 *버전 2012(빌드 13530.20376)*
 
-[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+[여기](./microsoft365-apps-security-updates.md) 나열된 보안 업데이트
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -465,7 +465,7 @@ ms.locfileid: "50902173"
 ## <a name="version-2011-december-08"></a>버전 2011: 12월 8일
 *버전 2011(빌드 13426.20332)*
 
-[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+[여기](./microsoft365-apps-security-updates.md) 나열된 보안 업데이트
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -563,9 +563,9 @@ ms.locfileid: "50902173"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **SVG 클립보드 지원:** 이제 Office의 SVG 콘텐츠를 타사 앱에 붙여 을 수 있습니다. [자세한 정보](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/svg-content-office-third-party-apps)에서 세부 정보 보기
+- **SVG 클립보드 지원:** 이제 Office의 SVG 콘텐츠를 타사 앱에 붙여 을 수 있습니다. [자세한 정보](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />[블로그 게시물](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)에서 세부 정보 보기
 
-- **투명한 배경으로 GIF 만들기:** 애니메이션 GIF로 내보낼 때 새 옵션을 사용하여 배경을 투명하게 만들 수 있습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/export-animated-gifs-transparent-backgrounds)에서 세부 정보 보기
+- **투명한 배경으로 GIF 만들기:** 애니메이션 GIF로 내보낼 때 새 옵션을 사용하여 배경을 투명하게 만들 수 있습니다.<br />[블로그 게시물](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)에서 세부 정보 보기
 
 - **Office 테마를 자동으로 전환:** Office는 Windows 10 테마 설정에 맞게 테마를 자동으로 전환할 수 있습니다. 파일 > 계정으로 이동하고 Office 테마 드롭다운에서 "시스템 설정 사용"을 선택합니다. [자세한 정보](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -667,7 +667,7 @@ ms.locfileid: "50902173"
 ## <a name="version-2010-november-10"></a>버전 2010: 11월 10일
 *버전 2010(빌드 13328.20356)*
 
-[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+[여기](./microsoft365-apps-security-updates.md) 나열된 보안 업데이트
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -700,19 +700,19 @@ ms.locfileid: "50902173"
 
 - **파워 쿼리를 사용하여 데이터 형식 만들기:** 모든 데이터 원본에서 파워 쿼리로 다양한 데이터 형식을 만듭니다 [자세한 정보](https://support.office.com/article/a465a3b7-3d37-4eb1-a59c-bd3163315308)<br />[블로그 게시물](https://techcommunity.microsoft.com/t5/excel-blog/announcing-power-query-data-types/ba-p/1782903)에서 세부 정보 보기
 
-- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
+- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
 
 - **작업 펜을 사용하여 빠르게 편집할 수 있습니다.** 작업 펜을 사용하여 셀에 직접 쓸 수 있으며, Excel 데이터로 자동으로 변환되는 잉크를 사용하여 데이터를 적을 수 있습니다.
 
 ### <a name="outlook"></a>Outlook
 
-- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
+- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
 
-- **문법 검사의 도움:** Outlook에서 사용자가 입력할 때 문법 오류를 표시하여 클릭 한 번으로 제안을 적용할 수 있습니다. [자세한 정보](https://support.office.com/article/ddbadc42-4637-451d-b3f4-ecf295036fa9)<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/grammar-and-style-suggestions-available-in-outlook)에서 세부 정보 보기
+- **문법 검사의 도움:** Outlook에서 사용자가 입력할 때 문법 오류를 표시하여 클릭 한 번으로 제안을 적용할 수 있습니다. [자세한 정보](https://support.office.com/article/ddbadc42-4637-451d-b3f4-ecf295036fa9)<br />[블로그 게시물](https://insider.office.com/en-us/blog/grammar-and-style-suggestions-available-in-outlook)에서 세부 정보 보기
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
+- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
 
 ### <a name="teams"></a>Teams
 
@@ -726,7 +726,7 @@ ms.locfileid: "50902173"
 
 ### <a name="word"></a>Word
 
-- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
+- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -814,7 +814,7 @@ ms.locfileid: "50902173"
 ## <a name="version-2009-october-13"></a>버전 2009: 10월 13일
 *버전 2009(빌드 13231.20390)*
 
-[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+[여기](./microsoft365-apps-security-updates.md) 나열된 보안 업데이트
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -880,7 +880,7 @@ ms.locfileid: "50902173"
 
 ### <a name="teams"></a>Teams
 
-- **Microsoft Teams에서 파일 공유** [자세한 내용](https://docs.microsoft.com/MicrosoftTeams/sharing-files-in-teams)
+- **Microsoft Teams에서 파일 공유** [자세한 내용](/MicrosoftTeams/sharing-files-in-teams)
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -1145,7 +1145,7 @@ ms.locfileid: "50902173"
 ## <a name="version-2007-august-11"></a>버전 2007: 8월 11일
 *버전 2007(빌드 13029.20344)*
 
-[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+[여기](./microsoft365-apps-security-updates.md) 나열된 보안 업데이트
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -1296,7 +1296,7 @@ ms.locfileid: "50902173"
 ## <a name="version-2006-july-14"></a>버전 2006: 7월 14일
 *버전 2006(빌드 13001.20384)*
 
-[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 보안 업데이트가 나열됩니다.
+[여기](./microsoft365-apps-security-updates.md)에 보안 업데이트가 나열됩니다.
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -1490,7 +1490,7 @@ ms.locfileid: "50902173"
 ## <a name="version-2005-june-09"></a>버전 2005: 6월 9일
 *버전 2005(빌드 12827.20336)*
 
-[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+[여기](./microsoft365-apps-security-updates.md) 나열된 보안 업데이트
 
 ### <a name="feature-updates"></a>기능 업데이트
 ### <a name="excel"></a>Excel
@@ -1661,7 +1661,7 @@ ms.locfileid: "50902173"
 ## <a name="version-2004-may-12"></a>버전 2004: 5월 12일
 *버전 2004(빌드 12730.20270)*
 
-[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+[여기](./microsoft365-apps-security-updates.md) 나열된 보안 업데이트
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -1791,7 +1791,7 @@ ms.locfileid: "50902173"
 ## <a name="version-2003-april-14"></a>버전 2003: 4월 14일
 *버전 2003(빌드 12624.20442)*
 
-나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+나열된 보안 업데이트는 [여기](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -1909,7 +1909,7 @@ ms.locfileid: "50902173"
 ## <a name="version-2002-march-10"></a>버전 2002: 3월 10일
 *버전 2002 (빌드 12527.20278)*
 
-나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+나열된 보안 업데이트는 [여기](./microsoft365-apps-security-updates.md)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
@@ -1999,7 +1999,7 @@ ms.locfileid: "50902173"
 ## <a name="version-2001-february-11"></a>버전 2001: 2월 11일
 *버전 2001 (빌드 12430.20264)*
 
-[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+[여기](./microsoft365-apps-security-updates.md) 나열된 보안 업데이트
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -2110,7 +2110,7 @@ ms.locfileid: "50902173"
 ## <a name="version-1912-january-14"></a>버전 1912: 1월 14일
 *버전 1912(빌드 12325.20298)*
 
-[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+[여기](./microsoft365-apps-security-updates.md) 나열된 보안 업데이트
 
 ## <a name="version-1912-january-08"></a>버전 1912: 1월 8일
 *버전 1912(빌드 12325.20288)*
@@ -2127,7 +2127,7 @@ ms.locfileid: "50902173"
 
 - **모든 사용자를 위한 프레젠테이션 최적화:** 접근성 검사기는 기능은 스크린 리더를 염두에 두고 슬라이드에서 개체를 정렬하는데 도움을 줍니다.
 
-- **GIF 즉시 만들기:** 하나의 슬라이드, 하나의 프레임. PowerPoint에서 쉽게 루핑 GIF를 만들 수 있습니다. [자세한 정보](https://support.office.com/ko-KR/article/a598753e-92de-4f1b-8393-714db4d334b4)
+- **GIF 즉시 만들기:** 하나의 슬라이드, 하나의 프레임. PowerPoint에서 쉽게 루핑 GIF를 만들 수 있습니다. [자세한 정보](https://support.office.com/en-us/article/a598753e-92de-4f1b-8393-714db4d334b4)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 

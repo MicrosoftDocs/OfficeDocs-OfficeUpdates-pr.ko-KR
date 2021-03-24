@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 월간 채널 업데이트 내역 제공 Windows 데스크톱의 대상 릴리스
-ms.openlocfilehash: 139b25287695c0147c36e5766f0a2127fffb74eb
-ms.sourcegitcommit: 19494c5169cf2027145ba9ae930bfb5f3bc5375b
+ms.openlocfilehash: e897f5cbe2f4533b4a357ece4a4c412f5f63ba01
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51030778"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51170237"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Windows Office 현재 채널(미리 보기)에 업데이트 기록
 
@@ -24,12 +24,12 @@ ms.locfileid: "51030778"
 ## <a name="office-current-channel-preview-versions-and-builds"></a>Office 현재 채널(미리 보기) 버전 및 빌드
 
 이전에 이후 참가자라고 불렸던 현재 채널(미리보기) 레벨에 등록한 경우 새로운 Office 기능 업데이트를 약 한달에 한번 그리고 그 외 중요한 수정 및 보안 보조 빌드를 얻을 수 있습니다. 다음 목록에서는 가장 최신의 현재 채널(미리보기) 버전 및 빌드를 보여줍니다(**가장 최신 릴리스된 빌드가 먼저 보여집니다**). 새 빌드에는 이전 빌드에 포함된 모든 업데이트가 포함됩니다.
-릴리스 정보를 찾으려면 [참조](https://docs.microsoft.com/OfficeUpdates/current-channel-preview) 하세요. [Office 참가자의 새로운 기능](https://insider.office.com/ko-KR/releasenotes/windows/slow)을 참조하세요.
+릴리스 정보를 찾으려면 [참조](./current-channel-preview.md) 하세요. [Office 참가자의 새로운 기능](https://insider.office.com/en-us/releasenotes/windows/slow)을 참조하세요.
 
 
 > [!IMPORTANT]
-> - 당사는 Microsoft 365 앱에 대한 업데이트 채널을 일부 변경하고 있습니다. 여기에는 새 업데이트 채널 추가(월별 엔터프라이즈 채널) 및 기존 업데이트 채널의 이름 변경 등이 포함됩니다. 자세한 내용은 [이 문서를 검토하세요](https://go.microsoft.com/fwlink/p/?linkid=2127441).
-> - Office 365 ProPlus는 2004 버전부터 엔터프라이즈용 Microsoft 365 앱으로 이름이 변경됩니다. 자세한 내용은 [이 문서를 검토하세요](https://go.microsoft.com/fwlink/p/?linkid=2123420). 문서에서는 일반적으로 Microsoft 365 앱이라고 지칭합니다.
+> - 당사는 Microsoft 365 앱에 대한 업데이트 채널을 일부 변경하고 있습니다. 여기에는 새 업데이트 채널 추가(월별 엔터프라이즈 채널) 및 기존 업데이트 채널의 이름 변경 등이 포함됩니다. 자세한 내용은 [이 문서를 검토하세요](/DeployOffice/update-channels-changes).
+> - Office 365 ProPlus는 2004 버전부터 엔터프라이즈용 Microsoft 365 앱으로 이름이 변경됩니다. 자세한 내용은 [이 문서를 검토하세요](/deployoffice/name-change). 문서에서는 일반적으로 Microsoft 365 앱이라고 지칭합니다.
 
 > [!NOTE]
 > - 업데이트 내역에는 릴리스된 모든 빌드가 나열됩니다.

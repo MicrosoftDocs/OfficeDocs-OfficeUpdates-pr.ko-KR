@@ -10,18 +10,18 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 업데이트 채널별 Microsoft 365 앱의 최신 릴리스 및 릴리스 정보와 업데이트 기록에 대한 링크 목록을 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 40c9a96422c9e608e6b847fbe4e2d220f4f407ab
-ms.sourcegitcommit: 1404eb977e0bc5d5de5a89c713eae9f32fdc877f
+ms.openlocfilehash: a3122186a3b7e78b58437532b2d89bf99b8f0b61
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "49780676"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51170147"
 ---
 # <a name="release-information-for-updates-to-microsoft-365-apps"></a>Microsoft 365 앱 업데이트에 대한 릴리스 정보
 
 
 > [!IMPORTANT]
-> Office 365 ProPlus는 2004 버전부터 엔터프라이즈용 Microsoft 365 앱으로 이름이 변경됩니다. 자세한 내용은 [이 문서를 검토하세요](https://go.microsoft.com/fwlink/p/?linkid=2123420). 문서에서는 일반적으로 Microsoft 365 앱이라고 지칭합니다.
+> Office 365 ProPlus는 2004 버전부터 엔터프라이즈용 Microsoft 365 앱으로 이름이 변경됩니다. 자세한 내용은 [이 문서를 검토하세요](/deployoffice/name-change). 문서에서는 일반적으로 Microsoft 365 앱이라고 지칭합니다.
 
 
 ## <a name="security-updates-for-microsoft-365-apps-releases"></a>Microsoft 365 앱 릴리스용 보안 업데이트
@@ -64,12 +64,12 @@ Microsoft 365 앱을 포함하는 모든 Microsoft 365 구독 플랜에 포함�
 
 ## <a name="related-topics"></a>관련 항목
 
-- [Microsoft 365 앱의 업데이트 채널 개요](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
-- [Office 배포](https://docs.microsoft.com/deployoffice/)
+- [Microsoft 365 앱의 업데이트 채널 개요](/DeployOffice/overview-of-update-channels-for-office-365-proplus)
+- [Office 배포](/deployoffice/)
 - [Microsoft 365 앱의 새로운 기능](https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426)
 - [Microsoft 365 앱 로드맵](https://products.office.com/business/office-365-roadmap)
 - [Microsoft 365 앱 메시지 센터 개요](https://support.office.com/article/38fb3333-bfcc-4340-a37b-deda509c2093)
-- [Windows 10 릴리스 정보](https://aka.ms/windows/releaseinfo)
+- [Windows 10 릴리스 정보](/windows/release-health/release-information)
 - [Microsoft 보안 업데이트 가이드](https://portal.msrc.microsoft.com/)
 
 > [!NOTE]

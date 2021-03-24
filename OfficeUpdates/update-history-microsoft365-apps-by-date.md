@@ -9,24 +9,24 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 릴리스 정보에 대한 링크를 포함하여 Microsoft 365 앱 릴리스의 전체 목록을 날짜별로 구성해서 IT 전문가에게 제공합니다.
-ms.openlocfilehash: d993a73632974765870844af68ecb0d0591e9f36
-ms.sourcegitcommit: 5b34305f450f8a1e8acec302030f2e02aacefd56
+ms.openlocfilehash: c1e99728c8928e7f014f46fc5598102f8f92f72d
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50902153"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51170207"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 앱의 업데이트 기록(날짜순)
 
 이러한 버전 및 빌드 번호는 엔터프라이즈용 Microsoft 365 앱, 비즈니스용 Microsoft 365 앱 그리고 Project 및 Visio용 데스크톱 앱의 구독 버전에 적용됩니다.
 
 > [!IMPORTANT]
-> - 당사는 Microsoft 365 앱에 대한 업데이트 채널을 일부 변경하고 있습니다. 여기에는 새 업데이트 채널 추가(월별 엔터프라이즈 채널) 및 기존 업데이트 채널의 이름 변경 등이 포함됩니다. 자세한 내용은 [이 문서를 검토하세요](https://go.microsoft.com/fwlink/p/?linkid=2127441).
-> - Office 365 ProPlus는 2004 버전부터 엔터프라이즈용 Microsoft 365 앱으로 이름이 변경됩니다. 자세한 내용은 [이 문서를 검토하세요](https://go.microsoft.com/fwlink/p/?linkid=2123420). 문서에서는 일반적으로 Microsoft 365 앱이라고 지칭합니다.
+> - 당사는 Microsoft 365 앱에 대한 업데이트 채널을 일부 변경하고 있습니다. 여기에는 새 업데이트 채널 추가(월별 엔터프라이즈 채널) 및 기존 업데이트 채널의 이름 변경 등이 포함됩니다. 자세한 내용은 [이 문서를 검토하세요](/DeployOffice/update-channels-changes).
+> - Office 365 ProPlus는 2004 버전부터 엔터프라이즈용 Microsoft 365 앱으로 이름이 변경됩니다. 자세한 내용은 [이 문서를 검토하세요](/deployoffice/name-change). 문서에서는 일반적으로 Microsoft 365 앱이라고 지칭합니다.
 
 > [!NOTE]
 > - 이 표는 릴리스 날짜순으로 정렬되어 가장 최근의 릴리스가 먼저 나열됩니다.
-> - 업데이트 채널에 대한 자세한 내용은 [Microsoft 365 앱 업데이트 채널의 개요](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)를 참조하세요.
+> - 업데이트 채널에 대한 자세한 내용은 [Microsoft 365 앱 업데이트 채널의 개요](/DeployOffice/overview-of-update-channels-for-office-365-proplus)를 참조하세요.
 
 다음 표에는 각 업데이트 채널에 대한 지원되는 버전 및 최신 빌드 번호가 나와 있습니다. 릴리스 날짜는 최신 빌드가 릴리스된 날짜를 나타냅니다.
 
@@ -45,7 +45,7 @@ ms.locfileid: "50902153"
 
 [//]: # (EOSTABLEEND)
 
-이전 버전의 Microsoft 365 앱에서 가장 최근 릴리스로 업데이트할 경우 대략적인 다운로드 크기에 대한 내용은 [Microsoft 365 앱 업데이트의 다운로드 크기](download-sizes-office365-proplus-updates.md)를 참조하세요.
+이전 버전의 Microsoft 365 앱에서 가장 최근 릴리스로 업데이트할 경우 대략적인 다운로드 크기에 대한 내용은 [Microsoft 365 앱 업데이트의 다운로드 크기](./download-sizes-microsoft365-apps-updates.md)를 참조하세요.
 
 다음 표에서는 다음 업데이트 채널에서 릴리스된 Microsoft 365 앱에 대한 각 업데이트의 버전 및 빌드 번호 목록을 제공합니다. 현재, 월간 엔터프라이즈, 반기 엔터프라이즈(미리 보기) 및 반기 엔터프라이즈 대상입니다. 표의 각 항목은 해당 릴리스의 릴리스 노트에 직접 연결됩니다. 이 릴리스 정보는 Microsoft 365 앱 업데이트에 포함된 기능 및 보안 업데이트 및 비보안 업데이트에 대한 정보를 제공합니다.
 
@@ -139,10 +139,10 @@ ms.locfileid: "50902153"
 |2019년|3월 25일 |[버전 1902(빌드 11328.20222)](monthly-channel-archived.md#version-1902-march-25)| | | |
 |2019년|3월 12일 |[버전 1902(빌드 11328.20158)](monthly-channel-archived.md#version-1902-march-12)| |[버전 1902(빌드 11328.20158)](semi-annual-enterprise-channel-preview-archived.md#version-1902-march-12) |[버전 1808(빌드 10730.20304)](semi-annual-enterprise-channel-archived.md#version-1808-march-12)  <br/> | |
 |2019년|3월 4일  |[버전 1902(빌드 11328.20146)](monthly-channel-archived.md#version-1902-march-4)| | | |
-|2019년|2월 12일 |[버전 1901(빌드 11231.20174)](monthly-channel-archived.md#version-1901-february-12)| |[버전 1808(빌드 10730.20280)](semi-annual-enterprise-channel-preview-archived.md#version-1808-february-12) |[버전 1808(빌드 10730.20280)](semi-annual-enterprise-channel-archived.md#version-1808-february-12)  <br/>  [버전 1803(빌드 9126.2356)](semi-annual-enterprise-channel-archived.md#version-1803-february-12)  <br/> [버전 1708(빌드 8431.2372)](office365-proplus-security-updates.md#february-12-2019) |
+|2019년|2월 12일 |[버전 1901(빌드 11231.20174)](monthly-channel-archived.md#version-1901-february-12)| |[버전 1808(빌드 10730.20280)](semi-annual-enterprise-channel-preview-archived.md#version-1808-february-12) |[버전 1808(빌드 10730.20280)](semi-annual-enterprise-channel-archived.md#version-1808-february-12)  <br/>  [버전 1803(빌드 9126.2356)](semi-annual-enterprise-channel-archived.md#version-1803-february-12)  <br/> [버전 1708(빌드 8431.2372)](./microsoft365-apps-security-updates.md#february-12-2019) |
 |2019|1월 31일   |[버전 1901(빌드 11231.20130)](monthly-channel-archived.md#version-1901-january-31)| | | |
 |2019|1월 14일   |[버전 1812(빌드 11126.20266)](monthly-channel-archived.md#version-1812-january-14)| | | |
-|2019|1월 8일 |[버전 1812 (빌드 11126.20196 )](monthly-channel-archived.md#version-1812-january-8)| |[버전 1808 (빌드 10730.20264)](semi-annual-enterprise-channel-preview-archived.md#version-1808-january-8) |[버전 1808 (빌드 10730.20264)](semi-annual-enterprise-channel-archived.md#version-1808-january-8)  <br/>  [버전 1803 (빌드 9126.2351)](semi-annual-enterprise-channel-archived.md#version-1803-january-8)  <br/> [버전 1708(빌드 8431.2366)](office365-proplus-security-updates.md#january-8-2019) |
+|2019|1월 8일 |[버전 1812 (빌드 11126.20196 )](monthly-channel-archived.md#version-1812-january-8)| |[버전 1808 (빌드 10730.20264)](semi-annual-enterprise-channel-preview-archived.md#version-1808-january-8) |[버전 1808 (빌드 10730.20264)](semi-annual-enterprise-channel-archived.md#version-1808-january-8)  <br/>  [버전 1803 (빌드 9126.2351)](semi-annual-enterprise-channel-archived.md#version-1803-january-8)  <br/> [버전 1708(빌드 8431.2366)](./microsoft365-apps-security-updates.md#january-8-2019) |
 |2019|1월 3일   |[버전 1812(빌드 11126.20188)](monthly-channel-archived.md#version-1812-january-3)| | | |
 |2018년|12월 11일 |[버전 1811 (빌드 11029.20108)](monthly-channel-2018.md#version-1811-december-11)| |[버전 1808 (빌드 10730.20262)](semi-annual-channel-targeted-2018.md#version-1808-december-11) |[버전 1803 (빌드 9126.2336)](semi-annual-channel-2018.md#version-1803-december-11)  <br/>  [버전 1708 (빌드 8431.2351)](semi-annual-channel-2018.md#version-1708-december-11)   |
 |2018년|11월 27일   |[버전 1811(빌드 11029.20079)](monthly-channel-2018.md#version-1811-november-27)| | | |
@@ -225,9 +225,9 @@ ms.locfileid: "50902153"
 
 ## <a name="related-topics"></a>관련 항목
 
-- [Microsoft 365 앱의 업데이트 채널의 개요](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
-- [Microsoft 365 앱의 업데이트에 대한 릴리스 정보](release-notes-office365-proplus.md)
-- [Microsoft 365 앱 업데이트의 다운로드 크기](download-sizes-office365-proplus-updates.md)
+- [Microsoft 365 앱의 업데이트 채널의 개요](/DeployOffice/overview-of-update-channels-for-office-365-proplus)
+- [Microsoft 365 앱의 업데이트에 대한 릴리스 정보](./release-notes-microsoft365-apps.md)
+- [Microsoft 365 앱 업데이트의 다운로드 크기](./download-sizes-microsoft365-apps-updates.md)
 
 > [!NOTE]
 > Office를 사용하는 데 발생한 문제에 대해 도움이 필요하면 [Microsoft의 Answers 포럼](https://answers.microsoft.com/) 또는 [기술 커뮤니티](https://techcommunity.microsoft.com/)에 질문을 게시하거나 [지원 서비스](https://support.microsoft.com/contactus)에 문의할 수 있습니다.

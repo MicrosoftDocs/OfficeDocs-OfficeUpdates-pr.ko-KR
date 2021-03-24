@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus에 대한 반기 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: ac826a441d961f8215a9d6f088fe7e5429ff8425
-ms.sourcegitcommit: 90a9ee90251f072398574a437e5f45d406d617eb
+ms.openlocfilehash: cf40992bf74dab369a53d84162980d4209064986
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50735212"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169687"
 ---
 # <a name="archived-release-notes-for-semi-annual-enterprise-channel"></a>반기 기업 채널에 대한 보관된 릴리스 정보
 
@@ -32,7 +32,7 @@ ms.locfileid: "50735212"
 ## <a name="version-1902-december-10"></a>버전 1902: 12월 10일
 *버전 1902(빌드 11328.20492)*
 
-나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+나열된 보안 업데이트는 [여기](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -44,7 +44,7 @@ ms.locfileid: "50735212"
 
 ### <a name="outlook"></a>Outlook
 
-- Outlook에서 내년 일정 항목에 잘못된 시간이 표시될 수 있습니다. [자세한 정보](https://docs.microsoft.com/outlook/troubleshoot/calendars/calendar-items-display-incorrect-time)
+- Outlook에서 내년 일정 항목에 잘못된 시간이 표시될 수 있습니다. [자세한 정보](/outlook/troubleshoot/calendars/calendar-items-display-incorrect-time)
 
 - 고객이 &quot;놓친 대화 메시지&quot;에서 규칙을 만들려고 할 때 충돌이 발생하는 문제를 해결합니다.
 
@@ -58,7 +58,7 @@ ms.locfileid: "50735212"
 ### <a name="resolved-issues"></a>해결된 문제
 ### <a name="outlook"></a>Outlook
 
-- Outlook에서 내년 일정 항목에 잘못된 시간이 표시될 수 있습니다. [자세한 정보](https://docs.microsoft.com/outlook/troubleshoot/calendars/calendar-items-display-incorrect-time)
+- Outlook에서 내년 일정 항목에 잘못된 시간이 표시될 수 있습니다. [자세한 정보](/outlook/troubleshoot/calendars/calendar-items-display-incorrect-time)
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
@@ -96,7 +96,7 @@ ms.locfileid: "50735212"
 ## <a name="version-1902-november-12"></a>버전 1902: 11월 12일
 *버전 1902(빌드 11328.20468)*
 
-나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+나열된 보안 업데이트는 [여기](./microsoft365-apps-security-updates.md)
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
@@ -131,7 +131,7 @@ ms.locfileid: "50735212"
 ## <a name="version-1808-november-12"></a>버전 1808: 11월 12일
 *버전 1808 (빌드 10730.20416)*
 
-보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열되어 있습니다.
+보안 업데이트는 [여기](./microsoft365-apps-security-updates.md)에 나열되어 있습니다.
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -151,7 +151,7 @@ ms.locfileid: "50735212"
 ## <a name="version-1902-october-08"></a>버전 1902: 10월 8일
 *버전 1902(빌드 11328.20438)*
 
-보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열되어 있습니다.
+보안 업데이트는 [여기](./microsoft365-apps-security-updates.md)에 나열되어 있습니다.
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
@@ -180,12 +180,12 @@ ms.locfileid: "50735212"
 
 *버전 1808(빌드 10730.20386)*
 
-보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열되어 있습니다.
+보안 업데이트는 [여기](./microsoft365-apps-security-updates.md)에 나열되어 있습니다.
 
 ## <a name="version-1902-september-10"></a>버전 1902: 9월 10일
 *버전 1902 (빌드 11328.20420)*
 
-보안 업데이트가 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열되어 있습니다.
+보안 업데이트가 [여기](./microsoft365-apps-security-updates.md)에 나열되어 있습니다.
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
@@ -209,7 +209,7 @@ ms.locfileid: "50735212"
 ## <a name="version-1808-september-10"></a>버전 1808: 9월 10일
 *버전 1808 (빌드 10730.20380)*
 
-보안 업데이트가 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열되어 있습니다.
+보안 업데이트가 [여기](./microsoft365-apps-security-updates.md)에 나열되어 있습니다.
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -222,7 +222,7 @@ ms.locfileid: "50735212"
 ## <a name="version-1902-august-13"></a>버전 1902: 8월 13일
 *버전 1902 (빌드 11328.20392)*
 
-보안 업데이트가 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열되어 있습니다.
+보안 업데이트가 [여기](./microsoft365-apps-security-updates.md)에 나열되어 있습니다.
 
 ### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트
 - 표에서 필터링된 슬라이서와 필터링되지 않은 슬라이서 모두에 대해 필터 지우기 아이콘이 표시되는 문제가 해결되었습니다.
@@ -244,7 +244,7 @@ ms.locfileid: "50735212"
 ## <a name="version-1808-august-13"></a>버전 1808 8월 13일
 *버전 1808(빌드 10730.20370)*
 
-보안 업데이트가 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열되어 있습니다.
+보안 업데이트가 [여기](./microsoft365-apps-security-updates.md)에 나열되어 있습니다.
 
 ### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
 - 특정한 경우에 Office JavaScript 라이브러리에서 API 설정이 수행되지 않는 문제가 해결되었습니다. [자세한 정보](https://support.microsoft.com/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
@@ -253,7 +253,7 @@ ms.locfileid: "50735212"
 ## <a name="version-1803-august-13"></a>버전 1803 8월 13일
 *버전 1803(빌드 9126.2432)*
 
-보안 업데이트가 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열되어 있습니다.
+보안 업데이트가 [여기](./microsoft365-apps-security-updates.md)에 나열되어 있습니다.
 
 ### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
 - 특정한 경우에 Office JavaScript 라이브러리에서 API 설정이 수행되지 않는 문제가 해결되었습니다. [자세한 정보](https://support.microsoft.com/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
@@ -261,7 +261,7 @@ ms.locfileid: "50735212"
 
 ## <a name="version-1902-july-09"></a>버전 1902: 7월 9일
 *버전 1902(빌드 11328.20368)*
-<br/>보안 업데이트가 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열됨
+<br/>보안 업데이트가 [여기](./microsoft365-apps-security-updates.md)에 나열됨
 
 
 ### <a name="access-feature-updates"></a>Access: 기능 업데이트
@@ -311,7 +311,7 @@ ms.locfileid: "50735212"
 - **슬라이드에 생동감 주기:** 화면에서 애니메이션 3D 그래픽을 삽입하여 심장 박동, 행성 궤도 및 공룡 난동 모습을 표시합니다. [자세한 정보](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
 - **스케치를 세련되게 변형:** 손으로 그린 텍스트와 도형을 세련된 다이어그램으로 바꾸어 드립니다. 시작하려면 잉크 스트로크만 선택하면 됩니다. [자세히 알아보기](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 - **그림 뒤에 있는 내용 표시:** 워크시트에 그림을 넣고, 사전 설정을 선택하고, 투명도 변경을 확인합니다. 바로 이 기능으로요! [자세히 알아보기](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
-- **Microsoft Stream에 게시:** Microsoft Stream을 사용하여 조직 내에서 프레젠테이션을 비디오로 더 안전하게 공유할 수 있습니다. [자세한 정보](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83)
+- **Microsoft Stream에 게시:** Microsoft Stream을 사용하여 조직 내에서 프레젠테이션을 비디오로 더 안전하게 공유할 수 있습니다. [자세한 정보](https://support.office.com/article/C140551F-CB37-4818-B5D4-3E30815C3E83)
 - **4K 비디오로 내보내기:** 프레젠테이션을 동영상으로 내보낼 때 4K 해상도를 선택할 수 있습니다.  [자세한 정보](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83)
 - **필터가 적용된 SVG 삽입:** Office 사용자는 이제 필터가 적용된 SVG를 삽입할 수 있습니다. [자세히 알아보기](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 - **이제 큰 파일이 열리는 속도 향상:** OneDrive 또는 SharePoint에 저장된 파일을 열 때 이미지, 비디오 및 다른 큰 요소가 백그라운드에서 계속 다운로드됩니다.
@@ -344,7 +344,7 @@ ms.locfileid: "50735212"
 ### <a name="office-suite-feature-updates"></a>Office 제품군: 기능 업데이트
 
 - **이제 Office 타사 응용 프로그램에서 office.js API를 사용하는 SVG 삽입 지원:** Office에서 추가 기능으로도 알려져 있는 타사 응용 프로그램에 SVG 삽입 기능이 제공되므로 SVG 개인 컬렉션을 Office에 연결할 수 있습니다. 개발자들은 Office.js API를 통해 이 기능을 사용할 수 있습니다.
-- **Microsoft Teams 설치:**  Office 365 ProPlus를 새로 설치하면 Microsoft Teams가 기본적으로 설치됩니다. [자세한 정보](https://docs.microsoft.com/DeployOffice/teams-install)
+- **Microsoft Teams 설치:**  Office 365 ProPlus를 새로 설치하면 Microsoft Teams가 기본적으로 설치됩니다. [자세한 정보](/DeployOffice/teams-install)
 
 ### <a name="skype-for-business-feature-updates"></a>비즈니스용 Skype: 기능 업데이트
 
@@ -419,7 +419,7 @@ ms.locfileid: "50735212"
  - Windows 10에서 최근 파일 목록이 많은 사용자에게 삭제된 것처럼 표시되는 문제가 수정되었습니다.
  - 진행 중인 관리자 트리거 업데이트가 있는 경우에도 최종 사용자에게 Office 업데이트 비즈니스 막대가 표시되는 문제가 수정되었습니다.
  - 간헐적으로 발생하는 빈 로그인 프롬프트와 관련된 문제가 수정되었습니다.
- - Office 업데이트의 일부가 배달 최적화 피어 캐싱을 사용하지 않는 문제가 해결되었습니다. [자세한 정보](https://docs.microsoft.com/windows/deployment/update/waas-delivery-optimization)
+ - Office 업데이트의 일부가 배달 최적화 피어 캐싱을 사용하지 않는 문제가 해결되었습니다. [자세한 정보](/windows/deployment/update/waas-delivery-optimization)
 - Office 배포 도구를 사용하여 Office를 설치하고 대소 문자가 일치하지 않는 경우, 제품이 제거되거나 활성화되지 않을 수 있는 버그를 수정합니다.
 - Windows 10 (버전 1803 이상) 장치에서 과도한 로그인 프롬프트를 유발하는 문제가 해결되었습니다.
 - 링크된 그림을 다운로드 할 때 원인이 되는 고정 회귀의 중단
@@ -429,7 +429,7 @@ ms.locfileid: "50735212"
 
 ## <a name="version-1808-july-09"></a>버전 1808: 7월 9일
 *버전 1808(빌드 10730.20360)*
-<br/>보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열되어 있습니다.
+<br/>보안 업데이트는 [여기](./microsoft365-apps-security-updates.md)에 나열되어 있습니다.
 
 
 ### <a name="word-non-security-updates"></a>Word: 비보안 업데이트
@@ -444,12 +444,12 @@ ms.locfileid: "50735212"
 
 ## <a name="version-1803-july-09"></a>버전 1803: 7월 9일
 *버전 1803(빌드 9126.2428)*
-<br/>보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열되어 있습니다.
+<br/>보안 업데이트는 [여기](./microsoft365-apps-security-updates.md)에 나열되어 있습니다.
 
 
 ## <a name="version-1808-june-11"></a>버전 1808: 6월 11일
 *버전 1808(빌드 10730.20348)*
-<br/>보안 업데이트가 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열됨
+<br/>보안 업데이트가 [여기](./microsoft365-apps-security-updates.md)에 나열됨
 
 ### <a name="word-non-security-updates"></a>Word: 비보안 업데이트
  - 파일을 체크 아웃할 때 서명 제거에 발생하는 문제가 해결되었습니다.
@@ -459,7 +459,7 @@ ms.locfileid: "50735212"
 
 ## <a name="version-1803-june-11"></a>버전 1803: 6월 11일
 *버전 1803(빌드 9126.2388)*
-<br/>보안 업데이트가 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열됨 
+<br/>보안 업데이트가 [여기](./microsoft365-apps-security-updates.md)에 나열됨 
 
 ## <a name="version-1808-may-14"></a>버전 1808: 5월 14일
 *버전 1808(빌드 10730.20344)*   
@@ -535,7 +535,7 @@ ms.locfileid: "50735212"
 
 ### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
 
-- [O365 Office 중앙 집중식 배포](https://docs.microsoft.com/office/dev/add-ins/publish/centralized-deployment)를 사용하여 배포된 추가 기능이 중지되고 사용할 수 없는 문제를 해결했습니다.
+- [O365 Office 중앙 집중식 배포](/office/dev/add-ins/publish/centralized-deployment)를 사용하여 배포된 추가 기능이 중지되고 사용할 수 없는 문제를 해결했습니다.
 
 
 ## <a name="version-1803-february-12"></a>버전 1803: 2월 12일
@@ -568,7 +568,7 @@ ms.locfileid: "50735212"
 
 ### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
 
-- [O365 Office 중앙 집중식 배포](https://docs.microsoft.com/office/dev/add-ins/publish/centralized-deployment)를 사용하여 배포된 추가 기능이 중지되고 사용할 수 없는 문제를 해결했습니다.
+- [O365 Office 중앙 집중식 배포](/office/dev/add-ins/publish/centralized-deployment)를 사용하여 배포된 추가 기능이 중지되고 사용할 수 없는 문제를 해결했습니다.
 
 ## <a name="version-1708-february-12"></a>버전 1708: 2월 12일
 *버전 1708(빌드 8431.2372)*
@@ -577,7 +577,7 @@ ms.locfileid: "50735212"
 
 ### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
 
-- [O365 Office 중앙 집중식 배포](https://docs.microsoft.com/office/dev/add-ins/publish/centralized-deployment)를 사용하여 배포된 추가 기능이 중지되고 사용할 수 없는 문제를 해결했습니다.
+- [O365 Office 중앙 집중식 배포](/office/dev/add-ins/publish/centralized-deployment)를 사용하여 배포된 추가 기능이 중지되고 사용할 수 없는 문제를 해결했습니다.
 
 
 ## <a name="version-1808-january-8"></a>버전 1808: 1월 8일
@@ -741,18 +741,18 @@ ms.locfileid: "50735212"
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트 
 
--   [CVE-2018-8597](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8597): Microsoft Excel 원격 코드 실행 취약성 
--   [CVE-2018-8598](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8598): Microsoft Excel 정보 노출 취약성 
--   [CVE-2018-8627](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8627): Microsoft Excel 정보 노출 취약성 
--   [CVE-2018-8636](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8636): Microsoft Excel 원격 코드 실행 취약성 
+-   [CVE-2018-8597](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8597): Microsoft Excel 원격 코드 실행 취약성 
+-   [CVE-2018-8598](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8598): Microsoft Excel 정보 노출 취약성 
+-   [CVE-2018-8627](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8627): Microsoft Excel 정보 노출 취약성 
+-   [CVE-2018-8636](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8636): Microsoft Excel 원격 코드 실행 취약성 
 
 ### <a name="outlook-security-updates"></a>Outlook: 보안 업데이트 
 
--   [CVE-2018-8587](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8587): Microsoft Outlook 원격 코드 실행 취약성 
+-   [CVE-2018-8587](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8587): Microsoft Outlook 원격 코드 실행 취약성 
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint: 보안 업데이트 
 
--   [CVE-2018-8628](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8628): Microsoft PowerPoint 원격 코드 실행 취약성 
+-   [CVE-2018-8628](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8628): Microsoft PowerPoint 원격 코드 실행 취약성 
 
 
 ### <a name="outlook-non-security-updates"></a>Outlook: 비보안 업데이트
@@ -769,18 +769,18 @@ ms.locfileid: "50735212"
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트 
 
--   [CVE-2018-8597](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8597): Microsoft Excel 원격 코드 실행 취약성 
--   [CVE-2018-8598](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8598): Microsoft Excel 정보 노출 취약성 
--   [CVE-2018-8627](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8627): Microsoft Excel 정보 노출 취약성 
--   [CVE-2018-8636](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8636): Microsoft Excel 원격 코드 실행 취약성 
+-   [CVE-2018-8597](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8597): Microsoft Excel 원격 코드 실행 취약성 
+-   [CVE-2018-8598](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8598): Microsoft Excel 정보 노출 취약성 
+-   [CVE-2018-8627](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8627): Microsoft Excel 정보 노출 취약성 
+-   [CVE-2018-8636](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8636): Microsoft Excel 원격 코드 실행 취약성 
 
 ### <a name="outlook-security-updates"></a>Outlook: 보안 업데이트 
 
--   [CVE-2018-8587](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8587): Microsoft Outlook 원격 코드 실행 취약성 
+-   [CVE-2018-8587](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8587): Microsoft Outlook 원격 코드 실행 취약성 
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint: 보안 업데이트 
 
--   [CVE-2018-8628](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8628): Microsoft PowerPoint 원격 코드 실행 취약성 
+-   [CVE-2018-8628](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8628): Microsoft PowerPoint 원격 코드 실행 취약성 
 
 ### <a name="outlook-non-security-updates"></a>Outlook: 비보안 업데이트
 
@@ -794,29 +794,29 @@ ms.locfileid: "50735212"
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
 
--   [CVE-2018-8574](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8574): Microsoft Excel 원격 코드 실행 취약성 
--   [CVE-2018-8577](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8577): Microsoft Excel 원격 코드 실행 취약성 
+-   [CVE-2018-8574](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8574): Microsoft Excel 원격 코드 실행 취약성 
+-   [CVE-2018-8577](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8577): Microsoft Excel 원격 코드 실행 취약성 
 
 ### <a name="outlook-security-updates"></a>Outlook: 보안 업데이트 
 
--   [CVE-2018-8522](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8522): Microsoft Outlook 원격 코드 실행 취약성 
--   [CVE-2018-8524](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8524): Microsoft Outlook 원격 코드 실행 취약성 
--   [CVE-2018-8558](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8558): Microsoft Outlook 정보 공개 취약성 
--   [CVE-2018-8576](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8576): Microsoft Outlook 원격 코드 실행 취약성 
--   [CVE-2018-8579](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8579): Microsoft Outlook 정보 공개 취약성 
--   [CVE-2018-8582](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8582): Microsoft Outlook 원격 코드 실행 취약성 
+-   [CVE-2018-8522](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8522): Microsoft Outlook 원격 코드 실행 취약성 
+-   [CVE-2018-8524](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8524): Microsoft Outlook 원격 코드 실행 취약성 
+-   [CVE-2018-8558](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8558): Microsoft Outlook 정보 공개 취약성 
+-   [CVE-2018-8576](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8576): Microsoft Outlook 원격 코드 실행 취약성 
+-   [CVE-2018-8579](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8579): Microsoft Outlook 정보 공개 취약성 
+-   [CVE-2018-8582](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8582): Microsoft Outlook 원격 코드 실행 취약성 
 
 ### <a name="project-security-updates"></a>Project: 보안 업데이트 
 
--   [CVE-2018-8575](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8575): Microsoft Word 원격 코드 실행 취약성 
+-   [CVE-2018-8575](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8575): Microsoft Word 원격 코드 실행 취약성 
 
 ### <a name="word-security-updates"></a>Word: 보안 업데이트 
 
--   [CVE-2018-8573](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8573): Microsoft Word 원격 코드 실행 취약성 
+-   [CVE-2018-8573](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8573): Microsoft Word 원격 코드 실행 취약성 
 
 ### <a name="skype-for-business-security-updates"></a>비즈니스용 Skype: 보안 업데이트 
 
--   [CVE-2018-8546](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8546): Microsoft 비즈니스용 Skype 서비스 거부 취약성 
+-   [CVE-2018-8546](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8546): Microsoft 비즈니스용 Skype 서비스 거부 취약성 
 
 ### <a name="outlook-non-security-updates"></a>Outlook: 비보안 업데이트 
 
@@ -829,29 +829,29 @@ ms.locfileid: "50735212"
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
 
--   [CVE-2018-8574](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8574): Microsoft Excel 원격 코드 실행 취약성 
--   [CVE-2018-8577](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8577): Microsoft Excel 원격 코드 실행 취약성 
+-   [CVE-2018-8574](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8574): Microsoft Excel 원격 코드 실행 취약성 
+-   [CVE-2018-8577](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8577): Microsoft Excel 원격 코드 실행 취약성 
 
 ### <a name="outlook-security-updates"></a>Outlook: 보안 업데이트 
 
--   [CVE-2018-8522](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8522): Microsoft Outlook 원격 코드 실행 취약성 
--   [CVE-2018-8524](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8524): Microsoft Outlook 원격 코드 실행 취약성 
--   [CVE-2018-8558](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8558): Microsoft Outlook 정보 공개 취약성 
--   [CVE-2018-8576](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8576): Microsoft Outlook 원격 코드 실행 취약성 
--   [CVE-2018-8579](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8579): Microsoft Outlook 정보 공개 취약성 
--   [CVE-2018-8582](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8582): Microsoft Outlook 원격 코드 실행 취약성 
+-   [CVE-2018-8522](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8522): Microsoft Outlook 원격 코드 실행 취약성 
+-   [CVE-2018-8524](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8524): Microsoft Outlook 원격 코드 실행 취약성 
+-   [CVE-2018-8558](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8558): Microsoft Outlook 정보 공개 취약성 
+-   [CVE-2018-8576](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8576): Microsoft Outlook 원격 코드 실행 취약성 
+-   [CVE-2018-8579](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8579): Microsoft Outlook 정보 공개 취약성 
+-   [CVE-2018-8582](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8582): Microsoft Outlook 원격 코드 실행 취약성 
 
 ### <a name="project-security-updates"></a>Project: 보안 업데이트 
 
--   [CVE-2018-8575](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8575): Microsoft Word 원격 코드 실행 취약성 
+-   [CVE-2018-8575](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8575): Microsoft Word 원격 코드 실행 취약성 
 
 ### <a name="word-security-updates"></a>Word: 보안 업데이트 
 
--   [CVE-2018-8573](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8573): Microsoft Word 원격 코드 실행 취약성 
+-   [CVE-2018-8573](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8573): Microsoft Word 원격 코드 실행 취약성 
 
 ### <a name="skype-for-business-security-updates"></a>비즈니스용 Skype: 보안 업데이트 
 
--   [CVE-2018-8546](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8546): Microsoft 비즈니스용 Skype 서비스 거부 취약성 
+-   [CVE-2018-8546](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8546): Microsoft 비즈니스용 Skype 서비스 거부 취약성 
 
 ### <a name="outlook-non-security-updates"></a>Outlook: 비보안 업데이트 
 
@@ -862,20 +862,20 @@ ms.locfileid: "50735212"
 *버전 1803(빌드 9126.2295)*
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
--   [CVE-2018-8502](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8502): Microsoft Excel 원격 코드 실행 취약성 
+-   [CVE-2018-8502](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8502): Microsoft Excel 원격 코드 실행 취약성 
 
 ### <a name="outlook-security-updates"></a>Outlook: 보안 업데이트 
--   [ADV180026](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/ADV180026): Microsoft Office 심층 방어 업데이트 
+-   [ADV180026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180026): Microsoft Office 심층 방어 업데이트 
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint: 보안 업데이트 
--   [CVE-2018-8501](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8501): PowerPoint 원격 코드 실행 취약성
+-   [CVE-2018-8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8501): PowerPoint 원격 코드 실행 취약성
 
 ### <a name="word-security-updates"></a>Word: 보안 업데이트 
--   [CVE-2018-8504](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8504): Microsoft Word 원격 코드 실행 취약성 
--   [ADV180026](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/ADV180026): Microsoft Office 심층 방어 업데이트 
+-   [CVE-2018-8504](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8504): Microsoft Word 원격 코드 실행 취약성 
+-   [ADV180026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180026): Microsoft Office 심층 방어 업데이트 
 
 ### <a name="office-suite-security-updates"></a>Office 제품군: 보안 업데이트 
--   [CVE-2018-8432](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8432) Microsoft 그래픽 구성 요소 원격 코드 실행 취약성 
+-   [CVE-2018-8432](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8432) Microsoft 그래픽 구성 요소 원격 코드 실행 취약성 
 
 ### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
 -   내게 필요한 옵션 및 성능 설정을 통해 애니메이션을 해제해도 애니메이션을 표시하는 앱 문제를 해결했습니다.
@@ -887,34 +887,34 @@ ms.locfileid: "50735212"
 *2018년 1월부터 제공된 반기 채널 릴리스입니다. 이 릴리스는 2019년 3월까지 계속 지원되며 보안 업데이트가 수신됩니다. 하지만 이제 새로운 반기 채널 릴리스 버전 1803(빌드 16.0.9126.2282)을 사용할 수 있습니다. 여기에는 새로운 기능, 보안 업데이트 및 비보안 업데이트가 포함되어 있습니다.*
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
--   [CVE-2018-8502](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8502): Microsoft Excel 원격 코드 실행 취약성 
+-   [CVE-2018-8502](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8502): Microsoft Excel 원격 코드 실행 취약성 
 
 ### <a name="outlook-security-updates"></a>Outlook: 보안 업데이트 
--   [ADV180026](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/ADV180026): Microsoft Office 심층 방어 업데이트 
+-   [ADV180026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180026): Microsoft Office 심층 방어 업데이트 
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint: 보안 업데이트 
--   [CVE-2018-8501](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8501): PowerPoint 원격 코드 실행 취약성
+-   [CVE-2018-8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8501): PowerPoint 원격 코드 실행 취약성
 
 ### <a name="word-security-updates"></a>Word: 보안 업데이트 
--   [CVE-2018-8504](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8504): Microsoft Word 원격 코드 실행 취약성 
--   [ADV180026](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/ADV180026): Microsoft Office 심층 방어 업데이트 
+-   [CVE-2018-8504](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8504): Microsoft Word 원격 코드 실행 취약성 
+-   [ADV180026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180026): Microsoft Office 심층 방어 업데이트 
 
 ### <a name="office-suite-security-updates"></a>Office 제품군: 보안 업데이트 
--   [CVE-2018-8432](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8432) Microsoft 그래픽 구성 요소 원격 코드 실행 취약성 
+-   [CVE-2018-8432](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8432) Microsoft 그래픽 구성 요소 원격 코드 실행 취약성 
 
 
 ## <a name="version-1803-september-11"></a>버전 1803: 9월 11일
 *버전 1803(빌드 9126.2282)*
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
--   [CVE-2018-8331](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8331): Microsoft Excel 원격 코드 실행 취약성
--   [CVE-2018-8429](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8429): Microsoft Excel 정보 노출 취약성
+-   [CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331): Microsoft Excel 원격 코드 실행 취약성
+-   [CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429): Microsoft Excel 정보 노출 취약성
 
 ### <a name="word-security-updates"></a>Word: 보안 업데이트
--   [CVE-2018-8430](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8430): Word PDF 원격 코드 실행 취약성
+-   [CVE-2018-8430](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8430): Word PDF 원격 코드 실행 취약성
 
 ### <a name="office-suite-security-updates"></a>Office 제품군: 보안 업데이트
--   [CVE-2018-8332](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8332): Win32k 그래픽 원격 코드 실행 취약성
+-   [CVE-2018-8332](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332): Win32k 그래픽 원격 코드 실행 취약성
 
 
 ## <a name="version-1708-september-11"></a>버전 1708: 9월 11일
@@ -923,32 +923,32 @@ ms.locfileid: "50735212"
 *2018년 1월부터 제공된 반기 채널 릴리스입니다. 이 릴리스는 2019년 3월까지 계속 지원되며 보안 업데이트가 수신됩니다. 하지만 이제 새로운 반기 채널 릴리스 버전 1803(빌드 16.0.9126.2282)을 사용할 수 있습니다. 여기에는 새로운 기능, 보안 업데이트 및 비보안 업데이트가 포함되어 있습니다.*
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
--   [CVE-2018-8331](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8331): Microsoft Excel 원격 코드 실행 취약성
--   [CVE-2018-8429](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8429): Microsoft Excel 정보 노출 취약성
+-   [CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331): Microsoft Excel 원격 코드 실행 취약성
+-   [CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429): Microsoft Excel 정보 노출 취약성
 
 ### <a name="word-security-updates"></a>Word: 보안 업데이트
--   [CVE-2018-8430](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8430): Word PDF 원격 코드 실행 취약성
+-   [CVE-2018-8430](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8430): Word PDF 원격 코드 실행 취약성
 
 ### <a name="office-suite-security-updates"></a>Office 제품군: 보안 업데이트
--   [CVE-2018-8332](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8332): Win32k 그래픽 원격 코드 실행 취약성
+-   [CVE-2018-8332](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332): Win32k 그래픽 원격 코드 실행 취약성
 
 
 ## <a name="version-1803-august-14"></a>버전 1803: 8월 14일
 *버전 1803(빌드 9126.2275)*
 
 ### <a name="access-security-updates"></a>Access: 보안 업데이트
--   [CVE-2018-8312](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8312): Microsoft Access 원격 코드 실행 Use After Free 취약성
+-   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): Microsoft Access 원격 코드 실행 Use After Free 취약성
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
--   [CVE-2018-8375](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8375): Microsoft Excel 원격 코드 실행 취약성 
--   [CVE-2018-8379](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8379): Microsoft Excel 원격 코드 실행 취약성 
--   [CVE-2018-8382](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8382): Microsoft Excel 정보 노출 취약성 
+-   [CVE-2018-8375](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8375): Microsoft Excel 원격 코드 실행 취약성 
+-   [CVE-2018-8379](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8379): Microsoft Excel 원격 코드 실행 취약성 
+-   [CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382): Microsoft Excel 정보 노출 취약성 
 
 ### <a name="outlook-security-updates"></a>Outlook: 보안 업데이트
--   [ADV180021](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/ADV180021): Microsoft Office 심층 방어 업데이트 
+-   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021): Microsoft Office 심층 방어 업데이트 
 
 ### <a name="office-suite-security-updates"></a>Office 제품군: 보안 업데이트
--   [CVE-2018-8378](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8378): Microsoft Office 정보 노출 취약성 
+-   [CVE-2018-8378](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8378): Microsoft Office 정보 노출 취약성 
 
 
 ## <a name="version-1708-august-14"></a>버전 1708: 8월 14일
@@ -957,26 +957,26 @@ ms.locfileid: "50735212"
 *2018년 1월부터 제공된 반기 채널 릴리스입니다. 이 릴리스는 2019년 3월까지 계속 지원되며 보안 업데이트가 수신됩니다. 하지만 이제 새로운 반기 채널 릴리스 버전 1803(빌드 16.0.9126.2275)을 사용할 수 있습니다. 여기에는 새로운 기능, 보안 업데이트 및 비보안 업데이트가 포함되어 있습니다.*
 
 ### <a name="access-security-updates"></a>Access: 보안 업데이트
--   [CVE-2018-8312](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8312): Microsoft Access 원격 코드 실행 Use After Free 취약성
+-   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): Microsoft Access 원격 코드 실행 Use After Free 취약성
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
--   [CVE-2018-8375](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8375): Microsoft Excel 원격 코드 실행 취약성 
--   [CVE-2018-8379](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8379): Microsoft Excel 원격 코드 실행 취약성 
--   [CVE-2018-8382](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8382): Microsoft Excel 정보 노출 취약성 
+-   [CVE-2018-8375](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8375): Microsoft Excel 원격 코드 실행 취약성 
+-   [CVE-2018-8379](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8379): Microsoft Excel 원격 코드 실행 취약성 
+-   [CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382): Microsoft Excel 정보 노출 취약성 
 
 ### <a name="outlook-security-updates"></a>Outlook: 보안 업데이트
--   [ADV180021](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/ADV180021): Microsoft Office 심층 방어 업데이트 
+-   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021): Microsoft Office 심층 방어 업데이트 
 
 ### <a name="office-suite-security-updates"></a>Office 제품군: 보안 업데이트
--   [CVE-2018-8378](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8378): Microsoft Office 정보 노출 취약성 
+-   [CVE-2018-8378](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8378): Microsoft Office 정보 노출 취약성 
 
 
 ## <a name="version-1803-july-10"></a>버전 1803: 7월 10일
 *버전 1803(빌드 9126.2259)*
 
 ### <a name="access-security-updates"></a>Access: 보안 업데이트
--   [CVE-2018-0903](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0903): Microsoft Access 원격 코드 실행 취약성
--   [CVE-2018-8312](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8312): Microsoft Access 원격 코드 실행 Use After Free 취약성 
+-   [CVE-2018-0903](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0903): Microsoft Access 원격 코드 실행 취약성
+-   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): Microsoft Access 원격 코드 실행 Use After Free 취약성 
 
 ### <a name="access-non-security-updates"></a>Access: 비보안 업데이트
 -   Access 런타임 응용 프로그램(.accde 파일)을 열면 "인식할 수 없는 데이터베이스"라는 오류 메시지가 표시되면서 응용 프로그램이 열리지 않는 문제를 수정합니다.
@@ -998,21 +998,21 @@ ms.locfileid: "50735212"
 -   **펜 사용자 지정:** 잉크 입력을 위해 펜 및 형광펜의 개인 설정을 선택합니다. 사용자 지정 설정을 모든 Windows PC에서 사용할 수 있습니다.
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
--   [CVE-2017-11877](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2017-11877): Microsoft Excel 보안 기능 바이패스 취약성
--   [CVE-2017-11878](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2017-11878): Microsoft Excel 메모리 손상 취약성
--   [CVE-2017-11884](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2017-11884): Microsoft Office 메모리 손상 취약성
--   [CVE-2018-0796](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0796): Microsoft Excel 원격 코드 실행 취약성
--   [CVE-2018-0841](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0841): Microsoft Excel 원격 코드 실행 취약성
--   [CVE-2018-0907](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0907): Microsoft Office Excel 보안 기능 바이패스
--   [CVE-2018-1029](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-1029): Microsoft Excel 원격 코드 실행 취약성
--   [CVE-2018-8147](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8147): Microsoft Excel 원격 코드 실행 취약성
--   [CVE-2018-8148](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8148): Microsoft Excel 원격 코드 실행 취약성
--   [CVE-2018-8162](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8162): Microsoft Excel 원격 코드 실행 취약성 
--   [CVE-2018-8163](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8163): Microsoft Excel 정보 노출 취약성 
--   [CVE-2018-8246](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8246): Microsoft Excel 정보 노출 취약성
--   [CVE-2018-8248](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0907): Microsoft Excel 원격 코드 실행 취약성
--   [CVE-2018-0907](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0907): Microsoft Office Excel 보안 기능 바이패스
--   [공지 170021](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/ADV170021): Microsoft Office 심층 방어 업데이트
+-   [CVE-2017-11877](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11877): Microsoft Excel 보안 기능 바이패스 취약성
+-   [CVE-2017-11878](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11878): Microsoft Excel 메모리 손상 취약성
+-   [CVE-2017-11884](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11884): Microsoft Office 메모리 손상 취약성
+-   [CVE-2018-0796](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0796): Microsoft Excel 원격 코드 실행 취약성
+-   [CVE-2018-0841](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0841): Microsoft Excel 원격 코드 실행 취약성
+-   [CVE-2018-0907](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0907): Microsoft Office Excel 보안 기능 바이패스
+-   [CVE-2018-1029](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1029): Microsoft Excel 원격 코드 실행 취약성
+-   [CVE-2018-8147](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8147): Microsoft Excel 원격 코드 실행 취약성
+-   [CVE-2018-8148](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8148): Microsoft Excel 원격 코드 실행 취약성
+-   [CVE-2018-8162](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8162): Microsoft Excel 원격 코드 실행 취약성 
+-   [CVE-2018-8163](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8163): Microsoft Excel 정보 노출 취약성 
+-   [CVE-2018-8246](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8246): Microsoft Excel 정보 노출 취약성
+-   [CVE-2018-8248](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0907): Microsoft Excel 원격 코드 실행 취약성
+-   [CVE-2018-0907](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0907): Microsoft Office Excel 보안 기능 바이패스
+-   [공지 170021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170021): Microsoft Office 심층 방어 업데이트
 
 ### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트
 
@@ -1055,14 +1055,14 @@ ms.locfileid: "50735212"
 -   **가장 자주 사용하는 그룹을 빠르게 실행:** 이제 가장 자주 상호 작용하는 그룹이 폴더 창의 그룹 아래 목록 상단에 표시됩니다.
 
 ### <a name="outlook-security-updates"></a>Outlook: 보안 업데이트
--   [CVE-2017-11939](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2017-11939): Microsoft Office 정보 노출 취약성
--   [CVE-2018-0791](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0791): Microsoft Outlook 원격 코드 실행 취약성
--   [CVE-2018-0793](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0793): Microsoft Outlook 원격 코드 실행 취약성
--   [CVE-2018-0850](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0850): Microsoft Outlook 권한 상승 취약성
--   [CVE-2018-0852](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0852): Microsoft Office Outlook 메모리 손상 취약성
--   [CVE-2018-8150](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8150): Microsoft Outlook 보안 기능 바이패스 취약성
--   [CVE-2018-8244](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8244): Microsoft Outlook 권한 상승 취약성
--   [CVE-2018-8310](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8310): Microsoft Office 변조 취약성
+-   [CVE-2017-11939](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11939): Microsoft Office 정보 노출 취약성
+-   [CVE-2018-0791](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0791): Microsoft Outlook 원격 코드 실행 취약성
+-   [CVE-2018-0793](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0793): Microsoft Outlook 원격 코드 실행 취약성
+-   [CVE-2018-0850](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0850): Microsoft Outlook 권한 상승 취약성
+-   [CVE-2018-0852](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0852): Microsoft Office Outlook 메모리 손상 취약성
+-   [CVE-2018-8150](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8150): Microsoft Outlook 보안 기능 바이패스 취약성
+-   [CVE-2018-8244](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8244): Microsoft Outlook 권한 상승 취약성
+-   [CVE-2018-8310](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8310): Microsoft Office 변조 취약성
 
 ### <a name="outlook-non-security-updates"></a>Outlook: 비보안 업데이트
 -   보낼 편지함 또는 보낸 편지함 폴더로 전환하면 Outlook이 중단되는 문제를 해결합니다.
@@ -1099,7 +1099,7 @@ ms.locfileid: "50735212"
 -   **디지털 눈금자:** 터치 스크린이 있는 장치에서 그리기 \> 눈금자로 이동한 후 펜이나 손가락을 이용하여 직선을 그리거나 개체 집합을 정렬할 수 있습니다. [자세한 정보](https://support.office.com/article/6222c9b4-2fdf-48f7-a3fd-1687fbe2bf84)
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint: 보안 업데이트
--   [CVE-2017-11934](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2017-11934): Microsoft PowerPoint 정보 노출 취약성
+-   [CVE-2017-11934](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11934): Microsoft PowerPoint 정보 노출 취약성
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: 비보안 업데이트
 -   테이블이 두꺼운 테두리로 잘못 렌더링되는 문제를 해결합니다.
@@ -1222,19 +1222,19 @@ ms.locfileid: "50735212"
 -   **편집기 창의 향상된 쓰기 지원:** 편집기 창에서 고급 맞춤법, 문법 및 쓰기 스타일 권장 사항을 볼 수 있습니다. 보조 기술에 대한 향상된 지원을 통해 이러한 창 기능에 액세스할 수 있습니다.
 
 ### <a name="word-security-updates"></a>Word: 보안 업데이트
--   [CVE-2018-0792](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0792): Microsoft Word 원격 코드 실행 취약성
--   [CVE-2018-0793](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0793): Microsoft Outlook 원격 코드 실행 취약성
--   [CVE-2018-0794](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0794): Microsoft Word 원격 코드 실행 취약성
--   [CVE-2018-0798](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0798): Microsoft Office 메모리 손상 취약성
--   [CVE-2018-0801](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0801): Microsoft Office 원격 코드 실행 취약성
--   [CVE-2018-0802](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0802): Microsoft Office 메모리 손상 취약성
--   [CVE-2018-0804](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0804): Microsoft Word 원격 코드 실행 취약성
--   [CVE-2018-0805](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0805): Microsoft Word 원격 코드 실행 취약성
--   [CVE-2018-0806](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0806): Microsoft Word 원격 코드 실행 취약성
--   [CVE-2018-0807](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0807): Microsoft Word 원격 코드 실행 취약성
--   [CVE-2018-0812](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0812): Microsoft Word 메모리 손상 취약성
--   [CVE-2018-0919](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0919): Microsoft Office 정보 노출 취약성
--   [공지 170020](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/ADV170020): Microsoft Office 심층 방어 업데이트
+-   [CVE-2018-0792](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0792): Microsoft Word 원격 코드 실행 취약성
+-   [CVE-2018-0793](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0793): Microsoft Outlook 원격 코드 실행 취약성
+-   [CVE-2018-0794](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0794): Microsoft Word 원격 코드 실행 취약성
+-   [CVE-2018-0798](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0798): Microsoft Office 메모리 손상 취약성
+-   [CVE-2018-0801](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0801): Microsoft Office 원격 코드 실행 취약성
+-   [CVE-2018-0802](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0802): Microsoft Office 메모리 손상 취약성
+-   [CVE-2018-0804](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0804): Microsoft Word 원격 코드 실행 취약성
+-   [CVE-2018-0805](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0805): Microsoft Word 원격 코드 실행 취약성
+-   [CVE-2018-0806](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0806): Microsoft Word 원격 코드 실행 취약성
+-   [CVE-2018-0807](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0807): Microsoft Word 원격 코드 실행 취약성
+-   [CVE-2018-0812](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0812): Microsoft Word 메모리 손상 취약성
+-   [CVE-2018-0919](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0919): Microsoft Office 정보 노출 취약성
+-   [공지 170020](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170020): Microsoft Office 심층 방어 업데이트
 
 ### <a name="word-non-security-updates"></a>Word: 비보안 업데이트
 -   SharePoint Onoline에서 파일을 열면 Word 작업이 중단되는 문제를 해결합니다.
@@ -1248,17 +1248,17 @@ ms.locfileid: "50735212"
 -   문서에 IRM 보호 제거를 할 경우 보호가 제거되지 않는 문제를 해결합니다.
 
 ### <a name="office-suite-security-updates"></a>Office 제품군: 보안 업데이트
--   [CVE-2017-11882](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2017-11882): Microsoft Office 메모리 손상 취약성
--   [CVE-2018-0795](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0795): Microsoft Office 원격 코드 실행 취약성
--   [CVE-2018-0851](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0851): Microsoft Office 메모리 손상 취약성
--   [CVE-2018-0853](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0853): Microsoft Office 정보 노출 취약성
--   [CVE-2018-0950](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0950): Microsoft Office 정보 노출 취약성
--   [CVE-2018-1026](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-1026): Microsoft Office 원격 코드 실행 취약성
--   [CVE-2018-1030](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-1030): Microsoft Office 원격 코드 실행 취약성
--   [CVE-2018-8157](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8157): Microsoft Office 원격 코드 실행 취약성
--   [CVE-2018-8158](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8158): Microsoft Office 원격 코드 실행 취약성
--   [CVE-2018-8281](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8281): Microsoft Office 원격 코드 실행 취약성
--   [공지 180003](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/ADV180003): Microsoft Office 심층 방어 업데이트
+-   [CVE-2017-11882](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11882): Microsoft Office 메모리 손상 취약성
+-   [CVE-2018-0795](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0795): Microsoft Office 원격 코드 실행 취약성
+-   [CVE-2018-0851](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0851): Microsoft Office 메모리 손상 취약성
+-   [CVE-2018-0853](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0853): Microsoft Office 정보 노출 취약성
+-   [CVE-2018-0950](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0950): Microsoft Office 정보 노출 취약성
+-   [CVE-2018-1026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1026): Microsoft Office 원격 코드 실행 취약성
+-   [CVE-2018-1030](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1030): Microsoft Office 원격 코드 실행 취약성
+-   [CVE-2018-8157](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8157): Microsoft Office 원격 코드 실행 취약성
+-   [CVE-2018-8158](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8158): Microsoft Office 원격 코드 실행 취약성
+-   [CVE-2018-8281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8281): Microsoft Office 원격 코드 실행 취약성
+-   [공지 180003](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180003): Microsoft Office 심층 방어 업데이트
 
 ### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
 -   Configuration Manager를 사용하여 Office 응용 프로그램을 실행하는 클라이언트에 업데이트를 배포할 때 Office 응용 프로그램이 실행되는 동안 장치를 다시 시작한 후에 업데이트가 적용되지 않는 문제를 해결합니다.
@@ -1279,24 +1279,24 @@ ms.locfileid: "50735212"
 *2018년 1월부터 제공된 반기 채널 릴리스입니다. 이 릴리스는 2019년 3월까지 계속 지원되며 보안 업데이트가 수신됩니다. 하지만 이제 새로운 반기 채널 릴리스 버전 1803(빌드 9126.2259)을 사용할 수 있습니다. 여기에는 새로운 기능, 보안 업데이트 및 비보안 업데이트가 포함되어 있습니다.*
 
 ### <a name="access-security-updates"></a>Access: 보안 업데이트
--   [CVE-2018-8312](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8312): Microsoft Access 원격 코드 실행 Use After Free 취약성
+-   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): Microsoft Access 원격 코드 실행 Use After Free 취약성
 
 ### <a name="outlook-security-updates"></a>Outlook: 보안 업데이트
--   [CVE-2018-8310](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8310): Microsoft Office 변조 취약성
+-   [CVE-2018-8310](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8310): Microsoft Office 변조 취약성
 
 ### <a name="office-suite-security-updates"></a>Office 제품군: 보안 업데이트
--   [CVE-2018-8281](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8281): Microsoft Office 원격 코드 실행 취약성
+-   [CVE-2018-8281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8281): Microsoft Office 원격 코드 실행 취약성
 
 
 ## <a name="version-1708-june-12"></a>버전 1708: 6월 12일
 *버전 1708(빌드 8431.2270)*
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
--   [CVE-2018-8246](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8246): Microsoft Excel 정보 노출 취약성
--   [CVE-2018-8248](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8248): Microsoft Excel 원격 코드 실행 취약성
+-   [CVE-2018-8246](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8246): Microsoft Excel 정보 노출 취약성
+-   [CVE-2018-8248](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8248): Microsoft Excel 원격 코드 실행 취약성
 
 ### <a name="outlook-security-updates"></a>Outlook: 보안 업데이트
--   [CVE-2018-8244](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8244): Microsoft Outlook 권한 상승 취약성
+-   [CVE-2018-8244](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8244): Microsoft Outlook 권한 상승 취약성
 
 ### <a name="outlook-non-security-updates"></a>Outlook: 비보안 업데이트
 -   Windows 7 SP1 사용자가 최신 그룹에 구성원을 추가할 수 없는 문제를 해결합니다.
@@ -1309,11 +1309,11 @@ ms.locfileid: "50735212"
 *2017년 9월부터 제공된 지연 채널 릴리스입니다. 이 릴리스는 2018년 7월까지 계속 지원되며 보안 업데이트가 수신됩니다. 하지만 이제 새로운 반기 채널 릴리스 버전 1708(빌드 8431.2270)을 사용할 수 있습니다. 여기에는 새로운 기능, 보안 업데이트 및 비보안 업데이트가 포함되어 있습니다.*
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
--   [CVE-2018-8246](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8246): Microsoft Excel 정보 노출 취약성
--   [CVE-2018-8248](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8248): Microsoft Excel 원격 코드 실행 취약성
+-   [CVE-2018-8246](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8246): Microsoft Excel 정보 노출 취약성
+-   [CVE-2018-8248](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8248): Microsoft Excel 원격 코드 실행 취약성
 
 ### <a name="outlook-security-updates"></a>Outlook: 보안 업데이트
--   [CVE-2018-8244](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8244): Microsoft Outlook 권한 상승 취약성
+-   [CVE-2018-8244](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8244): Microsoft Outlook 권한 상승 취약성
 
 
 
@@ -1321,17 +1321,17 @@ ms.locfileid: "50735212"
 *버전 1708(빌드 8431.2250)*
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
--   [CVE-2018-8147](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8147): Microsoft Excel 원격 코드 실행 취약성
--   [CVE-2018-8148](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8148): Microsoft Excel 원격 코드 실행 취약성
--   [CVE-2018-8162](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8162): Microsoft Excel 원격 코드 실행 취약성
--   [CVE-2018-8163](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8163): Microsoft Excel 정보 노출 취약성
+-   [CVE-2018-8147](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8147): Microsoft Excel 원격 코드 실행 취약성
+-   [CVE-2018-8148](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8148): Microsoft Excel 원격 코드 실행 취약성
+-   [CVE-2018-8162](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8162): Microsoft Excel 원격 코드 실행 취약성
+-   [CVE-2018-8163](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8163): Microsoft Excel 정보 노출 취약성
 
 ### <a name="outlook-security-updates"></a>Outlook: 보안 업데이트
--   [CVE-2018-8150](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8150): Microsoft Outlook 보안 기능 바이패스 취약성
+-   [CVE-2018-8150](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8150): Microsoft Outlook 보안 기능 바이패스 취약성
 
 ### <a name="office-suite-security-updates"></a>Office 제품군: 보안 업데이트
--   [CVE-2018-8157](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8157): Microsoft Office 원격 코드 실행 취약성
--   [CVE-2018-8158](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8158): Microsoft Office 원격 코드 실행 취약성
+-   [CVE-2018-8157](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8157): Microsoft Office 원격 코드 실행 취약성
+-   [CVE-2018-8158](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8158): Microsoft Office 원격 코드 실행 취약성
 
 
 
@@ -1341,17 +1341,17 @@ ms.locfileid: "50735212"
 *2017년 9월부터 제공된 지연 채널 릴리스입니다. 이 릴리스는 2018년 7월까지 계속 지원되며 보안 업데이트가 수신됩니다. 하지만 이제 새로운 반기 채널 릴리스 버전 1708(빌드 8431.2250)을 사용할 수 있습니다. 여기에는 새로운 기능, 보안 업데이트 및 비보안 업데이트가 포함되어 있습니다.*
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
--   [CVE-2018-8147](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8147): Microsoft Excel 원격 코드 실행 취약성
--   [CVE-2018-8148](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8148): Microsoft Excel 원격 코드 실행 취약성
--   [CVE-2018-8162](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8162): Microsoft Excel 원격 코드 실행 취약성
--   [CVE-2018-8163](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8163): Microsoft Excel 정보 노출 취약성
+-   [CVE-2018-8147](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8147): Microsoft Excel 원격 코드 실행 취약성
+-   [CVE-2018-8148](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8148): Microsoft Excel 원격 코드 실행 취약성
+-   [CVE-2018-8162](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8162): Microsoft Excel 원격 코드 실행 취약성
+-   [CVE-2018-8163](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8163): Microsoft Excel 정보 노출 취약성
 
 ### <a name="outlook-security-updates"></a>Outlook: 보안 업데이트
--   [CVE-2018-8150](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8150): Microsoft Outlook 보안 기능 바이패스 취약성
+-   [CVE-2018-8150](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8150): Microsoft Outlook 보안 기능 바이패스 취약성
 
 ### <a name="office-suite-security-updates"></a>Office 제품군: 보안 업데이트
--   [CVE-2018-8157](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8157): Microsoft Office 원격 코드 실행 취약성
--   [CVE-2018-8158](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8158): Microsoft Office 원격 코드 실행 취약성
+-   [CVE-2018-8157](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8157): Microsoft Office 원격 코드 실행 취약성
+-   [CVE-2018-8158](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8158): Microsoft Office 원격 코드 실행 취약성
 
 
 
@@ -1359,15 +1359,15 @@ ms.locfileid: "50735212"
 *버전 1708(빌드 8431.2242)*
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
--   [CVE-2018-1029](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-1029): Microsoft Excel 원격 코드 실행 취약성
+-   [CVE-2018-1029](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1029): Microsoft Excel 원격 코드 실행 취약성
 
 ### <a name="skype-for-business-non-security-updates"></a>비즈니스용 Skype: 비보안 업데이트
 -   TLS 1.2 지원와 관련된 문제를 해결합니다.
 
 ### <a name="office-suite-security-updates"></a>Office 제품군: 보안 업데이트
--   [CVE-2018-0950](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0950): Microsoft Office 정보 노출 취약성
--   [CVE-2018-1026](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-1026): Microsoft Office 원격 코드 실행 취약성
--   [CVE-2018-1030](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-1030): Microsoft Office 원격 코드 실행 취약성
+-   [CVE-2018-0950](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0950): Microsoft Office 정보 노출 취약성
+-   [CVE-2018-1026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1026): Microsoft Office 원격 코드 실행 취약성
+-   [CVE-2018-1030](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1030): Microsoft Office 원격 코드 실행 취약성
 
 
 
@@ -1377,12 +1377,12 @@ ms.locfileid: "50735212"
 *2017년 9월부터 제공된 지연 채널 릴리스입니다. 이 릴리스는 2018년 7월까지 계속 지원되며 보안 업데이트가 수신됩니다. 하지만 이제 새로운 반기 채널 릴리스 버전 1708(빌드 8431.2242)을 사용할 수 있습니다. 여기에는 새로운 기능, 보안 업데이트 및 비보안 업데이트가 포함되어 있습니다.*
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
--   [CVE-2018-1029](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-1029): Microsoft Excel 원격 코드 실행 취약성
+-   [CVE-2018-1029](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1029): Microsoft Excel 원격 코드 실행 취약성
 
 ### <a name="office-suite-security-updates"></a>Office 제품군: 보안 업데이트
--   [CVE-2018-0950](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0950): Microsoft Office 정보 노출 취약성
--   [CVE-2018-1026](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-1026): Microsoft Office 원격 코드 실행 취약성
--   [CVE-2018-1030](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-1030): Microsoft Office 원격 코드 실행 취약성
+-   [CVE-2018-0950](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0950): Microsoft Office 정보 노출 취약성
+-   [CVE-2018-1026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1026): Microsoft Office 원격 코드 실행 취약성
+-   [CVE-2018-1030](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1030): Microsoft Office 원격 코드 실행 취약성
 
 
 
@@ -1390,13 +1390,13 @@ ms.locfileid: "50735212"
 *버전 1708(빌드 8431.2236)*
 
 ### <a name="access-security-updates"></a>Access: 보안 업데이트
--   [CVE-2018-0903](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0903): Microsoft Access 원격 코드 실행 취약성
+-   [CVE-2018-0903](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0903): Microsoft Access 원격 코드 실행 취약성
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
--   [CVE-2018-0907](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0907): Microsoft Office Excel 보안 기능 바이패스
+-   [CVE-2018-0907](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0907): Microsoft Office Excel 보안 기능 바이패스
 
 ### <a name="word-security-updates"></a>Word: 보안 업데이트
--   [CVE-2018-0919](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0919): Microsoft Office 정보 노출 취약성
+-   [CVE-2018-0919](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0919): Microsoft Office 정보 노출 취약성
 
 
 
@@ -1406,13 +1406,13 @@ ms.locfileid: "50735212"
 *2017년 9월부터 제공된 지연 채널 릴리스입니다. 이 릴리스는 2018년 7월까지 계속 지원되며 보안 업데이트가 수신됩니다. 하지만 이제 새로운 반기 채널 릴리스 버전 1708(빌드 8431.2236)을 사용할 수 있습니다. 여기에는 새로운 기능, 보안 업데이트 및 비보안 업데이트가 포함되어 있습니다.*
 
 ### <a name="access-security-updates"></a>Access: 보안 업데이트
--   [CVE-2018-0903](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0903): Microsoft Access 원격 코드 실행 취약성
+-   [CVE-2018-0903](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0903): Microsoft Access 원격 코드 실행 취약성
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
--   [CVE-2018-0907](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0907): Microsoft Office Excel 보안 기능 바이패스
+-   [CVE-2018-0907](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0907): Microsoft Office Excel 보안 기능 바이패스
 
 ### <a name="word-security-updates"></a>Word: 보안 업데이트
--   [CVE-2018-0919](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0919): Microsoft Office 정보 노출 취약성
+-   [CVE-2018-0919](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0919): Microsoft Office 정보 노출 취약성
 
 
 
@@ -1423,15 +1423,15 @@ ms.locfileid: "50735212"
 -   다중 항목 폼을 사용할 때 마우스 휠이나 스크롤 막대 위치 조정 컨트롤의 위치를 조정해도 폼에 표시되는 항목이 달라지지 않는 문제를 해결합니다.
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
--   [CVE-2018-0841](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0841): Microsoft Excel 원격 코드 실행 취약성
+-   [CVE-2018-0841](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0841): Microsoft Excel 원격 코드 실행 취약성
 
 ### <a name="outlook-security-updates"></a>Outlook: 보안 업데이트
--   [CVE-2018-0850](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0850): Microsoft Outlook 권한 상승 취약성
--   [CVE-2018-0852](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0852): Microsoft Office Outlook 메모리 손상 취약성
+-   [CVE-2018-0850](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0850): Microsoft Outlook 권한 상승 취약성
+-   [CVE-2018-0852](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0852): Microsoft Office Outlook 메모리 손상 취약성
 
 ### <a name="office-suite-security-updates"></a>Office 제품군: 보안 업데이트
--   [CVE-2018-0851](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0851): Microsoft Office 메모리 손상 취약성
--   [CVE-2018-0853](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0853): Microsoft Office 정보 노출 취약성
+-   [CVE-2018-0851](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0851): Microsoft Office 메모리 손상 취약성
+-   [CVE-2018-0853](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0853): Microsoft Office 정보 노출 취약성
 
 
 
@@ -1441,15 +1441,15 @@ ms.locfileid: "50735212"
 *2017년 9월부터 제공된 지연 채널 릴리스입니다. 이 릴리스는 2018년 7월까지 계속 지원되며 보안 업데이트가 수신됩니다. 하지만 이제 새로운 반기 채널 릴리스 버전 1708(빌드 8431.2215)을 사용할 수 있습니다. 여기에는 새로운 기능, 보안 업데이트 및 비보안 업데이트가 포함되어 있습니다.*
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
--   [CVE-2018-0841](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0841): Microsoft Excel 원격 코드 실행 취약성
+-   [CVE-2018-0841](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0841): Microsoft Excel 원격 코드 실행 취약성
 
 ### <a name="outlook-security-updates"></a>Outlook: 보안 업데이트
--   [CVE-2018-0850](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0850): Microsoft Outlook 권한 상승 취약성
--   [CVE-2018-0852](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0852): Microsoft Office Outlook 메모리 손상 취약성
+-   [CVE-2018-0850](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0850): Microsoft Outlook 권한 상승 취약성
+-   [CVE-2018-0852](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0852): Microsoft Office Outlook 메모리 손상 취약성
 
 ### <a name="office-suite-security-updates"></a>Office 제품군: 보안 업데이트
--   [CVE-2018-0851](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0851): Microsoft Office 메모리 손상 취약성
--   [CVE-2018-0853](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0853): Microsoft Office 정보 노출 취약성
+-   [CVE-2018-0851](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0851): Microsoft Office 메모리 손상 취약성
+-   [CVE-2018-0853](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0853): Microsoft Office 정보 노출 취약성
 
 
 
@@ -1483,16 +1483,16 @@ ms.locfileid: "50735212"
 -   **펜 단추를 사용하여 올가미 선택:** 리본 메뉴를 방문하지 않고 올가미 선택 잉크에 지원되는 디지털 펜 단추를 사용합니다.
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
--   [CVE-2017-8501](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2017-8501): Microsoft Office 메모리 손상 취약성
--   [CVE-2017-8502](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2017-8502): Microsoft Office 메모리 손상 취약성
--   [CVE-2017-8631](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2017-8631): Microsoft Office 메모리 손상 취약성
--   [CVE-2017-8632](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2017-8632): Microsoft Office 메모리 손상 취약성
--   [CVE-2017-11877](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2017-11877): Microsoft Excel 보안 기능 바이패스 취약성
--   [CVE-2017-11878](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2017-11878): Microsoft Excel 메모리 손상 취약성
--   [CVE-2017-11884](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2017-11884): Microsoft Office 메모리 손상 취약성
--   [CVE-2017-11935](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2017-11935): Microsoft Excel 원격 코드 실행 취약성
--   [CVE-2018-0796](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0796): Microsoft Excel 원격 코드 실행 취약성
--   [공지 170021](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/ADV170021): Microsoft Office 심층 방어 업데이트
+-   [CVE-2017-8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8501): Microsoft Office 메모리 손상 취약성
+-   [CVE-2017-8502](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8502): Microsoft Office 메모리 손상 취약성
+-   [CVE-2017-8631](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8631): Microsoft Office 메모리 손상 취약성
+-   [CVE-2017-8632](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8632): Microsoft Office 메모리 손상 취약성
+-   [CVE-2017-11877](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11877): Microsoft Excel 보안 기능 바이패스 취약성
+-   [CVE-2017-11878](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11878): Microsoft Excel 메모리 손상 취약성
+-   [CVE-2017-11884](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11884): Microsoft Office 메모리 손상 취약성
+-   [CVE-2017-11935](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11935): Microsoft Excel 원격 코드 실행 취약성
+-   [CVE-2018-0796](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0796): Microsoft Excel 원격 코드 실행 취약성
+-   [공지 170021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170021): Microsoft Office 심층 방어 업데이트
 
 ### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트
 -   프로그래밍 방식으로 피벗 테이블을 생성한 후 프로그래밍 방식으로 새로 고칠 경우 Excel이 중단되는 문제를 해결합니다.
@@ -1534,14 +1534,14 @@ ms.locfileid: "50735212"
 -   **실행 가능한 메시지:** 개발자는 사용자가 외부 웹 사이트나 별도 앱으로 전환하지 않고도 Outlook에서 간편하고 빠르게 조치를 취할 수 있도록 메시지를 만들 수 있습니다. [추가 정보](https://dev.office.com/blogs/create-more-engaging-conversations-with-new-actionable-messages-updates-announced-at-microsoft-build)
 
 ### <a name="outlook-security-updates"></a>Outlook: 보안 업데이트
--   [CVE-2017-8571](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2017-8571): Microsoft Office Outlook 보안 기능 바이패스 취약성
--   [CVE-2017-8572](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2017-8572): Microsoft Office Outlook 정보 노출 취약성
--   [CVE-2017-8663](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2017-8663): Microsoft Office Outlook 메모리 손상 취약성
--   [CVE-2017-11774](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2017-11774): Microsoft Outlook 보안 기능 바이패스 취약성
--   [CVE-2017-11776](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2017-11776): Microsoft Outlook 정보 공개 취약성
--   [CVE-2017-11939](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2017-11939): Microsoft Office 정보 노출 취약성
--   [CVE-2018-0791](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0791): Microsoft Outlook 원격 코드 실행 취약성
--   [CVE-2018-0793](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0793): Microsoft Outlook 원격 코드 실행 취약성
+-   [CVE-2017-8571](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8571): Microsoft Office Outlook 보안 기능 바이패스 취약성
+-   [CVE-2017-8572](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8572): Microsoft Office Outlook 정보 노출 취약성
+-   [CVE-2017-8663](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8663): Microsoft Office Outlook 메모리 손상 취약성
+-   [CVE-2017-11774](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11774): Microsoft Outlook 보안 기능 바이패스 취약성
+-   [CVE-2017-11776](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11776): Microsoft Outlook 정보 공개 취약성
+-   [CVE-2017-11939](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11939): Microsoft Office 정보 노출 취약성
+-   [CVE-2018-0791](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0791): Microsoft Outlook 원격 코드 실행 취약성
+-   [CVE-2018-0793](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0793): Microsoft Outlook 원격 코드 실행 취약성
 
 ### <a name="outlook-non-security-updates"></a>Outlook: 비보안 업데이트
 -   사용자가 메시지를 삭제할 때 메시지 목록의 포커스가 예기치 않게 이동되는 문제를 해결합니다.
@@ -1563,9 +1563,9 @@ ms.locfileid: "50735212"
 -   **공유 파일의 변경 내용:** 공유 프레젠테이션을 변경한 사람을 확인하고 이전 버전을 복원합니다. [추가 정보](https://support.office.com/article/5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint: 보안 업데이트
--   [CVE-2017-8742](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2017-8742): PowerPoint 원격 코드 실행 취약성
--   [CVE-2017-8743](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2017-8743): PowerPoint 원격 코드 실행 취약성
--   [CVE-2017-11934](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2017-11934): Microsoft PowerPoint 정보 노출 취약성
+-   [CVE-2017-8742](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8742): PowerPoint 원격 코드 실행 취약성
+-   [CVE-2017-8743](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8743): PowerPoint 원격 코드 실행 취약성
+-   [CVE-2017-11934](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11934): Microsoft PowerPoint 정보 노출 취약성
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: 비보안 업데이트
 -   동기화 백업 파일을 저장할 때 Office에서 디스크를 쓸 수 없지만 파일을 계속 OneDrive로 업로드하는 문제를 해결합니다. 이 수정 사항을 통해 사용자는 이제 오류 메시지를 확인할 수 있으며 업로드가 진행되지 않습니다.
@@ -1596,9 +1596,9 @@ ms.locfileid: "50735212"
 -   대기 시간이 긴 파일 서버에서 프로젝트 파일을 더 빨리 열 수 있도록 문제를 해결합니다.
 
 ### <a name="skype-for-business-security-updates"></a>비즈니스용 Skype: 보안 업데이트
--   [CVE-2017-8676](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2017-8676): Windows GDI+ 정보 공개 취약성
--   [CVE-2017-8695](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2017-8695): 그래픽 구성 요소 정보 노출 취약성
--   [CVE-2017-8696](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2017-8696): Microsoft 그래픽 구성 요소 원격 코드 실행 문제
+-   [CVE-2017-8676](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8676): Windows GDI+ 정보 공개 취약성
+-   [CVE-2017-8695](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8695): 그래픽 구성 요소 정보 노출 취약성
+-   [CVE-2017-8696](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8696): Microsoft 그래픽 구성 요소 원격 코드 실행 문제
 
 ### <a name="skype-for-business-non-security-updates"></a>비즈니스용 Skype: 비보안 업데이트
 -   특정 포트가 차단되거나 IP가 허용되지 않은 경우 사용자가 모임에 참가할 수 없는 이유를 설명하는 대화 상자를 추가합니다.
@@ -1643,20 +1643,20 @@ ms.locfileid: "50735212"
 -   **공유 파일의 변경 내용:** 공유 문서를 변경한 사람을 확인하고 이전 버전을 복원합니다. [추가 정보](https://support.office.com/article/5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
 
 ### <a name="word-security-updates"></a>Word: 보안 업데이트
--   [CVE-2017-11826](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2017-11826): Microsoft Office 메모리 손상 취약성
--   [CVE-2018-0792](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0792): Microsoft Word 원격 코드 실행 취약성
--   [CVE-2018-0793](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0793): Microsoft Outlook 원격 코드 실행 취약성
--   [CVE-2018-0794](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0794): Microsoft Word 원격 코드 실행 취약성
--   [CVE-2018-0798](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0798): Microsoft Office 메모리 손상 취약성
--   [CVE-2018-0801](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0801): Microsoft Office 원격 코드 실행 취약성
--   [CVE-2018-0802](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0802): Microsoft Office 메모리 손상 취약성
--   [CVE-2018-0804](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0804): Microsoft Word 원격 코드 실행 취약성
--   [CVE-2018-0805](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0805): Microsoft Word 원격 코드 실행 취약성
--   [CVE-2018-0806](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0806): Microsoft Word 원격 코드 실행 취약성
--   [CVE-2018-0807](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0807): Microsoft Word 원격 코드 실행 취약성
--   [CVE-2018-0812](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0812): Microsoft Word 메모리 손상 취약성
--   [공지 170020](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/ADV170020): Microsoft Office 심층 방어 업데이트
--   [공지 170021](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/ADV170021): Microsoft Office 심층 방어 업데이트
+-   [CVE-2017-11826](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11826): Microsoft Office 메모리 손상 취약성
+-   [CVE-2018-0792](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0792): Microsoft Word 원격 코드 실행 취약성
+-   [CVE-2018-0793](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0793): Microsoft Outlook 원격 코드 실행 취약성
+-   [CVE-2018-0794](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0794): Microsoft Word 원격 코드 실행 취약성
+-   [CVE-2018-0798](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0798): Microsoft Office 메모리 손상 취약성
+-   [CVE-2018-0801](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0801): Microsoft Office 원격 코드 실행 취약성
+-   [CVE-2018-0802](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0802): Microsoft Office 메모리 손상 취약성
+-   [CVE-2018-0804](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0804): Microsoft Word 원격 코드 실행 취약성
+-   [CVE-2018-0805](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0805): Microsoft Word 원격 코드 실행 취약성
+-   [CVE-2018-0806](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0806): Microsoft Word 원격 코드 실행 취약성
+-   [CVE-2018-0807](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0807): Microsoft Word 원격 코드 실행 취약성
+-   [CVE-2018-0812](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0812): Microsoft Word 메모리 손상 취약성
+-   [공지 170020](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170020): Microsoft Office 심층 방어 업데이트
+-   [공지 170021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170021): Microsoft Office 심층 방어 업데이트
 
 ### <a name="word-non-security-updates"></a>Word: 비보안 업데이트
 -   비지니스용 OneDrive의 기존 문서를 다른 이름으로 저장 후 취소하거나 기존 변경사항을 병합하려 할 때 Word가 중단되는 문제를 해결합니다.
@@ -1671,13 +1671,13 @@ ms.locfileid: "50735212"
 -   문서를 PDF로 저장하면 문서가 버전 1.7 PDF로 저장됩니다.
 
 ### <a name="office-suite-security-updates"></a>Office 제품군: 보안 업데이트
--   [CVE-2017-8570](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2017-8570): Microsoft Office 원격 코드 실행 취약성
--   [CVE-2017-8630](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2017-8630): Microsoft Office 메모리 손상 취약성
--   [CVE-2017-8744](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2017-8744): Microsoft Office 메모리 손상 취약성
--   [CVE-2017-11825](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2017-11825): Microsoft Office 원격 코드 실행 취약성
--   [CVE-2017-11882](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2017-11882): Microsoft Office 메모리 손상 취약성
--   [CVE-2018-0795](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0795): Microsoft Office 원격 코드 실행 취약성
--   [공지 180003](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/ADV180003): Microsoft Office 심층 방어 업데이트
+-   [CVE-2017-8570](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8570): Microsoft Office 원격 코드 실행 취약성
+-   [CVE-2017-8630](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8630): Microsoft Office 메모리 손상 취약성
+-   [CVE-2017-8744](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8744): Microsoft Office 메모리 손상 취약성
+-   [CVE-2017-11825](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11825): Microsoft Office 원격 코드 실행 취약성
+-   [CVE-2017-11882](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11882): Microsoft Office 메모리 손상 취약성
+-   [CVE-2018-0795](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0795): Microsoft Office 원격 코드 실행 취약성
+-   [공지 180003](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180003): Microsoft Office 심층 방어 업데이트
 
 ### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
 -   ID가 온-프레미스 Active Directory와 페더레이션되는 Office 365 Germany 요금제의 도메인 사용자에 대한 SSO(Single Sign-On)를 추가적으로 지원합니다.
@@ -1707,29 +1707,29 @@ ms.locfileid: "50735212"
 *2017년 9월부터 제공된 지연 채널 릴리스입니다. 이 릴리스는 2018년 7월까지 계속 지원되며 보안 업데이트가 수신됩니다. 하지만 이제 새로운 반기 채널 릴리스 버전 1708(빌드 8431.2153)을 사용할 수 있습니다. 여기에는 새로운 기능, 보안 업데이트 및 비보안 업데이트가 포함되어 있습니다.*
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
--   [CVE-2018-0796](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0796): Microsoft Excel 원격 코드 실행 취약성
--   [공지 170021](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/ADV170021): Microsoft Office 심층 방어 업데이트
+-   [CVE-2018-0796](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0796): Microsoft Excel 원격 코드 실행 취약성
+-   [공지 170021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170021): Microsoft Office 심층 방어 업데이트
 
 ### <a name="outlook-security-updates"></a>Outlook: 보안 업데이트
--   [CVE-2018-0791](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0791): Microsoft Outlook 원격 코드 실행 취약성
--   [CVE-2018-0793](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0793): Microsoft Outlook 원격 코드 실행 취약성
+-   [CVE-2018-0791](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0791): Microsoft Outlook 원격 코드 실행 취약성
+-   [CVE-2018-0793](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0793): Microsoft Outlook 원격 코드 실행 취약성
 
 ### <a name="word-security-updates"></a>Word: 보안 업데이트
--   [CVE-2018-0792](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0792): Microsoft Word 원격 코드 실행 취약성
--   [CVE-2018-0793](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0793): Microsoft Outlook 원격 코드 실행 취약성
--   [CVE-2018-0794](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0794): Microsoft Word 원격 코드 실행 취약성
--   [CVE-2018-0798](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0798): Microsoft Office 메모리 손상 취약성
--   [CVE-2018-0801](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0801): Microsoft Office 원격 코드 실행 취약성
--   [CVE-2018-0802](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0802): Microsoft Office 메모리 손상 취약성
--   [CVE-2018-0804](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0804): Microsoft Word 원격 코드 실행 취약성
--   [CVE-2018-0805](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0805): Microsoft Word 원격 코드 실행 취약성
--   [CVE-2018-0806](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0806): Microsoft Word 원격 코드 실행 취약성
--   [CVE-2018-0807](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0807): Microsoft Word 원격 코드 실행 취약성
--   [CVE-2018-0812](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0812): Microsoft Word 메모리 손상 취약성
+-   [CVE-2018-0792](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0792): Microsoft Word 원격 코드 실행 취약성
+-   [CVE-2018-0793](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0793): Microsoft Outlook 원격 코드 실행 취약성
+-   [CVE-2018-0794](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0794): Microsoft Word 원격 코드 실행 취약성
+-   [CVE-2018-0798](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0798): Microsoft Office 메모리 손상 취약성
+-   [CVE-2018-0801](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0801): Microsoft Office 원격 코드 실행 취약성
+-   [CVE-2018-0802](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0802): Microsoft Office 메모리 손상 취약성
+-   [CVE-2018-0804](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0804): Microsoft Word 원격 코드 실행 취약성
+-   [CVE-2018-0805](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0805): Microsoft Word 원격 코드 실행 취약성
+-   [CVE-2018-0806](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0806): Microsoft Word 원격 코드 실행 취약성
+-   [CVE-2018-0807](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0807): Microsoft Word 원격 코드 실행 취약성
+-   [CVE-2018-0812](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0812): Microsoft Word 메모리 손상 취약성
 
 ### <a name="office-suite-security-updates"></a>Office 제품군: 보안 업데이트
--   [CVE-2018-0795](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0795): Microsoft Office 원격 코드 실행 취약성
--   [공지 180003](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/ADV180003): Microsoft Office 심층 방어 업데이트
+-   [CVE-2018-0795](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0795): Microsoft Office 원격 코드 실행 취약성
+-   [공지 180003](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180003): Microsoft Office 심층 방어 업데이트
 
 
 > [!NOTE]

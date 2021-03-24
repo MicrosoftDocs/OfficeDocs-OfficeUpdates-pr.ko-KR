@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2018년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: bcf8417d7dfe8796f3e67e6cf1950320e5c9019a
-ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
+ms.openlocfilehash: d4cca950f63a31f9f57583c62781893bf6e6fbf3
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/07/2020
-ms.locfileid: "48369896"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169787"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -426,7 +426,7 @@ ms.locfileid: "48369896"
 -   **전자 메일 수신 대기:** Outlook은 전자 메일을 큰 소리로 읽을 수 있으며 읽으면서 텍스트를 강조 표시합니다. [자세히 알아보기](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
 -   **미리 알림 누락 방지:** 미리 알림이 작업 중인 창 위에 팝업되도록 설정합니다. 그렇지 않은 경우 Outlook이 주의를 끌기 위해 작업 표시줄에서 깜박입니다. [자세히 알아보기](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
 -   **삭제된 항목을 읽은 상태로 표시:** 이제 삭제하는 모든 메시지를 읽은 상태로 설정할 수 있습니다. 파일 \> 옵션 \> 메일 \> 기타로 이동하여 옵트인합니다.
--   **암호화 옵션:** Office 365 메시지 암호화 사용자는 메시지를 암호화한 후 조직 내부 또는 외부의 누구에게나 보낼 수 있습니다. 암호화 옵션은 메시지를 만들 때 옵션 \> 사용 권한 아래에 표시됩니다. [자세한 정보](https://aka.ms/omeoverview)
+-   **암호화 옵션:** Office 365 메시지 암호화 사용자는 메시지를 암호화한 후 조직 내부 또는 외부의 누구에게나 보낼 수 있습니다. 암호화 옵션은 메시지를 만들 때 옵션 \> 사용 권한 아래에 표시됩니다. [자세한 정보](/microsoft-365/compliance/ome)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 기능 업데이트
 -   **잉크 변환:** 메모와 그림을 낙서한 후, 읽을 수 있는 텍스트와 정돈된 모양으로 세련되게 변환합니다. [자세한 정보](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
@@ -601,7 +601,7 @@ ms.locfileid: "48369896"
 -   들어오는 PSTN 호출에 대한 알림 UI에서 통화 전달 단추를 추가할 수 있습니다.
 -   ChatDefaultClient 및 CallDefaultClient가 Teams로 설정될 경우 통화 및 채팅이 팀에 전달될 것임을 나타내는 알림이 사용자에게 전송될 수 있습니다.
 -   사용자가 모임에 참여하지 않고 비즈니스용 Skype에서 사용되지 않도록 설정되고, 모임 참가 환경이 Native Limited Client로 설정될 때 사용자의 현재 상태를 오프라인으로 표시할 수 있습니다.
--   비즈니스용 Skype가 알림 영역으로 최소화될 때 열기 및 끝내기를 제외한 모든 옵션을 사용하지 않도록 설정할 수 있습니다. 
+-   비즈니스용 Skype가 알림 영역으로 최소화될 때 열기 및 끝내기를 제외한 모든 옵션을 사용하지 않도록 설정할 수 있습니다. 
 -   Aries 휴대폰과 연결되고 RedirectClient가 사용되도록 설정될 경우 새 통화 및 대화가 표시되지 않도록 할 수 있습니다.
 -   날짜 형식이 미국 형식(mm/dd/yy)이 아닐 경우 PChat의 메시지를 날짜별로 검색하지 못하는 문제를 해결합니다.
 -   EnableExternalP2PFileTransfer 정책을 false로 설정하는 경우에도 사용자가 모임에 파일을 첨부할 수 있는 문제를 해결합니다.

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 2018년 9월 이후부터 Mac용 Office 2016 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 91fc351da222e00c442e82c1de3284680db4f76c
-ms.sourcegitcommit: 6da2dfccc63a75bf36d2660b770a62e61e8463be
+ms.openlocfilehash: e6552bcebfbc2247c91ef8fb5fb023c597060aaa
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/07/2020
-ms.locfileid: "48944182"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169677"
 ---
 # <a name="update-history-for-office-2016-for-mac"></a>Mac용 Office 2016 업데이트 기록
 
@@ -24,7 +24,7 @@ Mac용 Office 2016은 소매점 또는 볼륨 라이선스 계약을 통해 일�
 > - Mac용 Office 2016에 대한 지원이 2020년 10월 13일에 종료되었습니다. 아직 최신 버전 업그레이드를 시작하지 않았다면 지금 시작하는 것이 좋습니다. 자세한 내용은 [Mac용 Office 2016 지원 종료](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsupport.office.com%2Farticle%2Fe944a907-bbc8-4be5-918d-a514068d0056%3F&data=02%7C01%7Cv-lislo%40microsoft.com%7C6d81b3b1d6144587d18f08d7dfdff720%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637224025336277242&sdata=RkN3lJa%2BWIbzIk1PC08EhXOuI1RvYuyGYJfaVlYxU2U%3D&reserved=0)를 참조하십시오.
 
 > [!NOTE]
-> - 보안상의 이유로 Microsoft는 SHA-1을 더 이상 사용하지 않습니다. [자세히 알아보기](https://docs.microsoft.com/security-updates/SecurityAdvisories/2017/4010323)
+> - 보안상의 이유로 Microsoft는 SHA-1을 더 이상 사용하지 않습니다. [자세히 알아보기](/security-updates/SecurityAdvisories/2017/4010323)
 > - 2018년 9월 이전 Mac용 Office 2016 릴리스에 대한 릴리스 정보는 [Mac용 Office 릴리스 정보](release-notes-office-for-mac.md)를 참조하세요.  
 > - Office 365 구독에 제공되는 Mac용 Office 버전에 대한 릴리스 정보는 Mac용 Office [릴리스 정보](release-notes-office-for-mac.md) 및 [업데이트 기록](update-history-office-for-mac.md)을 참조하세요.
 > - Mac용 Office 2019는 일회용 구매 제품으로 사용할 수 있는 가장 최신 버전입니다. Mac용 Office 2019 릴리스 정보에 대해서는 Mac용 Office [릴리스 정보](release-notes-office-for-mac.md) 및 [업데이트 기록](update-history-office-for-mac.md)을 참조하세요.
@@ -56,7 +56,7 @@ Mac용 Office 2016 업데이트는 MAU(Microsoft 자동 업데이트)에서 사�
 ### <a name="october-13-2020"></a>2020년 10월 13일
 버전 16.16.27(20101200)
 
-|**애플리케이션**|**다운로드 링크**|**설치 패키지용 SHA256 해시**|
+|**응용 프로그램**|**다운로드 링크**|**설치 패키지용 SHA256 해시**|
 |:-----|:-----|:-----|:-----|
 |Office 제품군(모든 응용 프로그램)<br/>|[설치 패키지](https://go.microsoft.com/fwlink/p/?linkid=871743)<br/>| F108918241DA7BD1442B97E42C6F9C3D9241202461C2F8EA0FC4E8ABB2A1C581 <br/>|
 |Word<br/>|[설치 패키지](https://go.microsoft.com/fwlink/p/?linkid=871748)<br/><br/>[업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.16.20101200_Updater.pkg) <br/> |0C61B7DB7A6A13653270795C085A909AA54668E8DE2F2CA749257CE6AA5957D1<br/>|

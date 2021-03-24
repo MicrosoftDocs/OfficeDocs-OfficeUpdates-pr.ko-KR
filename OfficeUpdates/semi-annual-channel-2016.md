@@ -1,5 +1,5 @@
 ---
-title: 2016 년 반기 채널 릴리스에 대 한 릴리스 정보
+title: 2016의 Semi-Annual 채널 릴리스에 대한 릴리스 정보
 ms.author: anankani
 author: andymosten
 manager: anankani
@@ -9,79 +9,79 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
-description: 2016의 Office 365 ProPlus에 대 한 반기 채널 릴리스에 대 한 릴리스 정보를 IT 전문가에 게 제공 합니다.
-ms.openlocfilehash: 749a68d693a3f962d547bc2f8cb257fba5e70370
-ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
+description: 2016년 Office 365 ProPlus용 Semi-Annual 채널 릴리스에 대한 릴리스 정보 제공
+ms.openlocfilehash: 8b4f956138f5c50f8062978b20c0516e2279fdb1
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/07/2020
-ms.locfileid: "48370146"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169657"
 ---
-# <a name="release-notes-for-semi-annual-channel-releases-in-2016"></a>2016 년 반기 채널 릴리스에 대 한 릴리스 정보
+# <a name="release-notes-for-semi-annual-channel-releases-in-2016"></a>2016의 Semi-Annual 채널 릴리스에 대한 릴리스 정보
 
-이러한 릴리스 정보에서는 2016의 Office 365 ProPlus에 대 한 반기 채널 업데이트에 포함 된 새로운 기능, 보안 업데이트 및 비보안 업데이트에 대 한 정보를 제공 합니다. 
+이러한 릴리스 정보는 2016년 Office 365 ProPlus에 대한 Semi-Annual 채널 업데이트에 포함된 새로운 기능, 보안 업데이트 및 비보안 업데이트에 대한 정보를 제공합니다. 
 > [!NOTE]
 > - 또한 Visio Pro for Office 365 및 Project Online 데스크톱 클라이언트에 대한 새로운 기능, 보안 업데이트 및 비보안 업데이트에 대한 정보도 제공합니다.
 > - 이 정보는 일부 Office 365 계획에 제공되는 Office 버전(예: Business Premium)인 Office 365 Business에도 적용됩니다.
 > - 반기 채널이 2018년 1월 이전에는 지연 채널로 지칭되었습니다.
 
 
-## <a name="version-1605-december-13"></a>버전 1605:12 월 13 일
+## <a name="version-1605-december-13"></a>버전 1605: 12월 13일
 *버전 1605(빌드 6965.2115)*
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
--   Microsoft 보안 공지 [MS16-148](https://technet.microsoft.com/library/security/ms16-148): Microsoft Office용 보안 업데이트(3204068)
+-   Microsoft 보안 공지 [MS16-148](/security-updates/SecurityBulletins/2016/ms16-148): Microsoft Office용 보안 업데이트(3204068)
 
 ### <a name="skype-for-business-non-security-updates"></a>비즈니스용 Skype: 비보안 업데이트
 -   공유자가 타사 RDP 구현을 사용 중일 때 공유 콘텐츠를 확대하면 비즈니스용 Skype가 충돌하는 문제를 해결합니다.
 -   JAWS 화면 읽기 프로그램이 실행 중이고 사용자가 연락처 목록 등의 목록으로 이동하는 경우 비즈니스용 Skype가 충돌하는 문제를 해결합니다.
 
 ### <a name="office-suite-security-updates"></a>Office 제품군: 보안 업데이트
--   Microsoft 보안 공지 [MS16-148](https://technet.microsoft.com/library/security/ms16-148): Microsoft Office용 보안 업데이트(3204068)
+-   Microsoft 보안 공지 [MS16-148](/security-updates/SecurityBulletins/2016/ms16-148): Microsoft Office용 보안 업데이트(3204068)
 
 
 
-## <a name="version-1602-december-13"></a>버전 1602:12 월 13 일
+## <a name="version-1602-december-13"></a>버전 1602: 12월 13일
 *버전 1602(빌드 6741.2098)*
 
-*이는 6 월 2016 일 이후에 사용할 수 있는 지연 채널 릴리스입니다. 이 기능은 계속 지원 되며 2 월 2017 일까 지 보안 업데이트를 받을 수 있습니다. 그러나 이제 새 기능, 보안 업데이트 및 비보안 업데이트를 포함 하는 새로운 지연 된 채널 릴리스 (버전 1605 (빌드 6965.2115))를 사용할 수 있습니다.*
+*2016년 6월부터 사용할 수 있는 지연 채널 릴리스입니다. 2017년 2월까지 계속 지원되고 보안 업데이트가 수신됩니다. 하지만 이제 새로운 지연 채널 릴리스 버전 1605(빌드 6965.2115)를 사용할 수 있습니다. 이 릴리스에는 새로운 기능, 보안 업데이트 및 비보안 업데이트가 포함되어 있습니다.*
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
--   Microsoft 보안 공지 [MS16-148](https://technet.microsoft.com/library/security/ms16-148): Microsoft Office용 보안 업데이트(3204068)
+-   Microsoft 보안 공지 [MS16-148](/security-updates/SecurityBulletins/2016/ms16-148): Microsoft Office용 보안 업데이트(3204068)
 
 ### <a name="office-suite-security-updates"></a>Office 제품군: 보안 업데이트
--   Microsoft 보안 공지 [MS16-148](https://technet.microsoft.com/library/security/ms16-148): Microsoft Office용 보안 업데이트(3204068)
+-   Microsoft 보안 공지 [MS16-148](/security-updates/SecurityBulletins/2016/ms16-148): Microsoft Office용 보안 업데이트(3204068)
 
 
 
-## <a name="version-1605-november-8"></a>버전 1605:11 월 8 일
+## <a name="version-1605-november-8"></a>버전 1605: 11월 8일
 *버전 1605(빌드 6965.2105)*
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
--   Microsoft 보안 공지 [MS16-133](https://technet.microsoft.com/library/security/ms16-133): Microsoft Office용 보안 업데이트(3199168)
+-   Microsoft 보안 공지 [MS16-133](/security-updates/SecurityBulletins/2016/ms16-133): Microsoft Office용 보안 업데이트(3199168)
 
 ### <a name="skype-for-business-non-security-updates"></a>비즈니스용 Skype: 비보안 업데이트
 -   사용자가 Exchange Online으로 마이그레이션된 후 Exchange에 연결하여 대화 기록, 연락처 또는 음성 메일 정보를 가져올 수 없는 문제를 해결합니다.
 
 ### <a name="office-suite-security-updates"></a>Office 제품군: 보안 업데이트
--   Microsoft 보안 공지 [MS16-133](https://technet.microsoft.com/library/security/ms16-133): Microsoft Office용 보안 업데이트(3199168)
+-   Microsoft 보안 공지 [MS16-133](/security-updates/SecurityBulletins/2016/ms16-133): Microsoft Office용 보안 업데이트(3199168)
 
 
 
-## <a name="version-1602-november-8"></a>버전 1602:11 월 8 일
+## <a name="version-1602-november-8"></a>버전 1602: 11월 8일
 *버전 1602(빌드 6741.2088)*
 
-*이는 6 월 2016 일 이후에 사용할 수 있는 지연 채널 릴리스입니다. 이 기능은 계속 지원 되며 2 월 2017 일까 지 보안 업데이트를 받을 수 있습니다. 그러나 이제 새 기능, 보안 업데이트 및 비보안 업데이트를 포함 하는 새로운 지연 된 채널 릴리스 (버전 1605 (빌드 6965.2105))를 사용할 수 있습니다.*
+*2016년 6월부터 사용할 수 있는 지연 채널 릴리스입니다. 2017년 2월까지 계속 지원되고 보안 업데이트가 수신됩니다. 하지만 이제 새로운 지연 채널 릴리스 버전 1605(빌드 6965.2105)를 사용할 수 있습니다. 이 릴리스에는 새로운 기능, 보안 업데이트 및 비보안 업데이트가 포함되어 있습니다.*
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
--   Microsoft 보안 공지 [MS16-133](https://technet.microsoft.com/library/security/ms16-133): Microsoft Office용 보안 업데이트(3199168)
+-   Microsoft 보안 공지 [MS16-133](/security-updates/SecurityBulletins/2016/ms16-133): Microsoft Office용 보안 업데이트(3199168)
 
 ### <a name="office-suite-security-updates"></a>Office 제품군: 보안 업데이트
--   Microsoft 보안 공지 [MS16-133](https://technet.microsoft.com/library/security/ms16-133): Microsoft Office용 보안 업데이트(3199168)
+-   Microsoft 보안 공지 [MS16-133](/security-updates/SecurityBulletins/2016/ms16-133): Microsoft Office용 보안 업데이트(3199168)
 
 
 
-## <a name="version-1605-october-11"></a>버전 1605:10 월 11 일
+## <a name="version-1605-october-11"></a>버전 1605: 10월 11일
 *버전 1605(빌드 6965.2092)*
 
 ### <a name="access-non-security-updates"></a>Access: 비보안 업데이트
@@ -89,16 +89,16 @@ ms.locfileid: "48370146"
 -   데이터 형식에 대한 필드 크기 드롭다운에 값이 표시되지 않아 사용자가 표를 만들거나 수정할 때 숫자 필드의 형식을 지정할 수 없는 문제를 해결합니다.
 
 ### <a name="excel-feature-updates"></a>Excel: 기능 업데이트
--   **향상 된 & 변환을** 제공 합니다. 향상 된 데이터 변환 및 고급 쿼리에 대 한 데이터 연결 기능 [추가 정보](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
+-   **향상된 & 변환을 얻습니다.** 파워 쿼리의 새로운 데이터 변환 및 데이터 연결 기능 [추가 정보](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 -   **추가 데이터 연결:** JSON 및 Azure SQL 데이터 웨어하우스 원본에서 데이터를 쿼리합니다.
 -   **파워 쿼리 개선 사항:** 향상된 새 데이터 변환 및 데이터 연결 기능이 있습니다. [추가 정보](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 -   **큰 주소 인식 지원:** 가능한 경우 32비트 버전의 Excel에서 더 많은 메모리를 사용할 수 있습니다. [추가 정보](https://support.microsoft.com/kb/3160741)
 -   **향상된 파워 쿼리 기능:** 향상된 연결 기능 및 새 변형이 추가되었습니다. [추가 정보](https://blogs.office.com/2016/03/04/march-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
--   Microsoft 보안 공지 [MS16-042](https://technet.microsoft.com/library/security/ms16-042): Microsoft Office용 보안 업데이트(3148775)
--   Microsoft 보안 공지 [MS16-088](https://technet.microsoft.com/library/security/ms16-088): Microsoft Office용 보안 업데이트(3170008)
--   Microsoft 보안 공지 [MS16-107](https://technet.microsoft.com/library/security/ms16-107): Microsoft Office용 보안 업데이트(3185852)
+-   Microsoft 보안 공지 [MS16-042](/security-updates/SecurityBulletins/2016/ms16-042): Microsoft Office용 보안 업데이트(3148775)
+-   Microsoft 보안 공지 [MS16-088](/security-updates/SecurityBulletins/2016/ms16-088): Microsoft Office용 보안 업데이트(3170008)
+-   Microsoft 보안 공지 [MS16-107](/security-updates/SecurityBulletins/2016/ms16-107): Microsoft Office용 보안 업데이트(3185852)
 
 ### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트
 -   백 엔드 서버에 대한 인증을 위해 암호 프롬프트를 요구하는 연결된 ODBC 테이블을 참조하는 Access 쿼리에 연결하려고 할 때 암호 프롬프트 대신 오류가 발생하는 64비트 버전의 Excel 문제를 해결합니다.
@@ -119,7 +119,7 @@ ms.locfileid: "48370146"
 -   FTP 서버의 파일을 열 수 없는 문제를 해결합니다.
 
 ### <a name="onenote-security-updates"></a>OneNote: 보안 업데이트
--   Microsoft 보안 공지 [MS16-099](https://technet.microsoft.com/library/security/ms16-099): Microsoft Office용 보안 업데이트(3177451)
+-   Microsoft 보안 공지 [MS16-099](/security-updates/SecurityBulletins/2016/ms16-099): Microsoft Office용 보안 업데이트(3177451)
 
 ### <a name="onenote-non-security-updates"></a>OneNote: 비보안 업데이트
 -   수동 입력 시 임의 스트로크가 선택된 후 선택 취소할 수 없는 문제를 해결합니다.
@@ -129,9 +129,9 @@ ms.locfileid: "48370146"
 -   **대화에 대한 첨부 파일 목록:** Office 365 그룹의 대화에 대한 모든 첨부 파일을 읽기 창의 오른쪽 위에 있는 드롭 다운 목록에서 사용할 수 있습니다.
 
 ### <a name="outlook-security-updates"></a>Outlook: 보안 업데이트
--   Microsoft 보안 공지 [MS16-088](https://technet.microsoft.com/library/security/ms16-088): Microsoft Office용 보안 업데이트(3170008)
--   Microsoft 보안 공지 [MS16-099](https://technet.microsoft.com/library/security/ms16-099): Microsoft Office용 보안 업데이트(3177451)
--   Microsoft 보안 공지 [MS16-107](https://technet.microsoft.com/library/security/ms16-107): Microsoft Office용 보안 업데이트(3185852)
+-   Microsoft 보안 공지 [MS16-088](/security-updates/SecurityBulletins/2016/ms16-088): Microsoft Office용 보안 업데이트(3170008)
+-   Microsoft 보안 공지 [MS16-099](/security-updates/SecurityBulletins/2016/ms16-099): Microsoft Office용 보안 업데이트(3177451)
+-   Microsoft 보안 공지 [MS16-107](/security-updates/SecurityBulletins/2016/ms16-107): Microsoft Office용 보안 업데이트(3185852)
 
 ### <a name="outlook-non-security-updates"></a>Outlook: 비보안 업데이트
 -   사용자 지정 편지지를 기본 테마로 사용할 경우 새 전자 메일 메시지에 필요 없는 줄 바꿈이 추가되고 글꼴이 Calibri로 설정되는 문제를 해결합니다.
@@ -172,9 +172,9 @@ ms.locfileid: "48370146"
 -   **사전에 모임 첨부 파일을 업로드합니다.** Outlook에서 온라인 모임을 설정할 때 첨부 파일을 추가합니다. [추가 정보](https://support.office.com/article/fd3d9f9d-b448-4754-b813-02e49393f251)
 
 ### <a name="skype-for-business-security-updates"></a>비즈니스용 Skype: 보안 업데이트
--   Microsoft 보안 공지 [MS16-039](https://technet.microsoft.com/library/security/ms16-039): Microsoft 그래픽 구성 요소용 보안 업데이트(3148522)
--   Microsoft 보안 공지 [MS16-097](https://technet.microsoft.com/library/security/ms16-097): Microsoft 그래픽 구성 요소용 보안 업데이트(3177393)
--   Microsoft 보안 공지 [MS16-120](https://technet.microsoft.com/library/security/ms16-120): Microsoft 그래픽 구성 요소용 보안 업데이트(3192884)
+-   Microsoft 보안 공지 [MS16-039](/security-updates/SecurityBulletins/2016/ms16-039): Microsoft 그래픽 구성 요소용 보안 업데이트(3148522)
+-   Microsoft 보안 공지 [MS16-097](/security-updates/SecurityBulletins/2016/ms16-097): Microsoft 그래픽 구성 요소용 보안 업데이트(3177393)
+-   Microsoft 보안 공지 [MS16-120](/security-updates/SecurityBulletins/2016/ms16-120): Microsoft 그래픽 구성 요소용 보안 업데이트(3192884)
 
 ### <a name="skype-for-business-non-security-updates"></a>비즈니스용 Skype: 비보안 업데이트
 -   사용자가 Exchange Server에 대리인을 추가한 후 다시 시작해도 대리인이 비즈니스용 Skype에 표시되지 않는 문제를 해결합니다.
@@ -190,8 +190,8 @@ ms.locfileid: "48370146"
 -   **AutoCAD 성능 향상:** AutoCAD 드로잉 위의 셰이프로 작업할 때 AutoCAD 파일을 더 빠르게 가져올 수 있습니다.
 
 ### <a name="visio-security-updates"></a>Visio: 보안 업데이트
--   Microsoft 보안 공지 [MS16-070](https://technet.microsoft.com/library/security/ms16-070): Microsoft Office용 보안 업데이트(3163610)
--   Microsoft 보안 공지 [MS16-107](https://technet.microsoft.com/library/security/ms16-107): Microsoft Office용 보안 업데이트(3185852)
+-   Microsoft 보안 공지 [MS16-070](/security-updates/SecurityBulletins/2016/ms16-070): Microsoft Office용 보안 업데이트(3163610)
+-   Microsoft 보안 공지 [MS16-107](/security-updates/SecurityBulletins/2016/ms16-107): Microsoft Office용 보안 업데이트(3185852)
 
 ### <a name="visio-non-security-updates"></a>Visio: 비보안 업데이트
 -   한국어 등의 동아시아 키보드를 선택해도 문자를 입력하면 영어로 나타나는 문제를 해결합니다.
@@ -201,11 +201,11 @@ ms.locfileid: "48370146"
 -   **메모 풍선:** 메모 풍선에 표시되는 단추를 사용하여 메모에 쉽게 회신하거나 확인하거나 메모를 다시 열 수 있습니다.
 
 ### <a name="word-security-updates"></a>Word: 보안 업데이트
--   Microsoft 보안 공지 [MS16-054](https://technet.microsoft.com/library/security/ms16-054): Microsoft Office용 보안 업데이트(3155544)
--   Microsoft 보안 공지 [MS16-070](https://technet.microsoft.com/library/security/ms16-070): Microsoft Office용 보안 업데이트(3163610)
--   Microsoft 보안 공지 [MS16-088](https://technet.microsoft.com/library/security/ms16-088): Microsoft Office용 보안 업데이트(3170008)
--   Microsoft 보안 공지 [MS16-099](https://technet.microsoft.com/library/security/ms16-099): Microsoft Office용 보안 업데이트(3177451)
--   Microsoft 보안 공지 [MS16-121](https://technet.microsoft.com/library/security/ms16-121): Microsoft Office용 보안 업데이트(3194063)
+-   Microsoft 보안 공지 [MS16-054](/security-updates/SecurityBulletins/2016/ms16-054): Microsoft Office용 보안 업데이트(3155544)
+-   Microsoft 보안 공지 [MS16-070](/security-updates/SecurityBulletins/2016/ms16-070): Microsoft Office용 보안 업데이트(3163610)
+-   Microsoft 보안 공지 [MS16-088](/security-updates/SecurityBulletins/2016/ms16-088): Microsoft Office용 보안 업데이트(3170008)
+-   Microsoft 보안 공지 [MS16-099](/security-updates/SecurityBulletins/2016/ms16-099): Microsoft Office용 보안 업데이트(3177451)
+-   Microsoft 보안 공지 [MS16-121](/security-updates/SecurityBulletins/2016/ms16-121): Microsoft Office용 보안 업데이트(3194063)
 
 ### <a name="word-non-security-updates"></a>Word: 비보안 업데이트
 -   일본어 IME(입력기)를 사용할 때 DBCS(더블바이트 문자 집합) 기호 문자를 입력하면 글꼴이 Segoe UI 이모지로 변경되는 문제를 해결합니다.
@@ -218,15 +218,15 @@ ms.locfileid: "48370146"
 
 ### <a name="office-suite-feature-updates"></a>Office 제품군: 기능 업데이트
 -   **AD RMS rights policy template setting:** Ensures that the setting for "Grant owner (author) full control right with no expiration" is honored when applied to new Word, Excel, and PowerPoint documents, especially if the setting is disabled. If setting is disabled, the user sees a warning that applying the template might restrict access to the document.
- 
+ 
 
     참고: 이 설정이 구성된 템플릿으로 이미 보호되는 기존 문서는 변경되지 않습니다. 소유자는 해당 문서에 대한 전체 권한을 가지며 만료 기한은 없습니다.
 
 ### <a name="office-suite-security-updates"></a>Office 제품군: 보안 업데이트
--   Microsoft 보안 공지 [MS16-054](https://technet.microsoft.com/library/security/ms16-054): Microsoft Office용 보안 업데이트(3155544)
--   Microsoft 보안 공지 [MS16-070](https://technet.microsoft.com/library/security/ms16-070): Microsoft Office용 보안 업데이트(3163610)
--   Microsoft 보안 공지 [MS16-099](https://technet.microsoft.com/library/security/ms16-099): Microsoft Office용 보안 업데이트(3177451)
--   Microsoft 보안 공지 [MS16-107](https://technet.microsoft.com/library/security/ms16-107): Microsoft Office용 보안 업데이트(3185852)
+-   Microsoft 보안 공지 [MS16-054](/security-updates/SecurityBulletins/2016/ms16-054): Microsoft Office용 보안 업데이트(3155544)
+-   Microsoft 보안 공지 [MS16-070](/security-updates/SecurityBulletins/2016/ms16-070): Microsoft Office용 보안 업데이트(3163610)
+-   Microsoft 보안 공지 [MS16-099](/security-updates/SecurityBulletins/2016/ms16-099): Microsoft Office용 보안 업데이트(3177451)
+-   Microsoft 보안 공지 [MS16-107](/security-updates/SecurityBulletins/2016/ms16-107): Microsoft Office용 보안 업데이트(3185852)
 
 ### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
 -   Office를 업데이트하면 ODBC 레지스트리 항목이 덮어쓰여지고 Microsoft Access 데이터베이스 엔진 재배포 가능 패키지를 다시 설치하거나 복구해야 하는 문제를 수정합니다.
@@ -239,138 +239,138 @@ ms.locfileid: "48370146"
 
 
 
-## <a name="version-1602-october-11"></a>버전 1602:10 월 11 일
+## <a name="version-1602-october-11"></a>버전 1602: 10월 11일
 *버전 1602(빌드 6741.2081)*
 
-*이는 6 월 2016 일 이후에 사용할 수 있는 지연 채널 릴리스입니다. 이 기능은 계속 지원 되며 2 월 2017 일까 지 보안 업데이트를 받을 수 있습니다. 그러나 이제 새 기능, 보안 업데이트 및 비보안 업데이트를 포함 하는 새로운 지연 된 채널 릴리스 (버전 1605 (빌드 6965.2092))를 사용할 수 있습니다.*
+*2016년 6월부터 사용할 수 있는 지연 채널 릴리스입니다. 2017년 2월까지 계속 지원되고 보안 업데이트가 수신됩니다. 하지만 이제 새로운 지연 채널 릴리스 버전 1605(빌드 6965.2092)를 사용할 수 있습니다. 이 릴리스에는 새로운 기능, 보안 업데이트 및 비보안 업데이트가 포함되어 있습니다.*
 
 ### <a name="skype-for-business-security-updates"></a>비즈니스용 Skype: 보안 업데이트
--   Microsoft 보안 공지 [MS16-120](https://technet.microsoft.com/library/security/ms16-120): Microsoft 그래픽 구성 요소용 보안 업데이트(3192884)
+-   Microsoft 보안 공지 [MS16-120](/security-updates/SecurityBulletins/2016/ms16-120): Microsoft 그래픽 구성 요소용 보안 업데이트(3192884)
 
 ### <a name="word-security-updates"></a>Word: 보안 업데이트
--   Microsoft 보안 공지 [MS16-121](https://technet.microsoft.com/library/security/ms16-121): Microsoft Office용 보안 업데이트(3194063)
+-   Microsoft 보안 공지 [MS16-121](/security-updates/SecurityBulletins/2016/ms16-121): Microsoft Office용 보안 업데이트(3194063)
 
 
 
-## <a name="version-1602-september-13"></a>버전 1602:9 월 13 일
+## <a name="version-1602-september-13"></a>버전 1602: 9월 13일
 *버전 1602(빌드 6741.2071)*
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
--   Microsoft 보안 공지 [MS16-107](https://technet.microsoft.com/library/security/ms16-107): Microsoft Office용 보안 업데이트(3185852)
+-   Microsoft 보안 공지 [MS16-107](/security-updates/SecurityBulletins/2016/ms16-107): Microsoft Office용 보안 업데이트(3185852)
 
 ### <a name="outlook-security-updates"></a>Outlook: 보안 업데이트
--   Microsoft 보안 공지 [MS16-107](https://technet.microsoft.com/library/security/ms16-107): Microsoft Office용 보안 업데이트(3185852)
+-   Microsoft 보안 공지 [MS16-107](/security-updates/SecurityBulletins/2016/ms16-107): Microsoft Office용 보안 업데이트(3185852)
 
 ### <a name="skype-for-business-non-security-updates"></a>비즈니스용 Skype: 비보안 업데이트
 -   http 프록시를 사용하도록 구성된 미디어 릴레이 서버를 사용할 때 호출 설정 실패를 야기하는 문제를 해결합니다.
 
 ### <a name="visio-security-updates"></a>Visio: 보안 업데이트
--   Microsoft 보안 공지 [MS16-107](https://technet.microsoft.com/library/security/ms16-107): Microsoft Office용 보안 업데이트(3185852)
+-   Microsoft 보안 공지 [MS16-107](/security-updates/SecurityBulletins/2016/ms16-107): Microsoft Office용 보안 업데이트(3185852)
 
 ### <a name="office-suite-security-updates"></a>Office 제품군: 보안 업데이트
--   Microsoft 보안 공지 [MS16-107](https://technet.microsoft.com/library/security/ms16-107): Microsoft Office용 보안 업데이트(3185852)
+-   Microsoft 보안 공지 [MS16-107](/security-updates/SecurityBulletins/2016/ms16-107): Microsoft Office용 보안 업데이트(3185852)
 
 
 
-## <a name="version-1509-september-13"></a>버전 1509:9 월 13 일
+## <a name="version-1509-september-13"></a>버전 1509: 9월 13일
 *버전 1509(빌드 6001.1090)*
 
-*이는 2 월 2016 이후 출시 된 지연 채널 릴리스입니다. 이 기능은 계속 지원 되며 10 월 2016 일까 지 보안 업데이트를 받을 수 있습니다. 그러나 이제 새 기능, 보안 업데이트 및 비보안 업데이트를 포함 하는 새로운 지연 된 채널 릴리스 (버전 1602 (빌드 6741.2071))를 사용할 수 있습니다.*
+*2016년 2월부터 제공된 지연 채널 릴리스입니다. 2016년 10월까지 계속 지원되고 보안 업데이트가 수신됩니다. 그러나 이제 새로운 지연 채널 릴리스 버전 1602(빌드 6741.2071)를 사용할 수 있습니다. 이 릴리스에는 새로운 기능, 보안 업데이트 및 비보안 업데이트가 포함되어 있습니다.*
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
--   Microsoft 보안 공지 [MS16-107](https://technet.microsoft.com/library/security/ms16-107): Microsoft Office용 보안 업데이트(3185852)
+-   Microsoft 보안 공지 [MS16-107](/security-updates/SecurityBulletins/2016/ms16-107): Microsoft Office용 보안 업데이트(3185852)
 
 ### <a name="outlook-security-updates"></a>Outlook: 보안 업데이트
--   Microsoft 보안 공지 [MS16-107](https://technet.microsoft.com/library/security/ms16-107): Microsoft Office용 보안 업데이트(3185852)
+-   Microsoft 보안 공지 [MS16-107](/security-updates/SecurityBulletins/2016/ms16-107): Microsoft Office용 보안 업데이트(3185852)
 
 ### <a name="office-suite-security-updates"></a>Office 제품군: 보안 업데이트
--   Microsoft 보안 공지 [MS16-107](https://technet.microsoft.com/library/security/ms16-107): Microsoft Office용 보안 업데이트(3185852)
+-   Microsoft 보안 공지 [MS16-107](/security-updates/SecurityBulletins/2016/ms16-107): Microsoft Office용 보안 업데이트(3185852)
 
 
 
-## <a name="version-1602-august-9"></a>버전 1602:8 월 9 일
+## <a name="version-1602-august-9"></a>버전 1602: 8월 9일
 *버전 1602(빌드 6741.2063)*
 
 ### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트
 -   최근 보안 업데이트로 인한 문제를 해결합니다. 이 문제로 인해 신뢰할 수 없는 위치에서 HTML 파일을 열 때 제한된 보기에서 파일을 열 수 있도록 허용하는 대신, 오류가 표시되지 않는 빈 화면으로 Excel이 열립니다.
 
 ### <a name="onenote-security-updates"></a>OneNote: 보안 업데이트
--   Microsoft 보안 공지 [MS16-099](https://technet.microsoft.com/library/security/ms16-099): Microsoft Office용 보안 업데이트(3177451)
+-   Microsoft 보안 공지 [MS16-099](/security-updates/SecurityBulletins/2016/ms16-099): Microsoft Office용 보안 업데이트(3177451)
 
 ### <a name="outlook-security-updates"></a>Outlook: 보안 업데이트
--   Microsoft 보안 공지 [MS16-099](https://technet.microsoft.com/library/security/ms16-099): Microsoft Office용 보안 업데이트(3177451)
+-   Microsoft 보안 공지 [MS16-099](/security-updates/SecurityBulletins/2016/ms16-099): Microsoft Office용 보안 업데이트(3177451)
 
 ### <a name="skype-for-business-security-updates"></a>비즈니스용 Skype: 보안 업데이트
--   Microsoft 보안 공지 [MS16-097](https://technet.microsoft.com/library/security/ms16-097): Microsoft 그래픽 구성 요소용 보안 업데이트(3177393)
+-   Microsoft 보안 공지 [MS16-097](/security-updates/SecurityBulletins/2016/ms16-097): Microsoft 그래픽 구성 요소용 보안 업데이트(3177393)
 
 ### <a name="word-security-updates"></a>Word: 보안 업데이트
--   Microsoft 보안 공지 [MS16-099](https://technet.microsoft.com/library/security/ms16-099): Microsoft Office용 보안 업데이트(3177451)
+-   Microsoft 보안 공지 [MS16-099](/security-updates/SecurityBulletins/2016/ms16-099): Microsoft Office용 보안 업데이트(3177451)
 
 ### <a name="office-suite-security-updates"></a>Office 제품군: 보안 업데이트
--   Microsoft 보안 공지 [MS16-099](https://technet.microsoft.com/library/security/ms16-099): Microsoft Office용 보안 업데이트(3177451)
+-   Microsoft 보안 공지 [MS16-099](/security-updates/SecurityBulletins/2016/ms16-099): Microsoft Office용 보안 업데이트(3177451)
 
 
 
-## <a name="version-1509-august-9"></a>버전 1509:8 월 9 일
+## <a name="version-1509-august-9"></a>버전 1509: 8월 9일
 *버전 1509(빌드 6001.1087)*
 
-*이는 2 월 2016 이후 출시 된 지연 채널 릴리스입니다. 이 기능은 계속 지원 되며 10 월 2016 일까 지 보안 업데이트를 받을 수 있습니다. 그러나 이제 새 기능, 보안 업데이트 및 비보안 업데이트를 포함 하는 새로운 지연 된 채널 릴리스 (버전 1602 (빌드 6741.2063))를 사용할 수 있습니다.*
+*2016년 2월부터 제공된 지연 채널 릴리스입니다. 2016년 10월까지 계속 지원되고 보안 업데이트가 수신됩니다. 하지만 이제 새로운 지연 채널 릴리스 버전 1602(빌드 6741.2063)를 사용할 수 있습니다. 이 릴리스에는 새로운 기능, 보안 업데이트 및 비보안 업데이트가 포함되어 있습니다.*
 
 ### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트
 -   최근 보안 업데이트로 인한 문제를 해결합니다. 이 문제로 인해 신뢰할 수 없는 위치에서 HTML 파일을 열 때 제한된 보기에서 파일을 열 수 있도록 허용하는 대신, 오류가 표시되지 않는 빈 화면으로 Excel이 열립니다.
 
 ### <a name="onenote-security-updates"></a>OneNote: 보안 업데이트
--   Microsoft 보안 공지 [MS16-099](https://technet.microsoft.com/library/security/ms16-099): Microsoft Office용 보안 업데이트(3177451)
+-   Microsoft 보안 공지 [MS16-099](/security-updates/SecurityBulletins/2016/ms16-099): Microsoft Office용 보안 업데이트(3177451)
 
 ### <a name="outlook-security-updates"></a>Outlook: 보안 업데이트
--   Microsoft 보안 공지 [MS16-099](https://technet.microsoft.com/library/security/ms16-099): Microsoft Office용 보안 업데이트(3177451)
+-   Microsoft 보안 공지 [MS16-099](/security-updates/SecurityBulletins/2016/ms16-099): Microsoft Office용 보안 업데이트(3177451)
 
 ### <a name="skype-for-business-security-updates"></a>비즈니스용 Skype: 보안 업데이트
--   Microsoft 보안 공지 [MS16-097](https://technet.microsoft.com/library/security/ms16-097): Microsoft 그래픽 구성 요소용 보안 업데이트(3177393)
+-   Microsoft 보안 공지 [MS16-097](/security-updates/SecurityBulletins/2016/ms16-097): Microsoft 그래픽 구성 요소용 보안 업데이트(3177393)
 
 ### <a name="word-security-updates"></a>Word: 보안 업데이트
--   Microsoft 보안 공지 [MS16-099](https://technet.microsoft.com/library/security/ms16-099): Microsoft Office용 보안 업데이트(3177451)
+-   Microsoft 보안 공지 [MS16-099](/security-updates/SecurityBulletins/2016/ms16-099): Microsoft Office용 보안 업데이트(3177451)
 
 ### <a name="office-suite-security-updates"></a>Office 제품군: 보안 업데이트
--   Microsoft 보안 공지 [MS16-099](https://technet.microsoft.com/library/security/ms16-099): Microsoft Office용 보안 업데이트(3177451)
+-   Microsoft 보안 공지 [MS16-099](/security-updates/SecurityBulletins/2016/ms16-099): Microsoft Office용 보안 업데이트(3177451)
 
 
 
-## <a name="version-1602-july-12"></a>버전 1602:7 월 12 일
+## <a name="version-1602-july-12"></a>버전 1602: 7월 12일
 *버전 1602(빌드 6741.2056)*
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
--   Microsoft 보안 공지 [MS16-088](https://technet.microsoft.com/library/security/ms16-088): Microsoft Office용 보안 업데이트(3170008)
+-   Microsoft 보안 공지 [MS16-088](/security-updates/SecurityBulletins/2016/ms16-088): Microsoft Office용 보안 업데이트(3170008)
 
 ### <a name="outlook-security-updates"></a>Outlook: 보안 업데이트
--   Microsoft 보안 공지 [MS16-088](https://technet.microsoft.com/library/security/ms16-088): Microsoft Office용 보안 업데이트(3170008)
+-   Microsoft 보안 공지 [MS16-088](/security-updates/SecurityBulletins/2016/ms16-088): Microsoft Office용 보안 업데이트(3170008)
 
 ### <a name="word-security-updates"></a>Word: 보안 업데이트
--   Microsoft 보안 공지 [MS16-088](https://technet.microsoft.com/library/security/ms16-088): Microsoft Office용 보안 업데이트(3170008)
+-   Microsoft 보안 공지 [MS16-088](/security-updates/SecurityBulletins/2016/ms16-088): Microsoft Office용 보안 업데이트(3170008)
 
 
 
-## <a name="version-1509-july-12"></a>버전 1509:7 월 12 일
+## <a name="version-1509-july-12"></a>버전 1509: 7월 12일
 *버전 1509(빌드 6001.1085)*
 
-*이는 2 월 2016 이후 출시 된 지연 채널 릴리스입니다. 이 기능은 계속 지원 되며 10 월 2016 일까 지 보안 업데이트를 받을 수 있습니다. 그러나 이제 새 기능, 보안 업데이트 및 비보안 업데이트를 포함 하는 새로운 지연 된 채널 릴리스 (버전 1602 (빌드 6741.2056))를 사용할 수 있습니다.*
+*2016년 2월부터 제공된 지연 채널 릴리스입니다. 2016년 10월까지 계속 지원되고 보안 업데이트가 수신됩니다. 그러나 이제 새로운 지연 채널 릴리스 버전 1602(빌드 6741.2056)를 사용할 수 있습니다. 이 릴리스에는 새로운 기능, 보안 업데이트 및 비보안 업데이트가 포함되어 있습니다.*
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
--   Microsoft 보안 공지 [MS16-088](https://technet.microsoft.com/library/security/ms16-088): Microsoft Office용 보안 업데이트(3170008)
+-   Microsoft 보안 공지 [MS16-088](/security-updates/SecurityBulletins/2016/ms16-088): Microsoft Office용 보안 업데이트(3170008)
 
 ### <a name="outlook-security-updates"></a>Outlook: 보안 업데이트
--   Microsoft 보안 공지 [MS16-088](https://technet.microsoft.com/library/security/ms16-088): Microsoft Office용 보안 업데이트(3170008)
+-   Microsoft 보안 공지 [MS16-088](/security-updates/SecurityBulletins/2016/ms16-088): Microsoft Office용 보안 업데이트(3170008)
 
 ### <a name="word-security-updates"></a>Word: 보안 업데이트
--   Microsoft 보안 공지 [MS16-088](https://technet.microsoft.com/library/security/ms16-088): Microsoft Office용 보안 업데이트(3170008)
+-   Microsoft 보안 공지 [MS16-088](/security-updates/SecurityBulletins/2016/ms16-088): Microsoft Office용 보안 업데이트(3170008)
 
 
 
-## <a name="version-1602-june-14"></a>버전 1602:6 월 14 일
+## <a name="version-1602-june-14"></a>버전 1602: 6월 14일
 *버전 1602(빌드 6741.2048)*
 
 ### <a name="access-security-updates"></a>Access: 보안 업데이트
--   Microsoft 보안 공지 [MS15-116](https://technet.microsoft.com/library/security/ms15-116): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3104540)
+-   Microsoft 보안 공지 [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3104540)
 
 ### <a name="excel-feature-updates"></a>Excel: 기능 업데이트
 -   **Power BI에 게시**: 차트, 범위, 표 등의 통합 문서 항목을 저장한 후 powerbi.com에 게시하고 대시보드 형태의 데이터로 상호 작용합니다. Power BI 구독이 필요합니다. [추가 정보](https://support.office.com/article/7342b49c-6567-4155-a7ac-acdc14d9ad0f)
@@ -383,12 +383,12 @@ ms.locfileid: "48370146"
 -   **BI 템플릿**: Excel의 BI(비즈니스 인텔리전스) 기능을 사용하는 다음의 새 템플릿 3개를 사용할 수 있습니다. [일정 분석](https://support.office.com/article/7edbeb88-99ca-403f-a394-7e957d3d3f40), [주식 분석](https://support.office.com/article/f65e62ac-7af6-4cc6-98f3-f68b147ed65d), [내 현금 흐름](https://support.office.com/article/215e9e2e-5813-41ad-a9ef-a0c0874841bb)이라고 합니다.
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
--   Microsoft 보안 공지 [MS15-099](https://technet.microsoft.com/library/security/ms15-099): Microsoft Office의 취약성으로 인해 원격 코드가 실행될 수 있음(3089664)
--   Microsoft 보안 공지 [MS15-110](https://technet.microsoft.com/library/security/ms15-110): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3096440)
--   Microsoft 보안 공지 [MS15-116](https://technet.microsoft.com/library/security/ms15-116): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3104540)
--   Microsoft 보안 공지 [MS16-004](https://go.microsoft.com/fwlink/?LinkId=717998): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3124585)
--   Microsoft 보안 공지 [MS16-015](https://go.microsoft.com/fwlink/?LinkId=722214): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3134226)
--   Microsoft 보안 공지 [MS16-042](https://technet.microsoft.com/library/security/ms16-042): Microsoft Office용 보안 업데이트(3148775)
+-   Microsoft 보안 공지 [MS15-099](/security-updates/SecurityBulletins/2015/ms15-099): Microsoft Office의 취약성으로 인해 원격 코드가 실행될 수 있음(3089664)
+-   Microsoft 보안 공지 [MS15-110](/security-updates/SecurityBulletins/2015/ms15-110): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3096440)
+-   Microsoft 보안 공지 [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3104540)
+-   Microsoft 보안 공지 [MS16-004](/security-updates/SecurityBulletins/2016/ms16-004): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3124585)
+-   Microsoft 보안 공지 [MS16-015](/security-updates/SecurityBulletins/2016/ms16-015): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3134226)
+-   Microsoft 보안 공지 [MS16-042](/security-updates/SecurityBulletins/2016/ms16-042): Microsoft Office용 보안 업데이트(3148775)
 
 ### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트
 -   통합 문서에 하이퍼링크를 추가하고 이 통합 문서를 Windows 10 컴퓨터에서 저장하는 경우 다음에 통합 문서를 열 때 통합 문서가 제한된 보기에서 제대로 열리지 않는 문제를 해결합니다.
@@ -418,7 +418,7 @@ ms.locfileid: "48370146"
 -   **온라인 비디오 삽입:** 페이지에 YouTube, OfficeMix 또는 Vimeo 비디오를 삽입합니다. [추가 정보](https://support.office.com/article/0a862f29-665c-43a5-9dd8-68009423cf7c)
 
 ### <a name="onenote-security-updates"></a>OneNote: 보안 업데이트
--   Microsoft 보안 공지 [MS15-116](https://technet.microsoft.com/library/security/ms15-116): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3104540)
+-   Microsoft 보안 공지 [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3104540)
 
 ### <a name="onenote-non-security-updates"></a>OneNote: 비보안 업데이트
 -   재생 항목 표시 옵션을 사용할 때 내용 강조 표시가 나타나지 않는 문제를 해결합니다.
@@ -451,7 +451,7 @@ ms.locfileid: "48370146"
 -   보낸 사람 드롭다운의 항목이 고대비 모드에서 완전히 강조 표시되지 않는 문제를 해결합니다.
 -   Shift 키를 누른 채로 클릭하여 여러 첨부 파일을 선택해도 첫 번째 첨부 파일만 선택되는 문제를 해결합니다.
 -   POP3을 사용하도록 구성된 경우 Outlook에서 메일 메시지를 다운로드한 후에 서버의 모든 메일 메시지가 받은 편지함에서 삭제되는 문제를 해결합니다. [이 문제에 대한 자세한 내용](https://support.microsoft.com/kb/3145116)
--   P o p 3을 사용 하도록 구성 된 경우 메일 메시지를 여러 번 다운로드 하 여 중복 항목을 일으키는 문제를 해결 합니다. [이 문제에 대한 자세한 내용](https://support.microsoft.com/kb/3145116)
+-   POP3를 사용하도록 구성된 경우 메일 메시지가 여러 번 다운로드되어 중복 항목이 생성되는 문제를 해결합니다. [이 문제에 대한 자세한 내용](https://support.microsoft.com/kb/3145116)
 -   사용자가 Exchange Server 2010에서 호스트되는 공용 폴더에 액세스하지 못하는 문제를 해결합니다.
 -   높은 dpi 장치와 일반 dpi 모니터 간에 메일을 보내는 경우 이미지가 잘못된 크기로 표시되는 문제를 해결합니다.
 -   메시지 목록에서 스크롤 막대를 끌면 목록의 끝으로 이동하는 문제를 해결합니다.
@@ -465,11 +465,11 @@ ms.locfileid: "48370146"
 -   **모핑 전환:** 슬라이드 간의 전환을 매끄럽게 만들고 프레젠테이션에 모션을 도입해 개념과 정보를 효과적으로 전달합니다.[추가 정보](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
 -   **PowerPoint Designer:** 콘텐츠를 가져오고 선택할 수 있는 다양한 아이디어를 자동으로 생성하는 새 서비스를 통해 슬라이드를 더욱 보기 좋게 만듭니다. [추가 정보](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
 
-    이 서비스에는 인터넷 연결이 필요합니다. 이 기능을 사용 하지 않도록 설정 하려면 [최신 그룹 정책 관리 템플릿 파일을 사용](https://www.microsoft.com/download/details.aspx?id=49030) 하 고 PowerPoint Designer 옵션 설정을 사용 하도록 설정 합니다. 이 정책 설정은 사용자 구성\\관리 템플릿\\Microsoft Office 2016\\도구 | 옵션 | 일반 | 서비스 옵션...\\PowerPoint Designer에서 찾을 수 있습니다.
+    이 서비스에는 인터넷 연결이 필요합니다. 이 기능을 사용하지 않도록 설정하려면 최신 그룹 정책 관리 템플릿 파일을 [사용하여](https://www.microsoft.com/download/details.aspx?id=49030) PowerPoint Designer 옵션 설정을 사용하도록 설정하십시오. 이 정책 설정은 사용자 구성\\관리 템플릿\\Microsoft Office 2016\\도구 | 옵션 | 일반 | 서비스 옵션...\\PowerPoint Designer에서 찾을 수 있습니다.
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint: 보안 업데이트
--   Microsoft 보안 공지 [MS15-116](https://technet.microsoft.com/library/security/ms15-116): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3104540)
--   Microsoft 보안 공지 [MS16-004](https://go.microsoft.com/fwlink/?LinkId=717998): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3124585)
+-   Microsoft 보안 공지 [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3104540)
+-   Microsoft 보안 공지 [MS16-004](/security-updates/SecurityBulletins/2016/ms16-004): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3124585)
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: 비보안 업데이트
 -   충돌 후에 PowerPoint를 다시 시작하고 문서 복구 작업창을 사용하여 복구된 파일을 저장하거나 원래 파일을 열려고 하면 오류 메시지가 표시되는 문제를 해결합니다.
@@ -486,7 +486,7 @@ ms.locfileid: "48370146"
 -   슬라이드 쇼 보기에서 숫자 키 탐색이 작동하지 않는 문제를 해결합니다.
 
 ### <a name="project-security-updates"></a>Project: 보안 업데이트
--   Microsoft 보안 공지 [MS15-116](https://technet.microsoft.com/library/security/ms15-116): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3104540)
+-   Microsoft 보안 공지 [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3104540)
 
 ### <a name="project-non-security-updates"></a>Project: 비보안 업데이트
 -   서식 복사를 사용하여 작업에 서식을 적용하면 화면을 스크롤할 때 다른 위치로 이동하거나 Project가 중단되는 문제를 해결합니다.
@@ -498,13 +498,13 @@ ms.locfileid: "48370146"
 -   프로젝트를 저장 후 닫으면 기준 일정이 삭제되고, 프로젝트를 다시 열 때 Project가 중단되는 문제를 해결합니다.
 
 ### <a name="publisher-security-updates"></a>Publisher: 보안 업데이트
--   Microsoft 보안 공지 [MS15-116](https://technet.microsoft.com/library/security/ms15-116): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3104540)
+-   Microsoft 보안 공지 [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3104540)
 
 ### <a name="skype-for-business-security-updates"></a>비즈니스용 Skype: 보안 업데이트
--   Microsoft 보안 공지 [MS15-116](https://technet.microsoft.com/library/security/ms15-116): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3104540)
--   Microsoft 보안 공지 [MS15-123](https://technet.microsoft.com/library/security/ms15-123): 정보 유출을 해결하기 위한 비즈니스용 Skype 및 Microsoft Lync의 보안 업데이트(3105872)
--   Microsoft 보안 공지 [MS15-128](https://go.microsoft.com/fwlink/?LinkId=690559): 원격 코드 실행을 해결하기 위한 Microsoft Graphics Component의 보안 업데이트(3104503)
--   Microsoft 보안 공지 [MS16-039](https://technet.microsoft.com/library/security/ms16-039): Microsoft 그래픽 구성 요소용 보안 업데이트(3148522)
+-   Microsoft 보안 공지 [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3104540)
+-   Microsoft 보안 공지 [MS15-123](/security-updates/SecurityBulletins/2015/ms15-123): 정보 유출을 해결하기 위한 비즈니스용 Skype 및 Microsoft Lync의 보안 업데이트(3105872)
+-   Microsoft 보안 공지 [MS15-128](/security-updates/SecurityBulletins/2015/ms15-128): 원격 코드 실행을 해결하기 위한 Microsoft Graphics Component의 보안 업데이트(3104503)
+-   Microsoft 보안 공지 [MS16-039](/security-updates/SecurityBulletins/2016/ms16-039): Microsoft 그래픽 구성 요소용 보안 업데이트(3148522)
 
 ### <a name="skype-for-business-non-security-updates"></a>비즈니스용 Skype: 비보안 업데이트
 -   사용자가 회의 기능(예: 화이트보드 또는 메모 공유)을 사용하려고 할 때 오류 메시지를 수신하는 문제를 해결합니다. [이 문제에 대한 자세한 내용](https://support.microsoft.com/kb/3165438)
@@ -527,10 +527,10 @@ ms.locfileid: "48370146"
 -   공유자가 RDP의 화면을 잠근 경우 뷰어에 표시되는 내용을 변경합니다. 이제 뷰어에 RDP 일시 정지 이미지 대신 알림이 표시됩니다.
 
 ### <a name="visio-security-updates"></a>Visio: 보안 업데이트
--   Microsoft 보안 공지 [MS15-081](https://technet.microsoft.com/library/security/ms15-081): Microsoft Office의 취약성으로 인해 원격 코드가 실행될 수 있음(3080790)
--   Microsoft 보안 공지 [MS15-116](https://technet.microsoft.com/library/security/ms15-116): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3104540)
--   Microsoft 보안 공지 [MS16-004](https://go.microsoft.com/fwlink/?LinkId=717998): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3124585)
--   Microsoft 보안 공지 [MS16-070](https://technet.microsoft.com/library/security/ms16-070): Microsoft Office용 보안 업데이트(3163610)
+-   Microsoft 보안 공지 [MS15-081](/security-updates/SecurityBulletins/2015/ms15-081): Microsoft Office의 취약성으로 인해 원격 코드가 실행될 수 있음(3080790)
+-   Microsoft 보안 공지 [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3104540)
+-   Microsoft 보안 공지 [MS16-004](/security-updates/SecurityBulletins/2016/ms16-004): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3124585)
+-   Microsoft 보안 공지 [MS16-070](/security-updates/SecurityBulletins/2016/ms16-070): Microsoft Office용 보안 업데이트(3163610)
 
 ### <a name="visio-non-security-updates"></a>Visio: 비보안 업데이트
 -   Visio에서 AutoCAD 파일이 흐리게 나타나는 문제를 해결합니다.
@@ -540,14 +540,14 @@ ms.locfileid: "48370146"
 -   **문법 검사 옵션:** 프랑스어, 노르웨이어, 덴마크어 문법 검사기에 대한 추가 또는 업데이트 옵션으로, 추가 문법 오류를 강조 표시합니다.
 
 ### <a name="word-security-updates"></a>Word: 보안 업데이트
--   Microsoft 보안 공지 [MS15-081](https://technet.microsoft.com/library/security/ms15-081): Microsoft Office의 취약성으로 인해 원격 코드가 실행될 수 있음(3080790)
--   Microsoft 보안 공지 [MS15-116](https://technet.microsoft.com/library/security/ms15-116): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3104540)
--   Microsoft 보안 공지 [MS15-131](https://go.microsoft.com/fwlink/?LinkId=699410): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3116111)
--   Microsoft 보안 공지 [MS16-004](https://go.microsoft.com/fwlink/?LinkId=717998): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3124585)
--   Microsoft 보안 공지 [MS16-015](https://go.microsoft.com/fwlink/?LinkId=722214): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3134226)
--   Microsoft 보안 공지 [MS16-029](https://technet.microsoft.com/library/security/ms16-029): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3141806)
--   Microsoft 보안 공지 [MS16-054](https://technet.microsoft.com/library/security/ms16-054): Microsoft Office용 보안 업데이트(3155544)
--   Microsoft 보안 공지 [MS16-070](https://technet.microsoft.com/library/security/ms16-070): Microsoft Office용 보안 업데이트(3163610)
+-   Microsoft 보안 공지 [MS15-081](/security-updates/SecurityBulletins/2015/ms15-081): Microsoft Office의 취약성으로 인해 원격 코드가 실행될 수 있음(3080790)
+-   Microsoft 보안 공지 [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3104540)
+-   Microsoft 보안 공지 [MS15-131](/security-updates/SecurityBulletins/2015/ms15-131): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3116111)
+-   Microsoft 보안 공지 [MS16-004](/security-updates/SecurityBulletins/2016/ms16-004): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3124585)
+-   Microsoft 보안 공지 [MS16-015](/security-updates/SecurityBulletins/2016/ms16-015): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3134226)
+-   Microsoft 보안 공지 [MS16-029](/security-updates/SecurityBulletins/2016/ms16-029): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3141806)
+-   Microsoft 보안 공지 [MS16-054](/security-updates/SecurityBulletins/2016/ms16-054): Microsoft Office용 보안 업데이트(3155544)
+-   Microsoft 보안 공지 [MS16-070](/security-updates/SecurityBulletins/2016/ms16-070): Microsoft Office용 보안 업데이트(3163610)
 
 ### <a name="word-non-security-updates"></a>Word: 비보안 업데이트
 -   SmartArt 그래픽을 끌어서 이동한 후 실행 취소 작업을 수행하는 경우 Word가 충돌하거나 SmartArt 그래픽이 비어 있거나 선택 가능하지 않은 문제를 해결합니다.
@@ -582,16 +582,16 @@ ms.locfileid: "48370146"
 -   **파일 \> 열기의 정렬 기능:** Outlook을 제외한 모든 앱의 파일 \> 열기에서 이름 또는 수정된 날짜별로 정렬합니다. Word, Excel 및 PowerPoint의 경우 파일 \> 다른 이름으로 저장에서도 정렬을 사용할 수 있습니다.
 -   **파일 \> 다른 이름으로 저장의 폴더 탐색 기능:** OneDrive 폴더에 대한 Word, Excel, PowerPoint, 비즈니스용 OneDrive 폴더 및 이 PC에서 파일 \> 다른 이름으로 저장의 전체 폴더 탐색을 사용합니다.
 -   **다른 사람 이름으로 보내기 옵션:** Word 또는 PowerPoint의 공유 창에서 문서를 첨부 파일 또는 PDF로 보냅니다.
--   **그림 API 삽입:** 공용 office.js 라이브러리에서 document.setSelectedDataAsync [메서드를 사용해 Word, Excel 또는 PowerPoint에](https://msdn.microsoft.com/library/office/fp142145.aspx) 이미지를 삽입합니다. Word JavaScript API에서는 호스트 전용 메서드 insertInlinePictureFromBase64()를 제공하여 [본문](https://msdn.microsoft.com/library/office/mt598674.aspx), [ContentControl](https://msdn.microsoft.com/library/office/mt598675.aspx), [단락](https://msdn.microsoft.com/library/office/mt598682.aspx)및 범위 개체에 인라인 그림을 설정합니다.
+-   **그림 API 삽입:** 공용 office.js 라이브러리에서 document.setSelectedDataAsync [메서드를 사용해 Word, Excel 또는 PowerPoint에](/javascript/api/office/office.document) 이미지를 삽입합니다. Word JavaScript API에서는 호스트 전용 메서드 insertInlinePictureFromBase64()를 제공하여 [본문](/office/dev/add-ins/reference/overview/word-add-ins-reference-overview), [ContentControl](/javascript/api/word/word.contentcontrol), [단락](/javascript/api/word/word.paragraph)및 범위 개체에 인라인 그림을 설정합니다.
 
 ### <a name="office-suite-security-updates"></a>Office 제품군: 보안 업데이트
--   Microsoft 보안 공지 [MS15-081](https://technet.microsoft.com/library/security/ms15-081): Microsoft Office의 취약성으로 인해 원격 코드가 실행될 수 있음(3080790)
--   Microsoft 보안 공지 [MS15-099](https://technet.microsoft.com/library/security/ms15-099): Microsoft Office의 취약성으로 인해 원격 코드가 실행될 수 있음(3089664)
--   Microsoft 보안 공지 [MS15-116](https://technet.microsoft.com/library/security/ms15-116): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3104540)
--   Microsoft 보안 공지 [MS16-004](https://go.microsoft.com/fwlink/?LinkId=717998): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3124585)
--   Microsoft 보안 공지 [MS16-029](https://technet.microsoft.com/library/security/ms16-029): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3141806)
--   Microsoft 보안 공지 [MS16-054](https://technet.microsoft.com/library/security/ms16-054): Microsoft Office용 보안 업데이트(3155544)
--   Microsoft 보안 공지 [MS16-070](https://technet.microsoft.com/library/security/ms16-070): Microsoft Office용 보안 업데이트(3163610)
+-   Microsoft 보안 공지 [MS15-081](/security-updates/SecurityBulletins/2015/ms15-081): Microsoft Office의 취약성으로 인해 원격 코드가 실행될 수 있음(3080790)
+-   Microsoft 보안 공지 [MS15-099](/security-updates/SecurityBulletins/2015/ms15-099): Microsoft Office의 취약성으로 인해 원격 코드가 실행될 수 있음(3089664)
+-   Microsoft 보안 공지 [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3104540)
+-   Microsoft 보안 공지 [MS16-004](/security-updates/SecurityBulletins/2016/ms16-004): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3124585)
+-   Microsoft 보안 공지 [MS16-029](/security-updates/SecurityBulletins/2016/ms16-029): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3141806)
+-   Microsoft 보안 공지 [MS16-054](/security-updates/SecurityBulletins/2016/ms16-054): Microsoft Office용 보안 업데이트(3155544)
+-   Microsoft 보안 공지 [MS16-070](/security-updates/SecurityBulletins/2016/ms16-070): Microsoft Office용 보안 업데이트(3163610)
 
 ### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
 -   Office 365 ProPlus와 같은 Office 2013 버전의 Office 365 클라이언트에서 Office 2016 버전으로의 Microsoft 시작 업그레이드를 진행하기 전에 일부 Office 2013 라이선스 및 프로그램 설치 정보가 삭제되도록 하는 캐싱 문제를 해결합니다.
@@ -638,75 +638,75 @@ ms.locfileid: "48370146"
 
 
 
-## <a name="version-1509-june-14"></a>버전 1509:6 월 14 일
+## <a name="version-1509-june-14"></a>버전 1509: 6월 14일
 *버전 1509(빌드 6001.1082)*
 
-*이는 2 월 2016 이후 출시 된 지연 채널 릴리스입니다. 이 기능은 계속 지원 되며 10 월 2016 일까 지 보안 업데이트를 받을 수 있습니다. 그러나 이제 새 기능, 보안 업데이트 및 비보안 업데이트를 포함 하는 새로운 지연 된 채널 릴리스 (버전 1602 (빌드 6741.2056))를 사용할 수 있습니다.*
+*2016년 2월부터 제공된 지연 채널 릴리스입니다. 2016년 10월까지 계속 지원되고 보안 업데이트가 수신됩니다. 그러나 이제 새로운 지연 채널 릴리스 버전 1602(빌드 6741.2056)를 사용할 수 있습니다. 이 릴리스에는 새로운 기능, 보안 업데이트 및 비보안 업데이트가 포함되어 있습니다.*
 
 ### <a name="skype-for-business-non-security-updates"></a>비즈니스용 Skype: 비보안 업데이트
 -   사용자가 회의 기능(예: 화이트보드 또는 메모 공유)을 사용하려고 할 때 오류 메시지를 수신하는 문제를 해결합니다. [이 문제에 대한 자세한 내용](https://support.microsoft.com/kb/3165438)
 
 ### <a name="visio-security-updates"></a>Visio: 보안 업데이트
--   Microsoft 보안 공지 [MS16-070](https://technet.microsoft.com/library/security/ms16-070): Microsoft Office용 보안 업데이트(3163610)
+-   Microsoft 보안 공지 [MS16-070](/security-updates/SecurityBulletins/2016/ms16-070): Microsoft Office용 보안 업데이트(3163610)
 
 ### <a name="word-security-updates"></a>Word: 보안 업데이트
--   Microsoft 보안 공지 [MS16-070](https://technet.microsoft.com/library/security/ms16-070): Microsoft Office용 보안 업데이트(3163610)
+-   Microsoft 보안 공지 [MS16-070](/security-updates/SecurityBulletins/2016/ms16-070): Microsoft Office용 보안 업데이트(3163610)
 
 ### <a name="office-suite-security-updates"></a>Office 제품군: 보안 업데이트
--   Microsoft 보안 공지 [MS16-070](https://technet.microsoft.com/library/security/ms16-070): Microsoft Office용 보안 업데이트(3163610)
+-   Microsoft 보안 공지 [MS16-070](/security-updates/SecurityBulletins/2016/ms16-070): Microsoft Office용 보안 업데이트(3163610)
 
 ### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
 -   Office 365 ProPlus와 같은 Office 2013 버전의 Office 365 클라이언트에서 Office 2016 버전으로의 Microsoft 시작 업그레이드를 진행하기 전에 일부 Office 2013 라이선스 및 프로그램 설치 정보가 삭제되도록 하는 캐싱 문제를 해결합니다.
 
 
 
-## <a name="version-1509-may-10"></a>버전 1509:5 월 10 개
+## <a name="version-1509-may-10"></a>버전 1509: 5월 10일
 *버전 1509(빌드 6001.1078)*
 
 ### <a name="word-security-updates"></a>Word: 보안 업데이트
--   Microsoft 보안 공지 [MS16-054](https://technet.microsoft.com/library/security/ms16-054): Microsoft Office용 보안 업데이트(3155544)
+-   Microsoft 보안 공지 [MS16-054](/security-updates/SecurityBulletins/2016/ms16-054): Microsoft Office용 보안 업데이트(3155544)
 
 ### <a name="office-suite-security-updates"></a>Office 제품군: 보안 업데이트
--   Microsoft 보안 공지 [MS16-054](https://technet.microsoft.com/library/security/ms16-054): Microsoft Office용 보안 업데이트(3155544)
+-   Microsoft 보안 공지 [MS16-054](/security-updates/SecurityBulletins/2016/ms16-054): Microsoft Office용 보안 업데이트(3155544)
 
 
 
-## <a name="version-1509-april-12"></a>버전 1509:4 월 12 일
+## <a name="version-1509-april-12"></a>버전 1509: 4월 12일
 *버전 1509(빌드 6001.1073)*
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
--   Microsoft 보안 공지 [MS16-042](https://technet.microsoft.com/library/security/ms16-042): Microsoft Office용 보안 업데이트(3148775)
+-   Microsoft 보안 공지 [MS16-042](/security-updates/SecurityBulletins/2016/ms16-042): Microsoft Office용 보안 업데이트(3148775)
 
 ### <a name="skype-for-business-security-updates"></a>비즈니스용 Skype: 보안 업데이트
--   Microsoft 보안 공지 [MS16-039](https://technet.microsoft.com/library/security/ms16-039): Microsoft 그래픽 구성 요소용 보안 업데이트(3148522)
+-   Microsoft 보안 공지 [MS16-039](/security-updates/SecurityBulletins/2016/ms16-039): Microsoft 그래픽 구성 요소용 보안 업데이트(3148522)
 
 
 
-## <a name="version-1509-march-8"></a>버전 1509:3 월 8 일
+## <a name="version-1509-march-8"></a>버전 1509: 3월 8일
 *버전 1509(빌드 6001.1068)*
 
 ### <a name="word-security-updates"></a>Word: 보안 업데이트
--   Microsoft 보안 공지 [MS16-029](https://technet.microsoft.com/library/security/ms16-029): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3141806)
+-   Microsoft 보안 공지 [MS16-029](/security-updates/SecurityBulletins/2016/ms16-029): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3141806)
 
 ### <a name="office-suite-security-updates"></a>Office 제품군: 보안 업데이트
--   Microsoft 보안 공지 [MS16-029](https://technet.microsoft.com/library/security/ms16-029): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3141806)
+-   Microsoft 보안 공지 [MS16-029](/security-updates/SecurityBulletins/2016/ms16-029): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3141806)
 
 
 
-## <a name="version-1509-february-9"></a>버전 1509:2 월 9 일
+## <a name="version-1509-february-9"></a>버전 1509: 2월 9일
 *버전 1509(빌드 6001.1061)*
 
 이 채널의 첫 번째 릴리스입니다. 이 릴리스에는 2015년 9월 22일자 Office 2016에 포함된 기능과 동일한 기능이 포함되어 있습니다.
 
 ### <a name="access-security-updates"></a>Access: 보안 업데이트
--   Microsoft 보안 공지 MS [15-116](https://technet.microsoft.com/library/security/ms15-116): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3104540)
+-   Microsoft 보안 공지 MS [15-116](/security-updates/SecurityBulletins/2015/ms15-116): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3104540)
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
--   Microsoft 보안 공지 MS [15-099](https://technet.microsoft.com/library/security/ms15-099): Microsoft Office의 취약성으로 인해 원격 코드가 실행될 수 있음(3089664)
--   Microsoft 보안 공지 MS [15-110](https://technet.microsoft.com/library/security/ms15-110): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3096440)
--   Microsoft 보안 공지 MS [15-116](https://technet.microsoft.com/library/security/ms15-116): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3104540)
--   Microsoft 보안 공지 MS [16-004](https://go.microsoft.com/fwlink/?LinkId=717998): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3124585)
--   Microsoft 보안 공지 MS [16-015](https://go.microsoft.com/fwlink/?LinkId=722214): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3134226)
+-   Microsoft 보안 공지 MS [15-099](/security-updates/SecurityBulletins/2015/ms15-099): Microsoft Office의 취약성으로 인해 원격 코드가 실행될 수 있음(3089664)
+-   Microsoft 보안 공지 MS [15-110](/security-updates/SecurityBulletins/2015/ms15-110): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3096440)
+-   Microsoft 보안 공지 MS [15-116](/security-updates/SecurityBulletins/2015/ms15-116): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3104540)
+-   Microsoft 보안 공지 MS [16-004](/security-updates/SecurityBulletins/2016/ms16-004): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3124585)
+-   Microsoft 보안 공지 MS [16-015](/security-updates/SecurityBulletins/2016/ms16-015): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3134226)
 
 ### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트
 -   고대비 모드에서 시트 이름을 바꿀 때 시트 이름을 볼 수 없는 문제를 해결합니다.
@@ -724,7 +724,7 @@ ms.locfileid: "48370146"
 -   파일 \> 계정 \> Excel 정보에서 Dotlesscss의 URL이 업데이트되었습니다.
 
 ### <a name="onenote-security-updates"></a>OneNote: 보안 업데이트
--   Microsoft 보안 공지 MS [15-116](https://technet.microsoft.com/library/security/ms15-116): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3104540)
+-   Microsoft 보안 공지 MS [15-116](/security-updates/SecurityBulletins/2015/ms15-116): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3104540)
 
 ### <a name="onenote-non-security-updates"></a>OneNote: 비보안 업데이트
 -   OneNote Online의 Onenote에서 전자 필기장을 열 때 발생하는 문제를 해결합니다.
@@ -740,8 +740,8 @@ ms.locfileid: "48370146"
 -   전자 메일을 쓰거나 전자 메일에 회신할 때 커서가 잘못된 위치에 있는 문제를 해결합니다.
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint: 보안 업데이트
--   Microsoft 보안 공지 MS [15-116](https://technet.microsoft.com/library/security/ms15-116): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3104540)
--   Microsoft 보안 공지 MS [16-004](https://go.microsoft.com/fwlink/?LinkId=717998): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3124585)
+-   Microsoft 보안 공지 MS [15-116](/security-updates/SecurityBulletins/2015/ms15-116): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3104540)
+-   Microsoft 보안 공지 MS [16-004](/security-updates/SecurityBulletins/2016/ms16-004): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3124585)
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: 비보안 업데이트
 -   슬라이드 쇼 모드를 종료한 후 사용자 화면 토폴로지(예: 중복)가 복원되지 않는 문제를 해결합니다.
@@ -753,19 +753,19 @@ ms.locfileid: "48370146"
 -   Internet Explorer가 보호 모드에 있을 때 SharePoint에서 파일을 열려고 하면 오류 메시지가 표시되는 문제를 해결합니다.
 
 ### <a name="project-security-updates"></a>Project: 보안 업데이트
--   Microsoft 보안 공지 MS [15-116](https://technet.microsoft.com/library/security/ms15-116): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3104540)
+-   Microsoft 보안 공지 MS [15-116](/security-updates/SecurityBulletins/2015/ms15-116): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3104540)
 
 ### <a name="project-non-security-updates"></a>Project: 비보안 업데이트
 -   Internet Explorer 이외의 브라우저에서 엔터프라이즈 일정을 편집하고 프로젝트를 열 때 오류가 발생하는 문제를 해결합니다.
 -   새로운 약속에서 확정된 완료 날짜가 1/1/84로 표시되는 문제를 해결합니다.
 
 ### <a name="publisher-security-updates"></a>Publisher: 보안 업데이트
--   Microsoft 보안 공지 MS [15-116](https://technet.microsoft.com/library/security/ms15-116): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3104540)
+-   Microsoft 보안 공지 MS [15-116](/security-updates/SecurityBulletins/2015/ms15-116): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3104540)
 
 ### <a name="skype-for-business-security-updates"></a>비즈니스용 Skype: 보안 업데이트
--   Microsoft 보안 공지 MS [15-116](https://technet.microsoft.com/library/security/ms15-116): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3104540)
--   Microsoft 보안 공지 MS [15-123](https://technet.microsoft.com/library/security/ms15-123): 정보 유출을 해결하기 위한 비즈니스용 Skype 및 Microsoft Lync의 보안 업데이트(3105872)
--   Microsoft 보안 공지 MS [15-128](https://go.microsoft.com/fwlink/?LinkId=690559): 원격 코드 실행을 해결하기 위한 Microsoft Graphics Component의 보안 업데이트(3104503)
+-   Microsoft 보안 공지 MS [15-116](/security-updates/SecurityBulletins/2015/ms15-116): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3104540)
+-   Microsoft 보안 공지 MS [15-123](/security-updates/SecurityBulletins/2015/ms15-123): 정보 유출을 해결하기 위한 비즈니스용 Skype 및 Microsoft Lync의 보안 업데이트(3105872)
+-   Microsoft 보안 공지 MS [15-128](/security-updates/SecurityBulletins/2015/ms15-128): 원격 코드 실행을 해결하기 위한 Microsoft Graphics Component의 보안 업데이트(3104503)
 
 ### <a name="skype-for-business-non-security-updates"></a>비즈니스용 Skype: 비보안 업데이트
 -   자격 증명을 요구하는 메시지가 표시되지 않고 사용자가 자동으로 로그인되는 문제를 해결합니다.
@@ -783,19 +783,19 @@ ms.locfileid: "48370146"
 -   공유자가 RDP의 화면을 잠근 경우 뷰어에 표시되는 내용을 변경합니다. 이제 뷰어에 RDP 일시 정지 이미지 대신 알림이 표시됩니다.
 
 ### <a name="visio-security-updates"></a>Visio: 보안 업데이트
--   Microsoft 보안 공지 MS [15-081](https://technet.microsoft.com/library/security/ms15-081): Microsoft Office의 취약성으로 인해 원격 코드가 실행될 수 있음(3080790)
--   Microsoft 보안 공지 MS [15-116](https://technet.microsoft.com/library/security/ms15-116): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3104540)
--   Microsoft 보안 공지 MS [16-004](https://go.microsoft.com/fwlink/?LinkId=717998): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3124585)
+-   Microsoft 보안 공지 MS [15-081](/security-updates/SecurityBulletins/2015/ms15-081): Microsoft Office의 취약성으로 인해 원격 코드가 실행될 수 있음(3080790)
+-   Microsoft 보안 공지 MS [15-116](/security-updates/SecurityBulletins/2015/ms15-116): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3104540)
+-   Microsoft 보안 공지 MS [16-004](/security-updates/SecurityBulletins/2016/ms16-004): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3124585)
 
 ### <a name="visio-non-security-updates"></a>Visio: 비보안 업데이트
 -   Visio를 닫았다가 다시 열면 아이콘으로 표시하기 위해 삽입한 Word 개체가 비워지는 문제를 해결합니다.
 
 ### <a name="word-security-updates"></a>Word: 보안 업데이트
--   Microsoft 보안 공지 MS [15-081](https://technet.microsoft.com/library/security/ms15-081): Microsoft Office의 취약성으로 인해 원격 코드가 실행될 수 있음(3080790)
--   Microsoft 보안 공지 MS [15-116](https://technet.microsoft.com/library/security/ms15-116): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3104540)
--   Microsoft 보안 공지 MS [15-131](https://go.microsoft.com/fwlink/?LinkId=699410): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3116111)
--   Microsoft 보안 공지 MS [16-004](https://go.microsoft.com/fwlink/?LinkId=717998): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3124585)
--   Microsoft 보안 공지 MS [16-015](https://go.microsoft.com/fwlink/?LinkId=722214): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3134226)
+-   Microsoft 보안 공지 MS [15-081](/security-updates/SecurityBulletins/2015/ms15-081): Microsoft Office의 취약성으로 인해 원격 코드가 실행될 수 있음(3080790)
+-   Microsoft 보안 공지 MS [15-116](/security-updates/SecurityBulletins/2015/ms15-116): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3104540)
+-   Microsoft 보안 공지 MS [15-131](/security-updates/SecurityBulletins/2015/ms15-131): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3116111)
+-   Microsoft 보안 공지 MS [16-004](/security-updates/SecurityBulletins/2016/ms16-004): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3124585)
+-   Microsoft 보안 공지 MS [16-015](/security-updates/SecurityBulletins/2016/ms16-015): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3134226)
 
 ### <a name="word-non-security-updates"></a>Word: 비보안 업데이트
 -   편지 병합을 사용하는 경우 Excel이 원본일 때 "받는 사람 선택" 대화 상자에 정확한 항목 수가 표시되지 않는 문제를 해결합니다.
@@ -822,10 +822,10 @@ ms.locfileid: "48370146"
 -   개인 정보를 제거하도록 구성된 문서의 실시간 공동 작성에서 문서가 저장될 때마다 변경 사항이 변경 내용 추적으로 표시되는 문제를 해결합니다.
 
 ### <a name="office-suite-security-updates"></a>Office 제품군: 보안 업데이트
--   Microsoft 보안 공지 MS [15-081](https://technet.microsoft.com/library/security/ms15-081): Microsoft Office의 취약성으로 인해 원격 코드가 실행될 수 있음(3080790)
--   Microsoft 보안 공지 MS [15-099](https://technet.microsoft.com/library/security/ms15-099): Microsoft Office의 취약성으로 인해 원격 코드가 실행될 수 있음(3089664)
--   Microsoft 보안 공지 MS [15-116](https://technet.microsoft.com/library/security/ms15-116): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3104540)
--   Microsoft 보안 공지 MS [16-004](https://go.microsoft.com/fwlink/?LinkId=717998): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3124585)
+-   Microsoft 보안 공지 MS [15-081](/security-updates/SecurityBulletins/2015/ms15-081): Microsoft Office의 취약성으로 인해 원격 코드가 실행될 수 있음(3080790)
+-   Microsoft 보안 공지 MS [15-099](/security-updates/SecurityBulletins/2015/ms15-099): Microsoft Office의 취약성으로 인해 원격 코드가 실행될 수 있음(3089664)
+-   Microsoft 보안 공지 MS [15-116](/security-updates/SecurityBulletins/2015/ms15-116): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3104540)
+-   Microsoft 보안 공지 MS [16-004](/security-updates/SecurityBulletins/2016/ms16-004): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3124585)
 
 ### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
 -   VBA에서 줄의 채우기를 자동으로 설정하고 Line.ForeColor.RGB를 쿼리할 경우 실제로 색상이 흰색이 아니어도 항상 흰색 값이 반환되는 문제를 해결합니다.

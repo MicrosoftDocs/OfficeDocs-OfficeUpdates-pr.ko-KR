@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 Apps에 대한 Monthly Enterprise Channel 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 729d6b9bd7d549522386c8f2b11c4d3b6761d117
-ms.sourcegitcommit: 90a9ee90251f072398574a437e5f45d406d617eb
+ms.openlocfilehash: 34bbcb4700033ba2668b9766d053362424dcf356
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50735193"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169727"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>2020년 Monthly Enterprise Channel 릴리스에 대한 릴리스 정보
 
 이러한 릴리스 정보는 기업용 Microsoft 365 Apps, 비즈니스용 Microsoft 365 Apps 및 Project와 Visio용 데스크톱 앱의 구독 버전에 대한 2020년 Monthly Enterprise Channel 업데이트에 포함된 새로운 기능 및 비보안 업데이트 관련 정보를 제공합니다.
 
 > [!IMPORTANT]
-> 당사는 Microsoft 365 앱에 대한 업데이트 채널을 일부 변경하고 있습니다. 여기에는 새 업데이트 채널 추가(월별 엔터프라이즈 채널) 및 기존 업데이트 채널의 이름 변경 등이 포함됩니다. 자세한 내용은 [이 문서를 검토하세요](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> 당사는 Microsoft 365 앱에 대한 업데이트 채널을 일부 변경하고 있습니다. 여기에는 새 업데이트 채널 추가(월별 엔터프라이즈 채널) 및 기존 업데이트 채널의 이름 변경 등이 포함됩니다. 자세한 내용은 [이 문서를 검토하세요](/DeployOffice/update-channels-changes).
 
 [//]: # (제거하지 마세요)
 
@@ -30,7 +30,7 @@ ms.locfileid: "50735193"
 ## <a name="version-2101-march-09"></a>버전 2101: 3월 9일
 *버전 2101(13628.20528)*
 
-[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+[여기](./microsoft365-apps-security-updates.md) 나열된 보안 업데이트
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -89,12 +89,12 @@ ms.locfileid: "50735193"
 ## <a name="version-2012-march-09"></a>버전 2012: 3월 9일
 *버전 2012(빌드 13530.20628)*
 
-[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 보안 업데이트가 나열됩니다.
+[여기](./microsoft365-apps-security-updates.md)에 보안 업데이트가 나열됩니다.
 
 ## <a name="version-2012-february-09"></a>버전 2012: 2월 9일
 *버전 2012(빌드 13530.20528)*
 
-[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+[여기](./microsoft365-apps-security-updates.md) 나열된 보안 업데이트
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -106,7 +106,7 @@ ms.locfileid: "50735193"
 
 - **민감도 레이블 감사 로깅:** 사용자가 문서 및 전자 메일에 민감도 레이블을 적용, 변경 또는 제거하면 Microsoft 365 감사 로그의 관리자가 해당 정보를 사용할 수 있게 됩니다.
 
-- **정부 고객: 문서 및 전자 메일에 민감도 레이블 적용:** 이제 GCC 및 GCC-H 환경의 고객이 민감도 레이블 기능을 사용할 수 있습니다. [자세한 정보](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **정부 고객: 문서 및 전자 메일에 민감도 레이블 적용:** 이제 GCC 및 GCC-H 환경의 고객이 민감도 레이블 기능을 사용할 수 있습니다. [자세한 정보](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="outlook"></a>Outlook
 
@@ -118,7 +118,7 @@ ms.locfileid: "50735193"
 
 - **온라인의 모든 모임:** 일정 설정을 업데이트하여 Teams 모임을 만드는 모든 모임을 기본값으로 설정하면 Teams 모임 옵션을 클릭하는 것을 더 이상 기억할 필요가 없습니다.
 
-- **정부 고객: 문서 및 전자 메일에 민감도 레이블 적용:** 이제 GCC 및 GCC-H 환경의 고객이 민감도 레이블 기능을 사용할 수 있습니다. [자세한 정보](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **정부 고객: 문서 및 전자 메일에 민감도 레이블 적용:** 이제 GCC 및 GCC-H 환경의 고객이 민감도 레이블 기능을 사용할 수 있습니다. [자세한 정보](/microsoft-365/compliance/sensitivity-labels)
 
 - **온라인의 모든 모임:** 일정 설정을 업데이트하여 Teams 모임을 만드는 모든 모임을 기본값으로 설정하면 Teams 모임 옵션을 클릭하는 것을 더 이상 기억할 필요가 없습니다.
 
@@ -126,11 +126,11 @@ ms.locfileid: "50735193"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **SVG 클립보드 지원:** 이제 Office의 SVG 콘텐츠를 타사 앱에 붙여 을 수 있습니다. [자세한 정보](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/svg-content-office-third-party-apps)에서 세부 정보 보기
+- **SVG 클립보드 지원:** 이제 Office의 SVG 콘텐츠를 타사 앱에 붙여 을 수 있습니다. [자세한 정보](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />[블로그 게시물](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)에서 세부 정보 보기
 
 - **민감도 레이블 감사 로깅:** 사용자가 문서 및 전자 메일에 민감도 레이블을 적용, 변경 또는 제거하면 Microsoft 365 감사 로그의 관리자가 해당 정보를 사용할 수 있게 됩니다.
 
-- **정부 고객: 문서 및 전자 메일에 민감도 레이블 적용:** 이제 GCC 및 GCC-H 환경의 고객이 민감도 레이블 기능을 사용할 수 있습니다. [자세한 정보](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **정부 고객: 문서 및 전자 메일에 민감도 레이블 적용:** 이제 GCC 및 GCC-H 환경의 고객이 민감도 레이블 기능을 사용할 수 있습니다. [자세한 정보](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="visio"></a>Visio
 
@@ -142,7 +142,7 @@ ms.locfileid: "50735193"
 
 - **민감도 레이블 감사 로깅:** 사용자가 문서 및 전자 메일에 민감도 레이블을 적용, 변경 또는 제거하면 Microsoft 365 감사 로그의 관리자가 해당 정보를 사용할 수 있게 됩니다.
 
-- **정부 고객: 문서 및 전자 메일에 민감도 레이블 적용:** 이제 GCC 및 GCC-H 환경의 고객이 민감도 레이블 기능을 사용할 수 있습니다. [자세한 정보](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **정부 고객: 문서 및 전자 메일에 민감도 레이블 적용:** 이제 GCC 및 GCC-H 환경의 고객이 민감도 레이블 기능을 사용할 수 있습니다. [자세한 정보](/microsoft-365/compliance/sensitivity-labels)
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -214,12 +214,12 @@ ms.locfileid: "50735193"
 ## <a name="version-2011-february-09"></a>버전 2011: 2월 9일
 *버전 2011(빌드 13426.20658)*
 
-[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 보안 업데이트가 나열됩니다.
+[여기](./microsoft365-apps-security-updates.md)에 보안 업데이트가 나열됩니다.
 
 ## <a name="version-2011-january-12"></a>버전 2011: 1월 12일
 *버전 2011(빌드 13426.20526)*
 
-[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+[여기](./microsoft365-apps-security-updates.md) 나열된 보안 업데이트
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -359,12 +359,12 @@ ms.locfileid: "50735193"
 ## <a name="version-2010-january-12"></a>버전 2010: 1월 12일
 *버전 2010(빌드 13328.20550)*
 
-[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 보안 업데이트가 나열됩니다.
+[여기](./microsoft365-apps-security-updates.md)에 보안 업데이트가 나열됩니다.
 
 ## <a name="version-2010-december-08"></a>버전 2010: 12월 8일
 *버전 2010(빌드 13328.20478)*
 
-[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+[여기](./microsoft365-apps-security-updates.md) 나열된 보안 업데이트
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -372,7 +372,7 @@ ms.locfileid: "50735193"
 ### <a name="feature-updates"></a>기능 업데이트
 ### <a name="excel"></a>Excel
 
-- **데이터 형식을 사용하여 Power BI에서 조직 데이터를 가져오기:** 이제 Power BI의 Excel 데이터 형식을 Office 365/Microsoft 365를 사용하는 조직의 참가자에게 배포합니다. 필요한 정보를 가져오고 손쉽게 새로 고치는 건 일상적인 여러 워크플로에 매우 중요합니다. Microsoft는 Power BI를 사용하여 Excel에서 데이터 형식으로 회사나 조직 정보에 액세스할 수 있도록 하여 스프레드시트에 연결된 정보를 제공하는 기능을 확장합니다. [자세한 정보](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />[블로그 게시물](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)에서 세부 정보를 참조하세요.
+- **데이터 형식을 사용하여 Power BI에서 조직 데이터를 가져오기:** 이제 Power BI의 Excel 데이터 형식을 Office 365/Microsoft 365를 사용하는 조직의 참가자에게 배포합니다. 필요한 정보를 가져오고 손쉽게 새로 고치는 건 일상적인 여러 워크플로에 매우 중요합니다. Microsoft는 Power BI를 사용하여 Excel에서 데이터 형식으로 회사나 조직 정보에 액세스할 수 있도록 하여 스프레드시트에 연결된 정보를 제공하는 기능을 확장합니다. [자세한 정보](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />[블로그 게시물](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)에서 세부 정보 보기
 
 ### <a name="outlook"></a>Outlook
 
@@ -384,7 +384,7 @@ ms.locfileid: "50735193"
 
 - **범위 내에서 애니메이션 GIF 내보내기:** 애니메이션 GIF로 내보낼 때 슬라이드 범위 선택
 
-- **투명한 배경으로 GIF 만들기:** 애니메이션 GIF로 내보낼 때 새 옵션을 사용하여 배경을 투명하게 만들 수 있습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/export-animated-gifs-transparent-backgrounds)에서 세부 정보 보기
+- **투명한 배경으로 GIF 만들기:** 애니메이션 GIF로 내보낼 때 새 옵션을 사용하여 배경을 투명하게 만들 수 있습니다.<br />[블로그 게시물](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)에서 세부 정보 보기
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -394,7 +394,7 @@ ms.locfileid: "50735193"
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
 ### <a name="resolved-issues"></a>해결된 문제
-### <a name="access"></a>액세스
+### <a name="access"></a>Access
 
 - Office가 아닌 응용 프로그램에서 DAO를 사용할 경우 응용 프로그램이 예기치 않게 종료되는 문제를 해결했습니다.
 
@@ -483,12 +483,12 @@ ms.locfileid: "50735193"
 ## <a name="version-2009-december-08"></a>버전 2009: 12월 8일
 *버전 2009(빌드 13231.20620)*
 
-보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 나열되어 있습니다.
+보안 업데이트는 [여기](./microsoft365-apps-security-updates.md)에 나열되어 있습니다.
 
 ## <a name="version-2009-november-10"></a>버전 2009: 11월 10일
 *버전 2009(빌드 13231.20514)*
 
-[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+[여기](./microsoft365-apps-security-updates.md) 나열된 보안 업데이트
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -581,7 +581,7 @@ ms.locfileid: "50735193"
 ## <a name="version-2008-november-10"></a>버전 2008: 11월 10일
 *버전 2008(빌드 13127.20760)*
 
-[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+[여기](./microsoft365-apps-security-updates.md) 나열된 보안 업데이트
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -629,8 +629,7 @@ ms.locfileid: "50735193"
 - 사용자가 대리인에게 편집자 권한을 부여할 수 없게 하는 문제를 해결했습니다.
 
 
-- 선택적으로 연결된 환경이 로딩으로부터 웹 추가 기능을 차단하는 문제를 해결했습니다.<br />
-  [블로그 게시물](https://developer.microsoft.com/ko-KR/office/blogs/outlook-add-ins-and-optional-connected-experiences/)에서 세부 정보 보기
+- 선택적으로 연결된 환경이 로딩으로부터 웹 추가 기능을 차단하는 문제를 해결했습니다.<br />[블로그 게시물](https://developer.microsoft.com/en-us/office/blogs/outlook-add-ins-and-optional-connected-experiences/)에서 세부 정보 보기
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -654,7 +653,7 @@ ms.locfileid: "50735193"
 ## <a name="version-2008-october-13"></a>버전 2008: 10월 13일
 *버전 2008(빌드 13127.20638)*
 
-[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+[여기](./microsoft365-apps-security-updates.md) 나열된 보안 업데이트
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -680,11 +679,11 @@ ms.locfileid: "50735193"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **고정된 폴더에 저장:** 폴더를 고정하면 Office 파일을 더 쉽게 저장할 수 있습니다.  새 파일을 저장할 때 사용할 수 있는 폴더에 대한 추가 제어를 원하다는 사용자 피드백을 받았습니다. 저장 대화 상자에서 폴더를 고정하는 새로운 기능을 제공하게 되어 기쁘게 생각합니다. 이 새로운 기능을 통해 Word, Excel 및 PowerPoint 파일을 더 쉽게 저장할 수 있습니다. [자세한 정보](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />[블로그 게시물](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)에서 세부 정보를 참조하세요.
+- **고정된 폴더에 저장:** 폴더를 고정하면 Office 파일을 더 쉽게 저장할 수 있습니다.  새 파일을 저장할 때 사용할 수 있는 폴더에 대한 추가 제어를 원하다는 사용자 피드백을 받았습니다. 저장 대화 상자에서 폴더를 고정하는 새로운 기능을 제공하게 되어 기쁘게 생각합니다. 이 새로운 기능을 통해 Word, Excel 및 PowerPoint 파일을 더 쉽게 저장할 수 있습니다. [자세한 정보](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />[블로그 게시물](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)에서 세부 정보 보기
 
 ### <a name="word"></a>Word
 
-- **고정된 폴더에 저장:** 폴더를 고정하면 Office 파일을 더 쉽게 저장할 수 있습니다.  새 파일을 저장할 때 사용할 수 있는 폴더에 대한 추가 제어를 원하다는 사용자 피드백을 받았습니다. 저장 대화 상자에서 폴더를 고정하는 새로운 기능을 제공하게 되어 기쁘게 생각합니다. 이 새로운 기능을 통해 Word, Excel 및 PowerPoint 파일을 더 쉽게 저장할 수 있습니다. [자세한 정보](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />[블로그 게시물](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)에서 세부 정보를 참조하세요.
+- **고정된 폴더에 저장:** 폴더를 고정하면 Office 파일을 더 쉽게 저장할 수 있습니다.  새 파일을 저장할 때 사용할 수 있는 폴더에 대한 추가 제어를 원하다는 사용자 피드백을 받았습니다. 저장 대화 상자에서 폴더를 고정하는 새로운 기능을 제공하게 되어 기쁘게 생각합니다. 이 새로운 기능을 통해 Word, Excel 및 PowerPoint 파일을 더 쉽게 저장할 수 있습니다. [자세한 정보](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />[블로그 게시물](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)에서 세부 정보 보기
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -843,7 +842,7 @@ ms.locfileid: "50735193"
 ## <a name="version-2007-october-13"></a>버전 2007: 10월 13일
 *버전 2007(빌드 13029.20708)*
 
-[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+[여기](./microsoft365-apps-security-updates.md) 나열된 보안 업데이트
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -860,7 +859,7 @@ ms.locfileid: "50735193"
 ## <a name="version-2007-september-08"></a>버전 2007: 9월 8일
 *버전 2007(빌드 13029.20534)*
 
-[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+[여기](./microsoft365-apps-security-updates.md) 나열된 보안 업데이트
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -969,12 +968,12 @@ ms.locfileid: "50735193"
 ## <a name="version-2006-september-08"></a>버전 2006: 9월 8일
 *버전 2006(빌드 13001.20648)*
 
-[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+[여기](./microsoft365-apps-security-updates.md) 나열된 보안 업데이트
 
 ## <a name="version-2006-august-11"></a>버전 2006: 8월 11일
 *버전 2006(빌드 13001.20520)*
 
-[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+[여기](./microsoft365-apps-security-updates.md) 나열된 보안 업데이트
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
@@ -1077,12 +1076,12 @@ ms.locfileid: "50735193"
 ## <a name="version-2005-august-11"></a>버전 2005: 8월 11일
 *버전 2005(빌드 12827.20656)*
 
-나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+나열된 보안 업데이트는 [여기](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-2005-july-14"></a>버전 2005: 7월 14일
 *버전 2005(빌드 12827.20538)*
 
-[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 보안 업데이트가 나열됩니다.
+[여기](./microsoft365-apps-security-updates.md)에 보안 업데이트가 나열됩니다.
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -1180,12 +1179,12 @@ ms.locfileid: "50735193"
 ## <a name="version-2004-july-14"></a>버전 2004: 7월 14일
 *버전 2004(빌드 12730.20602)*
 
-[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 보안 업데이트가 나열됩니다.
+[여기](./microsoft365-apps-security-updates.md)에 보안 업데이트가 나열됩니다.
 
 ## <a name="version-2004-june-09"></a>버전 2004: 6월 9일
 *버전 2004(빌드 12730.20430)*
 
-[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+[여기](./microsoft365-apps-security-updates.md) 나열된 보안 업데이트
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -1201,7 +1200,7 @@ ms.locfileid: "50735193"
 
 - **Facebook 커넥터 지원 종료:** 2020년 4월부터는 Excel에서 Facebook 커넥터를 사용하는 외부 데이터 연결을 더 이상 지원하지 않습니다.
 
-- **통합 문서에 활기를 불어넣어줄 새로운 이미지:** 수천 개의 무료 스톡 이미지, 아이콘 및 스티커를 통합 문서에서 사용할 수 있습니다. 시작 하려면 삽입 > 사진 > 스톡 이미지로 이동합니다. [자세한 정보](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/06/premium-creative-content/)에서 세부 정보를 참조하세요.
+- **통합 문서에 활기를 불어넣어줄 새로운 이미지:** 수천 개의 무료 스톡 이미지, 아이콘 및 스티커를 통합 문서에서 사용할 수 있습니다. 시작 하려면 삽입 > 사진 > 스톡 이미지로 이동합니다. [자세한 정보](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/06/premium-creative-content/)에서 세부 정보 보기
 
 ### <a name="outlook"></a>Outlook
 
@@ -1211,7 +1210,7 @@ ms.locfileid: "50735193"
 
 - **일정 모양 변경:** 일정을 더욱 쉽게 훑어볼 수 있도록 하는 시각적 업데이트를 참조하세요. [자세한 정보](https://support.office.com/article/1c04e438-d84a-44fc-a404-170c9007e65c)<br />[블로그 게시물](https://blog-insider.office.com/2020/03/13/outlooks-calendar-gets-a-refresh/)에서 세부 정보 보기
 
-- **메시지에 활기를 불어넣어줄 새로운 이미지:** 수천 개의 무료 스톡 이미지, 아이콘 및 스티커를 전자 메일 메시지에서 사용할 수 있습니다. 시작 하려면 삽입 > 사진 > 스톡 이미지로 이동합니다. [자세한 정보](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/06/premium-creative-content/)에서 세부 정보를 참조하세요.
+- **메시지에 활기를 불어넣어줄 새로운 이미지:** 수천 개의 무료 스톡 이미지, 아이콘 및 스티커를 전자 메일 메시지에서 사용할 수 있습니다. 시작 하려면 삽입 > 사진 > 스톡 이미지로 이동합니다. [자세한 정보](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/06/premium-creative-content/)에서 세부 정보 보기
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -1219,7 +1218,7 @@ ms.locfileid: "50735193"
 
 - **발표하는 동안 변경 내용 동기화:** 프레젠테이션이 슬라이드 쇼 모드에 있더라도 내용이 변경될 때마다 동기화됩니다. [자세한 정보](https://support.office.com/article/5a2921a9-97d4-436b-b0cd-295dfe2236bb)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/)에서 세부 정보 보기
 
-- **슬라이드에 활기를 불어넣어줄 새로운 이미지:** 수천 개의 무료 스톡 이미지, 아이콘 및 스티커를 프레젠테이션에서 사용할 수 있습니다. 시작 하려면 삽입 > 사진 > 스톡 이미지로 이동합니다. [자세한 정보](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/06/premium-creative-content/)에서 세부 정보를 참조하세요.
+- **슬라이드에 활기를 불어넣어줄 새로운 이미지:** 수천 개의 무료 스톡 이미지, 아이콘 및 스티커를 프레젠테이션에서 사용할 수 있습니다. 시작 하려면 삽입 > 사진 > 스톡 이미지로 이동합니다. [자세한 정보](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/06/premium-creative-content/)에서 세부 정보 보기
 
 ### <a name="word"></a>Word
 
@@ -1227,7 +1226,7 @@ ms.locfileid: "50735193"
 
 - **완벽한 색상 선택:** 16진 색상 코드를 사용하여 글꼴, 텍스트 강조 등 원하는 색상을 정확하게 선택하세요.<br />[블로그 게시물](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)에서 세부 정보를 참조하세요.
 
-- **문서에 활기를 불어넣어줄 새로운 이미지:** 수천 개의 무료 스톡 이미지, 아이콘 및 스티커를 문서에서 사용할 수 있습니다. 시작 하려면 삽입 > 사진 > 스톡 이미지로 이동합니다. [자세한 정보](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/06/premium-creative-content/)에서 세부 정보를 참조하세요.
+- **문서에 활기를 불어넣어줄 새로운 이미지:** 수천 개의 무료 스톡 이미지, 아이콘 및 스티커를 문서에서 사용할 수 있습니다. 시작 하려면 삽입 > 사진 > 스톡 이미지로 이동합니다. [자세한 정보](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/06/premium-creative-content/)에서 세부 정보 보기
 
 ### <a name="office-suite"></a>Office 제품군
 
@@ -1290,7 +1289,7 @@ ms.locfileid: "50735193"
 ## <a name="version-2003-june-09"></a>버전 2003: 6월 9일
 *버전 2003(빌드 12624.20708)*
 
-[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+[여기](./microsoft365-apps-security-updates.md) 나열된 보안 업데이트
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -1305,7 +1304,7 @@ ms.locfileid: "50735193"
 ## <a name="version-2003-may-12"></a>버전 2003: 5월 12일
 *버전 2003 (빌드 12624.20588)*
 
-나열된 보안 업데이트는 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+나열된 보안 업데이트는 [여기](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 각 업데이트 채널에 대한 Microsoft 365 앱 업데이트의 대략적인 다운로드 크기 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 3bb4ff52e0a13b05b6e698ae87e59576fb7bfdc9
-ms.sourcegitcommit: 5b34305f450f8a1e8acec302030f2e02aacefd56
+ms.openlocfilehash: 9b2cc9b894417da7e161b97fd273956167e7a2b3
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50902163"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169856"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 앱 업데이트의 다운로드 크기
 
@@ -26,8 +26,8 @@ Microsoft의 목표는 기업 고객이 네트워크 대역폭 사용률을 계�
 
 
 > [!IMPORTANT]
-> - 당사는 Microsoft 365 앱에 대한 업데이트 채널을 일부 변경하고 있습니다. 여기에는 새 업데이트 채널 추가(월별 엔터프라이즈 채널) 및 기존 업데이트 채널의 이름 변경 등이 포함됩니다. 자세한 내용은 [이 문서를 검토하세요](https://go.microsoft.com/fwlink/p/?linkid=2127441).
-> - Office 365 ProPlus는 2004 버전부터 엔터프라이즈용 Microsoft 365 앱으로 이름이 변경됩니다. 자세한 내용은 [이 문서를 검토하세요](https://go.microsoft.com/fwlink/p/?linkid=2123420). 문서에서는 일반적으로 Microsoft 365 앱이라고 지칭합니다.
+> - 당사는 Microsoft 365 앱에 대한 업데이트 채널을 일부 변경하고 있습니다. 여기에는 새 업데이트 채널 추가(월별 엔터프라이즈 채널) 및 기존 업데이트 채널의 이름 변경 등이 포함됩니다. 자세한 내용은 [이 문서를 검토하세요](/DeployOffice/update-channels-changes).
+> - Office 365 ProPlus는 2004 버전부터 엔터프라이즈용 Microsoft 365 앱으로 이름이 변경됩니다. 자세한 내용은 [이 문서를 검토하세요](/deployoffice/name-change). 문서에서는 일반적으로 Microsoft 365 앱이라고 지칭합니다.
 
 
 > [!NOTE]
@@ -638,9 +638,9 @@ Microsoft의 목표는 기업 고객이 네트워크 대역폭 사용률을 계�
 
 ## <a name="related-topics"></a>관련 항목
 
-- [Microsoft 365 앱의 업데이트 채널의 개요](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
+- [Microsoft 365 앱의 업데이트 채널 개요](/DeployOffice/overview-of-update-channels-for-office-365-proplus)
 
-- [Microsoft 365 앱의 업데이트 기록(날짜순)](update-history-office365-proplus-by-date.md)
+- [Microsoft 365 앱의 업데이트 기록(날짜순)](./update-history-microsoft365-apps-by-date.md)
 
 > [!NOTE]
 > Office를 사용하는 데 발생한 문제에 대해 도움이 필요하면 [Microsoft의 Answers 포럼](https://answers.microsoft.com/) 또는 [기술 커뮤니티](https://techcommunity.microsoft.com/)에 질문을 게시하거나 [지원 서비스](https://support.microsoft.com/contactus)에 문의할 수 있습니다.
