@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 앱에 대한 반기 채널(대상 지정) 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: a99f40b0eb74c4a97ae4aeb77af7d3632d5b563c
-ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
+ms.openlocfilehash: 6fdea7518be03546ba6bd761c88634da3b29d071
+ms.sourcegitcommit: 63637fc22e4a2df0000612e8b4d51a29af7fb6e5
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51170217"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51196737"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>반기 기업 채널(프리뷰)의 릴리스 정보
 
@@ -80,8 +80,6 @@ ms.locfileid: "51170217"
 ### <a name="word"></a>Word
 
 - **잉크 도구 상자의 올가미 및 지우개:** 그리기 도구를 사용할 때 잉크 도구 상자에서 올가미와 지우개를 사용할 수 있습니다.<br />[블로그 게시물](https://blog-insider.office.com/2020/04/10/meet-the-new-action-pen/)에서 세부 정보 보기
-
-- **도구를 편리하게 유지:** 그리기 도구 상자에서 텍스트에 잉크 제스처를 추가할 수 있도록 해주는 지능형 펜을 찾습니다. [자세한 정보](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/10/meet-the-new-action-pen/)에서 세부 정보 보기
 
 - **고정된 폴더에 저장:** 폴더를 고정하면 Office 파일을 더 쉽게 저장할 수 있습니다.  새 파일을 저장할 때 사용할 수 있는 폴더에 대한 추가 제어를 원하다는 사용자 피드백을 받았습니다. 저장 대화 상자에서 폴더를 고정하는 새로운 기능을 제공하게 되어 기쁘게 생각합니다. 이 새로운 기능을 통해 Word, Excel 및 PowerPoint 파일을 더 쉽게 저장할 수 있습니다. [자세한 정보](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />[블로그 게시물](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)에서 세부 정보 보기
 
