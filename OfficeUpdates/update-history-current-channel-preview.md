@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 월간 채널 업데이트 내역 제공 Windows 데스크톱의 대상 릴리스
-ms.openlocfilehash: e897f5cbe2f4533b4a357ece4a4c412f5f63ba01
-ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
+ms.openlocfilehash: 578a6940c75add13c10463dca8bbea7e38cf6f76
+ms.sourcegitcommit: 89f767ecc31abe81febd10a4c059cbaa168c6f0e
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51170237"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51408061"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Windows Office 현재 채널(미리 보기)에 업데이트 기록
 
@@ -24,7 +24,7 @@ ms.locfileid: "51170237"
 ## <a name="office-current-channel-preview-versions-and-builds"></a>Office 현재 채널(미리 보기) 버전 및 빌드
 
 이전에 이후 참가자라고 불렸던 현재 채널(미리보기) 레벨에 등록한 경우 새로운 Office 기능 업데이트를 약 한달에 한번 그리고 그 외 중요한 수정 및 보안 보조 빌드를 얻을 수 있습니다. 다음 목록에서는 가장 최신의 현재 채널(미리보기) 버전 및 빌드를 보여줍니다(**가장 최신 릴리스된 빌드가 먼저 보여집니다**). 새 빌드에는 이전 빌드에 포함된 모든 업데이트가 포함됩니다.
-릴리스 정보를 찾으려면 [참조](./current-channel-preview.md) 하세요. [Office 참가자의 새로운 기능](https://insider.office.com/en-us/releasenotes/windows/slow)을 참조하세요.
+릴리스 정보를 찾으려면 [참조](./current-channel-preview.md) 하세요. [Office 참가자의 새로운 기능](https://insider.office.com/ko-KR/releasenotes/windows/slow)을 참조하세요.
 
 
 > [!IMPORTANT]
@@ -38,6 +38,9 @@ ms.locfileid: "51170237"
 
 
 [//]: # (제거하지 마세요)
+
+**2021년 3월 28일**<br/>
+버전 2103(빌드 13901.20306)<br/>
 
 **2021년 3월 22일**<br/>
 버전 2103(빌드 13901.20230)<br/>

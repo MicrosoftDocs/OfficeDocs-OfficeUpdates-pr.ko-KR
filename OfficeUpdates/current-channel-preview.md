@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 이후 참가자 대상 그룹에게 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 9034604f61ae18eaa07a1467814fdf160b4f46f6
-ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
+ms.openlocfilehash: cdc35c55ebcd8526363f524f22d5b8a9ab93d7c6
+ms.sourcegitcommit: 89f767ecc31abe81febd10a4c059cbaa168c6f0e
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51169987"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51408051"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 현재 채널(미리 보기)에 대한 릴리스 정보
 
@@ -28,6 +28,23 @@ ms.locfileid: "51169987"
 > - Microsoft Teams 기능은 릴리스 주기가 보다 빈번하기 때문에 최근에 릴리스된 현재 채널 미리 보기와 다를 수 있습니다.
 
 [//]: # (제거하지 마세요)
+
+## <a name="version-2103-march-28"></a>버전 2103: 3월 28일
+*버전 2103(빌드 13901.20306)*
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="outlook"></a>Outlook
+
+- 폴더 계층 구조 변경을 동기화할 때 일부 사용자에게 Outlook이 예기치 않게 닫히는 문제가 수정되었습니다.
+
+
+- 일부 사용자가 탐색 창에서 기본 및 보조 일정으로 전환하는 문제가 수정되었습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
 
 ## <a name="version-2103-march-22"></a>버전 2103: 3월 22일
 *버전 2103(빌드 13901.20230)*
@@ -660,7 +677,7 @@ ms.locfileid: "51169987"
 ### <a name="feature-updates"></a>기능 업데이트
 ### <a name="outlook"></a>Outlook
 
-- **한 번의 클릭으로 작문 제안:** 한 번의 클릭으로 작문 제안을 적용합니다. 편집기는 맞춤법과 문법을 수정하며 글을 다듬는 데 필요한 아이디어를 제공합니다. [자세한 정보](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />[블로그 게시물](https://insider.office.com/en-us/blog/microsoft-editor-gets-an-upgrade)에서 세부 정보 보기
+- **한 번의 클릭으로 작문 제안:** 한 번의 클릭으로 작문 제안을 적용합니다. 편집기는 맞춤법과 문법을 수정하며 글을 다듬는 데 필요한 아이디어를 제공합니다. [자세한 정보](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/microsoft-editor-gets-an-upgrade)에서 세부 정보 보기
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -1385,9 +1402,9 @@ ms.locfileid: "51169987"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **SVG 클립보드 지원:** 이제 Office의 SVG 콘텐츠를 타사 앱에 붙여 을 수 있습니다. [자세한 정보](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />[블로그 게시물](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)에서 세부 정보 보기
+- **SVG 클립보드 지원:** 이제 Office의 SVG 콘텐츠를 타사 앱에 붙여 을 수 있습니다. [자세한 정보](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/svg-content-office-third-party-apps)에서 세부 정보 보기
 
-- **투명한 배경으로 GIF 만들기:** 애니메이션 GIF로 내보낼 때 새 옵션을 사용하여 배경을 투명하게 만들 수 있습니다.<br />[블로그 게시물](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)에서 세부 정보를 확인하세요.
+- **투명한 배경으로 GIF 만들기:** 애니메이션 GIF로 내보낼 때 새 옵션을 사용하여 배경을 투명하게 만들 수 있습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/export-animated-gifs-transparent-backgrounds)에서 세부 정보를 확인하세요.
 
 - **범위 내에서 애니메이션 GIF 내보내기:** 애니메이션 GIF로 내보낼 때 슬라이드 범위 선택
 
@@ -1481,7 +1498,7 @@ ms.locfileid: "51169987"
 ### <a name="feature-updates"></a>기능 업데이트
 ### <a name="outlook"></a>Outlook
 
-- **메시지 작성 시간 절약:** Outlook에서 메시지를 신속하게 작성하는 데 도움이 되는 쓰기 제안을 표시합니다. 제안을 수락하려면 탭 키를 사용하면 됩니다.<br />[블로그 게시물](https://insider.office.com/en-us/blog/text-predictions-in-word-outlook)에서 세부 정보 보기
+- **메시지 작성 시간 절약:** Outlook에서 메시지를 신속하게 작성하는 데 도움이 되는 쓰기 제안을 표시합니다. 제안을 수락하려면 탭 키를 사용하면 됩니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/text-predictions-in-word-outlook)에서 세부 정보 보기
 
 - **기본 제공 변환기로 언어 장벽 부수기:** 번역을 위한 추가 기능이 더 이상 필요하지 않습니다. 메시지에서, 마우스 오른쪽 단추를 클릭하여 특정 단어, 구 또는 전체 메시지를 번역할 수 있습니다. [자세한 정보](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f)
 
@@ -1687,7 +1704,7 @@ ms.locfileid: "51169987"
 
 ### <a name="outlook"></a>Outlook
 
-- **문법 검사를 도움:** Outlook에서 사용자가 입력할 때 문법 오류를 표시하여 클릭 한 번으로 제안을 적용할 수 있습니다. <br />[블로그 게시물](https://insider.office.com/en-us/blog/grammar-and-style-suggestions-available-in-outlook)에서 세부 정보 보기
+- **문법 검사를 도움:** Outlook에서 사용자가 입력할 때 문법 오류를 표시하여 클릭 한 번으로 제안을 적용할 수 있습니다. <br />[블로그 게시물](https://insider.office.com/ko-KR/blog/grammar-and-style-suggestions-available-in-outlook)에서 세부 정보 보기
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -1751,7 +1768,7 @@ ms.locfileid: "51169987"
 
 ### <a name="excel"></a>Excel
 
-- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
+- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
 
 - **Office 테마를 자동으로 전환:** Office는 Windows 10 테마 설정에 맞게 테마를 자동으로 전환할 수 있습니다. 파일 > 옵션으로 이동한 다음 Office 테마 옆에 있는 "시스템 설정 사용"을 선택합니다. [자세한 정보](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -1763,13 +1780,13 @@ ms.locfileid: "51169987"
 
 - **메시지 소유자별 대화 삭제:** 소유자별로 메시지를 삭제할 수 있도록 하는 기능입니다.
 
-- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
+- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
 
 - **Office 테마를 자동으로 전환:** Office는 Windows 10 테마 설정에 맞게 테마를 자동으로 전환할 수 있습니다. 파일 > 옵션으로 이동한 다음 Office 테마 옆에 있는 "시스템 설정 사용"을 선택합니다. [자세한 정보](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
+- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
 
 - **Office 테마를 자동으로 전환:** Office는 Windows 10 테마 설정에 맞게 테마를 자동으로 전환할 수 있습니다. 파일 > 옵션으로 이동한 다음 Office 테마 옆에 있는 "시스템 설정 사용"을 선택합니다. [자세한 정보](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -1787,7 +1804,7 @@ ms.locfileid: "51169987"
 
 ### <a name="word"></a>Word
 
-- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
+- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
 
 - **Office 테마를 자동으로 전환:** Office는 Windows 10 테마 설정에 맞게 테마를 자동으로 전환할 수 있습니다. 파일 > 옵션으로 이동한 다음 Office 테마 옆에 있는 "시스템 설정 사용"을 선택합니다. [자세한 정보](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
