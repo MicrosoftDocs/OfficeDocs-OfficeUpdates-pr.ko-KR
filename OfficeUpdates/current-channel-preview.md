@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 이후 참가자 대상 그룹에게 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: cdc35c55ebcd8526363f524f22d5b8a9ab93d7c6
-ms.sourcegitcommit: 89f767ecc31abe81febd10a4c059cbaa168c6f0e
+ms.openlocfilehash: 5bd71abc819924012ecbaf37563b24e4e6220f6a
+ms.sourcegitcommit: d108f8a732dfede6326d9726c09c667b5d084131
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51408051"
+ms.lasthandoff: 03/30/2021
+ms.locfileid: "51440713"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 현재 채널(미리 보기)에 대한 릴리스 정보
 
@@ -28,6 +28,10 @@ ms.locfileid: "51408051"
 > - Microsoft Teams 기능은 릴리스 주기가 보다 빈번하기 때문에 최근에 릴리스된 현재 채널 미리 보기와 다를 수 있습니다.
 
 [//]: # (제거하지 마세요)
+
+## <a name="version-2103-march-30"></a>버전 2103: 3월 30일
+*버전 2103(빌드 13901.20312)*
+* 다양한 버그 및 성능 수정 사항.
 
 ## <a name="version-2103-march-28"></a>버전 2103: 3월 28일
 *버전 2103(빌드 13901.20306)*
