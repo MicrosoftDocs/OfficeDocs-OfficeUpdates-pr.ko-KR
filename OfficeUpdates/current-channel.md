@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 앱에 대한 월 단위 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 901b51893436270a39d6977eaa6c9f5ffcdc643e
-ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
+ms.openlocfilehash: f59693161d58d2e29362214feca8d0f255f84246
+ms.sourcegitcommit: a4a8fb0a7e5be677ac473b3a8dea15cbada5914a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51169947"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "51487252"
 ---
 # <a name="release-notes-for-current-channel"></a>현재 채널에 대한 릴리스 정보
 
@@ -32,6 +32,126 @@ ms.locfileid: "51169947"
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2103-march-30"></a>버전 2103: 3월 30일
+*버전 2103(빌드 13901.20312)*
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="outlook"></a>Outlook
+
+- **메시지 작성 시간 절약:** Outlook에서 메시지를 신속하게 작성하는 데 도움이 되는 쓰기 제안을 표시합니다. 제안을 수락하려면 탭 키를 사용하면 됩니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/text-predictions-in-word-outlook)에서 세부 정보 보기
+
+- **새 회의실 및 작업 영역 예약 환경:** 회의실 예약 환경이 새로 변경되었으며 개별 작업 영역도 예약할 수 있는 기능이 추가되었습니다.
+
+- **검색할 위치 선택:** 새 검색 범위 드롭다운을 통해 검색을 더 쉽게 수정하고 현재 폴더와 현재 사서함 간 전환할 수 있습니다. 최상의 환경을 위해 새 검색 기능에 피드백을 보내주신 모든 사용자에게 감사의 말씀을 드립니다. 피드백을 통해 디자인과 업데이트를 완성했습니다!
+
+- **사람을 검색할 때 모임 제안 받기:** 검색 상자에 사용자의 이름을 입력하면 일정 초대가 포함된 가장 관련성이 높은 전자 메일이 검색 제안과 함께 포함됩니다.
+
+- **Teams에 공유:** Teams 내 개인 또는 채널에 Outlook의 메시지를 공유합니다.
+
+- **음성으로 메시지 초안 작성:** 새 받아쓰기 도구 모음, 음성 명령, 자동 입력 등을 사용하여 메시지를 작성합니다.
+
+### <a name="teams"></a>Teams
+
+- **모임 반응:** 모임 반응은 모임에서 상호 작용하는 새로운 방법입니다. 참가자는 반응을 보낼 수 있으며 반응은 공유 중인 콘텐츠에 스트림으로 표시되고, 모임 단계에 표시되는 경우 반응을 보낸 개인에게 표시됩니다.
+
+- **Teams 모임에서 참석자 오디오 권한 관리를 위한 개선 사항:** 모임 발표자 및 이끌이는 이제 참석자가 손을 들지 않더라도 음소거할 수 있도록 허용할 수 있습니다. 이전에는, 음소거가 금지된 모임 참석자들이 음소거를 하기 위해 손을 들어야만 했습니다.
+
+- **Teams 모임에서 참석자 오디오 권한 관리를 위한 개선 사항:** 이전에는 모임 발표자 또는 이끌이가 모임에서 참석자 한 명만 마이크를 사용할 수 없도록 설정할 수 없었습니다. 이끌이 또는 발표자는 "참석자의 음소거 해제 허용"만 해제로 설정하여 모든 참석자의 마이크를 비활성화할 수 있습니다. 이렇게 변경되면, 모임 발표자 및 이끌이는 Teams 모임 중에 개별 참석자가 음소거하는 것을 방지할 수 있습니다.
+
+- **모임 참가자 명단의 환경 개선:** 로비, 모임, 발표자 및 참석자 참가자 섹션에 대한 Teams 모임에서 참가자 목록이 표시되는 방식을 변경하고 있습니다. 각 섹션에 대해 최대 20명의 참가자가 초기 보기에 표시되며, 해당 섹션에 있는 더 많은 참가자를 자세히 살펴보고 확인할 수 있습니다. 로비의 경우, 모임에 모두 참여하기 전에 전체 목록을 검토할 수 있습니다. 목록에는 모임에서 가장 활동적인 참가자의 세부 정보가 알파벳 순으로 정렬되어 표시됩니다. 참가자 수행 메뉴에 변경사항이 없습니다.
+
+- **목록에서 모임 참가자 검색:** 사용자는 이제 목록 검색 상자에서 현재 모임 참가자를 검색하여 특정 개인이 모임에 참여했는지 여부를 확인할 수 있습니다. 사용자는 모임 외부에서 참가자를 계속 검색하고 모임에 참여하도록 요청할 수 있습니다.
+
+- **Outlook에서 Teams로 공유:** Outlook에서 Teams로 공유하면 첨부 파일을 포함하여 전자 메일 메시지 또는 대화의 복사본을 Teams 채팅 및 채널로 보낼 수 있습니다. Outlook 리본 또는 전자 메일의 작업 메뉴에서 Teams로 공유 옵션을 찾습니다. Teams로 공유 기능은 웹용 Outlook, Windows용 Outlook Windows 및 새로운 Mac용 Outlook 미리 보기를 지원합니다.
+
+- **소회의실 타이머 및 룸 할당 보존:** 이제 이끌이가 소회의실 설정에서 소회의실에 대한 타이머를 설정할 수 있습니다. 타이머가 만료되면, 회의실은 자동으로 닫히고 참가자들은 기본 모임으로 돌아갑니다. 회의실 할당 보존은 여러 세션에서 회의실 구성과 할당을 지속할 수 있는 기능을 제공합니다. 참가자 재할당 기능을 통해, 주최자는 이제 회의실이 열릴 때 함께 참여한 참가자를 회의실과 기본 모임으로 이동시킬 수 있습니다.
+
+- **파일에 대한 오프라인 액세스:** 이제 인터넷에 연결되지 않은 경우에도 이전에 연 파일에 액세스할 수 있습니다.
+
+- **PowerPoint 파일을 공유할 때 그리드 보기:** 이제 모임에서 PowerPoint 파일을 공유할 때 그리드 보기를 사용하여 간단한 임시 슬라이드 탐색을 위해 데크의 모든 슬라이드를 볼 수 있습니다.
+
+### <a name="word"></a>Word
+
+- **음성으로 문서 초안 작성:** 새 받아쓰기 도구 모음, 음성 명령 및 자동 맞춤법을 사용하여 문서의 초안을 작성합니다.
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="access"></a>Access
+
+- 이 변경은 일부 경우 SQL Server를 실행하면 통과 쿼리로 인해 "커서 상태가 잘못되었습니다"라는 오류 메시지가 표시될 수 있는 문제를 해결합니다.
+
+- 외부 응용 프로그램이 접근성 인터페이스를 요청하는 경우 참조가 릴리스될 때까지 종료되지 않도록 문제가 해결되었습니다.
+
+### <a name="project"></a>Project
+
+- Office 리본의 비활성화된 명령을 실행하면 아이콘만 회색으로 표시되고 어두운 회색 사무실 테마의 텍스트는 회색으로 표시되지 않는 버그를 수정했습니다.
+
+### <a name="excel"></a>Excel
+
+- Office 리본의 비활성화된 명령을 실행하면 아이콘만 회색으로 표시되고 어두운 회색 사무실 테마의 텍스트는 회색으로 표시되지 않는 버그를 수정했습니다.
+
+
+### <a name="outlook"></a>Outlook
+
+- 폴더 계층 구조 변경을 동기화할 때 일부 사용자에게 Outlook이 예기치 않게 닫히는 문제가 수정되었습니다.
+
+
+- 일부 사용자가 탐색 창에서 기본 및 보조 일정으로 전환하는 문제가 수정되었습니다.
+
+
+- 사용자에게 예상보다 더 많은 서명이 표시될 수 있는 문제를 해결했습니다.
+
+
+- 일부 사람이 보조 메일 계정과 연결된 서명에 액세스할 수 없는 문제가 수정되었습니다.
+
+
+- 새 장치에서 Outlook을 구성한 후 클라우드 설정 기능 사용자가 기본 설정으로 재정의된 사용자 지정 설정을 볼 수 있는 문제를 해결했습니다.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Office 리본의 비활성화된 명령을 실행하면 아이콘만 회색으로 표시되고 어두운 회색 사무실 테마의 텍스트는 회색으로 표시되지 않는 버그를 수정했습니다.
+
+
+### <a name="visio"></a>Visio
+
+- 닫는 동안 Visio 작동이 중지되는 문제가 수정되었습니다.
+
+
+### <a name="word"></a>Word
+
+- 문서를 공동 작성하는 경우 설명 순서가 변경되어도 활성 초안이 지워지지 않습니다.
+
+
+- Office 리본의 비활성화된 명령을 실행하면 아이콘만 회색으로 표시되고 어두운 회색 사무실 테마의 텍스트는 회색으로 표시되지 않는 버그를 수정했습니다.
+
+
+- 복사 및 붙여넣기와 관련된 문제가 수정되었습니다.
+
+
+### <a name="office-suite"></a>Office 제품군
+
+- GCC 사용자에 대해 받아쓰기 기능을 사용할 수 없는 버그가 수정되었습니다.
+
+
+- 경우에 따라 Outlook의 텍스트가 투명해지고 읽을 수 없게 되는 버그를 수정했습니다.
+
+
+- 세션 0에서 실행되는 Office 앱 지원과 관련된 안정성 문제를 해결했습니다.
 
 
 
@@ -155,7 +275,7 @@ ms.locfileid: "51169947"
 
 ### <a name="word"></a>Word
 
-- **한 번의 클릭으로 작문 제안:** 한 번의 클릭으로 작문 제안을 적용합니다. 업데이트된 편집기 창은 제안 사이를 쉽게 탐색할 수 있습니다. [자세한 정보](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />[블로그 게시물](https://insider.office.com/en-us/blog/microsoft-editor-gets-an-upgrade)에서 세부 정보를 참조하세요.
+- **한 번의 클릭으로 작문 제안:** 한 번의 클릭으로 작문 제안을 적용합니다. 업데이트된 편집기 창은 제안 사이를 쉽게 탐색할 수 있습니다. [자세한 정보](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/microsoft-editor-gets-an-upgrade)에서 세부 정보를 참조하세요.
 
 - **사용자에게 민감도 레이블을 적용해야 하는 경우:** 조직 정책에 필요한 경우 사용자에게 민감도 레이블을 적용하라는 메시지가 표시됩니다.
 
@@ -563,9 +683,9 @@ ms.locfileid: "51169947"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **SVG 클립보드 지원:** 이제 Office의 SVG 콘텐츠를 타사 앱에 붙여 을 수 있습니다. [자세한 정보](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />[블로그 게시물](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)에서 세부 정보 보기
+- **SVG 클립보드 지원:** 이제 Office의 SVG 콘텐츠를 타사 앱에 붙여 을 수 있습니다. [자세한 정보](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/svg-content-office-third-party-apps)에서 세부 정보 보기
 
-- **투명한 배경으로 GIF 만들기:** 애니메이션 GIF로 내보낼 때 새 옵션을 사용하여 배경을 투명하게 만들 수 있습니다.<br />[블로그 게시물](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)에서 세부 정보 보기
+- **투명한 배경으로 GIF 만들기:** 애니메이션 GIF로 내보낼 때 새 옵션을 사용하여 배경을 투명하게 만들 수 있습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/export-animated-gifs-transparent-backgrounds)에서 세부 정보 보기
 
 - **Office 테마를 자동으로 전환:** Office는 Windows 10 테마 설정에 맞게 테마를 자동으로 전환할 수 있습니다. 파일 > 계정으로 이동하고 Office 테마 드롭다운에서 "시스템 설정 사용"을 선택합니다. [자세한 정보](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -700,19 +820,19 @@ ms.locfileid: "51169947"
 
 - **파워 쿼리를 사용하여 데이터 형식 만들기:** 모든 데이터 원본에서 파워 쿼리로 다양한 데이터 형식을 만듭니다 [자세한 정보](https://support.office.com/article/a465a3b7-3d37-4eb1-a59c-bd3163315308)<br />[블로그 게시물](https://techcommunity.microsoft.com/t5/excel-blog/announcing-power-query-data-types/ba-p/1782903)에서 세부 정보 보기
 
-- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
+- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
 
 - **작업 펜을 사용하여 빠르게 편집할 수 있습니다.** 작업 펜을 사용하여 셀에 직접 쓸 수 있으며, Excel 데이터로 자동으로 변환되는 잉크를 사용하여 데이터를 적을 수 있습니다.
 
 ### <a name="outlook"></a>Outlook
 
-- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
+- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
 
-- **문법 검사의 도움:** Outlook에서 사용자가 입력할 때 문법 오류를 표시하여 클릭 한 번으로 제안을 적용할 수 있습니다. [자세한 정보](https://support.office.com/article/ddbadc42-4637-451d-b3f4-ecf295036fa9)<br />[블로그 게시물](https://insider.office.com/en-us/blog/grammar-and-style-suggestions-available-in-outlook)에서 세부 정보 보기
+- **문법 검사의 도움:** Outlook에서 사용자가 입력할 때 문법 오류를 표시하여 클릭 한 번으로 제안을 적용할 수 있습니다. [자세한 정보](https://support.office.com/article/ddbadc42-4637-451d-b3f4-ecf295036fa9)<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/grammar-and-style-suggestions-available-in-outlook)에서 세부 정보 보기
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
+- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
 
 ### <a name="teams"></a>Teams
 
@@ -726,7 +846,7 @@ ms.locfileid: "51169947"
 
 ### <a name="word"></a>Word
 
-- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
+- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -2127,7 +2247,7 @@ ms.locfileid: "51169947"
 
 - **모든 사용자를 위한 프레젠테이션 최적화:** 접근성 검사기는 기능은 스크린 리더를 염두에 두고 슬라이드에서 개체를 정렬하는데 도움을 줍니다.
 
-- **GIF 즉시 만들기:** 하나의 슬라이드, 하나의 프레임. PowerPoint에서 쉽게 루핑 GIF를 만들 수 있습니다. [자세한 정보](https://support.office.com/en-us/article/a598753e-92de-4f1b-8393-714db4d334b4)
+- **GIF 즉시 만들기:** 하나의 슬라이드, 하나의 프레임. PowerPoint에서 쉽게 루핑 GIF를 만들 수 있습니다. [자세한 정보](https://support.office.com/ko-KR/article/a598753e-92de-4f1b-8393-714db4d334b4)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
@@ -2164,6 +2284,7 @@ ms.locfileid: "51169947"
 > Office를 사용하는 데 발생한 문제에 대해 도움이 필요하면 [Microsoft의 Answers 포럼](https://answers.microsoft.com/) 또는 [기술 커뮤니티](https://techcommunity.microsoft.com/)에 질문을 게시하거나 [지원 서비스](https://support.microsoft.com/contactus)에 문의할 수 있습니다.
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|CC|Production| |16.0.13901.20312|version-2103-march-30|)
 [//]: # (|Win32|CC|Production| |16.0.13801.20360|version-2102-march-18|)
 [//]: # (|Win32|CC|Production| |16.0.13801.20294|version-2102-march-09|)
 [//]: # (|Win32|CC|Production| |16.0.13801.20266|version-2102-march-01|)
@@ -2173,5 +2294,4 @@ ms.locfileid: "51169947"
 [//]: # (|Win32|CC|Production| |16.0.13530.20440|version-2012-january-21|)
 [//]: # (|Win32|CC|Production| |16.0.13530.20376|version-2012-january-12|)
 [//]: # (|Win32|CC|Production| |16.0.13530.20316|version-2012-january-05|)
-[//]: # (|Win32|CC|Production| |16.0.13426.20404|version-2011-december-21|)
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 끝)
