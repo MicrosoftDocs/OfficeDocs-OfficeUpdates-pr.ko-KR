@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 이후 참가자 대상 그룹에게 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 5bd71abc819924012ecbaf37563b24e4e6220f6a
-ms.sourcegitcommit: d108f8a732dfede6326d9726c09c667b5d084131
+ms.openlocfilehash: 3a4c7fc2424a4a2d0c05beab9a7c874096247029
+ms.sourcegitcommit: 9151363a4105d6d5b3e1cd79ec9e6bc9b6a8e44c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51440713"
+ms.lasthandoff: 04/03/2021
+ms.locfileid: "51582084"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 현재 채널(미리 보기)에 대한 릴리스 정보
 
@@ -28,6 +28,22 @@ ms.locfileid: "51440713"
 > - Microsoft Teams 기능은 릴리스 주기가 보다 빈번하기 때문에 최근에 릴리스된 현재 채널 미리 보기와 다를 수 있습니다.
 
 [//]: # (제거하지 마세요)
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+## <a name="version-2103-april-02"></a>버전 2103: 4월 2일
+*버전 2103(빌드 13901.20336)*
+* 다양한 버그 및 성능 수정 사항.
+
+## <a name="version-2103-april-1"></a>버전 2103: 4월 1일
+*버전 2103(빌드 13901.20148)*
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="teams"></a>Teams
+
+- **날짜/시간 형식** 이 업데이트를 통해 Teams의 날짜/시간 형식이 Mac 및 Windows 운영 체제 국가별 설정과 일치하게 됩니다. 이전에 Teams는 날짜/시간을 응용 프로그램의 언어에 해당하는 형식으로만 표시했습니다. 운영 체제의 일정관리 설정에 관계없이 그레고리력만 지원됩니다. 
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2103-march-30"></a>버전 2103: 3월 30일
 *버전 2103(빌드 13901.20312)*
@@ -79,27 +95,11 @@ ms.locfileid: "51440713"
 
 - 닫는 동안 Visio 작동이 중지되는 문제가 수정되었습니다.
 
-
-
-[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
-
-## <a name="version-2103-march-12"></a>버전 2103: 3월 12일
-*버전 2103(빌드 13901.20148)*
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
-
-### <a name="feature-updates"></a>기능 업데이트
-### <a name="teams"></a>Teams
-
-- **부재 중 상태** 다른 사용자가 채팅 메시지를 보내면 근무 중이 아니거나 휴가 중이라 답장을 할 수 없다는 것을 알릴 수 있도록 메시지를 설정할 수 있습니다. 부재 중 상태도 Outlook 일정의 자동 응답과 동기화됩니다.
-
-[//]: # (제거하지 마세요)
-
-
 ## <a name="version-2103-march-11"></a>버전 2103: 3월 11일
 *버전 2103(빌드 13901.20148)*
-
-[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
 ### <a name="feature-updates"></a>기능 업데이트
 ### <a name="excel"></a>Excel
@@ -114,6 +114,10 @@ ms.locfileid: "51440713"
 
 - **중요한 암호화된 문서에 자동 저장 및 공동 작성**: 생산성과 보안을 바꾸지 마세요. Microsoft Information Protection을 사용하면 민감도 레이블로 암호화된 문서를 자동 저장하여 암호화되지 않은 문서와 마찬가지로 실시간으로 다른 사용자와 공동 작성할 수 있습니다. 테넌트 옵트인(자세한 정보: https://aka.ms/mipcoauth)이 필요합니다
 
+### <a name="teams"></a>Teams
+
+- **부재 중 상태** 다른 사용자가 채팅 메시지를 보내면 근무 중이 아니거나 휴가 중이라 답장을 할 수 없다는 것을 알릴 수 있도록 메시지를 설정할 수 있습니다. 부재 중 상태도 Outlook 일정의 자동 응답과 동기화됩니다.
+
 ### <a name="visio"></a>Visio
 
 - **Office 아이콘이 새롭게 단장했습니다.** 간단하고 강력하며 지능적인 Office 환경을 반영하여 제품 아이콘이 다시 디자인되었습니다. [자세한 정보](https://support.office.com/article/a6cdf19a-b2bd-4be1-9515-d74a37aa59bf)
@@ -123,7 +127,6 @@ ms.locfileid: "51440713"
 - **Word 문서용 어두운 모드:** 어두운 모드는 눈의 부담을 줄이고 문서에서 작업하는 동안 밝은 민감도를 수용하는 데 도움이 될 수 있습니다.
 
 - **중요한 암호화된 문서에 자동 저장 및 공동 작성**: 생산성과 보안을 바꾸지 마세요. Microsoft Information Protection을 사용하면 민감도 레이블로 암호화된 문서를 자동 저장하여 암호화되지 않은 문서와 마찬가지로 실시간으로 다른 사용자와 공동 작성할 수 있습니다. 테넌트 옵트인(자세한 정보: https://aka.ms/mipcoauth)이 필요합니다
-
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -681,7 +684,7 @@ ms.locfileid: "51440713"
 ### <a name="feature-updates"></a>기능 업데이트
 ### <a name="outlook"></a>Outlook
 
-- **한 번의 클릭으로 작문 제안:** 한 번의 클릭으로 작문 제안을 적용합니다. 편집기는 맞춤법과 문법을 수정하며 글을 다듬는 데 필요한 아이디어를 제공합니다. [자세한 정보](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/microsoft-editor-gets-an-upgrade)에서 세부 정보 보기
+- **한 번의 클릭으로 작문 제안:** 한 번의 클릭으로 작문 제안을 적용합니다. 편집기는 맞춤법과 문법을 수정하며 글을 다듬는 데 필요한 아이디어를 제공합니다. [자세한 정보](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/microsoft-editor-gets-an-upgrade)에서 세부 정보를 참조하세요.
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -1245,7 +1248,7 @@ ms.locfileid: "51440713"
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
 ### <a name="resolved-issues"></a>해결된 문제
-### <a name="access"></a>Access
+### <a name="access"></a>액세스
 
 - 동기화된 OneDrive 폴더에서 쿼리를 내보내려고 할 때 일부 사용자에게 “시스템 리소스가 초과했습니다.”라는 오류가 표시되는 문제를 해결했습니다.
 
@@ -2294,7 +2297,7 @@ ms.locfileid: "51440713"
 ### <a name="feature-updates"></a>기능 업데이트
 ### <a name="excel"></a>Excel
 
-- **데이터 형식을 사용하여 Power BI에서 조직 데이터를 가져오기:** 이제 Power BI의 Excel 데이터 형식을 Office 365 E5/A5 또는 Microsoft 365 E5/A5를 사용하는 조직의 참가자에게 배포합니다. 필요한 정보를 가져오고 손쉽게 새로 고치는 건 일상적인 여러 워크플로에 매우 중요합니다. Microsoft는 Power BI를 사용하여 Excel에서 데이터 형식으로 회사나 조직 정보에 액세스할 수 있도록 하여 스프레드시트에 연결된 정보를 제공하는 기능을 확장합니다. [자세한 정보](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />[블로그 게시물](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)에서 세부 정보 보기
+- **데이터 형식을 사용하여 Power BI에서 조직 데이터를 가져오기:** 이제 Power BI의 Excel 데이터 형식을 Office 365 E5/A5 또는 Microsoft 365 E5/A5를 사용하는 조직의 참가자에게 배포합니다. 필요한 정보를 가져오고 손쉽게 새로 고치는 건 일상적인 여러 워크플로에 매우 중요합니다. Microsoft는 Power BI를 사용하여 Excel에서 데이터 형식으로 회사나 조직 정보에 액세스할 수 있도록 하여 스프레드시트에 연결된 정보를 제공하는 기능을 확장합니다. [자세한 정보](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />[블로그 게시물](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)에서 세부 정보를 참조하세요.
 
 ### <a name="outlook"></a>Outlook
 
