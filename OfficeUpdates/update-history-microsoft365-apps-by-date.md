@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 릴리스 정보에 대한 링크를 포함하여 Microsoft 365 앱 릴리스의 전체 목록을 날짜별로 구성해서 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 4a170a9784e1724c67a50769590d969e57a16264
-ms.sourcegitcommit: 5ce5af1dcdbe2e8eb8fcf5987690f7de7289ee2a
+ms.openlocfilehash: 725469db260183cf94e67560d8c729c268b43725
+ms.sourcegitcommit: 149b8409a33ff4411d296f8668f6da387f84f6bf
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "51476123"
+ms.lasthandoff: 04/05/2021
+ms.locfileid: "51589870"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 앱의 업데이트 기록(날짜순)
 
@@ -36,7 +36,7 @@ ms.locfileid: "51476123"
 
 |**채널**|**버전**|**빌드**|**릴리스 날짜**|**다음 이하 버전까지 지원**|
 |:-----|:-----|:-----|:-----|:-----|
-|현재 채널<br/>|2103<br/>|13901.20312<br/>|2021년 3월 30일<br/>|버전 2104 릴리스됨<br/>|
+|현재 채널<br/>|2103<br/>|13901.20336<br/>|2021년 4월 2일<br/>|버전 2104 릴리스됨<br/>|
 |월 단위 엔터프라이즈 채널<br/>|2101<br/>|13628.20528<br/>|2021년 3월 9일<br/>|2021년 5월 11일<br/>|
 |월 단위 엔터프라이즈 채널<br/>|2012<br/>|13530.20628<br/>|2021년 3월 9일<br/>|2021년 4월 13일<br/>|
 |반기 기업 채널(미리 보기)<br/>|2102<br/>|13801.20294<br/>|2021년 3월 9일<br/>|2021년 9월 14일<br/>|
@@ -55,6 +55,7 @@ ms.locfileid: "51476123"
 
 |**년도**|**릴리스 날짜**|**현재 채널**|**월 단위 엔터프라이즈 채널**|**반기 엔터프라이즈 채널(미리 보기)**|**반기 엔터프라이즈 채널**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2021|4월 2일|[버전 2103(빌드 13901.20336)](current-channel.md#version-2103-april-02)| | | |
 |2021|3월 30일|[버전 2103(빌드 13901.20312)](current-channel.md#version-2103-march-30)| | | |
 |2021|3월 18일|[버전 2102(빌드 13801.20360)](current-channel.md#version-2102-march-18)| | | |
 |2021|3월 9일|[버전 2102 (빌드 13801.20294)](current-channel.md#version-2102-march-09)|[버전 2101 (빌드 13628.20528)](monthly-enterprise-channel.md#version-2101-march-09)<br/>[버전 2012 (빌드 13530.20628)](monthly-enterprise-channel.md#version-2012-march-09)|[버전 2102 (빌드 13801.20294)](semi-annual-enterprise-channel-preview.md#version-2102-march-09)|[버전 2008 (빌드 13127.21348)](semi-annual-enterprise-channel.md#version-2008-march-09)<br/>[버전 2002 (빌드 12527.21686)](semi-annual-enterprise-channel.md#version-2002-march-09)|

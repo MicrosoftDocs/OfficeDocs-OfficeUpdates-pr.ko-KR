@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 앱에 대한 월 단위 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: f59693161d58d2e29362214feca8d0f255f84246
-ms.sourcegitcommit: a4a8fb0a7e5be677ac473b3a8dea15cbada5914a
+ms.openlocfilehash: e7f673d8a3fdee500c117e695103d27f6b3799e9
+ms.sourcegitcommit: 149b8409a33ff4411d296f8668f6da387f84f6bf
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "51487252"
+ms.lasthandoff: 04/05/2021
+ms.locfileid: "51589890"
 ---
 # <a name="release-notes-for-current-channel"></a>현재 채널에 대한 릴리스 정보
 
@@ -36,6 +36,15 @@ ms.locfileid: "51487252"
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2103-april-02"></a>버전 2103: 4월 2일
+*버전 2103(빌드 13901.20336)*
+* 다양한 버그 및 성능 수정 사항.
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="outlook"></a>Outlook
+
+- ARM 프로세서가 장착된 컴퓨터의 MAPI 지원 응용 프로그램에서 사용하는 Outlook 구성 요소의 문제를 해결했습니다. 이 문제로 인해 검색이 실패하거나 백그라운드 앱이 반복적으로 다시 시작되면서 컴퓨터에 추가 로드가 발생했습니다.
 
 ## <a name="version-2103-march-30"></a>버전 2103: 3월 30일
 *버전 2103(빌드 13901.20312)*
@@ -2284,6 +2293,7 @@ ms.locfileid: "51487252"
 > Office를 사용하는 데 발생한 문제에 대해 도움이 필요하면 [Microsoft의 Answers 포럼](https://answers.microsoft.com/) 또는 [기술 커뮤니티](https://techcommunity.microsoft.com/)에 질문을 게시하거나 [지원 서비스](https://support.microsoft.com/contactus)에 문의할 수 있습니다.
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|CC|Production| |16.0.13901.20336|version-2103-april-02|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20312|version-2103-march-30|)
 [//]: # (|Win32|CC|Production| |16.0.13801.20360|version-2102-march-18|)
 [//]: # (|Win32|CC|Production| |16.0.13801.20294|version-2102-march-09|)
@@ -2293,5 +2303,4 @@ ms.locfileid: "51487252"
 [//]: # (|Win32|CC|Production| |16.0.13628.20274|version-2101-january-26|)
 [//]: # (|Win32|CC|Production| |16.0.13530.20440|version-2012-january-21|)
 [//]: # (|Win32|CC|Production| |16.0.13530.20376|version-2012-january-12|)
-[//]: # (|Win32|CC|Production| |16.0.13530.20316|version-2012-january-05|)
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 끝)
