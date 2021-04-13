@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 78d200b4d33693aa0092fe9a7c768fef67e6721e
-ms.sourcegitcommit: 5863f79973406ef27d5904509c0aef059e25c17b
+ms.openlocfilehash: faa58be6a03ca68e8ee7bfe625b47c52befab241
+ms.sourcegitcommit: c98d5985df2d2a3079a995b4226f19145430898f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51506785"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51662332"
 ---
 # <a name="release-notes-for-beta-channel"></a>베타 채널용 릴리스 정보
 
@@ -30,6 +30,24 @@ ms.locfileid: "51506785"
 [//]: # (제거하지 마세요)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+## <a name="version-2105-april-09"></a>버전 2105: 4월 9일
+*버전 2105(빌드 14002.20000)*
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="excel"></a>Excel
+
+- **접근성 리본:** 접근성 리본 메뉴를 사용하여 액세스 가능한 콘텐츠를 만드는 데 필요한 모든 도구를 한 곳에서 찾을 수 있습니다.
+
+### <a name="word"></a>Word
+
+- **이제 문서 내의 선택한 텍스트에 대해 교정을 사용할 수 있습니다.** 이러한 변경을 통해 이제 선택한 텍스트에 대해서만 맞춤법, 문법 및 기타 지능형 쓰기 제안을 검토할 수 있습니다. 또한 전체 문서에 대한 제안을 검토할 수도 있습니다.
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2104-april-02"></a>버전 2104: 4월 2일
 *버전 2104(빌드 13929.20016)*
@@ -1008,7 +1026,7 @@ ms.locfileid: "51506785"
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
 ### <a name="resolved-issues"></a>해결된 문제
-### <a name="access"></a>액세스
+### <a name="access"></a>Access
 
 - Office가 아닌 응용 프로그램에서 DAO를 사용할 경우 응용 프로그램이 예기치 않게 종료되는 문제를 해결했습니다.
 
@@ -1093,7 +1111,7 @@ ms.locfileid: "51506785"
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
 ### <a name="resolved-issues"></a>해결된 문제
-### <a name="access"></a>액세스
+### <a name="access"></a>Access
 
 - 동기화된 OneDrive 폴더에서 쿼리를 내보내려고 할 때 일부 사용자에게 “시스템 리소스가 초과했습니다.”라는 오류가 표시되는 문제를 해결했습니다.
 
@@ -2801,6 +2819,7 @@ ms.locfileid: "51506785"
 
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14002.20000|version-2105-april-09|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13929.20016|version-2104-april-02|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13919.20002|version-2104-march-26|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13913.20000|version-2104-march-19|)
@@ -2810,5 +2829,4 @@ ms.locfileid: "51506785"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13811.20002|version-2103-february-19|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13806.20000|version-2103-february-12|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13801.20004|version-2102-february-05|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13721.20008|version-2102-january-29|)
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 끝)
