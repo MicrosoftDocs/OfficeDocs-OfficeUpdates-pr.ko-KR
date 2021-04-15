@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT 전문가에게 MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록을 제공합니다.
-ms.openlocfilehash: c9d16f2c221612969ec5a7cfb08c2022d287ea7c
-ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
+ms.openlocfilehash: f2b3bd46a71708c9444265c5dbf33fbe3b9b5cb2
+ms.sourcegitcommit: cf8d286b8fb825e19d8730c011d53e98156b6646
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51169717"
+ms.lasthandoff: 04/14/2021
+ms.locfileid: "51755410"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록
  
@@ -30,6 +30,23 @@ ms.locfileid: "51169717"
 
 릴리스 정보를 확인하려면 [릴리스 정보](release-notes-office-for-mac.md)를 참고하세요.<br/><br/>
 
+## <a name="april-2021-release"></a>2021년 4월 릴리스
+
+**릴리스 날짜:** 2021년 4월 13일
+
+*Microsoft AutoUpdate 4.34*
+
+**버그 수정 및 개선 사항:**
+- 이제 '배지 알림' 하위 표시기는 수동 업데이트 모드에 있는 사용자에 대한 기존 OS 알림 프롬프트 대신 업데이트 가능 여부를 나타냅니다.
+
+[Microsoft 자동 업데이트 4.34 패키지 다운로드](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.34.21041102_Updater.pkg)<br/>
+<br/>
+**SHA-256 해시:**
+
+98C6821D939A3FA78BE21B11919625A48EAE2A3CC87CB104BF06637D9B850D9C
+
+<br/><br/>
+
 ## <a name="march-2021-release"></a>2021년 3월 릴리스
 
 **릴리스 날짜:** 2021년 3월 17일
@@ -44,7 +61,11 @@ ms.locfileid: "51169717"
 
 [Microsoft 자동 업데이트 4.33 패키지 다운로드](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.33.21031401_Updater.pkg)<br/>
 <br/>
-**SHA-256 Hash:** 8B851FD35B8172AB3220592E68ABCD6C302A55336FD7E9F8B5511683B372E7E1
+**SHA-256 해시:**
+
+ 8B851FD35B8172AB3220592E68ABCD6C302A55336FD7E9F8B5511683B372E7E1
+
+<br/><br/>
 
 ## <a name="february-2021-release"></a>2021년 2월 릴리스
 
@@ -63,6 +84,8 @@ ms.locfileid: "51169717"
 **SHA-256 해시:**
 
 CCB758531B295848620C703957FD8CF3C7F1555C334FB320C4BB682ABA0261D6
+
+<br/><br/>
 
 ## <a name="january-2021-release"></a>2021년 1월 릴리스
 
@@ -262,7 +285,7 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 - SSD를 사용하는 MacOS 컴퓨터는 업데이트로 인해 더 빨라진 업데이트 속도 및 무시해도 되는 정도의 앱 중단만을 경험합니다.
 
 
-[CVE-2020-0984](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0984)를 참조하세요.
+[CVE-2020-0984](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2020-0984)를 참조하세요.
 
 **SHA-256 해시:**
 

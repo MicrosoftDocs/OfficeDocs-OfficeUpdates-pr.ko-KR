@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 Apps에 대한 Monthly Enterprise Channel 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 34bbcb4700033ba2668b9766d053362424dcf356
-ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
+ms.openlocfilehash: a421baae65ac9b6b6858da370b64fe18a11995af
+ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51169727"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749176"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>2020년 Monthly Enterprise Channel 릴리스에 대한 릴리스 정보
 
@@ -26,6 +26,157 @@ ms.locfileid: "51169727"
 [//]: # (제거하지 마세요)
 
 
+
+## <a name="version-2102-april-13"></a>버전 2102: 4월 13일
+*버전 2102(빌드 13801.20506)*
+
+[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="excel"></a>Excel
+
+- **고급 대화 상자를 사용하여 데이터 유형 만들기:** 고급 대화 상자를 사용하여 만들고 있는 데이터 형식을 결합하는 열을 수동으로 선택할 수 있습니다.
+
+- **여러 시트를 동시에 숨기기 취소:** 한 번에 여러 시트를 숨길 필요가 없습니다. 한 번에 여러 시트를 숨길 수 있습니다. [자세한 정보](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
+
+
+### <a name="outlook"></a>Outlook
+
+- **중요 받은 편지함 설정은 장치 간에 동일 하게 유지:** 이제 중요 받은 편지함의 기본 설정이 클라우드에 저장됩니다. Outlook을 사용하여 웹상의 Outlook과 모든 컴퓨터에서 Outlook for Windows를 사용하고 동일한 환경을 경험할 수 있습니다. [자세한 정보](https://support.office.com/article/d77a442e-a86c-4bf8-b3dd-5571ae556986)
+
+- **클라우드에서 Outlook 설정: 자동 회신, 중요 받은 편지함, 개인 정보 보호 등과 같이 Windows용 Outlook 설정을 선택하고 모든 PC에서 사용할 수 있습니다** .
+
+- **검색할 위치 선택:** 새 검색 범위 드롭다운을 통해 검색을 더 쉽게 수정하고 현재 폴더와 현재 사서함 간 전환할 수 있습니다. 최상의 환경을 위해 새 검색 기능에 피드백을 보내주신 모든 사용자에게 감사의 말씀을 드립니다. 피드백을 통해 디자인과 업데이트를 완성했습니다!
+
+- **음성으로 메시지 초안 작성:** 새 받아쓰기 도구 모음, 음성 명령, 자동 입력 등을 사용하여 메시지를 작성합니다.
+
+### <a name="word"></a>Word
+
+- **음성으로 문서 초안 작성:** 새 받아쓰기 도구 모음, 음성 명령 및 자동 맞춤법을 사용하여 문서의 초안을 작성합니다.
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="access"></a>Access
+
+- 일부 경우 SQL Server에서 쿼리를 실행하면 "커서 상태가 잘못되었습니다"라는 오류 메시지가 표시될 수 있는 문제가 수정되었습니다.
+
+
+- 사용자에게 "잘못된 커서 상태" 오류 대화 상자가 발생하는 문제를 해결했습니다.
+
+
+### <a name="excel"></a>Excel
+
+- 다른 시트의 표에 행을 추가한 후 예기치 않게 셀에 데이터 유효성 검사를 적용할 수 있는 버그를 해결했습니다.
+
+
+- 대화 상자에 함수가 32비트 버전의 Excel에서 작동하지 않는 문제가 해결되었습니다.
+
+
+- 연결된 그림 붙여넣기 옵션을 사용할 때 이미지가 예상보다 작아지는 문제를 해결했습니다.
+
+
+- .xls 또는 .xlt 형식으로 저장할 때 일부 피벗 테이블 형식으로 인해 통합 문서가 손상되는 문제를 해결했습니다.
+
+
+- 사용자가 Excel 통합 문서를 PDF로 내보낼 수 없는 문제를 해결했습니다.
+
+
+- Office 리본의 비활성화된 명령을 실행하면 아이콘만 회색으로 표시되고 어두운 회색 Office 테마의 텍스트는 회색으로 표시되지 않는 문제를 수정했습니다.
+
+
+### <a name="outlook"></a>Outlook
+
+- 인라인 번역 사용자가 피드백을 제출할 수 없는 문제를 해결했습니다.
+
+
+- 유니코드 콘텐츠를 포함하는 서명이 손상되는 문제를 해결했습니다.
+
+
+- 사용자에게 예상보다 더 많은 서명이 표시될 수 있는 문제를 해결했습니다.
+
+
+- Outlook이 유휴 상태일 때 다운되는 문제를 해결했습니다.
+
+
+- 일부 사용자가 메시지 창을 닫을 때 앱이 종료되는 문제를 해결했습니다.
+
+
+- 공유 일정의 향상된 기능 사용자가 일정의 색을 노란색 또는 갈색으로 설정할 수 없는 문제를 해결했습니다.
+
+
+- 사용자가 새 그룹을 만들고 나서 중복 일정 그룹이 나타나는 문제를 수정했습니다.
+
+
+- Outlook이 다시 시작될 때까지 탐색 창에 새로 추가된 일정이 나타나지 않는 문제를 해결했습니다.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Office 리본의 비활성화된 명령을 실행하면 아이콘만 회색으로 표시되고 어두운 회색 Office 테마의 텍스트는 회색으로 표시되지 않는 문제를 수정했습니다.
+
+
+### <a name="word"></a>Word
+
+- 공동으로 작성할 때 발생하는 충돌 문제를 해결했습니다.
+
+
+- 서식 있는 텍스트 콘텐츠 컨트롤 문제를 해결했습니다.
+
+
+- 숨겨진 단락 끝에 입력할 때 응용 프로그램이 중단될 수 있는 문제가 수정되었습니다.
+
+
+- 내레이터에서 단락을 건너뛰는 문제를 해결했습니다.
+
+
+- 복사 및 붙여넣기와 관련된 문제가 수정되었습니다.
+
+
+- 3D 효과가 있는 아이콘 및 SVG 그래픽에 적용된 색과 관련된 문제를 해결합니다.
+
+
+- Office 리본의 비활성화된 명령을 실행하면 아이콘만 회색으로 표시되고 어두운 회색 Office 테마의 텍스트는 회색으로 표시되지 않는 문제를 수정했습니다.
+
+
+### <a name="office-suite"></a>Office Suite
+
+- 세션 0에서 실행되는 Office 앱 지원과 관련된 안정성 문제를 해결했습니다.
+
+
+- 경우에 따라 Outlook의 텍스트가 투명해지고 읽을 수 없게 되는 문제를 수정했습니다.
+
+
+- 수학 방정식을 포함하는 텍스트에서 내레이터를 사용할 때 발생할 수 있는 문제를 해결했습니다.
+
+
+- 수학 방정식을 포함하는 텍스트에서 내레이터를 사용할 때 발생할 수 있는 문제를 해결했습니다.
+
+
+- GCC 사용자에 대해 받아쓰기 기능을 사용할 수 없는 문제를 해결했습니다.
+
+
+- 편집 내용을 저장되지 않은 채로 이전에 연 파일을 열 때 사용자가 파일을 저장할 수 없었던 문제를 해결했으며, 이제 파일이 삭제됩니다. 수정이 적용된 후 사용자에게 파일 삭제를 알리는 친숙한 메시지가 전송되므로 변경 내용을 취소하거나 다른 이름으로 파일을 저장할 수 있습니다.
+
+
+- SyncBacked 파일을 오프라인으로 열고 파일을 저장하기 전에 앱의 파일 이름을 바를 때 이름 변경 실패 문제가 해결되었습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
+
+## <a name="version-2101-april-13"></a>버전 2101: 4월 13일
+*버전 2101(빌드 13628.20664)*
+
+[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
 
 ## <a name="version-2101-march-09"></a>버전 2101: 3월 9일
 *버전 2101(13628.20528)*
@@ -91,6 +242,22 @@ ms.locfileid: "51169727"
 
 [여기](./microsoft365-apps-security-updates.md)에 보안 업데이트가 나열됩니다.
 
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="excel"></a>Excel
+
+- **사용자에게 민감도 레이블을 적용해야 하는 경우:** 조직 정책에 필요한 경우 사용자에게 민감도 레이블을 적용하라는 메시지가 표시됩니다.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **사용자에게 민감도 레이블을 적용해야 하는 경우:** 조직 정책에 필요한 경우 사용자에게 민감도 레이블을 적용하라는 메시지가 표시됩니다.
+
+### <a name="word"></a>Word
+
+- **사용자에게 민감도 레이블을 적용해야 하는 경우:** 조직 정책에 필요한 경우 사용자에게 민감도 레이블을 적용하라는 메시지가 표시됩니다.
+
+
 ## <a name="version-2012-february-09"></a>버전 2012: 2월 9일
 *버전 2012(빌드 13530.20528)*
 
@@ -124,9 +291,12 @@ ms.locfileid: "51169727"
 
 - **새 회의실 찾기:** 다양한 기능으로 회의실을 검색합니다.
 
+- **새 회의실 및 작업 영역 예약 환경:** 회의실 예약 환경이 새로 변경되었으며 개별 작업 영역도 예약할 수 있는 기능이 추가되었습니다.
+
+
 ### <a name="powerpoint"></a>PowerPoint
 
-- **SVG 클립보드 지원:** 이제 Office의 SVG 콘텐츠를 타사 앱에 붙여 을 수 있습니다. [자세한 정보](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />[블로그 게시물](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)에서 세부 정보 보기
+- **SVG 클립보드 지원:** 이제 Office의 SVG 콘텐츠를 타사 앱에 붙여 을 수 있습니다. [자세한 정보](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/svg-content-office-third-party-apps)에서 세부 정보 보기
 
 - **민감도 레이블 감사 로깅:** 사용자가 문서 및 전자 메일에 민감도 레이블을 적용, 변경 또는 제거하면 Microsoft 365 감사 로그의 관리자가 해당 정보를 사용할 수 있게 됩니다.
 
@@ -384,7 +554,7 @@ ms.locfileid: "51169727"
 
 - **범위 내에서 애니메이션 GIF 내보내기:** 애니메이션 GIF로 내보낼 때 슬라이드 범위 선택
 
-- **투명한 배경으로 GIF 만들기:** 애니메이션 GIF로 내보낼 때 새 옵션을 사용하여 배경을 투명하게 만들 수 있습니다.<br />[블로그 게시물](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)에서 세부 정보 보기
+- **투명한 배경으로 GIF 만들기:** 애니메이션 GIF로 내보낼 때 새 옵션을 사용하여 배경을 투명하게 만들 수 있습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/export-animated-gifs-transparent-backgrounds)에서 세부 정보 보기
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -629,7 +799,8 @@ ms.locfileid: "51169727"
 - 사용자가 대리인에게 편집자 권한을 부여할 수 없게 하는 문제를 해결했습니다.
 
 
-- 선택적으로 연결된 환경이 로딩으로부터 웹 추가 기능을 차단하는 문제를 해결했습니다.<br />[블로그 게시물](https://developer.microsoft.com/en-us/office/blogs/outlook-add-ins-and-optional-connected-experiences/)에서 세부 정보 보기
+- 선택적으로 연결된 환경이 로딩으로부터 웹 추가 기능을 차단하는 문제를 해결했습니다.<br />
+  [블로그 게시물](https://developer.microsoft.com/ko-KR/office/blogs/outlook-add-ins-and-optional-connected-experiences/)에서 세부 정보 보기
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -1465,6 +1636,7 @@ ms.locfileid: "51169727"
 
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|MEC|Production|Feature|16.0.13801.20506|version-2102-april-13|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13628.20528|version-2101-march-09|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13530.20528|version-2012-february-09|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13426.20526|version-2011-january-12|)

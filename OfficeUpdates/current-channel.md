@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 앱에 대한 월 단위 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: e7f673d8a3fdee500c117e695103d27f6b3799e9
-ms.sourcegitcommit: 149b8409a33ff4411d296f8668f6da387f84f6bf
+ms.openlocfilehash: 6ee106d57832dbe2584c771f3b8eebc82f79aa97
+ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/05/2021
-ms.locfileid: "51589890"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749086"
 ---
 # <a name="release-notes-for-current-channel"></a>현재 채널에 대한 릴리스 정보
 
@@ -32,6 +32,51 @@ ms.locfileid: "51589890"
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2103-april-13"></a>버전 2103: 4월 13일
+*버전 2103(빌드 13901.20400)*
+
+[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- 이미지를 그릴 때 잠재적인 리소스 경합 문제를 수정했습니다.
+
+
+### <a name="outlook"></a>Outlook
+
+- 일정을 추가할 때 사용자에게 "시간이 걸릴 수 있습니다"라는 메시지가 잘못 표시되는 문제를 해결했습니다.
+
+- 대리인이 새로 추가된 일정에 생성된 모임의 이끌이로 표시되는 문제를 수정했습니다.  이 주의 회의는 교장의 달력에 표시되지 않았습니다.
+
+- 이미지를 그릴 때 잠재적인 리소스 경합 문제를 수정했습니다.
+
+
+### <a name="powerpoint"></a>Powerpoint
+
+- 이미지를 그릴 때 잠재적인 리소스 경합 문제를 수정했습니다.
+
+
+### <a name="word"></a>Word
+
+- 이미지를 그릴 때 잠재적인 리소스 경합 문제를 수정했습니다.
+
+- 인쇄 미리 보기에서 응답이 없는 문제를 수정했습니다.
+
+- 로컬에 저장된 파일에 대한 자동 저장 설명 텍스트를 업데이트합니다.
+
+
+### <a name="office-suite"></a>Office Suite
+
+- SyncBacked 파일을 오프라인으로 열고 파일을 저장하기 전에 앱의 파일 이름을 바를 때 이름 변경 실패 문제가 해결되었습니다.
 
 
 
@@ -2293,6 +2338,7 @@ ms.locfileid: "51589890"
 > Office를 사용하는 데 발생한 문제에 대해 도움이 필요하면 [Microsoft의 Answers 포럼](https://answers.microsoft.com/) 또는 [기술 커뮤니티](https://techcommunity.microsoft.com/)에 질문을 게시하거나 [지원 서비스](https://support.microsoft.com/contactus)에 문의할 수 있습니다.
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|CC|Production| |16.0.13901.20400|version-2103-april-13|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20336|version-2103-april-02|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20312|version-2103-march-30|)
 [//]: # (|Win32|CC|Production| |16.0.13801.20360|version-2102-march-18|)
@@ -2302,5 +2348,4 @@ ms.locfileid: "51589890"
 [//]: # (|Win32|CC|Production| |16.0.13628.20380|version-2101-february-09|)
 [//]: # (|Win32|CC|Production| |16.0.13628.20274|version-2101-january-26|)
 [//]: # (|Win32|CC|Production| |16.0.13530.20440|version-2012-january-21|)
-[//]: # (|Win32|CC|Production| |16.0.13530.20376|version-2012-january-12|)
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 끝)

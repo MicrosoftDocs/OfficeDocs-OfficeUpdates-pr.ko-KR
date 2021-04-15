@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: IT 전문가에게 ODT(Office 배포 도구)의 릴리스 기록을 제공합니다.
-ms.openlocfilehash: 046054dfb781c3cd19ca6505e5ae5f2f362f6a86
-ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
+ms.openlocfilehash: 8e2387e11eb7327d0fe2148f2fe43633aad8c725
+ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51169966"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51748956"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Office 배포 도구에 대한 릴리스 기록
 
@@ -29,6 +29,12 @@ ODT를 사용하여 Office 설치를 더 강력하게 제어할 수 있습니다
 
 [Office 배포 도구 다운로드](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
 
+## <a name="april-13-2021"></a>2021년 4월 13일
+버전 16.0.13901.20336(setup.exe 버전 16.0.13901.20328)
+- Office가 이미 설치된 장치에서 실행되는 구성 작업을 위한 안정성 문제 해결
+- 일부 시나리오에서 중복 진행률 UI가 표시되지 않도록 수정
+- UI에 표시된 오류 코드 정확도 향상
+- ARM 플랫폼에 대한 안정성 문제 해결
 
 ## <a name="march-23-2021"></a>2021년 3월 23일
 버전 16.0.13801.20360(setup.exe 버전 16.0.13801.20340)
