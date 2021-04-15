@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 앱에 대한 반기 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 547700388de93effd6e2d1ced5c5b1d6a570bdc3
-ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
+ms.openlocfilehash: 3a6494983603abca6e2dceec2abe3001b07b54a3
+ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51169616"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51748896"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>반기 기업 채널에 대한 릴리스 정보
 
@@ -29,6 +29,49 @@ ms.locfileid: "51169616"
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2008-april-13"></a>버전 2008: 4월 13일
+*버전 2008(빌드 13127.21506)*
+
+[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- .xls 또는 .xlt 형식으로 저장할 때 일부 피벗 테이블 형식이 워크북을 손상시키는 문제를 해결했습니다.
+
+
+- 통합 문서를 열 때 일부 노트가 예기치 않게 표시되는 문제를 해결했습니다.
+
+
+### <a name="outlook"></a>Outlook
+
+- 프로필에 큰 계층이 있는 공유 사서함 또는 위임된 사서함이 중단되는 문제가 수정되었습니다.
+
+
+- 일부 사용자가 사서함을 동기화할 때 발생하는 예기치 않은 종료 문제가 수정되었습니다.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 사용자 카드를 표시하고 다른 응용 프로그램으로 이동한 후 Office 응용 프로그램이 응답하지 않는 문제가 수정되었습니다.
+
+
+### <a name="word"></a>Word
+
+- Word 문서를 저장하고 다시 열 때 기본 제공 민감도 레이블 단추가 회색으로 표시되는 문제를 해결합니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
+
+## <a name="version-2002-april-13"></a>버전 2002: 4월 13일
+*버전 2002 (빌드 12527.21814)*
+
+[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)에 보안 업데이트가 나열됩니다.
 
 ## <a name="version-2008-march-09"></a>버전 2008: 3월 9일
 *버전 2008(빌드 13127.21348)*
@@ -192,7 +235,7 @@ ms.locfileid: "51169616"
 
 - **받은 편지함을 벗어나지 않고 모임 참가:** 온라인 모임에 참가하기 위해 일정으로 전환할 필요가 없습니다. 할 일 창에 일정이 고정된 경우 Exchange Server 2019 또는 Exchange Online에서 호스트되는 사용자 계정은 클릭 한 번으로 모임에 참가할 수 있습니다. [자세한 정보](https://support.office.com/article/d8baa9d5-0645-41b8-9f36-b498a6c36064 )
 
-- **종속적인 Wi-Fi 네트워크에 대한 새로운 경험:** 로그인하기 위해 웹 페이지가 필요한 Wi-Fi 네트워크에 가입한 적이 있습니까? 이제 Outlook이 이를 감지하여 연결하는 데 도움을 줍니다.<br />[블로그 게시물](https://insider.office.com/en-us/blog/outlook-on-public-wi-fi-networks-just-got-easier)에서 세부 정보를 참조하세요.
+- **종속적인 Wi-Fi 네트워크에 대한 새로운 경험:** 로그인하기 위해 웹 페이지가 필요한 Wi-Fi 네트워크에 가입한 적이 있습니까? 이제 Outlook이 이를 감지하여 연결하는 데 도움을 줍니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/outlook-on-public-wi-fi-networks-just-got-easier)에서 세부 정보를 참조하세요.
 
 - **사람을 검색할 때 전자 메일 제안 받기:** 검색 상자에 사람의 이름을 입력하면 가장 관련성이 높은 전자 메일 메시지가 검색 제안에 포함됩니다. [자세한 정보](https://support.office.com/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
 
@@ -1811,7 +1854,7 @@ ms.locfileid: "51169616"
 
 - 사용자가 공유 일정 폴더를 OST와 동기화하는 데 문제가있어 이러한 폴더와 상호 작용할 때 권한 오류가 발생하는 문제를 해결합니다.
 
-- Citrix 환경에서 30개 이상의 일정을 볼 때 사용자에게 충돌이 발생하는 문제를 해결합니다. 여기에는 [이전 버전에 대해 문서화된 개별 KB](https://support.microsoft.com/en-us/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen)가 있습니다.
+- Citrix 환경에서 30개 이상의 일정을 볼 때 사용자에게 충돌이 발생하는 문제를 해결합니다. 여기에는 [이전 버전에 대해 문서화된 개별 KB](https://support.microsoft.com/ko-KR/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen)가 있습니다.
 
 - SMIME 알고리즘 선택 관련 문제를 수정합니다.
 
@@ -2689,6 +2732,7 @@ ms.locfileid: "51169616"
 
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|DC|Production| |16.0.13127.21506|version-2008-april-13|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21348|version-2008-march-09|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21216|version-2008-february-09|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21064|version-2008-january-12|)
