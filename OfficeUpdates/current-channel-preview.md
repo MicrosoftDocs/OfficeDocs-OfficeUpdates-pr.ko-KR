@@ -9,162 +9,172 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 이후 참가자 대상 그룹에게 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 33c05c859974d8ce27d3c21960b89b4fde20ee4b
-ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
+ms.openlocfilehash: 13bf5ee8022f586e051a49834c0a758b6e79dd92
+ms.sourcegitcommit: 674a79c70a4d83b9eddadaa70c56c0c4fb37fb5c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51749066"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "51875739"
 ---
-# <a name="release-notes-for-office-current-channel-preview"></a><span data-ttu-id="5080d-103">Office 현재 채널(미리 보기)에 대한 릴리스 정보</span><span class="sxs-lookup"><span data-stu-id="5080d-103">Release Notes for Office Current Channel (Preview)</span></span>
+# <a name="release-notes-for-office-current-channel-preview"></a><span data-ttu-id="1a0ed-103">Office 현재 채널(미리 보기)에 대한 릴리스 정보</span><span class="sxs-lookup"><span data-stu-id="1a0ed-103">Release Notes for Office Current Channel (Preview)</span></span>
 
-<span data-ttu-id="5080d-104">이 문서에는 Windows 데스크톱용 Word, Excel, PowerPoint, Outlook, Access, Project 및 Teams의 현재 채널(미리 보기) 빌드에 대한 릴리스 정보가 포함되어 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-104">This article contains release notes for Current Channel (Preview) builds of Word, Excel, PowerPoint, Outlook, Access, Project, and Teams for Windows desktop.</span></span> <span data-ttu-id="5080d-105">매주 Microsoft는 흥미로운 새 기능, 중요한 수정 사항, 여러분에게 알아야 할 중요한 문제를 강조합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-105">Every week, we’ll highlight interesting new features, important fixes, and any significant issues we want you to know about.</span></span> <span data-ttu-id="5080d-106">일정 기간 동안 기능(때로는 수정)을 현재 채널(미리 보기)에 롤아웃하는 경우가 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-106">Note that we often roll out features (and sometimes even fixes) to Current Channel (Preview) over a period of time.</span></span> <span data-ttu-id="5080d-107">이로서 더욱 광범위한 사용자들에게 기능을 릴리스하기 전에 원활하게 작동하는지 확인할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-107">This allows us to ensure that things are working smoothly before releasing the feature to a wider audience.</span></span> <span data-ttu-id="5080d-108">따라서 아래에 설명된 기능이 보이지 않더라도 곧 제공되게 되므로 걱정할 필요가 없습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-108">So, if you don’t see something described below, don't worry you'll get it eventually.</span></span>  
+<span data-ttu-id="1a0ed-104">이 문서에는 Windows 데스크톱용 Word, Excel, PowerPoint, Outlook, Access, Project 및 Teams의 현재 채널(미리 보기) 빌드에 대한 릴리스 정보가 포함되어 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-104">This article contains release notes for Current Channel (Preview) builds of Word, Excel, PowerPoint, Outlook, Access, Project, and Teams for Windows desktop.</span></span> <span data-ttu-id="1a0ed-105">매주 Microsoft는 흥미로운 새 기능, 중요한 수정 사항, 여러분에게 알아야 할 중요한 문제를 강조합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-105">Every week, we’ll highlight interesting new features, important fixes, and any significant issues we want you to know about.</span></span> <span data-ttu-id="1a0ed-106">일정 기간 동안 기능(때로는 수정)을 현재 채널(미리 보기)에 롤아웃하는 경우가 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-106">Note that we often roll out features (and sometimes even fixes) to Current Channel (Preview) over a period of time.</span></span> <span data-ttu-id="1a0ed-107">이로서 더욱 광범위한 사용자들에게 기능을 릴리스하기 전에 원활하게 작동하는지 확인할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-107">This allows us to ensure that things are working smoothly before releasing the feature to a wider audience.</span></span> <span data-ttu-id="1a0ed-108">따라서 아래에 설명된 기능이 보이지 않더라도 곧 제공되게 되므로 걱정할 필요가 없습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-108">So, if you don’t see something described below, don't worry you'll get it eventually.</span></span>  
 
 > [!IMPORTANT]
-> <span data-ttu-id="5080d-109">당사는 Microsoft 365 앱에 대한 업데이트 채널을 일부 변경하고 있습니다. 여기에는 새 업데이트 채널 추가(월별 엔터프라이즈 채널) 및 기존 업데이트 채널의 이름 변경 등이 포함됩니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-109">We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels.</span></span> <span data-ttu-id="5080d-110">자세한 내용은 [이 문서를 참조](/DeployOffice/update-channels-changes)하세요.</span><span class="sxs-lookup"><span data-stu-id="5080d-110">To learn more, [read this article](/DeployOffice/update-channels-changes).</span></span>
+> <span data-ttu-id="1a0ed-109">당사는 Microsoft 365 앱에 대한 업데이트 채널을 일부 변경하고 있습니다. 여기에는 새 업데이트 채널 추가(월별 엔터프라이즈 채널) 및 기존 업데이트 채널의 이름 변경 등이 포함됩니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-109">We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels.</span></span> <span data-ttu-id="1a0ed-110">자세한 내용은 [이 문서를 참조](/DeployOffice/update-channels-changes)하세요.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-110">To learn more, [read this article](/DeployOffice/update-channels-changes).</span></span>
 
 > [!NOTE]
-> - <span data-ttu-id="5080d-111">릴리스 정보 게시 날짜는 실제 빌드 릴리스 날짜와 일치하지 않을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-111">The release notes publication date may not match the actual build release date.</span></span>
-> - <span data-ttu-id="5080d-112">Microsoft Teams 기능은 릴리스 주기가 보다 빈번하기 때문에 최근에 릴리스된 현재 채널 미리 보기와 다를 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-112">Microsoft Teams features may differ from the latest Current Channel Preview released as they have a more frequent release cadence.</span></span>
+> - <span data-ttu-id="1a0ed-111">릴리스 정보 게시 날짜는 실제 빌드 릴리스 날짜와 일치하지 않을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-111">The release notes publication date may not match the actual build release date.</span></span>
+> - <span data-ttu-id="1a0ed-112">Microsoft Teams 기능은 릴리스 주기가 보다 빈번하기 때문에 최근에 릴리스된 현재 채널 미리 보기와 다를 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-112">Microsoft Teams features may differ from the latest Current Channel Preview released as they have a more frequent release cadence.</span></span>
 
 [//]: # (제거하지 마세요)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-## <a name="version-2103-april-10"></a><span data-ttu-id="5080d-115">버전 2103: 4월 10일</span><span class="sxs-lookup"><span data-stu-id="5080d-115">Version 2103: April 10</span></span>
-<span data-ttu-id="5080d-116">*버전 2103(빌드 13901.20400)*</span><span class="sxs-lookup"><span data-stu-id="5080d-116">*Version 2103 (Build 13901.20400)*</span></span>
+## <a name="version-2103-april-13"></a><span data-ttu-id="1a0ed-115">버전 2103: 4월 13일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-115">Version 2103: April 13</span></span>
+<span data-ttu-id="1a0ed-116">*버전 2103(빌드 13901.20400)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-116">*Version 2103 (Build 13901.20400)*</span></span>
+
+### <a name="feature-updates"></a><span data-ttu-id="1a0ed-117">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="1a0ed-117">Feature updates</span></span>
+### <a name="teams"></a><span data-ttu-id="1a0ed-118">Teams</span><span class="sxs-lookup"><span data-stu-id="1a0ed-118">Teams</span></span>
+
+- <span data-ttu-id="1a0ed-119">**동적 보기** 동적 보기는 Teams 모임의 공유 콘텐츠 및 비디오 참가자를 자동으로 최적화합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-119">**Dynamic view** Dynamic view automatically optimizes shared content and video participants in Teams meetings.</span></span> <span data-ttu-id="1a0ed-120">새로운 컨트롤을 사용하면 공유 콘텐츠와 특정 참가자를 나란히 표시하는 기능과 같이 선호도와 요구 사항에 맞게 보기를 개인화할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-120">New controls let you personalize the view to suit your preferences and needs, such as the ability to show shared content and specific participants side-by-side.</span></span>
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2103-april-10"></a><span data-ttu-id="1a0ed-122">버전 2103: 4월 10일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-122">Version 2103: April 10</span></span>
+<span data-ttu-id="1a0ed-123">*버전 2103(빌드 13901.20400)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-123">*Version 2103 (Build 13901.20400)*</span></span>
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-118">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-118">Resolved issues</span></span>
-### <a name="excel"></a><span data-ttu-id="5080d-119">Excel</span><span class="sxs-lookup"><span data-stu-id="5080d-119">Excel</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-125">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-125">Resolved issues</span></span>
+### <a name="excel"></a><span data-ttu-id="1a0ed-126">Excel</span><span class="sxs-lookup"><span data-stu-id="1a0ed-126">Excel</span></span>
 
-- <span data-ttu-id="5080d-120">이미지를 그릴 때 잠재적인 리소스 경합 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-120">Fixed a potential resource contention issue in word when drawing an image.</span></span>
+- <span data-ttu-id="1a0ed-127">이미지를 그릴 때 잠재적인 리소스 경합 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-127">Fixed a potential resource contention issue in word when drawing an image.</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="5080d-121">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-121">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-128">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-128">Outlook</span></span>
 
-- <span data-ttu-id="5080d-122">일정을 추가할 때 사용자에게 "시간이 걸릴 수 있습니다"라는 메시지가 잘못 표시되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-122">We fixed an issue that cause users to erroneously see a "This may take a while" message when adding a calendar.</span></span>
+- <span data-ttu-id="1a0ed-129">일정을 추가할 때 사용자에게 "시간이 걸릴 수 있습니다"라는 메시지가 잘못 표시되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-129">We fixed an issue that cause users to erroneously see a "This may take a while" message when adding a calendar.</span></span>
 
-- <span data-ttu-id="5080d-123">대리인이 새로 추가된 일정에 생성된 모임의 이끌이로 표시되는 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-123">We fixed an issue that caused delegates to appear as the organizer of meetings created on newly added calendars.</span></span>  <span data-ttu-id="5080d-124">이 주의 회의는 교장의 달력에 표시되지 않았습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-124">Meetings in this state did not appear on the principal's calendar.</span></span>
+- <span data-ttu-id="1a0ed-130">대리인이 새로 추가된 일정에 생성된 모임의 이끌이로 표시되는 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-130">We fixed an issue that caused delegates to appear as the organizer of meetings created on newly added calendars.</span></span>  <span data-ttu-id="1a0ed-131">이 주의 회의는 교장의 달력에 표시되지 않았습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-131">Meetings in this state did not appear on the principal's calendar.</span></span>
 
-- <span data-ttu-id="5080d-125">이미지를 그릴 때 잠재적인 리소스 경합 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-125">Fixed a potential resource contention issue in word when drawing an image.</span></span>
+- <span data-ttu-id="1a0ed-132">이미지를 그릴 때 잠재적인 리소스 경합 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-132">Fixed a potential resource contention issue in word when drawing an image.</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="5080d-126">Powerpoint</span><span class="sxs-lookup"><span data-stu-id="5080d-126">Powerpoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="1a0ed-133">Powerpoint</span><span class="sxs-lookup"><span data-stu-id="1a0ed-133">Powerpoint</span></span>
 
-- <span data-ttu-id="5080d-127">이미지를 그릴 때 잠재적인 리소스 경합 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-127">Fixed a potential resource contention issue in word when drawing an image.</span></span>
+- <span data-ttu-id="1a0ed-134">이미지를 그릴 때 잠재적인 리소스 경합 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-134">Fixed a potential resource contention issue in word when drawing an image.</span></span>
 
-### <a name="word"></a><span data-ttu-id="5080d-128">Word</span><span class="sxs-lookup"><span data-stu-id="5080d-128">Word</span></span>
+### <a name="word"></a><span data-ttu-id="1a0ed-135">Word</span><span class="sxs-lookup"><span data-stu-id="1a0ed-135">Word</span></span>
 
-- <span data-ttu-id="5080d-129">이미지를 그릴 때 잠재적인 리소스 경합 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-129">Fixed a potential resource contention issue in word when drawing an image.</span></span>
+- <span data-ttu-id="1a0ed-136">이미지를 그릴 때 잠재적인 리소스 경합 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-136">Fixed a potential resource contention issue in word when drawing an image.</span></span>
 
-- <span data-ttu-id="5080d-130">인쇄 미리 보기에서 응답이 없는 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-130">Fixed a non-responsive issue while in Print preview.</span></span>
+- <span data-ttu-id="1a0ed-137">인쇄 미리 보기에서 응답이 없는 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-137">Fixed a non-responsive issue while in Print preview.</span></span>
 
-- <span data-ttu-id="5080d-131">로컬에 저장된 파일에 대한 자동 저장 설명 텍스트를 업데이트합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-131">Updates text on autosave callout for files saved locally.</span></span>
+- <span data-ttu-id="1a0ed-138">로컬에 저장된 파일에 대한 자동 저장 설명 텍스트를 업데이트합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-138">Updates text on autosave callout for files saved locally.</span></span>
 
-### <a name="office-suite"></a><span data-ttu-id="5080d-132">Office Suite</span><span class="sxs-lookup"><span data-stu-id="5080d-132">Office Suite</span></span>
+### <a name="office-suite"></a><span data-ttu-id="1a0ed-139">Office Suite</span><span class="sxs-lookup"><span data-stu-id="1a0ed-139">Office Suite</span></span>
 
-- <span data-ttu-id="5080d-133">SyncBacked 파일을 오프라인으로 열고 파일을 저장하기 전에 앱의 파일 이름을 바를 때 이름 변경 실패 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-133">Fixed rename failure issue when open a SyncBacked file offline then rename the file in app before saving file.</span></span>
+- <span data-ttu-id="1a0ed-140">SyncBacked 파일을 오프라인으로 열고 파일을 저장하기 전에 앱의 파일 이름을 바를 때 이름 변경 실패 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-140">Fixed rename failure issue when open a SyncBacked file offline then rename the file in app before saving file.</span></span>
 
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
-## <a name="version-2103-april-02"></a><span data-ttu-id="5080d-135">버전 2103: 4월 2일</span><span class="sxs-lookup"><span data-stu-id="5080d-135">Version 2103: April 02</span></span>
-<span data-ttu-id="5080d-136">*버전 2103(빌드 13901.20336)*</span><span class="sxs-lookup"><span data-stu-id="5080d-136">*Version 2103 (Build 13901.20336)*</span></span>
-* <span data-ttu-id="5080d-137">다양한 버그 및 성능 수정 사항.</span><span class="sxs-lookup"><span data-stu-id="5080d-137">Various bugs and performance fixes.</span></span>
+## <a name="version-2103-april-02"></a><span data-ttu-id="1a0ed-142">버전 2103: 4월 2일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-142">Version 2103: April 02</span></span>
+<span data-ttu-id="1a0ed-143">*버전 2103(빌드 13901.20336)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-143">*Version 2103 (Build 13901.20336)*</span></span>
+* <span data-ttu-id="1a0ed-144">다양한 버그 및 성능 수정 사항.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-144">Various bugs and performance fixes.</span></span>
 
-## <a name="version-2103-april-1"></a><span data-ttu-id="5080d-138">버전 2103: 4월 1일</span><span class="sxs-lookup"><span data-stu-id="5080d-138">Version 2103: April 1</span></span>
-<span data-ttu-id="5080d-139">*버전 2103(빌드 13901.20148)*</span><span class="sxs-lookup"><span data-stu-id="5080d-139">*Version 2103 (Build 13901.20148)*</span></span>
+## <a name="version-2103-april-1"></a><span data-ttu-id="1a0ed-145">버전 2103: 4월 1일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-145">Version 2103: April 1</span></span>
+<span data-ttu-id="1a0ed-146">*버전 2103(빌드 13901.20148)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-146">*Version 2103 (Build 13901.20148)*</span></span>
 
-### <a name="feature-updates"></a><span data-ttu-id="5080d-140">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="5080d-140">Feature updates</span></span>
-### <a name="teams"></a><span data-ttu-id="5080d-141">Teams</span><span class="sxs-lookup"><span data-stu-id="5080d-141">Teams</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="1a0ed-147">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="1a0ed-147">Feature updates</span></span>
+### <a name="teams"></a><span data-ttu-id="1a0ed-148">Teams</span><span class="sxs-lookup"><span data-stu-id="1a0ed-148">Teams</span></span>
 
-- <span data-ttu-id="5080d-142">**날짜/시간 형식** 이 업데이트를 통해 Teams의 날짜/시간 형식이 Mac 및 Windows 운영 체제 국가별 설정과 일치하게 됩니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-142">**Date/Time format** With this update, the date/time formats in Teams will match the Mac and Windows operating system regional settings.</span></span> <span data-ttu-id="5080d-143">이전에 Teams는 날짜/시간을 응용 프로그램의 언어에 해당하는 형식으로만 표시했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-143">Previously, Teams would only show date/time in the format corresponding to the application's language.</span></span> <span data-ttu-id="5080d-144">운영 체제의 일정관리 설정에 관계없이 그레고리력만 지원됩니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-144">It's important to note that only the Gregorian calendar is supported regardless of the operating system's calendar setting.</span></span> 
+- <span data-ttu-id="1a0ed-149">**날짜/시간 형식** 이 업데이트를 통해 Teams의 날짜/시간 형식이 Mac 및 Windows 운영 체제 국가별 설정과 일치하게 됩니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-149">**Date/Time format** With this update, the date/time formats in Teams will match the Mac and Windows operating system regional settings.</span></span> <span data-ttu-id="1a0ed-150">이전에 Teams는 날짜/시간을 응용 프로그램의 언어에 해당하는 형식으로만 표시했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-150">Previously, Teams would only show date/time in the format corresponding to the application's language.</span></span> <span data-ttu-id="1a0ed-151">운영 체제의 일정관리 설정에 관계없이 그레고리력만 지원됩니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-151">It's important to note that only the Gregorian calendar is supported regardless of the operating system's calendar setting.</span></span> 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
-## <a name="version-2103-march-30"></a><span data-ttu-id="5080d-146">버전 2103: 3월 30일</span><span class="sxs-lookup"><span data-stu-id="5080d-146">Version 2103: March 30</span></span>
-<span data-ttu-id="5080d-147">*버전 2103(빌드 13901.20312)*</span><span class="sxs-lookup"><span data-stu-id="5080d-147">*Version 2103 (Build 13901.20312)*</span></span>
-* <span data-ttu-id="5080d-148">다양한 버그 및 성능 수정 사항.</span><span class="sxs-lookup"><span data-stu-id="5080d-148">Various bugs and performance fixes.</span></span>
+## <a name="version-2103-march-30"></a><span data-ttu-id="1a0ed-153">버전 2103: 3월 30일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-153">Version 2103: March 30</span></span>
+<span data-ttu-id="1a0ed-154">*버전 2103(빌드 13901.20312)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-154">*Version 2103 (Build 13901.20312)*</span></span>
+* <span data-ttu-id="1a0ed-155">다양한 버그 및 성능 수정 사항.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-155">Various bugs and performance fixes.</span></span>
 
-## <a name="version-2103-march-28"></a><span data-ttu-id="5080d-149">버전 2103: 3월 28일</span><span class="sxs-lookup"><span data-stu-id="5080d-149">Version 2103: March 28</span></span>
-<span data-ttu-id="5080d-150">*버전 2103(빌드 13901.20306)*</span><span class="sxs-lookup"><span data-stu-id="5080d-150">*Version 2103 (Build 13901.20306)*</span></span>
+## <a name="version-2103-march-28"></a><span data-ttu-id="1a0ed-156">버전 2103: 3월 28일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-156">Version 2103: March 28</span></span>
+<span data-ttu-id="1a0ed-157">*버전 2103(빌드 13901.20306)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-157">*Version 2103 (Build 13901.20306)*</span></span>
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-152">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-152">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="5080d-153">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-153">Outlook</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-159">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-159">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-160">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-160">Outlook</span></span>
 
-- <span data-ttu-id="5080d-154">폴더 계층 구조 변경을 동기화할 때 일부 사용자에게 Outlook이 예기치 않게 닫히는 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-154">We fixed an issue that caused some users to experience Outlook to close unexpectedly when syncing folder hierarchy changes.</span></span>
+- <span data-ttu-id="1a0ed-161">폴더 계층 구조 변경을 동기화할 때 일부 사용자에게 Outlook이 예기치 않게 닫히는 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-161">We fixed an issue that caused some users to experience Outlook to close unexpectedly when syncing folder hierarchy changes.</span></span>
 
 
-- <span data-ttu-id="5080d-155">일부 사용자가 탐색 창에서 기본 및 보조 일정으로 전환하는 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-155">We fixed an issue that caused some users to see their primary and secondary calendar switching places in the Navigation Pane.</span></span>
+- <span data-ttu-id="1a0ed-162">일부 사용자가 탐색 창에서 기본 및 보조 일정으로 전환하는 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-162">We fixed an issue that caused some users to see their primary and secondary calendar switching places in the Navigation Pane.</span></span>
 
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
 
-## <a name="version-2103-march-22"></a><span data-ttu-id="5080d-157">버전 2103: 3월 22일</span><span class="sxs-lookup"><span data-stu-id="5080d-157">Version 2103: March 22</span></span>
-<span data-ttu-id="5080d-158">*버전 2103(빌드 13901.20230)*</span><span class="sxs-lookup"><span data-stu-id="5080d-158">*Version 2103 (Build 13901.20230)*</span></span>
+## <a name="version-2103-march-22"></a><span data-ttu-id="1a0ed-164">버전 2103: 3월 22일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-164">Version 2103: March 22</span></span>
+<span data-ttu-id="1a0ed-165">*버전 2103(빌드 13901.20230)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-165">*Version 2103 (Build 13901.20230)*</span></span>
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-160">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-160">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="5080d-161">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-161">Outlook</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-167">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-167">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-168">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-168">Outlook</span></span>
 
-- <span data-ttu-id="5080d-162">사용자에게 예상보다 더 많은 서명이 표시될 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-162">We fixed an issue that caused users to see more signatures than expected.</span></span>
+- <span data-ttu-id="1a0ed-169">사용자에게 예상보다 더 많은 서명이 표시될 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-169">We fixed an issue that caused users to see more signatures than expected.</span></span>
 
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
 
-## <a name="version-2103-march-15"></a><span data-ttu-id="5080d-164">버전 2103: 3월 15일</span><span class="sxs-lookup"><span data-stu-id="5080d-164">Version 2103: March 15</span></span>
-<span data-ttu-id="5080d-165">*버전 2103(빌드 13901.20170)*</span><span class="sxs-lookup"><span data-stu-id="5080d-165">*Version 2103 (Build 13901.20170)*</span></span>
+## <a name="version-2103-march-15"></a><span data-ttu-id="1a0ed-171">버전 2103: 3월 15일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-171">Version 2103: March 15</span></span>
+<span data-ttu-id="1a0ed-172">*버전 2103(빌드 13901.20170)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-172">*Version 2103 (Build 13901.20170)*</span></span>
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-167">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-167">Resolved issues</span></span>
-### <a name="project"></a><span data-ttu-id="5080d-168">Project</span><span class="sxs-lookup"><span data-stu-id="5080d-168">Project</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-174">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-174">Resolved issues</span></span>
+### <a name="project"></a><span data-ttu-id="1a0ed-175">Project</span><span class="sxs-lookup"><span data-stu-id="1a0ed-175">Project</span></span>
 
-- <span data-ttu-id="5080d-169">닫는 동안 Visio 작동이 중지되는 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-169">Fixed an issue where Visio could stop working during close.</span></span>
+- <span data-ttu-id="1a0ed-176">닫는 동안 Visio 작동이 중지되는 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-176">Fixed an issue where Visio could stop working during close.</span></span>
 
 
-### <a name="visio"></a><span data-ttu-id="5080d-170">Visio</span><span class="sxs-lookup"><span data-stu-id="5080d-170">Visio</span></span>
+### <a name="visio"></a><span data-ttu-id="1a0ed-177">Visio</span><span class="sxs-lookup"><span data-stu-id="1a0ed-177">Visio</span></span>
 
-- <span data-ttu-id="5080d-171">닫는 동안 Visio 작동이 중지되는 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-171">Fixed an issue where Visio could stop working during close.</span></span>
+- <span data-ttu-id="1a0ed-178">닫는 동안 Visio 작동이 중지되는 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-178">Fixed an issue where Visio could stop working during close.</span></span>
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
-## <a name="version-2103-march-11"></a><span data-ttu-id="5080d-174">버전 2103: 3월 11일</span><span class="sxs-lookup"><span data-stu-id="5080d-174">Version 2103: March 11</span></span>
-<span data-ttu-id="5080d-175">*버전 2103(빌드 13901.20148)*</span><span class="sxs-lookup"><span data-stu-id="5080d-175">*Version 2103 (Build 13901.20148)*</span></span>
+## <a name="version-2103-march-11"></a><span data-ttu-id="1a0ed-181">버전 2103: 3월 11일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-181">Version 2103: March 11</span></span>
+<span data-ttu-id="1a0ed-182">*버전 2103(빌드 13901.20148)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-182">*Version 2103 (Build 13901.20148)*</span></span>
 
-### <a name="feature-updates"></a><span data-ttu-id="5080d-176">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="5080d-176">Feature updates</span></span>
-### <a name="excel"></a><span data-ttu-id="5080d-177">Excel</span><span class="sxs-lookup"><span data-stu-id="5080d-177">Excel</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="1a0ed-183">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="1a0ed-183">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="1a0ed-184">Excel</span><span class="sxs-lookup"><span data-stu-id="1a0ed-184">Excel</span></span>
 
-- <span data-ttu-id="5080d-178">**중요한 암호화된 문서에 자동 저장 및 공동 작성**: 생산성과 보안을 바꾸지 마세요.</span><span class="sxs-lookup"><span data-stu-id="5080d-178">**AutoSave and coauthoring on sensitive encrypted documents:** Don't trade off productivity for security.</span></span> <span data-ttu-id="5080d-179">Microsoft Information Protection을 사용하면 민감도 레이블로 암호화된 문서를 자동 저장하여 암호화되지 않은 문서와 마찬가지로 실시간으로 다른 사용자와 공동 작성할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-179">With Microsoft Information Protection, documents that are encrypted with sensitivity labels can now be AutoSaved and co-authored with others in real time just like unencrypted documents can.</span></span> <span data-ttu-id="5080d-180">테넌트 옵트인(자세한 정보: https://aka.ms/mipcoauth)이 필요합니다</span><span class="sxs-lookup"><span data-stu-id="5080d-180">Requires tenant opt-in (more info: https://aka.ms/mipcoauth).</span></span>
+- <span data-ttu-id="1a0ed-185">**중요한 암호화된 문서에 자동 저장 및 공동 작성**: 생산성과 보안을 바꾸지 마세요.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-185">**AutoSave and coauthoring on sensitive encrypted documents:** Don't trade off productivity for security.</span></span> <span data-ttu-id="1a0ed-186">Microsoft Information Protection을 사용하면 민감도 레이블로 암호화된 문서를 자동 저장하여 암호화되지 않은 문서와 마찬가지로 실시간으로 다른 사용자와 공동 작성할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-186">With Microsoft Information Protection, documents that are encrypted with sensitivity labels can now be AutoSaved and co-authored with others in real time just like unencrypted documents can.</span></span> <span data-ttu-id="1a0ed-187">테넌트 옵트인(자세한 정보: https://aka.ms/mipcoauth)이 필요합니다</span><span class="sxs-lookup"><span data-stu-id="1a0ed-187">Requires tenant opt-in (more info: https://aka.ms/mipcoauth).</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="5080d-181">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-181">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-188">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-188">Outlook</span></span>
 
-- <span data-ttu-id="5080d-182">**새 회의실 및 작업 영역 예약 환경:** 회의실 예약 환경이 새로 변경되었으며 개별 작업 영역도 예약할 수 있는 기능이 추가되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-182">**New conference room and workspace booking experience:** The conference room booking experience has been refreshed, and with it we've added capabilities to allow you to schedule individual workspaces as well</span></span>
+- <span data-ttu-id="1a0ed-189">**새 회의실 및 작업 영역 예약 환경:** 회의실 예약 환경이 새로 변경되었으며 개별 작업 영역도 예약할 수 있는 기능이 추가되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-189">**New conference room and workspace booking experience:** The conference room booking experience has been refreshed, and with it we've added capabilities to allow you to schedule individual workspaces as well</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="5080d-183">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="5080d-183">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="1a0ed-190">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="1a0ed-190">PowerPoint</span></span>
 
-- <span data-ttu-id="5080d-184">**중요한 암호화된 문서에 자동 저장 및 공동 작성**: 생산성과 보안을 바꾸지 마세요.</span><span class="sxs-lookup"><span data-stu-id="5080d-184">**AutoSave and coauthoring on sensitive encrypted documents:** Don't trade off productivity for security.</span></span> <span data-ttu-id="5080d-185">Microsoft Information Protection을 사용하면 민감도 레이블로 암호화된 문서를 자동 저장하여 암호화되지 않은 문서와 마찬가지로 실시간으로 다른 사용자와 공동 작성할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-185">With Microsoft Information Protection, documents that are encrypted with sensitivity labels can now be AutoSaved and co-authored with others in real time just like unencrypted documents can.</span></span> <span data-ttu-id="5080d-186">테넌트 옵트인(자세한 정보: https://aka.ms/mipcoauth)이 필요합니다</span><span class="sxs-lookup"><span data-stu-id="5080d-186">Requires tenant opt-in (more info: https://aka.ms/mipcoauth).</span></span>
+- <span data-ttu-id="1a0ed-191">**중요한 암호화된 문서에 자동 저장 및 공동 작성**: 생산성과 보안을 바꾸지 마세요.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-191">**AutoSave and coauthoring on sensitive encrypted documents:** Don't trade off productivity for security.</span></span> <span data-ttu-id="1a0ed-192">Microsoft Information Protection을 사용하면 민감도 레이블로 암호화된 문서를 자동 저장하여 암호화되지 않은 문서와 마찬가지로 실시간으로 다른 사용자와 공동 작성할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-192">With Microsoft Information Protection, documents that are encrypted with sensitivity labels can now be AutoSaved and co-authored with others in real time just like unencrypted documents can.</span></span> <span data-ttu-id="1a0ed-193">테넌트 옵트인(자세한 정보: https://aka.ms/mipcoauth)이 필요합니다</span><span class="sxs-lookup"><span data-stu-id="1a0ed-193">Requires tenant opt-in (more info: https://aka.ms/mipcoauth).</span></span>
 
-### <a name="teams"></a><span data-ttu-id="5080d-187">Teams</span><span class="sxs-lookup"><span data-stu-id="5080d-187">Teams</span></span>
+### <a name="teams"></a><span data-ttu-id="1a0ed-194">Teams</span><span class="sxs-lookup"><span data-stu-id="1a0ed-194">Teams</span></span>
 
-- <span data-ttu-id="5080d-188">**부재 중 상태** 다른 사용자가 채팅 메시지를 보내면 근무 중이 아니거나 휴가 중이라 답장을 할 수 없다는 것을 알릴 수 있도록 메시지를 설정할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-188">**Out of Office status** Set up a message to let others know you're not working or on vacation so you're not available to reply when they send a chat message to you.</span></span> <span data-ttu-id="5080d-189">부재 중 상태도 Outlook 일정의 자동 응답과 동기화됩니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-189">Your Out of Office status will also sync with Automatic Replies in your Outlook calendar.</span></span>
+- <span data-ttu-id="1a0ed-195">**부재 중 상태** 다른 사용자가 채팅 메시지를 보내면 근무 중이 아니거나 휴가 중이라 답장을 할 수 없다는 것을 알릴 수 있도록 메시지를 설정할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-195">**Out of Office status** Set up a message to let others know you're not working or on vacation so you're not available to reply when they send a chat message to you.</span></span> <span data-ttu-id="1a0ed-196">부재 중 상태도 Outlook 일정의 자동 응답과 동기화됩니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-196">Your Out of Office status will also sync with Automatic Replies in your Outlook calendar.</span></span>
 
-### <a name="visio"></a><span data-ttu-id="5080d-190">Visio</span><span class="sxs-lookup"><span data-stu-id="5080d-190">Visio</span></span>
+### <a name="visio"></a><span data-ttu-id="1a0ed-197">Visio</span><span class="sxs-lookup"><span data-stu-id="1a0ed-197">Visio</span></span>
 
-- <span data-ttu-id="5080d-191">**Office 아이콘이 새롭게 단장했습니다.** 간단하고 강력하며 지능적인 Office 환경을 반영하여 제품 아이콘이 다시 디자인되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-191">**Office icons have a new look:** The product icons have been redesigned to reflect simple, powerful, and intelligent Office experiences.</span></span> [<span data-ttu-id="5080d-192">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="5080d-192">Learn more</span></span>](https://support.office.com/article/a6cdf19a-b2bd-4be1-9515-d74a37aa59bf)
+- <span data-ttu-id="1a0ed-198">**Office 아이콘이 새롭게 단장했습니다.** 간단하고 강력하며 지능적인 Office 환경을 반영하여 제품 아이콘이 다시 디자인되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-198">**Office icons have a new look:** The product icons have been redesigned to reflect simple, powerful, and intelligent Office experiences.</span></span> [<span data-ttu-id="1a0ed-199">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="1a0ed-199">Learn more</span></span>](https://support.office.com/article/a6cdf19a-b2bd-4be1-9515-d74a37aa59bf)
 
-### <a name="word"></a><span data-ttu-id="5080d-193">Word</span><span class="sxs-lookup"><span data-stu-id="5080d-193">Word</span></span>
+### <a name="word"></a><span data-ttu-id="1a0ed-200">Word</span><span class="sxs-lookup"><span data-stu-id="1a0ed-200">Word</span></span>
 
-- <span data-ttu-id="5080d-194">**Word 문서용 어두운 모드:** 어두운 모드는 눈의 부담을 줄이고 문서에서 작업하는 동안 밝은 민감도를 수용하는 데 도움이 될 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-194">**Dark Mode for Word documents:** Dark Mode may help reduce eye strain and accommodate light sensitivity while working on your documents.</span></span>
+- <span data-ttu-id="1a0ed-201">**Word 문서용 어두운 모드:** 어두운 모드는 눈의 부담을 줄이고 문서에서 작업하는 동안 밝은 민감도를 수용하는 데 도움이 될 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-201">**Dark Mode for Word documents:** Dark Mode may help reduce eye strain and accommodate light sensitivity while working on your documents.</span></span>
 
-- <span data-ttu-id="5080d-195">**중요한 암호화된 문서에 자동 저장 및 공동 작성**: 생산성과 보안을 바꾸지 마세요.</span><span class="sxs-lookup"><span data-stu-id="5080d-195">**AutoSave and coauthoring on sensitive encrypted documents:** Don't trade off productivity for security.</span></span> <span data-ttu-id="5080d-196">Microsoft Information Protection을 사용하면 민감도 레이블로 암호화된 문서를 자동 저장하여 암호화되지 않은 문서와 마찬가지로 실시간으로 다른 사용자와 공동 작성할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-196">With Microsoft Information Protection, documents that are encrypted with sensitivity labels can now be AutoSaved and co-authored with others in real time just like unencrypted documents can.</span></span> <span data-ttu-id="5080d-197">테넌트 옵트인(자세한 정보: https://aka.ms/mipcoauth)이 필요합니다</span><span class="sxs-lookup"><span data-stu-id="5080d-197">Requires tenant opt-in (more info: https://aka.ms/mipcoauth).</span></span>
+- <span data-ttu-id="1a0ed-202">**중요한 암호화된 문서에 자동 저장 및 공동 작성**: 생산성과 보안을 바꾸지 마세요.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-202">**AutoSave and coauthoring on sensitive encrypted documents:** Don't trade off productivity for security.</span></span> <span data-ttu-id="1a0ed-203">Microsoft Information Protection을 사용하면 민감도 레이블로 암호화된 문서를 자동 저장하여 암호화되지 않은 문서와 마찬가지로 실시간으로 다른 사용자와 공동 작성할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-203">With Microsoft Information Protection, documents that are encrypted with sensitivity labels can now be AutoSaved and co-authored with others in real time just like unencrypted documents can.</span></span> <span data-ttu-id="1a0ed-204">테넌트 옵트인(자세한 정보: https://aka.ms/mipcoauth)이 필요합니다</span><span class="sxs-lookup"><span data-stu-id="1a0ed-204">Requires tenant opt-in (more info: https://aka.ms/mipcoauth).</span></span>
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -173,225 +183,225 @@ ms.locfileid: "51749066"
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-200">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-200">Resolved issues</span></span>
-### <a name="access"></a><span data-ttu-id="5080d-201">액세스</span><span class="sxs-lookup"><span data-stu-id="5080d-201">Access</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-207">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-207">Resolved issues</span></span>
+### <a name="access"></a><span data-ttu-id="1a0ed-208">액세스</span><span class="sxs-lookup"><span data-stu-id="1a0ed-208">Access</span></span>
 
-- <span data-ttu-id="5080d-202">외장 드라이브를 제거할 때 예기치 않은 앱이 닫히는 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-202">We fixed an issue that could lead to an unexpected app close when removing an external drive.</span></span>
+- <span data-ttu-id="1a0ed-209">외장 드라이브를 제거할 때 예기치 않은 앱이 닫히는 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-209">We fixed an issue that could lead to an unexpected app close when removing an external drive.</span></span>
 
 
-- <span data-ttu-id="5080d-203">외부 응용 프로그램이 접근성 인터페이스를 요청하는 경우 참조가 릴리스될 때까지 종료되지 않도록 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-203">We fixed an issue when an external application requests an accessibility interface, it will prevent us from shutting down until they release their reference.</span></span>
+- <span data-ttu-id="1a0ed-210">외부 응용 프로그램이 접근성 인터페이스를 요청하는 경우 참조가 릴리스될 때까지 종료되지 않도록 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-210">We fixed an issue when an external application requests an accessibility interface, it will prevent us from shutting down until they release their reference.</span></span>
 
 
-### <a name="excel"></a><span data-ttu-id="5080d-204">Excel</span><span class="sxs-lookup"><span data-stu-id="5080d-204">Excel</span></span>
+### <a name="excel"></a><span data-ttu-id="1a0ed-211">Excel</span><span class="sxs-lookup"><span data-stu-id="1a0ed-211">Excel</span></span>
 
-- <span data-ttu-id="5080d-205">외장 드라이브를 제거할 때 예기치 않은 앱이 닫히는 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-205">We fixed an issue that could lead to an unexpected app close when removing an external drive.</span></span>
+- <span data-ttu-id="1a0ed-212">외장 드라이브를 제거할 때 예기치 않은 앱이 닫히는 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-212">We fixed an issue that could lead to an unexpected app close when removing an external drive.</span></span>
 
 
-- <span data-ttu-id="5080d-206">이미지를 검색할 수 없는 문제로 인해 데이터 형식 카드를 표시하려고 할 때 Excel이 가끔 예기치 않게 닫히는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-206">Fixed an issue where Excel would sometimes close unexpectedly when trying to show the Data Types card due to a not being able to retrieve an image.</span></span>
+- <span data-ttu-id="1a0ed-213">이미지를 검색할 수 없는 문제로 인해 데이터 형식 카드를 표시하려고 할 때 Excel이 가끔 예기치 않게 닫히는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-213">Fixed an issue where Excel would sometimes close unexpectedly when trying to show the Data Types card due to a not being able to retrieve an image.</span></span>
 
 
-- <span data-ttu-id="5080d-207">일본어 글꼴로 곱셈 또는 나눗셈 기호를 사용할 때 글꼴이 예기치 않게 변경되는 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-207">Corrected an issue where the font would change unexpectedly when using a multiplication or divide sign with a Japanese font.</span></span> <span data-ttu-id="5080d-208">이제 문자를 지원하는 경우 동일한 글꼴을 계속 사용합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-208">We now continue to use the same font if it supports the character.</span></span>
+- <span data-ttu-id="1a0ed-214">일본어 글꼴로 곱셈 또는 나눗셈 기호를 사용할 때 글꼴이 예기치 않게 변경되는 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-214">Corrected an issue where the font would change unexpectedly when using a multiplication or divide sign with a Japanese font.</span></span> <span data-ttu-id="1a0ed-215">이제 문자를 지원하는 경우 동일한 글꼴을 계속 사용합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-215">We now continue to use the same font if it supports the character.</span></span>
 
 
-- <span data-ttu-id="5080d-209">사용자가 Excel 통합 문서를 PDF로 내보낼 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-209">We fixed an issue that prevented users from exporting an Excel workbook to PDF.</span></span>
+- <span data-ttu-id="1a0ed-216">사용자가 Excel 통합 문서를 PDF로 내보낼 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-216">We fixed an issue that prevented users from exporting an Excel workbook to PDF.</span></span>
 
 
-- <span data-ttu-id="5080d-210">연결된 그림 붙여넣기 옵션을 사용할 때 이미지가 예상보다 작아지는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-210">We fixed an issue which caused images to be smaller than expected when using the Paste Linked Picture option.</span></span>
+- <span data-ttu-id="1a0ed-217">연결된 그림 붙여넣기 옵션을 사용할 때 이미지가 예상보다 작아지는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-217">We fixed an issue which caused images to be smaller than expected when using the Paste Linked Picture option.</span></span>
 
 
-- <span data-ttu-id="5080d-211">공동 작업하는 동안 시트를 복사할 때 일부 서식이 손실되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-211">We fixed an issue where some formatting could be lost when copying a sheet while coauthoring.</span></span>
+- <span data-ttu-id="1a0ed-218">공동 작업하는 동안 시트를 복사할 때 일부 서식이 손실되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-218">We fixed an issue where some formatting could be lost when copying a sheet while coauthoring.</span></span>
 
 
-- <span data-ttu-id="5080d-212">통합 문서를 열 때 일부 노트가 예기치 않게 표시되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-212">We fixed an issue where some notes were unexpectedly shown when opening a workbook.</span></span>
+- <span data-ttu-id="1a0ed-219">통합 문서를 열 때 일부 노트가 예기치 않게 표시되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-219">We fixed an issue where some notes were unexpectedly shown when opening a workbook.</span></span>
 
 
-- <span data-ttu-id="5080d-213">.xls 또는 .xlt 형식으로 저장할 때 일부 피벗 테이블 형식으로 인해 통합 문서가 손상되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-213">We fixed an issue that caused some PivotTable formatting to corrupt the workbook when saving to the .xls or .xlt format.</span></span>
+- <span data-ttu-id="1a0ed-220">.xls 또는 .xlt 형식으로 저장할 때 일부 피벗 테이블 형식으로 인해 통합 문서가 손상되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-220">We fixed an issue that caused some PivotTable formatting to corrupt the workbook when saving to the .xls or .xlt format.</span></span>
 
 
-### <a name="outlook"></a><span data-ttu-id="5080d-214">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-214">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-221">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-221">Outlook</span></span>
 
-- <span data-ttu-id="5080d-215">외장 드라이브를 제거할 때 예기치 않은 앱이 닫히는 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-215">We fixed an issue that could lead to an unexpected app close when removing an external drive.</span></span>
+- <span data-ttu-id="1a0ed-222">외장 드라이브를 제거할 때 예기치 않은 앱이 닫히는 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-222">We fixed an issue that could lead to an unexpected app close when removing an external drive.</span></span>
 
 
-- <span data-ttu-id="5080d-216">사용자가 새 그룹을 만들고 나서 중복 일정 그룹이 나타나는 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-216">We fixed and issue that caused users to see duplicate calendar groups appearing after creating a new group.</span></span>
+- <span data-ttu-id="1a0ed-223">사용자가 새 그룹을 만들고 나서 중복 일정 그룹이 나타나는 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-223">We fixed and issue that caused users to see duplicate calendar groups appearing after creating a new group.</span></span>
 
 
-- <span data-ttu-id="5080d-217">공유 일정의 향상된 기능 사용자가 일정의 색을 노란색 또는 갈색으로 설정할 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-217">We fixed an issue that caused users of the Shared Calendar improvements to be unable to set a calendar's color to yellow or brown.</span></span>
+- <span data-ttu-id="1a0ed-224">공유 일정의 향상된 기능 사용자가 일정의 색을 노란색 또는 갈색으로 설정할 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-224">We fixed an issue that caused users of the Shared Calendar improvements to be unable to set a calendar's color to yellow or brown.</span></span>
 
 
-- <span data-ttu-id="5080d-218">Outlook이 다시 시작될 때까지 탐색 창에 새로 추가된 일정이 나타나지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-218">We fixed a problem that caused users to see newly added calendars fail to appear in the navigation pane until after Outlook had been restarted.</span></span>
+- <span data-ttu-id="1a0ed-225">Outlook이 다시 시작될 때까지 탐색 창에 새로 추가된 일정이 나타나지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-225">We fixed a problem that caused users to see newly added calendars fail to appear in the navigation pane until after Outlook had been restarted.</span></span>
 
 
-- <span data-ttu-id="5080d-219">ASCII가 아닌 문제를 해결했습니다.CSV로 내보낼 때 잘못 내보낼 문자입니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-219">We fixed an issue that caused non-ASCII characters to export incorrectly when exporting to CSV.</span></span>
+- <span data-ttu-id="1a0ed-226">ASCII가 아닌 문제를 해결했습니다.CSV로 내보낼 때 잘못 내보낼 문자입니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-226">We fixed an issue that caused non-ASCII characters to export incorrectly when exporting to CSV.</span></span>
 
 
-- <span data-ttu-id="5080d-220">일부 사람이 보조 메일 계정과 연결된 서명에 액세스할 수 없는 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-220">We fixed an issue that caused some people to be unable to access signatures associated with secondary mail accounts.</span></span>
+- <span data-ttu-id="1a0ed-227">일부 사람이 보조 메일 계정과 연결된 서명에 액세스할 수 없는 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-227">We fixed an issue that caused some people to be unable to access signatures associated with secondary mail accounts.</span></span>
 
 
-- <span data-ttu-id="5080d-221">새 장치에서 Outlook을 구성한 후 클라우드 설정 기능 사용자가 기본 설정으로 재정의된 사용자 지정 설정을 볼 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-221">We fixed an issue that caused users of the Cloud Settings feature to see customized settings overridden by default setting after configuring Outlook on a new device.</span></span>
+- <span data-ttu-id="1a0ed-228">새 장치에서 Outlook을 구성한 후 클라우드 설정 기능 사용자가 기본 설정으로 재정의된 사용자 지정 설정을 볼 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-228">We fixed an issue that caused users of the Cloud Settings feature to see customized settings overridden by default setting after configuring Outlook on a new device.</span></span>
 
 
-- <span data-ttu-id="5080d-222">유니코드 콘텐츠를 포함하는 서명이 손상되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-222">We fixed an issue that caused users to see signatures containing unicode content to get damaged.</span></span>
+- <span data-ttu-id="1a0ed-229">유니코드 콘텐츠를 포함하는 서명이 손상되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-229">We fixed an issue that caused users to see signatures containing unicode content to get damaged.</span></span>
 
 
-- <span data-ttu-id="5080d-223">인라인 번역 사용자가 피드백을 제출할 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-223">We fixed an issue that caused users of inline translation to be unable to submit feedback.</span></span>
+- <span data-ttu-id="1a0ed-230">인라인 번역 사용자가 피드백을 제출할 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-230">We fixed an issue that caused users of inline translation to be unable to submit feedback.</span></span>
 
 
-- <span data-ttu-id="5080d-224">DRM 보호를 제거할 때 첨부 파일이 복제될 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-224">We fixed an issue that caused users to see attachments getting duplicated when removing DRM protection.</span></span>
+- <span data-ttu-id="1a0ed-231">DRM 보호를 제거할 때 첨부 파일이 복제될 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-231">We fixed an issue that caused users to see attachments getting duplicated when removing DRM protection.</span></span>
 
 
-- <span data-ttu-id="5080d-225">메일을 작성할 때 사용자가 이름 확인을 사용하여 연락처 그룹을 검색할 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-225">We fixed an issue that caused users to be unable to look up a contact group with Check Names  when composing mail.</span></span>
+- <span data-ttu-id="1a0ed-232">메일을 작성할 때 사용자가 이름 확인을 사용하여 연락처 그룹을 검색할 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-232">We fixed an issue that caused users to be unable to look up a contact group with Check Names  when composing mail.</span></span>
 
 
-### <a name="powerpoint"></a><span data-ttu-id="5080d-226">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="5080d-226">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="1a0ed-233">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="1a0ed-233">PowerPoint</span></span>
 
-- <span data-ttu-id="5080d-227">외장 드라이브를 제거할 때 예기치 않은 앱이 닫히는 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-227">We fixed an issue that could lead to an unexpected app close when removing an external drive.</span></span>
+- <span data-ttu-id="1a0ed-234">외장 드라이브를 제거할 때 예기치 않은 앱이 닫히는 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-234">We fixed an issue that could lead to an unexpected app close when removing an external drive.</span></span>
 
 
-- <span data-ttu-id="5080d-228">PowerPoint 슬라이드쇼 모드에서 라인 차트의 화살표가 예상대로 표시되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-228">We fixed an issue where arrows in line charts were not appearing as expected in PowerPoint slideshow mode.</span></span>
+- <span data-ttu-id="1a0ed-235">PowerPoint 슬라이드쇼 모드에서 라인 차트의 화살표가 예상대로 표시되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-235">We fixed an issue where arrows in line charts were not appearing as expected in PowerPoint slideshow mode.</span></span>
 
 
-- <span data-ttu-id="5080d-229">애니메이션 및 오디오 책갈피 루핑 문제를 해결하고 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-229">Fixes an issue with looping animations and audio bookmarks.</span></span>
+- <span data-ttu-id="1a0ed-236">애니메이션 및 오디오 책갈피 루핑 문제를 해결하고 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-236">Fixes an issue with looping animations and audio bookmarks.</span></span>
 
 
-### <a name="project"></a><span data-ttu-id="5080d-230">Project</span><span class="sxs-lookup"><span data-stu-id="5080d-230">Project</span></span>
+### <a name="project"></a><span data-ttu-id="1a0ed-237">Project</span><span class="sxs-lookup"><span data-stu-id="1a0ed-237">Project</span></span>
 
-- <span data-ttu-id="5080d-231">닫는 동안 Visio 작동이 중지되는 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-231">Fixed an issue where Visio could stop working during close.</span></span>
+- <span data-ttu-id="1a0ed-238">닫는 동안 Visio 작동이 중지되는 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-238">Fixed an issue where Visio could stop working during close.</span></span>
 
 
-- <span data-ttu-id="5080d-232">외장 드라이브를 제거할 때 예기치 않은 앱이 닫히는 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-232">We fixed an issue that could lead to an unexpected app close when removing an external drive.</span></span>
+- <span data-ttu-id="1a0ed-239">외장 드라이브를 제거할 때 예기치 않은 앱이 닫히는 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-239">We fixed an issue that could lead to an unexpected app close when removing an external drive.</span></span>
 
 
-- <span data-ttu-id="5080d-233">100% 완료된 작업이 99% 완료됨으로 되돌아오는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-233">Fixed an issue where a task that are 100% complete may revert back to 99% complete.</span></span>
+- <span data-ttu-id="1a0ed-240">100% 완료된 작업이 99% 완료됨으로 되돌아오는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-240">Fixed an issue where a task that are 100% complete may revert back to 99% complete.</span></span>
 
 
-- <span data-ttu-id="5080d-234">JAWS를 실행하고 작업 정보 대화 상자로 이동하면 Project가 예기치 않게 종료될 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-234">Fixed an issue where Project may close unexpectedly if you are running JAWS and go to the task information dialog.</span></span>
+- <span data-ttu-id="1a0ed-241">JAWS를 실행하고 작업 정보 대화 상자로 이동하면 Project가 예기치 않게 종료될 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-241">Fixed an issue where Project may close unexpectedly if you are running JAWS and go to the task information dialog.</span></span>
 
 
-- <span data-ttu-id="5080d-235">표시기 열이 첫 번째 열 지점에 없는 경우 요약 작업을 잘라내면 하위 작업도 제거된다는 경고가 표시되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-235">Fixed an issue where if the indicator column is not in the first column spot, when you cut a summary task you aren't warned that the subtasks will also be removed.</span></span>
+- <span data-ttu-id="1a0ed-242">표시기 열이 첫 번째 열 지점에 없는 경우 요약 작업을 잘라내면 하위 작업도 제거된다는 경고가 표시되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-242">Fixed an issue where if the indicator column is not in the first column spot, when you cut a summary task you aren't warned that the subtasks will also be removed.</span></span>
 
 
-- <span data-ttu-id="5080d-236">사용자가 작업표에서 작업 기능에 직접 추가를 선택한 경우 생성된 배정에 올바른 자원 가용성 단위를 사용하지 못할 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-236">Fixed an issue where if a user selected the Add Yourself to a Task function on their Timesheet, the correctly resource availability units may not be used on the created assignment.</span></span>
+- <span data-ttu-id="1a0ed-243">사용자가 작업표에서 작업 기능에 직접 추가를 선택한 경우 생성된 배정에 올바른 자원 가용성 단위를 사용하지 못할 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-243">Fixed an issue where if a user selected the Add Yourself to a Task function on their Timesheet, the correctly resource availability units may not be used on the created assignment.</span></span>
 
 
-- <span data-ttu-id="5080d-237">Project Web App에서 로컬 파일로 프로젝트를 저장하는 경우 작업 분할이 잘못 생성될 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-237">Fixed an issue where task splits may be wrongly created when saving a project from Project web app to a local file.</span></span> <span data-ttu-id="5080d-238">이 문제는 표준이 아닌 작업 시간이 있는 작업 달력을 사용하는 경우 발생할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-238">This would happen if a task calendar with non-standard working times was being used.</span></span>
+- <span data-ttu-id="1a0ed-244">Project Web App에서 로컬 파일로 프로젝트를 저장하는 경우 작업 분할이 잘못 생성될 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-244">Fixed an issue where task splits may be wrongly created when saving a project from Project web app to a local file.</span></span> <span data-ttu-id="1a0ed-245">이 문제는 표준이 아닌 작업 시간이 있는 작업 달력을 사용하는 경우 발생할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-245">This would happen if a task calendar with non-standard working times was being used.</span></span>
 
 
-### <a name="publisher"></a><span data-ttu-id="5080d-239">게시자</span><span class="sxs-lookup"><span data-stu-id="5080d-239">Publisher</span></span>
+### <a name="publisher"></a><span data-ttu-id="1a0ed-246">게시자</span><span class="sxs-lookup"><span data-stu-id="1a0ed-246">Publisher</span></span>
 
-- <span data-ttu-id="5080d-240">외장 드라이브를 제거할 때 예기치 않은 앱이 닫히는 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-240">We fixed an issue that could lead to an unexpected app close when removing an external drive.</span></span>
+- <span data-ttu-id="1a0ed-247">외장 드라이브를 제거할 때 예기치 않은 앱이 닫히는 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-247">We fixed an issue that could lead to an unexpected app close when removing an external drive.</span></span>
 
 
-### <a name="visio"></a><span data-ttu-id="5080d-241">Visio</span><span class="sxs-lookup"><span data-stu-id="5080d-241">Visio</span></span>
+### <a name="visio"></a><span data-ttu-id="1a0ed-248">Visio</span><span class="sxs-lookup"><span data-stu-id="1a0ed-248">Visio</span></span>
 
-- <span data-ttu-id="5080d-242">닫는 동안 Visio 작동이 중지되는 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-242">Fixed an issue where Visio could stop working during close.</span></span>
+- <span data-ttu-id="1a0ed-249">닫는 동안 Visio 작동이 중지되는 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-249">Fixed an issue where Visio could stop working during close.</span></span>
 
 
-- <span data-ttu-id="5080d-243">외장 드라이브를 제거할 때 예기치 않은 앱이 닫히는 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-243">We fixed an issue that could lead to an unexpected app close when removing an external drive.</span></span>
+- <span data-ttu-id="1a0ed-250">외장 드라이브를 제거할 때 예기치 않은 앱이 닫히는 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-250">We fixed an issue that could lead to an unexpected app close when removing an external drive.</span></span>
 
 
-### <a name="word"></a><span data-ttu-id="5080d-244">Word</span><span class="sxs-lookup"><span data-stu-id="5080d-244">Word</span></span>
+### <a name="word"></a><span data-ttu-id="1a0ed-251">Word</span><span class="sxs-lookup"><span data-stu-id="1a0ed-251">Word</span></span>
 
-- <span data-ttu-id="5080d-245">사용자가 MIP 보호 레이블에 액세스할 수 있는 ID에 로그인하지 않은 경우 MIP(Microsoft Information Protection) 레이블로 보호된 파일을 여는 것이 무기한 중단될 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-245">We fixed an issue where opening a file protected with a Microsoft Information Protection (MIP) label can hang indefinitely if the user is not signed in to an identity that has access to the MIP protected label.</span></span> <span data-ttu-id="5080d-246">사용자는 로그인 프롬프트를 표시하기 위해 강제로 열기를 취소해야 하며, 해당 시점 이후에만 열기 작업이 성공합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-246">The user is forced to cancel the open to show the sign-in prompt, and the open only succeeds after that point.</span></span> <span data-ttu-id="5080d-247">열려 있는/다운로드 중에 로그인 프롬프트가 표시될 수 있도록 허용하여 이 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-247">Fixing this issue by allowing the sign-in prompt to be shown during open/download.</span></span>
+- <span data-ttu-id="1a0ed-252">사용자가 MIP 보호 레이블에 액세스할 수 있는 ID에 로그인하지 않은 경우 MIP(Microsoft Information Protection) 레이블로 보호된 파일을 여는 것이 무기한 중단될 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-252">We fixed an issue where opening a file protected with a Microsoft Information Protection (MIP) label can hang indefinitely if the user is not signed in to an identity that has access to the MIP protected label.</span></span> <span data-ttu-id="1a0ed-253">사용자는 로그인 프롬프트를 표시하기 위해 강제로 열기를 취소해야 하며, 해당 시점 이후에만 열기 작업이 성공합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-253">The user is forced to cancel the open to show the sign-in prompt, and the open only succeeds after that point.</span></span> <span data-ttu-id="1a0ed-254">열려 있는/다운로드 중에 로그인 프롬프트가 표시될 수 있도록 허용하여 이 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-254">Fixing this issue by allowing the sign-in prompt to be shown during open/download.</span></span>
 
 
-- <span data-ttu-id="5080d-248">외장 드라이브를 제거할 때 예기치 않은 앱이 닫히는 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-248">We fixed an issue that could lead to an unexpected app close when removing an external drive.</span></span>
+- <span data-ttu-id="1a0ed-255">외장 드라이브를 제거할 때 예기치 않은 앱이 닫히는 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-255">We fixed an issue that could lead to an unexpected app close when removing an external drive.</span></span>
 
 
-- <span data-ttu-id="5080d-249">열기/다운로드 중에 로그인 프롬프트를 표시하도록 하여 이 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-249">We fixed an issue when using Dictation in the new Word Commenting, the Dictation button in the Comment card now correctly toggles on and off.</span></span>
+- <span data-ttu-id="1a0ed-256">열기/다운로드 중에 로그인 프롬프트를 표시하도록 하여 이 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-256">We fixed an issue when using Dictation in the new Word Commenting, the Dictation button in the Comment card now correctly toggles on and off.</span></span>
 
 
-- <span data-ttu-id="5080d-250">문서를 공동 작성하는 경우 설명 순서가 변경되어도 활성 초안이 지워지지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-250">When coauthoring a document, active draft is not cleared when comment order changes.</span></span>
+- <span data-ttu-id="1a0ed-257">문서를 공동 작성하는 경우 설명 순서가 변경되어도 활성 초안이 지워지지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-257">When coauthoring a document, active draft is not cleared when comment order changes.</span></span>
 
 
-- <span data-ttu-id="5080d-251">새로운 Word Commenting에서 Diction을 사용할 때 문제가 해결되었습니다. Comment 카드의 Dictation 버튼을 사용하여 올바르게 켜지거나 꺼집니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-251">Fixed an issue where there was no space being inserted between words when users dictated into their document.</span></span>
+- <span data-ttu-id="1a0ed-258">새로운 Word Commenting에서 Diction을 사용할 때 문제가 해결되었습니다. Comment 카드의 Dictation 버튼을 사용하여 올바르게 켜지거나 꺼집니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-258">Fixed an issue where there was no space being inserted between words when users dictated into their document.</span></span>
 
 
-- <span data-ttu-id="5080d-252">스크롤 또는 확대/축소 애니메이션을 포함하는 스크롤 레이어와 관련된 렌더링 파이프라인의 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-252">Fixes an issue in the rendering pipeline related to scrolling layers that contain scroll or zoom animations.</span></span>
+- <span data-ttu-id="1a0ed-259">스크롤 또는 확대/축소 애니메이션을 포함하는 스크롤 레이어와 관련된 렌더링 파이프라인의 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-259">Fixes an issue in the rendering pipeline related to scrolling layers that contain scroll or zoom animations.</span></span>
 
 
-- <span data-ttu-id="5080d-253">3D 효과가 있는 아이콘 및 SVG 그래픽에 적용된 색과 관련된 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-253">Fixes an issue with colors applied to icons and SVG graphics with 3D effects.</span></span>
+- <span data-ttu-id="1a0ed-260">3D 효과가 있는 아이콘 및 SVG 그래픽에 적용된 색과 관련된 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-260">Fixes an issue with colors applied to icons and SVG graphics with 3D effects.</span></span>
 
 
-- <span data-ttu-id="5080d-254">자동 저장에서 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-254">We fixed an issue in AutoSave.</span></span>
+- <span data-ttu-id="1a0ed-261">자동 저장에서 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-261">We fixed an issue in AutoSave.</span></span>
 
 
-- <span data-ttu-id="5080d-255">각주의 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-255">We fixed an issue in footnote.</span></span>
+- <span data-ttu-id="1a0ed-262">각주의 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-262">We fixed an issue in footnote.</span></span>
 
 
-- <span data-ttu-id="5080d-256">RTL에 입력된 다중 회선 코멘트를 게시하여 오른쪽이 아닌 왼쪽에서 두 번째 회선과 이후 회선이 정렬되는 문제를 해결하였습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-256">We fixed an issue when posting multi-line comments typed in RTL caused the 2nd and onward lines to be aligned to the left instead of the right.</span></span>
+- <span data-ttu-id="1a0ed-263">RTL에 입력된 다중 회선 코멘트를 게시하여 오른쪽이 아닌 왼쪽에서 두 번째 회선과 이후 회선이 정렬되는 문제를 해결하였습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-263">We fixed an issue when posting multi-line comments typed in RTL caused the 2nd and onward lines to be aligned to the left instead of the right.</span></span>
 
 
-- <span data-ttu-id="5080d-257">여러 개의 메모를 정렬할 때와 관련된 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-257">We fixed an issue with alignment of multiple comments.</span></span>
+- <span data-ttu-id="1a0ed-264">여러 개의 메모를 정렬할 때와 관련된 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-264">We fixed an issue with alignment of multiple comments.</span></span>
 
 
-- <span data-ttu-id="5080d-258">소리 내어 읽기 작업 창 바로 가기 키의 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-258">We fixed an issue in Read Aloud task pane keyboard shortcuts.</span></span>
+- <span data-ttu-id="1a0ed-265">소리 내어 읽기 작업 창 바로 가기 키의 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-265">We fixed an issue in Read Aloud task pane keyboard shortcuts.</span></span>
 
 
-- <span data-ttu-id="5080d-259">내레이터에서 단락을 건너뛰는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-259">We fixed an issue with Narrator which may skips over a paragraph.</span></span>
+- <span data-ttu-id="1a0ed-266">내레이터에서 단락을 건너뛰는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-266">We fixed an issue with Narrator which may skips over a paragraph.</span></span>
 
 
-- <span data-ttu-id="5080d-260">맞춤법 검사가 두 개의 다른 맞춤법 수정 컨텍스트 메뉴 사이에서 전환되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-260">We fixed an issue where spell check switched between two different spelling correction context menus.</span></span>
+- <span data-ttu-id="1a0ed-267">맞춤법 검사가 두 개의 다른 맞춤법 수정 컨텍스트 메뉴 사이에서 전환되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-267">We fixed an issue where spell check switched between two different spelling correction context menus.</span></span>
 
 
-- <span data-ttu-id="5080d-261">서식 있는 텍스트 콘텐츠 컨트롤 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-261">We fixed an issue with Rich text content controls.</span></span>
+- <span data-ttu-id="1a0ed-268">서식 있는 텍스트 콘텐츠 컨트롤 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-268">We fixed an issue with Rich text content controls.</span></span>
 
 
-- <span data-ttu-id="5080d-262">숨겨진 단락 끝에 입력할 때 응용 프로그램이 중단될 수 있는 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-262">We fixed an issue with typing at the end of a hidden paragraph may result in application hang.</span></span>
+- <span data-ttu-id="1a0ed-269">숨겨진 단락 끝에 입력할 때 응용 프로그램이 중단될 수 있는 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-269">We fixed an issue with typing at the end of a hidden paragraph may result in application hang.</span></span>
 
 
-- <span data-ttu-id="5080d-263">열에 텍스트가 겹칠 수 있는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-263">We fixed an issue where columns might have overlapping text.</span></span>
+- <span data-ttu-id="1a0ed-270">열에 텍스트가 겹칠 수 있는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-270">We fixed an issue where columns might have overlapping text.</span></span>
 
 
-- <span data-ttu-id="5080d-264">책갈피와 관련된 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-264">We fixed an issue relating to bookmark.</span></span>
+- <span data-ttu-id="1a0ed-271">책갈피와 관련된 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-271">We fixed an issue relating to bookmark.</span></span>
 
 
-- <span data-ttu-id="5080d-265">공동으로 작성할 때 발생하는 충돌 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-265">We fixed an issue in resolving conflicts while in coauthoring.</span></span>
+- <span data-ttu-id="1a0ed-272">공동으로 작성할 때 발생하는 충돌 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-272">We fixed an issue in resolving conflicts while in coauthoring.</span></span>
 
 
-### <a name="office-suite"></a><span data-ttu-id="5080d-266">Office 제품군</span><span class="sxs-lookup"><span data-stu-id="5080d-266">Office Suite</span></span>
+### <a name="office-suite"></a><span data-ttu-id="1a0ed-273">Office 제품군</span><span class="sxs-lookup"><span data-stu-id="1a0ed-273">Office Suite</span></span>
 
-- <span data-ttu-id="5080d-267">이제 OneDrive 위치는 그룹 정책 설정에 따라 적절하게 필터링됩니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-267">OneDrive places are now filtered out as appropriate per the group policy setting.</span></span>
+- <span data-ttu-id="1a0ed-274">이제 OneDrive 위치는 그룹 정책 설정에 따라 적절하게 필터링됩니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-274">OneDrive places are now filtered out as appropriate per the group policy setting.</span></span>
 
 
-- <span data-ttu-id="5080d-268">수학 방정식을 포함하는 텍스트에서 내레이터를 사용할 때 발생할 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-268">Fixed an issue that could happen when using narrator within text that contains math equations.</span></span>
+- <span data-ttu-id="1a0ed-275">수학 방정식을 포함하는 텍스트에서 내레이터를 사용할 때 발생할 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-275">Fixed an issue that could happen when using narrator within text that contains math equations.</span></span>
 
 
-- <span data-ttu-id="5080d-269">세션 0에서 실행되는 Office 앱 지원과 관련된 안정성 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-269">Fixes a reliability issue related to support of Office apps running in session 0.</span></span>
+- <span data-ttu-id="1a0ed-276">세션 0에서 실행되는 Office 앱 지원과 관련된 안정성 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-276">Fixes a reliability issue related to support of Office apps running in session 0.</span></span>
 
 
-- <span data-ttu-id="5080d-270">세션 0에서 실행되는 Office 앱 지원과 관련된 안정성 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-270">Fixes a reliability issue related to support of Office apps running in session 0.</span></span>
+- <span data-ttu-id="1a0ed-277">세션 0에서 실행되는 Office 앱 지원과 관련된 안정성 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-277">Fixes a reliability issue related to support of Office apps running in session 0.</span></span>
 
 
-- <span data-ttu-id="5080d-271">EMF 이미지를 로드할 때 발생할 수 있는 응답 없음과 관련된 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-271">Fixes an issue related to unresponsiveness that may occur when loading EMF images.</span></span>
+- <span data-ttu-id="1a0ed-278">EMF 이미지를 로드할 때 발생할 수 있는 응답 없음과 관련된 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-278">Fixes an issue related to unresponsiveness that may occur when loading EMF images.</span></span>
 
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
 
-## <a name="version-2102-march-03"></a><span data-ttu-id="5080d-273">버전 2102: 3월 3일</span><span class="sxs-lookup"><span data-stu-id="5080d-273">Version 2102: March 03</span></span>
-<span data-ttu-id="5080d-274">*버전 2102(빌드 13801.20274)*</span><span class="sxs-lookup"><span data-stu-id="5080d-274">*Version 2102 (Build 13801.20274)*</span></span>
+## <a name="version-2102-march-03"></a><span data-ttu-id="1a0ed-280">버전 2102: 3월 3일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-280">Version 2102: March 03</span></span>
+<span data-ttu-id="1a0ed-281">*버전 2102(빌드 13801.20274)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-281">*Version 2102 (Build 13801.20274)*</span></span>
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-276">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-276">Resolved issues</span></span>
-### <a name="word"></a><span data-ttu-id="5080d-277">Word</span><span class="sxs-lookup"><span data-stu-id="5080d-277">Word</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-283">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-283">Resolved issues</span></span>
+### <a name="word"></a><span data-ttu-id="1a0ed-284">Word</span><span class="sxs-lookup"><span data-stu-id="1a0ed-284">Word</span></span>
 
-- <span data-ttu-id="5080d-278">아이콘 및 SVG 그래픽에 테마 정보가 적용되는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-278">Fixes an issue with theme information applied to icons and SVG graphics.</span></span>
+- <span data-ttu-id="1a0ed-285">아이콘 및 SVG 그래픽에 테마 정보가 적용되는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-285">Fixes an issue with theme information applied to icons and SVG graphics.</span></span>
 
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
 
-## <a name="version-2102-march-01"></a><span data-ttu-id="5080d-280">버전 2102: 3월 1일</span><span class="sxs-lookup"><span data-stu-id="5080d-280">Version 2102: March 01</span></span>
-<span data-ttu-id="5080d-281">*버전 2102(빌드 13801.20266)*</span><span class="sxs-lookup"><span data-stu-id="5080d-281">*Version 2102 (Build 13801.20266)*</span></span>
+## <a name="version-2102-march-01"></a><span data-ttu-id="1a0ed-287">버전 2102: 3월 1일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-287">Version 2102: March 01</span></span>
+<span data-ttu-id="1a0ed-288">*버전 2102(빌드 13801.20266)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-288">*Version 2102 (Build 13801.20266)*</span></span>
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="feature-updates"></a><span data-ttu-id="5080d-283">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="5080d-283">Feature updates</span></span>
-### <a name="outlook"></a><span data-ttu-id="5080d-284">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-284">Outlook</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="1a0ed-290">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="1a0ed-290">Feature updates</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-291">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-291">Outlook</span></span>
 
-- <span data-ttu-id="5080d-285">**Teams에 공유:** Teams 내 개인 또는 채널에 Outlook의 메시지를 공유합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-285">**Share to Teams:** Share messages from Outlook with a person or channel in Teams.</span></span>
+- <span data-ttu-id="1a0ed-292">**Teams에 공유:** Teams 내 개인 또는 채널에 Outlook의 메시지를 공유합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-292">**Share to Teams:** Share messages from Outlook with a person or channel in Teams.</span></span>
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -400,40 +410,40 @@ ms.locfileid: "51749066"
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-288">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-288">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="5080d-289">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-289">Outlook</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-295">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-295">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-296">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-296">Outlook</span></span>
 
-- <span data-ttu-id="5080d-290">사용자가 새 그룹을 만들고 나서 중복 일정 그룹이 나타나는 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-290">We fixed and issue that caused users to see duplicate calendar groups appearing after creating a new group.</span></span>
-
-
-- <span data-ttu-id="5080d-291">공유 일정의 향상된 기능 사용자가 일정의 색을 노란색 또는 갈색으로 설정할 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-291">We fixed an issue that caused users of the Shared Calendar improvements to be unable to set a calendar's color to yellow or brown.</span></span>
+- <span data-ttu-id="1a0ed-297">사용자가 새 그룹을 만들고 나서 중복 일정 그룹이 나타나는 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-297">We fixed and issue that caused users to see duplicate calendar groups appearing after creating a new group.</span></span>
 
 
-- <span data-ttu-id="5080d-292">일부 사용자가 메시지 창을 닫을 때 앱이 종료되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-292">We fixed an issue that  caused some users to experience the app to shut down when closing message windows.</span></span>
+- <span data-ttu-id="1a0ed-298">공유 일정의 향상된 기능 사용자가 일정의 색을 노란색 또는 갈색으로 설정할 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-298">We fixed an issue that caused users of the Shared Calendar improvements to be unable to set a calendar's color to yellow or brown.</span></span>
 
 
-- <span data-ttu-id="5080d-293">유니코드 콘텐츠를 포함하는 서명이 손상되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-293">We fixed an issue that caused users to see signatures containing unicode content to get damaged.</span></span>
+- <span data-ttu-id="1a0ed-299">일부 사용자가 메시지 창을 닫을 때 앱이 종료되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-299">We fixed an issue that  caused some users to experience the app to shut down when closing message windows.</span></span>
 
 
-- <span data-ttu-id="5080d-294">인라인 번역 사용자가 피드백을 제출할 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-294">We fixed an issue that caused users of inline translation to be unable to submit feedback.</span></span>
+- <span data-ttu-id="1a0ed-300">유니코드 콘텐츠를 포함하는 서명이 손상되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-300">We fixed an issue that caused users to see signatures containing unicode content to get damaged.</span></span>
+
+
+- <span data-ttu-id="1a0ed-301">인라인 번역 사용자가 피드백을 제출할 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-301">We fixed an issue that caused users of inline translation to be unable to submit feedback.</span></span>
 
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
 
-## <a name="version-2102-february-21"></a><span data-ttu-id="5080d-296">버전 2102: 2월 21일</span><span class="sxs-lookup"><span data-stu-id="5080d-296">Version 2102: February 21</span></span>
-<span data-ttu-id="5080d-297">*버전 2102(빌드 13801.20182)*</span><span class="sxs-lookup"><span data-stu-id="5080d-297">*Version 2102 (Build 13801.20182)*</span></span>
+## <a name="version-2102-february-21"></a><span data-ttu-id="1a0ed-303">버전 2102: 2월 21일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-303">Version 2102: February 21</span></span>
+<span data-ttu-id="1a0ed-304">*버전 2102(빌드 13801.20182)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-304">*Version 2102 (Build 13801.20182)*</span></span>
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="feature-updates"></a><span data-ttu-id="5080d-299">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="5080d-299">Feature updates</span></span>
-### <a name="outlook"></a><span data-ttu-id="5080d-300">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-300">Outlook</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="1a0ed-306">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="1a0ed-306">Feature updates</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-307">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-307">Outlook</span></span>
 
-- <span data-ttu-id="5080d-301">**음성으로 메시지 초안 작성:** 새 받아쓰기 도구 모음, 음성 명령, 자동 입력 등을 사용하여 메시지를 작성합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-301">**Draft messages with your voice:** Use the new dictation toolbar, voice commands, auto-punctuation, and more to compose messages.</span></span>
+- <span data-ttu-id="1a0ed-308">**음성으로 메시지 초안 작성:** 새 받아쓰기 도구 모음, 음성 명령, 자동 입력 등을 사용하여 메시지를 작성합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-308">**Draft messages with your voice:** Use the new dictation toolbar, voice commands, auto-punctuation, and more to compose messages.</span></span>
 
-### <a name="word"></a><span data-ttu-id="5080d-302">Word</span><span class="sxs-lookup"><span data-stu-id="5080d-302">Word</span></span>
+### <a name="word"></a><span data-ttu-id="1a0ed-309">Word</span><span class="sxs-lookup"><span data-stu-id="1a0ed-309">Word</span></span>
 
-- <span data-ttu-id="5080d-303">**음성으로 문서 초안 작성:** 새 받아쓰기 도구 모음, 음성 명령 및 자동 맞춤법을 사용하여 문서의 초안을 작성합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-303">**Draft documents with your voice:** Use the new dictation toolbar, voice commands and auto-punctuation to draft documents.</span></span>
+- <span data-ttu-id="1a0ed-310">**음성으로 문서 초안 작성:** 새 받아쓰기 도구 모음, 음성 명령 및 자동 맞춤법을 사용하여 문서의 초안을 작성합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-310">**Draft documents with your voice:** Use the new dictation toolbar, voice commands and auto-punctuation to draft documents.</span></span>
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -442,32 +452,32 @@ ms.locfileid: "51749066"
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-306">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-306">Resolved issues</span></span>
-### <a name="excel"></a><span data-ttu-id="5080d-307">Excel</span><span class="sxs-lookup"><span data-stu-id="5080d-307">Excel</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-313">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-313">Resolved issues</span></span>
+### <a name="excel"></a><span data-ttu-id="1a0ed-314">Excel</span><span class="sxs-lookup"><span data-stu-id="1a0ed-314">Excel</span></span>
 
-- <span data-ttu-id="5080d-308">연결된 그림 붙여넣기 옵션을 사용할 때 이미지가 예상보다 작아지는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-308">We fixed an issue which caused images to bee smaller than expected when using the Paste Linked Picture option.</span></span>
+- <span data-ttu-id="1a0ed-315">연결된 그림 붙여넣기 옵션을 사용할 때 이미지가 예상보다 작아지는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-315">We fixed an issue which caused images to bee smaller than expected when using the Paste Linked Picture option.</span></span>
 
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
 
-## <a name="version-2102-february-16"></a><span data-ttu-id="5080d-310">버전 2102: 2월 16일</span><span class="sxs-lookup"><span data-stu-id="5080d-310">Version 2102: February 16</span></span>
-<span data-ttu-id="5080d-311">*버전 2102(빌드 13801.20160)*</span><span class="sxs-lookup"><span data-stu-id="5080d-311">*Version 2102 (Build 13801.20160)*</span></span>
-* <span data-ttu-id="5080d-312">다양한 버그 및 성능 수정 사항.</span><span class="sxs-lookup"><span data-stu-id="5080d-312">Various bugs and performance fixes.</span></span>
+## <a name="version-2102-february-16"></a><span data-ttu-id="1a0ed-317">버전 2102: 2월 16일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-317">Version 2102: February 16</span></span>
+<span data-ttu-id="1a0ed-318">*버전 2102(빌드 13801.20160)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-318">*Version 2102 (Build 13801.20160)*</span></span>
+* <span data-ttu-id="1a0ed-319">다양한 버그 및 성능 수정 사항.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-319">Various bugs and performance fixes.</span></span>
 
-## <a name="version-2102-february-15"></a><span data-ttu-id="5080d-313">버전 2102: 2월 15일</span><span class="sxs-lookup"><span data-stu-id="5080d-313">Version 2102: February 15</span></span>
-<span data-ttu-id="5080d-314">*버전 2102(빌드 13801.20158)*</span><span class="sxs-lookup"><span data-stu-id="5080d-314">*Version 2102 (Build 13801.20158)*</span></span>
+## <a name="version-2102-february-15"></a><span data-ttu-id="1a0ed-320">버전 2102: 2월 15일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-320">Version 2102: February 15</span></span>
+<span data-ttu-id="1a0ed-321">*버전 2102(빌드 13801.20158)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-321">*Version 2102 (Build 13801.20158)*</span></span>
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="feature-updates"></a><span data-ttu-id="5080d-316">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="5080d-316">Feature updates</span></span>
-### <a name="outlook"></a><span data-ttu-id="5080d-317">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-317">Outlook</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="1a0ed-323">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="1a0ed-323">Feature updates</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-324">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-324">Outlook</span></span>
 
-- <span data-ttu-id="5080d-318">**받아쓰기 기능을 사용할 수 있는 추가 언어:** 이제 다음 7개 언어에서 받아쓰기 기능을 사용할 수 있습니다. 힌디어, 러시아어, 폴란드어, 포르투갈어(포르투갈), 한국어, 태국어, 중국어(대만)</span><span class="sxs-lookup"><span data-stu-id="5080d-318">**Dictation is available in more languages:** Dictation now supports 7 new languages: Hindi, Russian, Polish, Portuguese (Portugal), Korean, Thai, Chinese (Taiwan)</span></span>
+- <span data-ttu-id="1a0ed-325">**받아쓰기 기능을 사용할 수 있는 추가 언어:** 이제 다음 7개 언어에서 받아쓰기 기능을 사용할 수 있습니다. 힌디어, 러시아어, 폴란드어, 포르투갈어(포르투갈), 한국어, 태국어, 중국어(대만)</span><span class="sxs-lookup"><span data-stu-id="1a0ed-325">**Dictation is available in more languages:** Dictation now supports 7 new languages: Hindi, Russian, Polish, Portuguese (Portugal), Korean, Thai, Chinese (Taiwan)</span></span>
 
-### <a name="word"></a><span data-ttu-id="5080d-319">Word</span><span class="sxs-lookup"><span data-stu-id="5080d-319">Word</span></span>
+### <a name="word"></a><span data-ttu-id="1a0ed-326">Word</span><span class="sxs-lookup"><span data-stu-id="1a0ed-326">Word</span></span>
 
-- <span data-ttu-id="5080d-320">**받아쓰기 기능을 사용할 수 있는 추가 언어:** 이제 다음 7개 언어에서 받아쓰기 기능을 사용할 수 있습니다. 힌디어, 러시아어, 폴란드어, 포르투갈어(포르투갈), 한국어, 태국어, 중국어(대만)</span><span class="sxs-lookup"><span data-stu-id="5080d-320">**Dictation is available in more languages:** Dictation now supports 7 new languages: Hindi, Russian, Polish, Portuguese (Portugal), Korean, Thai, Chinese (Taiwan)</span></span>
+- <span data-ttu-id="1a0ed-327">**받아쓰기 기능을 사용할 수 있는 추가 언어:** 이제 다음 7개 언어에서 받아쓰기 기능을 사용할 수 있습니다. 힌디어, 러시아어, 폴란드어, 포르투갈어(포르투갈), 한국어, 태국어, 중국어(대만)</span><span class="sxs-lookup"><span data-stu-id="1a0ed-327">**Dictation is available in more languages:** Dictation now supports 7 new languages: Hindi, Russian, Polish, Portuguese (Portugal), Korean, Thai, Chinese (Taiwan)</span></span>
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -476,209 +486,45 @@ ms.locfileid: "51749066"
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-323">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-323">Resolved issues</span></span>
-### <a name="excel"></a><span data-ttu-id="5080d-324">Excel</span><span class="sxs-lookup"><span data-stu-id="5080d-324">Excel</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-330">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-330">Resolved issues</span></span>
+### <a name="excel"></a><span data-ttu-id="1a0ed-331">Excel</span><span class="sxs-lookup"><span data-stu-id="1a0ed-331">Excel</span></span>
 
-- <span data-ttu-id="5080d-325">사용자가 Excel 통합 문서를 PDF로 내보낼 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-325">We fixed an issue that prevented users from exporting an Excel workbook to PDF.</span></span>
+- <span data-ttu-id="1a0ed-332">사용자가 Excel 통합 문서를 PDF로 내보낼 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-332">We fixed an issue that prevented users from exporting an Excel workbook to PDF.</span></span>
 
 
-### <a name="word"></a><span data-ttu-id="5080d-326">Word</span><span class="sxs-lookup"><span data-stu-id="5080d-326">Word</span></span>
+### <a name="word"></a><span data-ttu-id="1a0ed-333">Word</span><span class="sxs-lookup"><span data-stu-id="1a0ed-333">Word</span></span>
 
-- <span data-ttu-id="5080d-327">공동으로 작성할 때 발생하는 충돌 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-327">We fixed an issue in resolving conflicts while in coauthoring.</span></span>
+- <span data-ttu-id="1a0ed-334">공동으로 작성할 때 발생하는 충돌 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-334">We fixed an issue in resolving conflicts while in coauthoring.</span></span>
 
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
 
 
-## <a name="version-2102-february-11"></a><span data-ttu-id="5080d-329">버전 2102: 2월 11일</span><span class="sxs-lookup"><span data-stu-id="5080d-329">Version 2102: February 11</span></span>
-<span data-ttu-id="5080d-330">*버전 2102(빌드 13801.20158)*</span><span class="sxs-lookup"><span data-stu-id="5080d-330">*Version 2102 (Build 13801.20158)*</span></span>
+## <a name="version-2102-february-11"></a><span data-ttu-id="1a0ed-336">버전 2102: 2월 11일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-336">Version 2102: February 11</span></span>
+<span data-ttu-id="1a0ed-337">*버전 2102(빌드 13801.20158)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-337">*Version 2102 (Build 13801.20158)*</span></span>
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="feature-updates"></a><span data-ttu-id="5080d-332">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="5080d-332">Feature updates</span></span>
-### <a name="teams"></a><span data-ttu-id="5080d-333">Teams</span><span class="sxs-lookup"><span data-stu-id="5080d-333">Teams</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="1a0ed-339">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="1a0ed-339">Feature updates</span></span>
+### <a name="teams"></a><span data-ttu-id="1a0ed-340">Teams</span><span class="sxs-lookup"><span data-stu-id="1a0ed-340">Teams</span></span>
 
-- <span data-ttu-id="5080d-334">**Windows 및 Mac의 Edge 및 Chrome 브라우저에서 2x2 비디오** 사용자는 Windows 및 Mac의 Edge 및 Chrome 브라우저에서 팀 미팅에서 최대 4명의 참가자의 비디오를 볼 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-334">**2x2 video on Edge and Chrome browsers on Windows and Mac** Users can see up to 4 participants' video in Teams meetings in Edge and Chrome browsers on Windows and Mac.</span></span> [<span data-ttu-id="5080d-335">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="5080d-335">Learn more</span></span>](https://support.microsoft.com/office/using-video-in-microsoft-teams-3647fc29-7b92-4c26-8c2d-8a596904cdae#bkmk_videolayout)
+- <span data-ttu-id="1a0ed-341">**Windows 및 Mac의 Edge 및 Chrome 브라우저에서 2x2 비디오** 사용자는 Windows 및 Mac의 Edge 및 Chrome 브라우저에서 팀 미팅에서 최대 4명의 참가자의 비디오를 볼 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-341">**2x2 video on Edge and Chrome browsers on Windows and Mac** Users can see up to 4 participants' video in Teams meetings in Edge and Chrome browsers on Windows and Mac.</span></span> [<span data-ttu-id="1a0ed-342">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="1a0ed-342">Learn more</span></span>](https://support.microsoft.com/office/using-video-in-microsoft-teams-3647fc29-7b92-4c26-8c2d-8a596904cdae#bkmk_videolayout)
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 <br/>
 
-## <a name="version-2102-february-08"></a><span data-ttu-id="5080d-337">버전 2102: 2월 8일</span><span class="sxs-lookup"><span data-stu-id="5080d-337">Version 2102: February 08</span></span>
-<span data-ttu-id="5080d-338">*버전2102(빌드 13801.20084)*</span><span class="sxs-lookup"><span data-stu-id="5080d-338">*Version 2102 (Build 13801.20084)*</span></span>
+## <a name="version-2102-february-08"></a><span data-ttu-id="1a0ed-344">버전 2102: 2월 8일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-344">Version 2102: February 08</span></span>
+<span data-ttu-id="1a0ed-345">*버전2102(빌드 13801.20084)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-345">*Version 2102 (Build 13801.20084)*</span></span>
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="feature-updates"></a><span data-ttu-id="5080d-340">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="5080d-340">Feature updates</span></span>
-### <a name="outlook"></a><span data-ttu-id="5080d-341">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-341">Outlook</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="1a0ed-347">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="1a0ed-347">Feature updates</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-348">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-348">Outlook</span></span>
 
-- <span data-ttu-id="5080d-342">**Microsoft Search 지원 작성(받는 사람\참조\숨은 참조) 제안:** 이제 Microsoft Search에서 받는 사람\참조 줄에 사용자 추가 기능을 제공합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-342">**Microsoft Search powered compose (To\CC\BCC) suggestions:** Adding people to the To\CC line is now powered by Microsoft Search.</span></span>
-
-
-[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
-
-<br/>
-
-[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
-
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-345">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-345">Resolved issues</span></span>
-### <a name="access"></a><span data-ttu-id="5080d-346">Access</span><span class="sxs-lookup"><span data-stu-id="5080d-346">Access</span></span>
-
-- <span data-ttu-id="5080d-347">이제 선택한 탭이 액세스에서 더 분명하게 표시됩니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-347">You will now see selected tabs clearer in Access.</span></span>
-
-
-### <a name="excel"></a><span data-ttu-id="5080d-348">Excel</span><span class="sxs-lookup"><span data-stu-id="5080d-348">Excel</span></span>
-
-- <span data-ttu-id="5080d-349">파일을 다시 열 때 불연속적인 셀 범위를 사용하는 특정 차트가 로드되지 않는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-349">Fixes issue where certain charts using discontinuous ranges of cells would not load when files are re-opened.</span></span>
-
-
-- <span data-ttu-id="5080d-350">특정 Windows 보안 공격 방지 설정(SimExec, 호출자 확인)을 사용 중인 경우 Excel이 예기치 않게 시작되지 않거나 닫히는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-350">Fixes an issue where Excel would fail to launch or close unexpectedly if certain Windows Security exploit protection settings (SimExec, CallerCheck) are in use.</span></span>
-
-
-- <span data-ttu-id="5080d-351">차트에서 데이터 계열을 선택한 후 Excel이 응답하지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-351">We fixed an issue where Excel would stop responding after selecting a data series in a chart.</span></span>
-
-
-- <span data-ttu-id="5080d-352">이름 정의 대화 상자에 이름을 추가하면 Excel이 예기치 않게 종료되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-352">We fixed an issue where Excel would unexpectedly quit when you added a Name in the Define Name dialog.</span></span>
-
-
-- <span data-ttu-id="5080d-353">자르기 작업 중에 비율이 유지되는 그림과 관련된 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-353">Fixed an issue related to pictures retaining their aspect ratio during a crop operation.</span></span>
-
-
-### <a name="outlook"></a><span data-ttu-id="5080d-354">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-354">Outlook</span></span>
-
-- <span data-ttu-id="5080d-355">사용자가 해당 옵션을 선택하지 않은 후 메일이 디지털 서명으로 전송될 수 있는 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-355">We fixed an issue that caused mails to be sent as digitally signed after the user unchecked that option.</span></span>
-
-
-- <span data-ttu-id="5080d-356">암호화 전용 옵션을 사용하여 보낸 전자 메일에 대해 암호화 아이콘이 표시되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-356">We fixed an issue that caused the encryption icon to fail to display for emails sent using the Encrypt Only option.</span></span>
-
-
-### <a name="powerpoint"></a><span data-ttu-id="5080d-357">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="5080d-357">PowerPoint</span></span>
-
-- <span data-ttu-id="5080d-358">색으로 이모지 표시와 관련된 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-358">Fixed an issue related to displaying emojis with color.</span></span>
-
-
-- <span data-ttu-id="5080d-359">자르기 작업 중에 비율이 유지되는 그림과 관련된 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-359">Fixed an issue related to pictures retaining their aspect ratio during a crop operation.</span></span>
-
-
-### <a name="visio"></a><span data-ttu-id="5080d-360">Visio</span><span class="sxs-lookup"><span data-stu-id="5080d-360">Visio</span></span>
-
-- <span data-ttu-id="5080d-361">CAD 스텐실에서 모양 렌더링과 관련된 문제가 이제 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-361">This issue on shape rendering from CAD stencils has now been fixed.</span></span> <span data-ttu-id="5080d-362">사용자는 최신 빌드에서 이 문제가 해결된 것을 확인할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-362">Users will see the issue resolved in the latest build.</span></span>
-
-
-### <a name="word"></a><span data-ttu-id="5080d-363">Word</span><span class="sxs-lookup"><span data-stu-id="5080d-363">Word</span></span>
-
-- <span data-ttu-id="5080d-364">일정 시간 인터넷 연결이 끊기면 실시간 입력과 현재 상태가 복원되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-364">This fixes an issue that prevented real-time typing and presence from being restored after losing internet connectivity for a period of time.</span></span>
-
-
-- <span data-ttu-id="5080d-365">사용자가 설명에서 텍스트를 선택하면 Word는 이제 다른 설명에서 선택한 텍스트를 선택 취소합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-365">When a user selects text in a comment, Word now unselects selected text in other comments.</span></span>
-
-
-- <span data-ttu-id="5080d-366">이제 설명 텍스트를 Word에서 Excel로 복사할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-366">Word now allows copying comment text into Excel.</span></span>
-
-
-- <span data-ttu-id="5080d-367">VBA 매크로 ExportAsFixedFormat2를 실행할 때 "프레젠테이션(알 수 없는 구성원) 잘못된 값"이라는 오류와 함께 실패하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-367">We fixed an issue when running the VBA macro ExportAsFixedFormat2 fails with an error stating "Presentation (unknown member) illegal value".</span></span>
-
-
-- <span data-ttu-id="5080d-368">자르기 작업 중에 비율이 유지되는 그림과 관련된 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-368">Fixed an issue related to pictures retaining their aspect ratio during a crop operation.</span></span>
-
-
-- <span data-ttu-id="5080d-369">링크가 있는 주석이 사용되지 않을 수 있는 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-369">We fixed an issue which the comment may be truncated with links.</span></span>
-
-
-- <span data-ttu-id="5080d-370">SharePoint Online으로 저장하는 데 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-370">We fixed an issue in saving to SharePoint Online</span></span>
-
-
-- <span data-ttu-id="5080d-371">Word 문서를 PDF로 내보내는 작업과 관련된 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-371">We fixed an issue in exporting Word document to PDF.</span></span>
-
-
-- <span data-ttu-id="5080d-372">자동 복구 관련 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-372">We fixed an issue with AutoRecover.</span></span>
-
-- <span data-ttu-id="5080d-373">DRM으로 보호된 파일을 공동으로 작성할 때 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-373">We fixed an issue when coauthoring with DRM protected files</span></span>
-
-
-### <a name="office-suite"></a><span data-ttu-id="5080d-374">Office 제품군</span><span class="sxs-lookup"><span data-stu-id="5080d-374">Office Suite</span></span>
-
-- <span data-ttu-id="5080d-375">글머리 기호를 이미지로 삽입하면 글머리 기호가 사라지는 PowerPoint에서의 버그를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-375">Fixing a bug in PowerPoint where inserting bullets as images would result in bullets disappearing.</span></span> <span data-ttu-id="5080d-376">이 문제가 해결됨에 따라 더 안정적으로 렌더링됩니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-376">This fix makes it so they render more reliably.</span></span>
-
-- <span data-ttu-id="5080d-377">다른 로그인 계정에 대한 민감도 레이블을 표시해야 하는 경우에 Office에서 로그인한 계정에 대한 민감도 레이블이 표시되는 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-377">Fixed an issue where Office would in some circumstances present sensitivity labels for one signed-in account when it should present sensitivity labels for a different signed-in account.</span></span>
-
-
-
-[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
-
-## <a name="version-2101-february-03"></a><span data-ttu-id="5080d-379">버전 2101: 2월 3일</span><span class="sxs-lookup"><span data-stu-id="5080d-379">Version 2101: February 03</span></span>
-<span data-ttu-id="5080d-380">*버전 2101(빌드 13628.20330)*</span><span class="sxs-lookup"><span data-stu-id="5080d-380">*Version 2101 (Build 13628.20330)*</span></span>
-
-[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
-
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-382">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-382">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="5080d-383">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-383">Outlook</span></span>
-
-- <span data-ttu-id="5080d-384">OWA에 올바른 기본 서명을 표시하는 것과 관련된 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-384">We fixed an issue that caused issues with displaying the correct default signature in OWA.</span></span>
-
-
-- <span data-ttu-id="5080d-385">암호화 전용 옵션을 사용하여 보낸 전자 메일에 대해 암호화 아이콘이 표시되지 않는 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-385">We fixed an issue that caused the encryption icon to fail to display on emails sent using the encryption only option.</span></span>
-
-
-
-[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
-
-## <a name="version-2101-february-02"></a><span data-ttu-id="5080d-387">버전 2101: 2월 2일</span><span class="sxs-lookup"><span data-stu-id="5080d-387">Version 2101: February 02</span></span>
-<span data-ttu-id="5080d-388">*버전 2101(빌드 13628.20320)*</span><span class="sxs-lookup"><span data-stu-id="5080d-388">*Version 2101 (Build 13628.20320)*</span></span>
-
-[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
-
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-390">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-390">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="5080d-391">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-391">Outlook</span></span>
-
-- <span data-ttu-id="5080d-392">설정을 업데이트할 때 클라우드 설정 사용자가 중단되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-392">We fixed an issue that caused Cloud Settings users to experience a hang when updating settings.</span></span>
-
-
-
-[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
-
-## <a name="version-2101-january-25"></a><span data-ttu-id="5080d-394">버전 2101: 1월 25일</span><span class="sxs-lookup"><span data-stu-id="5080d-394">Version 2101: January 25</span></span>
-<span data-ttu-id="5080d-395">*버전 2101(빌드 13628.20274)*</span><span class="sxs-lookup"><span data-stu-id="5080d-395">*Version 2101 (Build 13628.20274)*</span></span>
-
-[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
-
-### <a name="feature-updates"></a><span data-ttu-id="5080d-397">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="5080d-397">Feature updates</span></span>
-### <a name="excel"></a><span data-ttu-id="5080d-398">Excel</span><span class="sxs-lookup"><span data-stu-id="5080d-398">Excel</span></span>
-
-- <span data-ttu-id="5080d-399">**정부 고객: 문서 및 전자 메일에 민감도 레이블 적용:** 이제 GCC 및 GCC-H 환경의 고객이 민감도 레이블 기능을 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-399">**Government customers: Apply sensitivity labels to your documents and emails:** Sensitivity labeling features are now available for customers in the GCC and GCC-H environments.</span></span> [<span data-ttu-id="5080d-400">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="5080d-400">Learn more</span></span>](/microsoft-365/compliance/sensitivity-labels)
-
-### <a name="outlook"></a><span data-ttu-id="5080d-401">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-401">Outlook</span></span>
-
-- <span data-ttu-id="5080d-402">**정부 고객: 문서 및 전자 메일에 민감도 레이블 적용:** 이제 GCC 및 GCC-H 환경의 고객이 민감도 레이블 기능을 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-402">**Government customers: Apply sensitivity labels to your documents and emails:** Sensitivity labeling features are now available for customers in the GCC and GCC-H environments.</span></span> [<span data-ttu-id="5080d-403">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="5080d-403">Learn more</span></span>](/microsoft-365/compliance/sensitivity-labels)
-
-### <a name="powerpoint"></a><span data-ttu-id="5080d-404">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="5080d-404">PowerPoint</span></span>
-
-- <span data-ttu-id="5080d-405">**정부 고객: 문서 및 전자 메일에 민감도 레이블 적용:** 이제 GCC 및 GCC-H 환경의 고객이 민감도 레이블 기능을 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-405">**Government customers: Apply sensitivity labels to your documents and emails:** Sensitivity labeling features are now available for customers in the GCC and GCC-H environments.</span></span> <span data-ttu-id="5080d-406">[자세히 알아보기](/microsoft-365/compliance/sensitivity-labels).</span><span class="sxs-lookup"><span data-stu-id="5080d-406">[Learn more](/microsoft-365/compliance/sensitivity-labels).</span></span>
-
-
-### <a name="word"></a><span data-ttu-id="5080d-407">Word</span><span class="sxs-lookup"><span data-stu-id="5080d-407">Word</span></span>
-
-- <span data-ttu-id="5080d-408">**정부 고객: 문서 및 전자 메일에 민감도 레이블 적용:** 이제 GCC 및 GCC-H 환경의 고객이 민감도 레이블 기능을 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-408">**Government customers: Apply sensitivity labels to your documents and emails:** Sensitivity labeling features are now available for customers in the GCC and GCC-H environments.</span></span> [<span data-ttu-id="5080d-409">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="5080d-409">Learn more</span></span>](/microsoft-365/compliance/sensitivity-labels)
-
-
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-410">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-410">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="5080d-411">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-411">Outlook</span></span>
-
-- <span data-ttu-id="5080d-412">프로필에 큰 계층이 있는 공유 사서함 또는 위임된 사서함이 중단되는 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-412">We fixed an issue that caused users that have Shared or Delegated Mailboxes with large hierarchies in their profile to encounter hangs.</span></span>
-
-
-
-[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
-
-
-
-## <a name="version-2101-january-18"></a><span data-ttu-id="5080d-414">버전 2101: 1월 18일</span><span class="sxs-lookup"><span data-stu-id="5080d-414">Version 2101: January 18</span></span>
-<span data-ttu-id="5080d-415">*버전 2101 (빌드 13628.20158)*</span><span class="sxs-lookup"><span data-stu-id="5080d-415">*Version 2101 (Build 13628.20158)*</span></span>
-
-[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
-
+- <span data-ttu-id="1a0ed-349">**Microsoft Search 지원 작성(받는 사람\참조\숨은 참조) 제안:** 이제 Microsoft Search에서 받는 사람\참조 줄에 사용자 추가 기능을 제공합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-349">**Microsoft Search powered compose (To\CC\BCC) suggestions:** Adding people to the To\CC line is now powered by Microsoft Search.</span></span>
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -687,264 +533,162 @@ ms.locfileid: "51749066"
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-419">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-419">Resolved issues</span></span>
-### <a name="project"></a><span data-ttu-id="5080d-420">Project</span><span class="sxs-lookup"><span data-stu-id="5080d-420">Project</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-352">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-352">Resolved issues</span></span>
+### <a name="access"></a><span data-ttu-id="1a0ed-353">Access</span><span class="sxs-lookup"><span data-stu-id="1a0ed-353">Access</span></span>
 
-- <span data-ttu-id="5080d-421">팀 플래너 보기에 작업에 대한 테두리가 표시되지 않는 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-421">Fixed an issue where borders weren't showing up for tasks in the Team Planner view.</span></span>
+- <span data-ttu-id="1a0ed-354">이제 선택한 탭이 액세스에서 더 분명하게 표시됩니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-354">You will now see selected tabs clearer in Access.</span></span>
 
 
-- <span data-ttu-id="5080d-422">끌어서 놓기 작업이 팀 플래너에서 작동하지 않는 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-422">Fixed an issue where you drag and drop wasn't working for tasks in the Team Planner view.</span></span>
+### <a name="excel"></a><span data-ttu-id="1a0ed-355">Excel</span><span class="sxs-lookup"><span data-stu-id="1a0ed-355">Excel</span></span>
+
+- <span data-ttu-id="1a0ed-356">파일을 다시 열 때 불연속적인 셀 범위를 사용하는 특정 차트가 로드되지 않는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-356">Fixes issue where certain charts using discontinuous ranges of cells would not load when files are re-opened.</span></span>
+
+
+- <span data-ttu-id="1a0ed-357">특정 Windows 보안 공격 방지 설정(SimExec, 호출자 확인)을 사용 중인 경우 Excel이 예기치 않게 시작되지 않거나 닫히는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-357">Fixes an issue where Excel would fail to launch or close unexpectedly if certain Windows Security exploit protection settings (SimExec, CallerCheck) are in use.</span></span>
+
+
+- <span data-ttu-id="1a0ed-358">차트에서 데이터 계열을 선택한 후 Excel이 응답하지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-358">We fixed an issue where Excel would stop responding after selecting a data series in a chart.</span></span>
+
+
+- <span data-ttu-id="1a0ed-359">이름 정의 대화 상자에 이름을 추가하면 Excel이 예기치 않게 종료되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-359">We fixed an issue where Excel would unexpectedly quit when you added a Name in the Define Name dialog.</span></span>
+
+
+- <span data-ttu-id="1a0ed-360">자르기 작업 중에 비율이 유지되는 그림과 관련된 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-360">Fixed an issue related to pictures retaining their aspect ratio during a crop operation.</span></span>
+
+
+### <a name="outlook"></a><span data-ttu-id="1a0ed-361">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-361">Outlook</span></span>
+
+- <span data-ttu-id="1a0ed-362">사용자가 해당 옵션을 선택하지 않은 후 메일이 디지털 서명으로 전송될 수 있는 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-362">We fixed an issue that caused mails to be sent as digitally signed after the user unchecked that option.</span></span>
+
+
+- <span data-ttu-id="1a0ed-363">암호화 전용 옵션을 사용하여 보낸 전자 메일에 대해 암호화 아이콘이 표시되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-363">We fixed an issue that caused the encryption icon to fail to display for emails sent using the Encrypt Only option.</span></span>
+
+
+### <a name="powerpoint"></a><span data-ttu-id="1a0ed-364">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="1a0ed-364">PowerPoint</span></span>
+
+- <span data-ttu-id="1a0ed-365">색으로 이모지 표시와 관련된 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-365">Fixed an issue related to displaying emojis with color.</span></span>
+
+
+- <span data-ttu-id="1a0ed-366">자르기 작업 중에 비율이 유지되는 그림과 관련된 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-366">Fixed an issue related to pictures retaining their aspect ratio during a crop operation.</span></span>
+
+
+### <a name="visio"></a><span data-ttu-id="1a0ed-367">Visio</span><span class="sxs-lookup"><span data-stu-id="1a0ed-367">Visio</span></span>
+
+- <span data-ttu-id="1a0ed-368">CAD 스텐실에서 모양 렌더링과 관련된 문제가 이제 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-368">This issue on shape rendering from CAD stencils has now been fixed.</span></span> <span data-ttu-id="1a0ed-369">사용자는 최신 빌드에서 이 문제가 해결된 것을 확인할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-369">Users will see the issue resolved in the latest build.</span></span>
+
+
+### <a name="word"></a><span data-ttu-id="1a0ed-370">Word</span><span class="sxs-lookup"><span data-stu-id="1a0ed-370">Word</span></span>
+
+- <span data-ttu-id="1a0ed-371">일정 시간 인터넷 연결이 끊기면 실시간 입력과 현재 상태가 복원되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-371">This fixes an issue that prevented real-time typing and presence from being restored after losing internet connectivity for a period of time.</span></span>
+
+
+- <span data-ttu-id="1a0ed-372">사용자가 설명에서 텍스트를 선택하면 Word는 이제 다른 설명에서 선택한 텍스트를 선택 취소합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-372">When a user selects text in a comment, Word now unselects selected text in other comments.</span></span>
+
+
+- <span data-ttu-id="1a0ed-373">이제 설명 텍스트를 Word에서 Excel로 복사할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-373">Word now allows copying comment text into Excel.</span></span>
+
+
+- <span data-ttu-id="1a0ed-374">VBA 매크로 ExportAsFixedFormat2를 실행할 때 "프레젠테이션(알 수 없는 구성원) 잘못된 값"이라는 오류와 함께 실패하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-374">We fixed an issue when running the VBA macro ExportAsFixedFormat2 fails with an error stating "Presentation (unknown member) illegal value".</span></span>
+
+
+- <span data-ttu-id="1a0ed-375">자르기 작업 중에 비율이 유지되는 그림과 관련된 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-375">Fixed an issue related to pictures retaining their aspect ratio during a crop operation.</span></span>
+
+
+- <span data-ttu-id="1a0ed-376">링크가 있는 주석이 사용되지 않을 수 있는 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-376">We fixed an issue which the comment may be truncated with links.</span></span>
+
+
+- <span data-ttu-id="1a0ed-377">SharePoint Online으로 저장하는 데 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-377">We fixed an issue in saving to SharePoint Online</span></span>
+
+
+- <span data-ttu-id="1a0ed-378">Word 문서를 PDF로 내보내는 작업과 관련된 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-378">We fixed an issue in exporting Word document to PDF.</span></span>
+
+
+- <span data-ttu-id="1a0ed-379">자동 복구 관련 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-379">We fixed an issue with AutoRecover.</span></span>
+
+- <span data-ttu-id="1a0ed-380">DRM으로 보호된 파일을 공동으로 작성할 때 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-380">We fixed an issue when coauthoring with DRM protected files</span></span>
+
+
+### <a name="office-suite"></a><span data-ttu-id="1a0ed-381">Office 제품군</span><span class="sxs-lookup"><span data-stu-id="1a0ed-381">Office Suite</span></span>
+
+- <span data-ttu-id="1a0ed-382">글머리 기호를 이미지로 삽입하면 글머리 기호가 사라지는 PowerPoint에서의 버그를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-382">Fixing a bug in PowerPoint where inserting bullets as images would result in bullets disappearing.</span></span> <span data-ttu-id="1a0ed-383">이 문제가 해결됨에 따라 더 안정적으로 렌더링됩니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-383">This fix makes it so they render more reliably.</span></span>
+
+- <span data-ttu-id="1a0ed-384">다른 로그인 계정에 대한 민감도 레이블을 표시해야 하는 경우에 Office에서 로그인한 계정에 대한 민감도 레이블이 표시되는 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-384">Fixed an issue where Office would in some circumstances present sensitivity labels for one signed-in account when it should present sensitivity labels for a different signed-in account.</span></span>
 
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
 
-## <a name="version-2101-january-13"></a><span data-ttu-id="5080d-424">버전 2101: 1월 13일</span><span class="sxs-lookup"><span data-stu-id="5080d-424">Version 2101: January 13</span></span>
-<span data-ttu-id="5080d-425">*버전 2101(빌드 13628.20118)*</span><span class="sxs-lookup"><span data-stu-id="5080d-425">*Version 2101 (Build 13628.20118)*</span></span>
-
-[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
-### <a name="feature-updates"></a><span data-ttu-id="5080d-427">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="5080d-427">Feature updates</span></span>
-### <a name="teams"></a><span data-ttu-id="5080d-428">Teams</span><span class="sxs-lookup"><span data-stu-id="5080d-428">Teams</span></span>
-- <span data-ttu-id="5080d-429">**추가 테마:** 테마를 데스크톱 및 웹 클라이언트에 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-429">**More themes:** New themes are now available for desktop and web clients.</span></span>
-
-- <span data-ttu-id="5080d-430">**PPT 공유:** 공유 트레이에서 PowerPoint 파일을 선택하면 Teams의 발표자 보기가 자동으로 열립니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-430">**PPT Sharing:** Presenter View in Teams Once you select a PowerPoint file from the Teams Share Tray, Presenter View is opened automatically.</span></span> <span data-ttu-id="5080d-431">현재 슬라이드, 슬라이드 노트 및 간단한 추가 슬라이드 탐색을 위해 데크의 모든 슬라이드의 축소판 그림 스트립을 볼 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-431">You can see the current slide, the slide notes, and a thumbnail strip of all the slides in the deck for easy ad-hoc slide navigation.</span></span> <span data-ttu-id="5080d-432">이 보기는 완전히 뒤에 숨겨져 있으며, 발표자가 제어할 수 있는 개인 정보입니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-432">This view is completely behind the scenes, and it’s private to the presenter in control.</span></span> <span data-ttu-id="5080d-433">대상 그룹은 현재 슬라이드(큰 빨간색 상자에 강조 표시) 또는 이동하기로 선택한 슬라이드(대상 사용자에 의해 대상 탐색이 잠겨 있지 않은 경우)만 볼 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-433">Your audience can only see your current slide (highlighted in the big red box), or the slide that they choose to navigate to (if audience navigation is not locked by you).</span></span> 
-
-- <span data-ttu-id="5080d-434">**Mac에서 데스크톱 또는 창을 공유할 때 컴퓨터 사운드 포함** Mac에서 Mac용 Teams에서 바탕 화면 또는 창을 공유할 때, 이제 미팅에 참여한 사람들이 컴퓨터에서 오디오 재생을 들을 수 있도록 컴퓨터의 소리를 포함할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-434">**Include computer sound when desktop or window sharing on Mac** When you share a desktop or window from Teams on Mac, you can now include your computer's sound so people that have joined the meeting can hear the audio playing out of your computer.</span></span>
-
-[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
-<br/>
-
-## <a name="version-2101-january-09"></a><span data-ttu-id="5080d-436">버전 2101: 1월 9일</span><span class="sxs-lookup"><span data-stu-id="5080d-436">Version 2101: January 09</span></span>
-<span data-ttu-id="5080d-437">*버전 2101(빌드 13628.20118)*</span><span class="sxs-lookup"><span data-stu-id="5080d-437">*Version 2101 (Build 13628.20118)*</span></span>
-
-[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
-
-### <a name="feature-updates"></a><span data-ttu-id="5080d-439">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="5080d-439">Feature updates</span></span>
-### <a name="outlook"></a><span data-ttu-id="5080d-440">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-440">Outlook</span></span>
-
-- <span data-ttu-id="5080d-441">**한 번의 클릭으로 작문 제안:** 한 번의 클릭으로 작문 제안을 적용합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-441">**One-click writing suggestions:** Apply writing suggestions with a single click.</span></span> <span data-ttu-id="5080d-442">편집기는 맞춤법과 문법을 수정하며 글을 다듬는 데 필요한 아이디어를 제공합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-442">Editor corrects spelling and grammar and gives you ideas for refining your writing.</span></span> [<span data-ttu-id="5080d-443">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="5080d-443">Learn more</span></span>](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br /><span data-ttu-id="5080d-444">[블로그 게시물](https://insider.office.com/ko-KR/blog/microsoft-editor-gets-an-upgrade)에서 세부 정보 보기</span><span class="sxs-lookup"><span data-stu-id="5080d-444">See details in [blog post](https://insider.office.com/ko-KR/blog/microsoft-editor-gets-an-upgrade)</span></span>
-
-
-[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
-
-<br/>
+## <a name="version-2101-february-03"></a><span data-ttu-id="1a0ed-386">버전 2101: 2월 3일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-386">Version 2101: February 03</span></span>
+<span data-ttu-id="1a0ed-387">*버전 2101(빌드 13628.20330)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-387">*Version 2101 (Build 13628.20330)*</span></span>
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-447">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-447">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="5080d-448">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-448">Outlook</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-389">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-389">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-390">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-390">Outlook</span></span>
 
-- <span data-ttu-id="5080d-449">일부 사용자가 특정 검색 시나리오에서 Outlook이 예기치 않게 종료되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-449">We fixed an issue that caused some users to experience Outlook to close unexpectedly in certain search scenarios.</span></span>
+- <span data-ttu-id="1a0ed-391">OWA에 올바른 기본 서명을 표시하는 것과 관련된 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-391">We fixed an issue that caused issues with displaying the correct default signature in OWA.</span></span>
+
+
+- <span data-ttu-id="1a0ed-392">암호화 전용 옵션을 사용하여 보낸 전자 메일에 대해 암호화 아이콘이 표시되지 않는 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-392">We fixed an issue that caused the encryption icon to fail to display on emails sent using the encryption only option.</span></span>
 
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
 
-## <a name="version-2101-january-07"></a><span data-ttu-id="5080d-451">버전 2101: 1월 7일</span><span class="sxs-lookup"><span data-stu-id="5080d-451">Version 2101: January 07</span></span>
-<span data-ttu-id="5080d-452">*버전 2101(빌드 13628.20030)*</span><span class="sxs-lookup"><span data-stu-id="5080d-452">*Version 2101 (Build 13628.20030)*</span></span>
-
-[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
-
-### <a name="feature-updates"></a><span data-ttu-id="5080d-454">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="5080d-454">Feature updates</span></span>
-### <a name="excel"></a><span data-ttu-id="5080d-455">Excel</span><span class="sxs-lookup"><span data-stu-id="5080d-455">Excel</span></span>
-
-- <span data-ttu-id="5080d-456">**여러 시트를 동시에 숨기기 취소:** 한 번에 여러 시트를 숨길 필요가 없습니다. 한 번에 여러 시트를 숨길 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-456">**Unhide many sheets at the same time:** No need to unhide one sheet at a time anymore -- unhide multiple hidden sheets at once.</span></span> [<span data-ttu-id="5080d-457">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="5080d-457">Learn more</span></span>](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
-
-- <span data-ttu-id="5080d-458">**향상된 조건부 서식 대화 상자:** 조건부 서식 대화 상자의 크기를 조정할 수 있으며, 이제 한 번의 클릭으로 규칙을 복제할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-458">**Improved Conditional Formatting dialogs:** Conditional Formatting dialogs are now resizable, and now you can duplicate the rule with a single click.</span></span> [<span data-ttu-id="5080d-459">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="5080d-459">Learn more</span></span>](https://support.office.com/article/fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f)
-
-
-[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
-
-<br/>
+## <a name="version-2101-february-02"></a><span data-ttu-id="1a0ed-394">버전 2101: 2월 2일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-394">Version 2101: February 02</span></span>
+<span data-ttu-id="1a0ed-395">*버전 2101(빌드 13628.20320)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-395">*Version 2101 (Build 13628.20320)*</span></span>
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-462">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-462">Resolved issues</span></span>
-### <a name="excel"></a><span data-ttu-id="5080d-463">Excel</span><span class="sxs-lookup"><span data-stu-id="5080d-463">Excel</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-397">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-397">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-398">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-398">Outlook</span></span>
 
-- <span data-ttu-id="5080d-464">Excel이 새 버전의 파일을 사용할 수 있다는 메시지 표시줄을 잘못 표시하여 사용자가 변경 내용을 통합 문서 사본에 저장하거나 변경 내용을 취소하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-464">Fixed an issue where Excel would incorrectly show a message bar that a new version of the file is available and force the user to save their changes in a copy of the workbook or discard their changes.</span></span>
-
-
-- <span data-ttu-id="5080d-465">Selection.Parent.Copy 요청 후 구분 기호 전환 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-465">Fixed an issue with switching separators after a Selection.Parent.Copy call.</span></span>
-
-
-- <span data-ttu-id="5080d-466">피벗 테이블에서 서식 스타일을 적용할 때 성능이 향상되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-466">Made a performance improvement when applying formatting styles to pivot tables.</span></span>
-
-
-- <span data-ttu-id="5080d-467">Excel 4.0 매크로가 포함된 Excel 추가 기능 파일을 열 때 메시지 표시 없이 매크로를 사용하지 않는 상태로 둘 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-467">Fixed an issue where Excel may leave macros disabled without prompting when opening an Excel Add-in file containing Excel 4.0 Macros.</span></span>
-
-
-- <span data-ttu-id="5080d-468">Excel에서 차트를 복사하여 Word에 붙여넣을 때 소수점 및 천 단위 구분 기호 설정을 같이 붙여넣도록 업데이트</span><span class="sxs-lookup"><span data-stu-id="5080d-468">Update so that decimal and thousands separators settings carryover when copying a chart from Excel and pasting into Word</span></span>
-
-
-- <span data-ttu-id="5080d-469">잘못된 파일 특성(만든 시간, 수정된 시간 등)이 있는 UNC 파일을 열 때 Excel이 예기치 않게 닫히는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-469">Fixed an issue where Excel would close unexpectedly when opening UNC files that have invalid file attributes (creation time, modified time, etc.)</span></span>
-
-
-- <span data-ttu-id="5080d-470">STOCKHISTORY 함수를 사용하는 경우 "리소스 부족" 알림을 발생시킬 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-470">Fixed an issue which could cause an "out of resources" alert when using the STOCKHISTORY function.</span></span>
-
-
-- <span data-ttu-id="5080d-471">FuzzyClustering dll이 PQ dlls 목록에 추가되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-471">Added a FuzzyClustering dll to PQ dlls list.</span></span>
-
-
-- <span data-ttu-id="5080d-472">이 변경으로 SVG 이미지의 윤곽선 색을 변경하는 것과 관련된 문제를 해결할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-472">This change addresses an issue related to changing outline colors of SVG images.</span></span>
-
-
-- <span data-ttu-id="5080d-473">PowerPoint에서 포함된 Excel 범위 미리 보기에 잘못된 크기가 표시되는 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-473">We have fixed an issue where Preview of embedded Excel range in PowerPoint shows incorrect size.</span></span>
-
-
-### <a name="onenote"></a><span data-ttu-id="5080d-474">OneNote</span><span class="sxs-lookup"><span data-stu-id="5080d-474">OneNote</span></span>
-
-- <span data-ttu-id="5080d-475">이 변경 사항으로 OneNote에 영향을 미치는 렌더링 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-475">This change addresses a rendering issue affecting OneNote.</span></span>
-
-
-### <a name="outlook"></a><span data-ttu-id="5080d-476">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-476">Outlook</span></span>
-
-- <span data-ttu-id="5080d-477">사용자가 Word에서 메일 병합을 시작할 때 액세스를 허용하는 데 걸리는 시간을 지정할 수 없어 과도한 메시지가 표시되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-477">We fixed an issue that caused users to be unable to specify how long they wanted to allow access for when starting a mail merge from Word, resulting in them getting excess prompts.</span></span>
-
-
-- <span data-ttu-id="5080d-478">이렇게 변경하면 Outlook에서 Exchange Online 보관 사서함을 최종 사용자에 표시하지 않는 Exchange 서버 설정을 활용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-478">This change enables Outlook to take advantage of an Exchange server setting that suppresses the display of the Exchange Online Archive Mailbox to end users.</span></span>
-
-
-- <span data-ttu-id="5080d-479">사용자가 상환 기반 추가 기능을 사용하는 경우 Outlook이 예기치 않게 종료되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-479">We fixed an issue that caused a Outlook to close unexpectedly for users of Redemption based Add-ins.</span></span>
-
-
-- <span data-ttu-id="5080d-480">사용자가 검색할 범주를 두 개 이상 선택할 수 없게 하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-480">We fixed and issue that caused users to be unable to select more than one category to search.</span></span>
-
-
-- <span data-ttu-id="5080d-481">다른 약속에서 이벤트를 복사할 때 일부 일정 항목의 시작 시간이 예기치 않게 변경되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-481">We fixed an issue that caused the start time of some calendar items to change unexpectedly when the event is copied from another appointment.</span></span>
-
-
-- <span data-ttu-id="5080d-482">일반 텍스트 S/MIME 메시지가 전송 시 왜곡되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-482">Addressed an issue that caused plain text S/MIME messages to become garbled when sending.</span></span>
-
-
-### <a name="powerpoint"></a><span data-ttu-id="5080d-483">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="5080d-483">PowerPoint</span></span>
-
-- <span data-ttu-id="5080d-484">이 변경 사항으로 텍스트 작업을 수행하는 도형 병합과 관련된 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-484">This change addresses an issue with Merge Shapes working with text.</span></span>
-
-
-- <span data-ttu-id="5080d-485">이 변경으로 SVG 이미지의 윤곽선 색을 변경하는 것과 관련된 문제를 해결할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-485">This change addresses an issue related to changing outline colors of SVG images.</span></span>
-
-
-- <span data-ttu-id="5080d-486">슬라이드 쇼에서 배경 비디오 재생을 반복하여 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-486">This change addresses an issue with looping background videos playback in Slide Show.</span></span>
-
-
-- <span data-ttu-id="5080d-487">QAT에서 추가한 글꼴 크기 명령에 대한 문제를 해결 했습니다. 이 문제는 업데이트하는 동안 가장 가까운 정의된 글꼴 크기로 자동 완성됩니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-487">We have fixed an issue where font size command, added in QAT, auto completes to the nearest defined font size while updating it.</span></span>
-
-
-### <a name="project"></a><span data-ttu-id="5080d-488">Project</span><span class="sxs-lookup"><span data-stu-id="5080d-488">Project</span></span>
-
-- <span data-ttu-id="5080d-489">리소스의 최대 단위에서 최대 단위에 대한 최신 업데이트를 항상 반영하지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-489">Fixed an issue where a resource's max units would not always reflect the latest update to max units.</span></span>
-
-
-### <a name="visio"></a><span data-ttu-id="5080d-490">Visio</span><span class="sxs-lookup"><span data-stu-id="5080d-490">Visio</span></span>
-
-- <span data-ttu-id="5080d-491">최근 회귀 때문에 발생한 문제입니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-491">The issue occurred due to a recent regression.</span></span> <span data-ttu-id="5080d-492">문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-492">We have resolved the issue.</span></span> <span data-ttu-id="5080d-493">이제 "웹 페이지로 저장" 대화 상자는 사용자 입력에 따라 필드가 제대로 채워지고 사용자가 파일을 웹 페이지로 원활하게 저장할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-493">"Save as Web Page" dialog will now have the fields correctly populated as per the user inputs and users can seamlessly save their files as web pages.</span></span>
-
-
-- <span data-ttu-id="5080d-494">이 문제는 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-494">This issue has been fixed.</span></span> <span data-ttu-id="5080d-495">이제 Visio 파일을 PowerPoint와 Word와 같은 다른 Office 응용 프로그램의 개체로 포함하고 이러한 응용 프로그램 내에서 원활하게 액세스할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-495">You can now embed Visio files as objects in other Office applications like PowerPoint and Word and seamlessly access them from within these applications.</span></span>
-
-
-### <a name="word"></a><span data-ttu-id="5080d-496">Word</span><span class="sxs-lookup"><span data-stu-id="5080d-496">Word</span></span>
-
-- <span data-ttu-id="5080d-497">사용자 지정 해시 설정을 포함하는 컴퓨터에서 sha512 외의 해시 설정을 사용하여 공동 작업 세션에 도달했을 때 문제가 발생하던 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-497">Fixed an issue where machines with custom hash settings were running in to issues when they got into a collab session with a hash setting other than sha512.</span></span>
-
-
-- <span data-ttu-id="5080d-498">이 변경으로 SVG 이미지의 윤곽선 색을 변경하는 것과 관련된 문제를 해결할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-498">This change addresses an issue related to changing outline colors of SVG images.</span></span>
-
-
-- <span data-ttu-id="5080d-499">@멘션을 사용하여 댓글 게시물을 편집할 때의 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-499">Fixed an issue when editing commenting post with @mention.</span></span>
-
-
-- <span data-ttu-id="5080d-500">최신 메모를 더 강력하게 만들도록 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-500">Fixed an issue to make Modern comments more robust.</span></span>
-
-
-- <span data-ttu-id="5080d-501">콘텐츠 컨트롤에서 편집할 수 없는 것으로 표시된 최신 메모를 삭제하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-501">We fixed an issue around deleting modern comments in a content control that is marked as not editable.</span></span>
-
-
-- <span data-ttu-id="5080d-502">메모 카드 아래에 입력할 때 애니메이션을 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-502">Fix animation when typing on the bottom of a comment card.</span></span>
-
-
-- <span data-ttu-id="5080d-503">메모 카드의 회신 상자가 화면에 표시되지 않는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-503">Fixes an issue where the reply box on a comment card is off the screen.</span></span>
-
-
-- <span data-ttu-id="5080d-504">페이지 맨 위에 표시된 메모 카드의 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-504">Fixes an issue with a comment card displaying at top of page.</span></span>
-
-
-- <span data-ttu-id="5080d-505">텍스트가 화면 밖으로 스크롤될 수 있는 메모의 버그를 수정합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-505">Fixes bug in comments where text can scroll off screen.</span></span>
-
-
-- <span data-ttu-id="5080d-506">메모 창에서 중첩된 스크롤 막대와 관련된 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-506">Fix and issue with nested scrollbars in the comments pane.</span></span>
-
-
-- <span data-ttu-id="5080d-507">새 Word 인스턴스를 만들 때 메모 초안이 사라집니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-507">Comment drafts disappears when creating a new Word instance.</span></span>
-
-
-- <span data-ttu-id="5080d-508">숨겨진 텍스트가 있는 PDF에 문서를 저장할 때 Word가 걸려 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-508">We fixed an issue where Word hangs when saving document to PDF with hidden text.</span></span>
+- <span data-ttu-id="1a0ed-399">설정을 업데이트할 때 클라우드 설정 사용자가 중단되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-399">We fixed an issue that caused Cloud Settings users to experience a hang when updating settings.</span></span>
 
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
 
-## <a name="version-2012-january-04"></a><span data-ttu-id="5080d-510">버전 2012: 1월 4일</span><span class="sxs-lookup"><span data-stu-id="5080d-510">Version 2012: January 04</span></span>
-<span data-ttu-id="5080d-511">*버전 2012(빌드 13530.20316)*</span><span class="sxs-lookup"><span data-stu-id="5080d-511">*Version 2012 (Build 13530.20316)*</span></span>
-* <span data-ttu-id="5080d-512">다양한 버그 및 성능 수정 사항.</span><span class="sxs-lookup"><span data-stu-id="5080d-512">Various bugs and performance fixes.</span></span>
-
+## <a name="version-2101-january-25"></a><span data-ttu-id="1a0ed-401">버전 2101: 1월 25일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-401">Version 2101: January 25</span></span>
+<span data-ttu-id="1a0ed-402">*버전 2101(빌드 13628.20274)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-402">*Version 2101 (Build 13628.20274)*</span></span>
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="feature-updates"></a><span data-ttu-id="5080d-514">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="5080d-514">Feature updates</span></span>
-### <a name="excel"></a><span data-ttu-id="5080d-515">Excel</span><span class="sxs-lookup"><span data-stu-id="5080d-515">Excel</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="1a0ed-404">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="1a0ed-404">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="1a0ed-405">Excel</span><span class="sxs-lookup"><span data-stu-id="1a0ed-405">Excel</span></span>
 
-- <span data-ttu-id="5080d-516">**필수 레이블 지정:** 필수 레이블 지정 정책 집합을 사용하는 사용자. 해당 관리자는 문서와 전자 메일에 레이블을 지정해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-516">**Mandatory Labeling:** Users with the Mandatory Labeling policy set their Admins will be required to label their documents and emails.</span></span>
+- <span data-ttu-id="1a0ed-406">**정부 고객: 문서 및 전자 메일에 민감도 레이블 적용:** 이제 GCC 및 GCC-H 환경의 고객이 민감도 레이블 기능을 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-406">**Government customers: Apply sensitivity labels to your documents and emails:** Sensitivity labeling features are now available for customers in the GCC and GCC-H environments.</span></span> [<span data-ttu-id="1a0ed-407">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="1a0ed-407">Learn more</span></span>](/microsoft-365/compliance/sensitivity-labels)
 
-### <a name="powerpoint"></a><span data-ttu-id="5080d-517">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="5080d-517">PowerPoint</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-408">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-408">Outlook</span></span>
 
-- <span data-ttu-id="5080d-518">**필수 레이블 지정:** 필수 레이블 지정 정책 집합을 사용하는 사용자. 해당 관리자는 문서와 전자 메일에 레이블을 지정해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-518">**Mandatory Labeling:** Users with the Mandatory Labeling policy set their Admins will be required to label their documents and emails.</span></span>
+- <span data-ttu-id="1a0ed-409">**정부 고객: 문서 및 전자 메일에 민감도 레이블 적용:** 이제 GCC 및 GCC-H 환경의 고객이 민감도 레이블 기능을 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-409">**Government customers: Apply sensitivity labels to your documents and emails:** Sensitivity labeling features are now available for customers in the GCC and GCC-H environments.</span></span> [<span data-ttu-id="1a0ed-410">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="1a0ed-410">Learn more</span></span>](/microsoft-365/compliance/sensitivity-labels)
 
-### <a name="word"></a><span data-ttu-id="5080d-519">Word</span><span class="sxs-lookup"><span data-stu-id="5080d-519">Word</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="1a0ed-411">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="1a0ed-411">PowerPoint</span></span>
 
-- <span data-ttu-id="5080d-520">**필수 레이블 지정:** 필수 레이블 지정 정책 집합을 사용하는 사용자. 해당 관리자는 문서와 전자 메일에 레이블을 지정해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-520">**Mandatory Labeling:** Users with the Mandatory Labeling policy set their Admins will be required to label their documents and emails.</span></span>
+- <span data-ttu-id="1a0ed-412">**정부 고객: 문서 및 전자 메일에 민감도 레이블 적용:** 이제 GCC 및 GCC-H 환경의 고객이 민감도 레이블 기능을 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-412">**Government customers: Apply sensitivity labels to your documents and emails:** Sensitivity labeling features are now available for customers in the GCC and GCC-H environments.</span></span> <span data-ttu-id="1a0ed-413">[자세히 알아보기](/microsoft-365/compliance/sensitivity-labels).</span><span class="sxs-lookup"><span data-stu-id="1a0ed-413">[Learn more](/microsoft-365/compliance/sensitivity-labels).</span></span>
 
 
-[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+### <a name="word"></a><span data-ttu-id="1a0ed-414">Word</span><span class="sxs-lookup"><span data-stu-id="1a0ed-414">Word</span></span>
 
-## <a name="version-2012-december-28"></a><span data-ttu-id="5080d-522">버전 2012: 12월 28일</span><span class="sxs-lookup"><span data-stu-id="5080d-522">Version 2012: December 28</span></span>
-<span data-ttu-id="5080d-523">*버전 2012(빌드 13530.20264)*</span><span class="sxs-lookup"><span data-stu-id="5080d-523">*Version 2012 (Build 13530.20264)*</span></span>
+- <span data-ttu-id="1a0ed-415">**정부 고객: 문서 및 전자 메일에 민감도 레이블 적용:** 이제 GCC 및 GCC-H 환경의 고객이 민감도 레이블 기능을 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-415">**Government customers: Apply sensitivity labels to your documents and emails:** Sensitivity labeling features are now available for customers in the GCC and GCC-H environments.</span></span> [<span data-ttu-id="1a0ed-416">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="1a0ed-416">Learn more</span></span>](/microsoft-365/compliance/sensitivity-labels)
 
-[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-525">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-525">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="5080d-526">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-526">Outlook</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-417">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-417">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-418">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-418">Outlook</span></span>
 
-- <span data-ttu-id="5080d-527">일부 고객이 일정을 로드하는 동안 중단되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-527">We fixed an issue that caused some customers to encounter a hang while loading their calendars.</span></span>
+- <span data-ttu-id="1a0ed-419">프로필에 큰 계층이 있는 공유 사서함 또는 위임된 사서함이 중단되는 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-419">We fixed an issue that caused users that have Shared or Delegated Mailboxes with large hierarchies in their profile to encounter hangs.</span></span>
 
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
 
-## <a name="version-2012-december-21"></a><span data-ttu-id="5080d-529">버전 2012: 12월 21일</span><span class="sxs-lookup"><span data-stu-id="5080d-529">Version 2012: December 21</span></span>
-<span data-ttu-id="5080d-530">*버전 2012(빌드 13530.20218)*</span><span class="sxs-lookup"><span data-stu-id="5080d-530">*Version 2012 (Build 13530.20218)*</span></span>
+
+
+## <a name="version-2101-january-18"></a><span data-ttu-id="1a0ed-421">버전 2101: 1월 18일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-421">Version 2101: January 18</span></span>
+<span data-ttu-id="1a0ed-422">*버전 2101 (빌드 13628.20158)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-422">*Version 2101 (Build 13628.20158)*</span></span>
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="feature-updates"></a><span data-ttu-id="5080d-532">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="5080d-532">Feature updates</span></span>
-### <a name="excel"></a><span data-ttu-id="5080d-533">Excel</span><span class="sxs-lookup"><span data-stu-id="5080d-533">Excel</span></span>
-
-- <span data-ttu-id="5080d-534">**M365 관리자에게 민감도 레이블에 대한 감사 데이터를 보냄:** 사용자가 문서 및 이메일에 민감도 레이블을 적용, 변경 또는 제거하면 Office는 관리자가 볼 수 있도록 감사 데이터를 M365 감사 백엔드로 보냅니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-534">**Send audit data about sensitivity labeling to M365 administrators:** When users apply, change, or remove sensitivity labels on their documents and emails, Office will send up audit data to the M365 audit backend for administrators to see.</span></span> <span data-ttu-id="5080d-535">이는 관리자 혜택을 위한 자동 기능(UI 없음)입니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-535">This is a silent functionality (no UI) for administrator benefit.</span></span>
-
-### <a name="outlook"></a><span data-ttu-id="5080d-536">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-536">Outlook</span></span>
-
-- <span data-ttu-id="5080d-537">**연달아 있는 모임 사이에 시간 넣기:** 모임이 기본적으로 5~10분 일찍 끝나도록 설정하여 참석자에게 잠시 숨을 돌리거나 장소를 이동할 시간을 줄 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-537">**Build in time between back-to-back meetings:** Give attendees time to catch their breath or travel between locations by setting meetings to start 5-10 min late by default.</span></span> [<span data-ttu-id="5080d-538">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="5080d-538">Learn more</span></span>](https://support.office.com/article/be84396a-0903-4e25-b31c-1c99ce0dacf2)
-
-- <span data-ttu-id="5080d-539">**M365 관리자에게 민감도 레이블에 대한 감사 데이터를 보냄:** 사용자가 문서 및 이메일에 민감도 레이블을 적용, 변경 또는 제거하면 Office는 관리자가 볼 수 있도록 감사 데이터를 M365 감사 백엔드로 보냅니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-539">**Send audit data about sensitivity labeling to M365 administrators:** When users apply, change, or remove sensitivity labels on their documents and emails, Office will send up audit data to the M365 audit backend for administrators to see.</span></span> <span data-ttu-id="5080d-540">이는 관리자 혜택을 위한 자동 기능(UI 없음)입니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-540">This is a silent functionality (no UI) for administrator benefit.</span></span>
-
-### <a name="powerpoint"></a><span data-ttu-id="5080d-541">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="5080d-541">PowerPoint</span></span>
-
-- <span data-ttu-id="5080d-542">**M365 관리자에게 민감도 레이블에 대한 감사 데이터를 보냄:** 사용자가 문서 및 이메일에 민감도 레이블을 적용, 변경 또는 제거하면 Office는 관리자가 볼 수 있도록 감사 데이터를 M365 감사 백엔드로 보냅니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-542">**Send audit data about sensitivity labeling to M365 administrators:** When users apply, change, or remove sensitivity labels on their documents and emails, Office will send up audit data to the M365 audit backend for administrators to see.</span></span> <span data-ttu-id="5080d-543">이는 관리자 혜택을 위한 자동 기능(UI 없음)입니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-543">This is a silent functionality (no UI) for administrator benefit.</span></span>
-
-### <a name="word"></a><span data-ttu-id="5080d-544">Word</span><span class="sxs-lookup"><span data-stu-id="5080d-544">Word</span></span>
-
-- <span data-ttu-id="5080d-545">**M365 관리자에게 민감도 레이블에 대한 감사 데이터를 보냄:** 사용자가 문서 및 이메일에 민감도 레이블을 적용, 변경 또는 제거하면 Office는 관리자가 볼 수 있도록 감사 데이터를 M365 감사 백엔드로 보냅니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-545">**Send audit data about sensitivity labeling to M365 administrators:** When users apply, change, or remove sensitivity labels on their documents and emails, Office will send up audit data to the M365 audit backend for administrators to see.</span></span> <span data-ttu-id="5080d-546">이는 관리자 혜택을 위한 자동 기능(UI 없음)입니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-546">This is a silent functionality (no UI) for administrator benefit.</span></span>
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -953,24 +697,42 @@ ms.locfileid: "51749066"
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-549">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-549">Resolved issues</span></span>
-### <a name="powerpoint"></a><span data-ttu-id="5080d-550">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="5080d-550">PowerPoint</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-426">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-426">Resolved issues</span></span>
+### <a name="project"></a><span data-ttu-id="1a0ed-427">Project</span><span class="sxs-lookup"><span data-stu-id="1a0ed-427">Project</span></span>
 
-- <span data-ttu-id="5080d-551">QAT에서 추가한 글꼴 크기 명령이 업데이트하는 동안 가장 가까운 정의된 글꼴 크기로 자동 완성되는 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-551">We have fixed an issue where font size command, added in QAT, auto completes to the nearest defined font size while updating it.</span></span>
+- <span data-ttu-id="1a0ed-428">팀 플래너 보기에 작업에 대한 테두리가 표시되지 않는 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-428">Fixed an issue where borders weren't showing up for tasks in the Team Planner view.</span></span>
+
+
+- <span data-ttu-id="1a0ed-429">끌어서 놓기 작업이 팀 플래너에서 작동하지 않는 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-429">Fixed an issue where you drag and drop wasn't working for tasks in the Team Planner view.</span></span>
 
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
 
-## <a name="version-2012-december-14"></a><span data-ttu-id="5080d-553">버전 2012: 12월 14일</span><span class="sxs-lookup"><span data-stu-id="5080d-553">Version 2012: December 14</span></span>
-<span data-ttu-id="5080d-554">*버전 2012(빌드 13530.20144)*</span><span class="sxs-lookup"><span data-stu-id="5080d-554">*Version 2012 (Build 13530.20144)*</span></span>
+## <a name="version-2101-january-13"></a><span data-ttu-id="1a0ed-431">버전 2101: 1월 13일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-431">Version 2101: January 13</span></span>
+<span data-ttu-id="1a0ed-432">*버전 2101(빌드 13628.20118)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-432">*Version 2101 (Build 13628.20118)*</span></span>
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+### <a name="feature-updates"></a><span data-ttu-id="1a0ed-434">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="1a0ed-434">Feature updates</span></span>
+### <a name="teams"></a><span data-ttu-id="1a0ed-435">Teams</span><span class="sxs-lookup"><span data-stu-id="1a0ed-435">Teams</span></span>
+- <span data-ttu-id="1a0ed-436">**추가 테마:** 테마를 데스크톱 및 웹 클라이언트에 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-436">**More themes:** New themes are now available for desktop and web clients.</span></span>
+
+- <span data-ttu-id="1a0ed-437">**PPT 공유:** 공유 트레이에서 PowerPoint 파일을 선택하면 Teams의 발표자 보기가 자동으로 열립니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-437">**PPT Sharing:** Presenter View in Teams Once you select a PowerPoint file from the Teams Share Tray, Presenter View is opened automatically.</span></span> <span data-ttu-id="1a0ed-438">현재 슬라이드, 슬라이드 노트 및 간단한 추가 슬라이드 탐색을 위해 데크의 모든 슬라이드의 축소판 그림 스트립을 볼 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-438">You can see the current slide, the slide notes, and a thumbnail strip of all the slides in the deck for easy ad-hoc slide navigation.</span></span> <span data-ttu-id="1a0ed-439">이 보기는 완전히 뒤에 숨겨져 있으며, 발표자가 제어할 수 있는 개인 정보입니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-439">This view is completely behind the scenes, and it’s private to the presenter in control.</span></span> <span data-ttu-id="1a0ed-440">대상 그룹은 현재 슬라이드(큰 빨간색 상자에 강조 표시) 또는 이동하기로 선택한 슬라이드(대상 사용자에 의해 대상 탐색이 잠겨 있지 않은 경우)만 볼 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-440">Your audience can only see your current slide (highlighted in the big red box), or the slide that they choose to navigate to (if audience navigation is not locked by you).</span></span> 
+
+- <span data-ttu-id="1a0ed-441">**Mac에서 데스크톱 또는 창을 공유할 때 컴퓨터 사운드 포함** Mac에서 Mac용 Teams에서 바탕 화면 또는 창을 공유할 때, 이제 미팅에 참여한 사람들이 컴퓨터에서 오디오 재생을 들을 수 있도록 컴퓨터의 소리를 포함할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-441">**Include computer sound when desktop or window sharing on Mac** When you share a desktop or window from Teams on Mac, you can now include your computer's sound so people that have joined the meeting can hear the audio playing out of your computer.</span></span>
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+<br/>
+
+## <a name="version-2101-january-09"></a><span data-ttu-id="1a0ed-443">버전 2101: 1월 9일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-443">Version 2101: January 09</span></span>
+<span data-ttu-id="1a0ed-444">*버전 2101(빌드 13628.20118)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-444">*Version 2101 (Build 13628.20118)*</span></span>
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="feature-updates"></a><span data-ttu-id="5080d-556">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="5080d-556">Feature updates</span></span>
-### <a name="outlook"></a><span data-ttu-id="5080d-557">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-557">Outlook</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="1a0ed-446">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="1a0ed-446">Feature updates</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-447">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-447">Outlook</span></span>
 
-- <span data-ttu-id="5080d-558">**클라우드에서 Outlook 설정: 자동 회신, 중요 받은 편지함, 개인 정보 보호 등과 같이 Windows용 Outlook 설정을 선택하고 모든 PC에서 사용할 수 있습니다** .</span><span class="sxs-lookup"><span data-stu-id="5080d-558">**Your Outlook settings in the cloud:** Choose your Outlook for Windows settings like Automatic Replies, Focused Inbox, and Privacy, and get to them on any PC.</span></span>
+- <span data-ttu-id="1a0ed-448">**한 번의 클릭으로 작문 제안:** 한 번의 클릭으로 작문 제안을 적용합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-448">**One-click writing suggestions:** Apply writing suggestions with a single click.</span></span> <span data-ttu-id="1a0ed-449">편집기는 맞춤법과 문법을 수정하며 글을 다듬는 데 필요한 아이디어를 제공합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-449">Editor corrects spelling and grammar and gives you ideas for refining your writing.</span></span> [<span data-ttu-id="1a0ed-450">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="1a0ed-450">Learn more</span></span>](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br /><span data-ttu-id="1a0ed-451">[블로그 게시물](https://insider.office.com/ko-KR/blog/microsoft-editor-gets-an-upgrade)에서 세부 정보를 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-451">See details in [blog post](https://insider.office.com/ko-KR/blog/microsoft-editor-gets-an-upgrade)</span></span>
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -979,45 +741,26 @@ ms.locfileid: "51749066"
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-561">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-561">Resolved issues</span></span>
-### <a name="office-suite"></a><span data-ttu-id="5080d-562">Office 제품군</span><span class="sxs-lookup"><span data-stu-id="5080d-562">Office Suite</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-454">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-454">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-455">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-455">Outlook</span></span>
 
-- <span data-ttu-id="5080d-563">최적화된 이진 크기</span><span class="sxs-lookup"><span data-stu-id="5080d-563">Optimized binary size.</span></span>
-
-
-- <span data-ttu-id="5080d-564">Anaheim 웹 보기는 아직 WIP(Windows Information Protection)를 지원 하지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-564">Anaheim WebView does not support Windows Information Protection (WIP) yet.</span></span> <span data-ttu-id="5080d-565">이 수정 기능은 WIP를 사용하는 환경의 하위 웹에 Office 추가 플랫폼을 다시 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-565">With this fix Office addin platform falls back to down level WebView in WIP enabled environment.</span></span> <span data-ttu-id="5080d-566">이 기능은 고객의 컴퓨터 환경에 따라 Edge Spartan 웹 보기 또는 Trident 웹 보기가 될 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-566">That can be either Edge Spartan WebView or Trident WebView depending on customer's machine environment.</span></span> <span data-ttu-id="5080d-567">하위 수준 WebViews 모두 WIP를 지원합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-567">Both down level WebViews support WIP.</span></span>
+- <span data-ttu-id="1a0ed-456">일부 사용자가 특정 검색 시나리오에서 Outlook이 예기치 않게 종료되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-456">We fixed an issue that caused some users to experience Outlook to close unexpectedly in certain search scenarios.</span></span>
 
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
 
-## <a name="version-2012-december-07"></a><span data-ttu-id="5080d-569">버전 2012: 12월 7일</span><span class="sxs-lookup"><span data-stu-id="5080d-569">Version 2012: December 07</span></span>
-<span data-ttu-id="5080d-570">*버전 2012(빌드 13530.20064)*</span><span class="sxs-lookup"><span data-stu-id="5080d-570">*Version 2012 (Build 13530.20064)*</span></span>
+## <a name="version-2101-january-07"></a><span data-ttu-id="1a0ed-458">버전 2101: 1월 7일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-458">Version 2101: January 07</span></span>
+<span data-ttu-id="1a0ed-459">*버전 2101(빌드 13628.20030)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-459">*Version 2101 (Build 13628.20030)*</span></span>
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="feature-updates"></a><span data-ttu-id="5080d-572">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="5080d-572">Feature updates</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="1a0ed-461">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="1a0ed-461">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="1a0ed-462">Excel</span><span class="sxs-lookup"><span data-stu-id="1a0ed-462">Excel</span></span>
 
-### <a name="teams"></a><span data-ttu-id="5080d-573">Teams</span><span class="sxs-lookup"><span data-stu-id="5080d-573">Teams</span></span>
+- <span data-ttu-id="1a0ed-463">**여러 시트를 동시에 숨기기 취소:** 한 번에 여러 시트를 숨길 필요가 없습니다. 한 번에 여러 시트를 숨길 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-463">**Unhide many sheets at the same time:** No need to unhide one sheet at a time anymore -- unhide multiple hidden sheets at once.</span></span> [<span data-ttu-id="1a0ed-464">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="1a0ed-464">Learn more</span></span>](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
 
-- <span data-ttu-id="5080d-574">**이제 Windows 기본 알림이 Teams에서 지원됨:** 이제 사용자는 배너에 구축된 Teams나 Windows 기본 배너를 통해 원하는 알림 전달 방법을 선택할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-574">**Windows Native Notification are now Supported on Teams:** Users can now select their preferred means of notification delivery, either through Teams built-in banners or the Windows native banners.</span></span>
-
-
-- <span data-ttu-id="5080d-575">**Citrix 및 VMWare VDI의 Teams 모임 2x2 갤러리 보기:** VDI 2x2 갤러리 보기 기능을 사용하면 Teams 클라이언트가 VDI 최적화 모드인 경우 Citrix, VMWare에서 VDI 클라이언트의 2x2 갤러리 보기로 최대 4개의 참석자 비디오를 볼 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-575">**Teams Meetings 2x2 Gallery View in Citrix and VMWare VDI:** Teams on VDI 2x2 Gallery View feature will enable to view up to four attendees videos in 2x2 Gallery View on VDI clients from Citrix, VMWare when Teams client in VDI optimized mode.</span></span>
-
-
-- <span data-ttu-id="5080d-576">**모임 반응:**  모임 반응은 모임에서 상호 작용하는 새로운 방법입니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-576">**Meeting Reactions:**  Meeting reactions are a new way to interact in meetings.</span></span> <span data-ttu-id="5080d-577">참가자는 공유 중인 콘텐츠에 스트림으로 표시되는 반응을 보낼 수 있으며, 모임 단계에 표시되는 경우 반응을 보낸 개인에게 보낼 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-577">Participants can send reactions which are shown as a stream on content that is being shared, and on the individual who sent the reaction if they're displayed on the meeting stage.</span></span> 
-
-
-- <span data-ttu-id="5080d-578">**웹 모임용 Together 모드 및 대형 갤러리** 대형 갤러리를 사용하면 한 번에 최대 49명의 다른 사람들의 비디오를 볼 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-578">**Together Mode and Large Gallery for Web Meetings** Large Gallery enables you to see the videos of up to 49 other people at once.</span></span> <span data-ttu-id="5080d-579">이 옵션은 10명 이상의 사용자가 카메라를 켰을 때 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-579">This option is available when at least ten people have their cameras turned on.</span></span> <span data-ttu-id="5080d-580">Together 모드를 사용하면 모임의 모든 사용자와 동일한 공유 공간에 있는 것 같은 느낌을 들게 됩니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-580">Together mode lets you feel like you're in the same shared space with everyone in the meeting.</span></span> <span data-ttu-id="5080d-581">모임에 5명 이상이 있는 경우 Together 모드를 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-581">Together mode is available when there are at least five people in the meeting.</span></span> 
-
-
-- <span data-ttu-id="5080d-582">**통화 병합** 통화 병합을 사용하면 사용자가 걸고 있는 새 통화나 새 수신 전화를 1-1 또는 그룹 통화에 병합할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-582">**Call Merge** Call Merge allows users to merge a new call they place, or a new incoming call, into their 1-1 or group call.</span></span> <span data-ttu-id="5080d-583">이는 Teams VOIP 통화 및 PSTN 통화에 적용됩니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-583">This applies to Teams VOIP calls and PSTN calls.</span></span> 
-
-
-### <a name="visio"></a><span data-ttu-id="5080d-584">Visio</span><span class="sxs-lookup"><span data-stu-id="5080d-584">Visio</span></span>
-
-- <span data-ttu-id="5080d-585">**새 Azure 스텐실 및 셰이프:** 최신 Azure 다이어그램을 작성하는 데 도움이 되도록 스텐실을 더 추가했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-585">**New Azure stencils and shapes:** We've added many more stencils to help you create up-to-date Azure diagrams.</span></span> [<span data-ttu-id="5080d-586">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="5080d-586">Learn more</span></span>](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
+- <span data-ttu-id="1a0ed-465">**향상된 조건부 서식 대화 상자:** 조건부 서식 대화 상자의 크기를 조정할 수 있으며, 이제 한 번의 클릭으로 규칙을 복제할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-465">**Improved Conditional Formatting dialogs:** Conditional Formatting dialogs are now resizable, and now you can duplicate the rule with a single click.</span></span> [<span data-ttu-id="1a0ed-466">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="1a0ed-466">Learn more</span></span>](https://support.office.com/article/fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f)
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -1026,142 +769,192 @@ ms.locfileid: "51749066"
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-589">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-589">Resolved issues</span></span>
-### <a name="excel"></a><span data-ttu-id="5080d-590">Excel</span><span class="sxs-lookup"><span data-stu-id="5080d-590">Excel</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-469">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-469">Resolved issues</span></span>
+### <a name="excel"></a><span data-ttu-id="1a0ed-470">Excel</span><span class="sxs-lookup"><span data-stu-id="1a0ed-470">Excel</span></span>
 
-- <span data-ttu-id="5080d-591">일부 리본 요소가 중국어 간체로 지역화되지 않은 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-591">We fixed an issue where some Ribbon elements were not localized in Simplified Chinese.</span></span>
+- <span data-ttu-id="1a0ed-471">Excel이 새 버전의 파일을 사용할 수 있다는 메시지 표시줄을 잘못 표시하여 사용자가 변경 내용을 통합 문서 사본에 저장하거나 변경 내용을 취소하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-471">Fixed an issue where Excel would incorrectly show a message bar that a new version of the file is available and force the user to save their changes in a copy of the workbook or discard their changes.</span></span>
 
 
-- <span data-ttu-id="5080d-592">Excel 업데이트 시 예기치 않게 종료되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-592">We fixed an issue where Excel terminated unexpectedly when updating.</span></span>
+- <span data-ttu-id="1a0ed-472">Selection.Parent.Copy 요청 후 구분 기호 전환 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-472">Fixed an issue with switching separators after a Selection.Parent.Copy call.</span></span>
 
 
-- <span data-ttu-id="5080d-593">OneDrive 로컬 동기화 폴더에서 파일을 삽입하는 경우 개체 삽입 명령에 올바른 아이콘이 표시되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-593">We fixed an issue where the Insert Object command does not show the correct icon when inserting a file from OneDrive local sync folder.</span></span>
+- <span data-ttu-id="1a0ed-473">피벗 테이블에서 서식 스타일을 적용할 때 성능이 향상되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-473">Made a performance improvement when applying formatting styles to pivot tables.</span></span>
 
 
-- <span data-ttu-id="5080d-594">덮어쓰기 모드에서 편집할 때 IME를 사용해야 하는 언어의 편집이 제대로 작동하지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-594">Fixed an issue where editing in languages that require use of IME would behave poorly when editing in overwrite mode.</span></span>
+- <span data-ttu-id="1a0ed-474">Excel 4.0 매크로가 포함된 Excel 추가 기능 파일을 열 때 메시지 표시 없이 매크로를 사용하지 않는 상태로 둘 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-474">Fixed an issue where Excel may leave macros disabled without prompting when opening an Excel Add-in file containing Excel 4.0 Macros.</span></span>
 
 
-- <span data-ttu-id="5080d-595">공동 작성 시 파일의 새 버전을 알리는 메시지 표시줄이 일부 사용자에게 잘못 표시되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-595">Fixed an issue where some users would incorrectly see a message bar informing them of a new version of a file when coauthoring.</span></span>
+- <span data-ttu-id="1a0ed-475">Excel에서 차트를 복사하여 Word에 붙여넣을 때 소수점 및 천 단위 구분 기호 설정을 같이 붙여넣도록 업데이트</span><span class="sxs-lookup"><span data-stu-id="1a0ed-475">Update so that decimal and thousands separators settings carryover when copying a chart from Excel and pasting into Word</span></span>
 
 
-- <span data-ttu-id="5080d-596">수식 뷰에서 데이터를 복사하고 붙여넣을 때 Excel이 예기치 않게 닫히는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-596">Fixed an issue where Excel would close unexpectedly when copying and pasting data in formula view.</span></span>
+- <span data-ttu-id="1a0ed-476">잘못된 파일 특성(만든 시간, 수정된 시간 등)이 있는 UNC 파일을 열 때 Excel이 예기치 않게 닫히는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-476">Fixed an issue where Excel would close unexpectedly when opening UNC files that have invalid file attributes (creation time, modified time, etc.)</span></span>
 
 
-- <span data-ttu-id="5080d-597">자동 저장을 사용할 수 없는 경우 경고의 도움말 문서에 대한 하이퍼링크가 손상되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-597">Fixed a broken hyperlink to a help article in an alert in case Autosave becomes disabled.</span></span>
+- <span data-ttu-id="1a0ed-477">STOCKHISTORY 함수를 사용하는 경우 "리소스 부족" 알림을 발생시킬 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-477">Fixed an issue which could cause an "out of resources" alert when using the STOCKHISTORY function.</span></span>
 
 
-- <span data-ttu-id="5080d-598">엑셀이 특정 언어로 실행되는 동안 데이터를 입력할 때 Excel이 중지될 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-598">We fixed an issue where when entering data while Excel is running in certain languages could cause Excel to stop working.</span></span>
+- <span data-ttu-id="1a0ed-478">FuzzyClustering dll이 PQ dlls 목록에 추가되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-478">Added a FuzzyClustering dll to PQ dlls list.</span></span>
 
 
-- <span data-ttu-id="5080d-599">이 변경 사항은 수식 내에서 글꼴을 올바르게 표시하는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-599">This change addresses an issue with properly displaying fonts within equations.</span></span>
+- <span data-ttu-id="1a0ed-479">이 변경으로 SVG 이미지의 윤곽선 색을 변경하는 것과 관련된 문제를 해결할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-479">This change addresses an issue related to changing outline colors of SVG images.</span></span>
 
 
-- <span data-ttu-id="5080d-600">이렇게 하면 Power Pivot가 탭으로 구분된 텍스트 파일을 올바르게 가져올 수 없는 문제가 해결됩니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-600">This fixes an issue where Power Pivot wasn't able to correctly import a tab-delimited text file.</span></span>
+- <span data-ttu-id="1a0ed-480">PowerPoint에서 포함된 Excel 범위 미리 보기에 잘못된 크기가 표시되는 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-480">We have fixed an issue where Preview of embedded Excel range in PowerPoint shows incorrect size.</span></span>
 
 
-### <a name="outlook"></a><span data-ttu-id="5080d-601">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-601">Outlook</span></span>
+### <a name="onenote"></a><span data-ttu-id="1a0ed-481">OneNote</span><span class="sxs-lookup"><span data-stu-id="1a0ed-481">OneNote</span></span>
 
-- <span data-ttu-id="5080d-602">작업 상태 보고서에서 수신자 필드를 비어 있게 만드는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-602">We fixed an issue that caused the To: field to be blank in task status reports.</span></span>
+- <span data-ttu-id="1a0ed-482">이 변경 사항으로 OneNote에 영향을 미치는 렌더링 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-482">This change addresses a rendering issue affecting OneNote.</span></span>
 
 
-- <span data-ttu-id="5080d-603">MailItem.BeforeAttachmentAdd 이벤트를 중단시키는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-603">We fixed an issue that caused the MailItem.BeforeAttachmentAdd event to be broken.</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-483">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-483">Outlook</span></span>
 
+- <span data-ttu-id="1a0ed-484">사용자가 Word에서 메일 병합을 시작할 때 액세스를 허용하는 데 걸리는 시간을 지정할 수 없어 과도한 메시지가 표시되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-484">We fixed an issue that caused users to be unable to specify how long they wanted to allow access for when starting a mail merge from Word, resulting in them getting excess prompts.</span></span>
 
-- <span data-ttu-id="5080d-604">Outlook 이외의 응용 프로그램에서 Outlook 메일을 보낼 때 사용자에게 몇 가지 문제가 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-604">We fixed an issue that was causing users to experience some issues when sending Outlook mail from applications other than Outlook.</span></span>
 
+- <span data-ttu-id="1a0ed-485">이렇게 변경하면 Outlook에서 Exchange Online 보관 사서함을 최종 사용자에 표시하지 않는 Exchange 서버 설정을 활용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-485">This change enables Outlook to take advantage of an Exchange server setting that suppresses the display of the Exchange Online Archive Mailbox to end users.</span></span>
 
-- <span data-ttu-id="5080d-605">초안에 저장할 때 SmartLinks의 서식이 손실되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-605">We fixed an issue that caused SmartLinks to lose their formatting when saved to drafts.</span></span>
 
+- <span data-ttu-id="1a0ed-486">사용자가 상환 기반 추가 기능을 사용하는 경우 Outlook이 예기치 않게 종료되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-486">We fixed an issue that caused a Outlook to close unexpectedly for users of Redemption based Add-ins.</span></span>
 
-- <span data-ttu-id="5080d-606">Zip 파일에서 열린 메시지에 첨부 파일을 추가하면 실패하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-606">We fixed and issue where adding an attachment to a message opened from a zip file would fail.</span></span>
 
+- <span data-ttu-id="1a0ed-487">사용자가 검색할 범주를 두 개 이상 선택할 수 없게 하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-487">We fixed and issue that caused users to be unable to select more than one category to search.</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="5080d-607">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="5080d-607">PowerPoint</span></span>
 
-- <span data-ttu-id="5080d-608">Word에서 Powerpoint로 수식을 복사/붙여넣기를 할 때 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-608">Fixed an issue with copy/paste of an equation from Word to Powerpoint</span></span>
+- <span data-ttu-id="1a0ed-488">다른 약속에서 이벤트를 복사할 때 일부 일정 항목의 시작 시간이 예기치 않게 변경되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-488">We fixed an issue that caused the start time of some calendar items to change unexpectedly when the event is copied from another appointment.</span></span>
 
 
-- <span data-ttu-id="5080d-609">이 변경 사항은 잉크 분석 중에 발생한 시간 초과와 관련된 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-609">This change addresses an issue related to timeouts experienced during ink analysis.</span></span>
+- <span data-ttu-id="1a0ed-489">일반 텍스트 S/MIME 메시지가 전송 시 왜곡되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-489">Addressed an issue that caused plain text S/MIME messages to become garbled when sending.</span></span>
 
 
-- <span data-ttu-id="5080d-610">이 변경사항은 애니메이션 GIF 사용자 인터페이스의 문법 오류를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-610">This change addresses a grammatical error in the Create an Animated GIF user interface.</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="1a0ed-490">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="1a0ed-490">PowerPoint</span></span>
 
+- <span data-ttu-id="1a0ed-491">이 변경 사항으로 텍스트 작업을 수행하는 도형 병합과 관련된 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-491">This change addresses an issue with Merge Shapes working with text.</span></span>
 
-- <span data-ttu-id="5080d-611">이 변경 사항은 특정 지오메트리를 사용하여 형상 병합 작업을 적용할 때 경로 채우기 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-611">This change addresses an issue with path fills when applying Merge Shapes operations with certain geometries.</span></span>
 
+- <span data-ttu-id="1a0ed-492">이 변경으로 SVG 이미지의 윤곽선 색을 변경하는 것과 관련된 문제를 해결할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-492">This change addresses an issue related to changing outline colors of SVG images.</span></span>
 
-- <span data-ttu-id="5080d-612">이 변경 사항은 수식 내에서 글꼴을 올바르게 표시하는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-612">This change addresses an issue with properly displaying fonts within equations.</span></span>
 
+- <span data-ttu-id="1a0ed-493">슬라이드 쇼에서 배경 비디오 재생을 반복하여 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-493">This change addresses an issue with looping background videos playback in Slide Show.</span></span>
 
-- <span data-ttu-id="5080d-613">이 변경 사항은 비디오 로드 중에 발생할 수 있는 처리 오류 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-613">This change addresses an issue with handling errors that may occur during video loading.</span></span>
 
+- <span data-ttu-id="1a0ed-494">QAT에서 추가한 글꼴 크기 명령에 대한 문제를 해결 했습니다. 이 문제는 업데이트하는 동안 가장 가까운 정의된 글꼴 크기로 자동 완성됩니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-494">We have fixed an issue where font size command, added in QAT, auto completes to the nearest defined font size while updating it.</span></span>
 
-- <span data-ttu-id="5080d-614">Slide.Shapes.AddMediaObject2가 레거시 비디오 형식(MPG-1, Mpeg-2)과 충돌하는 VBA 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-614">We fixed a VBA issue where Slide.Shapes.AddMediaObject2 crashing with legacy video formats (MPG-1,Mpeg-2).</span></span>
 
+### <a name="project"></a><span data-ttu-id="1a0ed-495">Project</span><span class="sxs-lookup"><span data-stu-id="1a0ed-495">Project</span></span>
 
-- <span data-ttu-id="5080d-615">공동 작업자 대한 추가 정보가 있을 때 알 수 없는 공동 작업자의 현재 상태 표시기가 완전히 새로워지지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-615">We fixed an issue where an unknown coauthor's presence indicator does not get completely refreshed when more information about the coauthor is available.</span></span>
+- <span data-ttu-id="1a0ed-496">리소스의 최대 단위에서 최대 단위에 대한 최신 업데이트를 항상 반영하지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-496">Fixed an issue where a resource's max units would not always reflect the latest update to max units.</span></span>
 
 
-- <span data-ttu-id="5080d-616">눈금자가 켜진 상태에서 슬라이드 뷰의 크기를 조정할 때 Null 포인터가 참조 해제되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-616">Fixed a null pointer being dereferenced when slide view is resized with ruler turned on.</span></span>
+### <a name="visio"></a><span data-ttu-id="1a0ed-497">Visio</span><span class="sxs-lookup"><span data-stu-id="1a0ed-497">Visio</span></span>
 
+- <span data-ttu-id="1a0ed-498">최근 회귀 때문에 발생한 문제입니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-498">The issue occurred due to a recent regression.</span></span> <span data-ttu-id="1a0ed-499">문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-499">We have resolved the issue.</span></span> <span data-ttu-id="1a0ed-500">이제 "웹 페이지로 저장" 대화 상자는 사용자 입력에 따라 필드가 제대로 채워지고 사용자가 파일을 웹 페이지로 원활하게 저장할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-500">"Save as Web Page" dialog will now have the fields correctly populated as per the user inputs and users can seamlessly save their files as web pages.</span></span>
 
-- <span data-ttu-id="5080d-617">문서 복구 작업 후에도 손상된 PowerPoint 파일이 올바르게 열리지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-617">Fixed an issue where some corrupt PowerPoint files were not opening correctly, even after a document repair operation.</span></span>
 
+- <span data-ttu-id="1a0ed-501">이 문제는 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-501">This issue has been fixed.</span></span> <span data-ttu-id="1a0ed-502">이제 Visio 파일을 PowerPoint와 Word와 같은 다른 Office 응용 프로그램의 개체로 포함하고 이러한 응용 프로그램 내에서 원활하게 액세스할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-502">You can now embed Visio files as objects in other Office applications like PowerPoint and Word and seamlessly access them from within these applications.</span></span>
 
-### <a name="project"></a><span data-ttu-id="5080d-618">Project</span><span class="sxs-lookup"><span data-stu-id="5080d-618">Project</span></span>
 
-- <span data-ttu-id="5080d-619">사용자가 업데이트된 정보를 사용하여 저장된 것으로 고려되는 프로젝트를 여는 경우 업데이트가 누락되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-619">We fixed an issue where users open projects which have supposedly been saved with updated information, but find the updates are is missing.</span></span>
+### <a name="word"></a><span data-ttu-id="1a0ed-503">Word</span><span class="sxs-lookup"><span data-stu-id="1a0ed-503">Word</span></span>
 
+- <span data-ttu-id="1a0ed-504">사용자 지정 해시 설정을 포함하는 컴퓨터에서 sha512 외의 해시 설정을 사용하여 공동 작업 세션에 도달했을 때 문제가 발생하던 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-504">Fixed an issue where machines with custom hash settings were running in to issues when they got into a collab session with a hash setting other than sha512.</span></span>
 
-- <span data-ttu-id="5080d-620">결과물이 연결된 SharePoint 사이트가 더 이상 존재하지 않는 경우, 결과물에 대한 종속성을 삭제할 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-620">We fixed an issue where you couldn't delete dependencies on the deliverables if the SharePoint site the deliverable was associated with no longer existed.</span></span>
 
+- <span data-ttu-id="1a0ed-505">이 변경으로 SVG 이미지의 윤곽선 색을 변경하는 것과 관련된 문제를 해결할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-505">This change addresses an issue related to changing outline colors of SVG images.</span></span>
 
-- <span data-ttu-id="5080d-621">리소스가 많은 프로젝트를 여는 데 시간이 오래 걸리는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-621">Fixed an issue where opening a project with a lot of resources was taking a long time.</span></span>
 
+- <span data-ttu-id="1a0ed-506">@멘션을 사용하여 댓글 게시물을 편집할 때의 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-506">Fixed an issue when editing commenting post with @mention.</span></span>
 
-- <span data-ttu-id="5080d-622">작업에 연결된 할당되지 않은 과제가 여러 개 표시되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-622">Fixed an issue where users may see multiple unassigned assignments associated with a task.</span></span>
 
+- <span data-ttu-id="1a0ed-507">최신 메모를 더 강력하게 만들도록 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-507">Fixed an issue to make Modern comments more robust.</span></span>
 
-- <span data-ttu-id="5080d-623">대규모 프로젝트에서 작업 이름을 입력하는 속도가 매우 느릴 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-623">Fixed an issue where in large projects it can be very slow to enter a task name.</span></span>
 
+- <span data-ttu-id="1a0ed-508">콘텐츠 컨트롤에서 편집할 수 없는 것으로 표시된 최신 메모를 삭제하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-508">We fixed an issue around deleting modern comments in a content control that is marked as not editable.</span></span>
 
-- <span data-ttu-id="5080d-624">로드의 특정 부분에 프로젝트 파일에 문제가 있는 경우 특정 프로젝트를 열 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-624">Fixed an issue where specific projects could be opened if there was an issue with the project file in a specific part of load.</span></span>
 
+- <span data-ttu-id="1a0ed-509">메모 카드 아래에 입력할 때 애니메이션을 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-509">Fix animation when typing on the bottom of a comment card.</span></span>
 
-### <a name="word"></a><span data-ttu-id="5080d-625">Word</span><span class="sxs-lookup"><span data-stu-id="5080d-625">Word</span></span>
 
-- <span data-ttu-id="5080d-626">서식 있는 텍스트로 붙여넣기보다 일반 텍스트로 붙여넣기를 선호하는 경우가 많습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-626">Paste as plain text is often preferred to pasting as rich text.</span></span> <span data-ttu-id="5080d-627">이 상황에 맞는 메뉴 수정사항을 사용하여 일반 텍스트로 붙여넣을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-627">This context menu fix allows the user to paste as plain text.</span></span> <span data-ttu-id="5080d-628">그렇지 않으면 사용자는 메모장과 같은 일반 텍스트 편집기에 복사한 다음 메모장에서 원하는 대상 앱으로 복사해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-628">Else the user would have to copy into a plain-text editor like Notepad and then copy from Notepad into the desired target app</span></span>
+- <span data-ttu-id="1a0ed-510">메모 카드의 회신 상자가 화면에 표시되지 않는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-510">Fixes an issue where the reply box on a comment card is off the screen.</span></span>
 
 
-- <span data-ttu-id="5080d-629">Word에서 Powerpoint로 수식을 복사/붙여넣기를 할 때 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-629">Fixed an issue with copy/paste of an equation from Word to Powerpoint</span></span>
+- <span data-ttu-id="1a0ed-511">페이지 맨 위에 표시된 메모 카드의 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-511">Fixes an issue with a comment card displaying at top of page.</span></span>
 
 
-- <span data-ttu-id="5080d-630">이 변경 사항은 문서 편집 시 커서 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-630">This change addresses an issue with the cursor when editing a document.</span></span>
+- <span data-ttu-id="1a0ed-512">텍스트가 화면 밖으로 스크롤될 수 있는 메모의 버그를 수정합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-512">Fixes bug in comments where text can scroll off screen.</span></span>
 
 
-- <span data-ttu-id="5080d-631">확대/축소하는 동안 사진이 흐릿해지는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-631">We fixed an issue related to pictures becoming blurry while zooming.</span></span>
+- <span data-ttu-id="1a0ed-513">메모 창에서 중첩된 스크롤 막대와 관련된 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-513">Fix and issue with nested scrollbars in the comments pane.</span></span>
 
 
-- <span data-ttu-id="5080d-632">긴 하이퍼링크가 잘리는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-632">We fixed an issue where long hyperlinks were getting truncated.</span></span>
+- <span data-ttu-id="1a0ed-514">새 Word 인스턴스를 만들 때 메모 초안이 사라집니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-514">Comment drafts disappears when creating a new Word instance.</span></span>
 
 
-### <a name="office-suite"></a><span data-ttu-id="5080d-633">Office 제품군</span><span class="sxs-lookup"><span data-stu-id="5080d-633">Office Suite</span></span>
+- <span data-ttu-id="1a0ed-515">숨겨진 텍스트가 있는 PDF에 문서를 저장할 때 Word가 걸려 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-515">We fixed an issue where Word hangs when saving document to PDF with hidden text.</span></span>
 
-- <span data-ttu-id="5080d-634">Office 제품군 이전 버전에서 새 Office 버전을 설치하면 레지스트리 항목이 누락되어 전원 쿼리를 사용할 수 없는 등의 기능이 누락될 수 있는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-634">Office Suite Fixed an issue where installing a newer version of Office over certain older versions can result in impaired functionality (such as being unable to use Power Query) due to missing registry entries.</span></span>
 
 
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
 
-[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+## <a name="version-2012-january-04"></a><span data-ttu-id="1a0ed-517">버전 2012: 1월 4일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-517">Version 2012: January 04</span></span>
+<span data-ttu-id="1a0ed-518">*버전 2012(빌드 13530.20316)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-518">*Version 2012 (Build 13530.20316)*</span></span>
+* <span data-ttu-id="1a0ed-519">다양한 버그 및 성능 수정 사항.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-519">Various bugs and performance fixes.</span></span>
 
-## <a name="version-2011-december-01"></a><span data-ttu-id="5080d-636">버전 2011: 12월 1일</span><span class="sxs-lookup"><span data-stu-id="5080d-636">Version 2011: December 01</span></span>
-<span data-ttu-id="5080d-637">*버전 2011(빌드 13426.20306)*</span><span class="sxs-lookup"><span data-stu-id="5080d-637">*Version 2011 (Build 13426.20306)*</span></span>
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="feature-updates"></a><span data-ttu-id="5080d-639">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="5080d-639">Feature updates</span></span>
-### <a name="outlook"></a><span data-ttu-id="5080d-640">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-640">Outlook</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="1a0ed-521">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="1a0ed-521">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="1a0ed-522">Excel</span><span class="sxs-lookup"><span data-stu-id="1a0ed-522">Excel</span></span>
 
-- <span data-ttu-id="5080d-641">**모든 온라인 모임** : 새 설정으로 온라인 모임을 더욱 쉽게 예약하여 모든 모임을 기본적으로 온라인으로 설정할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-641">**Every meeting online:** Make it easier to schedule online meetings with a new setting to make all your meetings online by default.</span></span>
+- <span data-ttu-id="1a0ed-523">**필수 레이블 지정:** 필수 레이블 지정 정책 집합을 사용하는 사용자. 해당 관리자는 문서와 전자 메일에 레이블을 지정해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-523">**Mandatory Labeling:** Users with the Mandatory Labeling policy set their Admins will be required to label their documents and emails.</span></span>
+
+### <a name="powerpoint"></a><span data-ttu-id="1a0ed-524">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="1a0ed-524">PowerPoint</span></span>
+
+- <span data-ttu-id="1a0ed-525">**필수 레이블 지정:** 필수 레이블 지정 정책 집합을 사용하는 사용자. 해당 관리자는 문서와 전자 메일에 레이블을 지정해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-525">**Mandatory Labeling:** Users with the Mandatory Labeling policy set their Admins will be required to label their documents and emails.</span></span>
+
+### <a name="word"></a><span data-ttu-id="1a0ed-526">Word</span><span class="sxs-lookup"><span data-stu-id="1a0ed-526">Word</span></span>
+
+- <span data-ttu-id="1a0ed-527">**필수 레이블 지정:** 필수 레이블 지정 정책 집합을 사용하는 사용자. 해당 관리자는 문서와 전자 메일에 레이블을 지정해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-527">**Mandatory Labeling:** Users with the Mandatory Labeling policy set their Admins will be required to label their documents and emails.</span></span>
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2012-december-28"></a><span data-ttu-id="1a0ed-529">버전 2012: 12월 28일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-529">Version 2012: December 28</span></span>
+<span data-ttu-id="1a0ed-530">*버전 2012(빌드 13530.20264)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-530">*Version 2012 (Build 13530.20264)*</span></span>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-532">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-532">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-533">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-533">Outlook</span></span>
+
+- <span data-ttu-id="1a0ed-534">일부 고객이 일정을 로드하는 동안 중단되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-534">We fixed an issue that caused some customers to encounter a hang while loading their calendars.</span></span>
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
+
+## <a name="version-2012-december-21"></a><span data-ttu-id="1a0ed-536">버전 2012: 12월 21일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-536">Version 2012: December 21</span></span>
+<span data-ttu-id="1a0ed-537">*버전 2012(빌드 13530.20218)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-537">*Version 2012 (Build 13530.20218)*</span></span>
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a><span data-ttu-id="1a0ed-539">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="1a0ed-539">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="1a0ed-540">Excel</span><span class="sxs-lookup"><span data-stu-id="1a0ed-540">Excel</span></span>
+
+- <span data-ttu-id="1a0ed-541">**M365 관리자에게 민감도 레이블에 대한 감사 데이터를 보냄:** 사용자가 문서 및 이메일에 민감도 레이블을 적용, 변경 또는 제거하면 Office는 관리자가 볼 수 있도록 감사 데이터를 M365 감사 백엔드로 보냅니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-541">**Send audit data about sensitivity labeling to M365 administrators:** When users apply, change, or remove sensitivity labels on their documents and emails, Office will send up audit data to the M365 audit backend for administrators to see.</span></span> <span data-ttu-id="1a0ed-542">이는 관리자 혜택을 위한 자동 기능(UI 없음)입니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-542">This is a silent functionality (no UI) for administrator benefit.</span></span>
+
+### <a name="outlook"></a><span data-ttu-id="1a0ed-543">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-543">Outlook</span></span>
+
+- <span data-ttu-id="1a0ed-544">**연달아 있는 모임 사이에 시간 넣기:** 모임이 기본적으로 5~10분 일찍 끝나도록 설정하여 참석자에게 잠시 숨을 돌리거나 장소를 이동할 시간을 줄 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-544">**Build in time between back-to-back meetings:** Give attendees time to catch their breath or travel between locations by setting meetings to start 5-10 min late by default.</span></span> [<span data-ttu-id="1a0ed-545">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="1a0ed-545">Learn more</span></span>](https://support.office.com/article/be84396a-0903-4e25-b31c-1c99ce0dacf2)
+
+- <span data-ttu-id="1a0ed-546">**M365 관리자에게 민감도 레이블에 대한 감사 데이터를 보냄:** 사용자가 문서 및 이메일에 민감도 레이블을 적용, 변경 또는 제거하면 Office는 관리자가 볼 수 있도록 감사 데이터를 M365 감사 백엔드로 보냅니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-546">**Send audit data about sensitivity labeling to M365 administrators:** When users apply, change, or remove sensitivity labels on their documents and emails, Office will send up audit data to the M365 audit backend for administrators to see.</span></span> <span data-ttu-id="1a0ed-547">이는 관리자 혜택을 위한 자동 기능(UI 없음)입니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-547">This is a silent functionality (no UI) for administrator benefit.</span></span>
+
+### <a name="powerpoint"></a><span data-ttu-id="1a0ed-548">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="1a0ed-548">PowerPoint</span></span>
+
+- <span data-ttu-id="1a0ed-549">**M365 관리자에게 민감도 레이블에 대한 감사 데이터를 보냄:** 사용자가 문서 및 이메일에 민감도 레이블을 적용, 변경 또는 제거하면 Office는 관리자가 볼 수 있도록 감사 데이터를 M365 감사 백엔드로 보냅니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-549">**Send audit data about sensitivity labeling to M365 administrators:** When users apply, change, or remove sensitivity labels on their documents and emails, Office will send up audit data to the M365 audit backend for administrators to see.</span></span> <span data-ttu-id="1a0ed-550">이는 관리자 혜택을 위한 자동 기능(UI 없음)입니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-550">This is a silent functionality (no UI) for administrator benefit.</span></span>
+
+### <a name="word"></a><span data-ttu-id="1a0ed-551">Word</span><span class="sxs-lookup"><span data-stu-id="1a0ed-551">Word</span></span>
+
+- <span data-ttu-id="1a0ed-552">**M365 관리자에게 민감도 레이블에 대한 감사 데이터를 보냄:** 사용자가 문서 및 이메일에 민감도 레이블을 적용, 변경 또는 제거하면 Office는 관리자가 볼 수 있도록 감사 데이터를 M365 감사 백엔드로 보냅니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-552">**Send audit data about sensitivity labeling to M365 administrators:** When users apply, change, or remove sensitivity labels on their documents and emails, Office will send up audit data to the M365 audit backend for administrators to see.</span></span> <span data-ttu-id="1a0ed-553">이는 관리자 혜택을 위한 자동 기능(UI 없음)입니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-553">This is a silent functionality (no UI) for administrator benefit.</span></span>
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -1170,46 +963,215 @@ ms.locfileid: "51749066"
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-644">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-644">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="5080d-645">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-645">Outlook</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-556">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-556">Resolved issues</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="1a0ed-557">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="1a0ed-557">PowerPoint</span></span>
 
-- <span data-ttu-id="5080d-646">일부 모임에서 다른 참석자가 모임을 전달할 때 기존 참석자가 모임이 취소되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-646">We fixed an issue that caused the original attendees of some meetings to receive a cancellation when another attendee forwards the meeting.</span></span>
-
-
-- <span data-ttu-id="5080d-647">하나 이상의 서명이 구성되었음에도 불구하고 일부 사용자에게 서명 드롭다운이 표시되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-647">We fixed an issue that caused some users to see no signatures in the signatures drop down despite having one or more signatures configured.</span></span>
+- <span data-ttu-id="1a0ed-558">QAT에서 추가한 글꼴 크기 명령이 업데이트하는 동안 가장 가까운 정의된 글꼴 크기로 자동 완성되는 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-558">We have fixed an issue where font size command, added in QAT, auto completes to the nearest defined font size while updating it.</span></span>
 
 
-### <a name="project"></a><span data-ttu-id="5080d-648">Project</span><span class="sxs-lookup"><span data-stu-id="5080d-648">Project</span></span>
 
-- <span data-ttu-id="5080d-649">로드의 특정 부분에 프로젝트 파일에 문제가 있는 경우 특정 프로젝트를 열 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-649">Fixed an issue where specific projects could be opened if there was an issue with the project file in a specific part of load.</span></span>
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
+
+## <a name="version-2012-december-14"></a><span data-ttu-id="1a0ed-560">버전 2012: 12월 14일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-560">Version 2012: December 14</span></span>
+<span data-ttu-id="1a0ed-561">*버전 2012(빌드 13530.20144)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-561">*Version 2012 (Build 13530.20144)*</span></span>
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a><span data-ttu-id="1a0ed-563">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="1a0ed-563">Feature updates</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-564">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-564">Outlook</span></span>
+
+- <span data-ttu-id="1a0ed-565">**클라우드에서 Outlook 설정: 자동 회신, 중요 받은 편지함, 개인 정보 보호 등과 같이 Windows용 Outlook 설정을 선택하고 모든 PC에서 사용할 수 있습니다** .</span><span class="sxs-lookup"><span data-stu-id="1a0ed-565">**Your Outlook settings in the cloud:** Choose your Outlook for Windows settings like Automatic Replies, Focused Inbox, and Privacy, and get to them on any PC.</span></span>
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-568">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-568">Resolved issues</span></span>
+### <a name="office-suite"></a><span data-ttu-id="1a0ed-569">Office 제품군</span><span class="sxs-lookup"><span data-stu-id="1a0ed-569">Office Suite</span></span>
+
+- <span data-ttu-id="1a0ed-570">최적화된 이진 크기</span><span class="sxs-lookup"><span data-stu-id="1a0ed-570">Optimized binary size.</span></span>
+
+
+- <span data-ttu-id="1a0ed-571">Anaheim 웹 보기는 아직 WIP(Windows Information Protection)를 지원 하지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-571">Anaheim WebView does not support Windows Information Protection (WIP) yet.</span></span> <span data-ttu-id="1a0ed-572">이 수정 기능은 WIP를 사용하는 환경의 하위 웹에 Office 추가 플랫폼을 다시 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-572">With this fix Office addin platform falls back to down level WebView in WIP enabled environment.</span></span> <span data-ttu-id="1a0ed-573">이 기능은 고객의 컴퓨터 환경에 따라 Edge Spartan 웹 보기 또는 Trident 웹 보기가 될 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-573">That can be either Edge Spartan WebView or Trident WebView depending on customer's machine environment.</span></span> <span data-ttu-id="1a0ed-574">하위 수준 WebViews 모두 WIP를 지원합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-574">Both down level WebViews support WIP.</span></span>
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요 끝)
+
+## <a name="version-2012-december-07"></a><span data-ttu-id="1a0ed-576">버전 2012: 12월 7일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-576">Version 2012: December 07</span></span>
+<span data-ttu-id="1a0ed-577">*버전 2012(빌드 13530.20064)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-577">*Version 2012 (Build 13530.20064)*</span></span>
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a><span data-ttu-id="1a0ed-579">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="1a0ed-579">Feature updates</span></span>
+
+### <a name="teams"></a><span data-ttu-id="1a0ed-580">Teams</span><span class="sxs-lookup"><span data-stu-id="1a0ed-580">Teams</span></span>
+
+- <span data-ttu-id="1a0ed-581">**이제 Windows 기본 알림이 Teams에서 지원됨:** 이제 사용자는 배너에 구축된 Teams나 Windows 기본 배너를 통해 원하는 알림 전달 방법을 선택할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-581">**Windows Native Notification are now Supported on Teams:** Users can now select their preferred means of notification delivery, either through Teams built-in banners or the Windows native banners.</span></span>
+
+
+- <span data-ttu-id="1a0ed-582">**Citrix 및 VMWare VDI의 Teams 모임 2x2 갤러리 보기:** VDI 2x2 갤러리 보기 기능을 사용하면 Teams 클라이언트가 VDI 최적화 모드인 경우 Citrix, VMWare에서 VDI 클라이언트의 2x2 갤러리 보기로 최대 4개의 참석자 비디오를 볼 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-582">**Teams Meetings 2x2 Gallery View in Citrix and VMWare VDI:** Teams on VDI 2x2 Gallery View feature will enable to view up to four attendees videos in 2x2 Gallery View on VDI clients from Citrix, VMWare when Teams client in VDI optimized mode.</span></span>
+
+
+- <span data-ttu-id="1a0ed-583">**모임 반응:**  모임 반응은 모임에서 상호 작용하는 새로운 방법입니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-583">**Meeting Reactions:**  Meeting reactions are a new way to interact in meetings.</span></span> <span data-ttu-id="1a0ed-584">참가자는 공유 중인 콘텐츠에 스트림으로 표시되는 반응을 보낼 수 있으며, 모임 단계에 표시되는 경우 반응을 보낸 개인에게 보낼 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-584">Participants can send reactions which are shown as a stream on content that is being shared, and on the individual who sent the reaction if they're displayed on the meeting stage.</span></span> 
+
+
+- <span data-ttu-id="1a0ed-585">**웹 모임용 Together 모드 및 대형 갤러리** 대형 갤러리를 사용하면 한 번에 최대 49명의 다른 사람들의 비디오를 볼 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-585">**Together Mode and Large Gallery for Web Meetings** Large Gallery enables you to see the videos of up to 49 other people at once.</span></span> <span data-ttu-id="1a0ed-586">이 옵션은 10명 이상의 사용자가 카메라를 켰을 때 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-586">This option is available when at least ten people have their cameras turned on.</span></span> <span data-ttu-id="1a0ed-587">Together 모드를 사용하면 모임의 모든 사용자와 동일한 공유 공간에 있는 것 같은 느낌을 들게 됩니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-587">Together mode lets you feel like you're in the same shared space with everyone in the meeting.</span></span> <span data-ttu-id="1a0ed-588">모임에 5명 이상이 있는 경우 Together 모드를 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-588">Together mode is available when there are at least five people in the meeting.</span></span> 
+
+
+- <span data-ttu-id="1a0ed-589">**통화 병합** 통화 병합을 사용하면 사용자가 걸고 있는 새 통화나 새 수신 전화를 1-1 또는 그룹 통화에 병합할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-589">**Call Merge** Call Merge allows users to merge a new call they place, or a new incoming call, into their 1-1 or group call.</span></span> <span data-ttu-id="1a0ed-590">이는 Teams VOIP 통화 및 PSTN 통화에 적용됩니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-590">This applies to Teams VOIP calls and PSTN calls.</span></span> 
+
+
+### <a name="visio"></a><span data-ttu-id="1a0ed-591">Visio</span><span class="sxs-lookup"><span data-stu-id="1a0ed-591">Visio</span></span>
+
+- <span data-ttu-id="1a0ed-592">**새 Azure 스텐실 및 셰이프:** 최신 Azure 다이어그램을 작성하는 데 도움이 되도록 스텐실을 더 추가했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-592">**New Azure stencils and shapes:** We've added many more stencils to help you create up-to-date Azure diagrams.</span></span> [<span data-ttu-id="1a0ed-593">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="1a0ed-593">Learn more</span></span>](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-596">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-596">Resolved issues</span></span>
+### <a name="excel"></a><span data-ttu-id="1a0ed-597">Excel</span><span class="sxs-lookup"><span data-stu-id="1a0ed-597">Excel</span></span>
+
+- <span data-ttu-id="1a0ed-598">일부 리본 요소가 중국어 간체로 지역화되지 않은 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-598">We fixed an issue where some Ribbon elements were not localized in Simplified Chinese.</span></span>
+
+
+- <span data-ttu-id="1a0ed-599">Excel 업데이트 시 예기치 않게 종료되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-599">We fixed an issue where Excel terminated unexpectedly when updating.</span></span>
+
+
+- <span data-ttu-id="1a0ed-600">OneDrive 로컬 동기화 폴더에서 파일을 삽입하는 경우 개체 삽입 명령에 올바른 아이콘이 표시되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-600">We fixed an issue where the Insert Object command does not show the correct icon when inserting a file from OneDrive local sync folder.</span></span>
+
+
+- <span data-ttu-id="1a0ed-601">덮어쓰기 모드에서 편집할 때 IME를 사용해야 하는 언어의 편집이 제대로 작동하지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-601">Fixed an issue where editing in languages that require use of IME would behave poorly when editing in overwrite mode.</span></span>
+
+
+- <span data-ttu-id="1a0ed-602">공동 작성 시 파일의 새 버전을 알리는 메시지 표시줄이 일부 사용자에게 잘못 표시되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-602">Fixed an issue where some users would incorrectly see a message bar informing them of a new version of a file when coauthoring.</span></span>
+
+
+- <span data-ttu-id="1a0ed-603">수식 뷰에서 데이터를 복사하고 붙여넣을 때 Excel이 예기치 않게 닫히는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-603">Fixed an issue where Excel would close unexpectedly when copying and pasting data in formula view.</span></span>
+
+
+- <span data-ttu-id="1a0ed-604">자동 저장을 사용할 수 없는 경우 경고의 도움말 문서에 대한 하이퍼링크가 손상되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-604">Fixed a broken hyperlink to a help article in an alert in case Autosave becomes disabled.</span></span>
+
+
+- <span data-ttu-id="1a0ed-605">엑셀이 특정 언어로 실행되는 동안 데이터를 입력할 때 Excel이 중지될 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-605">We fixed an issue where when entering data while Excel is running in certain languages could cause Excel to stop working.</span></span>
+
+
+- <span data-ttu-id="1a0ed-606">이 변경 사항은 수식 내에서 글꼴을 올바르게 표시하는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-606">This change addresses an issue with properly displaying fonts within equations.</span></span>
+
+
+- <span data-ttu-id="1a0ed-607">이렇게 하면 Power Pivot가 탭으로 구분된 텍스트 파일을 올바르게 가져올 수 없는 문제가 해결됩니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-607">This fixes an issue where Power Pivot wasn't able to correctly import a tab-delimited text file.</span></span>
+
+
+### <a name="outlook"></a><span data-ttu-id="1a0ed-608">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-608">Outlook</span></span>
+
+- <span data-ttu-id="1a0ed-609">작업 상태 보고서에서 수신자 필드를 비어 있게 만드는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-609">We fixed an issue that caused the To: field to be blank in task status reports.</span></span>
+
+
+- <span data-ttu-id="1a0ed-610">MailItem.BeforeAttachmentAdd 이벤트를 중단시키는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-610">We fixed an issue that caused the MailItem.BeforeAttachmentAdd event to be broken.</span></span>
+
+
+- <span data-ttu-id="1a0ed-611">Outlook 이외의 응용 프로그램에서 Outlook 메일을 보낼 때 사용자에게 몇 가지 문제가 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-611">We fixed an issue that was causing users to experience some issues when sending Outlook mail from applications other than Outlook.</span></span>
+
+
+- <span data-ttu-id="1a0ed-612">초안에 저장할 때 SmartLinks의 서식이 손실되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-612">We fixed an issue that caused SmartLinks to lose their formatting when saved to drafts.</span></span>
+
+
+- <span data-ttu-id="1a0ed-613">Zip 파일에서 열린 메시지에 첨부 파일을 추가하면 실패하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-613">We fixed and issue where adding an attachment to a message opened from a zip file would fail.</span></span>
+
+
+### <a name="powerpoint"></a><span data-ttu-id="1a0ed-614">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="1a0ed-614">PowerPoint</span></span>
+
+- <span data-ttu-id="1a0ed-615">Word에서 Powerpoint로 수식을 복사/붙여넣기를 할 때 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-615">Fixed an issue with copy/paste of an equation from Word to Powerpoint</span></span>
+
+
+- <span data-ttu-id="1a0ed-616">이 변경 사항은 잉크 분석 중에 발생한 시간 초과와 관련된 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-616">This change addresses an issue related to timeouts experienced during ink analysis.</span></span>
+
+
+- <span data-ttu-id="1a0ed-617">이 변경사항은 애니메이션 GIF 사용자 인터페이스의 문법 오류를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-617">This change addresses a grammatical error in the Create an Animated GIF user interface.</span></span>
+
+
+- <span data-ttu-id="1a0ed-618">이 변경 사항은 특정 지오메트리를 사용하여 형상 병합 작업을 적용할 때 경로 채우기 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-618">This change addresses an issue with path fills when applying Merge Shapes operations with certain geometries.</span></span>
+
+
+- <span data-ttu-id="1a0ed-619">이 변경 사항은 수식 내에서 글꼴을 올바르게 표시하는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-619">This change addresses an issue with properly displaying fonts within equations.</span></span>
+
+
+- <span data-ttu-id="1a0ed-620">이 변경 사항은 비디오 로드 중에 발생할 수 있는 처리 오류 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-620">This change addresses an issue with handling errors that may occur during video loading.</span></span>
+
+
+- <span data-ttu-id="1a0ed-621">Slide.Shapes.AddMediaObject2가 레거시 비디오 형식(MPG-1, Mpeg-2)과 충돌하는 VBA 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-621">We fixed a VBA issue where Slide.Shapes.AddMediaObject2 crashing with legacy video formats (MPG-1,Mpeg-2).</span></span>
+
+
+- <span data-ttu-id="1a0ed-622">공동 작업자 대한 추가 정보가 있을 때 알 수 없는 공동 작업자의 현재 상태 표시기가 완전히 새로워지지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-622">We fixed an issue where an unknown coauthor's presence indicator does not get completely refreshed when more information about the coauthor is available.</span></span>
+
+
+- <span data-ttu-id="1a0ed-623">눈금자가 켜진 상태에서 슬라이드 뷰의 크기를 조정할 때 Null 포인터가 참조 해제되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-623">Fixed a null pointer being dereferenced when slide view is resized with ruler turned on.</span></span>
+
+
+- <span data-ttu-id="1a0ed-624">문서 복구 작업 후에도 손상된 PowerPoint 파일이 올바르게 열리지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-624">Fixed an issue where some corrupt PowerPoint files were not opening correctly, even after a document repair operation.</span></span>
+
+
+### <a name="project"></a><span data-ttu-id="1a0ed-625">Project</span><span class="sxs-lookup"><span data-stu-id="1a0ed-625">Project</span></span>
+
+- <span data-ttu-id="1a0ed-626">사용자가 업데이트된 정보를 사용하여 저장된 것으로 고려되는 프로젝트를 여는 경우 업데이트가 누락되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-626">We fixed an issue where users open projects which have supposedly been saved with updated information, but find the updates are is missing.</span></span>
+
+
+- <span data-ttu-id="1a0ed-627">결과물이 연결된 SharePoint 사이트가 더 이상 존재하지 않는 경우, 결과물에 대한 종속성을 삭제할 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-627">We fixed an issue where you couldn't delete dependencies on the deliverables if the SharePoint site the deliverable was associated with no longer existed.</span></span>
+
+
+- <span data-ttu-id="1a0ed-628">리소스가 많은 프로젝트를 여는 데 시간이 오래 걸리는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-628">Fixed an issue where opening a project with a lot of resources was taking a long time.</span></span>
+
+
+- <span data-ttu-id="1a0ed-629">작업에 연결된 할당되지 않은 과제가 여러 개 표시되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-629">Fixed an issue where users may see multiple unassigned assignments associated with a task.</span></span>
+
+
+- <span data-ttu-id="1a0ed-630">대규모 프로젝트에서 작업 이름을 입력하는 속도가 매우 느릴 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-630">Fixed an issue where in large projects it can be very slow to enter a task name.</span></span>
+
+
+- <span data-ttu-id="1a0ed-631">로드의 특정 부분에 프로젝트 파일에 문제가 있는 경우 특정 프로젝트를 열 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-631">Fixed an issue where specific projects could be opened if there was an issue with the project file in a specific part of load.</span></span>
+
+
+### <a name="word"></a><span data-ttu-id="1a0ed-632">Word</span><span class="sxs-lookup"><span data-stu-id="1a0ed-632">Word</span></span>
+
+- <span data-ttu-id="1a0ed-633">서식 있는 텍스트로 붙여넣기보다 일반 텍스트로 붙여넣기를 선호하는 경우가 많습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-633">Paste as plain text is often preferred to pasting as rich text.</span></span> <span data-ttu-id="1a0ed-634">이 상황에 맞는 메뉴 수정사항을 사용하여 일반 텍스트로 붙여넣을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-634">This context menu fix allows the user to paste as plain text.</span></span> <span data-ttu-id="1a0ed-635">그렇지 않으면 사용자는 메모장과 같은 일반 텍스트 편집기에 복사한 다음 메모장에서 원하는 대상 앱으로 복사해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-635">Else the user would have to copy into a plain-text editor like Notepad and then copy from Notepad into the desired target app</span></span>
+
+
+- <span data-ttu-id="1a0ed-636">Word에서 Powerpoint로 수식을 복사/붙여넣기를 할 때 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-636">Fixed an issue with copy/paste of an equation from Word to Powerpoint</span></span>
+
+
+- <span data-ttu-id="1a0ed-637">이 변경 사항은 문서 편집 시 커서 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-637">This change addresses an issue with the cursor when editing a document.</span></span>
+
+
+- <span data-ttu-id="1a0ed-638">확대/축소하는 동안 사진이 흐릿해지는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-638">We fixed an issue related to pictures becoming blurry while zooming.</span></span>
+
+
+- <span data-ttu-id="1a0ed-639">긴 하이퍼링크가 잘리는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-639">We fixed an issue where long hyperlinks were getting truncated.</span></span>
+
+
+### <a name="office-suite"></a><span data-ttu-id="1a0ed-640">Office 제품군</span><span class="sxs-lookup"><span data-stu-id="1a0ed-640">Office Suite</span></span>
+
+- <span data-ttu-id="1a0ed-641">Office 제품군 이전 버전에서 새 Office 버전을 설치하면 레지스트리 항목이 누락되어 전원 쿼리를 사용할 수 없는 등의 기능이 누락될 수 있는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-641">Office Suite Fixed an issue where installing a newer version of Office over certain older versions can result in impaired functionality (such as being unable to use Power Query) due to missing registry entries.</span></span>
 
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
-## <a name="version-2011-november-24"></a><span data-ttu-id="5080d-651">버전 2011: 11월 24일</span><span class="sxs-lookup"><span data-stu-id="5080d-651">Version 2011: November 24</span></span>
-<span data-ttu-id="5080d-652">*버전 2011(빌드 13426.20294)*</span><span class="sxs-lookup"><span data-stu-id="5080d-652">*Version 2011 (Build 13426.20294)*</span></span>
-
-[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
-
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-654">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-654">Resolved issues</span></span>
-### <a name="office-suite"></a><span data-ttu-id="5080d-655">Office 제품군</span><span class="sxs-lookup"><span data-stu-id="5080d-655">Office Suite</span></span>
-
-- <span data-ttu-id="5080d-656">Word에서 Powerpoint로 수식을 복사/붙여넣기를 할 때 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-656">Fixed an issue with copy/paste of an equation from Word to Powerpoint</span></span>
-
-
-
-[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
-
-## <a name="version-2011-november-21"></a><span data-ttu-id="5080d-658">버전 2011: 11월 21일</span><span class="sxs-lookup"><span data-stu-id="5080d-658">Version 2011: November 21</span></span>
-<span data-ttu-id="5080d-659">*버전 2011(빌드 13426.20274)*</span><span class="sxs-lookup"><span data-stu-id="5080d-659">*Version 2011 (Build 13426.20274)*</span></span>
+## <a name="version-2011-december-01"></a><span data-ttu-id="1a0ed-643">버전 2011: 12월 1일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-643">Version 2011: December 01</span></span>
+<span data-ttu-id="1a0ed-644">*버전 2011(빌드 13426.20306)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-644">*Version 2011 (Build 13426.20306)*</span></span>
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="feature-updates"></a><span data-ttu-id="5080d-661">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="5080d-661">Feature updates</span></span>
-### <a name="powerpoint"></a><span data-ttu-id="5080d-662">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="5080d-662">PowerPoint</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="1a0ed-646">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="1a0ed-646">Feature updates</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-647">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-647">Outlook</span></span>
 
-- <span data-ttu-id="5080d-663">**비디오 라이브러리:** 앱에서 사용 가능한 엄선된 로열티 없는 비디오 영상 라이브러리로 문서의 수준을 높이세요.</span><span class="sxs-lookup"><span data-stu-id="5080d-663">**Video Library:** Elevate your documents with a library of curated, royalty-free video footage available in-app</span></span>
+- <span data-ttu-id="1a0ed-648">**모든 온라인 모임** : 새 설정으로 온라인 모임을 더욱 쉽게 예약하여 모든 모임을 기본적으로 온라인으로 설정할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-648">**Every meeting online:** Make it easier to schedule online meetings with a new setting to make all your meetings online by default.</span></span>
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -1218,34 +1180,46 @@ ms.locfileid: "51749066"
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-666">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-666">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="5080d-667">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-667">Outlook</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-651">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-651">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-652">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-652">Outlook</span></span>
 
-- <span data-ttu-id="5080d-668">MailItem.BeforeAttachmentAdd 이벤트를 중단시키는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-668">We fixed an issue that caused the MailItem.BeforeAttachmentAdd event to be broken.</span></span>
-
-
-- <span data-ttu-id="5080d-669">IDataObject 작업(예: 끌어서 놓기, 클립보드)에서 첨부 파일에 대한 filetime 포함을 사용하지 않도록 설정할 수 있는 regkey를 추가했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-669">We added a regkey that allows customers to disable filetime inclusion for attachments in IDataObject operations (i.e. drag drop, clipboard).</span></span> <span data-ttu-id="5080d-670">HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments.</span><span class="sxs-lookup"><span data-stu-id="5080d-670">HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments.</span></span> <span data-ttu-id="5080d-671">REG_DWORD IncludeFileTimesInDataObject.</span><span class="sxs-lookup"><span data-stu-id="5080d-671">REG_DWORD IncludeFileTimesInDataObject.</span></span> <span data-ttu-id="5080d-672">0 = filetimes가 제외됩니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-672">0 = filetimes are excluded.</span></span> <span data-ttu-id="5080d-673">1 = (기본값)filetimes가 포함됩니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-673">1 = (default) filetimes are included</span></span>
+- <span data-ttu-id="1a0ed-653">일부 모임에서 다른 참석자가 모임을 전달할 때 기존 참석자가 모임이 취소되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-653">We fixed an issue that caused the original attendees of some meetings to receive a cancellation when another attendee forwards the meeting.</span></span>
 
 
-- <span data-ttu-id="5080d-674">Azure Information Protection의 보호 레이블을 사용하여 메시지에 회신할 때 인라인 이미지를 사라지게 하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-674">We fixed an issue that caused inline images to disappear when replying to a message with a protection label from Azure Information Protection.</span></span>
+- <span data-ttu-id="1a0ed-654">하나 이상의 서명이 구성되었음에도 불구하고 일부 사용자에게 서명 드롭다운이 표시되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-654">We fixed an issue that caused some users to see no signatures in the signatures drop down despite having one or more signatures configured.</span></span>
+
+
+### <a name="project"></a><span data-ttu-id="1a0ed-655">Project</span><span class="sxs-lookup"><span data-stu-id="1a0ed-655">Project</span></span>
+
+- <span data-ttu-id="1a0ed-656">로드의 특정 부분에 프로젝트 파일에 문제가 있는 경우 특정 프로젝트를 열 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-656">Fixed an issue where specific projects could be opened if there was an issue with the project file in a specific part of load.</span></span>
 
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
-## <a name="version-2011-november-18"></a><span data-ttu-id="5080d-676">버전 2011: 11월 18일</span><span class="sxs-lookup"><span data-stu-id="5080d-676">Version 2011: November 18</span></span>
-<span data-ttu-id="5080d-677">*버전 2011(빌드 13426.20250)*</span><span class="sxs-lookup"><span data-stu-id="5080d-677">*Version 2011 (Build 13426.20250)*</span></span>
-* <span data-ttu-id="5080d-678">다양한 버그 및 성능 수정 사항.</span><span class="sxs-lookup"><span data-stu-id="5080d-678">Various bugs and performance fixes.</span></span>
+## <a name="version-2011-november-24"></a><span data-ttu-id="1a0ed-658">버전 2011: 11월 24일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-658">Version 2011: November 24</span></span>
+<span data-ttu-id="1a0ed-659">*버전 2011(빌드 13426.20294)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-659">*Version 2011 (Build 13426.20294)*</span></span>
 
-## <a name="version-2011-november-16"></a><span data-ttu-id="5080d-679">버전 2011: 11월 16일</span><span class="sxs-lookup"><span data-stu-id="5080d-679">Version 2011: November 16</span></span>
-<span data-ttu-id="5080d-680">*버전 2011(빌드 13426.20234)*</span><span class="sxs-lookup"><span data-stu-id="5080d-680">*Version 2011 (Build 13426.20234)*</span></span>
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-661">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-661">Resolved issues</span></span>
+### <a name="office-suite"></a><span data-ttu-id="1a0ed-662">Office 제품군</span><span class="sxs-lookup"><span data-stu-id="1a0ed-662">Office Suite</span></span>
+
+- <span data-ttu-id="1a0ed-663">Word에서 Powerpoint로 수식을 복사/붙여넣기를 할 때 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-663">Fixed an issue with copy/paste of an equation from Word to Powerpoint</span></span>
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2011-november-21"></a><span data-ttu-id="1a0ed-665">버전 2011: 11월 21일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-665">Version 2011: November 21</span></span>
+<span data-ttu-id="1a0ed-666">*버전 2011(빌드 13426.20274)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-666">*Version 2011 (Build 13426.20274)*</span></span>
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="feature-updates"></a><span data-ttu-id="5080d-682">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="5080d-682">Feature updates</span></span>
-### <a name="outlook"></a><span data-ttu-id="5080d-683">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-683">Outlook</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="1a0ed-668">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="1a0ed-668">Feature updates</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="1a0ed-669">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="1a0ed-669">PowerPoint</span></span>
 
-- <span data-ttu-id="5080d-684">**모든 장치에 같은 서명:** 서명이 클라우드에 저장됩니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-684">**Same signature, all devices:** Your signature is stored in the cloud.</span></span> <span data-ttu-id="5080d-685">서명을 한 번 만들면 모든 장치의 Outlook에서 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-685">Create it once and use it everywhere you use Outlook.</span></span>
+- <span data-ttu-id="1a0ed-670">**비디오 라이브러리:** 앱에서 사용 가능한 엄선된 로열티 없는 비디오 영상 라이브러리로 문서의 수준을 높이세요.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-670">**Video Library:** Elevate your documents with a library of curated, royalty-free video footage available in-app</span></span>
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -1254,29 +1228,34 @@ ms.locfileid: "51749066"
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-688">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-688">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="5080d-689">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-689">Outlook</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-673">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-673">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-674">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-674">Outlook</span></span>
 
-- <span data-ttu-id="5080d-690">작업에 대해 상황 보고서를 보낼 때 To 필드가 비어 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-690">We fixed an issue that caused the To field to be blank when sending a status report on a task.</span></span>
+- <span data-ttu-id="1a0ed-675">MailItem.BeforeAttachmentAdd 이벤트를 중단시키는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-675">We fixed an issue that caused the MailItem.BeforeAttachmentAdd event to be broken.</span></span>
 
 
-### <a name="powerpoint"></a><span data-ttu-id="5080d-691">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="5080d-691">PowerPoint</span></span>
+- <span data-ttu-id="1a0ed-676">IDataObject 작업(예: 끌어서 놓기, 클립보드)에서 첨부 파일에 대한 filetime 포함을 사용하지 않도록 설정할 수 있는 regkey를 추가했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-676">We added a regkey that allows customers to disable filetime inclusion for attachments in IDataObject operations (i.e. drag drop, clipboard).</span></span> <span data-ttu-id="1a0ed-677">HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-677">HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments.</span></span> <span data-ttu-id="1a0ed-678">REG_DWORD IncludeFileTimesInDataObject.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-678">REG_DWORD IncludeFileTimesInDataObject.</span></span> <span data-ttu-id="1a0ed-679">0 = filetimes가 제외됩니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-679">0 = filetimes are excluded.</span></span> <span data-ttu-id="1a0ed-680">1 = (기본값)filetimes가 포함됩니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-680">1 = (default) filetimes are included</span></span>
 
-- <span data-ttu-id="5080d-692">Slide.Shapes.AddMediaObject2가 레거시 비디오 형식(MPG-1, Mpeg-2)과 충돌하는 VBA 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-692">We have fixed a VBA issue where Slide.Shapes.AddMediaObject2 crashing with legacy video formats (MPG-1,Mpeg-2).</span></span>
+
+- <span data-ttu-id="1a0ed-681">Azure Information Protection의 보호 레이블을 사용하여 메시지에 회신할 때 인라인 이미지를 사라지게 하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-681">We fixed an issue that caused inline images to disappear when replying to a message with a protection label from Azure Information Protection.</span></span>
 
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
-## <a name="version-2011-november-09"></a><span data-ttu-id="5080d-694">버전 2011: 11월 9일</span><span class="sxs-lookup"><span data-stu-id="5080d-694">Version 2011: November 09</span></span>
-<span data-ttu-id="5080d-695">*버전 2011(빌드 13426.20184)*</span><span class="sxs-lookup"><span data-stu-id="5080d-695">*Version 2011 (Build 13426.20184)*</span></span>
+## <a name="version-2011-november-18"></a><span data-ttu-id="1a0ed-683">버전 2011: 11월 18일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-683">Version 2011: November 18</span></span>
+<span data-ttu-id="1a0ed-684">*버전 2011(빌드 13426.20250)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-684">*Version 2011 (Build 13426.20250)*</span></span>
+* <span data-ttu-id="1a0ed-685">다양한 버그 및 성능 수정 사항.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-685">Various bugs and performance fixes.</span></span>
+
+## <a name="version-2011-november-16"></a><span data-ttu-id="1a0ed-686">버전 2011: 11월 16일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-686">Version 2011: November 16</span></span>
+<span data-ttu-id="1a0ed-687">*버전 2011(빌드 13426.20234)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-687">*Version 2011 (Build 13426.20234)*</span></span>
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="feature-updates"></a><span data-ttu-id="5080d-697">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="5080d-697">Feature updates</span></span>
-### <a name="excel"></a><span data-ttu-id="5080d-698">Excel</span><span class="sxs-lookup"><span data-stu-id="5080d-698">Excel</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="1a0ed-689">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="1a0ed-689">Feature updates</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-690">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-690">Outlook</span></span>
 
-- <span data-ttu-id="5080d-699">**쿼리에서 Power Platform 데이터 흐름 만들기:** 이제 새 Power Platform 데이터 흐름을 만드는 데 사용할 수 있는 파워 쿼리 템플릿으로 쿼리를 내보낼 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-699">**Create Power Platform dataflows from queries:** You can now export your queries into Power Query templates that can be used to create new Power Platform dataflows</span></span>
+- <span data-ttu-id="1a0ed-691">**모든 장치에 같은 서명:** 서명이 클라우드에 저장됩니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-691">**Same signature, all devices:** Your signature is stored in the cloud.</span></span> <span data-ttu-id="1a0ed-692">서명을 한 번 만들면 모든 장치의 Outlook에서 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-692">Create it once and use it everywhere you use Outlook.</span></span>
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -1285,177 +1264,29 @@ ms.locfileid: "51749066"
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-702">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-702">Resolved issues</span></span>
-### <a name="access"></a><span data-ttu-id="5080d-703">Access</span><span class="sxs-lookup"><span data-stu-id="5080d-703">Access</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-695">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-695">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-696">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-696">Outlook</span></span>
 
-- <span data-ttu-id="5080d-704">동기화된 OneDrive 폴더에서 쿼리를 내보내려고 할 때 일부 사용자에게 “시스템 리소스가 초과했습니다.”라는 오류가 표시되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-704">We fixed an issue where some users were seeing the "system resource exceeded" error when they tried to export a query from their synced OneDrive folder.</span></span>
+- <span data-ttu-id="1a0ed-697">작업에 대해 상황 보고서를 보낼 때 To 필드가 비어 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-697">We fixed an issue that caused the To field to be blank when sending a status report on a task.</span></span>
 
 
-- <span data-ttu-id="5080d-705">양식 창 간의 '자동' 전환이 다른 양식으로 전환되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-705">We fixed an issue where 'auto'-switching between form windows was switching to another form.</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="1a0ed-698">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="1a0ed-698">PowerPoint</span></span>
 
-
-- <span data-ttu-id="5080d-706">Office가 아닌 응용 프로그램에서 DAO를 사용할 경우 응용 프로그램이 예기치 않게 종료되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-706">We fixed an issue when using DAO from non-Office applications would cause the application to close unexpectedly.</span></span>
-
-
-### <a name="excel"></a><span data-ttu-id="5080d-707">Excel</span><span class="sxs-lookup"><span data-stu-id="5080d-707">Excel</span></span>
-
-- <span data-ttu-id="5080d-708">COM 추가 기능을 사용하도록 설정하여 다른 이름으로 저장 작업 후 파일 이름이 변경되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-708">We fixed an issue where Filename was not changing after a SaveAs operation with COM add-ins enabled.</span></span>
-
-
-- <span data-ttu-id="5080d-709">Oracle 데이터베이스에 대한 연결을 사용하는 경우의 파워 피벗 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-709">Fixed an issue with Power Pivot when using a connection to an Oracle database.</span></span>
-
-
-- <span data-ttu-id="5080d-710">Excel 데이터 모델에 잘못된 측정값이 정의된 경우, 잘못된/오해의 소지가 있는 오류 메시지와 함께 자동 저장에 실패하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-710">We fixed an issue when Auto-Save fails with incorrect/misleading error message when there's a bad measure definition in the Excel data model.</span></span>
-
-
-- <span data-ttu-id="5080d-711">MTR 계산 및 그룹 정책 개체 업데이트(예: 원격 그룹 정책 새로 고침을 통해)가 트리거되는 경우 Excel이 예기치 않게 종료되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-711">We fixed an issue where Excel terminated unexpectedly when the process of MTR calc and Group Policy Object update (e.g. via Remote Group Policy Refresh) was triggered.</span></span>
-
-
-- <span data-ttu-id="5080d-712">사용자가 SharePoint에서 직접 atomsvc(UTF8+BOM) 파일을 열 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-712">We fixed an issue where a user was unable to open atomsvc (UTF8+BOM) file from SharePoint, directly.</span></span>
-
-
-- <span data-ttu-id="5080d-713">프리젠테이션 영역을 확대/축소하여 확대된 선택 영역과 마우스 포인터 사이에 간격이 생긴 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-713">We fixed an issue where zooming in and out from the presentation area resulted in a gap between the zoomed selection marquee and the mouse pointer.</span></span>
-
-
-- <span data-ttu-id="5080d-714">Excel 통합 문서를 Word 문서에 삽입하면 Word가 중단되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-714">We fixed an issue where Word appears to hang when inserting an Excel workbook into a Word document.</span></span>
-
-
-### <a name="outlook"></a><span data-ttu-id="5080d-715">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-715">Outlook</span></span>
-
-- <span data-ttu-id="5080d-716">첨부 파일을 추가하거나 저장할 때 Outlook이 산발적으로 작동을 멈추게 하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-716">Addressed an issue which caused Outlook to stop working sporadically when adding or saving attachments.</span></span>
-
-
-- <span data-ttu-id="5080d-717">이미지 첨부 파일에 대한 빠른 인쇄에서 다음 오류 메시지가 발생하는 문제를 해결했습니다. “Windows에서 이 그림을 찾을 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-717">We fixed an issue where quick print for image attachments resulted in error, "Windows can't find this picture.</span></span> <span data-ttu-id="5080d-718">위치를 확인한 후 다시 시도하세요".</span><span class="sxs-lookup"><span data-stu-id="5080d-718">Check the location, and then try again".</span></span>
-
-
-- <span data-ttu-id="5080d-719">일부 사용자가 온라인으로 작업하기 위해 수동으로 선택할 때까지 Outlook이 오프라인 상태에서 시작하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-719">We fixed an issue that caused some users to see Outlook start in an Offline state until they manually chose to work online.</span></span>
-
-
-- <span data-ttu-id="5080d-720">모임 장소에서 다른 위치(예: 브라우저)로 복사한 URL을 붙여넣는 경우 URL 마지막에 세미콜론이 포함되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-720">We fixed an issue when pasting a URL copied from meeting location to somewhere else (such as a browser), the URL contains a semicolon at the end.</span></span>
-
-
-- <span data-ttu-id="5080d-721">사용자가 기본 인증의 Microsoft 365 그룹 일정에서 약속을 삭제할 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-721">We fixed an issue where users were unable to delete appointments in Calendar of Microsoft 365 Groups in Basic Auth.</span></span>
-
-
-- <span data-ttu-id="5080d-722">애칭 캐시를 로드할 때 Outlook을 시작하지 못한 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-722">We fixed an issue where starting Outlook failed while loading nickname cache.</span></span>
-
-
-- <span data-ttu-id="5080d-723">옵션이 회색으로 처리되어 사서함 소유자가 자신의 일정에 대한 공유 권한을 관리할 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-723">We fixed an issue where a mailbox owner wasn't able to manage Shared permission for their own Calendar as the option was greyed out.</span></span>
-
-
-- <span data-ttu-id="5080d-724">Outlook에서 제한된 권한으로 메시지를 작성할 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-724">We fixed an issue where Outlook was not able to create a message with restricted permission.</span></span>
-
-
-- <span data-ttu-id="5080d-725">전자 메일 서식 파일을 .OFT로 저장하는 경우에 중국어 문자가 물음표로 변경되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-725">We fixed an issue where saving email templates as .OFT changed Chinese characters to question marks.</span></span>
-
-
-### <a name="powerpoint"></a><span data-ttu-id="5080d-726">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="5080d-726">PowerPoint</span></span>
-
-- <span data-ttu-id="5080d-727">프레젠테이션 영역을 확대/축소할 경우 확대된 선택 영역과 마우스 포인터 사이에 간격이 생기는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-727">We fixed an issue where zooming in and out from the presentation area resulted in a gap between the zoomed selection marquee and the mouse pointer.</span></span>
-
-
-- <span data-ttu-id="5080d-728">그림 옆에 있는 콘텐츠 개체 틀 아이콘에 도구 설명이 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-728">We fixed an issue where in content placeholder icon next to Pictures didn't have a tooltip.</span></span>
-
-
-- <span data-ttu-id="5080d-729">Pptsx 파일에 표시 되는 슬라이드 쇼의 제한된 보기에서 IRM으로 보호된 문서의 화면 캡처를 허용하는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-729">We have fixed an issue where Protected view of slide show, shown by pptsx file, allows screen capture of IRM protected document.</span></span>
-
-
-- <span data-ttu-id="5080d-730">디자인 창을 닫을 때 눈금선이 슬라이드에서 이동되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-730">We fixed an issue where grid lines were getting shifted from slides when closing design pane.</span></span>
-
-
-- <span data-ttu-id="5080d-731">슬라이드 쇼를 보조 모니터에 복제할 때 슬라이드 쇼가 다른 창 뒤에 숨겨질 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-731">We fixed an issue when duplicating slideshow to secondary monitor, the slideshow may hide behind other window.</span></span>
-
-
-- <span data-ttu-id="5080d-732">선택 창이 열린 상태에서 화면 녹화를 중지한 후 슬라이드의 스크롤 막대가 스스로 조정하기 시작하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-732">We fixed an issue where the scroll bar in the slide starts adjusting itself after stopping screen recording with selection pane opened.</span></span>
-
-
-### <a name="project"></a><span data-ttu-id="5080d-733">Project</span><span class="sxs-lookup"><span data-stu-id="5080d-733">Project</span></span>
-
-- <span data-ttu-id="5080d-734">작업 양식 유형 보기에서 간격이 변경되는 경우 ProjectBeforeTaskChagne 이벤트의 NewVal에 올바른 값이 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-734">Fixed an issue where the NewVal in the ProjectBeforeTaskChagne event doesn't have the correct value if a lag is changed within a Task Form type view.</span></span>
-
-
-- <span data-ttu-id="5080d-735">특정 방식으로 리소스 윤곽선이 지정된 파일을 열 때 Project가 예기치 않게 종료될 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-735">Fixed an issue where Project may terminate unexpectedly on opening files where resource contours were specified in a certain manner.</span></span>
-
-
-- <span data-ttu-id="5080d-736">PWA에서 로컬 mpp 파일로 프로젝트를 저장하는 경우 ProjectBeforeTaskChangeEvent가 실제로 사용자가 변경하지 않은 데이터에 대해 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-736">Fixed an issue where when you save a project from PWA to a local mpp file, the ProjectBeforeTaskChangeEvent fires for data that wasn't actually changed by the user.</span></span>
-
-
-- <span data-ttu-id="5080d-737">동일한 이름을 가진 여러 자원이 있을 경우 리소스 계약에서 GUID 대신 이름을 사용하여 리소스를 검색하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-737">Fixed an issue where resource engagements searched for a resource by name instead of GUID which would cause issues if there were multiple resources with the same name.</span></span>
-
-
-- <span data-ttu-id="5080d-738">프로젝트 사이트에 작업 목록이 있고 작업 목록을 그룹화한 경우, 작업 목록을 빠르게 편집할 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-738">Fixed an issue where if you have a task list in a project site and group the task list, you will not be able to quick edit the task list.</span></span>
-
-
-- <span data-ttu-id="5080d-739">CSOM을 통해 엔터프라이즈 리소스를 업데이트하는 경우, 리소스 최대 단위가 손실될 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-739">Fixed an issue where if you update an enterprise resource via CSOM, resource max units may be lost.</span></span>
-
-
-### <a name="word"></a><span data-ttu-id="5080d-740">Word</span><span class="sxs-lookup"><span data-stu-id="5080d-740">Word</span></span>
-
-- <span data-ttu-id="5080d-741">프리젠테이션 영역을 확대/축소하여 확대된 선택 영역과 마우스 포인터 사이에 간격이 생긴 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-741">We fixed an issue where zooming in and out from the presentation area resulted in a gap between the zoomed selection marquee and the mouse pointer.</span></span>
-
-
-- <span data-ttu-id="5080d-742">메모 힌트를 클릭 시 확대하여 보기에 메모 카드를 표시하지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-742">We fixed an issue where clicking comment hint didn't zoom out to show comment card in view.</span></span>
-
-
-- <span data-ttu-id="5080d-743">열 사이 선이 이동할 수 있는 레이아웃 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-743">We fixed a layout issue which the line between columns might have shifted.</span></span>
-
-
-- <span data-ttu-id="5080d-744">변경사항 추적에서 Word 문서를 열면 오류 대화상자가 표시될 수 있는 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-744">We fixed an issue in Track Changes which sometimes opening Word document might display error dialog.</span></span>
-
-
-- <span data-ttu-id="5080d-745">Excel 통합 문서를 Word 문서에 삽입하면 Word가 중단되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-745">We fixed an issue where Word appears to hang when inserting an Excel workbook into a Word document.</span></span>
-
-
-- <span data-ttu-id="5080d-746">워터마크가 적용된 민감도 레이블 인쇄 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-746">We fixed a print issue when sensitivity label with watermarks are applied.</span></span>
-
-
-### <a name="office-suite"></a><span data-ttu-id="5080d-747">Office 제품군</span><span class="sxs-lookup"><span data-stu-id="5080d-747">Office Suite</span></span>
-
-- <span data-ttu-id="5080d-748">Office 2007 "Microsoft 응용 프로그램 오류 보고"제품과 함께 RemoveMSI 기능을 사용할 때 구성이 실패하는 Office 배포 도구 관련 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-748">We fixed an issue in the Office Deployment Tool where configuration was failing when using the RemoveMSI feature with the Office 2007 "Microsoft Application Error Reporting" product present.</span></span>
-
-
-- <span data-ttu-id="5080d-749">SSO API 대화형 로그인이 오류 코드를 반환하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-749">We fixed an issue where SSO API interactive Sign-In was returning an error code.</span></span>
+- <span data-ttu-id="1a0ed-699">Slide.Shapes.AddMediaObject2가 레거시 비디오 형식(MPG-1, Mpeg-2)과 충돌하는 VBA 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-699">We have fixed a VBA issue where Slide.Shapes.AddMediaObject2 crashing with legacy video formats (MPG-1,Mpeg-2).</span></span>
 
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
-## <a name="version-2010-november-06"></a><span data-ttu-id="5080d-751">버전 2010: 11월 6일</span><span class="sxs-lookup"><span data-stu-id="5080d-751">Version 2010: November 06</span></span>
-<span data-ttu-id="5080d-752">*버전 2010(빌드 13328.20356)*</span><span class="sxs-lookup"><span data-stu-id="5080d-752">*Version 2010 (Build 13328.20356)*</span></span>
-* <span data-ttu-id="5080d-753">다양한 버그 및 성능 수정 사항.</span><span class="sxs-lookup"><span data-stu-id="5080d-753">Various bugs and performance fixes.</span></span>
-
+## <a name="version-2011-november-09"></a><span data-ttu-id="1a0ed-701">버전 2011: 11월 9일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-701">Version 2011: November 09</span></span>
+<span data-ttu-id="1a0ed-702">*버전 2011(빌드 13426.20184)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-702">*Version 2011 (Build 13426.20184)*</span></span>
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
+### <a name="feature-updates"></a><span data-ttu-id="1a0ed-704">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="1a0ed-704">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="1a0ed-705">Excel</span><span class="sxs-lookup"><span data-stu-id="1a0ed-705">Excel</span></span>
 
-
-[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
-
-## <a name="version-2010-november-04"></a><span data-ttu-id="5080d-756">버전 2010: 11월 4일</span><span class="sxs-lookup"><span data-stu-id="5080d-756">Version 2010: November 04</span></span>
-<span data-ttu-id="5080d-757">*버전 2010(빌드 13328.20340)*</span><span class="sxs-lookup"><span data-stu-id="5080d-757">*Version 2010 (Build 13328.20340)*</span></span>
-
-[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
-
-### <a name="feature-updates"></a><span data-ttu-id="5080d-759">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="5080d-759">Feature updates</span></span>
-### <a name="excel"></a><span data-ttu-id="5080d-760">Excel</span><span class="sxs-lookup"><span data-stu-id="5080d-760">Excel</span></span>
-
-- <span data-ttu-id="5080d-761">**SVG 클립보드 지원:** 이제 Office의 SVG 콘텐츠를 타사 앱에 붙여 을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-761">**SVG Clipboard Support:** You can now paste SVG content from Office into 3rd party apps.</span></span> [<span data-ttu-id="5080d-762">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="5080d-762">Learn more</span></span>](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
-
-### <a name="outlook"></a><span data-ttu-id="5080d-763">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-763">Outlook</span></span>
-
-- <span data-ttu-id="5080d-764">**SVG 클립보드 지원:** 이제 Office의 SVG 콘텐츠를 타사 앱에 붙여 을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-764">**SVG Clipboard Support:** You can now paste SVG content from Office into 3rd party apps.</span></span> [<span data-ttu-id="5080d-765">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="5080d-765">Learn more</span></span>](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
-
-### <a name="powerpoint"></a><span data-ttu-id="5080d-766">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="5080d-766">PowerPoint</span></span>
-
-- <span data-ttu-id="5080d-767">**SVG 클립보드 지원:** 이제 Office의 SVG 콘텐츠를 타사 앱에 붙여 을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-767">**SVG Clipboard Support:** You can now paste SVG content from Office into 3rd party apps.</span></span> [<span data-ttu-id="5080d-768">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="5080d-768">Learn more</span></span>](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br /><span data-ttu-id="5080d-769">[블로그 게시물](https://insider.office.com/ko-KR/blog/svg-content-office-third-party-apps)에서 세부 정보 보기</span><span class="sxs-lookup"><span data-stu-id="5080d-769">See details in [blog post](https://insider.office.com/ko-KR/blog/svg-content-office-third-party-apps)</span></span>
-
-- <span data-ttu-id="5080d-770">**투명한 배경으로 GIF 만들기:** 애니메이션 GIF로 내보낼 때 새 옵션을 사용하여 배경을 투명하게 만들 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-770">**Create GIFs with Transparent Backgrounds:** When exporting to an Animated GIF, a new option will allow you to make the background transparent.</span></span><br /><span data-ttu-id="5080d-771">[블로그 게시물](https://insider.office.com/ko-KR/blog/export-animated-gifs-transparent-backgrounds)에서 세부 정보를 확인하세요.</span><span class="sxs-lookup"><span data-stu-id="5080d-771">See details in [blog post](https://insider.office.com/ko-KR/blog/export-animated-gifs-transparent-backgrounds)</span></span>
-
-- <span data-ttu-id="5080d-772">**범위 내에서 애니메이션 GIF 내보내기:** 애니메이션 GIF로 내보낼 때 슬라이드 범위 선택</span><span class="sxs-lookup"><span data-stu-id="5080d-772">**Export animated GIF in a range:** Select a range of slides when exporting to animated GIF</span></span>
-
-### <a name="word"></a><span data-ttu-id="5080d-773">Word</span><span class="sxs-lookup"><span data-stu-id="5080d-773">Word</span></span>
-
-- <span data-ttu-id="5080d-774">**SVG 클립보드 지원:** 이제 Office의 SVG 콘텐츠를 타사 앱에 붙여 을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-774">**SVG Clipboard Support:** You can now paste SVG content from Office into 3rd party apps.</span></span> [<span data-ttu-id="5080d-775">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="5080d-775">Learn more</span></span>](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+- <span data-ttu-id="1a0ed-706">**쿼리에서 Power Platform 데이터 흐름 만들기:** 이제 새 Power Platform 데이터 흐름을 만드는 데 사용할 수 있는 파워 쿼리 템플릿으로 쿼리를 내보낼 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-706">**Create Power Platform dataflows from queries:** You can now export your queries into Power Query templates that can be used to create new Power Platform dataflows</span></span>
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -1464,22 +1295,201 @@ ms.locfileid: "51749066"
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-778">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-778">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="5080d-779">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-779">Outlook</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-709">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-709">Resolved issues</span></span>
+### <a name="access"></a><span data-ttu-id="1a0ed-710">Access</span><span class="sxs-lookup"><span data-stu-id="1a0ed-710">Access</span></span>
 
-- <span data-ttu-id="5080d-780">사용자가 대리인에게 편집자 권한을 부여할 수 없게 하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-780">We fixed an issue that caused users to be unable to grant Editor permission to their delegates.</span></span>
+- <span data-ttu-id="1a0ed-711">동기화된 OneDrive 폴더에서 쿼리를 내보내려고 할 때 일부 사용자에게 “시스템 리소스가 초과했습니다.”라는 오류가 표시되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-711">We fixed an issue where some users were seeing the "system resource exceeded" error when they tried to export a query from their synced OneDrive folder.</span></span>
 
 
-### <a name="office-suite"></a><span data-ttu-id="5080d-781">Office 제품군</span><span class="sxs-lookup"><span data-stu-id="5080d-781">Office Suite</span></span>
+- <span data-ttu-id="1a0ed-712">양식 창 간의 '자동' 전환이 다른 양식으로 전환되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-712">We fixed an issue where 'auto'-switching between form windows was switching to another form.</span></span>
 
-- <span data-ttu-id="5080d-782">동기화 지원에서 서버 전용으로 전환된 파일을 저장할 때 오류가 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-782">We fixed an issue that was causing a failure when trying to save files that have transitioned from syncbacked to server-only.</span></span>
+
+- <span data-ttu-id="1a0ed-713">Office가 아닌 응용 프로그램에서 DAO를 사용할 경우 응용 프로그램이 예기치 않게 종료되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-713">We fixed an issue when using DAO from non-Office applications would cause the application to close unexpectedly.</span></span>
+
+
+### <a name="excel"></a><span data-ttu-id="1a0ed-714">Excel</span><span class="sxs-lookup"><span data-stu-id="1a0ed-714">Excel</span></span>
+
+- <span data-ttu-id="1a0ed-715">COM 추가 기능을 사용하도록 설정하여 다른 이름으로 저장 작업 후 파일 이름이 변경되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-715">We fixed an issue where Filename was not changing after a SaveAs operation with COM add-ins enabled.</span></span>
+
+
+- <span data-ttu-id="1a0ed-716">Oracle 데이터베이스에 대한 연결을 사용하는 경우의 파워 피벗 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-716">Fixed an issue with Power Pivot when using a connection to an Oracle database.</span></span>
+
+
+- <span data-ttu-id="1a0ed-717">Excel 데이터 모델에 잘못된 측정값이 정의된 경우, 잘못된/오해의 소지가 있는 오류 메시지와 함께 자동 저장에 실패하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-717">We fixed an issue when Auto-Save fails with incorrect/misleading error message when there's a bad measure definition in the Excel data model.</span></span>
+
+
+- <span data-ttu-id="1a0ed-718">MTR 계산 및 그룹 정책 개체 업데이트(예: 원격 그룹 정책 새로 고침을 통해)가 트리거되는 경우 Excel이 예기치 않게 종료되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-718">We fixed an issue where Excel terminated unexpectedly when the process of MTR calc and Group Policy Object update (e.g. via Remote Group Policy Refresh) was triggered.</span></span>
+
+
+- <span data-ttu-id="1a0ed-719">사용자가 SharePoint에서 직접 atomsvc(UTF8+BOM) 파일을 열 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-719">We fixed an issue where a user was unable to open atomsvc (UTF8+BOM) file from SharePoint, directly.</span></span>
+
+
+- <span data-ttu-id="1a0ed-720">프리젠테이션 영역을 확대/축소하여 확대된 선택 영역과 마우스 포인터 사이에 간격이 생긴 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-720">We fixed an issue where zooming in and out from the presentation area resulted in a gap between the zoomed selection marquee and the mouse pointer.</span></span>
+
+
+- <span data-ttu-id="1a0ed-721">Excel 통합 문서를 Word 문서에 삽입하면 Word가 중단되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-721">We fixed an issue where Word appears to hang when inserting an Excel workbook into a Word document.</span></span>
+
+
+### <a name="outlook"></a><span data-ttu-id="1a0ed-722">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-722">Outlook</span></span>
+
+- <span data-ttu-id="1a0ed-723">첨부 파일을 추가하거나 저장할 때 Outlook이 산발적으로 작동을 멈추게 하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-723">Addressed an issue which caused Outlook to stop working sporadically when adding or saving attachments.</span></span>
+
+
+- <span data-ttu-id="1a0ed-724">이미지 첨부 파일에 대한 빠른 인쇄에서 다음 오류 메시지가 발생하는 문제를 해결했습니다. “Windows에서 이 그림을 찾을 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-724">We fixed an issue where quick print for image attachments resulted in error, "Windows can't find this picture.</span></span> <span data-ttu-id="1a0ed-725">위치를 확인한 후 다시 시도하세요".</span><span class="sxs-lookup"><span data-stu-id="1a0ed-725">Check the location, and then try again".</span></span>
+
+
+- <span data-ttu-id="1a0ed-726">일부 사용자가 온라인으로 작업하기 위해 수동으로 선택할 때까지 Outlook이 오프라인 상태에서 시작하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-726">We fixed an issue that caused some users to see Outlook start in an Offline state until they manually chose to work online.</span></span>
+
+
+- <span data-ttu-id="1a0ed-727">모임 장소에서 다른 위치(예: 브라우저)로 복사한 URL을 붙여넣는 경우 URL 마지막에 세미콜론이 포함되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-727">We fixed an issue when pasting a URL copied from meeting location to somewhere else (such as a browser), the URL contains a semicolon at the end.</span></span>
+
+
+- <span data-ttu-id="1a0ed-728">사용자가 기본 인증의 Microsoft 365 그룹 일정에서 약속을 삭제할 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-728">We fixed an issue where users were unable to delete appointments in Calendar of Microsoft 365 Groups in Basic Auth.</span></span>
+
+
+- <span data-ttu-id="1a0ed-729">애칭 캐시를 로드할 때 Outlook을 시작하지 못한 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-729">We fixed an issue where starting Outlook failed while loading nickname cache.</span></span>
+
+
+- <span data-ttu-id="1a0ed-730">옵션이 회색으로 처리되어 사서함 소유자가 자신의 일정에 대한 공유 권한을 관리할 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-730">We fixed an issue where a mailbox owner wasn't able to manage Shared permission for their own Calendar as the option was greyed out.</span></span>
+
+
+- <span data-ttu-id="1a0ed-731">Outlook에서 제한된 권한으로 메시지를 작성할 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-731">We fixed an issue where Outlook was not able to create a message with restricted permission.</span></span>
+
+
+- <span data-ttu-id="1a0ed-732">전자 메일 서식 파일을 .OFT로 저장하는 경우에 중국어 문자가 물음표로 변경되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-732">We fixed an issue where saving email templates as .OFT changed Chinese characters to question marks.</span></span>
+
+
+### <a name="powerpoint"></a><span data-ttu-id="1a0ed-733">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="1a0ed-733">PowerPoint</span></span>
+
+- <span data-ttu-id="1a0ed-734">프레젠테이션 영역을 확대/축소할 경우 확대된 선택 영역과 마우스 포인터 사이에 간격이 생기는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-734">We fixed an issue where zooming in and out from the presentation area resulted in a gap between the zoomed selection marquee and the mouse pointer.</span></span>
+
+
+- <span data-ttu-id="1a0ed-735">그림 옆에 있는 콘텐츠 개체 틀 아이콘에 도구 설명이 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-735">We fixed an issue where in content placeholder icon next to Pictures didn't have a tooltip.</span></span>
+
+
+- <span data-ttu-id="1a0ed-736">Pptsx 파일에 표시 되는 슬라이드 쇼의 제한된 보기에서 IRM으로 보호된 문서의 화면 캡처를 허용하는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-736">We have fixed an issue where Protected view of slide show, shown by pptsx file, allows screen capture of IRM protected document.</span></span>
+
+
+- <span data-ttu-id="1a0ed-737">디자인 창을 닫을 때 눈금선이 슬라이드에서 이동되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-737">We fixed an issue where grid lines were getting shifted from slides when closing design pane.</span></span>
+
+
+- <span data-ttu-id="1a0ed-738">슬라이드 쇼를 보조 모니터에 복제할 때 슬라이드 쇼가 다른 창 뒤에 숨겨질 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-738">We fixed an issue when duplicating slideshow to secondary monitor, the slideshow may hide behind other window.</span></span>
+
+
+- <span data-ttu-id="1a0ed-739">선택 창이 열린 상태에서 화면 녹화를 중지한 후 슬라이드의 스크롤 막대가 스스로 조정하기 시작하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-739">We fixed an issue where the scroll bar in the slide starts adjusting itself after stopping screen recording with selection pane opened.</span></span>
+
+
+### <a name="project"></a><span data-ttu-id="1a0ed-740">Project</span><span class="sxs-lookup"><span data-stu-id="1a0ed-740">Project</span></span>
+
+- <span data-ttu-id="1a0ed-741">작업 양식 유형 보기에서 간격이 변경되는 경우 ProjectBeforeTaskChagne 이벤트의 NewVal에 올바른 값이 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-741">Fixed an issue where the NewVal in the ProjectBeforeTaskChagne event doesn't have the correct value if a lag is changed within a Task Form type view.</span></span>
+
+
+- <span data-ttu-id="1a0ed-742">특정 방식으로 리소스 윤곽선이 지정된 파일을 열 때 Project가 예기치 않게 종료될 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-742">Fixed an issue where Project may terminate unexpectedly on opening files where resource contours were specified in a certain manner.</span></span>
+
+
+- <span data-ttu-id="1a0ed-743">PWA에서 로컬 mpp 파일로 프로젝트를 저장하는 경우 ProjectBeforeTaskChangeEvent가 실제로 사용자가 변경하지 않은 데이터에 대해 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-743">Fixed an issue where when you save a project from PWA to a local mpp file, the ProjectBeforeTaskChangeEvent fires for data that wasn't actually changed by the user.</span></span>
+
+
+- <span data-ttu-id="1a0ed-744">동일한 이름을 가진 여러 자원이 있을 경우 리소스 계약에서 GUID 대신 이름을 사용하여 리소스를 검색하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-744">Fixed an issue where resource engagements searched for a resource by name instead of GUID which would cause issues if there were multiple resources with the same name.</span></span>
+
+
+- <span data-ttu-id="1a0ed-745">프로젝트 사이트에 작업 목록이 있고 작업 목록을 그룹화한 경우, 작업 목록을 빠르게 편집할 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-745">Fixed an issue where if you have a task list in a project site and group the task list, you will not be able to quick edit the task list.</span></span>
+
+
+- <span data-ttu-id="1a0ed-746">CSOM을 통해 엔터프라이즈 리소스를 업데이트하는 경우, 리소스 최대 단위가 손실될 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-746">Fixed an issue where if you update an enterprise resource via CSOM, resource max units may be lost.</span></span>
+
+
+### <a name="word"></a><span data-ttu-id="1a0ed-747">Word</span><span class="sxs-lookup"><span data-stu-id="1a0ed-747">Word</span></span>
+
+- <span data-ttu-id="1a0ed-748">프리젠테이션 영역을 확대/축소하여 확대된 선택 영역과 마우스 포인터 사이에 간격이 생긴 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-748">We fixed an issue where zooming in and out from the presentation area resulted in a gap between the zoomed selection marquee and the mouse pointer.</span></span>
+
+
+- <span data-ttu-id="1a0ed-749">메모 힌트를 클릭 시 확대하여 보기에 메모 카드를 표시하지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-749">We fixed an issue where clicking comment hint didn't zoom out to show comment card in view.</span></span>
+
+
+- <span data-ttu-id="1a0ed-750">열 사이 선이 이동할 수 있는 레이아웃 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-750">We fixed a layout issue which the line between columns might have shifted.</span></span>
+
+
+- <span data-ttu-id="1a0ed-751">변경사항 추적에서 Word 문서를 열면 오류 대화상자가 표시될 수 있는 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-751">We fixed an issue in Track Changes which sometimes opening Word document might display error dialog.</span></span>
+
+
+- <span data-ttu-id="1a0ed-752">Excel 통합 문서를 Word 문서에 삽입하면 Word가 중단되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-752">We fixed an issue where Word appears to hang when inserting an Excel workbook into a Word document.</span></span>
+
+
+- <span data-ttu-id="1a0ed-753">워터마크가 적용된 민감도 레이블 인쇄 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-753">We fixed a print issue when sensitivity label with watermarks are applied.</span></span>
+
+
+### <a name="office-suite"></a><span data-ttu-id="1a0ed-754">Office 제품군</span><span class="sxs-lookup"><span data-stu-id="1a0ed-754">Office Suite</span></span>
+
+- <span data-ttu-id="1a0ed-755">Office 2007 "Microsoft 응용 프로그램 오류 보고"제품과 함께 RemoveMSI 기능을 사용할 때 구성이 실패하는 Office 배포 도구 관련 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-755">We fixed an issue in the Office Deployment Tool where configuration was failing when using the RemoveMSI feature with the Office 2007 "Microsoft Application Error Reporting" product present.</span></span>
+
+
+- <span data-ttu-id="1a0ed-756">SSO API 대화형 로그인이 오류 코드를 반환하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-756">We fixed an issue where SSO API interactive Sign-In was returning an error code.</span></span>
 
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
-## <a name="version-2010-october-27"></a><span data-ttu-id="5080d-784">버전 2010: 10월 27일</span><span class="sxs-lookup"><span data-stu-id="5080d-784">Version 2010: October 27</span></span>
-<span data-ttu-id="5080d-785">*버전 2010(빌드 13328.20292)*</span><span class="sxs-lookup"><span data-stu-id="5080d-785">*Version 2010 (Build 13328.20292)*</span></span>
+## <a name="version-2010-november-06"></a><span data-ttu-id="1a0ed-758">버전 2010: 11월 6일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-758">Version 2010: November 06</span></span>
+<span data-ttu-id="1a0ed-759">*버전 2010(빌드 13328.20356)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-759">*Version 2010 (Build 13328.20356)*</span></span>
+* <span data-ttu-id="1a0ed-760">다양한 버그 및 성능 수정 사항.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-760">Various bugs and performance fixes.</span></span>
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2010-november-04"></a><span data-ttu-id="1a0ed-763">버전 2010: 11월 4일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-763">Version 2010: November 04</span></span>
+<span data-ttu-id="1a0ed-764">*버전 2010(빌드 13328.20340)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-764">*Version 2010 (Build 13328.20340)*</span></span>
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a><span data-ttu-id="1a0ed-766">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="1a0ed-766">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="1a0ed-767">Excel</span><span class="sxs-lookup"><span data-stu-id="1a0ed-767">Excel</span></span>
+
+- <span data-ttu-id="1a0ed-768">**SVG 클립보드 지원:** 이제 Office의 SVG 콘텐츠를 타사 앱에 붙여 을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-768">**SVG Clipboard Support:** You can now paste SVG content from Office into 3rd party apps.</span></span> [<span data-ttu-id="1a0ed-769">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="1a0ed-769">Learn more</span></span>](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+
+### <a name="outlook"></a><span data-ttu-id="1a0ed-770">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-770">Outlook</span></span>
+
+- <span data-ttu-id="1a0ed-771">**SVG 클립보드 지원:** 이제 Office의 SVG 콘텐츠를 타사 앱에 붙여 을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-771">**SVG Clipboard Support:** You can now paste SVG content from Office into 3rd party apps.</span></span> [<span data-ttu-id="1a0ed-772">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="1a0ed-772">Learn more</span></span>](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+
+### <a name="powerpoint"></a><span data-ttu-id="1a0ed-773">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="1a0ed-773">PowerPoint</span></span>
+
+- <span data-ttu-id="1a0ed-774">**SVG 클립보드 지원:** 이제 Office의 SVG 콘텐츠를 타사 앱에 붙여 을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-774">**SVG Clipboard Support:** You can now paste SVG content from Office into 3rd party apps.</span></span> [<span data-ttu-id="1a0ed-775">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="1a0ed-775">Learn more</span></span>](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br /><span data-ttu-id="1a0ed-776">[블로그 게시물](https://insider.office.com/ko-KR/blog/svg-content-office-third-party-apps)에서 세부 정보 보기</span><span class="sxs-lookup"><span data-stu-id="1a0ed-776">See details in [blog post](https://insider.office.com/ko-KR/blog/svg-content-office-third-party-apps)</span></span>
+
+- <span data-ttu-id="1a0ed-777">**투명한 배경으로 GIF 만들기:** 애니메이션 GIF로 내보낼 때 새 옵션을 사용하여 배경을 투명하게 만들 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-777">**Create GIFs with Transparent Backgrounds:** When exporting to an Animated GIF, a new option will allow you to make the background transparent.</span></span><br /><span data-ttu-id="1a0ed-778">[블로그 게시물](https://insider.office.com/ko-KR/blog/export-animated-gifs-transparent-backgrounds)에서 세부 정보를 확인하세요.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-778">See details in [blog post](https://insider.office.com/ko-KR/blog/export-animated-gifs-transparent-backgrounds)</span></span>
+
+- <span data-ttu-id="1a0ed-779">**범위 내에서 애니메이션 GIF 내보내기:** 애니메이션 GIF로 내보낼 때 슬라이드 범위 선택</span><span class="sxs-lookup"><span data-stu-id="1a0ed-779">**Export animated GIF in a range:** Select a range of slides when exporting to animated GIF</span></span>
+
+### <a name="word"></a><span data-ttu-id="1a0ed-780">Word</span><span class="sxs-lookup"><span data-stu-id="1a0ed-780">Word</span></span>
+
+- <span data-ttu-id="1a0ed-781">**SVG 클립보드 지원:** 이제 Office의 SVG 콘텐츠를 타사 앱에 붙여 을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-781">**SVG Clipboard Support:** You can now paste SVG content from Office into 3rd party apps.</span></span> [<span data-ttu-id="1a0ed-782">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="1a0ed-782">Learn more</span></span>](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-785">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-785">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-786">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-786">Outlook</span></span>
+
+- <span data-ttu-id="1a0ed-787">사용자가 대리인에게 편집자 권한을 부여할 수 없게 하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-787">We fixed an issue that caused users to be unable to grant Editor permission to their delegates.</span></span>
+
+
+### <a name="office-suite"></a><span data-ttu-id="1a0ed-788">Office 제품군</span><span class="sxs-lookup"><span data-stu-id="1a0ed-788">Office Suite</span></span>
+
+- <span data-ttu-id="1a0ed-789">동기화 지원에서 서버 전용으로 전환된 파일을 저장할 때 오류가 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-789">We fixed an issue that was causing a failure when trying to save files that have transitioned from syncbacked to server-only.</span></span>
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2010-october-27"></a><span data-ttu-id="1a0ed-791">버전 2010: 10월 27일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-791">Version 2010: October 27</span></span>
+<span data-ttu-id="1a0ed-792">*버전 2010(빌드 13328.20292)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-792">*Version 2010 (Build 13328.20292)*</span></span>
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
@@ -1490,20 +1500,20 @@ ms.locfileid: "51749066"
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-789">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-789">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="5080d-790">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-790">Outlook</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-796">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-796">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-797">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-797">Outlook</span></span>
 
-- <span data-ttu-id="5080d-791">사용자에 대한 클라우드 설정이 기본적으로 설정되지 않도록 하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-791">We fixed a n issue that caused Cloud Settings not to be turned on for users by default.</span></span>
+- <span data-ttu-id="1a0ed-798">사용자에 대한 클라우드 설정이 기본적으로 설정되지 않도록 하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-798">We fixed a n issue that caused Cloud Settings not to be turned on for users by default.</span></span>
 
 
-- <span data-ttu-id="5080d-792">사용자 서명의 변경을 저장하는 데 실패하게 만드는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-792">We fixed an issue that caused changes to a user's signature to fail to save.</span></span>
+- <span data-ttu-id="1a0ed-799">사용자 서명의 변경을 저장하는 데 실패하게 만드는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-799">We fixed an issue that caused changes to a user's signature to fail to save.</span></span>
 
 
 
 [//]: # (BUGDETILES 컨텐츠 끝)을(를) 제거하지 마세요.
 
-## <a name="version-2010-october-24"></a><span data-ttu-id="5080d-794">버전 2010: 10월 24일</span><span class="sxs-lookup"><span data-stu-id="5080d-794">Version 2010: October 24</span></span>
-<span data-ttu-id="5080d-795">*버전 2010(빌드 13328.20278)*</span><span class="sxs-lookup"><span data-stu-id="5080d-795">*Version 2010 (Build 13328.20278)*</span></span>
+## <a name="version-2010-october-24"></a><span data-ttu-id="1a0ed-801">버전 2010: 10월 24일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-801">Version 2010: October 24</span></span>
+<span data-ttu-id="1a0ed-802">*버전 2010(빌드 13328.20278)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-802">*Version 2010 (Build 13328.20278)*</span></span>
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
@@ -1515,49 +1525,49 @@ ms.locfileid: "51749066"
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-799">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-799">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="5080d-800">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-800">Outlook</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-806">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-806">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-807">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-807">Outlook</span></span>
 
-- <span data-ttu-id="5080d-801">회신하거나 전달할 때 중국어 메시지의 머리글을 읽을 수 없게 하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-801">We fixed an issue that caused the headers of Chinese messages to be unreadable when replying or forwarding.</span></span>
-
-
-- <span data-ttu-id="5080d-802">OFT 파일로 저장하면 중국어 문자가 물음표로 변경되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-802">We fixed an issue that caused Chinese characters to get changed to question marks when saving as an OFT file.</span></span>
+- <span data-ttu-id="1a0ed-808">회신하거나 전달할 때 중국어 메시지의 머리글을 읽을 수 없게 하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-808">We fixed an issue that caused the headers of Chinese messages to be unreadable when replying or forwarding.</span></span>
 
 
-### <a name="project"></a><span data-ttu-id="5080d-803">Project</span><span class="sxs-lookup"><span data-stu-id="5080d-803">Project</span></span>
-
-- <span data-ttu-id="5080d-804">PWA에서 로컬 mpp 파일로 프로젝트를 저장하는 경우 ProjectBeforeTaskChangeEvent가 실제로 사용자가 변경하지 않은 데이터에 대해 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-804">Fixed an issue where when you save a project from PWA to a local mpp file, the ProjectBeforeTaskChangeEvent fires for data that wasn't actually changed by the user.</span></span>
+- <span data-ttu-id="1a0ed-809">OFT 파일로 저장하면 중국어 문자가 물음표로 변경되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-809">We fixed an issue that caused Chinese characters to get changed to question marks when saving as an OFT file.</span></span>
 
 
-- <span data-ttu-id="5080d-805">작업 양식 유형 보기에서 간격이 변경되는 경우 ProjectBeforeTaskChagne 이벤트의 NewVal에 올바른 값이 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-805">Fixed an issue where the NewVal in the ProjectBeforeTaskChange event doesn't have the correct value if a lag is changed within a Task Form type view.</span></span>
+### <a name="project"></a><span data-ttu-id="1a0ed-810">Project</span><span class="sxs-lookup"><span data-stu-id="1a0ed-810">Project</span></span>
+
+- <span data-ttu-id="1a0ed-811">PWA에서 로컬 mpp 파일로 프로젝트를 저장하는 경우 ProjectBeforeTaskChangeEvent가 실제로 사용자가 변경하지 않은 데이터에 대해 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-811">Fixed an issue where when you save a project from PWA to a local mpp file, the ProjectBeforeTaskChangeEvent fires for data that wasn't actually changed by the user.</span></span>
+
+
+- <span data-ttu-id="1a0ed-812">작업 양식 유형 보기에서 간격이 변경되는 경우 ProjectBeforeTaskChagne 이벤트의 NewVal에 올바른 값이 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-812">Fixed an issue where the NewVal in the ProjectBeforeTaskChange event doesn't have the correct value if a lag is changed within a Task Form type view.</span></span>
 
 
 
 [//]: # (BUGDETILES 컨텐츠 끝)을(를) 제거하지 마세요.
 
-## <a name="version-2010-october-19"></a><span data-ttu-id="5080d-807">버전 2010: 10월 19일</span><span class="sxs-lookup"><span data-stu-id="5080d-807">Version 2010: October 19</span></span>
-<span data-ttu-id="5080d-808">‘버전 2010(빌드 13328.20210)’</span><span class="sxs-lookup"><span data-stu-id="5080d-808">*Version 2010 (Build 13328.20210)*</span></span>
+## <a name="version-2010-october-19"></a><span data-ttu-id="1a0ed-814">버전 2010: 10월 19일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-814">Version 2010: October 19</span></span>
+<span data-ttu-id="1a0ed-815">‘버전 2010(빌드 13328.20210)’</span><span class="sxs-lookup"><span data-stu-id="1a0ed-815">*Version 2010 (Build 13328.20210)*</span></span>
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="feature-updates"></a><span data-ttu-id="5080d-810">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="5080d-810">Feature updates</span></span>
-### <a name="outlook"></a><span data-ttu-id="5080d-811">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-811">Outlook</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="1a0ed-817">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="1a0ed-817">Feature updates</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-818">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-818">Outlook</span></span>
 
-- <span data-ttu-id="5080d-812">**메시지 작성 시간 절약:** Outlook에서 메시지를 신속하게 작성하는 데 도움이 되는 쓰기 제안을 표시합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-812">**Save time while composing messages:** Outlook shows you writing suggestions that help you compose messages quickly.</span></span> <span data-ttu-id="5080d-813">제안을 수락하려면 탭 키를 사용하면 됩니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-813">To accept the suggestion, just use the Tab key.</span></span><br /><span data-ttu-id="5080d-814">[블로그 게시물](https://insider.office.com/ko-KR/blog/text-predictions-in-word-outlook)에서 세부 정보 보기</span><span class="sxs-lookup"><span data-stu-id="5080d-814">See details in [blog post](https://insider.office.com/ko-KR/blog/text-predictions-in-word-outlook)</span></span>
+- <span data-ttu-id="1a0ed-819">**메시지 작성 시간 절약:** Outlook에서 메시지를 신속하게 작성하는 데 도움이 되는 쓰기 제안을 표시합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-819">**Save time while composing messages:** Outlook shows you writing suggestions that help you compose messages quickly.</span></span> <span data-ttu-id="1a0ed-820">제안을 수락하려면 탭 키를 사용하면 됩니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-820">To accept the suggestion, just use the Tab key.</span></span><br /><span data-ttu-id="1a0ed-821">[블로그 게시물](https://insider.office.com/ko-KR/blog/text-predictions-in-word-outlook)에서 세부 정보 보기</span><span class="sxs-lookup"><span data-stu-id="1a0ed-821">See details in [blog post](https://insider.office.com/ko-KR/blog/text-predictions-in-word-outlook)</span></span>
 
-- <span data-ttu-id="5080d-815">**기본 제공 변환기로 언어 장벽 부수기:** 번역을 위한 추가 기능이 더 이상 필요하지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-815">**Break the language barrier with a built-in translator:** Add-ins for translation aren't required anymore!</span></span> <span data-ttu-id="5080d-816">메시지에서, 마우스 오른쪽 단추를 클릭하여 특정 단어, 구 또는 전체 메시지를 번역할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-816">In a message, right-click to translate specific words, phrases, or the whole message.</span></span> [<span data-ttu-id="5080d-817">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="5080d-817">Learn more</span></span>](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f)
+- <span data-ttu-id="1a0ed-822">**기본 제공 변환기로 언어 장벽 부수기:** 번역을 위한 추가 기능이 더 이상 필요하지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-822">**Break the language barrier with a built-in translator:** Add-ins for translation aren't required anymore!</span></span> <span data-ttu-id="1a0ed-823">메시지에서, 마우스 오른쪽 단추를 클릭하여 특정 단어, 구 또는 전체 메시지를 번역할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-823">In a message, right-click to translate specific words, phrases, or the whole message.</span></span> [<span data-ttu-id="1a0ed-824">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="1a0ed-824">Learn more</span></span>](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f)
 
-- <span data-ttu-id="5080d-818">**작업에 대한 사용자 환경 업데이트**: 작업 항목의 시각적 새로 고침</span><span class="sxs-lookup"><span data-stu-id="5080d-818">**User Experience Updates for Tasks:** A visual refresh of task items</span></span>
+- <span data-ttu-id="1a0ed-825">**작업에 대한 사용자 환경 업데이트**: 작업 항목의 시각적 새로 고침</span><span class="sxs-lookup"><span data-stu-id="1a0ed-825">**User Experience Updates for Tasks:** A visual refresh of task items</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="5080d-819">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="5080d-819">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="1a0ed-826">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="1a0ed-826">PowerPoint</span></span>
 
-- <span data-ttu-id="5080d-820">**발표자 코치와 프레젠테이션 연습:** 페이싱, 많이 사용하는 단어, 바디랭귀지 등을 개선하여 청중이 몰입도를 유지할 수 있도록 도와 줍니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-820">**Practice your presentation with Presenter Coach:** Get coaching on the things that help keep an audience engaged — like pacing, overused words, body language, and more.</span></span> [<span data-ttu-id="5080d-821">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="5080d-821">Learn more</span></span>](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)
+- <span data-ttu-id="1a0ed-827">**발표자 코치와 프레젠테이션 연습:** 페이싱, 많이 사용하는 단어, 바디랭귀지 등을 개선하여 청중이 몰입도를 유지할 수 있도록 도와 줍니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-827">**Practice your presentation with Presenter Coach:** Get coaching on the things that help keep an audience engaged — like pacing, overused words, body language, and more.</span></span> [<span data-ttu-id="1a0ed-828">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="1a0ed-828">Learn more</span></span>](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)
 
-### <a name="word"></a><span data-ttu-id="5080d-822">Word</span><span class="sxs-lookup"><span data-stu-id="5080d-822">Word</span></span>
+### <a name="word"></a><span data-ttu-id="1a0ed-829">Word</span><span class="sxs-lookup"><span data-stu-id="1a0ed-829">Word</span></span>
 
-- <span data-ttu-id="5080d-823">**Microsoft 편집기 창에서 데스크톱용 Word에서 업데이트 받기:** 데스크톱 클라이언트용 Word의 편집기 창에서 현재 환경을 업그레이드했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-823">**Microsoft Editor pane gets an update in Word for desktop:** We have upgraded the current experience with the Editor pane in Word for desktop clients.</span></span>
+- <span data-ttu-id="1a0ed-830">**Microsoft 편집기 창에서 데스크톱용 Word에서 업데이트 받기:** 데스크톱 클라이언트용 Word의 편집기 창에서 현재 환경을 업그레이드했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-830">**Microsoft Editor pane gets an update in Word for desktop:** We have upgraded the current experience with the Editor pane in Word for desktop clients.</span></span>
 
-- <span data-ttu-id="5080d-824">**한 번의 클릭으로 작문 제안:** 한 번의 클릭으로 작문 제안을 적용합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-824">**One-click writing suggestions:** Apply writing suggestions with a single click.</span></span> <span data-ttu-id="5080d-825">업데이트된 편집기 창은 제안 사이를 쉽게 탐색할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-825">The updated Editor pane makes it easy to navigate between suggestions.</span></span>
+- <span data-ttu-id="1a0ed-831">**한 번의 클릭으로 작문 제안:** 한 번의 클릭으로 작문 제안을 적용합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-831">**One-click writing suggestions:** Apply writing suggestions with a single click.</span></span> <span data-ttu-id="1a0ed-832">업데이트된 편집기 창은 제안 사이를 쉽게 탐색할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-832">The updated Editor pane makes it easy to navigate between suggestions.</span></span>
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -1566,32 +1576,32 @@ ms.locfileid: "51749066"
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-828">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-828">Resolved issues</span></span>
-### <a name="powerpoint"></a><span data-ttu-id="5080d-829">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="5080d-829">PowerPoint</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-835">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-835">Resolved issues</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="1a0ed-836">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="1a0ed-836">PowerPoint</span></span>
 
-- <span data-ttu-id="5080d-830">PresentationBeforeClose 이벤트를 청취하고 프레젠테이션을 확인하는 추가 기능이 있을 때 문서를 닫는 경우 저장 프롬프트가 루프에 표시되는 문제에 대한 수정 사항입니다. 속성을 이벤트 처리기의 일부로 저장했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-830">This is a fix for an issue where the save prompt shows in a loop when closing the document when there is an add-in that listens to PresentationBeforeClose event and checks Presentation.Saved property as a part of the event handler.</span></span>
+- <span data-ttu-id="1a0ed-837">PresentationBeforeClose 이벤트를 청취하고 프레젠테이션을 확인하는 추가 기능이 있을 때 문서를 닫는 경우 저장 프롬프트가 루프에 표시되는 문제에 대한 수정 사항입니다. 속성을 이벤트 처리기의 일부로 저장했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-837">This is a fix for an issue where the save prompt shows in a loop when closing the document when there is an add-in that listens to PresentationBeforeClose event and checks Presentation.Saved property as a part of the event handler.</span></span>
 
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
-## <a name="version-2010-october-11"></a><span data-ttu-id="5080d-832">버전 2010: 10월 11일</span><span class="sxs-lookup"><span data-stu-id="5080d-832">Version 2010: October 11</span></span>
-<span data-ttu-id="5080d-833">*버전 2010(빌드 13328.20154)*</span><span class="sxs-lookup"><span data-stu-id="5080d-833">*Version 2010 (Build 13328.20154)*</span></span>
+## <a name="version-2010-october-11"></a><span data-ttu-id="1a0ed-839">버전 2010: 10월 11일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-839">Version 2010: October 11</span></span>
+<span data-ttu-id="1a0ed-840">*버전 2010(빌드 13328.20154)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-840">*Version 2010 (Build 13328.20154)*</span></span>
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="feature-updates"></a><span data-ttu-id="5080d-835">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="5080d-835">Feature updates</span></span>
-### <a name="excel"></a><span data-ttu-id="5080d-836">Excel</span><span class="sxs-lookup"><span data-stu-id="5080d-836">Excel</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="1a0ed-842">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="1a0ed-842">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="1a0ed-843">Excel</span><span class="sxs-lookup"><span data-stu-id="1a0ed-843">Excel</span></span>
 
-- <span data-ttu-id="5080d-837">**악의적인 파일로부터 데이터 보호** Application Guard를 사용하여 독립된 컨테이너에서 Office 파일을 읽기, 인쇄 및 저장하여 맬웨어로부터 보호할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-837">**Help protect your data from malicious files:** Application Guard helps protect you from malware by letting you read, print, and save Office files in an isolated container.</span></span> [<span data-ttu-id="5080d-838">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="5080d-838">Learn more</span></span>](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
+- <span data-ttu-id="1a0ed-844">**악의적인 파일로부터 데이터 보호** Application Guard를 사용하여 독립된 컨테이너에서 Office 파일을 읽기, 인쇄 및 저장하여 맬웨어로부터 보호할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-844">**Help protect your data from malicious files:** Application Guard helps protect you from malware by letting you read, print, and save Office files in an isolated container.</span></span> [<span data-ttu-id="1a0ed-845">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="1a0ed-845">Learn more</span></span>](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
 
-### <a name="powerpoint"></a><span data-ttu-id="5080d-839">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="5080d-839">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="1a0ed-846">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="1a0ed-846">PowerPoint</span></span>
 
-- <span data-ttu-id="5080d-840">**악의적인 파일로부터 데이터 보호** Application Guard를 사용하여 독립된 컨테이너에서 Office 파일을 읽기, 인쇄 및 저장하여 맬웨어로부터 보호할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-840">**Help protect your data from malicious files:** Application Guard helps protect you from malware by letting you read, print, and save Office files in an isolated container.</span></span> [<span data-ttu-id="5080d-841">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="5080d-841">Learn more</span></span>](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
+- <span data-ttu-id="1a0ed-847">**악의적인 파일로부터 데이터 보호** Application Guard를 사용하여 독립된 컨테이너에서 Office 파일을 읽기, 인쇄 및 저장하여 맬웨어로부터 보호할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-847">**Help protect your data from malicious files:** Application Guard helps protect you from malware by letting you read, print, and save Office files in an isolated container.</span></span> [<span data-ttu-id="1a0ed-848">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="1a0ed-848">Learn more</span></span>](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
 
-### <a name="word"></a><span data-ttu-id="5080d-842">Word</span><span class="sxs-lookup"><span data-stu-id="5080d-842">Word</span></span>
+### <a name="word"></a><span data-ttu-id="1a0ed-849">Word</span><span class="sxs-lookup"><span data-stu-id="1a0ed-849">Word</span></span>
 
-- <span data-ttu-id="5080d-843">**악의적인 파일로부터 데이터 보호** Application Guard를 사용하여 독립된 컨테이너에서 Office 파일을 읽기, 인쇄 및 저장하여 맬웨어로부터 보호할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-843">**Help protect your data from malicious files:** Application Guard helps protect you from malware by letting you read, print, and save Office files in an isolated container.</span></span> [<span data-ttu-id="5080d-844">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="5080d-844">Learn more</span></span>](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
+- <span data-ttu-id="1a0ed-850">**악의적인 파일로부터 데이터 보호** Application Guard를 사용하여 독립된 컨테이너에서 Office 파일을 읽기, 인쇄 및 저장하여 맬웨어로부터 보호할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-850">**Help protect your data from malicious files:** Application Guard helps protect you from malware by letting you read, print, and save Office files in an isolated container.</span></span> [<span data-ttu-id="1a0ed-851">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="1a0ed-851">Learn more</span></span>](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -1600,156 +1610,156 @@ ms.locfileid: "51749066"
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-847">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-847">Resolved issues</span></span>
-### <a name="access"></a><span data-ttu-id="5080d-848">Access</span><span class="sxs-lookup"><span data-stu-id="5080d-848">Access</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-854">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-854">Resolved issues</span></span>
+### <a name="access"></a><span data-ttu-id="1a0ed-855">Access</span><span class="sxs-lookup"><span data-stu-id="1a0ed-855">Access</span></span>
 
-- <span data-ttu-id="5080d-849">스크롤하는 동안 저장된 쿼리/관계 창을 로드하는 경우 스크롤 막대 위치가 제대로 설정되지 않은 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-849">We fixed an issue where scrollbar position was not set correctly when loading query/relationship window saved while scrolled.</span></span>
+- <span data-ttu-id="1a0ed-856">스크롤하는 동안 저장된 쿼리/관계 창을 로드하는 경우 스크롤 막대 위치가 제대로 설정되지 않은 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-856">We fixed an issue where scrollbar position was not set correctly when loading query/relationship window saved while scrolled.</span></span>
 
 
-- <span data-ttu-id="5080d-850">테이블 추가 작업창에서 '&'를 포함하는 이름을 제대로 표시하지 않는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-850">We fixed an issue where Add Table Task Pane was not displaying names containing '&' correctly.</span></span>
+- <span data-ttu-id="1a0ed-857">테이블 추가 작업창에서 '&'를 포함하는 이름을 제대로 표시하지 않는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-857">We fixed an issue where Add Table Task Pane was not displaying names containing '&' correctly.</span></span>
 
 
-### <a name="excel"></a><span data-ttu-id="5080d-851">Excel</span><span class="sxs-lookup"><span data-stu-id="5080d-851">Excel</span></span>
+### <a name="excel"></a><span data-ttu-id="1a0ed-858">Excel</span><span class="sxs-lookup"><span data-stu-id="1a0ed-858">Excel</span></span>
 
-- <span data-ttu-id="5080d-852">차트에서 다단계 범주 수동 간격이 작동하지 않는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-852">We fixed an issue where multi-level category manual interval was not working in charts.</span></span>
+- <span data-ttu-id="1a0ed-859">차트에서 다단계 범주 수동 간격이 작동하지 않는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-859">We fixed an issue where multi-level category manual interval was not working in charts.</span></span>
 
 
-- <span data-ttu-id="5080d-853">VBA를 사용하여 계열의 최대값, 중간값 및 최소값에 대한 색을 설정하는 기능이 작동하지 않는 2D 지도 차트의 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-853">Fixed an issue with 2D Map Charts where using VBA to set the colors for the max, mid, and min values for a series was not working.</span></span>
+- <span data-ttu-id="1a0ed-860">VBA를 사용하여 계열의 최대값, 중간값 및 최소값에 대한 색을 설정하는 기능이 작동하지 않는 2D 지도 차트의 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-860">Fixed an issue with 2D Map Charts where using VBA to set the colors for the max, mid, and min values for a series was not working.</span></span>
 
 
-- <span data-ttu-id="5080d-854">"하나 이상의 수식을 계산하는 동안 Excel 리소스를 모두 사용했습니다" 오류가 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-854">Fixed an issue which could cause an error that "Excel ran out of resources while attempting to calculate one or more formulas".</span></span>
+- <span data-ttu-id="1a0ed-861">"하나 이상의 수식을 계산하는 동안 Excel 리소스를 모두 사용했습니다" 오류가 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-861">Fixed an issue which could cause an error that "Excel ran out of resources while attempting to calculate one or more formulas".</span></span>
 
 
-- <span data-ttu-id="5080d-855">Office 언어를 스페인어로 설정했을 때 데이터 유효성 검사 목록에 목록의 모든 항목이 표시되지 않는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-855">Fixed an issue when the Office language was set to Spanish, in which data validation lists may not show all the items in the list.</span></span>
+- <span data-ttu-id="1a0ed-862">Office 언어를 스페인어로 설정했을 때 데이터 유효성 검사 목록에 목록의 모든 항목이 표시되지 않는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-862">Fixed an issue when the Office language was set to Spanish, in which data validation lists may not show all the items in the list.</span></span>
 
 
-- <span data-ttu-id="5080d-856">'페이지 나누기 미리 보기'가 활성화되었을 때 대량의 데이터가 있는 워크시트를 전환할 때 현저한 지연이 발생할 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-856">Fixed an issue where there could be a noticeable delay when switching between worksheets with large amounts of data when 'Page Break Preview' was enabled.</span></span>
+- <span data-ttu-id="1a0ed-863">'페이지 나누기 미리 보기'가 활성화되었을 때 대량의 데이터가 있는 워크시트를 전환할 때 현저한 지연이 발생할 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-863">Fixed an issue where there could be a noticeable delay when switching between worksheets with large amounts of data when 'Page Break Preview' was enabled.</span></span>
 
 
-- <span data-ttu-id="5080d-857">데이터 유효성 검사에 사용되는 테이블을 추가해도 통합 문서에 있는 모든 시트에 대한 옵션이 업데이트되지 않는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-857">We fixed an issue where adding to a table used for Data Validation did not update options for all sheets in the workbook.</span></span>
+- <span data-ttu-id="1a0ed-864">데이터 유효성 검사에 사용되는 테이블을 추가해도 통합 문서에 있는 모든 시트에 대한 옵션이 업데이트되지 않는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-864">We fixed an issue where adding to a table used for Data Validation did not update options for all sheets in the workbook.</span></span>
 
 
-- <span data-ttu-id="5080d-858">OLAP 피벗 테이블을 새로 고칠 때 중단될 수 있는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-858">We fixed an issue which could cause a hang when refreshing OLAP PivotTables.</span></span>
+- <span data-ttu-id="1a0ed-865">OLAP 피벗 테이블을 새로 고칠 때 중단될 수 있는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-865">We fixed an issue which could cause a hang when refreshing OLAP PivotTables.</span></span>
 
 
-- <span data-ttu-id="5080d-859">수식 입력줄을 통해 수식을 입력할 때 일부의 경우에 차트 시트가 충돌하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-859">Fixed an issue where ChartSheet crashed in some cases when a formula is entered through formula bar.</span></span>
+- <span data-ttu-id="1a0ed-866">수식 입력줄을 통해 수식을 입력할 때 일부의 경우에 차트 시트가 충돌하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-866">Fixed an issue where ChartSheet crashed in some cases when a formula is entered through formula bar.</span></span>
 
 
-- <span data-ttu-id="5080d-860">원격 세션 연결/연결 끊기, 모니터 변경 등과 같이 장치 연결이 끊어진 후에 Excel 수식 입력줄이 완전히 렌더링되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-860">We fixed an issue where the Excel formula bar would not render completely after connection to a device was lost, such as a remote session connect/disconnect or a monitor change.</span></span>
+- <span data-ttu-id="1a0ed-867">원격 세션 연결/연결 끊기, 모니터 변경 등과 같이 장치 연결이 끊어진 후에 Excel 수식 입력줄이 완전히 렌더링되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-867">We fixed an issue where the Excel formula bar would not render completely after connection to a device was lost, such as a remote session connect/disconnect or a monitor change.</span></span>
 
 
-### <a name="onenote"></a><span data-ttu-id="5080d-861">OneNote</span><span class="sxs-lookup"><span data-stu-id="5080d-861">OneNote</span></span>
+### <a name="onenote"></a><span data-ttu-id="1a0ed-868">OneNote</span><span class="sxs-lookup"><span data-stu-id="1a0ed-868">OneNote</span></span>
 
-- <span data-ttu-id="5080d-862">사용자가 OutSpace 파일 > 정보에 있는 텍스트 상자에서 전자 필기장 URL을 선택하고 복사할 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-862">We fixed an issue where a user was unable to select and copy notebook URL from textbox in OutSpace File > Info.</span></span>
+- <span data-ttu-id="1a0ed-869">사용자가 OutSpace 파일 > 정보에 있는 텍스트 상자에서 전자 필기장 URL을 선택하고 복사할 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-869">We fixed an issue where a user was unable to select and copy notebook URL from textbox in OutSpace File > Info.</span></span>
 
 
-- <span data-ttu-id="5080d-863">사용자가 전자 필기장 색 선택기에서 초록색을 마우스로 가리킨 경우 팝업 창에서 "빨간색 분필"을 읽는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-863">We fixed an issue when you hover over green color in notebook color selector, the pop up reads "red chalk".</span></span>
+- <span data-ttu-id="1a0ed-870">사용자가 전자 필기장 색 선택기에서 초록색을 마우스로 가리킨 경우 팝업 창에서 "빨간색 분필"을 읽는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-870">We fixed an issue when you hover over green color in notebook color selector, the pop up reads "red chalk".</span></span>
 
 
-- <span data-ttu-id="5080d-864">OneNote가 사용자 지정 테마에 대한 캔버스에서 고대비 색을 적용하지 못하는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-864">We fixed an issue where OneNote didn't honor High Contrast colors in the canvas for custom themes.</span></span>
+- <span data-ttu-id="1a0ed-871">OneNote가 사용자 지정 테마에 대한 캔버스에서 고대비 색을 적용하지 못하는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-871">We fixed an issue where OneNote didn't honor High Contrast colors in the canvas for custom themes.</span></span>
 
 
-### <a name="outlook"></a><span data-ttu-id="5080d-865">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-865">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-872">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-872">Outlook</span></span>
 
-- <span data-ttu-id="5080d-866">일부 전자 메일의 제목 줄이 비어있는 경우 자동으로 생성된 전자 메일이 이를 빈 본문과 함께 보내는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-866">Addresses an issue that caused automatically generated emails to be sent with a blank body when the subject is blank.</span></span>
+- <span data-ttu-id="1a0ed-873">일부 전자 메일의 제목 줄이 비어있는 경우 자동으로 생성된 전자 메일이 이를 빈 본문과 함께 보내는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-873">Addresses an issue that caused automatically generated emails to be sent with a blank body when the subject is blank.</span></span>
 
 
-- <span data-ttu-id="5080d-867">폴더에 대해 잘못된 폴더 GUID가 캐시되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-867">We fixed an issue where the wrong folder guid is cached for folders.</span></span>
+- <span data-ttu-id="1a0ed-874">폴더에 대해 잘못된 폴더 GUID가 캐시되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-874">We fixed an issue where the wrong folder guid is cached for folders.</span></span>
 
 
-- <span data-ttu-id="5080d-868">사용자가 전자 메일 주소를 표시 이름으로 받는 사람 필드에 복사하여 붙여 넣는 경우, 전자 메일 주소가 정확하게 구문 분석되지 않았고 잘못된 전자 메일 주소에 대한 경고가 표시되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-868">When a user copy-and-pastes an email address into the recipient field with the display name, the email address wasn't always parsed correctly and caused a warning about an invalid email address to appear.</span></span>  <span data-ttu-id="5080d-869">이 문제가 해결되었으므로 이름과 전자 메일 주소가 정확하게 구문 분석되고 경고가 더 이상 표시되지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-869">It's been fixed so the name and email address are parsed correctly so the warning is no longer shown.</span></span>
+- <span data-ttu-id="1a0ed-875">사용자가 전자 메일 주소를 표시 이름으로 받는 사람 필드에 복사하여 붙여 넣는 경우, 전자 메일 주소가 정확하게 구문 분석되지 않았고 잘못된 전자 메일 주소에 대한 경고가 표시되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-875">When a user copy-and-pastes an email address into the recipient field with the display name, the email address wasn't always parsed correctly and caused a warning about an invalid email address to appear.</span></span>  <span data-ttu-id="1a0ed-876">이 문제가 해결되었으므로 이름과 전자 메일 주소가 정확하게 구문 분석되고 경고가 더 이상 표시되지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-876">It's been fixed so the name and email address are parsed correctly so the warning is no longer shown.</span></span>
 
 
-- <span data-ttu-id="5080d-870">온라인 공유 폴더가 상위 폴더 이름을 반환하지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-870">We fixed an issue where online shared folders did not return parent folder name.</span></span> <span data-ttu-id="5080d-871">실패하는 대신, 주 계정으로 잘못 이동한 빈 경로가 반환되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-871">Intsead of failing, it returned an empty path which incorrectly went to the primary account.</span></span>
+- <span data-ttu-id="1a0ed-877">온라인 공유 폴더가 상위 폴더 이름을 반환하지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-877">We fixed an issue where online shared folders did not return parent folder name.</span></span> <span data-ttu-id="1a0ed-878">실패하는 대신, 주 계정으로 잘못 이동한 빈 경로가 반환되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-878">Intsead of failing, it returned an empty path which incorrectly went to the primary account.</span></span>
 
 
-- <span data-ttu-id="5080d-872">클래식 첨부 파일에서 다른 이름으로 저장 옵션을 사용할 수 없는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-872">We fixed an issue where the Save As option was not available for classic attachments.</span></span>
+- <span data-ttu-id="1a0ed-879">클래식 첨부 파일에서 다른 이름으로 저장 옵션을 사용할 수 없는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-879">We fixed an issue where the Save As option was not available for classic attachments.</span></span>
 
 
-- <span data-ttu-id="5080d-873">정책을 재정의할 때 사유 텍스트를 사용자 지정할 수 있는 방법을 제공하도록 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-873">We fixed an issue to provide a user a way to customize justification text when overriding a policy.</span></span>
+- <span data-ttu-id="1a0ed-880">정책을 재정의할 때 사유 텍스트를 사용자 지정할 수 있는 방법을 제공하도록 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-880">We fixed an issue to provide a user a way to customize justification text when overriding a policy.</span></span>
 
 
-- <span data-ttu-id="5080d-874">읽기 전용 미리 보기 창에서 초안을 다시 연 후에 변경 내용 추적이 켜지는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-874">We fixed an issue where track changes turned on after reopening draft from read-only preview pane.</span></span>
+- <span data-ttu-id="1a0ed-881">읽기 전용 미리 보기 창에서 초안을 다시 연 후에 변경 내용 추적이 켜지는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-881">We fixed an issue where track changes turned on after reopening draft from read-only preview pane.</span></span>
 
 
-- <span data-ttu-id="5080d-875">중요 받은 편지함을 끄고 정렬하면 전자 메일이 숨겨지는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-875">We fixed an issue with emails being hidden after turning Focused Inbox off and doing a sort.</span></span>
+- <span data-ttu-id="1a0ed-882">중요 받은 편지함을 끄고 정렬하면 전자 메일이 숨겨지는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-882">We fixed an issue with emails being hidden after turning Focused Inbox off and doing a sort.</span></span>
 
 
-- <span data-ttu-id="5080d-876">클라우드 설정을 사용하도록 설정한 사용자에 대해 Outlook에서 두 번째 빈 서명을 만드는 문제를 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-876">We fixed an issue that caused Outlook to create a second empty signature for people who had cloud settings enabled.</span></span>
+- <span data-ttu-id="1a0ed-883">클라우드 설정을 사용하도록 설정한 사용자에 대해 Outlook에서 두 번째 빈 서명을 만드는 문제를 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-883">We fixed an issue that caused Outlook to create a second empty signature for people who had cloud settings enabled.</span></span>
 
 
-### <a name="powerpoint"></a><span data-ttu-id="5080d-877">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="5080d-877">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="1a0ed-884">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="1a0ed-884">PowerPoint</span></span>
 
-- <span data-ttu-id="5080d-878">PDF로 내보낼 때 PowerPoint가 직사각형 글머리 기호를 내보내지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-878">We fixed an issue where PowerPoint was not exporting rectangle bullet points while exporting to PDF.</span></span>
+- <span data-ttu-id="1a0ed-885">PDF로 내보낼 때 PowerPoint가 직사각형 글머리 기호를 내보내지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-885">We fixed an issue where PowerPoint was not exporting rectangle bullet points while exporting to PDF.</span></span>
 
 
-- <span data-ttu-id="5080d-879">GIF가 편집기 및 슬라이드 쇼에서 한 번만 활성화되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-879">We fixed an issue where GIF's would animate only once in the editor and slide shows.</span></span>
+- <span data-ttu-id="1a0ed-886">GIF가 편집기 및 슬라이드 쇼에서 한 번만 활성화되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-886">We fixed an issue where GIF's would animate only once in the editor and slide shows.</span></span>
 
 
-- <span data-ttu-id="5080d-880">사용자가 원본 경로를 로컬 OneDrive 폴더로 변경한 경우 연결된 Excel 차트가 Excel 시트로 잘못 변경되는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-880">We fixed an issue where linked excel chart incorrectly changes to excel sheet when user changes the source path to local OneDrive folder.</span></span>
+- <span data-ttu-id="1a0ed-887">사용자가 원본 경로를 로컬 OneDrive 폴더로 변경한 경우 연결된 Excel 차트가 Excel 시트로 잘못 변경되는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-887">We fixed an issue where linked excel chart incorrectly changes to excel sheet when user changes the source path to local OneDrive folder.</span></span>
 
 
-- <span data-ttu-id="5080d-881">마지막 슬라이드에 있는 경우와 '세션 종료'를 누른 후와 요약이 표시되기 전에 다음 슬라이드로 살짝 미는 경우, 세션 종료 대화 상자가 요약 페이지에도 표시되는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-881">We fixed an issue that If you are on the last slide and if you swipe to the next slide after pressing 'End Session' and before the summary shows up, the End-Session dialog is visible on the summary page as well.</span></span>
+- <span data-ttu-id="1a0ed-888">마지막 슬라이드에 있는 경우와 '세션 종료'를 누른 후와 요약이 표시되기 전에 다음 슬라이드로 살짝 미는 경우, 세션 종료 대화 상자가 요약 페이지에도 표시되는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-888">We fixed an issue that If you are on the last slide and if you swipe to the next slide after pressing 'End Session' and before the summary shows up, the End-Session dialog is visible on the summary page as well.</span></span>
 
 
-### <a name="project"></a><span data-ttu-id="5080d-882">Project</span><span class="sxs-lookup"><span data-stu-id="5080d-882">Project</span></span>
+### <a name="project"></a><span data-ttu-id="1a0ed-889">Project</span><span class="sxs-lookup"><span data-stu-id="1a0ed-889">Project</span></span>
 
-- <span data-ttu-id="5080d-883">동일한 프로젝트를 여러 번 추가하고 AttachToSources를 false로 설정하는 경우 ConsolidateProjects VBA 메서드가 실패할 수 있는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-883">Fixed an issue where the ConsolidateProjects VBA method may file if you try to add the same project multiple times and have AttachToSources set to false.</span></span>
+- <span data-ttu-id="1a0ed-890">동일한 프로젝트를 여러 번 추가하고 AttachToSources를 false로 설정하는 경우 ConsolidateProjects VBA 메서드가 실패할 수 있는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-890">Fixed an issue where the ConsolidateProjects VBA method may file if you try to add the same project multiple times and have AttachToSources set to false.</span></span>
 
 
-- <span data-ttu-id="5080d-884">이벤트 코드를 실행 중이고 작업 폼 보기를 통하여 변경을 하려고 하는 경우, 확인 단추를 클릭하면 변경 내용이 커밋되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-884">Fixed an issue where if you have eventing code running and try to make changes through a Task Form view, clicking the OK button may not commit the changes.</span></span>
+- <span data-ttu-id="1a0ed-891">이벤트 코드를 실행 중이고 작업 폼 보기를 통하여 변경을 하려고 하는 경우, 확인 단추를 클릭하면 변경 내용이 커밋되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-891">Fixed an issue where if you have eventing code running and try to make changes through a Task Form view, clicking the OK button may not commit the changes.</span></span>
 
 
-- <span data-ttu-id="5080d-885">동일한 프로젝트를 여러 번 추가하고 AttachToSources를 false로 설정하는 경우 ConsolidateProjects VBA 메서드가 실패할 수 있는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-885">Fixed an issue where the ConsolidateProjects VBA method may file if you try to add the same project multiple times and have AttachToSources set to false.</span></span>
+- <span data-ttu-id="1a0ed-892">동일한 프로젝트를 여러 번 추가하고 AttachToSources를 false로 설정하는 경우 ConsolidateProjects VBA 메서드가 실패할 수 있는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-892">Fixed an issue where the ConsolidateProjects VBA method may file if you try to add the same project multiple times and have AttachToSources set to false.</span></span>
 
 
-- <span data-ttu-id="5080d-886">수식이 포함된 사용자 지정 필드가 있고 획득 가치를 사용하는 경우, 보기를 전환하고 프로젝트/작업 세부 정보를 열 때 성능이 저하될 수 있는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-886">Fixed an issue where if you have custom fields with formulas and are using earned value, you may notice performance delays switching views and opening project/task details.</span></span>
+- <span data-ttu-id="1a0ed-893">수식이 포함된 사용자 지정 필드가 있고 획득 가치를 사용하는 경우, 보기를 전환하고 프로젝트/작업 세부 정보를 열 때 성능이 저하될 수 있는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-893">Fixed an issue where if you have custom fields with formulas and are using earned value, you may notice performance delays switching views and opening project/task details.</span></span>
 
 
-- <span data-ttu-id="5080d-887">자원 배정 현황 또는 시트 보기에 그룹화 기준을 적용한 후 열을 삽입하는 경우 Project가 중단될 수 있는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-887">Fixed an issue where Project may crash if you apply a group by to the Resource Usage or Sheet view and then insert a column.</span></span>
+- <span data-ttu-id="1a0ed-894">자원 배정 현황 또는 시트 보기에 그룹화 기준을 적용한 후 열을 삽입하는 경우 Project가 중단될 수 있는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-894">Fixed an issue where Project may crash if you apply a group by to the Resource Usage or Sheet view and then insert a column.</span></span>
 
 
-### <a name="word"></a><span data-ttu-id="5080d-888">Word</span><span class="sxs-lookup"><span data-stu-id="5080d-888">Word</span></span>
+### <a name="word"></a><span data-ttu-id="1a0ed-895">Word</span><span class="sxs-lookup"><span data-stu-id="1a0ed-895">Word</span></span>
 
-- <span data-ttu-id="5080d-889">워크플로를 사용하도록 설정한 파일에 대한 링크가 정상적으로 열리지 않는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-889">We fixed an issue where links to workflow enabled files were not opening as expected.</span></span>
+- <span data-ttu-id="1a0ed-896">워크플로를 사용하도록 설정한 파일에 대한 링크가 정상적으로 열리지 않는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-896">We fixed an issue where links to workflow enabled files were not opening as expected.</span></span>
 
 
-- <span data-ttu-id="5080d-890">추적된 변경 내용(삽입/삭제)을 탭하면 메모가 표시되는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-890">Fixed an issue where a user tapping on a tracked change (insertion/deletion) would bring up a comment pop-out.</span></span>
+- <span data-ttu-id="1a0ed-897">추적된 변경 내용(삽입/삭제)을 탭하면 메모가 표시되는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-897">Fixed an issue where a user tapping on a tracked change (insertion/deletion) would bring up a comment pop-out.</span></span>
 
 
-- <span data-ttu-id="5080d-891">Word에서 메모 설명선을 삭제할 때 발생하는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-891">We fixed an issue with deleting comment callouts in Word.</span></span>
+- <span data-ttu-id="1a0ed-898">Word에서 메모 설명선을 삭제할 때 발생하는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-898">We fixed an issue with deleting comment callouts in Word.</span></span>
 
 
-- <span data-ttu-id="5080d-892">메시지가 전달 금지로 설정된 Outlook 에 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-892">We fixed an issue with Outlook with message set to Do not forward.</span></span>
+- <span data-ttu-id="1a0ed-899">메시지가 전달 금지로 설정된 Outlook 에 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-899">We fixed an issue with Outlook with message set to Do not forward.</span></span>
 
 
-- <span data-ttu-id="5080d-893">인용문과 수식이 포함된 Word 문서를 저장할 때 발생하는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-893">We fixed an issue with saving Word document that contains citation and equation.</span></span>
+- <span data-ttu-id="1a0ed-900">인용문과 수식이 포함된 Word 문서를 저장할 때 발생하는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-900">We fixed an issue with saving Word document that contains citation and equation.</span></span>
 
 
-- <span data-ttu-id="5080d-894">스타일 갤러리 대화 상자와 관련된 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-894">We fixed an issue with Style Gallery dialog.</span></span>
+- <span data-ttu-id="1a0ed-901">스타일 갤러리 대화 상자와 관련된 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-901">We fixed an issue with Style Gallery dialog.</span></span>
 
 
-### <a name="office-suite"></a><span data-ttu-id="5080d-895">Office 제품군</span><span class="sxs-lookup"><span data-stu-id="5080d-895">Office Suite</span></span>
+### <a name="office-suite"></a><span data-ttu-id="1a0ed-902">Office 제품군</span><span class="sxs-lookup"><span data-stu-id="1a0ed-902">Office Suite</span></span>
 
-- <span data-ttu-id="5080d-896">Office에서 사용자가 잉크젯 프린터로 문서/파일을 인쇄하고 프린터의 잉크가 부족하면, 잉크젯 프린터에 토너가 없더라도 "토너 부족" 또는 "토너 없음" 메시지가 표시됩니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-896">When the user prints any document/file on inkjet printers from Office and printer's ink is low, "Toner Low" or "No Toner" message will show, even though inkjet printers don't have toners.</span></span> <span data-ttu-id="5080d-897">메시지를 변경하여 "토너/잉크 부족" 및 "토너/잉크 없음"으로 표시합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-897">Changing message to display "Toner/ink Low" & "No toner/ink".</span></span>
+- <span data-ttu-id="1a0ed-903">Office에서 사용자가 잉크젯 프린터로 문서/파일을 인쇄하고 프린터의 잉크가 부족하면, 잉크젯 프린터에 토너가 없더라도 "토너 부족" 또는 "토너 없음" 메시지가 표시됩니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-903">When the user prints any document/file on inkjet printers from Office and printer's ink is low, "Toner Low" or "No Toner" message will show, even though inkjet printers don't have toners.</span></span> <span data-ttu-id="1a0ed-904">메시지를 변경하여 "토너/잉크 부족" 및 "토너/잉크 없음"으로 표시합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-904">Changing message to display "Toner/ink Low" & "No toner/ink".</span></span>
 
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
-## <a name="version-2009-october-07"></a><span data-ttu-id="5080d-899">버전 2009: 10월 7일</span><span class="sxs-lookup"><span data-stu-id="5080d-899">Version 2009: October 07</span></span>
-<span data-ttu-id="5080d-900">*버전 2009(빌드 13231.20360)*</span><span class="sxs-lookup"><span data-stu-id="5080d-900">*Version 2009 (Build 13231.20360)*</span></span>
+## <a name="version-2009-october-07"></a><span data-ttu-id="1a0ed-906">버전 2009: 10월 7일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-906">Version 2009: October 07</span></span>
+<span data-ttu-id="1a0ed-907">*버전 2009(빌드 13231.20360)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-907">*Version 2009 (Build 13231.20360)*</span></span>
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="feature-updates"></a><span data-ttu-id="5080d-902">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="5080d-902">Feature updates</span></span>
-### <a name="excel"></a><span data-ttu-id="5080d-903">Excel</span><span class="sxs-lookup"><span data-stu-id="5080d-903">Excel</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="1a0ed-909">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="1a0ed-909">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="1a0ed-910">Excel</span><span class="sxs-lookup"><span data-stu-id="1a0ed-910">Excel</span></span>
 
-- <span data-ttu-id="5080d-904">**파워 쿼리를 사용하여 데이터 형식 만들기:** 모든 데이터 원본에서 파워 쿼리로 다양한 데이터 형식을 만듭니다</span><span class="sxs-lookup"><span data-stu-id="5080d-904">**Create Data Types with Power Query:** Create rich data types with Power Query from any data source</span></span>
+- <span data-ttu-id="1a0ed-911">**파워 쿼리를 사용하여 데이터 형식 만들기:** 모든 데이터 원본에서 파워 쿼리로 다양한 데이터 형식을 만듭니다</span><span class="sxs-lookup"><span data-stu-id="1a0ed-911">**Create Data Types with Power Query:** Create rich data types with Power Query from any data source</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="5080d-905">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-905">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-912">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-912">Outlook</span></span>
 
-- <span data-ttu-id="5080d-906">**문법 검사를 도움:** Outlook에서 사용자가 입력할 때 문법 오류를 표시하여 클릭 한 번으로 제안을 적용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-906">**Grammar checking's got your back:** Outlook marks grammar errors as you type, so you can apply suggestions with a single click.</span></span> <br /><span data-ttu-id="5080d-907">[블로그 게시물](https://insider.office.com/ko-KR/blog/grammar-and-style-suggestions-available-in-outlook)에서 세부 정보 보기</span><span class="sxs-lookup"><span data-stu-id="5080d-907">See details in [blog post](https://insider.office.com/ko-KR/blog/grammar-and-style-suggestions-available-in-outlook)</span></span>
+- <span data-ttu-id="1a0ed-913">**문법 검사를 도움:** Outlook에서 사용자가 입력할 때 문법 오류를 표시하여 클릭 한 번으로 제안을 적용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-913">**Grammar checking's got your back:** Outlook marks grammar errors as you type, so you can apply suggestions with a single click.</span></span> <br /><span data-ttu-id="1a0ed-914">[블로그 게시물](https://insider.office.com/ko-KR/blog/grammar-and-style-suggestions-available-in-outlook)에서 세부 정보 보기</span><span class="sxs-lookup"><span data-stu-id="1a0ed-914">See details in [blog post](https://insider.office.com/ko-KR/blog/grammar-and-style-suggestions-available-in-outlook)</span></span>
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -1758,100 +1768,100 @@ ms.locfileid: "51749066"
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-910">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-910">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="5080d-911">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-911">Outlook</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-917">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-917">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-918">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-918">Outlook</span></span>
 
-- <span data-ttu-id="5080d-912">캐시되지 않은 공유 일정을 검색할 때 검색에서 결과가 반환되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-912">Addresses an issue that caused Search to return no results when searching uncached shared calendars.</span></span>
-
-
-- <span data-ttu-id="5080d-913">일부 사용자가 예기치 않게 오프라인 상태에서 Outlook이 시작되는 것을 관찰하게 한 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-913">Addresses an issue that caused some users to observe Outlook unexpectedly starting in an offline state.</span></span>
+- <span data-ttu-id="1a0ed-919">캐시되지 않은 공유 일정을 검색할 때 검색에서 결과가 반환되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-919">Addresses an issue that caused Search to return no results when searching uncached shared calendars.</span></span>
 
 
-- <span data-ttu-id="5080d-914">다른 사서함에서 공유 폴더를 열 때 대리인이 간헐적으로 오류를 발견하게 한 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-914">Addresses an issue that caused delegates to see intermittent failures when opening shared folders in another mailbox.</span></span>
+- <span data-ttu-id="1a0ed-920">일부 사용자가 예기치 않게 오프라인 상태에서 Outlook이 시작되는 것을 관찰하게 한 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-920">Addresses an issue that caused some users to observe Outlook unexpectedly starting in an offline state.</span></span>
 
 
-### <a name="powerpoint"></a><span data-ttu-id="5080d-915">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="5080d-915">PowerPoint</span></span>
-
-- <span data-ttu-id="5080d-916">제한된 보기에서 PowerPoint 파일을 열 때 IRM 보호를 사용하지 않도록 설정한 문제를 해결하기 위한 보안 수정입니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-916">Security fix to address an issue that disabled IRM protections when opening a PowerPoint file in Protected View.</span></span>
+- <span data-ttu-id="1a0ed-921">다른 사서함에서 공유 폴더를 열 때 대리인이 간헐적으로 오류를 발견하게 한 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-921">Addresses an issue that caused delegates to see intermittent failures when opening shared folders in another mailbox.</span></span>
 
 
-### <a name="office-suite"></a><span data-ttu-id="5080d-917">Office 제품군</span><span class="sxs-lookup"><span data-stu-id="5080d-917">Office Suite</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="1a0ed-922">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="1a0ed-922">PowerPoint</span></span>
 
-- <span data-ttu-id="5080d-918">Office에서 사용자가 잉크젯 프린터로 문서/파일을 인쇄하고 프린터의 잉크가 부족하면, 잉크젯 프린터에 토너가 없더라도 "토너 부족" 또는 "토너 없음" 메시지가 표시됩니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-918">When the user prints any document/file on inkjet printers from Office and printer's ink is low, "Toner Low" or "No Toner" message will show, even though inkjet printers don't have toners.</span></span> <span data-ttu-id="5080d-919">메시지를 변경하여 "토너/잉크 부족" 및 "토너/잉크 없음"으로 표시합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-919">Changing message to display "Toner/ink Low" & "No toner/ink".</span></span>
+- <span data-ttu-id="1a0ed-923">제한된 보기에서 PowerPoint 파일을 열 때 IRM 보호를 사용하지 않도록 설정한 문제를 해결하기 위한 보안 수정입니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-923">Security fix to address an issue that disabled IRM protections when opening a PowerPoint file in Protected View.</span></span>
+
+
+### <a name="office-suite"></a><span data-ttu-id="1a0ed-924">Office 제품군</span><span class="sxs-lookup"><span data-stu-id="1a0ed-924">Office Suite</span></span>
+
+- <span data-ttu-id="1a0ed-925">Office에서 사용자가 잉크젯 프린터로 문서/파일을 인쇄하고 프린터의 잉크가 부족하면, 잉크젯 프린터에 토너가 없더라도 "토너 부족" 또는 "토너 없음" 메시지가 표시됩니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-925">When the user prints any document/file on inkjet printers from Office and printer's ink is low, "Toner Low" or "No Toner" message will show, even though inkjet printers don't have toners.</span></span> <span data-ttu-id="1a0ed-926">메시지를 변경하여 "토너/잉크 부족" 및 "토너/잉크 없음"으로 표시합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-926">Changing message to display "Toner/ink Low" & "No toner/ink".</span></span>
 
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
-## <a name="version-2009-september-26"></a><span data-ttu-id="5080d-921">버전 2009: 9월 26일</span><span class="sxs-lookup"><span data-stu-id="5080d-921">Version 2009: September 26</span></span>
-<span data-ttu-id="5080d-922">*버전 2009(빌드 13231.20262)*</span><span class="sxs-lookup"><span data-stu-id="5080d-922">*Version 2009 (Build 13231.20262)*</span></span>
+## <a name="version-2009-september-26"></a><span data-ttu-id="1a0ed-928">버전 2009: 9월 26일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-928">Version 2009: September 26</span></span>
+<span data-ttu-id="1a0ed-929">*버전 2009(빌드 13231.20262)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-929">*Version 2009 (Build 13231.20262)*</span></span>
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-924">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-924">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="5080d-925">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-925">Outlook</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-931">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-931">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-932">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-932">Outlook</span></span>
 
-- <span data-ttu-id="5080d-926">일부 전자 메일의 제목 줄이 비어있는 경우 일부 자동으로 생성된 전자 메일이 이를 빈 본문과 함께 보내는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-926">Addresses an issue that caused some automatically generated emails to be sent with a blank body when the subject line is blank.</span></span>
+- <span data-ttu-id="1a0ed-933">일부 전자 메일의 제목 줄이 비어있는 경우 일부 자동으로 생성된 전자 메일이 이를 빈 본문과 함께 보내는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-933">Addresses an issue that caused some automatically generated emails to be sent with a blank body when the subject line is blank.</span></span>
 
 
-### <a name="project"></a><span data-ttu-id="5080d-927">Project</span><span class="sxs-lookup"><span data-stu-id="5080d-927">Project</span></span>
+### <a name="project"></a><span data-ttu-id="1a0ed-934">Project</span><span class="sxs-lookup"><span data-stu-id="1a0ed-934">Project</span></span>
 
-- <span data-ttu-id="5080d-928">이벤트 코드를 실행 중이고 작업 폼 보기를 통하여 변경을 하려고 하는 경우, 확인 단추를 클릭하면 변경 내용이 커밋되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-928">Fixed an issue where if you have eventing code running and try to make changes through a Task Form view, clicking the OK button may not commit the changes.</span></span>
+- <span data-ttu-id="1a0ed-935">이벤트 코드를 실행 중이고 작업 폼 보기를 통하여 변경을 하려고 하는 경우, 확인 단추를 클릭하면 변경 내용이 커밋되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-935">Fixed an issue where if you have eventing code running and try to make changes through a Task Form view, clicking the OK button may not commit the changes.</span></span>
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
-## <a name="version-2009-september-21"></a><span data-ttu-id="5080d-930">버전 2009: 9월 21일</span><span class="sxs-lookup"><span data-stu-id="5080d-930">Version 2009: September 21</span></span>
-<span data-ttu-id="5080d-931">*버전 2009(빌드 13231.20200)*</span><span class="sxs-lookup"><span data-stu-id="5080d-931">*Version 2009 (Build 13231.20200)*</span></span>
+## <a name="version-2009-september-21"></a><span data-ttu-id="1a0ed-937">버전 2009: 9월 21일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-937">Version 2009: September 21</span></span>
+<span data-ttu-id="1a0ed-938">*버전 2009(빌드 13231.20200)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-938">*Version 2009 (Build 13231.20200)*</span></span>
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="feature-updates"></a><span data-ttu-id="5080d-933">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="5080d-933">Feature updates</span></span>
-### <a name="access"></a><span data-ttu-id="5080d-934">Access</span><span class="sxs-lookup"><span data-stu-id="5080d-934">Access</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="1a0ed-940">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="1a0ed-940">Feature updates</span></span>
+### <a name="access"></a><span data-ttu-id="1a0ed-941">Access</span><span class="sxs-lookup"><span data-stu-id="1a0ed-941">Access</span></span>
 
-- <span data-ttu-id="5080d-935">**Office 테마를 자동으로 전환:** Office는 Windows 10 테마 설정에 맞게 테마를 자동으로 전환할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-935">**Switch Office themes automatically:** Office can automatically switch themes to match your Windows 10 theme settings.</span></span> <span data-ttu-id="5080d-936">파일 > 옵션으로 이동한 다음 Office 테마 옆에 있는 "시스템 설정 사용"을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-936">Go to File > Options and select "Use system setting" next to Office Theme.</span></span> [<span data-ttu-id="5080d-937">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="5080d-937">Learn more</span></span>](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+- <span data-ttu-id="1a0ed-942">**Office 테마를 자동으로 전환:** Office는 Windows 10 테마 설정에 맞게 테마를 자동으로 전환할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-942">**Switch Office themes automatically:** Office can automatically switch themes to match your Windows 10 theme settings.</span></span> <span data-ttu-id="1a0ed-943">파일 > 옵션으로 이동한 다음 Office 테마 옆에 있는 "시스템 설정 사용"을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-943">Go to File > Options and select "Use system setting" next to Office Theme.</span></span> [<span data-ttu-id="1a0ed-944">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="1a0ed-944">Learn more</span></span>](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
-### <a name="excel"></a><span data-ttu-id="5080d-938">Excel</span><span class="sxs-lookup"><span data-stu-id="5080d-938">Excel</span></span>
+### <a name="excel"></a><span data-ttu-id="1a0ed-945">Excel</span><span class="sxs-lookup"><span data-stu-id="1a0ed-945">Excel</span></span>
 
-- <span data-ttu-id="5080d-939">**Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-939">**Insert your iPhone photos directly into Office:** HEIC pictures from your phone now insert seamlessly into Office.</span></span> <span data-ttu-id="5080d-940">변환할 필요가 없습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-940">No conversion required.</span></span><br /><span data-ttu-id="5080d-941">[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기</span><span class="sxs-lookup"><span data-stu-id="5080d-941">See details in [blog post](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)</span></span>
+- <span data-ttu-id="1a0ed-946">**Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-946">**Insert your iPhone photos directly into Office:** HEIC pictures from your phone now insert seamlessly into Office.</span></span> <span data-ttu-id="1a0ed-947">변환할 필요가 없습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-947">No conversion required.</span></span><br /><span data-ttu-id="1a0ed-948">[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기</span><span class="sxs-lookup"><span data-stu-id="1a0ed-948">See details in [blog post](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)</span></span>
 
-- <span data-ttu-id="5080d-942">**Office 테마를 자동으로 전환:** Office는 Windows 10 테마 설정에 맞게 테마를 자동으로 전환할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-942">**Switch Office themes automatically:** Office can automatically switch themes to match your Windows 10 theme settings.</span></span> <span data-ttu-id="5080d-943">파일 > 옵션으로 이동한 다음 Office 테마 옆에 있는 "시스템 설정 사용"을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-943">Go to File > Options and select "Use system setting" next to Office Theme.</span></span> [<span data-ttu-id="5080d-944">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="5080d-944">Learn more</span></span>](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+- <span data-ttu-id="1a0ed-949">**Office 테마를 자동으로 전환:** Office는 Windows 10 테마 설정에 맞게 테마를 자동으로 전환할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-949">**Switch Office themes automatically:** Office can automatically switch themes to match your Windows 10 theme settings.</span></span> <span data-ttu-id="1a0ed-950">파일 > 옵션으로 이동한 다음 Office 테마 옆에 있는 "시스템 설정 사용"을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-950">Go to File > Options and select "Use system setting" next to Office Theme.</span></span> [<span data-ttu-id="1a0ed-951">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="1a0ed-951">Learn more</span></span>](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
-### <a name="onenote"></a><span data-ttu-id="5080d-945">OneNote</span><span class="sxs-lookup"><span data-stu-id="5080d-945">OneNote</span></span>
+### <a name="onenote"></a><span data-ttu-id="1a0ed-952">OneNote</span><span class="sxs-lookup"><span data-stu-id="1a0ed-952">OneNote</span></span>
 
-- <span data-ttu-id="5080d-946">**Office 테마를 자동으로 전환:** Office는 Windows 10 테마 설정에 맞게 테마를 자동으로 전환할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-946">**Switch Office themes automatically:** Office can automatically switch themes to match your Windows 10 theme settings.</span></span> <span data-ttu-id="5080d-947">파일 > 옵션으로 이동한 다음 Office 테마 옆에 있는 "시스템 설정 사용"을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-947">Go to File > Options and select "Use system setting" next to Office Theme.</span></span> [<span data-ttu-id="5080d-948">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="5080d-948">Learn more</span></span>](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+- <span data-ttu-id="1a0ed-953">**Office 테마를 자동으로 전환:** Office는 Windows 10 테마 설정에 맞게 테마를 자동으로 전환할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-953">**Switch Office themes automatically:** Office can automatically switch themes to match your Windows 10 theme settings.</span></span> <span data-ttu-id="1a0ed-954">파일 > 옵션으로 이동한 다음 Office 테마 옆에 있는 "시스템 설정 사용"을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-954">Go to File > Options and select "Use system setting" next to Office Theme.</span></span> [<span data-ttu-id="1a0ed-955">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="1a0ed-955">Learn more</span></span>](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
-### <a name="outlook"></a><span data-ttu-id="5080d-949">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-949">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-956">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-956">Outlook</span></span>
 
-- <span data-ttu-id="5080d-950">**메시지 소유자별 대화 삭제:** 소유자별로 메시지를 삭제할 수 있도록 하는 기능입니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-950">**Delete conversation by message owner:** This feature allows you to delete a conversation by message owner.</span></span>
+- <span data-ttu-id="1a0ed-957">**메시지 소유자별 대화 삭제:** 소유자별로 메시지를 삭제할 수 있도록 하는 기능입니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-957">**Delete conversation by message owner:** This feature allows you to delete a conversation by message owner.</span></span>
 
-- <span data-ttu-id="5080d-951">**Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-951">**Insert your iPhone photos directly into Office:** HEIC pictures from your phone now insert seamlessly into Office.</span></span> <span data-ttu-id="5080d-952">변환할 필요가 없습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-952">No conversion required.</span></span><br /><span data-ttu-id="5080d-953">[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기</span><span class="sxs-lookup"><span data-stu-id="5080d-953">See details in [blog post](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)</span></span>
+- <span data-ttu-id="1a0ed-958">**Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-958">**Insert your iPhone photos directly into Office:** HEIC pictures from your phone now insert seamlessly into Office.</span></span> <span data-ttu-id="1a0ed-959">변환할 필요가 없습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-959">No conversion required.</span></span><br /><span data-ttu-id="1a0ed-960">[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기</span><span class="sxs-lookup"><span data-stu-id="1a0ed-960">See details in [blog post](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)</span></span>
 
-- <span data-ttu-id="5080d-954">**Office 테마를 자동으로 전환:** Office는 Windows 10 테마 설정에 맞게 테마를 자동으로 전환할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-954">**Switch Office themes automatically:** Office can automatically switch themes to match your Windows 10 theme settings.</span></span> <span data-ttu-id="5080d-955">파일 > 옵션으로 이동한 다음 Office 테마 옆에 있는 "시스템 설정 사용"을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-955">Go to File > Options and select "Use system setting" next to Office Theme.</span></span> [<span data-ttu-id="5080d-956">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="5080d-956">Learn more</span></span>](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+- <span data-ttu-id="1a0ed-961">**Office 테마를 자동으로 전환:** Office는 Windows 10 테마 설정에 맞게 테마를 자동으로 전환할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-961">**Switch Office themes automatically:** Office can automatically switch themes to match your Windows 10 theme settings.</span></span> <span data-ttu-id="1a0ed-962">파일 > 옵션으로 이동한 다음 Office 테마 옆에 있는 "시스템 설정 사용"을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-962">Go to File > Options and select "Use system setting" next to Office Theme.</span></span> [<span data-ttu-id="1a0ed-963">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="1a0ed-963">Learn more</span></span>](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
-### <a name="powerpoint"></a><span data-ttu-id="5080d-957">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="5080d-957">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="1a0ed-964">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="1a0ed-964">PowerPoint</span></span>
 
-- <span data-ttu-id="5080d-958">**Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-958">**Insert your iPhone photos directly into Office:** HEIC pictures from your phone now insert seamlessly into Office.</span></span> <span data-ttu-id="5080d-959">변환할 필요가 없습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-959">No conversion required.</span></span><br /><span data-ttu-id="5080d-960">[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기</span><span class="sxs-lookup"><span data-stu-id="5080d-960">See details in [blog post](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)</span></span>
+- <span data-ttu-id="1a0ed-965">**Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-965">**Insert your iPhone photos directly into Office:** HEIC pictures from your phone now insert seamlessly into Office.</span></span> <span data-ttu-id="1a0ed-966">변환할 필요가 없습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-966">No conversion required.</span></span><br /><span data-ttu-id="1a0ed-967">[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기</span><span class="sxs-lookup"><span data-stu-id="1a0ed-967">See details in [blog post](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)</span></span>
 
-- <span data-ttu-id="5080d-961">**Office 테마를 자동으로 전환:** Office는 Windows 10 테마 설정에 맞게 테마를 자동으로 전환할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-961">**Switch Office themes automatically:** Office can automatically switch themes to match your Windows 10 theme settings.</span></span> <span data-ttu-id="5080d-962">파일 > 옵션으로 이동한 다음 Office 테마 옆에 있는 "시스템 설정 사용"을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-962">Go to File > Options and select "Use system setting" next to Office Theme.</span></span> [<span data-ttu-id="5080d-963">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="5080d-963">Learn more</span></span>](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+- <span data-ttu-id="1a0ed-968">**Office 테마를 자동으로 전환:** Office는 Windows 10 테마 설정에 맞게 테마를 자동으로 전환할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-968">**Switch Office themes automatically:** Office can automatically switch themes to match your Windows 10 theme settings.</span></span> <span data-ttu-id="1a0ed-969">파일 > 옵션으로 이동한 다음 Office 테마 옆에 있는 "시스템 설정 사용"을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-969">Go to File > Options and select "Use system setting" next to Office Theme.</span></span> [<span data-ttu-id="1a0ed-970">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="1a0ed-970">Learn more</span></span>](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
-### <a name="project"></a><span data-ttu-id="5080d-964">Project</span><span class="sxs-lookup"><span data-stu-id="5080d-964">Project</span></span>
+### <a name="project"></a><span data-ttu-id="1a0ed-971">Project</span><span class="sxs-lookup"><span data-stu-id="1a0ed-971">Project</span></span>
 
-- <span data-ttu-id="5080d-965">**Office 테마를 자동으로 전환:** Office는 Windows 10 테마 설정에 맞게 테마를 자동으로 전환할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-965">**Switch Office themes automatically:** Office can automatically switch themes to match your Windows 10 theme settings.</span></span> <span data-ttu-id="5080d-966">파일 > 옵션으로 이동한 다음 Office 테마 옆에 있는 "시스템 설정 사용"을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-966">Go to File > Options and select "Use system setting" next to Office Theme.</span></span> [<span data-ttu-id="5080d-967">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="5080d-967">Learn more</span></span>](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+- <span data-ttu-id="1a0ed-972">**Office 테마를 자동으로 전환:** Office는 Windows 10 테마 설정에 맞게 테마를 자동으로 전환할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-972">**Switch Office themes automatically:** Office can automatically switch themes to match your Windows 10 theme settings.</span></span> <span data-ttu-id="1a0ed-973">파일 > 옵션으로 이동한 다음 Office 테마 옆에 있는 "시스템 설정 사용"을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-973">Go to File > Options and select "Use system setting" next to Office Theme.</span></span> [<span data-ttu-id="1a0ed-974">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="1a0ed-974">Learn more</span></span>](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
-### <a name="publisher"></a><span data-ttu-id="5080d-968">게시자</span><span class="sxs-lookup"><span data-stu-id="5080d-968">Publisher</span></span>
+### <a name="publisher"></a><span data-ttu-id="1a0ed-975">게시자</span><span class="sxs-lookup"><span data-stu-id="1a0ed-975">Publisher</span></span>
 
-- <span data-ttu-id="5080d-969">**Office 테마를 자동으로 전환:** Office는 Windows 10 테마 설정에 맞게 테마를 자동으로 전환할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-969">**Switch Office themes automatically:** Office can automatically switch themes to match your Windows 10 theme settings.</span></span> <span data-ttu-id="5080d-970">파일 > 옵션으로 이동한 다음 Office 테마 옆에 있는 "시스템 설정 사용"을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-970">Go to File > Options and select "Use system setting" next to Office Theme.</span></span> [<span data-ttu-id="5080d-971">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="5080d-971">Learn more</span></span>](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+- <span data-ttu-id="1a0ed-976">**Office 테마를 자동으로 전환:** Office는 Windows 10 테마 설정에 맞게 테마를 자동으로 전환할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-976">**Switch Office themes automatically:** Office can automatically switch themes to match your Windows 10 theme settings.</span></span> <span data-ttu-id="1a0ed-977">파일 > 옵션으로 이동한 다음 Office 테마 옆에 있는 "시스템 설정 사용"을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-977">Go to File > Options and select "Use system setting" next to Office Theme.</span></span> [<span data-ttu-id="1a0ed-978">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="1a0ed-978">Learn more</span></span>](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
-### <a name="visio"></a><span data-ttu-id="5080d-972">Visio</span><span class="sxs-lookup"><span data-stu-id="5080d-972">Visio</span></span>
+### <a name="visio"></a><span data-ttu-id="1a0ed-979">Visio</span><span class="sxs-lookup"><span data-stu-id="1a0ed-979">Visio</span></span>
 
-- <span data-ttu-id="5080d-973">**Office 테마를 자동으로 전환:** Office는 Windows 10 테마 설정에 맞게 테마를 자동으로 전환할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-973">**Switch Office themes automatically:** Office can automatically switch themes to match your Windows 10 theme settings.</span></span> <span data-ttu-id="5080d-974">파일 > 옵션으로 이동한 다음 Office 테마 옆에 있는 "시스템 설정 사용"을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-974">Go to File > Options and select "Use system setting" next to Office Theme.</span></span> [<span data-ttu-id="5080d-975">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="5080d-975">Learn more</span></span>](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+- <span data-ttu-id="1a0ed-980">**Office 테마를 자동으로 전환:** Office는 Windows 10 테마 설정에 맞게 테마를 자동으로 전환할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-980">**Switch Office themes automatically:** Office can automatically switch themes to match your Windows 10 theme settings.</span></span> <span data-ttu-id="1a0ed-981">파일 > 옵션으로 이동한 다음 Office 테마 옆에 있는 "시스템 설정 사용"을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-981">Go to File > Options and select "Use system setting" next to Office Theme.</span></span> [<span data-ttu-id="1a0ed-982">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="1a0ed-982">Learn more</span></span>](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
-### <a name="word"></a><span data-ttu-id="5080d-976">Word</span><span class="sxs-lookup"><span data-stu-id="5080d-976">Word</span></span>
+### <a name="word"></a><span data-ttu-id="1a0ed-983">Word</span><span class="sxs-lookup"><span data-stu-id="1a0ed-983">Word</span></span>
 
-- <span data-ttu-id="5080d-977">**Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-977">**Insert your iPhone photos directly into Office:** HEIC pictures from your phone now insert seamlessly into Office.</span></span> <span data-ttu-id="5080d-978">변환할 필요가 없습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-978">No conversion required.</span></span><br /><span data-ttu-id="5080d-979">[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기</span><span class="sxs-lookup"><span data-stu-id="5080d-979">See details in [blog post](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)</span></span>
+- <span data-ttu-id="1a0ed-984">**Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-984">**Insert your iPhone photos directly into Office:** HEIC pictures from your phone now insert seamlessly into Office.</span></span> <span data-ttu-id="1a0ed-985">변환할 필요가 없습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-985">No conversion required.</span></span><br /><span data-ttu-id="1a0ed-986">[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기</span><span class="sxs-lookup"><span data-stu-id="1a0ed-986">See details in [blog post](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)</span></span>
 
-- <span data-ttu-id="5080d-980">**Office 테마를 자동으로 전환:** Office는 Windows 10 테마 설정에 맞게 테마를 자동으로 전환할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-980">**Switch Office themes automatically:** Office can automatically switch themes to match your Windows 10 theme settings.</span></span> <span data-ttu-id="5080d-981">파일 > 옵션으로 이동한 다음 Office 테마 옆에 있는 "시스템 설정 사용"을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-981">Go to File > Options and select "Use system setting" next to Office Theme.</span></span> [<span data-ttu-id="5080d-982">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="5080d-982">Learn more</span></span>](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+- <span data-ttu-id="1a0ed-987">**Office 테마를 자동으로 전환:** Office는 Windows 10 테마 설정에 맞게 테마를 자동으로 전환할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-987">**Switch Office themes automatically:** Office can automatically switch themes to match your Windows 10 theme settings.</span></span> <span data-ttu-id="1a0ed-988">파일 > 옵션으로 이동한 다음 Office 테마 옆에 있는 "시스템 설정 사용"을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-988">Go to File > Options and select "Use system setting" next to Office Theme.</span></span> [<span data-ttu-id="1a0ed-989">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="1a0ed-989">Learn more</span></span>](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -1860,18 +1870,18 @@ ms.locfileid: "51749066"
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-985">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-985">Resolved issues</span></span>
-### <a name="powerpoint"></a><span data-ttu-id="5080d-986">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="5080d-986">PowerPoint</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-992">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-992">Resolved issues</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="1a0ed-993">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="1a0ed-993">PowerPoint</span></span>
 
-- <span data-ttu-id="5080d-987">많은 수의 특정 데이터 개체 유형(E2o)이 포함된 파일에서 공동 작성 속도가 느려지는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-987">Fixed an issue causing slow coauthoring on files containing large numbers of a certain data object type (E2o).</span></span>
+- <span data-ttu-id="1a0ed-994">많은 수의 특정 데이터 개체 유형(E2o)이 포함된 파일에서 공동 작성 속도가 느려지는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-994">Fixed an issue causing slow coauthoring on files containing large numbers of a certain data object type (E2o).</span></span>
 
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
-## <a name="version-2009-september-14"></a><span data-ttu-id="5080d-989">버전 2009: 9월 14일</span><span class="sxs-lookup"><span data-stu-id="5080d-989">Version 2009: September 14</span></span>
-<span data-ttu-id="5080d-990">*버전 2009(빌드 13231.20152)*</span><span class="sxs-lookup"><span data-stu-id="5080d-990">*Version 2009 (Build 13231.20152)*</span></span>
-* <span data-ttu-id="5080d-991">다양한 버그 및 성능 수정 사항.</span><span class="sxs-lookup"><span data-stu-id="5080d-991">Various bugs and performance fixes.</span></span>
+## <a name="version-2009-september-14"></a><span data-ttu-id="1a0ed-996">버전 2009: 9월 14일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-996">Version 2009: September 14</span></span>
+<span data-ttu-id="1a0ed-997">*버전 2009(빌드 13231.20152)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-997">*Version 2009 (Build 13231.20152)*</span></span>
+* <span data-ttu-id="1a0ed-998">다양한 버그 및 성능 수정 사항.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-998">Various bugs and performance fixes.</span></span>
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -1879,188 +1889,188 @@ ms.locfileid: "51749066"
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
-## <a name="version-2009-september-10"></a><span data-ttu-id="5080d-994">버전 2009: 9월 10일</span><span class="sxs-lookup"><span data-stu-id="5080d-994">Version 2009: September 10</span></span>
-<span data-ttu-id="5080d-995">*버전 2009(빌드 13231.20126)*</span><span class="sxs-lookup"><span data-stu-id="5080d-995">*Version 2009 (Build 13231.20126)*</span></span>
+## <a name="version-2009-september-10"></a><span data-ttu-id="1a0ed-1001">버전 2009: 9월 10일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1001">Version 2009: September 10</span></span>
+<span data-ttu-id="1a0ed-1002">*버전 2009(빌드 13231.20126)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1002">*Version 2009 (Build 13231.20126)*</span></span>
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-997">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-997">Resolved issues</span></span>
-### <a name="access"></a><span data-ttu-id="5080d-998">Access</span><span class="sxs-lookup"><span data-stu-id="5080d-998">Access</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-1004">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1004">Resolved issues</span></span>
+### <a name="access"></a><span data-ttu-id="1a0ed-1005">Access</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1005">Access</span></span>
 
-- <span data-ttu-id="5080d-999">이제 이 문제는 해결되었으며, 더이상 충돌이 발생하지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-999">This issue has now been resolved and you should no longer experience a crash.</span></span>
+- <span data-ttu-id="1a0ed-1006">이제 이 문제는 해결되었으며, 더이상 충돌이 발생하지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1006">This issue has now been resolved and you should no longer experience a crash.</span></span>
 
 
-- <span data-ttu-id="5080d-1000">ODBC 데이터베이스 연결이 타사 응용 프로그램과 작동하지 않는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1000">We fixed an issue where connections to an ODBC database were not working with third party applications.</span></span>
+- <span data-ttu-id="1a0ed-1007">ODBC 데이터베이스 연결이 타사 응용 프로그램과 작동하지 않는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1007">We fixed an issue where connections to an ODBC database were not working with third party applications.</span></span>
 
 
-### <a name="excel"></a><span data-ttu-id="5080d-1001">Excel</span><span class="sxs-lookup"><span data-stu-id="5080d-1001">Excel</span></span>
+### <a name="excel"></a><span data-ttu-id="1a0ed-1008">Excel</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1008">Excel</span></span>
 
-- <span data-ttu-id="5080d-1002">LET 기능이 포함된 파일을 열면 다음과 같은 경고가 표시되는 문제를 해결: ““your file.xlsx”의 콘텐츠에서 문제를 발견했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1002">We fixed an issue where if you opened a file containing the LET function, it would display the alert:  "We found a problem with content in "your file.xlsx".</span></span> <span data-ttu-id="5080d-1003">가능한 많은 복구를 원하십니까?</span><span class="sxs-lookup"><span data-stu-id="5080d-1003">Do you want us to try to recover as much as we can?</span></span> <span data-ttu-id="5080d-1004">이 통합 문서의 원본을 신뢰하는 경우 "예"를 클릭하세요”.</span><span class="sxs-lookup"><span data-stu-id="5080d-1004">If you trust the source of this workbook, click Yes".</span></span>
+- <span data-ttu-id="1a0ed-1009">LET 기능이 포함된 파일을 열면 다음과 같은 경고가 표시되는 문제를 해결: ““your file.xlsx”의 콘텐츠에서 문제를 발견했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1009">We fixed an issue where if you opened a file containing the LET function, it would display the alert:  "We found a problem with content in "your file.xlsx".</span></span> <span data-ttu-id="1a0ed-1010">가능한 많은 복구를 원하십니까?</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1010">Do you want us to try to recover as much as we can?</span></span> <span data-ttu-id="1a0ed-1011">이 통합 문서의 원본을 신뢰하는 경우 "예"를 클릭하세요”.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1011">If you trust the source of this workbook, click Yes".</span></span>
 
 
-- <span data-ttu-id="5080d-1005">사용자가 F1을 통해 괄호 및 호출된 도움말을 포함한 수식 이름을 입력하면 해당 수식에 대한 도움말 항목이 표시되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1005">We fixed an issue where if a user typed a formula name including the parenthesis and invoked help via F1, the help topic specific to that formula would not be displayed.</span></span>
+- <span data-ttu-id="1a0ed-1012">사용자가 F1을 통해 괄호 및 호출된 도움말을 포함한 수식 이름을 입력하면 해당 수식에 대한 도움말 항목이 표시되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1012">We fixed an issue where if a user typed a formula name including the parenthesis and invoked help via F1, the help topic specific to that formula would not be displayed.</span></span>
 
 
-- <span data-ttu-id="5080d-1006">차트 데이터 시트가 활성 시트면 범위에 FormulaR1C1 속성 설정에 매크로를 사용할 때 셀 참조가 부정확한 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1006">We fixed an issue where using a macro to set the FormulaR1C1 property for a range, the cell references would be incorrect if a chart sheet was the active sheet.</span></span>
+- <span data-ttu-id="1a0ed-1013">차트 데이터 시트가 활성 시트면 범위에 FormulaR1C1 속성 설정에 매크로를 사용할 때 셀 참조가 부정확한 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1013">We fixed an issue where using a macro to set the FormulaR1C1 property for a range, the cell references would be incorrect if a chart sheet was the active sheet.</span></span>
 
 
-- <span data-ttu-id="5080d-1007">사용자가 Analysis Services 데이터베이스에 존재하지 않는 값으로 설정하였기 때문에 피벗 테이블 필터를 수정할 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1007">We fixed an issue where users could not modify a PivotTable filter because it was set to a value that was no longer present in an Analysis Services database.</span></span>
+- <span data-ttu-id="1a0ed-1014">사용자가 Analysis Services 데이터베이스에 존재하지 않는 값으로 설정하였기 때문에 피벗 테이블 필터를 수정할 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1014">We fixed an issue where users could not modify a PivotTable filter because it was set to a value that was no longer present in an Analysis Services database.</span></span>
 
 
-- <span data-ttu-id="5080d-1008">XLAM 추가 기능 참조 및 명명된 범위와 관련된 충돌을 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1008">Fixed a crash related to XLAM add-in references and named ranges.</span></span>
+- <span data-ttu-id="1a0ed-1015">XLAM 추가 기능 참조 및 명명된 범위와 관련된 충돌을 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1015">Fixed a crash related to XLAM add-in references and named ranges.</span></span>
 
 
-- <span data-ttu-id="5080d-1009">사용자가 동적 배열에 사용자 지정 스타일을 적용한 경우 "배열의 일부를 변경할 수 없습니다"라는 오류가 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1009">We fixed an issue where if a user applied a custom style to a dynamic array, they would get the error: "You can't change part of an array".</span></span> <span data-ttu-id="5080d-1010">이는 제거된 레거시 제한 사항입니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1010">This was a legacy restriction that has been removed.</span></span>
+- <span data-ttu-id="1a0ed-1016">사용자가 동적 배열에 사용자 지정 스타일을 적용한 경우 "배열의 일부를 변경할 수 없습니다"라는 오류가 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1016">We fixed an issue where if a user applied a custom style to a dynamic array, they would get the error: "You can't change part of an array".</span></span> <span data-ttu-id="1a0ed-1017">이는 제거된 레거시 제한 사항입니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1017">This was a legacy restriction that has been removed.</span></span>
 
 
-- <span data-ttu-id="5080d-1011">이전 버전의 파일을 복원한 후 단추에 할당된 매크로가 손상된 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1011">Fixed an issue where macros assigned to buttons were broken after restoring an older version of the file.</span></span>
+- <span data-ttu-id="1a0ed-1018">이전 버전의 파일을 복원한 후 단추에 할당된 매크로가 손상된 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1018">Fixed an issue where macros assigned to buttons were broken after restoring an older version of the file.</span></span>
 
 
-- <span data-ttu-id="5080d-1012">잉크 입력으로 인해 Excel이 응답하지 않을 수 있는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1012">We fixed an issue where inking could cause Excel to become unresponsive.</span></span>
+- <span data-ttu-id="1a0ed-1019">잉크 입력으로 인해 Excel이 응답하지 않을 수 있는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1019">We fixed an issue where inking could cause Excel to become unresponsive.</span></span>
 
 
-### <a name="outlook"></a><span data-ttu-id="5080d-1013">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-1013">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-1020">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1020">Outlook</span></span>
 
-- <span data-ttu-id="5080d-1014">그룹 정책을 통해 기본 로깅 옵션을 사용/사용 안 함 설정하는 것에 더 많은 유연성을 제공하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1014">We fixed an issue which provides more flexibility in enabling / disabling the default logging options via Group Policy.</span></span>
+- <span data-ttu-id="1a0ed-1021">그룹 정책을 통해 기본 로깅 옵션을 사용/사용 안 함 설정하는 것에 더 많은 유연성을 제공하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1021">We fixed an issue which provides more flexibility in enabling / disabling the default logging options via Group Policy.</span></span>
 
 
-- <span data-ttu-id="5080d-1015">도우미 사용 권한 및 관리자 권한으로 전자 메일 초안이 사서함 간에 이동한 후에 전자 메일 보낸 사람의 레거시 도메인 이름이 유지되고 표시되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1015">We fixed an issue where the Legacy Domain Name for an email sender was preserved and displayed after a draft of the email was moved between mailboxes with assistant permissions and manager permissions.</span></span>
+- <span data-ttu-id="1a0ed-1022">도우미 사용 권한 및 관리자 권한으로 전자 메일 초안이 사서함 간에 이동한 후에 전자 메일 보낸 사람의 레거시 도메인 이름이 유지되고 표시되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1022">We fixed an issue where the Legacy Domain Name for an email sender was preserved and displayed after a draft of the email was moved between mailboxes with assistant permissions and manager permissions.</span></span>
 
 
-- <span data-ttu-id="5080d-1016">일부 사용자가 온라인으로 작업하기 위해 수동으로 선택할 때까지 Outlook이 오프라인 상태에서 시작하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1016">Fixes an issue that caused some users to see Outlook to start in an Offline state until they manually chose to work online.</span></span>
+- <span data-ttu-id="1a0ed-1023">일부 사용자가 온라인으로 작업하기 위해 수동으로 선택할 때까지 Outlook이 오프라인 상태에서 시작하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1023">Fixes an issue that caused some users to see Outlook to start in an Offline state until they manually chose to work online.</span></span>
 
 
-- <span data-ttu-id="5080d-1017">SLR(Single Line Ribbon)을 사용한 후에 VBA 코드 ActiveInspector.CommandBars.ExecuteMso("ShowSchedulingPage")를 실행할 때 런타임 오류가 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1017">We fixed an issue where running the VBA code ActiveInspector.CommandBars.ExecuteMso("ShowSchedulingPage") after enabling the Single Line Ribbon (SLR) would result in a runtime error.</span></span>
+- <span data-ttu-id="1a0ed-1024">SLR(Single Line Ribbon)을 사용한 후에 VBA 코드 ActiveInspector.CommandBars.ExecuteMso("ShowSchedulingPage")를 실행할 때 런타임 오류가 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1024">We fixed an issue where running the VBA code ActiveInspector.CommandBars.ExecuteMso("ShowSchedulingPage") after enabling the Single Line Ribbon (SLR) would result in a runtime error.</span></span>
 
 
-- <span data-ttu-id="5080d-1018">고 해상도(예: 1750 x 1920)와 큰 텍스트 크기(예: 175%)가 결합된 시스템에서 자동 회신 대화 상자의 ‘확인’ 및 ‘취소’ 단추가 보이지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1018">We fixed an issue where the 'OK' and 'Cancel' buttons on the Automatic Replies dialog would not be visible on a system with a high resolution (such as 1750 x 1920) combined with a large text size (such as 175%).</span></span>
+- <span data-ttu-id="1a0ed-1025">고 해상도(예: 1750 x 1920)와 큰 텍스트 크기(예: 175%)가 결합된 시스템에서 자동 회신 대화 상자의 ‘확인’ 및 ‘취소’ 단추가 보이지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1025">We fixed an issue where the 'OK' and 'Cancel' buttons on the Automatic Replies dialog would not be visible on a system with a high resolution (such as 1750 x 1920) combined with a large text size (such as 175%).</span></span>
 
 
-- <span data-ttu-id="5080d-1019">빈 연락처 그룹에서 다른 연락처 그룹으로 모임 요청을 보내는 경우 충돌이 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1019">We fixed a condition where sending a meeting request from an empty contact group to another contact group would result in a crash.</span></span>
+- <span data-ttu-id="1a0ed-1026">빈 연락처 그룹에서 다른 연락처 그룹으로 모임 요청을 보내는 경우 충돌이 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1026">We fixed a condition where sending a meeting request from an empty contact group to another contact group would result in a crash.</span></span>
 
 
-- <span data-ttu-id="5080d-1020">사용자가 크기가 큰 특정 전자 메일을 열 때 충돌이 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1020">Fixes an issue that caused users to experience a crash when opening certain very large emails.</span></span>
+- <span data-ttu-id="1a0ed-1027">사용자가 크기가 큰 특정 전자 메일을 열 때 충돌이 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1027">Fixes an issue that caused users to experience a crash when opening certain very large emails.</span></span>
 
 
-- <span data-ttu-id="5080d-1021">그룹 정책에서 추가 기능을 항상 사용하도록 설정해야하는 경우, 사용자가 추가 기능을 사용하지 못하는 것을 방지하기 위해 추가 기능을 모니터링 할 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1021">We fixed an issue where if Group Policy requires an Add-in to be always enabled, then monitoring add-in's becomes unavailable in order to prevent users from disabling the Add-in.</span></span>
+- <span data-ttu-id="1a0ed-1028">그룹 정책에서 추가 기능을 항상 사용하도록 설정해야하는 경우, 사용자가 추가 기능을 사용하지 못하는 것을 방지하기 위해 추가 기능을 모니터링 할 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1028">We fixed an issue where if Group Policy requires an Add-in to be always enabled, then monitoring add-in's becomes unavailable in order to prevent users from disabling the Add-in.</span></span>
 
 
-- <span data-ttu-id="5080d-1022">사용자가 둘 이상의 메시지를 선택할 때 OneNote에 "전달 금지"정책이 적용된 전자 메일 콘텐츠를 보낼 수 있게 되는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1022">Addresses an issue that caused users to be able to send email content that had a "Do Not Forward" policy applied to OneNote when selecting more than one message.</span></span>
+- <span data-ttu-id="1a0ed-1029">사용자가 둘 이상의 메시지를 선택할 때 OneNote에 "전달 금지"정책이 적용된 전자 메일 콘텐츠를 보낼 수 있게 되는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1029">Addresses an issue that caused users to be able to send email content that had a "Do Not Forward" policy applied to OneNote when selecting more than one message.</span></span>
 
 
-- <span data-ttu-id="5080d-1023">이제 다른 Office 애플리케이션 사용을 비활성화할 필요 없이 Outlook용 IRM(정보 권한 관리)를 사용을 비활성화할 수 있도록 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1023">We fixed an issue where users can now disable IRM (Information Rights Management) for Outlook without having to disable it for the rest of the Office applications.</span></span>
+- <span data-ttu-id="1a0ed-1030">이제 다른 Office 애플리케이션 사용을 비활성화할 필요 없이 Outlook용 IRM(정보 권한 관리)를 사용을 비활성화할 수 있도록 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1030">We fixed an issue where users can now disable IRM (Information Rights Management) for Outlook without having to disable it for the rest of the Office applications.</span></span>
 
 
-- <span data-ttu-id="5080d-1024">"otherTelephone" 및 "otherHomePhone"에 대한 Active Directory의 사용자 계정 특성이 해당 Outlook LDAP 특성에 매핑되지 않은 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1024">We fixed an issue where the user account attributes in Active Directory for "otherTelephone" and "otherHomePhone" were not mapped to the corresponding Outlook LDAP attributes.</span></span>
+- <span data-ttu-id="1a0ed-1031">"otherTelephone" 및 "otherHomePhone"에 대한 Active Directory의 사용자 계정 특성이 해당 Outlook LDAP 특성에 매핑되지 않은 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1031">We fixed an issue where the user account attributes in Active Directory for "otherTelephone" and "otherHomePhone" were not mapped to the corresponding Outlook LDAP attributes.</span></span>
 
 
-- <span data-ttu-id="5080d-1025">이렇게 변경하면 사용자가 모임 페이지에서 스케줄링 길잡이 페이지로 탭을 전환한 후에도 미팅 페이지가 계속 표시되는 문제가 해결됩니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1025">This change fixes an issue where the Meeting page would continue to be displayed after the user switched tabs from the Meeting page to the Scheduling Assistant page.</span></span>
+- <span data-ttu-id="1a0ed-1032">이렇게 변경하면 사용자가 모임 페이지에서 스케줄링 길잡이 페이지로 탭을 전환한 후에도 미팅 페이지가 계속 표시되는 문제가 해결됩니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1032">This change fixes an issue where the Meeting page would continue to be displayed after the user switched tabs from the Meeting page to the Scheduling Assistant page.</span></span>
 
 
-### <a name="powerpoint"></a><span data-ttu-id="5080d-1026">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="5080d-1026">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="1a0ed-1033">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1033">PowerPoint</span></span>
 
-- <span data-ttu-id="5080d-1027">사용자에게 특정 조건에 따라 표시되지 않는 리본/제목 표시줄이 표시되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1027">We fixed an issue where users were seeing the ribbon/title bar not being displayed under certain conditions.</span></span>
+- <span data-ttu-id="1a0ed-1034">사용자에게 특정 조건에 따라 표시되지 않는 리본/제목 표시줄이 표시되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1034">We fixed an issue where users were seeing the ribbon/title bar not being displayed under certain conditions.</span></span>
 
 
-- <span data-ttu-id="5080d-1028">PowerPoint를 부팅한 후 슬라이드를 삽입하고 메모 창을 열고 닫으면 축소판 그림 창의 슬라이드가 겹치는 상태로 표시되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1028">We fixed an issue where after booting PowerPoint, inserting a slide and opening and closing the comments pane, the slides in the thumbnail pane displayed as being overlapped.</span></span>
+- <span data-ttu-id="1a0ed-1035">PowerPoint를 부팅한 후 슬라이드를 삽입하고 메모 창을 열고 닫으면 축소판 그림 창의 슬라이드가 겹치는 상태로 표시되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1035">We fixed an issue where after booting PowerPoint, inserting a slide and opening and closing the comments pane, the slides in the thumbnail pane displayed as being overlapped.</span></span>
 
 
-- <span data-ttu-id="5080d-1029">비디오 삽입 기능이 사용하지 않도록 설정되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1029">We fixed an issue where the functionality to insert a video was disabled.</span></span>
+- <span data-ttu-id="1a0ed-1036">비디오 삽입 기능이 사용하지 않도록 설정되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1036">We fixed an issue where the functionality to insert a video was disabled.</span></span>
 
 
-- <span data-ttu-id="5080d-1030">슬라이드 쇼에서 비디오가 자동으로 재생되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1030">We fixed an issue where videos were not playing automatically in slideshows.</span></span>
+- <span data-ttu-id="1a0ed-1037">슬라이드 쇼에서 비디오가 자동으로 재생되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1037">We fixed an issue where videos were not playing automatically in slideshows.</span></span>
 
 
-### <a name="project"></a><span data-ttu-id="5080d-1031">Project</span><span class="sxs-lookup"><span data-stu-id="5080d-1031">Project</span></span>
+### <a name="project"></a><span data-ttu-id="1a0ed-1038">Project</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1038">Project</span></span>
 
-- <span data-ttu-id="5080d-1032">리소스에 여러 비용 테이블이 있는 경우 남은 비용이 제대로 계산되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1032">We fixed an issue where if a resource has multiple cost rate tables, the remaining cost may not be calculated correctly.</span></span>
+- <span data-ttu-id="1a0ed-1039">리소스에 여러 비용 테이블이 있는 경우 남은 비용이 제대로 계산되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1039">We fixed an issue where if a resource has multiple cost rate tables, the remaining cost may not be calculated correctly.</span></span>
 
 
-- <span data-ttu-id="5080d-1033">SharePoint 작업 목록에 연결된 프로젝트에 대해 프로젝트 완료 날짜가 업데이트되지 않는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1033">We fixed an issue where the Project finish date isn't getting updated for projects connected to SharePoint tasks list.</span></span>
+- <span data-ttu-id="1a0ed-1040">SharePoint 작업 목록에 연결된 프로젝트에 대해 프로젝트 완료 날짜가 업데이트되지 않는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1040">We fixed an issue where the Project finish date isn't getting updated for projects connected to SharePoint tasks list.</span></span>
 
 
-### <a name="visio"></a><span data-ttu-id="5080d-1034">Visio</span><span class="sxs-lookup"><span data-stu-id="5080d-1034">Visio</span></span>
+### <a name="visio"></a><span data-ttu-id="1a0ed-1041">Visio</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1041">Visio</span></span>
 
-- <span data-ttu-id="5080d-1035">실시간 미리 보기가 텍스트 맞춤에서 충돌하여 고객으로부터 보고되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1035">Live preview crashes on text alignment reported by customers.</span></span> <span data-ttu-id="5080d-1036">7월 포크에 대한 최고 적중 횟수입니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1036">Top hitting crash of July fork.</span></span>
+- <span data-ttu-id="1a0ed-1042">실시간 미리 보기가 텍스트 맞춤에서 충돌하여 고객으로부터 보고되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1042">Live preview crashes on text alignment reported by customers.</span></span> <span data-ttu-id="1a0ed-1043">7월 포크에 대한 최고 적중 횟수입니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1043">Top hitting crash of July fork.</span></span>
 
 
-### <a name="word"></a><span data-ttu-id="5080d-1037">Word</span><span class="sxs-lookup"><span data-stu-id="5080d-1037">Word</span></span>
+### <a name="word"></a><span data-ttu-id="1a0ed-1044">Word</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1044">Word</span></span>
 
-- <span data-ttu-id="5080d-1038">사용자가 메모를 클릭한 경우 메모 카드가 메모 텍스트 주위에 테두리를 표시하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1038">We fixed an issue where the Comment card would display a border around the comment text if the user clicked on the comment.</span></span>
+- <span data-ttu-id="1a0ed-1045">사용자가 메모를 클릭한 경우 메모 카드가 메모 텍스트 주위에 테두리를 표시하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1045">We fixed an issue where the Comment card would display a border around the comment text if the user clicked on the comment.</span></span>
 
 
-- <span data-ttu-id="5080d-1039">글머리 기호 아이콘이 제대로 표시되지 않는 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1039">We fixed an issue where the bullet picture icon didn't display correctly.</span></span>
+- <span data-ttu-id="1a0ed-1046">글머리 기호 아이콘이 제대로 표시되지 않는 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1046">We fixed an issue where the bullet picture icon didn't display correctly.</span></span>
 
 
-- <span data-ttu-id="5080d-1040">사용자가 메모를 선택할 때 머리글/바닥글을 종료할 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1040">We fixed an issue where the user could not exit the Header/Footer when selecting a comment.</span></span>
+- <span data-ttu-id="1a0ed-1047">사용자가 메모를 선택할 때 머리글/바닥글을 종료할 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1047">We fixed an issue where the user could not exit the Header/Footer when selecting a comment.</span></span>
 
 
-- <span data-ttu-id="5080d-1041">메모가 삭제된 후 Word에서 충돌이 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1041">We fixed an issue where Word could crash after comments were deleted.</span></span>
+- <span data-ttu-id="1a0ed-1048">메모가 삭제된 후 Word에서 충돌이 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1048">We fixed an issue where Word could crash after comments were deleted.</span></span>
 
 
-- <span data-ttu-id="5080d-1042">사용자가 이미 커밋된 메모가 포함된 줄에 고정된 메모 초안을 만든 경우, 초안이 SideTrack에서 커밋된 메모를 기준으로 잘못된 순서로 정렬되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1042">We fixed an issue where if a user created a comment draft anchored to a line already containing committed comments, then the draft was arranged in the wrong order relative to the committed comment in the SideTrack.</span></span>
+- <span data-ttu-id="1a0ed-1049">사용자가 이미 커밋된 메모가 포함된 줄에 고정된 메모 초안을 만든 경우, 초안이 SideTrack에서 커밋된 메모를 기준으로 잘못된 순서로 정렬되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1049">We fixed an issue where if a user created a comment draft anchored to a line already containing committed comments, then the draft was arranged in the wrong order relative to the committed comment in the SideTrack.</span></span>
 
 
-- <span data-ttu-id="5080d-1043">문서를 160% 이상으로 확대하고 메모 창이 표시되지 않는 경우 포커스가 메모 창으로 이동하지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1043">We fixed an issue where the focus would not go to the comment pane if the document was zoomed to 160% or more and the comment pane was not visible.</span></span>
+- <span data-ttu-id="1a0ed-1050">문서를 160% 이상으로 확대하고 메모 창이 표시되지 않는 경우 포커스가 메모 창으로 이동하지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1050">We fixed an issue where the focus would not go to the comment pane if the document was zoomed to 160% or more and the comment pane was not visible.</span></span>
 
 
-- <span data-ttu-id="5080d-1044">사이드트랙 스크롤이 작동하지 않아 사용자에게 사이드트랙 경계를 초과하는 댓글 스레드가 표시되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1044">We fixed an issue that prevented users from seeing comment threads that exceeded the sidetrack boundary because scrolling through the sidetrack was not working.</span></span>
+- <span data-ttu-id="1a0ed-1051">사이드트랙 스크롤이 작동하지 않아 사용자에게 사이드트랙 경계를 초과하는 댓글 스레드가 표시되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1051">We fixed an issue that prevented users from seeing comment threads that exceeded the sidetrack boundary because scrolling through the sidetrack was not working.</span></span>
 
 
-- <span data-ttu-id="5080d-1045">현재 위치 추적창에서 해결된 메모를 검색하는 것이 작동하지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1045">We fixed an issue where searching for resolved comments in the sidetrack pane was not working.</span></span>
+- <span data-ttu-id="1a0ed-1052">현재 위치 추적창에서 해결된 메모를 검색하는 것이 작동하지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1052">We fixed an issue where searching for resolved comments in the sidetrack pane was not working.</span></span>
 
 
-- <span data-ttu-id="5080d-1046">여러 개의 열린 문서 사이를 전환한 후 한 문서의 메모가 다른 열린 문서에 표시되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1046">We fixed an issue where the comments on one document would be displayed on other open documents after switching between the multiple open documents.</span></span>
+- <span data-ttu-id="1a0ed-1053">여러 개의 열린 문서 사이를 전환한 후 한 문서의 메모가 다른 열린 문서에 표시되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1053">We fixed an issue where the comments on one document would be displayed on other open documents after switching between the multiple open documents.</span></span>
 
 
-- <span data-ttu-id="5080d-1047">문서를 HTML 형식으로 저장할 때 긴 링크가 줄바꿈되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1047">We fixed an issue where long links were not being wrapped when saving document to HTML format.</span></span>
+- <span data-ttu-id="1a0ed-1054">문서를 HTML 형식으로 저장할 때 긴 링크가 줄바꿈되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1054">We fixed an issue where long links were not being wrapped when saving document to HTML format.</span></span>
 
 
-- <span data-ttu-id="5080d-1048">경우에 따라 전자 메일에서 글머리 기호가 제대로 표시되지 않는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1048">We fixed an issue where in some cases, bullets are not displaying correctly in email.</span></span>
+- <span data-ttu-id="1a0ed-1055">경우에 따라 전자 메일에서 글머리 기호가 제대로 표시되지 않는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1055">We fixed an issue where in some cases, bullets are not displaying correctly in email.</span></span>
 
 
-- <span data-ttu-id="5080d-1049">AutoExec 전에 AutoOpen이 실행되는 매크로 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1049">We fixed an issue with macros in which AutoOpen runs before AutoExec.</span></span>
+- <span data-ttu-id="1a0ed-1056">AutoExec 전에 AutoOpen이 실행되는 매크로 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1056">We fixed an issue with macros in which AutoOpen runs before AutoExec.</span></span>
 
 
-### <a name="office-suite"></a><span data-ttu-id="5080d-1050">Office 제품군</span><span class="sxs-lookup"><span data-stu-id="5080d-1050">Office Suite</span></span>
+### <a name="office-suite"></a><span data-ttu-id="1a0ed-1057">Office 제품군</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1057">Office Suite</span></span>
 
-- <span data-ttu-id="5080d-1051">Office 2007 "Microsoft 응용 프로그램 오류 보고"제품과 함께 RemoveMSI 기능을 사용할 때 구성이 실패하는 Office 배포 도구 관련 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1051">We fixed an issue in the Office Deployment Tool where configuration was failing when using the RemoveMSI feature with the Office 2007 "Microsoft Application Error Reporting" product present.</span></span>
+- <span data-ttu-id="1a0ed-1058">Office 2007 "Microsoft 응용 프로그램 오류 보고"제품과 함께 RemoveMSI 기능을 사용할 때 구성이 실패하는 Office 배포 도구 관련 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1058">We fixed an issue in the Office Deployment Tool where configuration was failing when using the RemoveMSI feature with the Office 2007 "Microsoft Application Error Reporting" product present.</span></span>
 
 
-- <span data-ttu-id="5080d-1052">일부 사용자가 선택한 DPI 설정이 보존되지 않는 그림 압축 대화 상자와 관련된 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1052">We fixed an issue in the Compress Picture dialog where some user-selected DPI settings are not retained.</span></span>
+- <span data-ttu-id="1a0ed-1059">일부 사용자가 선택한 DPI 설정이 보존되지 않는 그림 압축 대화 상자와 관련된 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1059">We fixed an issue in the Compress Picture dialog where some user-selected DPI settings are not retained.</span></span>
 
 
-- <span data-ttu-id="5080d-1053">이 변경 사항은 특정 사용자 설정을 유지하지 않는 그림 압축 대화 상자의 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1053">This change addresses an issue with the Compress Picture dialog not retaining certain user settings.</span></span>
+- <span data-ttu-id="1a0ed-1060">이 변경 사항은 특정 사용자 설정을 유지하지 않는 그림 압축 대화 상자의 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1060">This change addresses an issue with the Compress Picture dialog not retaining certain user settings.</span></span>
 
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
-## <a name="version-2008-september-04"></a><span data-ttu-id="5080d-1055">버전 2008: 9월 4일</span><span class="sxs-lookup"><span data-stu-id="5080d-1055">Version 2008: September 04</span></span>
-<span data-ttu-id="5080d-1056">*버전 2008 (빌드 13127.20378)*</span><span class="sxs-lookup"><span data-stu-id="5080d-1056">*Version 2008 (Build 13127.20378)*</span></span>
+## <a name="version-2008-september-04"></a><span data-ttu-id="1a0ed-1062">버전 2008: 9월 4일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1062">Version 2008: September 04</span></span>
+<span data-ttu-id="1a0ed-1063">*버전 2008 (빌드 13127.20378)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1063">*Version 2008 (Build 13127.20378)*</span></span>
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-1058">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-1058">Resolved issues</span></span>
-### <a name="office-suite"></a><span data-ttu-id="5080d-1059">Office 제품군</span><span class="sxs-lookup"><span data-stu-id="5080d-1059">Office Suite</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-1065">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1065">Resolved issues</span></span>
+### <a name="office-suite"></a><span data-ttu-id="1a0ed-1066">Office 제품군</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1066">Office Suite</span></span>
 
-- <span data-ttu-id="5080d-1060">이 변경 사항은 특정 사용자 설정을 유지하지 않는 그림 압축 대화 상자의 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1060">This change addresses an issue with the Compress Picture dialog not retaining certain user settings.</span></span>
+- <span data-ttu-id="1a0ed-1067">이 변경 사항은 특정 사용자 설정을 유지하지 않는 그림 압축 대화 상자의 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1067">This change addresses an issue with the Compress Picture dialog not retaining certain user settings.</span></span>
 
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
-## <a name="version-2008-september-02"></a><span data-ttu-id="5080d-1062">버전 2008: 9월 2일</span><span class="sxs-lookup"><span data-stu-id="5080d-1062">Version 2008: September 02</span></span>
-<span data-ttu-id="5080d-1063">*버전 2008(빌드 13127.20360)*</span><span class="sxs-lookup"><span data-stu-id="5080d-1063">*Version 2008 (Build 13127.20360)*</span></span>
+## <a name="version-2008-september-02"></a><span data-ttu-id="1a0ed-1069">버전 2008: 9월 2일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1069">Version 2008: September 02</span></span>
+<span data-ttu-id="1a0ed-1070">*버전 2008(빌드 13127.20360)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1070">*Version 2008 (Build 13127.20360)*</span></span>
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="feature-updates"></a><span data-ttu-id="5080d-1065">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="5080d-1065">Feature updates</span></span>
-### <a name="excel"></a><span data-ttu-id="5080d-1066">Excel</span><span class="sxs-lookup"><span data-stu-id="5080d-1066">Excel</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="1a0ed-1072">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1072">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="1a0ed-1073">Excel</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1073">Excel</span></span>
 
-- <span data-ttu-id="5080d-1067">**도형을 그림으로 저장:** 몇 번의 클릭만으로 도형, 아이콘 또는 기타 개체를 그림 파일로 저장하여 다른 곳에서 다시 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1067">**Save shapes as pictures:** In just a few clicks, save a shape, icon, or other object as a picture file so you can reuse it elsewhere.</span></span> [<span data-ttu-id="5080d-1068">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="5080d-1068">Learn more</span></span>](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+- <span data-ttu-id="1a0ed-1074">**도형을 그림으로 저장:** 몇 번의 클릭만으로 도형, 아이콘 또는 기타 개체를 그림 파일로 저장하여 다른 곳에서 다시 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1074">**Save shapes as pictures:** In just a few clicks, save a shape, icon, or other object as a picture file so you can reuse it elsewhere.</span></span> [<span data-ttu-id="1a0ed-1075">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1075">Learn more</span></span>](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
-- <span data-ttu-id="5080d-1069">**Excel의 액션 펜을 이용하여 빠르게 편집:** 펜 도구를 사용하여 데이터를 필기하고 빠르게 편집할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1069">**Make quick edits using the Excel pen:** Pen Tool to help you handwrite and make quick edits to your data</span></span>
+- <span data-ttu-id="1a0ed-1076">**Excel의 액션 펜을 이용하여 빠르게 편집:** 펜 도구를 사용하여 데이터를 필기하고 빠르게 편집할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1076">**Make quick edits using the Excel pen:** Pen Tool to help you handwrite and make quick edits to your data</span></span>
 
 
 
@@ -2070,22 +2080,22 @@ ms.locfileid: "51749066"
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-1072">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-1072">Resolved issues</span></span>
-### <a name="excel"></a><span data-ttu-id="5080d-1073">Excel</span><span class="sxs-lookup"><span data-stu-id="5080d-1073">Excel</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-1079">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1079">Resolved issues</span></span>
+### <a name="excel"></a><span data-ttu-id="1a0ed-1080">Excel</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1080">Excel</span></span>
 
-- <span data-ttu-id="5080d-1074">서식 복사를 사용하는 경우 특정 상황에서 Excel이 충돌하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1074">Fixed an issue where Excel could crash in certain circumstances when using the Format Painter.</span></span>
+- <span data-ttu-id="1a0ed-1081">서식 복사를 사용하는 경우 특정 상황에서 Excel이 충돌하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1081">Fixed an issue where Excel could crash in certain circumstances when using the Format Painter.</span></span>
 
 
-### <a name="word"></a><span data-ttu-id="5080d-1075">Word</span><span class="sxs-lookup"><span data-stu-id="5080d-1075">Word</span></span>
+### <a name="word"></a><span data-ttu-id="1a0ed-1082">Word</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1082">Word</span></span>
 
-- <span data-ttu-id="5080d-1076">표준 스타일을 사용하여 기본 스타일을 업데이트할 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1076">We fixed an issue which the base styles are not updated with Normal style.</span></span>
+- <span data-ttu-id="1a0ed-1083">표준 스타일을 사용하여 기본 스타일을 업데이트할 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1083">We fixed an issue which the base styles are not updated with Normal style.</span></span>
 
 
 
 [//]: # (버그 세부 정보 콘텐츠 끝을 제거하지 마세요.)
 
-## <a name="version-2008-august-27"></a><span data-ttu-id="5080d-1078">버전 2008: 8월 27일</span><span class="sxs-lookup"><span data-stu-id="5080d-1078">Version 2008: August 27</span></span>
-<span data-ttu-id="5080d-1079">*버전 2008(빌드 13127.20296)*</span><span class="sxs-lookup"><span data-stu-id="5080d-1079">*Version 2008 (Build 13127.20296)*</span></span>
+## <a name="version-2008-august-27"></a><span data-ttu-id="1a0ed-1085">버전 2008: 8월 27일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1085">Version 2008: August 27</span></span>
+<span data-ttu-id="1a0ed-1086">*버전 2008(빌드 13127.20296)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1086">*Version 2008 (Build 13127.20296)*</span></span>
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
@@ -2096,38 +2106,38 @@ ms.locfileid: "51749066"
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-1083">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-1083">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="5080d-1084">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-1084">Outlook</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-1090">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1090">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-1091">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1091">Outlook</span></span>
 
-- <span data-ttu-id="5080d-1085">프로필에 추가된 보조 계정에서 모임 요청을 만들려고 시도한 사용자에게 전자 메일 주소 대신 빈 보낸 사람: 필드가 표시되지 않는 문제를 수정합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1085">Fixes an issue that caused users who attempted to create a meeting request from a secondary account added to their profile to not see a blank From: field instead of their email address.</span></span>
+- <span data-ttu-id="1a0ed-1092">프로필에 추가된 보조 계정에서 모임 요청을 만들려고 시도한 사용자에게 전자 메일 주소 대신 빈 보낸 사람: 필드가 표시되지 않는 문제를 수정합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1092">Fixes an issue that caused users who attempted to create a meeting request from a secondary account added to their profile to not see a blank From: field instead of their email address.</span></span>
 
-- <span data-ttu-id="5080d-1086">사용자가 공유 사서함을 추가한 후 공용 폴더에 연결할 수 없는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1086">Fixes an issue that caused users to be unable to connect to Public Folders after adding a shared mailbox.</span></span>
+- <span data-ttu-id="1a0ed-1093">사용자가 공유 사서함을 추가한 후 공용 폴더에 연결할 수 없는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1093">Fixes an issue that caused users to be unable to connect to Public Folders after adding a shared mailbox.</span></span>
 
-- <span data-ttu-id="5080d-1087">사용자가 클라우드 첨부 파일을 사용하여 대화형으로 작업하는 경우 발생하는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1087">Fixes an issue that caused users to experience occasional crashes when interacting with Cloud attachments.</span></span>
+- <span data-ttu-id="1a0ed-1094">사용자가 클라우드 첨부 파일을 사용하여 대화형으로 작업하는 경우 발생하는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1094">Fixes an issue that caused users to experience occasional crashes when interacting with Cloud attachments.</span></span>
 
-- <span data-ttu-id="5080d-1088">이를 통해 받는 사람을 편집할 때 사용자에게 충돌이 발생하는 문제가 해결됩니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1088">This fixes an issue that caused users to experience occasional crashes when editing recipients.</span></span>
+- <span data-ttu-id="1a0ed-1095">이를 통해 받는 사람을 편집할 때 사용자에게 충돌이 발생하는 문제가 해결됩니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1095">This fixes an issue that caused users to experience occasional crashes when editing recipients.</span></span>
 
-- <span data-ttu-id="5080d-1089">압축 보기를 사용할 때 사용자에게 이상 현상이 나타나는 문제를 수정합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1089">Fixes an issue that caused users to see anomalies when using the compact view.</span></span>
+- <span data-ttu-id="1a0ed-1096">압축 보기를 사용할 때 사용자에게 이상 현상이 나타나는 문제를 수정합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1096">Fixes an issue that caused users to see anomalies when using the compact view.</span></span>
 
-### <a name="word"></a><span data-ttu-id="5080d-1090">Word</span><span class="sxs-lookup"><span data-stu-id="5080d-1090">Word</span></span>
+### <a name="word"></a><span data-ttu-id="1a0ed-1097">Word</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1097">Word</span></span>
 
-- <span data-ttu-id="5080d-1091">이 변경사항은 이전 공동 작성 세션 후 Office 응용 프로그램이 자동 저장 오류 상태로 고정될 수 있는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1091">This change fixes an issue where Office applications can get stuck in a silent Save failure state after a previous coauthoring session.</span></span>
+- <span data-ttu-id="1a0ed-1098">이 변경사항은 이전 공동 작성 세션 후 Office 응용 프로그램이 자동 저장 오류 상태로 고정될 수 있는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1098">This change fixes an issue where Office applications can get stuck in a silent Save failure state after a previous coauthoring session.</span></span>
 
-- <span data-ttu-id="5080d-1092">AutoExec에서 매크로 AutoOpen가 실행되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1092">We fixed an issue where macro AutoOpen runs before AutoExec</span></span>
+- <span data-ttu-id="1a0ed-1099">AutoExec에서 매크로 AutoOpen가 실행되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1099">We fixed an issue where macro AutoOpen runs before AutoExec</span></span>
 
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
-## <a name="version-2008-august-25"></a><span data-ttu-id="5080d-1094">버전 2008: 8월 25일</span><span class="sxs-lookup"><span data-stu-id="5080d-1094">Version 2008: August 25</span></span>
-<span data-ttu-id="5080d-1095">*버전 2008(빌드 13127.20268)*</span><span class="sxs-lookup"><span data-stu-id="5080d-1095">*Version 2008 (Build 13127.20268)*</span></span>
+## <a name="version-2008-august-25"></a><span data-ttu-id="1a0ed-1101">버전 2008: 8월 25일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1101">Version 2008: August 25</span></span>
+<span data-ttu-id="1a0ed-1102">*버전 2008(빌드 13127.20268)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1102">*Version 2008 (Build 13127.20268)*</span></span>
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="feature-updates"></a><span data-ttu-id="5080d-1097">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="5080d-1097">Feature updates</span></span>
-### <a name="outlook"></a><span data-ttu-id="5080d-1098">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-1098">Outlook</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="1a0ed-1104">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1104">Feature updates</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-1105">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1105">Outlook</span></span>
 
-- <span data-ttu-id="5080d-1099">**사용자별로 검색할 때 전자 메일 제안을 받습니다.:** Outlook에 검색어를 입력하면 제안사항에서 가장 관련성이 높은 전자 메일을 받게 됩니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1099">**Receive email suggestions when searching by person.:** As you type your search terms in Outlook you'll receive the most relevant emails surfaced in the suggestions.</span></span>
+- <span data-ttu-id="1a0ed-1106">**사용자별로 검색할 때 전자 메일 제안을 받습니다.:** Outlook에 검색어를 입력하면 제안사항에서 가장 관련성이 높은 전자 메일을 받게 됩니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1106">**Receive email suggestions when searching by person.:** As you type your search terms in Outlook you'll receive the most relevant emails surfaced in the suggestions.</span></span>
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -2136,169 +2146,169 @@ ms.locfileid: "51749066"
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-1102">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-1102">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="5080d-1103">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-1103">Outlook</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-1109">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1109">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-1110">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1110">Outlook</span></span>
 
-- <span data-ttu-id="5080d-1104">새 전자 메일에 회신하거나 새 전자 메일을 작성할 때 사용자가 다음 오류를 수신한 문제를 해결합니다. "이 웹 페이지의 일부 파일이 예상 위치에 없습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1104">Addresses an issue that caused users to receive the following error when replying to or composing new email, "Some of the files in this web page aren't in the expected location.</span></span> <span data-ttu-id="5080d-1105">그래도 다운로드하시겠어요?</span><span class="sxs-lookup"><span data-stu-id="5080d-1105">Do you want to download them anyway?</span></span> <span data-ttu-id="5080d-1106">웹 페이지가 신뢰할 수 있는 원본의 웹 페이지인 경우 예를 클릭합니다."</span><span class="sxs-lookup"><span data-stu-id="5080d-1106">If you’re sure the Web page is from a trusted source, click Yes"</span></span>
-
-
-### <a name="project"></a><span data-ttu-id="5080d-1107">프로젝트</span><span class="sxs-lookup"><span data-stu-id="5080d-1107">Project</span></span>
-
-- <span data-ttu-id="5080d-1108">리소스에 둘 이상의 비용 비율 테이블이 정의된 경우 나머지 비용이 항상 올바르게 계산되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1108">Fixed an issue where if a resource had more than one cost rate table defined, remaining cost was not always calculated correctly.</span></span>
+- <span data-ttu-id="1a0ed-1111">새 전자 메일에 회신하거나 새 전자 메일을 작성할 때 사용자가 다음 오류를 수신한 문제를 해결합니다. "이 웹 페이지의 일부 파일이 예상 위치에 없습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1111">Addresses an issue that caused users to receive the following error when replying to or composing new email, "Some of the files in this web page aren't in the expected location.</span></span> <span data-ttu-id="1a0ed-1112">그래도 다운로드하시겠어요?</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1112">Do you want to download them anyway?</span></span> <span data-ttu-id="1a0ed-1113">웹 페이지가 신뢰할 수 있는 원본의 웹 페이지인 경우 예를 클릭합니다."</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1113">If you’re sure the Web page is from a trusted source, click Yes"</span></span>
 
 
-### <a name="word"></a><span data-ttu-id="5080d-1109">Word</span><span class="sxs-lookup"><span data-stu-id="5080d-1109">Word</span></span>
+### <a name="project"></a><span data-ttu-id="1a0ed-1114">프로젝트</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1114">Project</span></span>
 
-- <span data-ttu-id="5080d-1110">사용자가 새 전자 메일에 회신하거나 작성할 때 충돌이 발생한 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1110">Addresses an issue that caused users to experience a crash when replying to or composing new email.</span></span>
+- <span data-ttu-id="1a0ed-1115">리소스에 둘 이상의 비용 비율 테이블이 정의된 경우 나머지 비용이 항상 올바르게 계산되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1115">Fixed an issue where if a resource had more than one cost rate table defined, remaining cost was not always calculated correctly.</span></span>
+
+
+### <a name="word"></a><span data-ttu-id="1a0ed-1116">Word</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1116">Word</span></span>
+
+- <span data-ttu-id="1a0ed-1117">사용자가 새 전자 메일에 회신하거나 작성할 때 충돌이 발생한 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1117">Addresses an issue that caused users to experience a crash when replying to or composing new email.</span></span>
 
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
-## <a name="version-2008-august-17"></a><span data-ttu-id="5080d-1112">버전 2008: 8월 17일</span><span class="sxs-lookup"><span data-stu-id="5080d-1112">Version 2008: August 17</span></span>
-<span data-ttu-id="5080d-1113">*버전 2008(빌드 13127.20208)*</span><span class="sxs-lookup"><span data-stu-id="5080d-1113">*Version 2008 (Build 13127.20208)*</span></span>
+## <a name="version-2008-august-17"></a><span data-ttu-id="1a0ed-1119">버전 2008: 8월 17일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1119">Version 2008: August 17</span></span>
+<span data-ttu-id="1a0ed-1120">*버전 2008(빌드 13127.20208)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1120">*Version 2008 (Build 13127.20208)*</span></span>
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-1115">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-1115">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="5080d-1116">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-1116">Outlook</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-1122">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1122">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-1123">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1123">Outlook</span></span>
 
-- <span data-ttu-id="5080d-1117">일부 상황에서 대리인이 거절했을 때 관리자의 일정에서 모임이 제거되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1117">Addressed an issue that caused meetings to fail to be removed from a manager's calendar when declined by a delegate in some circumstances.</span></span>
-
-
-- <span data-ttu-id="5080d-1118">SharePoint 파일에 스마트 링크를 추가할 때 일부 문자 집합 사용자에게 파일 이름을 잘못 표시되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1118">Addressed an issue that caused users of some character sets to see file names display incorrectly when adding a Smart Link to a SharePoint file.</span></span>
+- <span data-ttu-id="1a0ed-1124">일부 상황에서 대리인이 거절했을 때 관리자의 일정에서 모임이 제거되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1124">Addressed an issue that caused meetings to fail to be removed from a manager's calendar when declined by a delegate in some circumstances.</span></span>
 
 
-- <span data-ttu-id="5080d-1119">"머리글만 다운로드" 옵션을 선택한 상태에서 POP 계정에서 네 개 이상의 전자 메일을 삭제하면 충돌이 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1119">Addressed an issue which caused users to experience a crash when deleting 4 or more emails from a POP account with the "Download Headers Only" option selected.</span></span>
+- <span data-ttu-id="1a0ed-1125">SharePoint 파일에 스마트 링크를 추가할 때 일부 문자 집합 사용자에게 파일 이름을 잘못 표시되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1125">Addressed an issue that caused users of some character sets to see file names display incorrectly when adding a Smart Link to a SharePoint file.</span></span>
 
 
-- <span data-ttu-id="5080d-1120">오른쪽 클릭 상황에 맞는 메뉴가 검색 컨트롤에 표시되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1120">Addressed an issue that caused the right-click context menu to fail to appear in the search controls.</span></span>
+- <span data-ttu-id="1a0ed-1126">"머리글만 다운로드" 옵션을 선택한 상태에서 POP 계정에서 네 개 이상의 전자 메일을 삭제하면 충돌이 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1126">Addressed an issue which caused users to experience a crash when deleting 4 or more emails from a POP account with the "Download Headers Only" option selected.</span></span>
+
+
+- <span data-ttu-id="1a0ed-1127">오른쪽 클릭 상황에 맞는 메뉴가 검색 컨트롤에 표시되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1127">Addressed an issue that caused the right-click context menu to fail to appear in the search controls.</span></span>
 
 
 
 [//]: # (버그 세부 정보를 제거하지 마세요. 끝)
 
-## <a name="version-2008-august-11"></a><span data-ttu-id="5080d-1122">버전 2008: 8월 11일</span><span class="sxs-lookup"><span data-stu-id="5080d-1122">Version 2008: August 11</span></span>
-<span data-ttu-id="5080d-1123">*버전 2008 (빌드13127.20164)*</span><span class="sxs-lookup"><span data-stu-id="5080d-1123">*Version 2008 (Build 13127.20164)*</span></span>
+## <a name="version-2008-august-11"></a><span data-ttu-id="1a0ed-1129">버전 2008: 8월 11일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1129">Version 2008: August 11</span></span>
+<span data-ttu-id="1a0ed-1130">*버전 2008 (빌드13127.20164)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1130">*Version 2008 (Build 13127.20164)*</span></span>
 
-<span data-ttu-id="5080d-1124">[여기](./microsoft365-apps-security-updates.md) 나열된 보안 업데이트</span><span class="sxs-lookup"><span data-stu-id="5080d-1124">Security updates listed [here](./microsoft365-apps-security-updates.md)</span></span>
+<span data-ttu-id="1a0ed-1131">[여기](./microsoft365-apps-security-updates.md) 나열된 보안 업데이트</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1131">Security updates listed [here](./microsoft365-apps-security-updates.md)</span></span>
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-1126">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-1126">Resolved issues</span></span>
-### <a name="access"></a><span data-ttu-id="5080d-1127">액세스</span><span class="sxs-lookup"><span data-stu-id="5080d-1127">Access</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-1133">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1133">Resolved issues</span></span>
+### <a name="access"></a><span data-ttu-id="1a0ed-1134">액세스</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1134">Access</span></span>
 
-- <span data-ttu-id="5080d-1128">이 수정은 특정 쿼리를 실행하려고 하면 이전에 '쿼리가 너무 복잡합니다'라는 오류 메시지가 발생한 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1128">This fix addresses the issue where trying to run certain queries have previously produced the error message 'Query is too complex'.</span></span>
+- <span data-ttu-id="1a0ed-1135">이 수정은 특정 쿼리를 실행하려고 하면 이전에 '쿼리가 너무 복잡합니다'라는 오류 메시지가 발생한 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1135">This fix addresses the issue where trying to run certain queries have previously produced the error message 'Query is too complex'.</span></span>
 
-- <span data-ttu-id="5080d-1129">Office 365를 설치한 경우 ACE를 Office 에코시스템 외부에 노출하기 위해 ACE 재배포 가능 엔진을 더 이상 설치할 필요가 없습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1129">If you have Office 365 installed, you no longer need to install our ACE Redistributable Engine to expose ACE outside of the Office ecosystem.</span></span> <span data-ttu-id="5080d-1130">따라서 Office 365를 사용하는 사용자는 ACE Redist Engine이 더 이상 필요하지 않으므로 이 문제가 발생하지 않아야 합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1130">Therefore, for those with Office 365, you will no longer need the ACE Redist Engine, and consequently you should not experience this issue.</span></span>
+- <span data-ttu-id="1a0ed-1136">Office 365를 설치한 경우 ACE를 Office 에코시스템 외부에 노출하기 위해 ACE 재배포 가능 엔진을 더 이상 설치할 필요가 없습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1136">If you have Office 365 installed, you no longer need to install our ACE Redistributable Engine to expose ACE outside of the Office ecosystem.</span></span> <span data-ttu-id="1a0ed-1137">따라서 Office 365를 사용하는 사용자는 ACE Redist Engine이 더 이상 필요하지 않으므로 이 문제가 발생하지 않아야 합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1137">Therefore, for those with Office 365, you will no longer need the ACE Redist Engine, and consequently you should not experience this issue.</span></span>
 
-- <span data-ttu-id="5080d-1131">이 문제가 해결되었습니다. 이제 Office의 Click-to-Run 응용 프로그램 외부에서 ODBC 드라이버를 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1131">This issue has been resolved - you can now use our ODBC driver outside of Office's Click-to-Run applications.</span></span>
+- <span data-ttu-id="1a0ed-1138">이 문제가 해결되었습니다. 이제 Office의 Click-to-Run 응용 프로그램 외부에서 ODBC 드라이버를 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1138">This issue has been resolved - you can now use our ODBC driver outside of Office's Click-to-Run applications.</span></span>
 
-### <a name="excel"></a><span data-ttu-id="5080d-1132">Excel</span><span class="sxs-lookup"><span data-stu-id="5080d-1132">Excel</span></span>
+### <a name="excel"></a><span data-ttu-id="1a0ed-1139">Excel</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1139">Excel</span></span>
 
-- <span data-ttu-id="5080d-1133">차트 시리즈의 순서가 변경된 경우 시리즈와 함께 정렬된 해당 확인란이 순서와 함께 순서가 변경되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1133">We fixed an issue where if the order of a chart series was changed, the corresponding checkbox aligned with the series was not reordered along with the series.</span></span>
+- <span data-ttu-id="1a0ed-1140">차트 시리즈의 순서가 변경된 경우 시리즈와 함께 정렬된 해당 확인란이 순서와 함께 순서가 변경되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1140">We fixed an issue where if the order of a chart series was changed, the corresponding checkbox aligned with the series was not reordered along with the series.</span></span>
 
-- <span data-ttu-id="5080d-1134">LET() 함수를 사용하여 수식이 들어 있는 파일을 저장할 때 오류가 발생할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1134">An error could occur when trying to save a file that contains a formula using the LET() function.</span></span>
+- <span data-ttu-id="1a0ed-1141">LET() 함수를 사용하여 수식이 들어 있는 파일을 저장할 때 오류가 발생할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1141">An error could occur when trying to save a file that contains a formula using the LET() function.</span></span>
 
-- <span data-ttu-id="5080d-1135">통합 문서에 대한 VBA를 통해 'ForceFullCalculation'아 사용하도록 설정된 경우 차트가 항상 예상한 대로 업데이트되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1135">We fixed an issue where charts were not always updated as expected when "ForceFullCalculation" was enabled via VBA for the workbook.</span></span>
+- <span data-ttu-id="1a0ed-1142">통합 문서에 대한 VBA를 통해 'ForceFullCalculation'아 사용하도록 설정된 경우 차트가 항상 예상한 대로 업데이트되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1142">We fixed an issue where charts were not always updated as expected when "ForceFullCalculation" was enabled via VBA for the workbook.</span></span>
 
-- <span data-ttu-id="5080d-1136">방사형 그라데이션 채우기가 있는 이미지의 복사본이 원본과 일치하지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1136">We fixed an issue where a copy of an image with a radial gradient fill did not match the original.</span></span>
+- <span data-ttu-id="1a0ed-1143">방사형 그라데이션 채우기가 있는 이미지의 복사본이 원본과 일치하지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1143">We fixed an issue where a copy of an image with a radial gradient fill did not match the original.</span></span>
 
-### <a name="onenote"></a><span data-ttu-id="5080d-1137">OneNote</span><span class="sxs-lookup"><span data-stu-id="5080d-1137">OneNote</span></span>
+### <a name="onenote"></a><span data-ttu-id="1a0ed-1144">OneNote</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1144">OneNote</span></span>
 
-- <span data-ttu-id="5080d-1138">응용 프로그램 창의 크기를 작게 조정한 경우 검색 편집 상자의 개체 틀 텍스트가 오버플로될 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1138">We fixed an issue where the placeholder text in the Search edit box would overflow if the application window was resized to a small dimension.</span></span>
+- <span data-ttu-id="1a0ed-1145">응용 프로그램 창의 크기를 작게 조정한 경우 검색 편집 상자의 개체 틀 텍스트가 오버플로될 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1145">We fixed an issue where the placeholder text in the Search edit box would overflow if the application window was resized to a small dimension.</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="5080d-1139">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-1139">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-1146">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1146">Outlook</span></span>
 
-- <span data-ttu-id="5080d-1140">Outlook에서 동일한 전자 메일 도메인의 프로필을 여러 개 만드는 것과 관련된 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1140">We fixed an issue around creating multiple profiles in Outlookfrom the same email domain.</span></span>
+- <span data-ttu-id="1a0ed-1147">Outlook에서 동일한 전자 메일 도메인의 프로필을 여러 개 만드는 것과 관련된 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1147">We fixed an issue around creating multiple profiles in Outlookfrom the same email domain.</span></span>
 
-- <span data-ttu-id="5080d-1141">공유 일정관리 개선 기능의 일부 사용자가 새로 추가된 공유 일정관리를 볼 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1141">Addressed an issue that prevented some users of the Shared Calendar Improvements feature from being able to view a newly-added shared calendar.</span></span>
+- <span data-ttu-id="1a0ed-1148">공유 일정관리 개선 기능의 일부 사용자가 새로 추가된 공유 일정관리를 볼 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1148">Addressed an issue that prevented some users of the Shared Calendar Improvements feature from being able to view a newly-added shared calendar.</span></span>
 
-- <span data-ttu-id="5080d-1142">S/MIME 암호화된 메시지의 헤더에 잠금 아이콘이 표시되지 않게 하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1142">Addressed an issue that caused the lock icon to fail to display in the header of S/MIME encrypted messages.</span></span>
+- <span data-ttu-id="1a0ed-1149">S/MIME 암호화된 메시지의 헤더에 잠금 아이콘이 표시되지 않게 하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1149">Addressed an issue that caused the lock icon to fail to display in the header of S/MIME encrypted messages.</span></span>
 
-- <span data-ttu-id="5080d-1143">공유 폴더 다운로드를 선택하지 않은 경우에 전달 허용 옵션이 공유 일정 모임 "응답 옵션"에 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1143">We fixed an issue where the "Allow Forwarding" option was missing from the shared calendar meeting "Response Options" if Download Shared folder was NOT checked.</span></span>
+- <span data-ttu-id="1a0ed-1150">공유 폴더 다운로드를 선택하지 않은 경우에 전달 허용 옵션이 공유 일정 모임 "응답 옵션"에 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1150">We fixed an issue where the "Allow Forwarding" option was missing from the shared calendar meeting "Response Options" if Download Shared folder was NOT checked.</span></span>
 
-- <span data-ttu-id="5080d-1144">보안 대화 상자에서 "저장" 옵션을 선택할 때 사용자가 테넌트 외부에서 로컬 컴퓨터에 OneDrive 첨부 파일을 저장할 수 없는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1144">Addressed an issue that caused users to be unable to save OneDrive attachments from outside their tenant to their local computer when selecting the "Save" option on the security dialog.</span></span>
+- <span data-ttu-id="1a0ed-1151">보안 대화 상자에서 "저장" 옵션을 선택할 때 사용자가 테넌트 외부에서 로컬 컴퓨터에 OneDrive 첨부 파일을 저장할 수 없는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1151">Addressed an issue that caused users to be unable to save OneDrive attachments from outside their tenant to their local computer when selecting the "Save" option on the security dialog.</span></span>
 
-- <span data-ttu-id="5080d-1145">사용자에 게 적절한 인쇄 권한이 있는 경우에도 인쇄 단추가 사용 안 함 상태로 표시되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1145">We fixed an issue that would display the print button in a disabled state even though the user had the appropriate print permissions.</span></span>
+- <span data-ttu-id="1a0ed-1152">사용자에 게 적절한 인쇄 권한이 있는 경우에도 인쇄 단추가 사용 안 함 상태로 표시되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1152">We fixed an issue that would display the print button in a disabled state even though the user had the appropriate print permissions.</span></span>
 
-- <span data-ttu-id="5080d-1146">암호화되지 않은 상태로 전송하는 경우 S/MIME 메시지에서 첨부 파일을 제거하는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1146">Addressed an issue that caused attachments to get stripped from S/MIME messages when sending as unencrypted.</span></span>
+- <span data-ttu-id="1a0ed-1153">암호화되지 않은 상태로 전송하는 경우 S/MIME 메시지에서 첨부 파일을 제거하는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1153">Addressed an issue that caused attachments to get stripped from S/MIME messages when sending as unencrypted.</span></span>
 
-- <span data-ttu-id="5080d-1147">일반 텍스트 S/MIME 메시지가 전송 시 왜곡되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1147">Addressed an issue that caused plain text S/MIME messages to become garbled when sending.</span></span>
+- <span data-ttu-id="1a0ed-1154">일반 텍스트 S/MIME 메시지가 전송 시 왜곡되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1154">Addressed an issue that caused plain text S/MIME messages to become garbled when sending.</span></span>
 
-- <span data-ttu-id="5080d-1148">암호화되지 않은 S/MIME 전자 메일을 전송할 때 첨부 파일이 손상되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1148">Addressed an issue that caused attachments to become corrupted when sending an S/MIME email unencrypted.</span></span>
+- <span data-ttu-id="1a0ed-1155">암호화되지 않은 S/MIME 전자 메일을 전송할 때 첨부 파일이 손상되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1155">Addressed an issue that caused attachments to become corrupted when sending an S/MIME email unencrypted.</span></span>
 
-- <span data-ttu-id="5080d-1149">보낸 사람이 다른 이름으로 저장 권한을 부여한 경우에도 받는 사람이 권한 보호 메시지를 저장할 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1149">Addressed an issue that cause recipients to be unable to save rights protected messages even when the save as permission was granted by the sender.</span></span>
+- <span data-ttu-id="1a0ed-1156">보낸 사람이 다른 이름으로 저장 권한을 부여한 경우에도 받는 사람이 권한 보호 메시지를 저장할 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1156">Addressed an issue that cause recipients to be unable to save rights protected messages even when the save as permission was granted by the sender.</span></span>
 
-- <span data-ttu-id="5080d-1150">이 수정은 회신하는 메시지에 대한 소유자 권한이 없는 경우 검사기 창에서 디지털 권한 관리 메시지에 회신할 때 사용자가 서명을 추가할 수 없는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1150">This fix addresses an issue that caused users to be unable to add a signature when replying to a digitally rights managed message from an inspector window when the user did not have Owner permissions on the message being replied to.</span></span>
+- <span data-ttu-id="1a0ed-1157">이 수정은 회신하는 메시지에 대한 소유자 권한이 없는 경우 검사기 창에서 디지털 권한 관리 메시지에 회신할 때 사용자가 서명을 추가할 수 없는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1157">This fix addresses an issue that caused users to be unable to add a signature when replying to a digitally rights managed message from an inspector window when the user did not have Owner permissions on the message being replied to.</span></span>
 
-- <span data-ttu-id="5080d-1151">이 수정은 Outlook이 표시다운 내용에 줄 바꿈을 제대로 표시하지 못하게 하는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1151">This fix addresses an issue that was causing Outlook to fail to display line breaks properly in markdown content.</span></span>
+- <span data-ttu-id="1a0ed-1158">이 수정은 Outlook이 표시다운 내용에 줄 바꿈을 제대로 표시하지 못하게 하는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1158">This fix addresses an issue that was causing Outlook to fail to display line breaks properly in markdown content.</span></span>
 
-- <span data-ttu-id="5080d-1152">일부 언어에서 일부 고급 검색 옵션의 레이블이 잘려 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1152">Addressed an issue that caused the labels for some Advanced Search options to be truncated in some languages.</span></span>
+- <span data-ttu-id="1a0ed-1159">일부 언어에서 일부 고급 검색 옵션의 레이블이 잘려 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1159">Addressed an issue that caused the labels for some Advanced Search options to be truncated in some languages.</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="5080d-1153">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="5080d-1153">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="1a0ed-1160">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1160">PowerPoint</span></span>
 
-- <span data-ttu-id="5080d-1154">방사형 그라데이션 채우기가 있는 이미지의 복사본이 원본과 일치하지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1154">We fixed an issue where a copy of an image with a radial gradient fill did not match the original.</span></span>
+- <span data-ttu-id="1a0ed-1161">방사형 그라데이션 채우기가 있는 이미지의 복사본이 원본과 일치하지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1161">We fixed an issue where a copy of an image with a radial gradient fill did not match the original.</span></span>
 
-- <span data-ttu-id="5080d-1155">Office Store에 대한 액세스가 허용되지 않을 때 PowerPoint의 Forms 버튼이 Forms 생성을 허용하지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1155">We fixed an issue where the Forms button in PowerPoint did not allow the creation of Forms when access to Office Store was not permitted.</span></span>
+- <span data-ttu-id="1a0ed-1162">Office Store에 대한 액세스가 허용되지 않을 때 PowerPoint의 Forms 버튼이 Forms 생성을 허용하지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1162">We fixed an issue where the Forms button in PowerPoint did not allow the creation of Forms when access to Office Store was not permitted.</span></span>
 
-### <a name="project"></a><span data-ttu-id="5080d-1156">프로젝트</span><span class="sxs-lookup"><span data-stu-id="5080d-1156">Project</span></span>
+### <a name="project"></a><span data-ttu-id="1a0ed-1163">프로젝트</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1163">Project</span></span>
 
-- <span data-ttu-id="5080d-1157">작업 보드 보기에 나열된 작업이 자원 배정 대화 상자의 작업과 동기화되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1157">We fixed an issue where tasks listed in the Task Board view were not in sync with those in the Assign Resources dialog.</span></span>
+- <span data-ttu-id="1a0ed-1164">작업 보드 보기에 나열된 작업이 자원 배정 대화 상자의 작업과 동기화되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1164">We fixed an issue where tasks listed in the Task Board view were not in sync with those in the Assign Resources dialog.</span></span>
 
-- <span data-ttu-id="5080d-1158">Project에서 SharePoint 문서 라이브러리에 PDF/XPS를 저장하려고 하면 아무 일도 일어나지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1158">We fixed an issue where if you tried to save a PDF/XPS from Project to a SharePoint document library, nothing would happen.</span></span>
+- <span data-ttu-id="1a0ed-1165">Project에서 SharePoint 문서 라이브러리에 PDF/XPS를 저장하려고 하면 아무 일도 일어나지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1165">We fixed an issue where if you tried to save a PDF/XPS from Project to a SharePoint document library, nothing would happen.</span></span>
 
-- <span data-ttu-id="5080d-1159">여러 종속성이 있는 작업을 복사하고 붙여 넣는 경우 일부 종속성이 제대로 복사되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1159">We fixed an issue where if you copied & pasted a task that had multiple dependencies, not all dependencies were copied correctly.</span></span>
+- <span data-ttu-id="1a0ed-1166">여러 종속성이 있는 작업을 복사하고 붙여 넣는 경우 일부 종속성이 제대로 복사되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1166">We fixed an issue where if you copied & pasted a task that had multiple dependencies, not all dependencies were copied correctly.</span></span>
 
-- <span data-ttu-id="5080d-1160">SharePoint 작업 목록의 경우 두 번째 탭의 리본 버튼을 사용할 수 없는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1160">Fixed an issue where for a SharePoint tasks list, the ribbon buttons on the second tab may be disabled.</span></span>
+- <span data-ttu-id="1a0ed-1167">SharePoint 작업 목록의 경우 두 번째 탭의 리본 버튼을 사용할 수 없는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1167">Fixed an issue where for a SharePoint tasks list, the ribbon buttons on the second tab may be disabled.</span></span>
 
-### <a name="skype"></a><span data-ttu-id="5080d-1161">Skype</span><span class="sxs-lookup"><span data-stu-id="5080d-1161">Skype</span></span>
+### <a name="skype"></a><span data-ttu-id="1a0ed-1168">Skype</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1168">Skype</span></span>
 
-- <span data-ttu-id="5080d-1162">춤추는 이모티콘 피부색을 중성 색상으로 변경</span><span class="sxs-lookup"><span data-stu-id="5080d-1162">Changed dancing emoticon skin tone to neutral color</span></span>
+- <span data-ttu-id="1a0ed-1169">춤추는 이모티콘 피부색을 중성 색상으로 변경</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1169">Changed dancing emoticon skin tone to neutral color</span></span>
 
-### <a name="visio"></a><span data-ttu-id="5080d-1163">Visio</span><span class="sxs-lookup"><span data-stu-id="5080d-1163">Visio</span></span>
+### <a name="visio"></a><span data-ttu-id="1a0ed-1170">Visio</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1170">Visio</span></span>
 
-- <span data-ttu-id="5080d-1164">이 문제를 해결한 후에는 사용자가 (이 경우 추가 기능을 통한) 사이의 메커니즘에 의해 삭제 명령 실행을 중지한 경우 메모리가 누출되지 않고 전체 시스템에 영향을 주지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1164">After this fix, if the user halted the execution of delete command by any mechanism in between (in this case it was through add-in) the memory won't leak and the whole machine won't be impacted.</span></span>
+- <span data-ttu-id="1a0ed-1171">이 문제를 해결한 후에는 사용자가 (이 경우 추가 기능을 통한) 사이의 메커니즘에 의해 삭제 명령 실행을 중지한 경우 메모리가 누출되지 않고 전체 시스템에 영향을 주지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1171">After this fix, if the user halted the execution of delete command by any mechanism in between (in this case it was through add-in) the memory won't leak and the whole machine won't be impacted.</span></span>
 
-### <a name="word"></a><span data-ttu-id="5080d-1165">Word</span><span class="sxs-lookup"><span data-stu-id="5080d-1165">Word</span></span>
+### <a name="word"></a><span data-ttu-id="1a0ed-1172">Word</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1172">Word</span></span>
 
-- <span data-ttu-id="5080d-1166">일부 텍스트와 이미지를 메모 상자에 붙여넣은 후 에 Word가 응답하지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1166">We fixed an issue where Word would stop responding after pasting some text and an image in to a comments box.</span></span>
+- <span data-ttu-id="1a0ed-1173">일부 텍스트와 이미지를 메모 상자에 붙여넣은 후 에 Word가 응답하지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1173">We fixed an issue where Word would stop responding after pasting some text and an image in to a comments box.</span></span>
 
-- <span data-ttu-id="5080d-1167">방사형 그라데이션 채우기가 있는 이미지의 복사본이 원본과 일치하지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1167">We fixed an issue where a copy of an image with a radial gradient fill did not match the original.</span></span>
+- <span data-ttu-id="1a0ed-1174">방사형 그라데이션 채우기가 있는 이미지의 복사본이 원본과 일치하지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1174">We fixed an issue where a copy of an image with a radial gradient fill did not match the original.</span></span>
 
-- <span data-ttu-id="5080d-1168">응용 프로그램 창의 크기를 작게 조정한 경우 검색 편집 상자의 개체 틀 텍스트가 오버플로될 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1168">We fixed an issue where the placeholder text in the Search edit box would overflow if the application window was resized to a small dimension.</span></span>
+- <span data-ttu-id="1a0ed-1175">응용 프로그램 창의 크기를 작게 조정한 경우 검색 편집 상자의 개체 틀 텍스트가 오버플로될 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1175">We fixed an issue where the placeholder text in the Search edit box would overflow if the application window was resized to a small dimension.</span></span>
 
-- <span data-ttu-id="5080d-1169">변경 내용을 추적하기 위해 주석을 추가하면 수정사항 창이 예기치 않게 열리는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1169">We fixed an issue where if a comment was added to track a change, the revisions pane would unexpectedly open.</span></span>
+- <span data-ttu-id="1a0ed-1176">변경 내용을 추적하기 위해 주석을 추가하면 수정사항 창이 예기치 않게 열리는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1176">We fixed an issue where if a comment was added to track a change, the revisions pane would unexpectedly open.</span></span>
 
-- <span data-ttu-id="5080d-1170">포커스가 메모 텍스트 상자에 있을 때 '편집기' 명령을 사용할 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1170">We fixed an issue where the Editor command was disabled when the focus was in a comment text box.</span></span>
+- <span data-ttu-id="1a0ed-1177">포커스가 메모 텍스트 상자에 있을 때 '편집기' 명령을 사용할 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1177">We fixed an issue where the Editor command was disabled when the focus was in a comment text box.</span></span>
 
-- <span data-ttu-id="5080d-1171">포커스가 메모 텍스트 상자에 있을 때 '변경 내용 표시' 명령을 사용할 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1171">We fixed an issue where the Show Markup command was disabled when the focus was in a comment text box.</span></span>
+- <span data-ttu-id="1a0ed-1178">포커스가 메모 텍스트 상자에 있을 때 '변경 내용 표시' 명령을 사용할 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1178">We fixed an issue where the Show Markup command was disabled when the focus was in a comment text box.</span></span>
 
-- <span data-ttu-id="5080d-1172">마지막 메모를 삭제한 후 '새 메모' 단추를 사용하지 않도록 설정되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1172">We fixed an issue where the 'New comment' button would be disabled after deleting the last comment.</span></span>
+- <span data-ttu-id="1a0ed-1179">마지막 메모를 삭제한 후 '새 메모' 단추를 사용하지 않도록 설정되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1179">We fixed an issue where the 'New comment' button would be disabled after deleting the last comment.</span></span>
 
-- <span data-ttu-id="5080d-1173">변경 내용 추적에 대한 '특정 사용자' 옵션이 비활성화되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1173">We fixed an issue where the 'Specific People' option for Track Changes was disabled.</span></span>
+- <span data-ttu-id="1a0ed-1180">변경 내용 추적에 대한 '특정 사용자' 옵션이 비활성화되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1180">We fixed an issue where the 'Specific People' option for Track Changes was disabled.</span></span>
 
-- <span data-ttu-id="5080d-1174">삽입 > 링크 드롭다운을 통해 문서 링크가 메모 상자에 삽입되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1174">We fixed an issue where links to documents were not being inserted to the comments box via the Insert -> Link dropdown.</span></span>
+- <span data-ttu-id="1a0ed-1181">삽입 > 링크 드롭다운을 통해 문서 링크가 메모 상자에 삽입되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1181">We fixed an issue where links to documents were not being inserted to the comments box via the Insert -> Link dropdown.</span></span>
 
-- <span data-ttu-id="5080d-1175">가끔 HTML 파일을 여는 동안 멈추는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1175">We fixed an occasional hang while opening HTML files.</span></span>
+- <span data-ttu-id="1a0ed-1182">가끔 HTML 파일을 여는 동안 멈추는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1182">We fixed an occasional hang while opening HTML files.</span></span>
 
-- <span data-ttu-id="5080d-1176">사용자 지정 XML에서 문서를 열 때 메모 상태가 손실될 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1176">We fixed an issue in custom XML where the state of comments may be lost when opening the document.</span></span>
+- <span data-ttu-id="1a0ed-1183">사용자 지정 XML에서 문서를 열 때 메모 상태가 손실될 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1183">We fixed an issue in custom XML where the state of comments may be lost when opening the document.</span></span>
 
-- <span data-ttu-id="5080d-1177">하이퍼링크를 포함 하는 이미지를 추가한 후 VBA hyperlinks 컬렉션의 하이퍼링크 수가 제대로 반복 되지 않는 문제가 해결 되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1177">We fixed an issue where the hyperlink count in the VBA hyperlinks collection was not iterating correctly after adding an image containing a hyperlink.</span></span>
+- <span data-ttu-id="1a0ed-1184">하이퍼링크를 포함 하는 이미지를 추가한 후 VBA hyperlinks 컬렉션의 하이퍼링크 수가 제대로 반복 되지 않는 문제가 해결 되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1184">We fixed an issue where the hyperlink count in the VBA hyperlinks collection was not iterating correctly after adding an image containing a hyperlink.</span></span>
 
-- <span data-ttu-id="5080d-1178">이전 웹 서비스 기반 공유 창의 경우 공유 창이 열려 있는 동안 문서를 닫으면 충돌이 발생할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1178">For the old, non-web service based Share pane, upon closing the document while the Share pane is open could cause a crash.</span></span> <span data-ttu-id="5080d-1179">이제 이 문제는 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1179">This is now fixed.</span></span>
+- <span data-ttu-id="1a0ed-1185">이전 웹 서비스 기반 공유 창의 경우 공유 창이 열려 있는 동안 문서를 닫으면 충돌이 발생할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1185">For the old, non-web service based Share pane, upon closing the document while the Share pane is open could cause a crash.</span></span> <span data-ttu-id="1a0ed-1186">이제 이 문제는 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1186">This is now fixed.</span></span>
 
-- <span data-ttu-id="5080d-1180">사용자가 작업 표시줄에서 새 앱 창을 열고 비어 있는 새 문서를 만든 후에 추가 파일이 생성되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1180">We fixed an issue where after the user opened a new app window from the taskbar and created a new blank document, additional files were created.</span></span>
+- <span data-ttu-id="1a0ed-1187">사용자가 작업 표시줄에서 새 앱 창을 열고 비어 있는 새 문서를 만든 후에 추가 파일이 생성되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1187">We fixed an issue where after the user opened a new app window from the taskbar and created a new blank document, additional files were created.</span></span>
 
-- <span data-ttu-id="5080d-1181">사용자가 문서를 편집하고 있지만 권한을 잃은 경우 사용자에게 재인증을 해야 한다는 알림을 보내지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1181">We fixed an issue where if a user was editing a document but had lost permissions, we were not notifying the user that they had to re-authenticate.</span></span>
+- <span data-ttu-id="1a0ed-1188">사용자가 문서를 편집하고 있지만 권한을 잃은 경우 사용자에게 재인증을 해야 한다는 알림을 보내지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1188">We fixed an issue where if a user was editing a document but had lost permissions, we were not notifying the user that they had to re-authenticate.</span></span>
 
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
-## <a name="version-2007-august-05"></a><span data-ttu-id="5080d-1183">버전 2007: 8월 5일</span><span class="sxs-lookup"><span data-stu-id="5080d-1183">Version 2007: August 05</span></span>
-<span data-ttu-id="5080d-1184">*버전 2007(빌드 13029.20344)*</span><span class="sxs-lookup"><span data-stu-id="5080d-1184">*Version 2007 (Build 13029.20344)*</span></span>
+## <a name="version-2007-august-05"></a><span data-ttu-id="1a0ed-1190">버전 2007: 8월 5일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1190">Version 2007: August 05</span></span>
+<span data-ttu-id="1a0ed-1191">*버전 2007(빌드 13029.20344)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1191">*Version 2007 (Build 13029.20344)*</span></span>
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
@@ -2310,40 +2320,40 @@ ms.locfileid: "51749066"
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-1188">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-1188">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="5080d-1189">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-1189">Outlook</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-1195">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1195">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-1196">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1196">Outlook</span></span>
 
-- <span data-ttu-id="5080d-1190">Outlook에서 검색 제안을 검색하지 못한 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1190">Addressed an issue that caused Outlook to fail to retrieve search suggestions.</span></span>
-
-
-- <span data-ttu-id="5080d-1191">개인 정보 검색 시 사용자가 때때로 충돌하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1191">Addressed an issue that caused users to occasionally crash when retrieving persona information.</span></span>
+- <span data-ttu-id="1a0ed-1197">Outlook에서 검색 제안을 검색하지 못한 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1197">Addressed an issue that caused Outlook to fail to retrieve search suggestions.</span></span>
 
 
-### <a name="project"></a><span data-ttu-id="5080d-1192">프로젝트</span><span class="sxs-lookup"><span data-stu-id="5080d-1192">Project</span></span>
+- <span data-ttu-id="1a0ed-1198">개인 정보 검색 시 사용자가 때때로 충돌하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1198">Addressed an issue that caused users to occasionally crash when retrieving persona information.</span></span>
 
-- <span data-ttu-id="5080d-1193">상태가 좋지 않은 프로젝트를 열 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1193">Fixed an issue where a project that had gotten into a bad state could not be opened.</span></span>
+
+### <a name="project"></a><span data-ttu-id="1a0ed-1199">프로젝트</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1199">Project</span></span>
+
+- <span data-ttu-id="1a0ed-1200">상태가 좋지 않은 프로젝트를 열 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1200">Fixed an issue where a project that had gotten into a bad state could not be opened.</span></span>
 
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
-## <a name="version-2007-july-29"></a><span data-ttu-id="5080d-1195">버전 2007: 7월 29일</span><span class="sxs-lookup"><span data-stu-id="5080d-1195">Version 2007: July 29</span></span>
-<span data-ttu-id="5080d-1196">*버전 2007(빌드 13029.20308)*</span><span class="sxs-lookup"><span data-stu-id="5080d-1196">*Version 2007 (Build 13029.20308)*</span></span>
+## <a name="version-2007-july-29"></a><span data-ttu-id="1a0ed-1202">버전 2007: 7월 29일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1202">Version 2007: July 29</span></span>
+<span data-ttu-id="1a0ed-1203">*버전 2007(빌드 13029.20308)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1203">*Version 2007 (Build 13029.20308)*</span></span>
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="feature-updates"></a><span data-ttu-id="5080d-1198">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="5080d-1198">Feature updates</span></span>
-### <a name="excel"></a><span data-ttu-id="5080d-1199">Excel</span><span class="sxs-lookup"><span data-stu-id="5080d-1199">Excel</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="1a0ed-1205">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1205">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="1a0ed-1206">Excel</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1206">Excel</span></span>
 
-- <span data-ttu-id="5080d-1200">**데이터 형식을 사용하여 Power BI에서 조직 데이터를 가져오기:** 이제 Power BI의 Excel 데이터 형식을 Office 365 E5/A5 또는 Microsoft 365 E5/A5를 사용하는 조직의 참가자에게 배포합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1200">**Get Organization Data from Power BI using Data Types:** Excel data types from Power BI are now rolling out to Insiders in organizations with Office 365 E5/A5 or Microsoft 365 E5/A5.</span></span> <span data-ttu-id="5080d-1201">필요한 정보를 가져오고 손쉽게 새로 고치는 건 일상적인 여러 워크플로에 매우 중요합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1201">Getting the information you need and easily refreshing it is critical to many everyday workflows.</span></span> <span data-ttu-id="5080d-1202">Microsoft는 Power BI를 사용하여 Excel에서 데이터 형식으로 회사나 조직 정보에 액세스할 수 있도록 하여 스프레드시트에 연결된 정보를 제공하는 기능을 확장합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1202">We’re giving you access to your company or organization information from Power BI as a data type in Excel, which expands your ability to bring in linked information in your spreadsheets.</span></span> [<span data-ttu-id="5080d-1203">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="5080d-1203">Learn more</span></span>](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br /><span data-ttu-id="5080d-1204">[블로그 게시물](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)에서 세부 정보 보기</span><span class="sxs-lookup"><span data-stu-id="5080d-1204">See details in [blog post](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)</span></span>
+- <span data-ttu-id="1a0ed-1207">**데이터 형식을 사용하여 Power BI에서 조직 데이터를 가져오기:** 이제 Power BI의 Excel 데이터 형식을 Office 365 E5/A5 또는 Microsoft 365 E5/A5를 사용하는 조직의 참가자에게 배포합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1207">**Get Organization Data from Power BI using Data Types:** Excel data types from Power BI are now rolling out to Insiders in organizations with Office 365 E5/A5 or Microsoft 365 E5/A5.</span></span> <span data-ttu-id="1a0ed-1208">필요한 정보를 가져오고 손쉽게 새로 고치는 건 일상적인 여러 워크플로에 매우 중요합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1208">Getting the information you need and easily refreshing it is critical to many everyday workflows.</span></span> <span data-ttu-id="1a0ed-1209">Microsoft는 Power BI를 사용하여 Excel에서 데이터 형식으로 회사나 조직 정보에 액세스할 수 있도록 하여 스프레드시트에 연결된 정보를 제공하는 기능을 확장합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1209">We’re giving you access to your company or organization information from Power BI as a data type in Excel, which expands your ability to bring in linked information in your spreadsheets.</span></span> [<span data-ttu-id="1a0ed-1210">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1210">Learn more</span></span>](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br /><span data-ttu-id="1a0ed-1211">[블로그 게시물](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)에서 세부 정보를 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1211">See details in [blog post](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="5080d-1205">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-1205">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-1212">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1212">Outlook</span></span>
 
-- <span data-ttu-id="5080d-1206">**검색할 위치 선택:** 새 검색 범위 드롭다운을 통해 검색을 더 쉽게 수정하고 현재 폴더와 현재 사서함 간 전환할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1206">**Pick where to search:** The new search scope drop down allows you to more easily modify your search and switch between Current Folder and Current Mailbox.</span></span> <span data-ttu-id="5080d-1207">최상의 환경을 위해 새 검색 기능에 피드백을 보내주신 모든 사용자에게 감사의 말씀을 드립니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1207">Thank you to everyone in Coming Soon who provided feedback on the new Search at Top experience.</span></span> <span data-ttu-id="5080d-1208">피드백을 통해 디자인과 업데이트를 완성했습니다!</span><span class="sxs-lookup"><span data-stu-id="5080d-1208">This design and update came out of that feedback!</span></span>
+- <span data-ttu-id="1a0ed-1213">**검색할 위치 선택:** 새 검색 범위 드롭다운을 통해 검색을 더 쉽게 수정하고 현재 폴더와 현재 사서함 간 전환할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1213">**Pick where to search:** The new search scope drop down allows you to more easily modify your search and switch between Current Folder and Current Mailbox.</span></span> <span data-ttu-id="1a0ed-1214">최상의 환경을 위해 새 검색 기능에 피드백을 보내주신 모든 사용자에게 감사의 말씀을 드립니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1214">Thank you to everyone in Coming Soon who provided feedback on the new Search at Top experience.</span></span> <span data-ttu-id="1a0ed-1215">피드백을 통해 디자인과 업데이트를 완성했습니다!</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1215">This design and update came out of that feedback!</span></span>
 
-### <a name="word"></a><span data-ttu-id="5080d-1209">Word</span><span class="sxs-lookup"><span data-stu-id="5080d-1209">Word</span></span>
+### <a name="word"></a><span data-ttu-id="1a0ed-1216">Word</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1216">Word</span></span>
 
-- <span data-ttu-id="5080d-1210">**최신 주석을 활용한 더 나은 공동 작업:** 개체에 메모를 추가하고, 동료를 @멘션하고, 메모 스레드를 해결하여 공동 작업 환경을 개선해보세요.</span><span class="sxs-lookup"><span data-stu-id="5080d-1210">**Better collaboration with modern comments:** Add comments to objects, @mention colleagues, and resolve comment threads for a better collaboration experience.</span></span> [<span data-ttu-id="5080d-1211">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="5080d-1211">Learn more</span></span>](https://support.office.com/article/8d3f868a-867e-4df2-8c68-bf96671641e2)
+- <span data-ttu-id="1a0ed-1217">**최신 주석을 활용한 더 나은 공동 작업:** 개체에 메모를 추가하고, 동료를 @멘션하고, 메모 스레드를 해결하여 공동 작업 환경을 개선해보세요.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1217">**Better collaboration with modern comments:** Add comments to objects, @mention colleagues, and resolve comment threads for a better collaboration experience.</span></span> [<span data-ttu-id="1a0ed-1218">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1218">Learn more</span></span>](https://support.office.com/article/8d3f868a-867e-4df2-8c68-bf96671641e2)
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -2352,38 +2362,38 @@ ms.locfileid: "51749066"
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-1214">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-1214">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="5080d-1215">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-1215">Outlook</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-1221">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1221">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-1222">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1222">Outlook</span></span>
 
-- <span data-ttu-id="5080d-1216">보호되는 컨텍스트에서 보호되지 않은 컨텍스트로 회신 보낸 사람 주소를 전환할 때 CLP 사용자에게 충돌이 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1216">Addressed an issue that caused users of CLP to experience a crash when switching the from address on a reply from a protected context to an unprotected one.</span></span>
-
-
-- <span data-ttu-id="5080d-1217">일정 정리 페이지가 표시되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1217">Addressed an issue that caused the Scheduling Assistant page to fail to display.</span></span>
+- <span data-ttu-id="1a0ed-1223">보호되는 컨텍스트에서 보호되지 않은 컨텍스트로 회신 보낸 사람 주소를 전환할 때 CLP 사용자에게 충돌이 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1223">Addressed an issue that caused users of CLP to experience a crash when switching the from address on a reply from a protected context to an unprotected one.</span></span>
 
 
-- <span data-ttu-id="5080d-1218">인시던트 알림 경고에서 서식 문제가 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1218">Addressed an issue that caused formatting problems in incident notification alerts.</span></span>
+- <span data-ttu-id="1a0ed-1224">일정 정리 페이지가 표시되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1224">Addressed an issue that caused the Scheduling Assistant page to fail to display.</span></span>
+
+
+- <span data-ttu-id="1a0ed-1225">인시던트 알림 경고에서 서식 문제가 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1225">Addressed an issue that caused formatting problems in incident notification alerts.</span></span>
 
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
-## <a name="version-2007-july-27"></a><span data-ttu-id="5080d-1220">버전 2007: 7월 27일</span><span class="sxs-lookup"><span data-stu-id="5080d-1220">Version 2007: July 27</span></span>
-<span data-ttu-id="5080d-1221">*버전 2007(빌드 13029.20292)*</span><span class="sxs-lookup"><span data-stu-id="5080d-1221">*Version 2007 (Build 13029.20292)*</span></span>
-* <span data-ttu-id="5080d-1222">다양한 버그 및 성능 수정 사항.</span><span class="sxs-lookup"><span data-stu-id="5080d-1222">Various bugs and performance fixes.</span></span>
+## <a name="version-2007-july-27"></a><span data-ttu-id="1a0ed-1227">버전 2007: 7월 27일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1227">Version 2007: July 27</span></span>
+<span data-ttu-id="1a0ed-1228">*버전 2007(빌드 13029.20292)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1228">*Version 2007 (Build 13029.20292)*</span></span>
+* <span data-ttu-id="1a0ed-1229">다양한 버그 및 성능 수정 사항.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1229">Various bugs and performance fixes.</span></span>
 
-## <a name="version-2007-july-20"></a><span data-ttu-id="5080d-1223">버전 2007: 7월 20일</span><span class="sxs-lookup"><span data-stu-id="5080d-1223">Version 2007: July 20</span></span>
-<span data-ttu-id="5080d-1224">*버전 2007 (빌드 13029.20236)*</span><span class="sxs-lookup"><span data-stu-id="5080d-1224">*Version 2007 (Build 13029.20236)*</span></span>
-* <span data-ttu-id="5080d-1225">다양한 버그 및 성능 수정 사항.</span><span class="sxs-lookup"><span data-stu-id="5080d-1225">Various bugs and performance fixes.</span></span>
+## <a name="version-2007-july-20"></a><span data-ttu-id="1a0ed-1230">버전 2007: 7월 20일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1230">Version 2007: July 20</span></span>
+<span data-ttu-id="1a0ed-1231">*버전 2007 (빌드 13029.20236)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1231">*Version 2007 (Build 13029.20236)*</span></span>
+* <span data-ttu-id="1a0ed-1232">다양한 버그 및 성능 수정 사항.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1232">Various bugs and performance fixes.</span></span>
 
-## <a name="version-2007-july-15"></a><span data-ttu-id="5080d-1226">버전 2007: 7월 15일</span><span class="sxs-lookup"><span data-stu-id="5080d-1226">Version 2007: July 15</span></span>
-<span data-ttu-id="5080d-1227">*버전 2007(빌드 13029.20200)*</span><span class="sxs-lookup"><span data-stu-id="5080d-1227">*Version 2007 (Build 13029.20200)*</span></span>
+## <a name="version-2007-july-15"></a><span data-ttu-id="1a0ed-1233">버전 2007: 7월 15일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1233">Version 2007: July 15</span></span>
+<span data-ttu-id="1a0ed-1234">*버전 2007(빌드 13029.20200)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1234">*Version 2007 (Build 13029.20200)*</span></span>
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="feature-updates"></a><span data-ttu-id="5080d-1229">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="5080d-1229">Feature updates</span></span>
-### <a name="excel"></a><span data-ttu-id="5080d-1230">Excel</span><span class="sxs-lookup"><span data-stu-id="5080d-1230">Excel</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="1a0ed-1236">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1236">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="1a0ed-1237">Excel</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1237">Excel</span></span>
 
-- <span data-ttu-id="5080d-1231">**Excel에서 세련된 Visio 다이어그램 만들기:** 워크시트에 데이터를 입력하여 순서도 또는 조직도를 만듭니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1231">**Make polished Visio diagrams in Excel:** Create a flow chart or organizational chart by putting data on a worksheet.</span></span> [<span data-ttu-id="5080d-1232">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="5080d-1232">Learn more</span></span>](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- <span data-ttu-id="1a0ed-1238">**Excel에서 세련된 Visio 다이어그램 만들기:** 워크시트에 데이터를 입력하여 순서도 또는 조직도를 만듭니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1238">**Make polished Visio diagrams in Excel:** Create a flow chart or organizational chart by putting data on a worksheet.</span></span> [<span data-ttu-id="1a0ed-1239">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1239">Learn more</span></span>](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -2392,195 +2402,195 @@ ms.locfileid: "51749066"
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-1235">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-1235">Resolved issues</span></span>
-### <a name="access"></a><span data-ttu-id="5080d-1236">Access</span><span class="sxs-lookup"><span data-stu-id="5080d-1236">Access</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-1242">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1242">Resolved issues</span></span>
+### <a name="access"></a><span data-ttu-id="1a0ed-1243">Access</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1243">Access</span></span>
 
-- <span data-ttu-id="5080d-1237">연결된 SQL 표를 새로고침할 경우 연결된 표 관리자에서 기본 키에 관한 메시지를 표시하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1237">We fixed an issue where the linked table manager would prompt a primary key if a linked SQL table was refreshed.</span></span>
+- <span data-ttu-id="1a0ed-1244">연결된 SQL 표를 새로고침할 경우 연결된 표 관리자에서 기본 키에 관한 메시지를 표시하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1244">We fixed an issue where the linked table manager would prompt a primary key if a linked SQL table was refreshed.</span></span>
 
-- <span data-ttu-id="5080d-1238">쿼리 편집기의 쿼리가 스크롤되어 보이지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1238">We fixed an issue where queries in the Query Editor scrolled out of view.</span></span>
+- <span data-ttu-id="1a0ed-1245">쿼리 편집기의 쿼리가 스크롤되어 보이지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1245">We fixed an issue where queries in the Query Editor scrolled out of view.</span></span>
 
-- <span data-ttu-id="5080d-1239">쿼리 실행이 예상했던 시간보다 거의 두 배 이상 걸리는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1239">We fixed an issue where query execution was taking approximately twice as long to complete than expected.</span></span>
+- <span data-ttu-id="1a0ed-1246">쿼리 실행이 예상했던 시간보다 거의 두 배 이상 걸리는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1246">We fixed an issue where query execution was taking approximately twice as long to complete than expected.</span></span>
 
-- <span data-ttu-id="5080d-1240">Microsoft Access에서 연결된 SQL Server 표의 ID 열이 식별되지 않아서 행이 올바르지 않게 삭제된 것으로 보고되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1240">We fixed an issue that caused Microsoft Access to fail to identify an Identity Column in a linked SQL Server table, which could cause rows to be reported as deleted incorrectly.</span></span>
+- <span data-ttu-id="1a0ed-1247">Microsoft Access에서 연결된 SQL Server 표의 ID 열이 식별되지 않아서 행이 올바르지 않게 삭제된 것으로 보고되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1247">We fixed an issue that caused Microsoft Access to fail to identify an Identity Column in a linked SQL Server table, which could cause rows to be reported as deleted incorrectly.</span></span>
 
-### <a name="excel"></a><span data-ttu-id="5080d-1241">Excel</span><span class="sxs-lookup"><span data-stu-id="5080d-1241">Excel</span></span>
+### <a name="excel"></a><span data-ttu-id="1a0ed-1248">Excel</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1248">Excel</span></span>
 
-- <span data-ttu-id="5080d-1242">최근 사용한 목록에 http 또는 https가 아닌 URL이 표시되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1242">We fixed an issue where URLs that were not http or https based were not being displayed in the Most Recently Used list.</span></span>
+- <span data-ttu-id="1a0ed-1249">최근 사용한 목록에 http 또는 https가 아닌 URL이 표시되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1249">We fixed an issue where URLs that were not http or https based were not being displayed in the Most Recently Used list.</span></span>
 
-- <span data-ttu-id="5080d-1243">페이지 나누기 미리 보기에서 여러 시트가 포함 된 통합 문서를 로드할 때 오류 또는 중단이 발생할 수 있는 문제를 해결 했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1243">Fixed an issue where an error or hang may occur when loading a workbook with with multiple sheets in page break preview.</span></span>
+- <span data-ttu-id="1a0ed-1250">페이지 나누기 미리 보기에서 여러 시트가 포함 된 통합 문서를 로드할 때 오류 또는 중단이 발생할 수 있는 문제를 해결 했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1250">Fixed an issue where an error or hang may occur when loading a workbook with with multiple sheets in page break preview.</span></span>
 
-- <span data-ttu-id="5080d-1244">표와 연결된 쿼리를 편집하지 않은 경우에도 특정 버전의 Excel에서 만든 데이터 모델 표를 '표 미리 보기'에서 볼 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1244">We fixed an issue where data model tables created in certain versions of Excel could not be seen in 'Table Preview' even though the query associated with the table had not been edited.</span></span>
+- <span data-ttu-id="1a0ed-1251">표와 연결된 쿼리를 편집하지 않은 경우에도 특정 버전의 Excel에서 만든 데이터 모델 표를 '표 미리 보기'에서 볼 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1251">We fixed an issue where data model tables created in certain versions of Excel could not be seen in 'Table Preview' even though the query associated with the table had not been edited.</span></span>
 
-- <span data-ttu-id="5080d-1245">이름 정의 \ 이름 적용 대화 상자에서 상대\절대’ 참조 무시를 사용 안 함으로 설정하면 서식이 작동하지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1245">Ignore Relative/Absolute' references in the Define Name \ Apply Names dialog would cause formulas to not work.</span></span>
+- <span data-ttu-id="1a0ed-1252">이름 정의 \ 이름 적용 대화 상자에서 상대\절대’ 참조 무시를 사용 안 함으로 설정하면 서식이 작동하지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1252">Ignore Relative/Absolute' references in the Define Name \ Apply Names dialog would cause formulas to not work.</span></span>
 
-- <span data-ttu-id="5080d-1246">SharePoint/OneDrive에 저장 시 사용자 지정 리본 탭의 CustomUI XML이 제거되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1246">We fixed an issue where CustomUI XML for a custom ribbon tab was removed when saving a workbook to SharePoint/OneDrive.</span></span>
+- <span data-ttu-id="1a0ed-1253">SharePoint/OneDrive에 저장 시 사용자 지정 리본 탭의 CustomUI XML이 제거되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1253">We fixed an issue where CustomUI XML for a custom ribbon tab was removed when saving a workbook to SharePoint/OneDrive.</span></span>
 
-- <span data-ttu-id="5080d-1247">파일에 읽기 전용 권장 설정이 되어 있는 경우 통합 문서가 읽기 전용으로 유지 되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1247">We fixed an issue where workbooks were read-only when the file only had read-only recommended.</span></span>
+- <span data-ttu-id="1a0ed-1254">파일에 읽기 전용 권장 설정이 되어 있는 경우 통합 문서가 읽기 전용으로 유지 되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1254">We fixed an issue where workbooks were read-only when the file only had read-only recommended.</span></span>
 
-- <span data-ttu-id="5080d-1248">페이지 나누기 미리 보기에서 여러 시트가 포함 된 통합 문서를 로드할 때 오류 또는 중단이 발생할 수 있는 문제를 해결 했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1248">Fixed an issue where an error or hang may occur when loading a workbook with with multiple sheets in page break preview.</span></span>
+- <span data-ttu-id="1a0ed-1255">페이지 나누기 미리 보기에서 여러 시트가 포함 된 통합 문서를 로드할 때 오류 또는 중단이 발생할 수 있는 문제를 해결 했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1255">Fixed an issue where an error or hang may occur when loading a workbook with with multiple sheets in page break preview.</span></span>
 
-- <span data-ttu-id="5080d-1249">방사형 차트의 주 눈금선에 제대로 서식을 지정할 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1249">We fixed an issue where the major gridlines of radar charts could not be formatted correctly.</span></span>
+- <span data-ttu-id="1a0ed-1256">방사형 차트의 주 눈금선에 제대로 서식을 지정할 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1256">We fixed an issue where the major gridlines of radar charts could not be formatted correctly.</span></span>
 
 
-- <span data-ttu-id="5080d-1250">고급 데이터 필터를 해제하면 표 서식이 손실될 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1250">We fixed an issue where clearing an advanced data filter could lose table formatting.</span></span>
+- <span data-ttu-id="1a0ed-1257">고급 데이터 필터를 해제하면 표 서식이 손실될 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1257">We fixed an issue where clearing an advanced data filter could lose table formatting.</span></span>
 
 
-- <span data-ttu-id="5080d-1251">포함된 PDF 문서의 전체 경로가 파일 이름만이 아니라 문서 캡션에 표시되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1251">We fixed an issue where the full path of an embedded PDF document would show in the document caption rather than just the filename.</span></span>
+- <span data-ttu-id="1a0ed-1258">포함된 PDF 문서의 전체 경로가 파일 이름만이 아니라 문서 캡션에 표시되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1258">We fixed an issue where the full path of an embedded PDF document would show in the document caption rather than just the filename.</span></span>
 
 
-- <span data-ttu-id="5080d-1252">Wolfram 클라우드 커넥터를 사용하지 않음으로 설정한 다음 Excel 통합 문서를 저장하고 다시 여는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1252">We fixed an issue where after disabling the Wolfram cloud connector and then saving and re-opening an Excel workbook, could result in a crash.</span></span>
+- <span data-ttu-id="1a0ed-1259">Wolfram 클라우드 커넥터를 사용하지 않음으로 설정한 다음 Excel 통합 문서를 저장하고 다시 여는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1259">We fixed an issue where after disabling the Wolfram cloud connector and then saving and re-opening an Excel workbook, could result in a crash.</span></span>
 
 
-- <span data-ttu-id="5080d-1253">해 찾기 추가 기능을 사용한 상태에서 Excel을 부팅하면 충돌이 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1253">We fixed an issue where booting Excel with the Solver add-in enabled would result in a crash.</span></span>
+- <span data-ttu-id="1a0ed-1260">해 찾기 추가 기능을 사용한 상태에서 Excel을 부팅하면 충돌이 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1260">We fixed an issue where booting Excel with the Solver add-in enabled would result in a crash.</span></span>
 
 
-### <a name="outlook"></a><span data-ttu-id="5080d-1254">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-1254">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-1261">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1261">Outlook</span></span>
 
-- <span data-ttu-id="5080d-1255">‘받는 사람’ 줄에 130명 이상이 있을 경우 Outlook이 중단되는 문제를 해결했으며, 해당 텍스트를 렌더링하는 성능도 향상했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1255">We fixed an issue where Outlook would hang if there were over 130 recipients on the 'To' line and we also improved the performance of rendering the text.</span></span>
+- <span data-ttu-id="1a0ed-1262">‘받는 사람’ 줄에 130명 이상이 있을 경우 Outlook이 중단되는 문제를 해결했으며, 해당 텍스트를 렌더링하는 성능도 향상했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1262">We fixed an issue where Outlook would hang if there were over 130 recipients on the 'To' line and we also improved the performance of rendering the text.</span></span>
 
 
-- <span data-ttu-id="5080d-1256">해상도가 다른 여러 모니터를 사용할 때 입력 방법 편집기(IME) 창이 IME를 통해 입력되는 기본 텍스트와 겹치는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1256">We fixed an issue where the Input Method Editor (IME) window would overlap the underlying text being entered via the IME when using multiple monitors with different resolutions.</span></span>
+- <span data-ttu-id="1a0ed-1263">해상도가 다른 여러 모니터를 사용할 때 입력 방법 편집기(IME) 창이 IME를 통해 입력되는 기본 텍스트와 겹치는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1263">We fixed an issue where the Input Method Editor (IME) window would overlap the underlying text being entered via the IME when using multiple monitors with different resolutions.</span></span>
 
 
-- <span data-ttu-id="5080d-1257">이벤트가 2일 이상 경과하고 이후 동일한 종료 시간을 표시하는 '할 일 모음'의 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1257">We fixed an issue in the 'To Do Bar' where events that spanned more than two days, displayed the same end time for all subsequent days.</span></span>
+- <span data-ttu-id="1a0ed-1264">이벤트가 2일 이상 경과하고 이후 동일한 종료 시간을 표시하는 '할 일 모음'의 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1264">We fixed an issue in the 'To Do Bar' where events that spanned more than two days, displayed the same end time for all subsequent days.</span></span>
 
 
-- <span data-ttu-id="5080d-1258">끌어서 놓기를 통해 파일 시스템으로으로 복사한 파일의 첨부 생성 날짜가 4501년 1월 1일로 설정되는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1258">Addresses an issue that caused users to see the creation date of attachments that they copied to their file system via drag and drop getting set to January 1, 4501.</span></span>
+- <span data-ttu-id="1a0ed-1265">끌어서 놓기를 통해 파일 시스템으로으로 복사한 파일의 첨부 생성 날짜가 4501년 1월 1일로 설정되는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1265">Addresses an issue that caused users to see the creation date of attachments that they copied to their file system via drag and drop getting set to January 1, 4501.</span></span>
 
 
-- <span data-ttu-id="5080d-1259">사용자가 메일 배포 목록에서 '다른 사람으로 보내기' 혹은 '대신 보내기'를 할 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1259">We fixed an issue where users were unable to 'Send As' or 'Send on behalf' of a distribution list.</span></span>
+- <span data-ttu-id="1a0ed-1266">사용자가 메일 배포 목록에서 '다른 사람으로 보내기' 혹은 '대신 보내기'를 할 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1266">We fixed an issue where users were unable to 'Send As' or 'Send on behalf' of a distribution list.</span></span>
 
 
-- <span data-ttu-id="5080d-1260">관리자의 일정에서 기존 일정 약속을 편집할 때 대리인에게 오류가 발생하는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1260">Addresses an issue that caused delegates to receive an error when editing an existing calendar appointment on a manager's calendar.</span></span>
+- <span data-ttu-id="1a0ed-1267">관리자의 일정에서 기존 일정 약속을 편집할 때 대리인에게 오류가 발생하는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1267">Addresses an issue that caused delegates to receive an error when editing an existing calendar appointment on a manager's calendar.</span></span>
 
 
-- <span data-ttu-id="5080d-1261">이전에 저장한 약속을 닫을 때 “다른 사용자 또는 다른 창에서 변경했기 때문에 해당 항목을 저장할 수 없음” 오류가 표시되는 문제가 수정 되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1261">We fixed an issue that caused users to see the following error when closing an appointment that was previously saved "The item cannot be saved because it was changed by another user or in another window.</span></span> <span data-ttu-id="5080d-1262">“항목에 대한 기본 폴더에 복사본을 만드시겠습니까?”</span><span class="sxs-lookup"><span data-stu-id="5080d-1262">Do you want to make a copy in the default folder for the item?"</span></span>
+- <span data-ttu-id="1a0ed-1268">이전에 저장한 약속을 닫을 때 “다른 사용자 또는 다른 창에서 변경했기 때문에 해당 항목을 저장할 수 없음” 오류가 표시되는 문제가 수정 되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1268">We fixed an issue that caused users to see the following error when closing an appointment that was previously saved "The item cannot be saved because it was changed by another user or in another window.</span></span> <span data-ttu-id="1a0ed-1269">“항목에 대한 기본 폴더에 복사본을 만드시겠습니까?”</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1269">Do you want to make a copy in the default folder for the item?"</span></span>
 
 
-- <span data-ttu-id="5080d-1263">공유 폴더 다운로드를 선택하지 않은 경우 공유 일정 모임 “응답 옵션”에 “전달 허용” 옵션이 없는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1263">Addresses an issue that caused the "Allow Forwarding" option to be missing from shared calendar meeting "Response Options" when Download Shared folder was NOT checked.</span></span>
+- <span data-ttu-id="1a0ed-1270">공유 폴더 다운로드를 선택하지 않은 경우 공유 일정 모임 “응답 옵션”에 “전달 허용” 옵션이 없는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1270">Addresses an issue that caused the "Allow Forwarding" option to be missing from shared calendar meeting "Response Options" when Download Shared folder was NOT checked.</span></span>
 
 
-- <span data-ttu-id="5080d-1264">보안 대화 상자에서 "저장" 옵션을 선택할 때 사용자가 테넌트 외부에서 로컬 컴퓨터에 OneDrive 첨부 파일을 저장할 수 없는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1264">Addresses an issue that caused users to be unable to save OneDrive attachments from outside their tenant to their local computer when selecting the "Save" option on the security dialog.</span></span>
+- <span data-ttu-id="1a0ed-1271">보안 대화 상자에서 "저장" 옵션을 선택할 때 사용자가 테넌트 외부에서 로컬 컴퓨터에 OneDrive 첨부 파일을 저장할 수 없는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1271">Addresses an issue that caused users to be unable to save OneDrive attachments from outside their tenant to their local computer when selecting the "Save" option on the security dialog.</span></span>
 
 
-- <span data-ttu-id="5080d-1265">공유 일정을 사용한 후 몇 분 동안 Outlook 사용자의 메시지 목록이 업데이트 되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1265">We fixed an issue that caused users of Outlook to see their message list stop updating for several minutes after using shared calendars.</span></span>
+- <span data-ttu-id="1a0ed-1272">공유 일정을 사용한 후 몇 분 동안 Outlook 사용자의 메시지 목록이 업데이트 되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1272">We fixed an issue that caused users of Outlook to see their message list stop updating for several minutes after using shared calendars.</span></span>
 
 
-- <span data-ttu-id="5080d-1266">일주일 이내에 진행될 모임의 시간을 일정 미리 알림에서 정확하게 표시하지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1266">We fixed an issue that prevented calendar reminders from showing exact times for meetings coming up in less than a week.</span></span> 
+- <span data-ttu-id="1a0ed-1273">일주일 이내에 진행될 모임의 시간을 일정 미리 알림에서 정확하게 표시하지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1273">We fixed an issue that prevented calendar reminders from showing exact times for meetings coming up in less than a week.</span></span> 
 
 
-- <span data-ttu-id="5080d-1267">메시지에 이미지를 인라인으로 삽입한 다음 메시지를 초안으로 저장하면 이미지 크기가 조정되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1267">We fixed an issue where inserting an image inline in a message, then saving the message as a draft would result in a resizing of the image.</span></span>
+- <span data-ttu-id="1a0ed-1274">메시지에 이미지를 인라인으로 삽입한 다음 메시지를 초안으로 저장하면 이미지 크기가 조정되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1274">We fixed an issue where inserting an image inline in a message, then saving the message as a draft would result in a resizing of the image.</span></span>
 
 
-- <span data-ttu-id="5080d-1268">제목을 편집한 후 NDR 메시지 본문이 유니코드에서 ASCII로 변경되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1268">We fixed an issue that caused the body of an NDR message to change from Unicode to ASCII after editing the subject.</span></span>
+- <span data-ttu-id="1a0ed-1275">제목을 편집한 후 NDR 메시지 본문이 유니코드에서 ASCII로 변경되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1275">We fixed an issue that caused the body of an NDR message to change from Unicode to ASCII after editing the subject.</span></span>
 
 
-- <span data-ttu-id="5080d-1269">일본에서 미니 캘린더의 날짜가 굵게 표시되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1269">We fixed an issue where dates in the mini calendar failed to display in bold for users in Japan.</span></span>
+- <span data-ttu-id="1a0ed-1276">일본에서 미니 캘린더의 날짜가 굵게 표시되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1276">We fixed an issue where dates in the mini calendar failed to display in bold for users in Japan.</span></span>
 
 
-### <a name="powerpoint"></a><span data-ttu-id="5080d-1270">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="5080d-1270">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="1a0ed-1277">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1277">PowerPoint</span></span>
 
-- <span data-ttu-id="5080d-1271">실시간 공동 작성 세션이 진행 동안 사용자의 현재 상태 색 표시기가 공동 작성 갤러리에서 새로고침되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1271">We fixed an issue where a user's presence color indicator was not getting refreshed in the co-authoring gallery during a live co-authoring session.</span></span>
+- <span data-ttu-id="1a0ed-1278">실시간 공동 작성 세션이 진행 동안 사용자의 현재 상태 색 표시기가 공동 작성 갤러리에서 새로고침되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1278">We fixed an issue where a user's presence color indicator was not getting refreshed in the co-authoring gallery during a live co-authoring session.</span></span>
 
 
-- <span data-ttu-id="5080d-1272">슬라이드의 텍스트 영역에 HTML을 붙여넣는 대신 슬라이드 맨 위에 있는 텍스트 상자에 붙여넣는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1272">We fixed an issue where pasting HTML to a text area on a slide would instead get pasted into a text box created at the top of the slide.</span></span>
+- <span data-ttu-id="1a0ed-1279">슬라이드의 텍스트 영역에 HTML을 붙여넣는 대신 슬라이드 맨 위에 있는 텍스트 상자에 붙여넣는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1279">We fixed an issue where pasting HTML to a text area on a slide would instead get pasted into a text box created at the top of the slide.</span></span>
 
 
-- <span data-ttu-id="5080d-1273">발표자 보기에서 모든 슬라이드를 선택하고 나서 발표자 보기를 종료하고 Alt+Tab을 사용하여 슬라이드 쇼로 돌아가 '쇼 종료'를 클릭할 때 처리되지 않은 예외가 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1273">We fixed an issue where selecting all slides in Presenter View, then exiting Presenter View using Alt+Tab and returning to the slide show and clicking 'End Show' would result in an unhandled exception.</span></span>
+- <span data-ttu-id="1a0ed-1280">발표자 보기에서 모든 슬라이드를 선택하고 나서 발표자 보기를 종료하고 Alt+Tab을 사용하여 슬라이드 쇼로 돌아가 '쇼 종료'를 클릭할 때 처리되지 않은 예외가 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1280">We fixed an issue where selecting all slides in Presenter View, then exiting Presenter View using Alt+Tab and returning to the slide show and clicking 'End Show' would result in an unhandled exception.</span></span>
 
 
-### <a name="project"></a><span data-ttu-id="5080d-1274">Project</span><span class="sxs-lookup"><span data-stu-id="5080d-1274">Project</span></span>
+### <a name="project"></a><span data-ttu-id="1a0ed-1281">Project</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1281">Project</span></span>
 
-- <span data-ttu-id="5080d-1275">Project에서 SharePoint 문서 라이브러리에 PDF/XPS를 저장 할 수 없는 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1275">Fixed an issue where you couldn't save a PDF/XPS from Project to a SharePoint document library.</span></span>
+- <span data-ttu-id="1a0ed-1282">Project에서 SharePoint 문서 라이브러리에 PDF/XPS를 저장 할 수 없는 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1282">Fixed an issue where you couldn't save a PDF/XPS from Project to a SharePoint document library.</span></span>
 
 
-- <span data-ttu-id="5080d-1276">Project Web App에서 URL이 .com으로 끝나는 경우 Project 데스크톱 클라이언트에서 프로젝트를 열 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1276">Fixed an issue where projects couldn't be opened in the Project desktop client from Project Web App if the URL ended in .com.</span></span>
+- <span data-ttu-id="1a0ed-1283">Project Web App에서 URL이 .com으로 끝나는 경우 Project 데스크톱 클라이언트에서 프로젝트를 열 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1283">Fixed an issue where projects couldn't be opened in the Project desktop client from Project Web App if the URL ended in .com.</span></span>
 
 
-- <span data-ttu-id="5080d-1277">특정 XML 파일을 열때 Project가 충돌할 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1277">We fixed an issue where Project may crash when opening certain XML files.</span></span>
+- <span data-ttu-id="1a0ed-1284">특정 XML 파일을 열때 Project가 충돌할 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1284">We fixed an issue where Project may crash when opening certain XML files.</span></span>
 
 
-- <span data-ttu-id="5080d-1278">Project Web App에서 URL이 '.com'으로 끝나는 경우 Project 데스크톱 클라이언트에서 프로젝트를 열 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1278">We fixed an issue where projects couldn't be opened in the Project desktop client from the Project Web App if the URL ended in '.com'.</span></span>
+- <span data-ttu-id="1a0ed-1285">Project Web App에서 URL이 '.com'으로 끝나는 경우 Project 데스크톱 클라이언트에서 프로젝트를 열 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1285">We fixed an issue where projects couldn't be opened in the Project desktop client from the Project Web App if the URL ended in '.com'.</span></span>
 
 
-- <span data-ttu-id="5080d-1279">여러 종속성이 있는 작업을 붙여 넣는 경우 일부 종속성이 제대로 복사 되지 않는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1279">Fixed an issue where if you paste a task that has multiple dependencies, not all dependencies are copied correctly.</span></span>
+- <span data-ttu-id="1a0ed-1286">여러 종속성이 있는 작업을 붙여 넣는 경우 일부 종속성이 제대로 복사 되지 않는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1286">Fixed an issue where if you paste a task that has multiple dependencies, not all dependencies are copied correctly.</span></span>
 
 
-- <span data-ttu-id="5080d-1280">자원 배정 대화 상자에서 선택한 작업이 작업 게시판 보기에서 선택 된 작업과 같지 않은 문제를 해결 했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1280">Fixed an issue where the task selected in the assign resources dialog isn't the same as the task selected in the task board view.</span></span>
+- <span data-ttu-id="1a0ed-1287">자원 배정 대화 상자에서 선택한 작업이 작업 게시판 보기에서 선택 된 작업과 같지 않은 문제를 해결 했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1287">Fixed an issue where the task selected in the assign resources dialog isn't the same as the task selected in the task board view.</span></span>
 
 
-- <span data-ttu-id="5080d-1281">프로젝트 요약 작업(프로젝트 시작/작업 필드)을 변경할 때 ProjectBeforeTaskChange 이벤트가 발생하지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1281">We fixed an issue where the ProjectBeforeTaskChange event didn't fire when there was a change to the project summary task, either the project start/task field.</span></span>
+- <span data-ttu-id="1a0ed-1288">프로젝트 요약 작업(프로젝트 시작/작업 필드)을 변경할 때 ProjectBeforeTaskChange 이벤트가 발생하지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1288">We fixed an issue where the ProjectBeforeTaskChange event didn't fire when there was a change to the project summary task, either the project start/task field.</span></span>
 
 
-- <span data-ttu-id="5080d-1282">기간 고정 작업이 100% 완료 상태이지만 실제 완료 날짜가 지정되지 않은 경우 작업 완료율(%)이 100% 미만으로 표시되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1282">We fixed an issue where if Fixed Duration tasks are at 100% complete but the Actual Finish is not specified, the Task % Complete would display as less than 100%.</span></span>
+- <span data-ttu-id="1a0ed-1289">기간 고정 작업이 100% 완료 상태이지만 실제 완료 날짜가 지정되지 않은 경우 작업 완료율(%)이 100% 미만으로 표시되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1289">We fixed an issue where if Fixed Duration tasks are at 100% complete but the Actual Finish is not specified, the Task % Complete would display as less than 100%.</span></span>
 
-- <span data-ttu-id="5080d-1283">초기 계획 재설정 또는 업데이트로 기간별 예산 비용/작업 자원이 변경되고 초기 계획에 잘못된 예산 값이 반영 될 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1283">We fixed an issue where a baseline reset or update could change time-phased budget cost/work resources and the baseline could reflect incorrect budget values.</span></span>
+- <span data-ttu-id="1a0ed-1290">초기 계획 재설정 또는 업데이트로 기간별 예산 비용/작업 자원이 변경되고 초기 계획에 잘못된 예산 값이 반영 될 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1290">We fixed an issue where a baseline reset or update could change time-phased budget cost/work resources and the baseline could reflect incorrect budget values.</span></span>
 
 
-- <span data-ttu-id="5080d-1284">정부 커뮤니티 클라우드 환경의 Project Planner 링크가 사용 안 함으로 설정되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1284">We fixed an issue where Project Planner links in Government Community Cloud environments had been disabled.</span></span>
+- <span data-ttu-id="1a0ed-1291">정부 커뮤니티 클라우드 환경의 Project Planner 링크가 사용 안 함으로 설정되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1291">We fixed an issue where Project Planner links in Government Community Cloud environments had been disabled.</span></span>
 
 
-- <span data-ttu-id="5080d-1285">라이브러리가 최신 모드인 경우 SharePoint 문서 라이브러리에서 Project 파일을 열 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1285">We fixed an issue where you couldn't open a Project file from a SharePoint document library if the library was in modern mode.</span></span>
+- <span data-ttu-id="1a0ed-1292">라이브러리가 최신 모드인 경우 SharePoint 문서 라이브러리에서 Project 파일을 열 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1292">We fixed an issue where you couldn't open a Project file from a SharePoint document library if the library was in modern mode.</span></span>
 
 
-### <a name="word"></a><span data-ttu-id="5080d-1286">Word</span><span class="sxs-lookup"><span data-stu-id="5080d-1286">Word</span></span>
+### <a name="word"></a><span data-ttu-id="1a0ed-1293">Word</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1293">Word</span></span>
 
-- <span data-ttu-id="5080d-1287">Office 리본의 서식 지우기 단추를 통해 메모 창에서 서식을 지울 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1287">We fixed an issue where the ability to clear formatting within the Comments pane via the Clear Formatting button in the Office Ribbon was not working.</span></span>
+- <span data-ttu-id="1a0ed-1294">Office 리본의 서식 지우기 단추를 통해 메모 창에서 서식을 지울 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1294">We fixed an issue where the ability to clear formatting within the Comments pane via the Clear Formatting button in the Office Ribbon was not working.</span></span>
 
 
-- <span data-ttu-id="5080d-1288">Word, Excel 또는 PowerPoint 파일에 SVG(확장 가능한 벡터 그래픽)를 삽입한 후 파일을 저장하고 닫은 다음 파일을 다시 열었을 때 읽기 어려워 보이는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1288">We fixed an issue where text inserted in a Scalable Vector Graphic (SVG) was illegible after inserting it in a Word, Excel, or PowerPoint file, saving and closing the file, and then re-opening the file.</span></span>
+- <span data-ttu-id="1a0ed-1295">Word, Excel 또는 PowerPoint 파일에 SVG(확장 가능한 벡터 그래픽)를 삽입한 후 파일을 저장하고 닫은 다음 파일을 다시 열었을 때 읽기 어려워 보이는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1295">We fixed an issue where text inserted in a Scalable Vector Graphic (SVG) was illegible after inserting it in a Word, Excel, or PowerPoint file, saving and closing the file, and then re-opening the file.</span></span>
 
 
-- <span data-ttu-id="5080d-1289">눈금자가 표시되지 않을 때 표 크기를 변경 하는 경우 백그라운드에서 실행되는 다른 응용 프로그램에서 번쩍임이 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1289">We fixed an issue where changing the size of a table when the ruler is not displayed caused other applications running in the background to start flashing.</span></span>
+- <span data-ttu-id="1a0ed-1296">눈금자가 표시되지 않을 때 표 크기를 변경 하는 경우 백그라운드에서 실행되는 다른 응용 프로그램에서 번쩍임이 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1296">We fixed an issue where changing the size of a table when the ruler is not displayed caused other applications running in the background to start flashing.</span></span>
 
 
-- <span data-ttu-id="5080d-1290">공동 작성 모드에서 가끔 메모 회신이 메모 창에 표시되지는 않지만 수정 창에는 표시되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1290">We fixed an issue where in co-authoring mode, comment replies would sometimes not show up in the comments pane but would be visible in the revisions pane.</span></span>
+- <span data-ttu-id="1a0ed-1297">공동 작성 모드에서 가끔 메모 회신이 메모 창에 표시되지는 않지만 수정 창에는 표시되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1297">We fixed an issue where in co-authoring mode, comment replies would sometimes not show up in the comments pane but would be visible in the revisions pane.</span></span>
 
 
-- <span data-ttu-id="5080d-1291">병합 충돌이 발생하고 사용자가 변경 내용을 삭제하도록 이미 선택했을 때 공동 작성 모드에서 발생하는 문제를 해결했습니다. 더 이상 변경 내용을 저장하거나 삭제하는 옵션이 표시되지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1291">We fixed an issue during co-authoring mode when there is a merge conflict and the user has already chosen to discard changes, we no longer display the option to save or discard changes.</span></span>
+- <span data-ttu-id="1a0ed-1298">병합 충돌이 발생하고 사용자가 변경 내용을 삭제하도록 이미 선택했을 때 공동 작성 모드에서 발생하는 문제를 해결했습니다. 더 이상 변경 내용을 저장하거나 삭제하는 옵션이 표시되지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1298">We fixed an issue during co-authoring mode when there is a merge conflict and the user has already chosen to discard changes, we no longer display the option to save or discard changes.</span></span>
 
 
-- <span data-ttu-id="5080d-1292">HTML 하이퍼링크 색이 제대로 렌더링되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1292">We fixed an issue where the HTML hyperlink color was not being rendered correctly.</span></span>
+- <span data-ttu-id="1a0ed-1299">HTML 하이퍼링크 색이 제대로 렌더링되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1299">We fixed an issue where the HTML hyperlink color was not being rendered correctly.</span></span>
 
 
-- <span data-ttu-id="5080d-1293">Word에서 자주 여는 문서의 수가 50개를 초과하는 경우 문서를 저장하고 연 후 해당 문서에 대한 수정 내용이 없는 경우에도 수정 기록이 표시되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1293">We fixed an issue where if Word had a list of more than 50 frequently opened documents, then after saving and opening a document, a revision history would be displayed even though no revisions were made to that document.</span></span>
+- <span data-ttu-id="1a0ed-1300">Word에서 자주 여는 문서의 수가 50개를 초과하는 경우 문서를 저장하고 연 후 해당 문서에 대한 수정 내용이 없는 경우에도 수정 기록이 표시되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1300">We fixed an issue where if Word had a list of more than 50 frequently opened documents, then after saving and opening a document, a revision history would be displayed even though no revisions were made to that document.</span></span>
 
 
-- <span data-ttu-id="5080d-1294">공동 작성 중 자동 저장과 관련 된 문제가 해결 되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1294">We fixed in issue with autosave during coauthoring.</span></span>
+- <span data-ttu-id="1a0ed-1301">공동 작성 중 자동 저장과 관련 된 문제가 해결 되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1301">We fixed in issue with autosave during coauthoring.</span></span>
 
 
-- <span data-ttu-id="5080d-1295">매크로가 포함된 파일을 새 이름으로 저장하려고 하면 사용자가 입력한 내용에 상관없이 파일이 .docx 확장명과 파일 이름 ‘WRO0004.docx’로 저장되어 문서를 사용할 수 없게 만드는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1295">We fixed an issue that, when attempting to save a file containing a macro under a new name, would cause it to be saved with a .docx extension and the filename 'WRO0004.docx', regardless of what the user entered, rendering the document unusable.</span></span>
+- <span data-ttu-id="1a0ed-1302">매크로가 포함된 파일을 새 이름으로 저장하려고 하면 사용자가 입력한 내용에 상관없이 파일이 .docx 확장명과 파일 이름 ‘WRO0004.docx’로 저장되어 문서를 사용할 수 없게 만드는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1302">We fixed an issue that, when attempting to save a file containing a macro under a new name, would cause it to be saved with a .docx extension and the filename 'WRO0004.docx', regardless of what the user entered, rendering the document unusable.</span></span>
 
 
-### <a name="office-suite"></a><span data-ttu-id="5080d-1296">Office 제품군</span><span class="sxs-lookup"><span data-stu-id="5080d-1296">Office Suite</span></span>
+### <a name="office-suite"></a><span data-ttu-id="1a0ed-1303">Office 제품군</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1303">Office Suite</span></span>
 
-- <span data-ttu-id="5080d-1297">시간 문제 때문에 Office 파일을 닫을 때 충돌이 발생할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1297">A timing issue could cause a crash when closing office files</span></span>
+- <span data-ttu-id="1a0ed-1304">시간 문제 때문에 Office 파일을 닫을 때 충돌이 발생할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1304">A timing issue could cause a crash when closing office files</span></span>
 
-- <span data-ttu-id="5080d-1298">서비스가 올바르게 계산 된 제품이 추가 되었는지 확인하여 수정 할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1298">The fix for this issue was to ensure the service properly computed added products.</span></span> <span data-ttu-id="5080d-1299">새로 추가한 제품(새 구성에도 존재 하는지 확인)을 필터링하고 기존 제품 출시 ID 끝에 추가 했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1299">We filtered out the newly added products (ensuring that they exist in the new configuration as well) and added them to the end of existing Product release IDs.</span></span>
+- <span data-ttu-id="1a0ed-1305">서비스가 올바르게 계산 된 제품이 추가 되었는지 확인하여 수정 할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1305">The fix for this issue was to ensure the service properly computed added products.</span></span> <span data-ttu-id="1a0ed-1306">새로 추가한 제품(새 구성에도 존재 하는지 확인)을 필터링하고 기존 제품 출시 ID 끝에 추가 했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1306">We filtered out the newly added products (ensuring that they exist in the new configuration as well) and added them to the end of existing Product release IDs.</span></span>
 
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
-## <a name="version-2006-july-09"></a><span data-ttu-id="5080d-1301">버전 2006: 7월 9일</span><span class="sxs-lookup"><span data-stu-id="5080d-1301">Version 2006: July 09</span></span>
-<span data-ttu-id="5080d-1302">*버전 2006 (빌드 13001.20384)*</span><span class="sxs-lookup"><span data-stu-id="5080d-1302">*Version 2006 (Build 13001.20384)*</span></span>
+## <a name="version-2006-july-09"></a><span data-ttu-id="1a0ed-1308">버전 2006: 7월 9일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1308">Version 2006: July 09</span></span>
+<span data-ttu-id="1a0ed-1309">*버전 2006 (빌드 13001.20384)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1309">*Version 2006 (Build 13001.20384)*</span></span>
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="feature-updates"></a><span data-ttu-id="5080d-1304">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="5080d-1304">Feature updates</span></span>
-### <a name="excel"></a><span data-ttu-id="5080d-1305">Excel</span><span class="sxs-lookup"><span data-stu-id="5080d-1305">Excel</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="1a0ed-1311">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1311">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="1a0ed-1312">Excel</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1312">Excel</span></span>
 
-- <span data-ttu-id="5080d-1306">**PDF 연결 설정:** PDF로 연결하고 PDF에서 데이터를 가져오고 새로 고칩니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1306">**Make a PDF connection:** Connect to, import, refresh data from a PDF.</span></span> [<span data-ttu-id="5080d-1307">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="5080d-1307">Learn more</span></span>](https://support.office.com/article/be4330b3-5356-486c-a168-b68e9e616f5a)
+- <span data-ttu-id="1a0ed-1313">**PDF 연결 설정:** PDF로 연결하고 PDF에서 데이터를 가져오고 새로 고칩니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1313">**Make a PDF connection:** Connect to, import, refresh data from a PDF.</span></span> [<span data-ttu-id="1a0ed-1314">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1314">Learn more</span></span>](https://support.office.com/article/be4330b3-5356-486c-a168-b68e9e616f5a)
 
-- <span data-ttu-id="5080d-1308">**수식에 사용할 변수 만들기:** LET 기능으로 성능, 가독성 및 구성성을 향상시킵니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1308">**Create variables to use in formulas:** Improve performance, readability, and composability with the LET function.</span></span> <span data-ttu-id="5080d-1309">이 함수를 사용하면 새로운 공식 또는 기존 공식으로 명명된 변수를 작성할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1309">This function allows you to create named variables in new or pre-existing formulas.</span></span> [<span data-ttu-id="5080d-1310">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="5080d-1310">Learn more</span></span>](https://support.office.com/article/34842dd8-b92b-4d3f-b325-b8b8f9908999)<br /><span data-ttu-id="5080d-1311">[블로그 게시물](https://blog-insider.office.com/2020/06/01/let-names-in-formulas-for-excel/)에서 세부 정보 보기</span><span class="sxs-lookup"><span data-stu-id="5080d-1311">See details in [blog post](https://blog-insider.office.com/2020/06/01/let-names-in-formulas-for-excel/)</span></span>
+- <span data-ttu-id="1a0ed-1315">**수식에 사용할 변수 만들기:** LET 기능으로 성능, 가독성 및 구성성을 향상시킵니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1315">**Create variables to use in formulas:** Improve performance, readability, and composability with the LET function.</span></span> <span data-ttu-id="1a0ed-1316">이 함수를 사용하면 새로운 공식 또는 기존 공식으로 명명된 변수를 작성할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1316">This function allows you to create named variables in new or pre-existing formulas.</span></span> [<span data-ttu-id="1a0ed-1317">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1317">Learn more</span></span>](https://support.office.com/article/34842dd8-b92b-4d3f-b325-b8b8f9908999)<br /><span data-ttu-id="1a0ed-1318">[블로그 게시물](https://blog-insider.office.com/2020/06/01/let-names-in-formulas-for-excel/)에서 세부 정보 보기</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1318">See details in [blog post](https://blog-insider.office.com/2020/06/01/let-names-in-formulas-for-excel/)</span></span>
 
-- <span data-ttu-id="5080d-1312">**Excel의 키보드 바로 가기 키:** Excel의 바로 가기 키가 업데이트되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1312">**Keyboard shortcuts in Excel:** Updated keyboard shortcuts for Excel</span></span>
+- <span data-ttu-id="1a0ed-1319">**Excel의 키보드 바로 가기 키:** Excel의 바로 가기 키가 업데이트되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1319">**Keyboard shortcuts in Excel:** Updated keyboard shortcuts for Excel</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="5080d-1313">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-1313">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-1320">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1320">Outlook</span></span>
 
-- <span data-ttu-id="5080d-1314">**간단한 설문 조사로 Outlook에 설문 조사 만들기**: 설문 조사를 쉽게 작성하고 투표를 수집하며 전자 메일에서 결과를 볼 수 있습니다 [자세한 내용 보기](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)</span><span class="sxs-lookup"><span data-stu-id="5080d-1314">**Create polls in Outlook with Quick Poll:** Easily create a poll, collect votes, and view results within an email [Learn more](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)</span></span>
+- <span data-ttu-id="1a0ed-1321">**간단한 설문 조사로 Outlook에 설문 조사 만들기**: 설문 조사를 쉽게 작성하고 투표를 수집하며 전자 메일에서 결과를 볼 수 있습니다 [자세한 내용 보기](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1321">**Create polls in Outlook with Quick Poll:** Easily create a poll, collect votes, and view results within an email [Learn more](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)</span></span>
 
-- <span data-ttu-id="5080d-1315">**전자 메일로 사진을 보낼 때 선명도를 높게 유지:.** 새 Outlook 설정을 사용하여 사진을 전자 메일 콘텐츠에 첨부해서 보낼 때 압축을 제한할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1315">**Keep your pictures high fidelity when sending them as part of an email:** A new Outlook setting is available to limit picture compression when you send pictures as part of the email contents</span></span>
+- <span data-ttu-id="1a0ed-1322">**전자 메일로 사진을 보낼 때 선명도를 높게 유지:.** 새 Outlook 설정을 사용하여 사진을 전자 메일 콘텐츠에 첨부해서 보낼 때 압축을 제한할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1322">**Keep your pictures high fidelity when sending them as part of an email:** A new Outlook setting is available to limit picture compression when you send pictures as part of the email contents</span></span>
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -2589,37 +2599,37 @@ ms.locfileid: "51749066"
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-1318">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-1318">Resolved issues</span></span>
-### <a name="access"></a><span data-ttu-id="5080d-1319">Access</span><span class="sxs-lookup"><span data-stu-id="5080d-1319">Access</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-1325">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1325">Resolved issues</span></span>
+### <a name="access"></a><span data-ttu-id="1a0ed-1326">Access</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1326">Access</span></span>
 
-- <span data-ttu-id="5080d-1320">이 문제는 해결되었으며, ID(예: 자동 번호) 필드가 포함된 연결된 SQL 테이블을 Access에 성공적으로 삽입할 수 있어야 합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1320">This issue is resolved, and you should expect to be able to successfully insert linked SQL tables that include an identity (e.g. autonumber) field into Access.</span></span>
+- <span data-ttu-id="1a0ed-1327">이 문제는 해결되었으며, ID(예: 자동 번호) 필드가 포함된 연결된 SQL 테이블을 Access에 성공적으로 삽입할 수 있어야 합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1327">This issue is resolved, and you should expect to be able to successfully insert linked SQL tables that include an identity (e.g. autonumber) field into Access.</span></span>
 
-### <a name="excel"></a><span data-ttu-id="5080d-1321">Excel</span><span class="sxs-lookup"><span data-stu-id="5080d-1321">Excel</span></span>
+### <a name="excel"></a><span data-ttu-id="1a0ed-1328">Excel</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1328">Excel</span></span>
 
-- <span data-ttu-id="5080d-1322">계정에서 로그아웃한 경우 데이터 연결을 만들 때 발생할 수 있는 충돌을 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1322">Fixed a crash that could happen when trying to create a data connection if you have signed out from your account.</span></span>
+- <span data-ttu-id="1a0ed-1329">계정에서 로그아웃한 경우 데이터 연결을 만들 때 발생할 수 있는 충돌을 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1329">Fixed a crash that could happen when trying to create a data connection if you have signed out from your account.</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="5080d-1323">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-1323">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-1330">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1330">Outlook</span></span>
 
-- <span data-ttu-id="5080d-1324">보안 대화 상자에서 "저장" 옵션을 선택할 때 사용자가 테넌트 외부에서 로컬 컴퓨터에 OneDrive 첨부 파일을 저장할 수 없는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1324">Addressed an issue that caused users to be unable to save OneDrive attachments from outside their tenant to their local computer when selecting the "Save" option on the security dialog.</span></span>
+- <span data-ttu-id="1a0ed-1331">보안 대화 상자에서 "저장" 옵션을 선택할 때 사용자가 테넌트 외부에서 로컬 컴퓨터에 OneDrive 첨부 파일을 저장할 수 없는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1331">Addressed an issue that caused users to be unable to save OneDrive attachments from outside their tenant to their local computer when selecting the "Save" option on the security dialog.</span></span>
 
-### <a name="office-suite"></a><span data-ttu-id="5080d-1325">Office 제품군</span><span class="sxs-lookup"><span data-stu-id="5080d-1325">Office Suite</span></span>
+### <a name="office-suite"></a><span data-ttu-id="1a0ed-1332">Office 제품군</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1332">Office Suite</span></span>
 
-- <span data-ttu-id="5080d-1326">이전 AppV51의 회귀 분석을 수정하기 위해 새로운 AppV51 드롭을 다시 보고했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1326">We backported a new AppV51 drop to fix a regression in previous AppV51.</span></span>
+- <span data-ttu-id="1a0ed-1333">이전 AppV51의 회귀 분석을 수정하기 위해 새로운 AppV51 드롭을 다시 보고했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1333">We backported a new AppV51 drop to fix a regression in previous AppV51.</span></span>
 
-- <span data-ttu-id="5080d-1327">레지스트리 TabProcGrowth 값이 REG_SZ 유형이고 값이 "0"인 동안 추가 기능이 활성화되는 동안 office 호스트가 창에서 충돌했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1327">he office host was crashing in windows, when an add-in is being activated while the registry TabProcGrowth value is REG_SZ type and with value "0".</span></span>  <span data-ttu-id="5080d-1328">레지스트리 TabProcGrowth 값은 다음 네 가지 경로 중 하나에 속할 수 있습니다. HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main HKEY_CURRENT_USER\Software\Policies\Microsoft\Internet Explorer\Main HKEY_LOCAL_MACHINE\Software\Microsoft\Internet Explorer\Main HKEY_LOCAL_MACHINER\Software\Policies\Microsoft\Internet Explorer\Main 이렇게 변경하면 이 문제가 해결됩니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1328">That registry TabProcGrowth value can be under any one of 4 paths: HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main HKEY_CURRENT_USER\Software\Policies\Microsoft\Internet Explorer\Main HKEY_LOCAL_MACHINE\Software\Microsoft\Internet Explorer\Main HKEY_LOCAL_MACHINER\Software\Policies\Microsoft\Internet Explorer\Main This change would fix this issue.</span></span>
+- <span data-ttu-id="1a0ed-1334">레지스트리 TabProcGrowth 값이 REG_SZ 유형이고 값이 "0"인 동안 추가 기능이 활성화되는 동안 office 호스트가 창에서 충돌했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1334">he office host was crashing in windows, when an add-in is being activated while the registry TabProcGrowth value is REG_SZ type and with value "0".</span></span>  <span data-ttu-id="1a0ed-1335">레지스트리 TabProcGrowth 값은 다음 네 가지 경로 중 하나에 속할 수 있습니다. HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main HKEY_CURRENT_USER\Software\Policies\Microsoft\Internet Explorer\Main HKEY_LOCAL_MACHINE\Software\Microsoft\Internet Explorer\Main HKEY_LOCAL_MACHINER\Software\Policies\Microsoft\Internet Explorer\Main 이렇게 변경하면 이 문제가 해결됩니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1335">That registry TabProcGrowth value can be under any one of 4 paths: HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main HKEY_CURRENT_USER\Software\Policies\Microsoft\Internet Explorer\Main HKEY_LOCAL_MACHINE\Software\Microsoft\Internet Explorer\Main HKEY_LOCAL_MACHINER\Software\Policies\Microsoft\Internet Explorer\Main This change would fix this issue.</span></span>
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
-## <a name="version-2006-june-25"></a><span data-ttu-id="5080d-1330">버전 2006: 6월 25일</span><span class="sxs-lookup"><span data-stu-id="5080d-1330">Version 2006: June 25</span></span>
-<span data-ttu-id="5080d-1331">*버전 2006 (빌드 13001.20266)*</span><span class="sxs-lookup"><span data-stu-id="5080d-1331">*Version 2006 (Build 13001.20266)*</span></span>
+## <a name="version-2006-june-25"></a><span data-ttu-id="1a0ed-1337">버전 2006: 6월 25일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1337">Version 2006: June 25</span></span>
+<span data-ttu-id="1a0ed-1338">*버전 2006 (빌드 13001.20266)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1338">*Version 2006 (Build 13001.20266)*</span></span>
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="feature-updates"></a><span data-ttu-id="5080d-1333">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="5080d-1333">Feature updates</span></span>
-### <a name="visio"></a><span data-ttu-id="5080d-1334">Visio</span><span class="sxs-lookup"><span data-stu-id="5080d-1334">Visio</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="1a0ed-1340">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1340">Feature updates</span></span>
+### <a name="visio"></a><span data-ttu-id="1a0ed-1341">Visio</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1341">Visio</span></span>
 
-- <span data-ttu-id="5080d-1335">**Excel에서 다듬은 Visio 다이어그램 만들기:** 워크시트의 데이터를 기반으로 흐름도 또는 조직도 생성합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1335">**Make polished Visio diagrams in Excel:** Create a flow chart or organizational chart based on data in a worksheet.</span></span>
+- <span data-ttu-id="1a0ed-1342">**Excel에서 다듬은 Visio 다이어그램 만들기:** 워크시트의 데이터를 기반으로 흐름도 또는 조직도 생성합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1342">**Make polished Visio diagrams in Excel:** Create a flow chart or organizational chart based on data in a worksheet.</span></span>
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -2628,48 +2638,48 @@ ms.locfileid: "51749066"
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-1338">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-1338">Resolved issues</span></span>
-### <a name="access"></a><span data-ttu-id="5080d-1339">Access</span><span class="sxs-lookup"><span data-stu-id="5080d-1339">Access</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-1345">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1345">Resolved issues</span></span>
+### <a name="access"></a><span data-ttu-id="1a0ed-1346">Access</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1346">Access</span></span>
 
-- <span data-ttu-id="5080d-1340">이제 이 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1340">This problem is now resolved.</span></span> <span data-ttu-id="5080d-1341">이 과정에서 더 많은 문제가 발생하면 팀원들에게 알려주시기 바랍니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1341">Please let the team know if you experience more issues with this process.</span></span>
-
-
-### <a name="outlook"></a><span data-ttu-id="5080d-1342">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-1342">Outlook</span></span>
-
-- <span data-ttu-id="5080d-1343"><span style="display:inline !important;">끌어서 놓기를 통해<span>&nbsp;</span></span><span style="box-sizing:border-box;font-family:Calibri, sans-serif;font-size:14.6667px;display:inline !important;"> &nbsp;4501년 1월 1일 로 설정하여 파일 시스템에 복사한 첨부 파일의 &nbsp;작성일자 를 사용자에게 표시하는 문제를 해결합니다.</span></span><span class="sxs-lookup"><span data-stu-id="5080d-1343"><span style="display:inline !important;">Addresses an issue that caused users to see<span>&nbsp;</span></span><span style="box-sizing:border-box;font-family:Calibri, sans-serif;font-size:14.6667px;display:inline !important;">the creation date of&nbsp; attachments that they copied to their file system via drag and drop getting&nbsp; set to January 1, 4501.</span></span></span><br>
+- <span data-ttu-id="1a0ed-1347">이제 이 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1347">This problem is now resolved.</span></span> <span data-ttu-id="1a0ed-1348">이 과정에서 더 많은 문제가 발생하면 팀원들에게 알려주시기 바랍니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1348">Please let the team know if you experience more issues with this process.</span></span>
 
 
-- <span data-ttu-id="5080d-1344"><span style="font-family:&quot;Segoe UI&quot;, system-ui, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, sans-serif;display:inline !important;">공유 일정관리의 개선된 사용자가 일정관리 오류를 볼 수 있는 문제를 해결합니다.</span></span><span class="sxs-lookup"><span data-stu-id="5080d-1344"><span style="font-family:&quot;Segoe UI&quot;, system-ui, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, sans-serif;display:inline !important;">Addresses an issue that caused users of the Shared Calendar improvements to see calendar failures.</span></span></span><br>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-1349">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1349">Outlook</span></span>
+
+- <span data-ttu-id="1a0ed-1350"><span style="display:inline !important;">끌어서 놓기를 통해<span>&nbsp;</span></span><span style="box-sizing:border-box;font-family:Calibri, sans-serif;font-size:14.6667px;display:inline !important;"> &nbsp;4501년 1월 1일 로 설정하여 파일 시스템에 복사한 첨부 파일의 &nbsp;작성일자 를 사용자에게 표시하는 문제를 해결합니다.</span></span><span class="sxs-lookup"><span data-stu-id="1a0ed-1350"><span style="display:inline !important;">Addresses an issue that caused users to see<span>&nbsp;</span></span><span style="box-sizing:border-box;font-family:Calibri, sans-serif;font-size:14.6667px;display:inline !important;">the creation date of&nbsp; attachments that they copied to their file system via drag and drop getting&nbsp; set to January 1, 4501.</span></span></span><br>
 
 
-- <span data-ttu-id="5080d-1345"><span style="display:inline !important;">Outlook에서 받은 편지함 복구 도구를 실행하라는 메시지를 계속 표시하도록 하는 문제를 해결합니다.</span></span><span class="sxs-lookup"><span data-stu-id="5080d-1345"><span style="display:inline !important;">Addresses an issue that caused users to see Outlook continuously prompt them to run the Inbox Repair tool.</span></span></span><br>
+- <span data-ttu-id="1a0ed-1351"><span style="font-family:&quot;Segoe UI&quot;, system-ui, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, sans-serif;display:inline !important;">공유 일정관리의 개선된 사용자가 일정관리 오류를 볼 수 있는 문제를 해결합니다.</span></span><span class="sxs-lookup"><span data-stu-id="1a0ed-1351"><span style="font-family:&quot;Segoe UI&quot;, system-ui, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, sans-serif;display:inline !important;">Addresses an issue that caused users of the Shared Calendar improvements to see calendar failures.</span></span></span><br>
 
 
-- <span data-ttu-id="5080d-1346"><span style="display:inline !important;">기능 제안에서 기능을 검색하여 결과를 반환하지 않고 사용자에게 새 기능 아이디어를 제출할 수 있는 옵션이 없는 문제를 해결합니다.</span></span><span class="sxs-lookup"><span data-stu-id="5080d-1346"><span style="display:inline !important;">Addresses an issue that caused searching for a feature in Suggest a Feature to return no results and leave the user with no option to submit a new feature idea.</span></span></span><br>
+- <span data-ttu-id="1a0ed-1352"><span style="display:inline !important;">Outlook에서 받은 편지함 복구 도구를 실행하라는 메시지를 계속 표시하도록 하는 문제를 해결합니다.</span></span><span class="sxs-lookup"><span data-stu-id="1a0ed-1352"><span style="display:inline !important;">Addresses an issue that caused users to see Outlook continuously prompt them to run the Inbox Repair tool.</span></span></span><br>
+
+
+- <span data-ttu-id="1a0ed-1353"><span style="display:inline !important;">기능 제안에서 기능을 검색하여 결과를 반환하지 않고 사용자에게 새 기능 아이디어를 제출할 수 있는 옵션이 없는 문제를 해결합니다.</span></span><span class="sxs-lookup"><span data-stu-id="1a0ed-1353"><span style="display:inline !important;">Addresses an issue that caused searching for a feature in Suggest a Feature to return no results and leave the user with no option to submit a new feature idea.</span></span></span><br>
 
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
-## <a name="version-2006-june-18"></a><span data-ttu-id="5080d-1348">버전 2006: 6월 18일</span><span class="sxs-lookup"><span data-stu-id="5080d-1348">Version 2006: June 18</span></span>
-<span data-ttu-id="5080d-1349">*버전 2006 (빌드 13001.20198)*</span><span class="sxs-lookup"><span data-stu-id="5080d-1349">*Version 2006 (Build 13001.20198)*</span></span>
+## <a name="version-2006-june-18"></a><span data-ttu-id="1a0ed-1355">버전 2006: 6월 18일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1355">Version 2006: June 18</span></span>
+<span data-ttu-id="1a0ed-1356">*버전 2006 (빌드 13001.20198)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1356">*Version 2006 (Build 13001.20198)*</span></span>
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="feature-updates"></a><span data-ttu-id="5080d-1351">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="5080d-1351">Feature updates</span></span>
-### <a name="excel"></a><span data-ttu-id="5080d-1352">Excel</span><span class="sxs-lookup"><span data-stu-id="5080d-1352">Excel</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="1a0ed-1358">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1358">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="1a0ed-1359">Excel</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1359">Excel</span></span>
 
 
 
-- <span data-ttu-id="5080d-1353">**폴더 고정에 저장:** 폴더를 고정하면 Office 파일을 더 쉽게 저장할 수 있습니다. 새 파일이 저장될 때 사용자가 사용 가능한 폴더를 더 많이 관리하기를 원한다는 피드백을 받았습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1353">**Save to Pinned Folders:** Pin your folders makes saving Office files easier We received feedback that users want more control over the folders available when a new file is saved.</span></span> <span data-ttu-id="5080d-1354">저장 대화 상자에서 폴더를 고정하는 새로운 기능을 제공하게 되어 기쁘게 생각합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1354">We're excited to bring a new capability to you: pin your folders in the Save dialog.</span></span> <span data-ttu-id="5080d-1355">이 새로운 기능을 통해 Word, Excel 및 PowerPoint 파일을 더 쉽게 저장할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1355">This new capability will make saving your Word, Excel, and PowerPoint files easier.</span></span> <br /><span data-ttu-id="5080d-1356">[블로그 게시물](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)에서 세부 정보 보기</span><span class="sxs-lookup"><span data-stu-id="5080d-1356">See details in [blog post](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)</span></span>
+- <span data-ttu-id="1a0ed-1360">**폴더 고정에 저장:** 폴더를 고정하면 Office 파일을 더 쉽게 저장할 수 있습니다. 새 파일이 저장될 때 사용자가 사용 가능한 폴더를 더 많이 관리하기를 원한다는 피드백을 받았습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1360">**Save to Pinned Folders:** Pin your folders makes saving Office files easier We received feedback that users want more control over the folders available when a new file is saved.</span></span> <span data-ttu-id="1a0ed-1361">저장 대화 상자에서 폴더를 고정하는 새로운 기능을 제공하게 되어 기쁘게 생각합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1361">We're excited to bring a new capability to you: pin your folders in the Save dialog.</span></span> <span data-ttu-id="1a0ed-1362">이 새로운 기능을 통해 Word, Excel 및 PowerPoint 파일을 더 쉽게 저장할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1362">This new capability will make saving your Word, Excel, and PowerPoint files easier.</span></span> <br /><span data-ttu-id="1a0ed-1363">[블로그 게시물](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)에서 세부 정보 보기</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1363">See details in [blog post](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="5080d-1357">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="5080d-1357">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="1a0ed-1364">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1364">PowerPoint</span></span>
 
-- <span data-ttu-id="5080d-1358">**폴더 고정에 저장:** 폴더를 고정하면 Office 파일을 더 쉽게 저장할 수 있습니다. 새 파일이 저장될 때 사용자가 사용 가능한 폴더를 더 많이 관리하기를 원한다는 피드백을 받았습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1358">**Save to Pinned Folders:** Pin your folders makes saving Office files easier We received feedback that users want more control over the folders available when a new file is saved.</span></span> <span data-ttu-id="5080d-1359">저장 대화 상자에서 폴더를 고정하는 새로운 기능을 제공하게 되어 기쁘게 생각합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1359">We're excited to bring a new capability to you: pin your folders in the Save dialog.</span></span> <span data-ttu-id="5080d-1360">이 새로운 기능을 통해 Word, Excel 및 PowerPoint 파일을 더 쉽게 저장할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1360">This new capability will make saving your Word, Excel, and PowerPoint files easier.</span></span><br /><span data-ttu-id="5080d-1361">[블로그 게시물](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)에서 세부 정보 보기</span><span class="sxs-lookup"><span data-stu-id="5080d-1361">See details in [blog post](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)</span></span>
+- <span data-ttu-id="1a0ed-1365">**폴더 고정에 저장:** 폴더를 고정하면 Office 파일을 더 쉽게 저장할 수 있습니다. 새 파일이 저장될 때 사용자가 사용 가능한 폴더를 더 많이 관리하기를 원한다는 피드백을 받았습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1365">**Save to Pinned Folders:** Pin your folders makes saving Office files easier We received feedback that users want more control over the folders available when a new file is saved.</span></span> <span data-ttu-id="1a0ed-1366">저장 대화 상자에서 폴더를 고정하는 새로운 기능을 제공하게 되어 기쁘게 생각합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1366">We're excited to bring a new capability to you: pin your folders in the Save dialog.</span></span> <span data-ttu-id="1a0ed-1367">이 새로운 기능을 통해 Word, Excel 및 PowerPoint 파일을 더 쉽게 저장할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1367">This new capability will make saving your Word, Excel, and PowerPoint files easier.</span></span><br /><span data-ttu-id="1a0ed-1368">[블로그 게시물](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)에서 세부 정보 보기</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1368">See details in [blog post](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)</span></span>
 
-### <a name="word"></a><span data-ttu-id="5080d-1362">Word</span><span class="sxs-lookup"><span data-stu-id="5080d-1362">Word</span></span>
+### <a name="word"></a><span data-ttu-id="1a0ed-1369">Word</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1369">Word</span></span>
 
-- <span data-ttu-id="5080d-1363">**폴더 고정에 저장:** 폴더를 고정하면 Office 파일을 더 쉽게 저장할 수 있습니다. 새 파일이 저장될 때 사용자가 사용 가능한 폴더를 더 많이 관리하기를 원한다는 피드백을 받았습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1363">**Save to Pinned Folders:** Pin your folders makes saving Office files easierWe received feedback that users want more control over the folders available when a new file is saved.</span></span> <span data-ttu-id="5080d-1364">저장 대화 상자에서 폴더를 고정하는 새로운 기능을 제공하게 되어 기쁘게 생각합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1364">We're excited to bring a new capability to you: pin your folders in the Save dialog.</span></span> <span data-ttu-id="5080d-1365">이 새로운 기능을 통해 Word, Excel 및 PowerPoint 파일을 더 쉽게 저장할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1365">This new capability will make saving your Word, Excel, and PowerPoint files easier.</span></span> <br /><span data-ttu-id="5080d-1366">[블로그 게시물](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)에서 세부 정보 보기</span><span class="sxs-lookup"><span data-stu-id="5080d-1366">See details in [blog post](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)</span></span>
+- <span data-ttu-id="1a0ed-1370">**폴더 고정에 저장:** 폴더를 고정하면 Office 파일을 더 쉽게 저장할 수 있습니다. 새 파일이 저장될 때 사용자가 사용 가능한 폴더를 더 많이 관리하기를 원한다는 피드백을 받았습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1370">**Save to Pinned Folders:** Pin your folders makes saving Office files easierWe received feedback that users want more control over the folders available when a new file is saved.</span></span> <span data-ttu-id="1a0ed-1371">저장 대화 상자에서 폴더를 고정하는 새로운 기능을 제공하게 되어 기쁘게 생각합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1371">We're excited to bring a new capability to you: pin your folders in the Save dialog.</span></span> <span data-ttu-id="1a0ed-1372">이 새로운 기능을 통해 Word, Excel 및 PowerPoint 파일을 더 쉽게 저장할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1372">This new capability will make saving your Word, Excel, and PowerPoint files easier.</span></span> <br /><span data-ttu-id="1a0ed-1373">[블로그 게시물](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)에서 세부 정보 보기</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1373">See details in [blog post](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)</span></span>
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -2678,36 +2688,36 @@ ms.locfileid: "51749066"
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-1369">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-1369">Resolved issues</span></span>
-### <a name="excel"></a><span data-ttu-id="5080d-1370">Excel</span><span class="sxs-lookup"><span data-stu-id="5080d-1370">Excel</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-1376">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1376">Resolved issues</span></span>
+### <a name="excel"></a><span data-ttu-id="1a0ed-1377">Excel</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1377">Excel</span></span>
 
-- <span data-ttu-id="5080d-1371">SharePoint/OneDrive에 저장하는 경우 사용자 지정 리본 탭이 CustomUI XML을 제거하는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1371">Fixed an issue which caused CustomUI XML for a custom ribbon tab to be removed when saving to SharePoint/OneDrive.</span></span>
+- <span data-ttu-id="1a0ed-1378">SharePoint/OneDrive에 저장하는 경우 사용자 지정 리본 탭이 CustomUI XML을 제거하는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1378">Fixed an issue which caused CustomUI XML for a custom ribbon tab to be removed when saving to SharePoint/OneDrive.</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="5080d-1372">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-1372">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-1379">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1379">Outlook</span></span>
 
-- <span data-ttu-id="5080d-1373">클라우드 설정을 사용할 때 Ctrl+클릭이 작동을 중지하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1373">Addressed an issue that caused Ctrl+click to stop working when cloud settings were enabled.</span></span>
+- <span data-ttu-id="1a0ed-1380">클라우드 설정을 사용할 때 Ctrl+클릭이 작동을 중지하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1380">Addressed an issue that caused Ctrl+click to stop working when cloud settings were enabled.</span></span>
 
-### <a name="project"></a><span data-ttu-id="5080d-1374">프로젝트</span><span class="sxs-lookup"><span data-stu-id="5080d-1374">Project</span></span>
+### <a name="project"></a><span data-ttu-id="1a0ed-1381">프로젝트</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1381">Project</span></span>
 
-- <span data-ttu-id="5080d-1375">100% 완료로 표시된 작업이 100% 미만으로 잘못 변경되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1375">Fixed an issue where a task that is marked 100% complete is wrongly changing to be less than 100% complete.</span></span>
+- <span data-ttu-id="1a0ed-1382">100% 완료로 표시된 작업이 100% 미만으로 잘못 변경되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1382">Fixed an issue where a task that is marked 100% complete is wrongly changing to be less than 100% complete.</span></span>
 
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
-## <a name="version-2006-june-11"></a><span data-ttu-id="5080d-1377">버전 2006: 6월 11일</span><span class="sxs-lookup"><span data-stu-id="5080d-1377">Version 2006: June 11</span></span>
-<span data-ttu-id="5080d-1378">*버전 2006 (빌드 13001.20144)*</span><span class="sxs-lookup"><span data-stu-id="5080d-1378">*Version 2006 (Build 13001.20144)*</span></span>
+## <a name="version-2006-june-11"></a><span data-ttu-id="1a0ed-1384">버전 2006: 6월 11일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1384">Version 2006: June 11</span></span>
+<span data-ttu-id="1a0ed-1385">*버전 2006 (빌드 13001.20144)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1385">*Version 2006 (Build 13001.20144)*</span></span>
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="feature-updates"></a><span data-ttu-id="5080d-1380">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="5080d-1380">Feature updates</span></span>
-### <a name="powerpoint"></a><span data-ttu-id="5080d-1381">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="5080d-1381">PowerPoint</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="1a0ed-1387">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1387">Feature updates</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="1a0ed-1388">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1388">PowerPoint</span></span>
 
-- <span data-ttu-id="5080d-1382">**PowerPoint의 스트림 비디오 성능 향상:** Microsoft Stream 비디오의 재생 성능을 개선하여 비디오 로드 시간을 최소화하고 원활한 보기 환경을 조성했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1382">**Improved Stream video performance in PowerPoint:** We’ve made improvements to the playback performance of Microsoft Stream videos to minimize video loading time and create a smooth viewing experience.</span></span> <span data-ttu-id="5080d-1383">Microsoft Stream의 회사 비디오를 사용하여 더 나은 프레젠테이션을 만들 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1383">Use your corporate videos from Microsoft Stream to create better presentations.</span></span>
+- <span data-ttu-id="1a0ed-1389">**PowerPoint의 스트림 비디오 성능 향상:** Microsoft Stream 비디오의 재생 성능을 개선하여 비디오 로드 시간을 최소화하고 원활한 보기 환경을 조성했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1389">**Improved Stream video performance in PowerPoint:** We’ve made improvements to the playback performance of Microsoft Stream videos to minimize video loading time and create a smooth viewing experience.</span></span> <span data-ttu-id="1a0ed-1390">Microsoft Stream의 회사 비디오를 사용하여 더 나은 프레젠테이션을 만들 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1390">Use your corporate videos from Microsoft Stream to create better presentations.</span></span>
 
-### <a name="word"></a><span data-ttu-id="5080d-1384">Word</span><span class="sxs-lookup"><span data-stu-id="5080d-1384">Word</span></span>
+### <a name="word"></a><span data-ttu-id="1a0ed-1391">Word</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1391">Word</span></span>
 
-- <span data-ttu-id="5080d-1385">**벡터의 텍스트 보존:** 이제 Excel, Word 및 PowerPoint에서 이러한 개체를 변환할 때 맵, 차트 및 기타 SVG 벡터의 텍스트를 유지할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1385">**Retain text in vectors:** Now you can retain the text in maps, charts, and other SVG vectors when converting these objects in Excel, Word, and PowerPoint.</span></span>
+- <span data-ttu-id="1a0ed-1392">**벡터의 텍스트 보존:** 이제 Excel, Word 및 PowerPoint에서 이러한 개체를 변환할 때 맵, 차트 및 기타 SVG 벡터의 텍스트를 유지할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1392">**Retain text in vectors:** Now you can retain the text in maps, charts, and other SVG vectors when converting these objects in Excel, Word, and PowerPoint.</span></span>
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -2716,166 +2726,166 @@ ms.locfileid: "51749066"
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-1388">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-1388">Resolved issues</span></span>
-### <a name="excel"></a><span data-ttu-id="5080d-1389">Excel</span><span class="sxs-lookup"><span data-stu-id="5080d-1389">Excel</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-1395">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1395">Resolved issues</span></span>
+### <a name="excel"></a><span data-ttu-id="1a0ed-1396">Excel</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1396">Excel</span></span>
 
-- <span data-ttu-id="5080d-1390">Excel이 OneDrive를 사용할 때 때때로 종료되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1390">We fixed an issue where Excel would occasionally shut down when engaging OneDrive.</span></span>
+- <span data-ttu-id="1a0ed-1397">Excel이 OneDrive를 사용할 때 때때로 종료되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1397">We fixed an issue where Excel would occasionally shut down when engaging OneDrive.</span></span>
 
-- <span data-ttu-id="5080d-1391">차트 축의 사용자 지정 값이 올바르게 적용되지 않는 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1391">We fixed an issue where custom values on the chart axis would not get applied correctly.</span></span>
+- <span data-ttu-id="1a0ed-1398">차트 축의 사용자 지정 값이 올바르게 적용되지 않는 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1398">We fixed an issue where custom values on the chart axis would not get applied correctly.</span></span>
 
-- <span data-ttu-id="5080d-1392">정의된 이름의 수식이 여러 개 포함된 워크시트가 파일을 저장할 때 더 오래 걸리는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1392">We fixed an issue where worksheets containing multiple formulas with defined names was resulting in longer times when saving files.</span></span>
+- <span data-ttu-id="1a0ed-1399">정의된 이름의 수식이 여러 개 포함된 워크시트가 파일을 저장할 때 더 오래 걸리는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1399">We fixed an issue where worksheets containing multiple formulas with defined names was resulting in longer times when saving files.</span></span>
 
-- <span data-ttu-id="5080d-1393">사용 가능한 프린터 목록에 프린터 이름이 중복되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1393">We fixed an issue that caused printer names to be duplicated in the list of available printers.</span></span>
+- <span data-ttu-id="1a0ed-1400">사용 가능한 프린터 목록에 프린터 이름이 중복되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1400">We fixed an issue that caused printer names to be duplicated in the list of available printers.</span></span>
 
-- <span data-ttu-id="5080d-1394">사용자가 병합된 열을 삭제했을 때 성능시간이 향상되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1394">We fixed an issue that resulted in improved performance time for users when they deleted merged columns.</span></span>
+- <span data-ttu-id="1a0ed-1401">사용자가 병합된 열을 삭제했을 때 성능시간이 향상되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1401">We fixed an issue that resulted in improved performance time for users when they deleted merged columns.</span></span>
 
-- <span data-ttu-id="5080d-1395">추가 기능이 사용자 지정 순서가 아니라 알파벳 순서로 로드되었기 때문에 "이 통합 문서는 다른 통합 문서에서 현재 참조하고 있으며 닫을 수 없습니다"라는 오류 메시지가 나타나는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1395">We fixed an issue where the error message “This workbook is currently referenced by another and cannot be closed” would appear because add-ins were being loaded in alphabetical order rather than in a user specified order.</span></span>
+- <span data-ttu-id="1a0ed-1402">추가 기능이 사용자 지정 순서가 아니라 알파벳 순서로 로드되었기 때문에 "이 통합 문서는 다른 통합 문서에서 현재 참조하고 있으며 닫을 수 없습니다"라는 오류 메시지가 나타나는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1402">We fixed an issue where the error message “This workbook is currently referenced by another and cannot be closed” would appear because add-ins were being loaded in alphabetical order rather than in a user specified order.</span></span>
 
-- <span data-ttu-id="5080d-1396">Excel과 일부 타사 보조 기술 응용 프로그램 간의 글꼴을 관리할 때 메모리가 손상되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1396">We fixed an issue where memory was being corrupted when managing fonts between Excel and some third party assistive technology applications.</span></span>
+- <span data-ttu-id="1a0ed-1403">Excel과 일부 타사 보조 기술 응용 프로그램 간의 글꼴을 관리할 때 메모리가 손상되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1403">We fixed an issue where memory was being corrupted when managing fonts between Excel and some third party assistive technology applications.</span></span>
 
-- <span data-ttu-id="5080d-1397">동일한 통합 문서에서 북마크가 지정된 하이퍼링크를 클릭하면 통합 문서이 숨겨지는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1397">We fixed an issue where clicking a bookmarked hyperlink within the same workbook would cause the workbook to be hidden.</span></span>
+- <span data-ttu-id="1a0ed-1404">동일한 통합 문서에서 북마크가 지정된 하이퍼링크를 클릭하면 통합 문서이 숨겨지는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1404">We fixed an issue where clicking a bookmarked hyperlink within the same workbook would cause the workbook to be hidden.</span></span>
 
-- <span data-ttu-id="5080d-1398">일부 복사 및 붙여넣기 차트 링크에서 범용 주소가 아닌 매핑된 드라이브 주소를 사용하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1398">We fixed an issue where some copy and pasted chart links used mapped drive addresses rather than universal addresses.</span></span>
+- <span data-ttu-id="1a0ed-1405">일부 복사 및 붙여넣기 차트 링크에서 범용 주소가 아닌 매핑된 드라이브 주소를 사용하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1405">We fixed an issue where some copy and pasted chart links used mapped drive addresses rather than universal addresses.</span></span>
 
-- <span data-ttu-id="5080d-1399">팀을 통해 Excel 창을 공유할 때 Ctrl+Shift+화살표 키를 사용하여 스크롤한 후 Excel이 응답하지 않는문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1399">We fixed an issue where Excel could become unresponsive after using Ctrl+Shift+Arrow keys to scroll when the Excel window was shared through Teams.</span></span>
+- <span data-ttu-id="1a0ed-1406">팀을 통해 Excel 창을 공유할 때 Ctrl+Shift+화살표 키를 사용하여 스크롤한 후 Excel이 응답하지 않는문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1406">We fixed an issue where Excel could become unresponsive after using Ctrl+Shift+Arrow keys to scroll when the Excel window was shared through Teams.</span></span>
 
-- <span data-ttu-id="5080d-1400">추가 기능에서 noSelect 잠금 기능이 있는 도형이 포함된 워크시트에서 호스트 항목을 요청할 때 Excel이 충돌하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1400">We fixed an issue where Excel would crash when Add-ins ask for Host Items on worksheets that contain shapes with noSelect locks.</span></span>
+- <span data-ttu-id="1a0ed-1407">추가 기능에서 noSelect 잠금 기능이 있는 도형이 포함된 워크시트에서 호스트 항목을 요청할 때 Excel이 충돌하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1407">We fixed an issue where Excel would crash when Add-ins ask for Host Items on worksheets that contain shapes with noSelect locks.</span></span>
 
-- <span data-ttu-id="5080d-1401">도표 시트에 PivotTables를 삽입하려고 할 때 Excel이 충돌할 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1401">Addressed an issue where Excel may crash when attempting to insert PivotTables into a chart sheet.</span></span>
+- <span data-ttu-id="1a0ed-1408">도표 시트에 PivotTables를 삽입하려고 할 때 Excel이 충돌할 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1408">Addressed an issue where Excel may crash when attempting to insert PivotTables into a chart sheet.</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="5080d-1402">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-1402">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-1409">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1409">Outlook</span></span>
 
-- <span data-ttu-id="5080d-1403">해상도가 다른 여러 모니터를 사용할 때 IME(입력 방법 편집기) 창이 IME를 통해 입력되는 기본 텍스트와 겹치는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1403">We fixed an issue where the IME (Input Method Editor) window would overlap the underlying text being entered via the IME when using multiple monitors with different resolutions.</span></span>
+- <span data-ttu-id="1a0ed-1410">해상도가 다른 여러 모니터를 사용할 때 IME(입력 방법 편집기) 창이 IME를 통해 입력되는 기본 텍스트와 겹치는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1410">We fixed an issue where the IME (Input Method Editor) window would overlap the underlying text being entered via the IME when using multiple monitors with different resolutions.</span></span>
 
-- <span data-ttu-id="5080d-1404">새 전자 메일 메시지를 작성할 때 템플릿을 보면 충돌이 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1404">We fixed an issue where viewing a template when composing a new email message would result in a crash.</span></span>
+- <span data-ttu-id="1a0ed-1411">새 전자 메일 메시지를 작성할 때 템플릿을 보면 충돌이 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1411">We fixed an issue where viewing a template when composing a new email message would result in a crash.</span></span>
 
-- <span data-ttu-id="5080d-1405">Outlook 버전 1911 이후 사용자가 Exchange 2010 공용 폴더를 교환할 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1405">We fixed an issue where users were unable to Exchange 2010 public folders after Outlook version 1911.</span></span>
+- <span data-ttu-id="1a0ed-1412">Outlook 버전 1911 이후 사용자가 Exchange 2010 공용 폴더를 교환할 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1412">We fixed an issue where users were unable to Exchange 2010 public folders after Outlook version 1911.</span></span>
 
-- <span data-ttu-id="5080d-1406">Office 리본에서 그룹 일정관리의 분류 단추가 비활성화된 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1406">We fixed an issue where the Categorize button for group calendars in the Office Ribbon was disabled.</span></span>
+- <span data-ttu-id="1a0ed-1413">Office 리본에서 그룹 일정관리의 분류 단추가 비활성화된 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1413">We fixed an issue where the Categorize button for group calendars in the Office Ribbon was disabled.</span></span>
 
-- <span data-ttu-id="5080d-1407">Outlook에서 M365 Business Plus 계획에 있는 서비스 비용을 지불한 사용자를 위해 Data Loss Protection 정책을 활성화하지 못한 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1407">Addressed an issue where Outlook failed to enable Data Loss Protection policy tips people for users who had paid for the service who are on M365 Business Plus plans.</span></span>
+- <span data-ttu-id="1a0ed-1414">Outlook에서 M365 Business Plus 계획에 있는 서비스 비용을 지불한 사용자를 위해 Data Loss Protection 정책을 활성화하지 못한 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1414">Addressed an issue where Outlook failed to enable Data Loss Protection policy tips people for users who had paid for the service who are on M365 Business Plus plans.</span></span>
 
-- <span data-ttu-id="5080d-1408">일부 Windows 빌드에서 Outlook이 충돌하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1408">Addressed an issue that caused Outlook to crash on some Windows builds.</span></span>
+- <span data-ttu-id="1a0ed-1415">일부 Windows 빌드에서 Outlook이 충돌하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1415">Addressed an issue that caused Outlook to crash on some Windows builds.</span></span>
 
-- <span data-ttu-id="5080d-1409">사용자가 게스트 사용자와 일정관리를 공유할 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1409">We fixed an issue where users were unable to share a calendar with a guest user.</span></span>
+- <span data-ttu-id="1a0ed-1416">사용자가 게스트 사용자와 일정관리를 공유할 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1416">We fixed an issue where users were unable to share a calendar with a guest user.</span></span>
 
-- <span data-ttu-id="5080d-1410">사용자가 자정 임계값에 걸쳐 있는 일정관리 항목을 종일 이벤트로 보는 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1410">We fixed an issue where users saw calendar items that spanned the midnight threshold as All day events.</span></span>
+- <span data-ttu-id="1a0ed-1417">사용자가 자정 임계값에 걸쳐 있는 일정관리 항목을 종일 이벤트로 보는 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1417">We fixed an issue where users saw calendar items that spanned the midnight threshold as All day events.</span></span>
 
-- <span data-ttu-id="5080d-1411">상위 DPI 모니터의 사용자에 대한 폴더 속성의 온라인 보관 드롭다운이 누락되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1411">We fixed an issue that resulted in the Online Archive dropdown in folder properties to be missing for users on high DPI monitors.</span></span>
+- <span data-ttu-id="1a0ed-1418">상위 DPI 모니터의 사용자에 대한 폴더 속성의 온라인 보관 드롭다운이 누락되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1418">We fixed an issue that resulted in the Online Archive dropdown in folder properties to be missing for users on high DPI monitors.</span></span>
 
-- <span data-ttu-id="5080d-1412">폴더가 있는 문제를 해결했습니다. 사용자가 폴더 간에 항목을 이동할 때 BeforeItemMove 이벤트가 제대로 실행되지 않았습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1412">We fixed an issue where the Folder.BeforeItemMove event didn't fire correctly when a user moved items between folders.</span></span>
+- <span data-ttu-id="1a0ed-1419">폴더가 있는 문제를 해결했습니다. 사용자가 폴더 간에 항목을 이동할 때 BeforeItemMove 이벤트가 제대로 실행되지 않았습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1419">We fixed an issue where the Folder.BeforeItemMove event didn't fire correctly when a user moved items between folders.</span></span>
 
-- <span data-ttu-id="5080d-1413">우리는 두 개의 추가 기능이 리본의 동일한 그룹에 단추를 추가했을 때 Outlook이 충돌하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1413">We fixed an issue where Outlook crashed when two add-ins added a button to the same group in the ribbon.</span></span>
+- <span data-ttu-id="1a0ed-1420">우리는 두 개의 추가 기능이 리본의 동일한 그룹에 단추를 추가했을 때 Outlook이 충돌하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1420">We fixed an issue where Outlook crashed when two add-ins added a button to the same group in the ribbon.</span></span>
 
-- <span data-ttu-id="5080d-1414">일반 텍스트 전자 메일의 하이퍼링크로 작업할 때 사용자가 아웃룩에서 충돌을 겪게 하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1414">We fixed an issue that caused users to experience a crash in Outlook when working with hyperlinks in Plain Text emails.</span></span>
+- <span data-ttu-id="1a0ed-1421">일반 텍스트 전자 메일의 하이퍼링크로 작업할 때 사용자가 아웃룩에서 충돌을 겪게 하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1421">We fixed an issue that caused users to experience a crash in Outlook when working with hyperlinks in Plain Text emails.</span></span>
 
-- <span data-ttu-id="5080d-1415">Outlook에서 RFC2231로 인코딩된 긴 파일 이름을 구문 분석할 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1415">We fixed an issue that caused Outlook to be unable to parse long file names encoded with RFC2231.</span></span>
+- <span data-ttu-id="1a0ed-1422">Outlook에서 RFC2231로 인코딩된 긴 파일 이름을 구문 분석할 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1422">We fixed an issue that caused Outlook to be unable to parse long file names encoded with RFC2231.</span></span>
 
-- <span data-ttu-id="5080d-1416">Outlook 사용자가 화면 판독기를 사용할 때 간헐적인 중단이 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1416">We fixed an issue that was causing Outlook users to experience intermittent hangs when using screen readers.</span></span>
+- <span data-ttu-id="1a0ed-1423">Outlook 사용자가 화면 판독기를 사용할 때 간헐적인 중단이 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1423">We fixed an issue that was causing Outlook users to experience intermittent hangs when using screen readers.</span></span>
 
-- <span data-ttu-id="5080d-1417">Outlook에서 대화 상대가 충돌하면 충돌이 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1417">We fixed an issue that would cause users with conflicting contacts to experience crashes in Outlook.</span></span>
+- <span data-ttu-id="1a0ed-1424">Outlook에서 대화 상대가 충돌하면 충돌이 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1424">We fixed an issue that would cause users with conflicting contacts to experience crashes in Outlook.</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="5080d-1418">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="5080d-1418">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="1a0ed-1425">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1425">PowerPoint</span></span>
 
-- <span data-ttu-id="5080d-1419">양식 기반 인증을 사용하여 서버 구성 파일을 여는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1419">We fixed an issue with opening server-configured files with forms-based authentication.</span></span>
+- <span data-ttu-id="1a0ed-1426">양식 기반 인증을 사용하여 서버 구성 파일을 여는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1426">We fixed an issue with opening server-configured files with forms-based authentication.</span></span>
 
-- <span data-ttu-id="5080d-1420">차트/통합 문서가 내장된 PowerPoint 파일에서 파일을 저장할 때 오류가 발생할 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1420">We fixed an issue where PowerPoint files with embedded charts / workbooks could result in failures when saving the file.</span></span>
+- <span data-ttu-id="1a0ed-1427">차트/통합 문서가 내장된 PowerPoint 파일에서 파일을 저장할 때 오류가 발생할 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1427">We fixed an issue where PowerPoint files with embedded charts / workbooks could result in failures when saving the file.</span></span>
 
-- <span data-ttu-id="5080d-1421">프리젠테이션 영역을 확대/축소하여 확대된 선택 영역과 마우스 포인터 사이에 간격이 생긴 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1421">We fixed an issue where zooming in and out from the presentation area resulted in a gap between the zoomed selection marquee and the mouse pointer.</span></span>
+- <span data-ttu-id="1a0ed-1428">프리젠테이션 영역을 확대/축소하여 확대된 선택 영역과 마우스 포인터 사이에 간격이 생긴 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1428">We fixed an issue where zooming in and out from the presentation area resulted in a gap between the zoomed selection marquee and the mouse pointer.</span></span>
 
-- <span data-ttu-id="5080d-1422">마우스 휠을 사용하여 확대/축소 후 슬라이드의 중심이 맞지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1422">We fixed an issue where slides were not centered after zooming using the mouse wheel.</span></span>
+- <span data-ttu-id="1a0ed-1429">마우스 휠을 사용하여 확대/축소 후 슬라이드의 중심이 맞지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1429">We fixed an issue where slides were not centered after zooming using the mouse wheel.</span></span>
 
-- <span data-ttu-id="5080d-1423">영어 스위스(QWERTZ) 키보드를 사용할 때 키보드 단축키와 철자 검사가 예상대로 작동하지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1423">We fixed an issue where keyboard shortcuts and spell check wouldn’t function as expected when using an English Switzerland (QWERTZ) keyboard.</span></span>
+- <span data-ttu-id="1a0ed-1430">영어 스위스(QWERTZ) 키보드를 사용할 때 키보드 단축키와 철자 검사가 예상대로 작동하지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1430">We fixed an issue where keyboard shortcuts and spell check wouldn’t function as expected when using an English Switzerland (QWERTZ) keyboard.</span></span>
 
-- <span data-ttu-id="5080d-1424">사용자가 닫은 주석 창이 자동으로 다시 열리는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1424">We fixed an issue where a Comment pane that had been closed by the user would re-open automatically.</span></span>
+- <span data-ttu-id="1a0ed-1431">사용자가 닫은 주석 창이 자동으로 다시 열리는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1431">We fixed an issue where a Comment pane that had been closed by the user would re-open automatically.</span></span>
 
-- <span data-ttu-id="5080d-1425">한 슬라이드의 편집기가 다음 슬라이드와 겹치는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1425">We fixed an issue where the slide editor from one slide would overlap on to the next slide.</span></span>
+- <span data-ttu-id="1a0ed-1432">한 슬라이드의 편집기가 다음 슬라이드와 겹치는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1432">We fixed an issue where the slide editor from one slide would overlap on to the next slide.</span></span>
 
-### <a name="project"></a><span data-ttu-id="5080d-1426">Project</span><span class="sxs-lookup"><span data-stu-id="5080d-1426">Project</span></span>
+### <a name="project"></a><span data-ttu-id="1a0ed-1433">Project</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1433">Project</span></span>
 
-- <span data-ttu-id="5080d-1427">프로젝트 요약 작업(프로젝트 시작/작업 필드)이 변경될 때 ProjectBeforeTaskChange 이벤트가 발생하지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1427">Fixed an issue where the ProjectBeforeTaskChange event doesn't fire when there is a change to the project summary task - either the project start/task field.</span></span>
+- <span data-ttu-id="1a0ed-1434">프로젝트 요약 작업(프로젝트 시작/작업 필드)이 변경될 때 ProjectBeforeTaskChange 이벤트가 발생하지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1434">Fixed an issue where the ProjectBeforeTaskChange event doesn't fire when there is a change to the project summary task - either the project start/task field.</span></span>
 
-- <span data-ttu-id="5080d-1428">100% 완료로 표시된 작업이 100% 미만으로 잘못 변경되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1428">Fixed an issue where a task that is marked 100% complete is wrongly changing to be less than 100% complete.</span></span>
+- <span data-ttu-id="1a0ed-1435">100% 완료로 표시된 작업이 100% 미만으로 잘못 변경되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1435">Fixed an issue where a task that is marked 100% complete is wrongly changing to be less than 100% complete.</span></span>
 
-- <span data-ttu-id="5080d-1429">Options(옵션)을 클릭한 후 Project가 중단되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1429">We fixed an issue where Project would crash after clicking on Options.</span></span>
+- <span data-ttu-id="1a0ed-1436">Options(옵션)을 클릭한 후 Project가 중단되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1436">We fixed an issue where Project would crash after clicking on Options.</span></span>
 
-- <span data-ttu-id="5080d-1430">상위 계획이 삭제된 후 연결이 끊어진 작업을 삭제하거나 다시 할당하지 못하도록 하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1430">We fixed an issue that prevented orphaned tasks from being deleted or re-assigned after their parent plan was deleted.</span></span>
+- <span data-ttu-id="1a0ed-1437">상위 계획이 삭제된 후 연결이 끊어진 작업을 삭제하거나 다시 할당하지 못하도록 하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1437">We fixed an issue that prevented orphaned tasks from being deleted or re-assigned after their parent plan was deleted.</span></span>
 
-### <a name="visio"></a><span data-ttu-id="5080d-1431">Visio</span><span class="sxs-lookup"><span data-stu-id="5080d-1431">Visio</span></span>
+### <a name="visio"></a><span data-ttu-id="1a0ed-1438">Visio</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1438">Visio</span></span>
 
-- <span data-ttu-id="5080d-1432">고정된 종속 코드에 회귀가 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1432">There was regression in dependent code which has been fixed.</span></span> <span data-ttu-id="5080d-1433">이제 SharePoint Onprem에서 실행되는 Visio 서비스에서 이미지가 렌더링되고 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1433">Now, the images are getting rendered in Visio services running on SharePoint Onprem.</span></span>
+- <span data-ttu-id="1a0ed-1439">고정된 종속 코드에 회귀가 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1439">There was regression in dependent code which has been fixed.</span></span> <span data-ttu-id="1a0ed-1440">이제 SharePoint Onprem에서 실행되는 Visio 서비스에서 이미지가 렌더링되고 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1440">Now, the images are getting rendered in Visio services running on SharePoint Onprem.</span></span>
 
-### <a name="word"></a><span data-ttu-id="5080d-1434">Word</span><span class="sxs-lookup"><span data-stu-id="5080d-1434">Word</span></span>
+### <a name="word"></a><span data-ttu-id="1a0ed-1441">Word</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1441">Word</span></span>
 
-- <span data-ttu-id="5080d-1435">주석 창의 타임스탬프가 시스템 로캘 시간을 기반으로 하지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1435">We fixed an issue where timestamps in Comment panes were not based on the system locale time.</span></span>
+- <span data-ttu-id="1a0ed-1442">주석 창의 타임스탬프가 시스템 로캘 시간을 기반으로 하지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1442">We fixed an issue where timestamps in Comment panes were not based on the system locale time.</span></span>
 
-- <span data-ttu-id="5080d-1436">URL에 쿼리 구성 요소가 포함되어 있을 때 사용자 정의 문서 배달(aspx)에서 Word 문서를 여는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1436">Resolved an issue opening Word documents from custom document delivery (aspx) when the URL contains a query component.</span></span>
+- <span data-ttu-id="1a0ed-1443">URL에 쿼리 구성 요소가 포함되어 있을 때 사용자 정의 문서 배달(aspx)에서 Word 문서를 여는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1443">Resolved an issue opening Word documents from custom document delivery (aspx) when the URL contains a query component.</span></span>
 
-- <span data-ttu-id="5080d-1437">텍스트 복사 및 붙여넣기가 주석 창에 표시되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1437">We fixed an issue where copy and pasting text to a comment pane would not be displayed.</span></span>
+- <span data-ttu-id="1a0ed-1444">텍스트 복사 및 붙여넣기가 주석 창에 표시되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1444">We fixed an issue where copy and pasting text to a comment pane would not be displayed.</span></span>
 
-- <span data-ttu-id="5080d-1438">코멘트의 하이퍼링크가 작동하지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1438">We fixed an issue where hyperlinks in comments weren’t working.</span></span>
+- <span data-ttu-id="1a0ed-1445">코멘트의 하이퍼링크가 작동하지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1445">We fixed an issue where hyperlinks in comments weren’t working.</span></span>
 
-- <span data-ttu-id="5080d-1439">프리젠테이션 영역을 확대/축소하여 확대된 선택 영역과 마우스 포인터 사이에 간격이 생긴 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1439">We fixed an issue where zooming in and out from the presentation area resulted in a gap between the zoomed selection marquee and the mouse pointer.</span></span>
+- <span data-ttu-id="1a0ed-1446">프리젠테이션 영역을 확대/축소하여 확대된 선택 영역과 마우스 포인터 사이에 간격이 생긴 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1446">We fixed an issue where zooming in and out from the presentation area resulted in a gap between the zoomed selection marquee and the mouse pointer.</span></span>
 
-- <span data-ttu-id="5080d-1440">웹 앱과 데스크톱 응용 프로그램 간의 동기화가 되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1440">We fixed an issue where comments between the web app and the desktop application were not in sync.</span></span>
+- <span data-ttu-id="1a0ed-1447">웹 앱과 데스크톱 응용 프로그램 간의 동기화가 되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1447">We fixed an issue where comments between the web app and the desktop application were not in sync.</span></span>
 
-- <span data-ttu-id="5080d-1441">댓글 힌트 거품이 100% 확대/축소 시 흐리게 나타나는 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1441">We fixed an issue where comment hint bubbles appeared blurry at 100% zoom.</span></span>
+- <span data-ttu-id="1a0ed-1448">댓글 힌트 거품이 100% 확대/축소 시 흐리게 나타나는 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1448">We fixed an issue where comment hint bubbles appeared blurry at 100% zoom.</span></span>
 
-- <span data-ttu-id="5080d-1442">우리는 빈 문서에 새로운 의견을 추가해도 아무런 도움이 되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1442">We fixed an issue where adding a new comment on a blank document wouldn't do anything.</span></span>
+- <span data-ttu-id="1a0ed-1449">우리는 빈 문서에 새로운 의견을 추가해도 아무런 도움이 되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1449">We fixed an issue where adding a new comment on a blank document wouldn't do anything.</span></span>
 
-- <span data-ttu-id="5080d-1443">Outlook 일정을 위한 WordMail에 HTML 붙여넣기가 작동하지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1443">We fixed an issue where pasting HTML into WordMail for Calendar wasn’t working.</span></span>
+- <span data-ttu-id="1a0ed-1450">Outlook 일정을 위한 WordMail에 HTML 붙여넣기가 작동하지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1450">We fixed an issue where pasting HTML into WordMail for Calendar wasn’t working.</span></span>
 
-- <span data-ttu-id="5080d-1444">공동 작성한 세션의 코멘트에 회신하는 것이 때로는 Word의 중단을 야기할 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1444">We fixed an issue where replying to a comment in a co-authored session could sometimes cause Word to freeze.</span></span>
+- <span data-ttu-id="1a0ed-1451">공동 작성한 세션의 코멘트에 회신하는 것이 때로는 Word의 중단을 야기할 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1451">We fixed an issue where replying to a comment in a co-authored session could sometimes cause Word to freeze.</span></span>
 
-- <span data-ttu-id="5080d-1445">100개 이상의 항목을 포함하는 문서에 색인을 삽입하거나 업데이트하는 경우, 응용 프로그램이 중단되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1445">We fixed an issue where inserting or updating an Index in a document containing more than a hundred entries would result in the application crashing.</span></span>
+- <span data-ttu-id="1a0ed-1452">100개 이상의 항목을 포함하는 문서에 색인을 삽입하거나 업데이트하는 경우, 응용 프로그램이 중단되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1452">We fixed an issue where inserting or updating an Index in a document containing more than a hundred entries would result in the application crashing.</span></span>
 
-- <span data-ttu-id="5080d-1446">정책 Word 2007 이상 바이너리 문서와 서식 파일을 사용하는 경우 일부 공동 작성 사례에서 오류가 발생하는 문제를 해결 했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1446">We fixed an issue where enabling policy Word 2007 and later Binary Documents and Templates would cause some co-authoring cases to fail.</span></span>
+- <span data-ttu-id="1a0ed-1453">정책 Word 2007 이상 바이너리 문서와 서식 파일을 사용하는 경우 일부 공동 작성 사례에서 오류가 발생하는 문제를 해결 했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1453">We fixed an issue where enabling policy Word 2007 and later Binary Documents and Templates would cause some co-authoring cases to fail.</span></span>
 
-- <span data-ttu-id="5080d-1447">사용자 지정 xml 값이 있는 파일이 매우 천천히 열리는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1447">We fixed an issue where files with custom xml values opened extremely slowly.</span></span>
+- <span data-ttu-id="1a0ed-1454">사용자 지정 xml 값이 있는 파일이 매우 천천히 열리는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1454">We fixed an issue where files with custom xml values opened extremely slowly.</span></span>
 
-- <span data-ttu-id="5080d-1448">경로 이름이 32K보다 큰 파일이 열리지 않고 적절한 오류 메시지가 표시되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1448">We fixed an issue where files with long path names (greater than 32K) would not open and an appropriate error message was not being displayed.</span></span>
+- <span data-ttu-id="1a0ed-1455">경로 이름이 32K보다 큰 파일이 열리지 않고 적절한 오류 메시지가 표시되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1455">We fixed an issue where files with long path names (greater than 32K) would not open and an appropriate error message was not being displayed.</span></span>
 
-### <a name="office-suite"></a><span data-ttu-id="5080d-1449">Office 제품군</span><span class="sxs-lookup"><span data-stu-id="5080d-1449">Office Suite</span></span>
+### <a name="office-suite"></a><span data-ttu-id="1a0ed-1456">Office 제품군</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1456">Office Suite</span></span>
 
-- <span data-ttu-id="5080d-1450">OS를 종료하면 InTune을 통한 Office 365 ProPlus 배포가 일시 중지되는 문제를 조사하고 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1450">We have investigated and resolved the issue where an Office 365 ProPlus deployment via InTune is paused after an OS shutdown.</span></span>
+- <span data-ttu-id="1a0ed-1457">OS를 종료하면 InTune을 통한 Office 365 ProPlus 배포가 일시 중지되는 문제를 조사하고 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1457">We have investigated and resolved the issue where an Office 365 ProPlus deployment via InTune is paused after an OS shutdown.</span></span>
 
-- <span data-ttu-id="5080d-1451">라이브러리 이름 또는 라이브러리 경로에 DBCS 문자가 있는 코드 라이브러리에 대한 참조를 포함하는 특정 VBA 프로젝트를 로드할 때 Office 응용 프로그램에서 손상된 것으로 보이는 Microsoft Office의 VBA(Visual Basic for Applications) 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1451">We fixed an issue in Visual Basic for Applications in Microsoft Office where certain VBA projects that contain references to code libraries with DBCS characters in the library name or library path would be viewed by the Office application as corrupt on load.</span></span>
+- <span data-ttu-id="1a0ed-1458">라이브러리 이름 또는 라이브러리 경로에 DBCS 문자가 있는 코드 라이브러리에 대한 참조를 포함하는 특정 VBA 프로젝트를 로드할 때 Office 응용 프로그램에서 손상된 것으로 보이는 Microsoft Office의 VBA(Visual Basic for Applications) 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1458">We fixed an issue in Visual Basic for Applications in Microsoft Office where certain VBA projects that contain references to code libraries with DBCS characters in the library name or library path would be viewed by the Office application as corrupt on load.</span></span>
 
-- <span data-ttu-id="5080d-1452">이 업데이트는 PATH 환경 변수에서 지정된 위치를 검색하여 찾을 수 있는 사항을 참고로 하는 Visual Basic for Applications 프로젝트가 런타임에 제대로 발견되지 않아 VBA 런타임 오류로 이어질 수 있는 Microsoft Office에서의 문제를 해결합니다. </span><span class="sxs-lookup"><span data-stu-id="5080d-1452">This update fixes an issue in Microsoft Office where Visual Basic for Applications projects with references that are expected to be found by searching locations specified in the PATH environment variable may not be found properly at runtime, leading to VBA runtime errors.</span></span>
+- <span data-ttu-id="1a0ed-1459">이 업데이트는 PATH 환경 변수에서 지정된 위치를 검색하여 찾을 수 있는 사항을 참고로 하는 Visual Basic for Applications 프로젝트가 런타임에 제대로 발견되지 않아 VBA 런타임 오류로 이어질 수 있는 Microsoft Office에서의 문제를 해결합니다. </span><span class="sxs-lookup"><span data-stu-id="1a0ed-1459">This update fixes an issue in Microsoft Office where Visual Basic for Applications projects with references that are expected to be found by searching locations specified in the PATH environment variable may not be found properly at runtime, leading to VBA runtime errors.</span></span>
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
-## <a name="version-2005-june-08"></a><span data-ttu-id="5080d-1454">버전 2005: 6월 8일</span><span class="sxs-lookup"><span data-stu-id="5080d-1454">Version 2005: June 08</span></span>
-<span data-ttu-id="5080d-1455">*버전 2005 (빌드 12827.20336)*</span><span class="sxs-lookup"><span data-stu-id="5080d-1455">*Version 2005 (Build 12827.20336)*</span></span>
+## <a name="version-2005-june-08"></a><span data-ttu-id="1a0ed-1461">버전 2005: 6월 8일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1461">Version 2005: June 08</span></span>
+<span data-ttu-id="1a0ed-1462">*버전 2005 (빌드 12827.20336)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1462">*Version 2005 (Build 12827.20336)*</span></span>
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-1457">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-1457">Resolved issues</span></span>
-### <a name="powerpoint"></a><span data-ttu-id="5080d-1458">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="5080d-1458">PowerPoint</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-1464">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1464">Resolved issues</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="1a0ed-1465">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1465">PowerPoint</span></span>
 
-- <span data-ttu-id="5080d-1459">글꼴 바꾸기 대화 상자에서 시스템에 설치된 글꼴 대신 글꼴 교체 드롭다운에 프레젠테이션 안의 글꼴만 표시하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1459">We have fixed an issue with replace fonts dialog where replace font dropdown only shows fonts within the presentation instead of fonts installed on the system.</span></span>
+- <span data-ttu-id="1a0ed-1466">글꼴 바꾸기 대화 상자에서 시스템에 설치된 글꼴 대신 글꼴 교체 드롭다운에 프레젠테이션 안의 글꼴만 표시하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1466">We have fixed an issue with replace fonts dialog where replace font dropdown only shows fonts within the presentation instead of fonts installed on the system.</span></span>
 
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
-## <a name="version-2005-june-04"></a><span data-ttu-id="5080d-1461">버전 2005: 6월 4일</span><span class="sxs-lookup"><span data-stu-id="5080d-1461">Version 2005: June 04</span></span>
-<span data-ttu-id="5080d-1462">*버전 2005 (빌드 12827.20320)*</span><span class="sxs-lookup"><span data-stu-id="5080d-1462">*Version 2005 (Build 12827.20320)*</span></span>
+## <a name="version-2005-june-04"></a><span data-ttu-id="1a0ed-1468">버전 2005: 6월 4일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1468">Version 2005: June 04</span></span>
+<span data-ttu-id="1a0ed-1469">*버전 2005 (빌드 12827.20320)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1469">*Version 2005 (Build 12827.20320)*</span></span>
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="feature-updates"></a><span data-ttu-id="5080d-1464">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="5080d-1464">Feature updates</span></span>
-### <a name="access"></a><span data-ttu-id="5080d-1465">Access</span><span class="sxs-lookup"><span data-stu-id="5080d-1465">Access</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="1a0ed-1471">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1471">Feature updates</span></span>
+### <a name="access"></a><span data-ttu-id="1a0ed-1472">Access</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1472">Access</span></span>
 
-- <span data-ttu-id="5080d-1466">**시간을 관리하세요! 날짜/시간 확장 데이터 유형의 정확도가 더 우수해 졌습니다.:** 향상된 새 데이터 유형을 소개합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1466">**Keep up with the times! The Date/Time Extended data type has better precision.:** Introducing a new and improved data type.</span></span>  <span data-ttu-id="5080d-1467">SQL과의 구문 호환성을 높이고 날짜와 시간을 포함하는 레코드의 정확성과 세부 정보 수준을 높이기 위해 DateTime2 데이터 유형을 Access로 구현하고 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1467">To enhance syntax compatibility with SQL, and to increase accuracy and level of detail in records that include dates and times, we’re implementing the DateTime2 data type into Access.</span></span> <span data-ttu-id="5080d-1468">이 추가 날짜 및 시간 데이터 유형은 더 큰 날짜 범위(0001-01-01 ~ 9999-12-31)를 포함하며, 더 높은 시간 정밀도(초 대신 나노초)를 제공하여 계산을 수행할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1468">This additional date & time data type will include a larger date range (0001-01-01 through 9999-12-31), with higher-specified time precision (nanoseconds, rather than seconds) that you will be able to provide and perform calculations on.</span></span> <span data-ttu-id="5080d-1469">사용하도록 설정하려면 새 필드 > 날짜 & 시간 확장을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1469">To enable, select New field > Date & Time Extended.</span></span> [<span data-ttu-id="5080d-1470">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="5080d-1470">Learn more</span></span>](https://support.office.com/article/708c32da-a052-4cc2-9850-9851042e0024)
+- <span data-ttu-id="1a0ed-1473">**시간을 관리하세요! 날짜/시간 확장 데이터 유형의 정확도가 더 우수해 졌습니다.:** 향상된 새 데이터 유형을 소개합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1473">**Keep up with the times! The Date/Time Extended data type has better precision.:** Introducing a new and improved data type.</span></span>  <span data-ttu-id="1a0ed-1474">SQL과의 구문 호환성을 높이고 날짜와 시간을 포함하는 레코드의 정확성과 세부 정보 수준을 높이기 위해 DateTime2 데이터 유형을 Access로 구현하고 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1474">To enhance syntax compatibility with SQL, and to increase accuracy and level of detail in records that include dates and times, we’re implementing the DateTime2 data type into Access.</span></span> <span data-ttu-id="1a0ed-1475">이 추가 날짜 및 시간 데이터 유형은 더 큰 날짜 범위(0001-01-01 ~ 9999-12-31)를 포함하며, 더 높은 시간 정밀도(초 대신 나노초)를 제공하여 계산을 수행할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1475">This additional date & time data type will include a larger date range (0001-01-01 through 9999-12-31), with higher-specified time precision (nanoseconds, rather than seconds) that you will be able to provide and perform calculations on.</span></span> <span data-ttu-id="1a0ed-1476">사용하도록 설정하려면 새 필드 > 날짜 & 시간 확장을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1476">To enable, select New field > Date & Time Extended.</span></span> [<span data-ttu-id="1a0ed-1477">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1477">Learn more</span></span>](https://support.office.com/article/708c32da-a052-4cc2-9850-9851042e0024)
 
-### <a name="excel"></a><span data-ttu-id="5080d-1471">Excel</span><span class="sxs-lookup"><span data-stu-id="5080d-1471">Excel</span></span>
+### <a name="excel"></a><span data-ttu-id="1a0ed-1478">Excel</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1478">Excel</span></span>
 
-- <span data-ttu-id="5080d-1472">**Excel 내의 Power BI에 있는 데이터셋에서 피벗 테이블 생성:** 몇 번의 클릭으로 Power BI에 저장된 데이터셋에 연결된 피벗 테이블은 Excel에서 생성할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1472">**Create PivotTables from Datasets in Power BI within Excel:** You can create PivotTables in Excel that are connected to datasets stored in Power BI with a few clicks.</span></span> <span data-ttu-id="5080d-1473"> 이렇게 하면 PivotTables와 Power BI를 모두 최대한 활용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1473">Doing this allows you get the best of both PivotTables and Power BI.</span></span> <span data-ttu-id="5080d-1474">보안 Power BI 데이터셋에서 PivotTables를 사용하여 데이터를 계산, 요약 및 분석할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1474">Calculate, summarize, and analyze your data with PivotTables from your secure Power BI datasets.</span></span>
+- <span data-ttu-id="1a0ed-1479">**Excel 내의 Power BI에 있는 데이터셋에서 피벗 테이블 생성:** 몇 번의 클릭으로 Power BI에 저장된 데이터셋에 연결된 피벗 테이블은 Excel에서 생성할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1479">**Create PivotTables from Datasets in Power BI within Excel:** You can create PivotTables in Excel that are connected to datasets stored in Power BI with a few clicks.</span></span> <span data-ttu-id="1a0ed-1480"> 이렇게 하면 PivotTables와 Power BI를 모두 최대한 활용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1480">Doing this allows you get the best of both PivotTables and Power BI.</span></span> <span data-ttu-id="1a0ed-1481">보안 Power BI 데이터셋에서 PivotTables를 사용하여 데이터를 계산, 요약 및 분석할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1481">Calculate, summarize, and analyze your data with PivotTables from your secure Power BI datasets.</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="5080d-1475">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-1475">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-1482">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1482">Outlook</span></span>
 
-- <span data-ttu-id="5080d-1476">**이전 Outlook 세션에서 항목을 빠르게 다시 여는 옵션:** 이전 Outlook 세션에서 항목을 빠르게 다시 여는 옵션을 추가했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1476">**Option to quickly reopen items from previous Outlook session:** We added an option to quickly reopen items from a previous Outlook session.</span></span>
+- <span data-ttu-id="1a0ed-1483">**이전 Outlook 세션에서 항목을 빠르게 다시 여는 옵션:** 이전 Outlook 세션에서 항목을 빠르게 다시 여는 옵션을 추가했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1483">**Option to quickly reopen items from previous Outlook session:** We added an option to quickly reopen items from a previous Outlook session.</span></span>
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -2884,34 +2894,34 @@ ms.locfileid: "51749066"
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-1479">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-1479">Resolved issues</span></span>
-### <a name="powerpoint"></a><span data-ttu-id="5080d-1480">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="5080d-1480">PowerPoint</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-1486">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1486">Resolved issues</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="1a0ed-1487">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1487">PowerPoint</span></span>
 
-- <span data-ttu-id="5080d-1481">이렇게 하면 사용자가 파일에 최신 및 기존 주석을 모두 가지고 있을 때 충돌이 발생하여 주석을 업그레이드하게 됩니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1481">This fixes a crash when users have both modern and legacy comments in a file, thus triggering an upgrade on the comments.</span></span>
+- <span data-ttu-id="1a0ed-1488">이렇게 하면 사용자가 파일에 최신 및 기존 주석을 모두 가지고 있을 때 충돌이 발생하여 주석을 업그레이드하게 됩니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1488">This fixes a crash when users have both modern and legacy comments in a file, thus triggering an upgrade on the comments.</span></span>
 
 
-### <a name="office-suite"></a><span data-ttu-id="5080d-1482">Office 제품군</span><span class="sxs-lookup"><span data-stu-id="5080d-1482">Office Suite</span></span>
+### <a name="office-suite"></a><span data-ttu-id="1a0ed-1489">Office 제품군</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1489">Office Suite</span></span>
 
-- <span data-ttu-id="5080d-1483">검증을 확인했습니다.기본적으로 Bing Addon 설치 검증을 true로 설정하고 MSI 반환 성공을 설치 성공으로 간주하여 설치 실패율 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1483">We have resolved the ValidateInstall fail rate issue by setting the Bing Addon install validation to true by default and considering the MSI return success as an install success.</span></span>
+- <span data-ttu-id="1a0ed-1490">검증을 확인했습니다.기본적으로 Bing Addon 설치 검증을 true로 설정하고 MSI 반환 성공을 설치 성공으로 간주하여 설치 실패율 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1490">We have resolved the ValidateInstall fail rate issue by setting the Bing Addon install validation to true by default and considering the MSI return success as an install success.</span></span>
 
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
-## <a name="version-2005-may-29"></a><span data-ttu-id="5080d-1485">버전 2005: 5월 29일</span><span class="sxs-lookup"><span data-stu-id="5080d-1485">Version 2005: May 29</span></span>
-<span data-ttu-id="5080d-1486">*버전 2005(빌드 12827.20268)*</span><span class="sxs-lookup"><span data-stu-id="5080d-1486">*Version 2005 (Build 12827.20268)*</span></span>
+## <a name="version-2005-may-29"></a><span data-ttu-id="1a0ed-1492">버전 2005: 5월 29일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1492">Version 2005: May 29</span></span>
+<span data-ttu-id="1a0ed-1493">*버전 2005(빌드 12827.20268)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1493">*Version 2005 (Build 12827.20268)*</span></span>
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="feature-updates"></a><span data-ttu-id="5080d-1488">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="5080d-1488">Feature updates</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="1a0ed-1495">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1495">Feature updates</span></span>
 
-### <a name="excel"></a><span data-ttu-id="5080d-1489">Excel</span><span class="sxs-lookup"><span data-stu-id="5080d-1489">Excel</span></span>
+### <a name="excel"></a><span data-ttu-id="1a0ed-1496">Excel</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1496">Excel</span></span>
 
-- <span data-ttu-id="5080d-1490">**보기 설정:** Excel 데스크톱에서 다른 사용자와 공동 작업하는 동안 정렬/필터합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1490">**Sheet View:** Sort/filter while collaborating with others in Excel desktop.</span></span>
+- <span data-ttu-id="1a0ed-1497">**보기 설정:** Excel 데스크톱에서 다른 사용자와 공동 작업하는 동안 정렬/필터합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1497">**Sheet View:** Sort/filter while collaborating with others in Excel desktop.</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="5080d-1491">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-1491">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-1498">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1498">Outlook</span></span>
 
-- <span data-ttu-id="5080d-1492">**Outlook 토스트 알림에 추가 버튼이 추가되었습니다.이제 윈도우즈 10에서 아웃룩을 실행할 때 Outlook 토스트 알림에** 빠른 작업 버튼이 나타납니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1492">**Additional buttons added to Outlook toast notifications:** Quick Action buttons now appear in Outlook toast notifications when running Outlook on Windows 10.</span></span>
+- <span data-ttu-id="1a0ed-1499">**Outlook 토스트 알림에 추가 버튼이 추가되었습니다.이제 윈도우즈 10에서 아웃룩을 실행할 때 Outlook 토스트 알림에** 빠른 작업 버튼이 나타납니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1499">**Additional buttons added to Outlook toast notifications:** Quick Action buttons now appear in Outlook toast notifications when running Outlook on Windows 10.</span></span>
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -2920,23 +2930,23 @@ ms.locfileid: "51749066"
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-1495">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-1495">Resolved issues</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-1502">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1502">Resolved issues</span></span>
 
 
 
-### <a name="outlook"></a><span data-ttu-id="5080d-1496">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-1496">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-1503">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1503">Outlook</span></span>
 
-- <span data-ttu-id="5080d-1497">Windows 10 서버 버전 사용자에게 바이러스 백신 상태: 올바르지 않음이라는 경고 메시지가 표시되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1497">Addressed an issue that caused users of Windows 10 server versions to see the warning  Antivirus status: Invalid.</span></span> <span data-ttu-id="5080d-1498">이 Windows 버전에서는 바이러스 백신 탐지를 지원하지만 안티 바이러스가 올바르게 설치되었음에도 불구하고 바이러스 백신 프로그램을 찾을 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1498">This version of Windows supports antivirus detection, but no antivirus was found despite having anti virus correctly installed.</span></span>
+- <span data-ttu-id="1a0ed-1504">Windows 10 서버 버전 사용자에게 바이러스 백신 상태: 올바르지 않음이라는 경고 메시지가 표시되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1504">Addressed an issue that caused users of Windows 10 server versions to see the warning  Antivirus status: Invalid.</span></span> <span data-ttu-id="1a0ed-1505">이 Windows 버전에서는 바이러스 백신 탐지를 지원하지만 안티 바이러스가 올바르게 설치되었음에도 불구하고 바이러스 백신 프로그램을 찾을 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1505">This version of Windows supports antivirus detection, but no antivirus was found despite having anti virus correctly installed.</span></span>
 
-### <a name="office-suite"></a><span data-ttu-id="5080d-1499">Office 제품군</span><span class="sxs-lookup"><span data-stu-id="5080d-1499">Office Suite</span></span>
+### <a name="office-suite"></a><span data-ttu-id="1a0ed-1506">Office 제품군</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1506">Office Suite</span></span>
 
-- <span data-ttu-id="5080d-1500">레지스트리 키 HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\TabProcGrowth가 0으로 설정되어있는 동안 추가 기능이 활성화될 때 사무실 호스트가 Windows에서 충돌했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1500">The office host was crashing in windows, when an add-in is being activated while the registry key HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\TabProcGrowth is set to zero.</span></span> <span data-ttu-id="5080d-1501">이렇게 변경하면 이 문제가 해결됩니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1501">This change would fix this issue.</span></span>
+- <span data-ttu-id="1a0ed-1507">레지스트리 키 HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\TabProcGrowth가 0으로 설정되어있는 동안 추가 기능이 활성화될 때 사무실 호스트가 Windows에서 충돌했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1507">The office host was crashing in windows, when an add-in is being activated while the registry key HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\TabProcGrowth is set to zero.</span></span> <span data-ttu-id="1a0ed-1508">이렇게 변경하면 이 문제가 해결됩니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1508">This change would fix this issue.</span></span>
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
-## <a name="version-2005-may-21"></a><span data-ttu-id="5080d-1503">버전 2005: 5월 21일</span><span class="sxs-lookup"><span data-stu-id="5080d-1503">Version 2005: May 21</span></span>
-<span data-ttu-id="5080d-1504">*버전 2005(빌드 12827.20210)*</span><span class="sxs-lookup"><span data-stu-id="5080d-1504">*Version 2005 (Build 12827.20210)*</span></span>
+## <a name="version-2005-may-21"></a><span data-ttu-id="1a0ed-1510">버전 2005: 5월 21일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1510">Version 2005: May 21</span></span>
+<span data-ttu-id="1a0ed-1511">*버전 2005(빌드 12827.20210)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1511">*Version 2005 (Build 12827.20210)*</span></span>
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
@@ -2949,45 +2959,45 @@ ms.locfileid: "51749066"
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-1508">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-1508">Resolved issues</span></span>
-### <a name="excel"></a><span data-ttu-id="5080d-1509">Excel</span><span class="sxs-lookup"><span data-stu-id="5080d-1509">Excel</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-1515">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1515">Resolved issues</span></span>
+### <a name="excel"></a><span data-ttu-id="1a0ed-1516">Excel</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1516">Excel</span></span>
 
-- <span data-ttu-id="5080d-1510">팀을 통해 Excel 창을 공유할 때 Ctrl+Shift+화살표 키를 사용하여 스크롤한 후 Excel이 응답하지 않을 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1510">Fixed an issue where Excel could become unresponsive after using Ctrl+Shift+Arrow keys to scroll when the Excel window is shared through Teams.</span></span>
-
-
-- <span data-ttu-id="5080d-1511">경우에 따라 동일한 통합 문서 안의 위치에 대한 하이퍼링크를 클릭하면 통합 문서이 숨겨집니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1511">In some cases, clicking a hyperlink to a place within the same workbook will cause the workbook to be hidden.</span></span>
+- <span data-ttu-id="1a0ed-1517">팀을 통해 Excel 창을 공유할 때 Ctrl+Shift+화살표 키를 사용하여 스크롤한 후 Excel이 응답하지 않을 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1517">Fixed an issue where Excel could become unresponsive after using Ctrl+Shift+Arrow keys to scroll when the Excel window is shared through Teams.</span></span>
 
 
-### <a name="outlook"></a><span data-ttu-id="5080d-1512">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-1512">Outlook</span></span>
-
-- <span data-ttu-id="5080d-1513">회신/전송 레이블에 대한 clp 감사 이벤트에서 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1513">Addressed an issue with the clp auditing event for the reply/forward label.</span></span>
+- <span data-ttu-id="1a0ed-1518">경우에 따라 동일한 통합 문서 안의 위치에 대한 하이퍼링크를 클릭하면 통합 문서이 숨겨집니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1518">In some cases, clicking a hyperlink to a place within the same workbook will cause the workbook to be hidden.</span></span>
 
 
-- <span data-ttu-id="5080d-1514">관리자 알림에서 피드백을 제출할 때 사용자가 충돌을 겪게 하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1514">Addressed an issue that caused users to experience a crash when submitting feedback from an Admin Notification.</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-1519">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1519">Outlook</span></span>
+
+- <span data-ttu-id="1a0ed-1520">회신/전송 레이블에 대한 clp 감사 이벤트에서 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1520">Addressed an issue with the clp auditing event for the reply/forward label.</span></span>
+
+
+- <span data-ttu-id="1a0ed-1521">관리자 알림에서 피드백을 제출할 때 사용자가 충돌을 겪게 하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1521">Addressed an issue that caused users to experience a crash when submitting feedback from an Admin Notification.</span></span>
 
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
-## <a name="version-2005-may-14"></a><span data-ttu-id="5080d-1516">버전 2005: 5월 14일</span><span class="sxs-lookup"><span data-stu-id="5080d-1516">Version 2005: May 14</span></span>
-<span data-ttu-id="5080d-1517">*버전 2005(빌드 12827.20160)*</span><span class="sxs-lookup"><span data-stu-id="5080d-1517">*Version 2005 (Build 12827.20160)*</span></span>
+## <a name="version-2005-may-14"></a><span data-ttu-id="1a0ed-1523">버전 2005: 5월 14일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1523">Version 2005: May 14</span></span>
+<span data-ttu-id="1a0ed-1524">*버전 2005(빌드 12827.20160)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1524">*Version 2005 (Build 12827.20160)*</span></span>
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="feature-updates"></a><span data-ttu-id="5080d-1519">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="5080d-1519">Feature updates</span></span>
-### <a name="excel"></a><span data-ttu-id="5080d-1520">Excel</span><span class="sxs-lookup"><span data-stu-id="5080d-1520">Excel</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="1a0ed-1526">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1526">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="1a0ed-1527">Excel</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1527">Excel</span></span>
 
-- <span data-ttu-id="5080d-1521">**민감도 레이블 자동 적용 또는 권장:** Office는 감지되는 중요한 콘텐츠에 기반하여 민감도 레이블을 권장하거나 자동으로 적용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1521">**Auto-apply or recommend sensitivity labels:** Office can recommend or automatically apply a sensitivity label based on the sensitive content detected.</span></span>
+- <span data-ttu-id="1a0ed-1528">**민감도 레이블 자동 적용 또는 권장:** Office는 감지되는 중요한 콘텐츠에 기반하여 민감도 레이블을 권장하거나 자동으로 적용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1528">**Auto-apply or recommend sensitivity labels:** Office can recommend or automatically apply a sensitivity label based on the sensitive content detected.</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="5080d-1522">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="5080d-1522">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="1a0ed-1529">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1529">PowerPoint</span></span>
 
-- <span data-ttu-id="5080d-1523">**이어폰이 원격 조정 기능을 수행하여 클릭커가 필요하지 않습니다.** Surface Earbuds를 사용하여 PowerPoint 프레젠테이션을 컨트롤합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1523">**No need for a clicker: your earbuds have you covered:** Use your Surface Earbuds to control your PowerPoint presentations.</span></span> <span data-ttu-id="5080d-1524">중요: 제스처를 사용하여 프레젠테이션을 제어하려면 Windows 10용 Surface Audio 앱에서 Surface Earbuds를 페어링해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1524">Important: You must pair your Surface Earbuds in the Surface Audio app for Windows 10 in order to use gestures to control presentations.</span></span> <span data-ttu-id="5080d-1525">Windows 10에서 Surface Audio 앱을 시작하는 방법에 대한 지침은 여기에서 확인할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1525">Instructions for getting started with the Surface Audio app on Windows 10 are available here.</span></span> [<span data-ttu-id="5080d-1526">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="5080d-1526">Learn more</span></span>](https://support.office.com/article/6319a6f3-ad69-44e6-a8ff-e79676423e4a)
+- <span data-ttu-id="1a0ed-1530">**이어폰이 원격 조정 기능을 수행하여 클릭커가 필요하지 않습니다.** Surface Earbuds를 사용하여 PowerPoint 프레젠테이션을 컨트롤합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1530">**No need for a clicker: your earbuds have you covered:** Use your Surface Earbuds to control your PowerPoint presentations.</span></span> <span data-ttu-id="1a0ed-1531">중요: 제스처를 사용하여 프레젠테이션을 제어하려면 Windows 10용 Surface Audio 앱에서 Surface Earbuds를 페어링해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1531">Important: You must pair your Surface Earbuds in the Surface Audio app for Windows 10 in order to use gestures to control presentations.</span></span> <span data-ttu-id="1a0ed-1532">Windows 10에서 Surface Audio 앱을 시작하는 방법에 대한 지침은 여기에서 확인할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1532">Instructions for getting started with the Surface Audio app on Windows 10 are available here.</span></span> [<span data-ttu-id="1a0ed-1533">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1533">Learn more</span></span>](https://support.office.com/article/6319a6f3-ad69-44e6-a8ff-e79676423e4a)
 
-- <span data-ttu-id="5080d-1527">**민감도 레이블 자동 적용 또는 권장:** Office는 감지되는 중요한 콘텐츠에 기반하여 민감도 레이블을 권장하거나 자동으로 적용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1527">**Auto-apply or recommend sensitivity labels:** Office can recommend or automatically apply a sensitivity label based on the sensitive content detected.</span></span>
+- <span data-ttu-id="1a0ed-1534">**민감도 레이블 자동 적용 또는 권장:** Office는 감지되는 중요한 콘텐츠에 기반하여 민감도 레이블을 권장하거나 자동으로 적용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1534">**Auto-apply or recommend sensitivity labels:** Office can recommend or automatically apply a sensitivity label based on the sensitive content detected.</span></span>
 
-### <a name="word"></a><span data-ttu-id="5080d-1528">Word</span><span class="sxs-lookup"><span data-stu-id="5080d-1528">Word</span></span>
+### <a name="word"></a><span data-ttu-id="1a0ed-1535">Word</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1535">Word</span></span>
 
-- <span data-ttu-id="5080d-1529">**민감도 레이블 자동 적용 또는 권장:** Office는 감지되는 중요한 콘텐츠에 기반하여 민감도 레이블을 권장하거나 자동으로 적용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1529">**Auto-apply or recommend sensitivity labels:** Office can recommend or automatically apply a sensitivity label based on the sensitive content detected.</span></span>
+- <span data-ttu-id="1a0ed-1536">**민감도 레이블 자동 적용 또는 권장:** Office는 감지되는 중요한 콘텐츠에 기반하여 민감도 레이블을 권장하거나 자동으로 적용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1536">**Auto-apply or recommend sensitivity labels:** Office can recommend or automatically apply a sensitivity label based on the sensitive content detected.</span></span>
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -2996,145 +3006,145 @@ ms.locfileid: "51749066"
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-1532">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-1532">Resolved issues</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-1539">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1539">Resolved issues</span></span>
 
-### <a name="excel"></a><span data-ttu-id="5080d-1533">Excel</span><span class="sxs-lookup"><span data-stu-id="5080d-1533">Excel</span></span>
+### <a name="excel"></a><span data-ttu-id="1a0ed-1540">Excel</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1540">Excel</span></span>
 
-- <span data-ttu-id="5080d-1534">차트에 사용되는 사용자 지정 오차 막대 대화 상자에서 셀 참조 편집 컨트롤의 크기를 늘렸습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1534">Increased the size of the cell reference edit controls on the Custom Error Bars dialog used with charts.</span></span>
+- <span data-ttu-id="1a0ed-1541">차트에 사용되는 사용자 지정 오차 막대 대화 상자에서 셀 참조 편집 컨트롤의 크기를 늘렸습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1541">Increased the size of the cell reference edit controls on the Custom Error Bars dialog used with charts.</span></span>
 
-- <span data-ttu-id="5080d-1535">차트 데이터 표에서 날짜 축에 있는 값을 잘못 렌더링할 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1535">Fixed an issue where chart data table could render values in a date axis incorrectly.</span></span>
+- <span data-ttu-id="1a0ed-1542">차트 데이터 표에서 날짜 축에 있는 값을 잘못 렌더링할 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1542">Fixed an issue where chart data table could render values in a date axis incorrectly.</span></span>
 
-- <span data-ttu-id="5080d-1536">페이지 레이아웃이나 페이지 나누기 미리 보기를 실행한 후에 페이지 나누기를 해제하지 못하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1536">Fixed an issue where page breaks could not be disabled after going into Page Layout or Page Break Preview.</span></span>
+- <span data-ttu-id="1a0ed-1543">페이지 레이아웃이나 페이지 나누기 미리 보기를 실행한 후에 페이지 나누기를 해제하지 못하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1543">Fixed an issue where page breaks could not be disabled after going into Page Layout or Page Break Preview.</span></span>
 
-- <span data-ttu-id="5080d-1537">계열 데이터가 있는 열을 숨기거나 숨기기를 해제한 후에 차트 선 스타일이 손실될 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1537">Fixed an issue where chart line styles could be lost after hiding and unhiding columns with series data.</span></span>
+- <span data-ttu-id="1a0ed-1544">계열 데이터가 있는 열을 숨기거나 숨기기를 해제한 후에 차트 선 스타일이 손실될 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1544">Fixed an issue where chart line styles could be lost after hiding and unhiding columns with series data.</span></span>
 
-- <span data-ttu-id="5080d-1538">필터링된 목록에 열을 삽입하는 데 예상보다 오래 걸리는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1538">Fixed an issue where inserting a column in a filtered list would take longer than expected.</span></span>
+- <span data-ttu-id="1a0ed-1545">필터링된 목록에 열을 삽입하는 데 예상보다 오래 걸리는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1545">Fixed an issue where inserting a column in a filtered list would take longer than expected.</span></span>
 
-- <span data-ttu-id="5080d-1539">인쇄할 때 양식 컨트롤에 있는 확인란 크기 조정 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1539">Fixed a problem with the scaling of checkboxes in form controls when printed.</span></span>
+- <span data-ttu-id="1a0ed-1546">인쇄할 때 양식 컨트롤에 있는 확인란 크기 조정 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1546">Fixed a problem with the scaling of checkboxes in form controls when printed.</span></span>
 
-- <span data-ttu-id="5080d-1540">파일 경로가 너무 길면 파일을 다시 연 후 외부 링크가 작동하지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1540">Fixed an issue where the external link stops working after the file is reopened if the file path is too long.</span></span>
+- <span data-ttu-id="1a0ed-1547">파일 경로가 너무 길면 파일을 다시 연 후 외부 링크가 작동하지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1547">Fixed an issue where the external link stops working after the file is reopened if the file path is too long.</span></span>
 
-- <span data-ttu-id="5080d-1541">Excel 2016에서 디지털 서명을 사용하여 저장한 통합 문서를 최신 버전의 Excel에서 열면 서명이 무효가 될 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1541">Workbooks saved with a digital signature in Excel 2016 could have the signature invalidated upon opening in the current version of Excel.</span></span>
+- <span data-ttu-id="1a0ed-1548">Excel 2016에서 디지털 서명을 사용하여 저장한 통합 문서를 최신 버전의 Excel에서 열면 서명이 무효가 될 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1548">Workbooks saved with a digital signature in Excel 2016 could have the signature invalidated upon opening in the current version of Excel.</span></span>
 
-- <span data-ttu-id="5080d-1542">경우에 따라 Application.Evaluate(VBA)가 사용자 정의 함수에서 제대로 작동하지 않았습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1542">Application.Evaluate (VBA) was not working for User-defined functions in some cases.</span></span>
+- <span data-ttu-id="1a0ed-1549">경우에 따라 Application.Evaluate(VBA)가 사용자 정의 함수에서 제대로 작동하지 않았습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1549">Application.Evaluate (VBA) was not working for User-defined functions in some cases.</span></span>
 
-- <span data-ttu-id="5080d-1543">Excel 2016에서 디지털 서명을 사용하여 저장한 통합 문서를 최신 버전의 Excel에서 열면 서명이 무효가 될 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1543">Workbooks saved with a digital signature in Excel 2016 could have the signature invalidated upon opening in the current version of Excel.</span></span>
+- <span data-ttu-id="1a0ed-1550">Excel 2016에서 디지털 서명을 사용하여 저장한 통합 문서를 최신 버전의 Excel에서 열면 서명이 무효가 될 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1550">Workbooks saved with a digital signature in Excel 2016 could have the signature invalidated upon opening in the current version of Excel.</span></span>
 
-- <span data-ttu-id="5080d-1544">이와 같이 변경하면 CF(조건부 서식) 정보가 제대로 파일에 저장되지 않는 문제를 해결할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1544">This change fixes an issue where conditional formatting (CF) information was not being saved to XLSB files correctly.</span></span>
+- <span data-ttu-id="1a0ed-1551">이와 같이 변경하면 CF(조건부 서식) 정보가 제대로 파일에 저장되지 않는 문제를 해결할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1551">This change fixes an issue where conditional formatting (CF) information was not being saved to XLSB files correctly.</span></span>
 
-- <span data-ttu-id="5080d-1545">이 변경 사항은 LINEST 함수가 올바른 값을 반환하는 경우에도 차트 추세선 R 제곱값(강제적인 y 절편)이 올바르지 않은 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1545">This change fixes an issue where the chart trendline R-Squared value (in the forced y-intercept case) was incorrect even though the LINEST function returns the correct value.</span></span>
+- <span data-ttu-id="1a0ed-1552">이 변경 사항은 LINEST 함수가 올바른 값을 반환하는 경우에도 차트 추세선 R 제곱값(강제적인 y 절편)이 올바르지 않은 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1552">This change fixes an issue where the chart trendline R-Squared value (in the forced y-intercept case) was incorrect even though the LINEST function returns the correct value.</span></span>
 
-- <span data-ttu-id="5080d-1546">이 변경 사항은 사용자 지정된 차트 추세선 서식이 항상 저장되지 않는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1546">This change fixes an issue where customized chart trendline formatting was not always being saved.</span></span>
+- <span data-ttu-id="1a0ed-1553">이 변경 사항은 사용자 지정된 차트 추세선 서식이 항상 저장되지 않는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1553">This change fixes an issue where customized chart trendline formatting was not always being saved.</span></span>
 
-- <span data-ttu-id="5080d-1547">레거시 "공유 통합 문서" 모드를 사용하여 통합 문서의 새 시트에 변경 내용을 나열할 때 충돌이 발생할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1547">A crash could occur when trying to list changes on a new sheet for a workbook using legacy"Shared Workbook" mode.</span></span>
+- <span data-ttu-id="1a0ed-1554">레거시 "공유 통합 문서" 모드를 사용하여 통합 문서의 새 시트에 변경 내용을 나열할 때 충돌이 발생할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1554">A crash could occur when trying to list changes on a new sheet for a workbook using legacy"Shared Workbook" mode.</span></span>
 
-- <span data-ttu-id="5080d-1548">"음수이면 반전" 옵션을 사용하도록 설정한 경우 피벗 차트에서 사용자 지정 서식이 저장되지 않을 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1548">Fixed the issue where custom formatting in Pivot charts may not be saved when the "Invert if negative" option was enabled.</span></span>
+- <span data-ttu-id="1a0ed-1555">"음수이면 반전" 옵션을 사용하도록 설정한 경우 피벗 차트에서 사용자 지정 서식이 저장되지 않을 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1555">Fixed the issue where custom formatting in Pivot charts may not be saved when the "Invert if negative" option was enabled.</span></span>
 
-- <span data-ttu-id="5080d-1549">"음수이면 반전" 옵션을 선택한 경우 피벗 차트에서 단일 데이터 요소에 대한 사용자 지정 서식이 저장되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1549">Fixed an issue where custom formatting for a single data point in a Pivot chart was not saved if the "Invert if negative" option was selected.</span></span>
+- <span data-ttu-id="1a0ed-1556">"음수이면 반전" 옵션을 선택한 경우 피벗 차트에서 단일 데이터 요소에 대한 사용자 지정 서식이 저장되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1556">Fixed an issue where custom formatting for a single data point in a Pivot chart was not saved if the "Invert if negative" option was selected.</span></span>
 
-- <span data-ttu-id="5080d-1550">이 변경 사항으로 CSV 파일에 '@' 문자가 업로드되어 '@' 문자 다음 문자열이 수식으로 변환되는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1550">This change fixes an issue where the '@' character uploaded in a CSV file, would result in the string after the '@' character to be converted to a formula.</span></span>
+- <span data-ttu-id="1a0ed-1557">이 변경 사항으로 CSV 파일에 '@' 문자가 업로드되어 '@' 문자 다음 문자열이 수식으로 변환되는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1557">This change fixes an issue where the '@' character uploaded in a CSV file, would result in the string after the '@' character to be converted to a formula.</span></span>
 
-- <span data-ttu-id="5080d-1551">SEQUENCE 함수에서 10진수 값이 올바르게 반올림되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1551">Fixed an issue where decimal values in the SEQUENCE function were not rounded correctly.</span></span>
+- <span data-ttu-id="1a0ed-1558">SEQUENCE 함수에서 10진수 값이 올바르게 반올림되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1558">Fixed an issue where decimal values in the SEQUENCE function were not rounded correctly.</span></span>
 
-### <a name="onenote"></a><span data-ttu-id="5080d-1552">OneNote</span><span class="sxs-lookup"><span data-stu-id="5080d-1552">OneNote</span></span>
+### <a name="onenote"></a><span data-ttu-id="1a0ed-1559">OneNote</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1559">OneNote</span></span>
 
-- <span data-ttu-id="5080d-1553">줄 바꿈이 세로 탭으로 저장되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1553">Fixed an issue where line breaks were being stored as vertical tabs.</span></span>
+- <span data-ttu-id="1a0ed-1560">줄 바꿈이 세로 탭으로 저장되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1560">Fixed an issue where line breaks were being stored as vertical tabs.</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="5080d-1554">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-1554">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-1561">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1561">Outlook</span></span>
 
-- <span data-ttu-id="5080d-1555">사용자가 개인 연락처 그룹을 모임 참석자로 추가할 수 없게 하는 문제가 해결됩니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1555">Addresses an issue that caused users to be unable to add a Personal Contact Group as a Meeting attendee.</span></span>
+- <span data-ttu-id="1a0ed-1562">사용자가 개인 연락처 그룹을 모임 참석자로 추가할 수 없게 하는 문제가 해결됩니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1562">Addresses an issue that caused users to be unable to add a Personal Contact Group as a Meeting attendee.</span></span>
 
-- <span data-ttu-id="5080d-1556">Office 리본에서 그룹 일정관리의 분류 단추를 사용할 수 없는 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1556">Fixed an issue where the categorize button for group calendars in the Office Ribbon was disabled.</span></span>
+- <span data-ttu-id="1a0ed-1563">Office 리본에서 그룹 일정관리의 분류 단추를 사용할 수 없는 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1563">Fixed an issue where the categorize button for group calendars in the Office Ribbon was disabled.</span></span>
 
-- <span data-ttu-id="5080d-1557">Windows 업데이트 후 로컬로 저장된 .msg 혹은 .oft 파일을 열 때 Outlook의 작동이 중단되었던 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1557">Addressed an issue that caused Outlook to crash when opening .msg or .oft files that were saved locally after a Windows update.</span></span>
+- <span data-ttu-id="1a0ed-1564">Windows 업데이트 후 로컬로 저장된 .msg 혹은 .oft 파일을 열 때 Outlook의 작동이 중단되었던 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1564">Addressed an issue that caused Outlook to crash when opening .msg or .oft files that were saved locally after a Windows update.</span></span>
 
-- <span data-ttu-id="5080d-1558">구현되거나 작동하지 않는 그룹 폴더가 있는 엔터프라이즈 고객이 있는 경우 Outlook에 "응답하지 않음" 메시지가 표시되는 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1558">Fixed an issue where enterprise customers with group folders not implemented or not working, would result in Outlook displaying a "not responding" message.</span></span>
+- <span data-ttu-id="1a0ed-1565">구현되거나 작동하지 않는 그룹 폴더가 있는 엔터프라이즈 고객이 있는 경우 Outlook에 "응답하지 않음" 메시지가 표시되는 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1565">Fixed an issue where enterprise customers with group folders not implemented or not working, would result in Outlook displaying a "not responding" message.</span></span>
 
-- <span data-ttu-id="5080d-1559">Outlook Desktop 클라이언트에서 사용자가 클릭했던 매우 긴 안전 링크를 잘라서 로드하지 못한 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1559">Addressed an issue that caused very long safelinks that users clicked on in the Outlook Desktop client to fail to load due to truncation.</span></span>
+- <span data-ttu-id="1a0ed-1566">Outlook Desktop 클라이언트에서 사용자가 클릭했던 매우 긴 안전 링크를 잘라서 로드하지 못한 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1566">Addressed an issue that caused very long safelinks that users clicked on in the Outlook Desktop client to fail to load due to truncation.</span></span>
 
-- <span data-ttu-id="5080d-1560">서버와 동기화할 때 DBCS(더블 바이트 문자 집합) 문자를 포함하는 이름의 Outlook 폴더가 간헐적으로 사라지는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1560">Fixed an issue where Outlook folders with names containing DBCS (Double Byte Character Set) characters would intermittently disappear when synchronizing with the server.</span></span> <span data-ttu-id="5080d-1561">이 문제를 해결하기 위해서 Outlook을 IMAP 계정으로 구성하고 로캘이 일본어로 설정된 시스템에서 실행해야 했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1561">For this to happen, Outlook had to be configured with an IMAP account and running on a system with the locale set to Japanese.</span></span>
+- <span data-ttu-id="1a0ed-1567">서버와 동기화할 때 DBCS(더블 바이트 문자 집합) 문자를 포함하는 이름의 Outlook 폴더가 간헐적으로 사라지는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1567">Fixed an issue where Outlook folders with names containing DBCS (Double Byte Character Set) characters would intermittently disappear when synchronizing with the server.</span></span> <span data-ttu-id="1a0ed-1568">이 문제를 해결하기 위해서 Outlook을 IMAP 계정으로 구성하고 로캘이 일본어로 설정된 시스템에서 실행해야 했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1568">For this to happen, Outlook had to be configured with an IMAP account and running on a system with the locale set to Japanese.</span></span>
 
-- <span data-ttu-id="5080d-1562">사용자의 기본 편지함이 아닌 다른 편지함에 대해 만들어진 삭제 규칙이 유효하지 않은 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1562">Addressed an issue that caused delete rules created for mailboxes other than the user's primary mailbox to become invalid.</span></span>
+- <span data-ttu-id="1a0ed-1569">사용자의 기본 편지함이 아닌 다른 편지함에 대해 만들어진 삭제 규칙이 유효하지 않은 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1569">Addressed an issue that caused delete rules created for mailboxes other than the user's primary mailbox to become invalid.</span></span>
 
-- <span data-ttu-id="5080d-1563">암호화된 메시지를 전달할 때 첨부 파일이 삭제되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1563">Addressed an issue that caused attachments to get dropped when forwarding an encrypted message.</span></span>
+- <span data-ttu-id="1a0ed-1570">암호화된 메시지를 전달할 때 첨부 파일이 삭제되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1570">Addressed an issue that caused attachments to get dropped when forwarding an encrypted message.</span></span>
 
-- <span data-ttu-id="5080d-1564">2개월 넘게 참석하지 않은 모임의 제목이 일정 정리에 표시되지 않는 문제가 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1564">Addressed an issue that caused meetings that are more than 2 months away to fail to display a meeting subject in the Scheduling Assistant.</span></span>
+- <span data-ttu-id="1a0ed-1571">2개월 넘게 참석하지 않은 모임의 제목이 일정 정리에 표시되지 않는 문제가 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1571">Addressed an issue that caused meetings that are more than 2 months away to fail to display a meeting subject in the Scheduling Assistant.</span></span>
 
-- <span data-ttu-id="5080d-1565">대규모 HTML 메시지를 전달할 때 사용자에게 잘린 메시지 본문이 표시되던 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1565">Addressed an issue that caused users to see message body truncation when forwarding large HTML messages.</span></span>
+- <span data-ttu-id="1a0ed-1572">대규모 HTML 메시지를 전달할 때 사용자에게 잘린 메시지 본문이 표시되던 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1572">Addressed an issue that caused users to see message body truncation when forwarding large HTML messages.</span></span>
 
-- <span data-ttu-id="5080d-1566">그룹 정책을 통해 S/MIME 기본 서명 구성을 적용하는 기능이 추가되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1566">Added the ability to enforce S/MIME default signing configuration via group policy.</span></span>
+- <span data-ttu-id="1a0ed-1573">그룹 정책을 통해 S/MIME 기본 서명 구성을 적용하는 기능이 추가되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1573">Added the ability to enforce S/MIME default signing configuration via group policy.</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="5080d-1567">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="5080d-1567">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="1a0ed-1574">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1574">PowerPoint</span></span>
 
-- <span data-ttu-id="5080d-1568">사용자가 메모를 게시하지 않고 작성하고 메모 창을 닫은 다음, 새 창을 열어 여러 슬라이드를 탐색한 후 창을 닫고, 마지막으로 원본 프레젠테이션에서 메모 창을 다시 열 때 초안 메모를 사용할 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1568">Fixed an issue where if a user created a comment without posting it and closed the Comments pane, then opened a new window, navigated through multiple slides and, closed the window, and finally re-opened the Comments pane in the original presentation, the draft comments would not be available.</span></span>
+- <span data-ttu-id="1a0ed-1575">사용자가 메모를 게시하지 않고 작성하고 메모 창을 닫은 다음, 새 창을 열어 여러 슬라이드를 탐색한 후 창을 닫고, 마지막으로 원본 프레젠테이션에서 메모 창을 다시 열 때 초안 메모를 사용할 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1575">Fixed an issue where if a user created a comment without posting it and closed the Comments pane, then opened a new window, navigated through multiple slides and, closed the window, and finally re-opened the Comments pane in the original presentation, the draft comments would not be available.</span></span>
 
-- <span data-ttu-id="5080d-1569">별표(\*) 기호 위로 마우스를 가져가면 문서를 업데이트할 마지막 사람의 사용자 이름과 날짜가 표시되지 않는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1569">Fixed an issue where hovering over the asterisk (\*) symbol did not display the user name and date of the last person to update the document.</span></span>
+- <span data-ttu-id="1a0ed-1576">별표(\*) 기호 위로 마우스를 가져가면 문서를 업데이트할 마지막 사람의 사용자 이름과 날짜가 표시되지 않는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1576">Fixed an issue where hovering over the asterisk (\*) symbol did not display the user name and date of the last person to update the document.</span></span>
 
-### <a name="project"></a><span data-ttu-id="5080d-1570">Project</span><span class="sxs-lookup"><span data-stu-id="5080d-1570">Project</span></span>
+### <a name="project"></a><span data-ttu-id="1a0ed-1577">Project</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1577">Project</span></span>
 
-- <span data-ttu-id="5080d-1571">양식보기에서 선행 작업/후속자 데이터를 편집하면 추가 ProjectBeforeTaskChange 이벤트가 실행됩니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1571">When Predecessor/Successor data is edited within a Form view, an extra ProjectBeforeTaskChange event is fired.</span></span>
+- <span data-ttu-id="1a0ed-1578">양식보기에서 선행 작업/후속자 데이터를 편집하면 추가 ProjectBeforeTaskChange 이벤트가 실행됩니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1578">When Predecessor/Successor data is edited within a Form view, an extra ProjectBeforeTaskChange event is fired.</span></span>
 
-- <span data-ttu-id="5080d-1572">SharePoint 작업 목록에 연결된 프로젝트에서 보드 상태 필드를 변경하면 Project가 중단되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1572">Fixed an issue where Project may crash when changing the board status field on a project that is connected to a SharePoint task list.</span></span>
+- <span data-ttu-id="1a0ed-1579">SharePoint 작업 목록에 연결된 프로젝트에서 보드 상태 필드를 변경하면 Project가 중단되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1579">Fixed an issue where Project may crash when changing the board status field on a project that is connected to a SharePoint task list.</span></span>
 
-- <span data-ttu-id="5080d-1573">이전 버전의 Project에서 만든 프로젝트를 저장하면 Project가 충돌할 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1573">Fixed an issue where Project may crash when saving projects created with older versions of Project.</span></span>
+- <span data-ttu-id="1a0ed-1580">이전 버전의 Project에서 만든 프로젝트를 저장하면 Project가 충돌할 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1580">Fixed an issue where Project may crash when saving projects created with older versions of Project.</span></span>
 
-- <span data-ttu-id="5080d-1574">프로젝트가 프로젝트 웹 앱에 연결되어 있고 소수점 구분 기호가 쉼표인 경우 Lag를 추가할 때 TaskDependency Add 메서드가 실패하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1574">Fixed an issue where if Project is connected to Project Web App and the decimal separator is a comma, TaskDependencies Add method fails when Lag is added.</span></span>
+- <span data-ttu-id="1a0ed-1581">프로젝트가 프로젝트 웹 앱에 연결되어 있고 소수점 구분 기호가 쉼표인 경우 Lag를 추가할 때 TaskDependency Add 메서드가 실패하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1581">Fixed an issue where if Project is connected to Project Web App and the decimal separator is a comma, TaskDependencies Add method fails when Lag is added.</span></span>
 
 
-### <a name="word"></a><span data-ttu-id="5080d-1575">Word</span><span class="sxs-lookup"><span data-stu-id="5080d-1575">Word</span></span>
+### <a name="word"></a><span data-ttu-id="1a0ed-1582">Word</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1582">Word</span></span>
 
-- <span data-ttu-id="5080d-1576">공동 작업 모드에서 문서에 메모를 삽입할 때 항상 작동하지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1576">Fixed an issue where inserting comments on a document in collaboration mode would not always work.</span></span>
+- <span data-ttu-id="1a0ed-1583">공동 작업 모드에서 문서에 메모를 삽입할 때 항상 작동하지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1583">Fixed an issue where inserting comments on a document in collaboration mode would not always work.</span></span>
 
-- <span data-ttu-id="5080d-1577">이 변경 내용으로 @멘션을 클릭하면 사용자 카드가 깜빡이는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1577">This change fixes an issue where the People card would flash if the @ mention was clicked.</span></span>
+- <span data-ttu-id="1a0ed-1584">이 변경 내용으로 @멘션을 클릭하면 사용자 카드가 깜빡이는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1584">This change fixes an issue where the People card would flash if the @ mention was clicked.</span></span>
 
-- <span data-ttu-id="5080d-1578">"책갈피 표시" 옵션을 사용하도록 설정하면 책갈피가 표시되지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1578">Enabling the option "Show bookmarks" would not display bookmarks.</span></span> <span data-ttu-id="5080d-1579">이 문제는 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1579">This has been fixed.</span></span>
+- <span data-ttu-id="1a0ed-1585">"책갈피 표시" 옵션을 사용하도록 설정하면 책갈피가 표시되지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1585">Enabling the option "Show bookmarks" would not display bookmarks.</span></span> <span data-ttu-id="1a0ed-1586">이 문제는 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1586">This has been fixed.</span></span>
 
-- <span data-ttu-id="5080d-1580">초안 메모가 포함된 문서를 닫을 때 초안 메모를 저장하지 않고 문서를 닫을지 묻는 메시지가 표시되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1580">Fixed the issue where closing a document with draft comments would prompt the user if they wanted to close the document without saving the draft comments.</span></span> <span data-ttu-id="5080d-1581">이 메시지를 취소하면 문서를 열어두지 않고 닫습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1581">Cancelling the prompt would close the document rather than leaving it open.</span></span>
+- <span data-ttu-id="1a0ed-1587">초안 메모가 포함된 문서를 닫을 때 초안 메모를 저장하지 않고 문서를 닫을지 묻는 메시지가 표시되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1587">Fixed the issue where closing a document with draft comments would prompt the user if they wanted to close the document without saving the draft comments.</span></span> <span data-ttu-id="1a0ed-1588">이 메시지를 취소하면 문서를 열어두지 않고 닫습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1588">Cancelling the prompt would close the document rather than leaving it open.</span></span>
 
-- <span data-ttu-id="5080d-1582">머리글을 복사하여 붙여넣는 것과 관련된 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1582">We fixed an issue in copying and pasting headings.</span></span>
+- <span data-ttu-id="1a0ed-1589">머리글을 복사하여 붙여넣는 것과 관련된 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1589">We fixed an issue in copying and pasting headings.</span></span>
 
-- <span data-ttu-id="5080d-1583">게시된 메모를 번역하면 '번역된 텍스트를 삽입하지 못했습니다'라는 오류가 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1583">Fixed an issue where translating a posted comment would result in the error 'Inserting translated text failed'.</span></span>
+- <span data-ttu-id="1a0ed-1590">게시된 메모를 번역하면 '번역된 텍스트를 삽입하지 못했습니다'라는 오류가 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1590">Fixed an issue where translating a posted comment would result in the error 'Inserting translated text failed'.</span></span>
 
-- <span data-ttu-id="5080d-1584">이렇게 변경하면 "값 대신 필드 코드 표시" 옵션이 활성화된 경우 하이퍼링크가 있는 텍스트가 표시되지 않을 수 있는 문제가 해결됩니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1584">This change fixes an issue where text with hyperlinks may not display if the option: "Show field codes instead of their values" was enabled.</span></span>
+- <span data-ttu-id="1a0ed-1591">이렇게 변경하면 "값 대신 필드 코드 표시" 옵션이 활성화된 경우 하이퍼링크가 있는 텍스트가 표시되지 않을 수 있는 문제가 해결됩니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1591">This change fixes an issue where text with hyperlinks may not display if the option: "Show field codes instead of their values" was enabled.</span></span>
 
-- <span data-ttu-id="5080d-1585">웹 보기/몰입형 리더에서 힌트를 클릭하면 이미 보기에 있더라도 맨 위로 스크롤됩니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1585">In Web View/Immersive reader, clicking on a hint would scroll to the top even though it was already in view.</span></span> <span data-ttu-id="5080d-1586">이 문제는 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1586">This has been fixed.</span></span>
+- <span data-ttu-id="1a0ed-1592">웹 보기/몰입형 리더에서 힌트를 클릭하면 이미 보기에 있더라도 맨 위로 스크롤됩니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1592">In Web View/Immersive reader, clicking on a hint would scroll to the top even though it was already in view.</span></span> <span data-ttu-id="1a0ed-1593">이 문제는 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1593">This has been fixed.</span></span>
 
-- <span data-ttu-id="5080d-1587">매크로가 포함된 파일을 새 이름으로 저장하려고 하면 사용자가 입력한 내용에 상관없이 파일이 .docx 확장명과 파일 이름 WRO0004.docx로 저장되어 문서를 사용할 수 없게 만드는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1587">We fixed an issue that, when attempting to save a file containing a macro under a new name, would cause it to be saved with .docx extension and the filename WRO0004.docx, regardless of what the user entered, rendering the document unusable.</span></span>
+- <span data-ttu-id="1a0ed-1594">매크로가 포함된 파일을 새 이름으로 저장하려고 하면 사용자가 입력한 내용에 상관없이 파일이 .docx 확장명과 파일 이름 WRO0004.docx로 저장되어 문서를 사용할 수 없게 만드는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1594">We fixed an issue that, when attempting to save a file containing a macro under a new name, would cause it to be saved with .docx extension and the filename WRO0004.docx, regardless of what the user entered, rendering the document unusable.</span></span>
 
-### <a name="office-suite"></a><span data-ttu-id="5080d-1588">Office 제품군</span><span class="sxs-lookup"><span data-stu-id="5080d-1588">Office Suite</span></span>
+### <a name="office-suite"></a><span data-ttu-id="1a0ed-1595">Office 제품군</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1595">Office Suite</span></span>
 
-- <span data-ttu-id="5080d-1589">사용자에게 Teams 전용으로 이동하는 정책이 지정되어도 Skype for Business Outlook 추가 기능을 사용하여 모임을 예약할 수 있었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1589">When a user is given a policy that moves them to Teams Only, they were still able to use the Skype for Business Outlook add-in to schedule meetings.</span></span>  <span data-ttu-id="5080d-1590">이 업데이트 후, 클라이언트가 사용자가 Teams 전용임을 나타내는 정책을 읽고 모임 참가 전용 모드로 들어간 후에는 더 이상 Skype for Business 모임을 예약할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1590">After this update, you will no longer be able to schedule Skype for Business meetings after the client reads the policy indicating the user is Teams Only, and enters meeting join only mode.</span></span>  <span data-ttu-id="5080d-1591">또한 Skype for Business Outlook 추가 기능은 Skype for Business 클라이언트가 미팅 참가 모드인 경우 시작하는 동안 자체적으로 활성화되지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1591">Additionally the Skype for Business Outlook Add-in will not activate itself while starting up if it sees the Skype for Business client is in meeting join only mode.</span></span>
+- <span data-ttu-id="1a0ed-1596">사용자에게 Teams 전용으로 이동하는 정책이 지정되어도 Skype for Business Outlook 추가 기능을 사용하여 모임을 예약할 수 있었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1596">When a user is given a policy that moves them to Teams Only, they were still able to use the Skype for Business Outlook add-in to schedule meetings.</span></span>  <span data-ttu-id="1a0ed-1597">이 업데이트 후, 클라이언트가 사용자가 Teams 전용임을 나타내는 정책을 읽고 모임 참가 전용 모드로 들어간 후에는 더 이상 Skype for Business 모임을 예약할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1597">After this update, you will no longer be able to schedule Skype for Business meetings after the client reads the policy indicating the user is Teams Only, and enters meeting join only mode.</span></span>  <span data-ttu-id="1a0ed-1598">또한 Skype for Business Outlook 추가 기능은 Skype for Business 클라이언트가 미팅 참가 모드인 경우 시작하는 동안 자체적으로 활성화되지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1598">Additionally the Skype for Business Outlook Add-in will not activate itself while starting up if it sees the Skype for Business client is in meeting join only mode.</span></span>
 
-- <span data-ttu-id="5080d-1592">이 업데이트는 PATH 환경 변수에서 지정된 위치를 검색하여 찾을 수 있는 사항을 참고로 하는 Visual Basic for Applications 프로젝트가 런타임에 제대로 발견되지 않아 VBA 런타임 오류로 이어질 수 있는 Microsoft Office에서의 문제를 해결합니다. </span><span class="sxs-lookup"><span data-stu-id="5080d-1592">This update fixes an issue in Microsoft Office where Visual Basic for Applications projects with references that are expected to be found by searching locations specified in the PATH environment variable may not be found properly at runtime, leading to VBA runtime errors.</span></span>
+- <span data-ttu-id="1a0ed-1599">이 업데이트는 PATH 환경 변수에서 지정된 위치를 검색하여 찾을 수 있는 사항을 참고로 하는 Visual Basic for Applications 프로젝트가 런타임에 제대로 발견되지 않아 VBA 런타임 오류로 이어질 수 있는 Microsoft Office에서의 문제를 해결합니다. </span><span class="sxs-lookup"><span data-stu-id="1a0ed-1599">This update fixes an issue in Microsoft Office where Visual Basic for Applications projects with references that are expected to be found by searching locations specified in the PATH environment variable may not be found properly at runtime, leading to VBA runtime errors.</span></span>
 
-- <span data-ttu-id="5080d-1593">이 업데이트는 라이브러리 이름 또는 라이브러리 경로에 DBCS 문자가 있는 코드 라이브러리에 대한 참조를 포함하는 특정 VBA 프로젝트를 로드할 때 Office 응용 프로그램에서 손상된 것으로 보이는 Microsoft Office의 VBA(Visual Basic for Applications) 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1593">This update fixes an issue in Visual Basic for Applications in Microsoft Office where certain VBA projects that contain references to code libraries with DBCS characters in the library name or library path would be viewed by the Office application as corrupt on load.</span></span>
+- <span data-ttu-id="1a0ed-1600">이 업데이트는 라이브러리 이름 또는 라이브러리 경로에 DBCS 문자가 있는 코드 라이브러리에 대한 참조를 포함하는 특정 VBA 프로젝트를 로드할 때 Office 응용 프로그램에서 손상된 것으로 보이는 Microsoft Office의 VBA(Visual Basic for Applications) 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1600">This update fixes an issue in Visual Basic for Applications in Microsoft Office where certain VBA projects that contain references to code libraries with DBCS characters in the library name or library path would be viewed by the Office application as corrupt on load.</span></span>
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
-## <a name="version-2004-may-11"></a><span data-ttu-id="5080d-1595">버전 2004: 5월 11일</span><span class="sxs-lookup"><span data-stu-id="5080d-1595">Version 2004: May 11</span></span>
-<span data-ttu-id="5080d-1596">*버전 2004(빌드 12730.20270)*</span><span class="sxs-lookup"><span data-stu-id="5080d-1596">*Version 2004 (Build 12730.20270)*</span></span>
+## <a name="version-2004-may-11"></a><span data-ttu-id="1a0ed-1602">버전 2004: 5월 11일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1602">Version 2004: May 11</span></span>
+<span data-ttu-id="1a0ed-1603">*버전 2004(빌드 12730.20270)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1603">*Version 2004 (Build 12730.20270)*</span></span>
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="feature-updates"></a><span data-ttu-id="5080d-1598">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="5080d-1598">Feature updates</span></span>
-### <a name="excel"></a><span data-ttu-id="5080d-1599">Excel</span><span class="sxs-lookup"><span data-stu-id="5080d-1599">Excel</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="1a0ed-1605">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1605">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="1a0ed-1606">Excel</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1606">Excel</span></span>
 
-- <span data-ttu-id="5080d-1600">**대화에서 애니메이션 GIF 사용:** 애니메이션 GIF가 이제 Office 편집기에서 지원됩니다. 이제 문서가 더욱 돋보입니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1600">**Tell your stories with animated GIFs:** Animated GIFs are now supported in the Office editor - your documents just got snazzier.</span></span>
+- <span data-ttu-id="1a0ed-1607">**대화에서 애니메이션 GIF 사용:** 애니메이션 GIF가 이제 Office 편집기에서 지원됩니다. 이제 문서가 더욱 돋보입니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1607">**Tell your stories with animated GIFs:** Animated GIFs are now supported in the Office editor - your documents just got snazzier.</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="5080d-1601">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-1601">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-1608">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1608">Outlook</span></span>
 
-- <span data-ttu-id="5080d-1602">**전자 메일의 개선된 링크:** 파일에 대한 링크를 포함할 때 파일 이름이 URL로 바뀝니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1602">**Improved links in email:** When you include a link to a file, the file name replaces the URL.</span></span> <span data-ttu-id="5080d-1603">모든 받는 사람이 액세스 권한을 갖도록 권한을 변경할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1603">You can change permissions so all recipients have access.</span></span> [<span data-ttu-id="5080d-1604">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="5080d-1604">Learn more</span></span>](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)<br /><span data-ttu-id="5080d-1605">[블로그 게시물](https://blog-insider.office.com/2020/04/20/automatically-shorten-links-onedrive-sharepoint/)에서 세부 정보 보기</span><span class="sxs-lookup"><span data-stu-id="5080d-1605">See details in [blog post](https://blog-insider.office.com/2020/04/20/automatically-shorten-links-onedrive-sharepoint/)</span></span>
+- <span data-ttu-id="1a0ed-1609">**전자 메일의 개선된 링크:** 파일에 대한 링크를 포함할 때 파일 이름이 URL로 바뀝니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1609">**Improved links in email:** When you include a link to a file, the file name replaces the URL.</span></span> <span data-ttu-id="1a0ed-1610">모든 받는 사람이 액세스 권한을 갖도록 권한을 변경할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1610">You can change permissions so all recipients have access.</span></span> [<span data-ttu-id="1a0ed-1611">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1611">Learn more</span></span>](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)<br /><span data-ttu-id="1a0ed-1612">[블로그 게시물](https://blog-insider.office.com/2020/04/20/automatically-shorten-links-onedrive-sharepoint/)에서 세부 정보 보기</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1612">See details in [blog post](https://blog-insider.office.com/2020/04/20/automatically-shorten-links-onedrive-sharepoint/)</span></span>
 
-- <span data-ttu-id="5080d-1606">**대화에서 애니메이션 GIF 사용:** 애니메이션 GIF가 이제 Office 편집기에서 지원됩니다. 이제 문서가 더욱 돋보입니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1606">**Tell your stories with animated GIFs:** Animated GIFs are now supported in the Office editor - your documents just got snazzier.</span></span>
+- <span data-ttu-id="1a0ed-1613">**대화에서 애니메이션 GIF 사용:** 애니메이션 GIF가 이제 Office 편집기에서 지원됩니다. 이제 문서가 더욱 돋보입니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1613">**Tell your stories with animated GIFs:** Animated GIFs are now supported in the Office editor - your documents just got snazzier.</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="5080d-1607">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="5080d-1607">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="1a0ed-1614">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1614">PowerPoint</span></span>
 
-- <span data-ttu-id="5080d-1608">**대화에서 애니메이션 GIF 사용:** 애니메이션 GIF가 이제 Office 편집기에서 지원됩니다. 이제 문서가 더욱 돋보입니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1608">**Tell your stories with animated GIFs:** Animated GIFs are now supported in the Office editor - your documents just got snazzier.</span></span>  [<span data-ttu-id="5080d-1609">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="5080d-1609">Learn more</span></span>](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
+- <span data-ttu-id="1a0ed-1615">**대화에서 애니메이션 GIF 사용:** 애니메이션 GIF가 이제 Office 편집기에서 지원됩니다. 이제 문서가 더욱 돋보입니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1615">**Tell your stories with animated GIFs:** Animated GIFs are now supported in the Office editor - your documents just got snazzier.</span></span>  [<span data-ttu-id="1a0ed-1616">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1616">Learn more</span></span>](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
 
-### <a name="word"></a><span data-ttu-id="5080d-1610">Word</span><span class="sxs-lookup"><span data-stu-id="5080d-1610">Word</span></span>
+### <a name="word"></a><span data-ttu-id="1a0ed-1617">Word</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1617">Word</span></span>
 
-- <span data-ttu-id="5080d-1611">**대화에서 애니메이션 GIF 사용:** 애니메이션 GIF가 이제 Office 편집기에서 지원됩니다. 이제 문서가 더욱 돋보입니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1611">**Tell your stories with animated GIFs:** Animated GIFs are now supported in the Office editor - your documents just got snazzier.</span></span>
+- <span data-ttu-id="1a0ed-1618">**대화에서 애니메이션 GIF 사용:** 애니메이션 GIF가 이제 Office 편집기에서 지원됩니다. 이제 문서가 더욱 돋보입니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1618">**Tell your stories with animated GIFs:** Animated GIFs are now supported in the Office editor - your documents just got snazzier.</span></span>
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -3143,26 +3153,26 @@ ms.locfileid: "51749066"
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-1614">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-1614">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="5080d-1615">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-1615">Outlook</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-1621">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1621">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-1622">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1622">Outlook</span></span>
 
-- <span data-ttu-id="5080d-1616">토스트 알림을 표시할 때 충돌이 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1616">Addressed an issue that caused users to experience a crash when displaying toast notifications.</span></span>
+- <span data-ttu-id="1a0ed-1623">토스트 알림을 표시할 때 충돌이 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1623">Addressed an issue that caused users to experience a crash when displaying toast notifications.</span></span>
 
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
-## <a name="version-2004-may-04"></a><span data-ttu-id="5080d-1618">버전 2004: 5월 4일</span><span class="sxs-lookup"><span data-stu-id="5080d-1618">Version 2004: May 04</span></span>
-<span data-ttu-id="5080d-1619">*버전 2004(빌드 12730.20250)*</span><span class="sxs-lookup"><span data-stu-id="5080d-1619">*Version 2004 (Build 12730.20250)*</span></span>
+## <a name="version-2004-may-04"></a><span data-ttu-id="1a0ed-1625">버전 2004: 5월 4일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1625">Version 2004: May 04</span></span>
+<span data-ttu-id="1a0ed-1626">*버전 2004(빌드 12730.20250)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1626">*Version 2004 (Build 12730.20250)*</span></span>
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="feature-updates"></a><span data-ttu-id="5080d-1621">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="5080d-1621">Feature updates</span></span>
-### <a name="outlook"></a><span data-ttu-id="5080d-1622">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-1622">Outlook</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="1a0ed-1628">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1628">Feature updates</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-1629">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1629">Outlook</span></span>
 
-- <span data-ttu-id="5080d-1623">**즉시 더 나은 결과 얻기:** 이전보다 더 스마트하고, 빠르고, 안정적이 되도록 검색 환경을 업데이트했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1623">**Better results—in a jiffy:** We've updated the Search experience to make it smarter, faster, and more reliable than ever.</span></span> [<span data-ttu-id="5080d-1624">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="5080d-1624">Learn more</span></span>](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
+- <span data-ttu-id="1a0ed-1630">**즉시 더 나은 결과 얻기:** 이전보다 더 스마트하고, 빠르고, 안정적이 되도록 검색 환경을 업데이트했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1630">**Better results—in a jiffy:** We've updated the Search experience to make it smarter, faster, and more reliable than ever.</span></span> [<span data-ttu-id="1a0ed-1631">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1631">Learn more</span></span>](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
 
-- <span data-ttu-id="5080d-1625">**IT 관리자에 대한 인시던트 알림:** Microsoft 365 테넌트 전역 관리자 및 Office 앱 관리자는 Windows용 Outlook의 새로운 오른쪽 패널 알림을 통해 사용자에게 영향을 주는 Outlook 및 O365 Exchange 인시던트에 대한 알림을 받습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1625">**Incident Notification for IT Admins:** Microsoft 365 tenant global administrators and Office Apps Administrators will be notified about Outlook and O365 Exchange incidents affecting their users with a new right-side panel notification in Outlook for Windows.</span></span> [<span data-ttu-id="5080d-1626">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="5080d-1626">Learn more</span></span>](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
+- <span data-ttu-id="1a0ed-1632">**IT 관리자에 대한 인시던트 알림:** Microsoft 365 테넌트 전역 관리자 및 Office 앱 관리자는 Windows용 Outlook의 새로운 오른쪽 패널 알림을 통해 사용자에게 영향을 주는 Outlook 및 O365 Exchange 인시던트에 대한 알림을 받습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1632">**Incident Notification for IT Admins:** Microsoft 365 tenant global administrators and Office Apps Administrators will be notified about Outlook and O365 Exchange incidents affecting their users with a new right-side panel notification in Outlook for Windows.</span></span> [<span data-ttu-id="1a0ed-1633">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1633">Learn more</span></span>](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -3171,24 +3181,24 @@ ms.locfileid: "51749066"
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-1629">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-1629">Resolved issues</span></span>
-### <a name="office-suite"></a><span data-ttu-id="5080d-1630">Office 제품군</span><span class="sxs-lookup"><span data-stu-id="5080d-1630">Office Suite</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-1636">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1636">Resolved issues</span></span>
+### <a name="office-suite"></a><span data-ttu-id="1a0ed-1637">Office 제품군</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1637">Office Suite</span></span>
 
-- <span data-ttu-id="5080d-1631">이 업데이트는 라이브러리 이름 또는 라이브러리 경로에 DBCS 문자가 있는 코드 라이브러리에 대한 참조를 포함하는 특정 VBA 프로젝트를 로드할 때 Office 응용 프로그램에서 손상된 것으로 보이는 Microsoft Office의 VBA(Visual Basic for Applications) 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1631">This update fixes an issue in Visual Basic for Applications in Microsoft Office where certain VBA projects that contain references to code libraries with DBCS characters in the library name or library path would be viewed by the Office application as corrupt on load.</span></span>
+- <span data-ttu-id="1a0ed-1638">이 업데이트는 라이브러리 이름 또는 라이브러리 경로에 DBCS 문자가 있는 코드 라이브러리에 대한 참조를 포함하는 특정 VBA 프로젝트를 로드할 때 Office 응용 프로그램에서 손상된 것으로 보이는 Microsoft Office의 VBA(Visual Basic for Applications) 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1638">This update fixes an issue in Visual Basic for Applications in Microsoft Office where certain VBA projects that contain references to code libraries with DBCS characters in the library name or library path would be viewed by the Office application as corrupt on load.</span></span>
 
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
-## <a name="version-2004-april-29"></a><span data-ttu-id="5080d-1633">버전 2004: 4월 29일</span><span class="sxs-lookup"><span data-stu-id="5080d-1633">Version 2004: April 29</span></span>
-<span data-ttu-id="5080d-1634">*버전 2004 (빌드 12730.20236)*</span><span class="sxs-lookup"><span data-stu-id="5080d-1634">*Version 2004 (Build 12730.20236)*</span></span>
+## <a name="version-2004-april-29"></a><span data-ttu-id="1a0ed-1640">버전 2004: 4월 29일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1640">Version 2004: April 29</span></span>
+<span data-ttu-id="1a0ed-1641">*버전 2004 (빌드 12730.20236)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1641">*Version 2004 (Build 12730.20236)*</span></span>
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="feature-updates"></a><span data-ttu-id="5080d-1636">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="5080d-1636">Feature updates</span></span>
-### <a name="outlook"></a><span data-ttu-id="5080d-1637">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-1637">Outlook</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="1a0ed-1643">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1643">Feature updates</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-1644">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1644">Outlook</span></span>
 
-- <span data-ttu-id="5080d-1638">**그룹의 데이터 보호 지원:** 그룹을 만들 때 선택한 민감도 레이블이 그룹 전자 메일, 문서, 팀 사이트에 적용됩니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1638">**Help protect data in your group:** The Sensitivity label you choose when creating a group is applied to group email, documents, and team sites.</span></span>
+- <span data-ttu-id="1a0ed-1645">**그룹의 데이터 보호 지원:** 그룹을 만들 때 선택한 민감도 레이블이 그룹 전자 메일, 문서, 팀 사이트에 적용됩니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1645">**Help protect data in your group:** The Sensitivity label you choose when creating a group is applied to group email, documents, and team sites.</span></span>
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -3197,74 +3207,74 @@ ms.locfileid: "51749066"
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-1641">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-1641">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="5080d-1642">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-1642">Outlook</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-1648">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1648">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-1649">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1649">Outlook</span></span>
 
-- <span data-ttu-id="5080d-1643">일부 Windows 빌드에서 Outlook이 중단되었던 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1643">Addresses an issue that caused Outlook to crash on some builds of Windows.</span></span>
+- <span data-ttu-id="1a0ed-1650">일부 Windows 빌드에서 Outlook이 중단되었던 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1650">Addresses an issue that caused Outlook to crash on some builds of Windows.</span></span>
 
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
-## <a name="version-2004-april-25"></a><span data-ttu-id="5080d-1645">버전 2004: 4월 25일</span><span class="sxs-lookup"><span data-stu-id="5080d-1645">Version 2004: April 25</span></span>
-<span data-ttu-id="5080d-1646">*버전 2004(빌드 12730.20206)* </span><span class="sxs-lookup"><span data-stu-id="5080d-1646">*Version 2004 (Build 12730.20206)*</span></span>
+## <a name="version-2004-april-25"></a><span data-ttu-id="1a0ed-1652">버전 2004: 4월 25일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1652">Version 2004: April 25</span></span>
+<span data-ttu-id="1a0ed-1653">*버전 2004(빌드 12730.20206)* </span><span class="sxs-lookup"><span data-stu-id="1a0ed-1653">*Version 2004 (Build 12730.20206)*</span></span>
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-1648">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-1648">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="5080d-1649">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-1649">Outlook</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-1655">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1655">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-1656">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1656">Outlook</span></span>
 
-- <span data-ttu-id="5080d-1650">Windows 업데이트 후 로컬로 저장된 .msg 혹은 .oft 파일을 열 때 Outlook의 작동이 중단되었던 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1650">Addressed an issue that caused Outlook to crash when opening .msg or .oft files that were saved locally after a Windows update.</span></span>
+- <span data-ttu-id="1a0ed-1657">Windows 업데이트 후 로컬로 저장된 .msg 혹은 .oft 파일을 열 때 Outlook의 작동이 중단되었던 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1657">Addressed an issue that caused Outlook to crash when opening .msg or .oft files that were saved locally after a Windows update.</span></span>
 
-### <a name="project"></a><span data-ttu-id="5080d-1651">Project</span><span class="sxs-lookup"><span data-stu-id="5080d-1651">Project</span></span>
+### <a name="project"></a><span data-ttu-id="1a0ed-1658">Project</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1658">Project</span></span>
 
-- <span data-ttu-id="5080d-1652">Project Web App에 연결된 Project를 사용하는 경우 소수 구분 기호가 쉼표이면 TaskDependencies Add 메서드가 종속성에 지연 시간을 추가하려할 때 실패하는 문제를 수정습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1652">Fixed an issue where if you are using Project connected to Project Web App and the decimal separator is a comma, the TaskDependencies Add method fails when you try to add lag to a dependency.</span></span>
+- <span data-ttu-id="1a0ed-1659">Project Web App에 연결된 Project를 사용하는 경우 소수 구분 기호가 쉼표이면 TaskDependencies Add 메서드가 종속성에 지연 시간을 추가하려할 때 실패하는 문제를 수정습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1659">Fixed an issue where if you are using Project connected to Project Web App and the decimal separator is a comma, the TaskDependencies Add method fails when you try to add lag to a dependency.</span></span>
 
 
-### <a name="office-suite"></a><span data-ttu-id="5080d-1653">Office 제품군</span><span class="sxs-lookup"><span data-stu-id="5080d-1653">Office Suite</span></span>
+### <a name="office-suite"></a><span data-ttu-id="1a0ed-1660">Office 제품군</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1660">Office Suite</span></span>
 
-- <span data-ttu-id="5080d-1654">이 수정은 액세스의 제한과 동시에 파일을 암호로 보호하는 작업을 할 수 없게 하는 오류를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1654">This fix resolves an error which occurs preventing both restricting access and protecting files with a password simultaneously.</span></span>
+- <span data-ttu-id="1a0ed-1661">이 수정은 액세스의 제한과 동시에 파일을 암호로 보호하는 작업을 할 수 없게 하는 오류를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1661">This fix resolves an error which occurs preventing both restricting access and protecting files with a password simultaneously.</span></span>
 
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
-## <a name="version-2004-april-21"></a><span data-ttu-id="5080d-1656">버전 2004: 4월 21일</span><span class="sxs-lookup"><span data-stu-id="5080d-1656">Version 2004: April 21</span></span>
-<span data-ttu-id="5080d-1657">*버전 2004(빌드 12730.20182)*</span><span class="sxs-lookup"><span data-stu-id="5080d-1657">*Version 2004 (Build 12730.20182)*</span></span>
+## <a name="version-2004-april-21"></a><span data-ttu-id="1a0ed-1663">버전 2004: 4월 21일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1663">Version 2004: April 21</span></span>
+<span data-ttu-id="1a0ed-1664">*버전 2004(빌드 12730.20182)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1664">*Version 2004 (Build 12730.20182)*</span></span>
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-1659">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-1659">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="5080d-1660">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-1660">Outlook</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-1666">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1666">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-1667">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1667">Outlook</span></span>
 
-- <span data-ttu-id="5080d-1661">폴더 창의 너비가 예기치 않게 변경되는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1661">Addresses an issue that caused the width of the folder pane to change unexpectedly.</span></span>
+- <span data-ttu-id="1a0ed-1668">폴더 창의 너비가 예기치 않게 변경되는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1668">Addresses an issue that caused the width of the folder pane to change unexpectedly.</span></span>
 
-- <span data-ttu-id="5080d-1662">Outlook을 종료하는 동안 사용자 작업이 중지되는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1662">Addresses an issue that caused users to experience a hang while exiting Outlook.</span></span>
+- <span data-ttu-id="1a0ed-1669">Outlook을 종료하는 동안 사용자 작업이 중지되는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1669">Addresses an issue that caused users to experience a hang while exiting Outlook.</span></span>
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
-## <a name="version-2004-april-15"></a><span data-ttu-id="5080d-1664">버전 2004: 4월 15일</span><span class="sxs-lookup"><span data-stu-id="5080d-1664">Version 2004: April 15</span></span>
-<span data-ttu-id="5080d-1665">*버전 2004(빌드 12730.20150)*</span><span class="sxs-lookup"><span data-stu-id="5080d-1665">*Version 2004 (Build 12730.20150)*</span></span>
+## <a name="version-2004-april-15"></a><span data-ttu-id="1a0ed-1671">버전 2004: 4월 15일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1671">Version 2004: April 15</span></span>
+<span data-ttu-id="1a0ed-1672">*버전 2004(빌드 12730.20150)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1672">*Version 2004 (Build 12730.20150)*</span></span>
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="feature-updates"></a><span data-ttu-id="5080d-1667">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="5080d-1667">Feature updates</span></span>
-### <a name="excel"></a><span data-ttu-id="5080d-1668">Excel</span><span class="sxs-lookup"><span data-stu-id="5080d-1668">Excel</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="1a0ed-1674">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1674">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="1a0ed-1675">Excel</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1675">Excel</span></span>
 
-- <span data-ttu-id="5080d-1669">**Facebook 커넥터 지원 종료:** 2020년 4월부터는 Excel에서 Facebook 커넥터를 사용하는 외부 데이터 연결을 더 이상 지원하지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1669">**Facebook connector support is ending:** Starting in April 2020, Excel will no longer support external data connections that use the Facebook connector.</span></span>
+- <span data-ttu-id="1a0ed-1676">**Facebook 커넥터 지원 종료:** 2020년 4월부터는 Excel에서 Facebook 커넥터를 사용하는 외부 데이터 연결을 더 이상 지원하지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1676">**Facebook connector support is ending:** Starting in April 2020, Excel will no longer support external data connections that use the Facebook connector.</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="5080d-1670">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-1670">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-1677">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1677">Outlook</span></span>
 
-- <span data-ttu-id="5080d-1671">**Outlook에서 메일 작성 시 @멘션 제안을 사용하지 않는 새 옵션:** @멘션 선택기가 유용하기보다는 불편하게 느껴지나요?</span><span class="sxs-lookup"><span data-stu-id="5080d-1671">**New option to disable @ mention suggestions when composing mail in Outlook:** Do you find the @ mention picker more annoying than useful?</span></span> <span data-ttu-id="5080d-1672">원하는 경우 바로 지금 비활성화할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1672">Now you can turn it off if you prefer.</span></span>
+- <span data-ttu-id="1a0ed-1678">**Outlook에서 메일 작성 시 @멘션 제안을 사용하지 않는 새 옵션:** @멘션 선택기가 유용하기보다는 불편하게 느껴지나요?</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1678">**New option to disable @ mention suggestions when composing mail in Outlook:** Do you find the @ mention picker more annoying than useful?</span></span> <span data-ttu-id="1a0ed-1679">원하는 경우 바로 지금 비활성화할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1679">Now you can turn it off if you prefer.</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="5080d-1673">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="5080d-1673">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="1a0ed-1680">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1680">PowerPoint</span></span>
 
-- <span data-ttu-id="5080d-1674">**발표하는 동안 변경 내용 동기화:** 프레젠테이션이 슬라이드 쇼 모드에 있더라도 내용이 변경될 때마다 동기화됩니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1674">**Synchronize changes while you are presenting:** Synchronize changes whenever they are made even when the presentation is in slide show mode.</span></span>
+- <span data-ttu-id="1a0ed-1681">**발표하는 동안 변경 내용 동기화:** 프레젠테이션이 슬라이드 쇼 모드에 있더라도 내용이 변경될 때마다 동기화됩니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1681">**Synchronize changes while you are presenting:** Synchronize changes whenever they are made even when the presentation is in slide show mode.</span></span>
 
-### <a name="word"></a><span data-ttu-id="5080d-1675">Word</span><span class="sxs-lookup"><span data-stu-id="5080d-1675">Word</span></span>
+### <a name="word"></a><span data-ttu-id="1a0ed-1682">Word</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1682">Word</span></span>
 
-- <span data-ttu-id="5080d-1676">**비공개 복사본에 주석 달기:** 공유 문서의 비공개 복사본을 만들어 나만 볼 수 있는 필기 메모를 작성합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1676">**Annotate your private copy:** Create hand written notes for your eyes by making a private copy of a shared document.</span></span> <span data-ttu-id="5080d-1677">시작하려면 보기 > 비공개 복사본 만들기로 이동합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1677">Go to View > Create a Private Copy to get started.</span></span>
+- <span data-ttu-id="1a0ed-1683">**비공개 복사본에 주석 달기:** 공유 문서의 비공개 복사본을 만들어 나만 볼 수 있는 필기 메모를 작성합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1683">**Annotate your private copy:** Create hand written notes for your eyes by making a private copy of a shared document.</span></span> <span data-ttu-id="1a0ed-1684">시작하려면 보기 > 비공개 복사본 만들기로 이동합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1684">Go to View > Create a Private Copy to get started.</span></span>
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -3273,223 +3283,175 @@ ms.locfileid: "51749066"
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-1680">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-1680">Resolved issues</span></span>
-### <a name="access"></a><span data-ttu-id="5080d-1681">Access</span><span class="sxs-lookup"><span data-stu-id="5080d-1681">Access</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-1687">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1687">Resolved issues</span></span>
+### <a name="access"></a><span data-ttu-id="1a0ed-1688">Access</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1688">Access</span></span>
 
-- <span data-ttu-id="5080d-1682">작업창에서 표 크기 조정 및 새로 고침과 관련된 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1682">Fixed issues with resizing and refreshing tables in the task pane.</span></span>
+- <span data-ttu-id="1a0ed-1689">작업창에서 표 크기 조정 및 새로 고침과 관련된 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1689">Fixed issues with resizing and refreshing tables in the task pane.</span></span>
 
-- <span data-ttu-id="5080d-1683">Access의 다른 나라 버전이 사용자 인터페이스에서 영어 문자열을 표시하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1683">Fixed an issue where international versions of Access were displaying English strings in the user interface.</span></span>
+- <span data-ttu-id="1a0ed-1690">Access의 다른 나라 버전이 사용자 인터페이스에서 영어 문자열을 표시하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1690">Fixed an issue where international versions of Access were displaying English strings in the user interface.</span></span>
 
-### <a name="excel"></a><span data-ttu-id="5080d-1684">Excel</span><span class="sxs-lookup"><span data-stu-id="5080d-1684">Excel</span></span>
+### <a name="excel"></a><span data-ttu-id="1a0ed-1691">Excel</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1691">Excel</span></span>
 
-- <span data-ttu-id="5080d-1685">시트의 셀 범위를 선택하면 하나의 셀이 선택되는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1685">Fixed an issue where selecting a range of cells on a sheet would result in the selection of a single cell.</span></span>
+- <span data-ttu-id="1a0ed-1692">시트의 셀 범위를 선택하면 하나의 셀이 선택되는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1692">Fixed an issue where selecting a range of cells on a sheet would result in the selection of a single cell.</span></span>
 
-- <span data-ttu-id="5080d-1686">Excel 2016에서 디지털 서명을 사용하여 저장한 통합 문서를 최신 버전의 Excel에서 열면 서명이 무효로 될 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1686">Workbooks saved with a digital signature in Excel 2016 could have the signature invalidated upon opening in the current version of Excel.</span></span>
+- <span data-ttu-id="1a0ed-1693">Excel 2016에서 디지털 서명을 사용하여 저장한 통합 문서를 최신 버전의 Excel에서 열면 서명이 무효로 될 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1693">Workbooks saved with a digital signature in Excel 2016 could have the signature invalidated upon opening in the current version of Excel.</span></span>
 
-- <span data-ttu-id="5080d-1687">일부 경우에 피벗 테이블을 포함하는 시트를 복사한 후 Excel 작동이 중단되는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1687">Fixed an issue which would cause Excel to crash in some cases after copying a sheet containing a PivotTable.</span></span>
+- <span data-ttu-id="1a0ed-1694">일부 경우에 피벗 테이블을 포함하는 시트를 복사한 후 Excel 작동이 중단되는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1694">Fixed an issue which would cause Excel to crash in some cases after copying a sheet containing a PivotTable.</span></span>
 
-- <span data-ttu-id="5080d-1688">경우에 따라 Application.Evaluate(VBA)가 사용자 정의 함수에서 제대로 작동하지 않았습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1688">Application.Evaluate (VBA) was not working for User-defined functions in some cases.</span></span>
+- <span data-ttu-id="1a0ed-1695">경우에 따라 Application.Evaluate(VBA)가 사용자 정의 함수에서 제대로 작동하지 않았습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1695">Application.Evaluate (VBA) was not working for User-defined functions in some cases.</span></span>
 
-- <span data-ttu-id="5080d-1689">다양한 셀을 프로그래밍 방식으로 편집할 때 사용자에게 발생할 수 있는 성능 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1689">Fixed a performance issue that users may have experienced when programmatically editing a large range of cells.</span></span>
+- <span data-ttu-id="1a0ed-1696">다양한 셀을 프로그래밍 방식으로 편집할 때 사용자에게 발생할 수 있는 성능 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1696">Fixed a performance issue that users may have experienced when programmatically editing a large range of cells.</span></span>
 
-- <span data-ttu-id="5080d-1690">일본어 환경으로 csv 파일을 열 때 발생할 수 있는 성능 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1690">Fixed a performance issue that occurred when opening csv files with Japanese environments.</span></span>
+- <span data-ttu-id="1a0ed-1697">일본어 환경으로 csv 파일을 열 때 발생할 수 있는 성능 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1697">Fixed a performance issue that occurred when opening csv files with Japanese environments.</span></span>
 
-- <span data-ttu-id="5080d-1691">사용자 정의 차트 서식 파일을 기본값으로 삽입하면 열 차트로 저장되는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1691">Fixed an issue where inserting a user defined chart template as default would result in saving it as a column chart.</span></span>
+- <span data-ttu-id="1a0ed-1698">사용자 정의 차트 서식 파일을 기본값으로 삽입하면 열 차트로 저장되는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1698">Fixed an issue where inserting a user defined chart template as default would result in saving it as a column chart.</span></span>
 
-- <span data-ttu-id="5080d-1692">원본 데이터 셀에 캡션이 없는 경우 차트의 데이터 레이블이 빈 채로 표시되는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1692">Fixed an issue where Data labels on charts would display as blank when the underlying data cells did not have a caption.</span></span>
+- <span data-ttu-id="1a0ed-1699">원본 데이터 셀에 캡션이 없는 경우 차트의 데이터 레이블이 빈 채로 표시되는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1699">Fixed an issue where Data labels on charts would display as blank when the underlying data cells did not have a caption.</span></span>
 
-- <span data-ttu-id="5080d-1693">일부 x축 범위를 사용하여 차트 크기를 줄일 때 Excel이 응답을 중지하는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1693">Fixed an issue which could cause Excel to stop responding when reducing the size of a chart with some x-axis ranges.</span></span>
+- <span data-ttu-id="1a0ed-1700">일부 x축 범위를 사용하여 차트 크기를 줄일 때 Excel이 응답을 중지하는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1700">Fixed an issue which could cause Excel to stop responding when reducing the size of a chart with some x-axis ranges.</span></span>
 
-- <span data-ttu-id="5080d-1694">R1C1 셀 참조를 사용 설정하고 Excel 시트를 공동 작성/공유 중일 때 사용자의 현재 상태 아이콘에 마우스를 올리면 R1C1 모드에서 셀 참조가 활성으로 표시되지 않는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1694">Fixed an issue where an Excel sheet with R1C1 cell referencing enabled and is being co-authored / shared, hovering over the user presence icon does not display the active cell reference in R1C1 mode.</span></span>
+- <span data-ttu-id="1a0ed-1701">R1C1 셀 참조를 사용 설정하고 Excel 시트를 공동 작성/공유 중일 때 사용자의 현재 상태 아이콘에 마우스를 올리면 R1C1 모드에서 셀 참조가 활성으로 표시되지 않는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1701">Fixed an issue where an Excel sheet with R1C1 cell referencing enabled and is being co-authored / shared, hovering over the user presence icon does not display the active cell reference in R1C1 mode.</span></span>
 
-- <span data-ttu-id="5080d-1695">이 변경 사항은 잘못된 프로토콜 정보를 사용하여 이미지를 처리할 때 발생하는 지연을 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1695">This change addresses delays when processing images with malformed or invalid protocol information.</span></span>
+- <span data-ttu-id="1a0ed-1702">이 변경 사항은 잘못된 프로토콜 정보를 사용하여 이미지를 처리할 때 발생하는 지연을 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1702">This change addresses delays when processing images with malformed or invalid protocol information.</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="5080d-1696">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-1696">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-1703">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1703">Outlook</span></span>
 
-- <span data-ttu-id="5080d-1697">이 변경 사항은 잘못된 프로토콜 정보를 사용하여 이미지를 처리할 때 발생하는 지연을 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1697">This change addresses delays when processing images with malformed or invalid protocol information.</span></span>
+- <span data-ttu-id="1a0ed-1704">이 변경 사항은 잘못된 프로토콜 정보를 사용하여 이미지를 처리할 때 발생하는 지연을 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1704">This change addresses delays when processing images with malformed or invalid protocol information.</span></span>
 
-- <span data-ttu-id="5080d-1698">이 변경 사항은 초안 전자 메일에 대한 최신 변경 내용이 업데이트되지 않은 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1698">This change fixes an issue where the latest changes to draft emails were not being updated.</span></span>
+- <span data-ttu-id="1a0ed-1705">이 변경 사항은 초안 전자 메일에 대한 최신 변경 내용이 업데이트되지 않은 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1705">This change fixes an issue where the latest changes to draft emails were not being updated.</span></span>
 
-- <span data-ttu-id="5080d-1699">파일을 마우스 오른쪽 단추로 클릭 및 '보내기' 사용이 작동하지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1699">Fixed an issue where right-mouse clicking on a file and using 'Send to' would not work.</span></span>
+- <span data-ttu-id="1a0ed-1706">파일을 마우스 오른쪽 단추로 클릭 및 '보내기' 사용이 작동하지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1706">Fixed an issue where right-mouse clicking on a file and using 'Send to' would not work.</span></span>
 
-- <span data-ttu-id="5080d-1700">대리인이 다른 공유 사서함 컴퓨터의 다른 폴더 계층 구조를 볼 수 있었던 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1700">Addressed an issue that caused delegates to see different folder hierarchies on different machines for shared mailboxes.</span></span>
+- <span data-ttu-id="1a0ed-1707">대리인이 다른 공유 사서함 컴퓨터의 다른 폴더 계층 구조를 볼 수 있었던 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1707">Addressed an issue that caused delegates to see different folder hierarchies on different machines for shared mailboxes.</span></span>
 
-- <span data-ttu-id="5080d-1701">가끔 전자 메일 메시지의 범주가 사라지는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1701">Addressed an issue that caused categories to occasionally disappear from email messages.</span></span>
+- <span data-ttu-id="1a0ed-1708">가끔 전자 메일 메시지의 범주가 사라지는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1708">Addressed an issue that caused categories to occasionally disappear from email messages.</span></span>
 
-- <span data-ttu-id="5080d-1702">컴퓨터의 표준 시간대를 변경할 때 일부 미리 알림이 발송되지 않았던 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1702">Addressed an issue that caused some reminders to fail to fire when changing the timezone on a machine.</span></span>
+- <span data-ttu-id="1a0ed-1709">컴퓨터의 표준 시간대를 변경할 때 일부 미리 알림이 발송되지 않았던 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1709">Addressed an issue that caused some reminders to fail to fire when changing the timezone on a machine.</span></span>
 
-- <span data-ttu-id="5080d-1703">사용자가 조직 양식의 속성을 보려고 할 때 작동 중단이 발생하는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1703">Addressed an issue that caused users to experience a crash when attempting to view the properties of an Organizational Form.</span></span>
+- <span data-ttu-id="1a0ed-1710">사용자가 조직 양식의 속성을 보려고 할 때 작동 중단이 발생하는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1710">Addressed an issue that caused users to experience a crash when attempting to view the properties of an Organizational Form.</span></span>
 
-- <span data-ttu-id="5080d-1704">사용자가 주소록에 대한 검색 경로를 사용자 지정한 경우 Outlook의 이름 확인 범위가 GAL(전체 주소 목록)을 포함하지 않고 사용자 지정 경로로 제한되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1704">Fixed an issue where if a user had a customized the search path for the Address book, Outlook's name resolution scope would be limited to the customized path rather than including the Global Address List (GAL).</span></span>
+- <span data-ttu-id="1a0ed-1711">사용자가 주소록에 대한 검색 경로를 사용자 지정한 경우 Outlook의 이름 확인 범위가 GAL(전체 주소 목록)을 포함하지 않고 사용자 지정 경로로 제한되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1711">Fixed an issue where if a user had a customized the search path for the Address book, Outlook's name resolution scope would be limited to the customized path rather than including the Global Address List (GAL).</span></span>
 
-- <span data-ttu-id="5080d-1705">첨부 파일 도구에서 "클라우드에 저장" 단추가 누락되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1705">Addressed an issue that caused the "Save to Cloud" button to be missing from Attachment Tools.</span></span>
+- <span data-ttu-id="1a0ed-1712">첨부 파일 도구에서 "클라우드에 저장" 단추가 누락되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1712">Addressed an issue that caused the "Save to Cloud" button to be missing from Attachment Tools.</span></span>
 
-- <span data-ttu-id="5080d-1706">회신하는 메시지에 대한 소유자 권한이 없는 경우 검사기 창에서 디지털 권한 관리 메시지에 회신할 때 사용자가 서명을 추가할 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1706">Addressed an issue that caused users to be unable to add a signature when replying to a digitally rights managed message from an inspector window when the user does not have Owner permission on the message being replied to.</span></span>
+- <span data-ttu-id="1a0ed-1713">회신하는 메시지에 대한 소유자 권한이 없는 경우 검사기 창에서 디지털 권한 관리 메시지에 회신할 때 사용자가 서명을 추가할 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1713">Addressed an issue that caused users to be unable to add a signature when replying to a digitally rights managed message from an inspector window when the user does not have Owner permission on the message being replied to.</span></span>
 
-- <span data-ttu-id="5080d-1707">사용자가 웹 위치에서 이전에 만든 모임에 추가 첨부 파일을 추가할 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1707">Addressed an issue that caused users to be unable to add additional attachments from a web location to a previously created meeting.</span></span>
+- <span data-ttu-id="1a0ed-1714">사용자가 웹 위치에서 이전에 만든 모임에 추가 첨부 파일을 추가할 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1714">Addressed an issue that caused users to be unable to add additional attachments from a web location to a previously created meeting.</span></span>
 
-- <span data-ttu-id="5080d-1708">메일에 첨부 파일을 추가하거나 저장할 때 파일을 끌어다 놓는 방법을 사용하는 경우(메뉴를 사용하는 것과 반대로) 파일의 "최종 수정 날짜"가 업데이트되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1708">Addressed an issue that caused the "Last Modified" date on a file to be updated when adding an attachment to a mail or saving an attachment from a mail by dragging and dropping it (as opposed to via a menu).</span></span>
+- <span data-ttu-id="1a0ed-1715">메일에 첨부 파일을 추가하거나 저장할 때 파일을 끌어다 놓는 방법을 사용하는 경우(메뉴를 사용하는 것과 반대로) 파일의 "최종 수정 날짜"가 업데이트되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1715">Addressed an issue that caused the "Last Modified" date on a file to be updated when adding an attachment to a mail or saving an attachment from a mail by dragging and dropping it (as opposed to via a menu).</span></span>
 
-- <span data-ttu-id="5080d-1709">사용자가 검색 단추를 클릭하는 대신 상세 검색 창에서 Enter 키를 누르면 검색이 시작되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1709">Addressed an issue that caused hitting enter in the expanded find pane to fail to start a search, requiring instead that users click on the search button.</span></span>
+- <span data-ttu-id="1a0ed-1716">사용자가 검색 단추를 클릭하는 대신 상세 검색 창에서 Enter 키를 누르면 검색이 시작되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1716">Addressed an issue that caused hitting enter in the expanded find pane to fail to start a search, requiring instead that users click on the search button.</span></span>
 
-- <span data-ttu-id="5080d-1710">반환된 검색 결과 집합 내에서 범주별로 결과를 정렬하면 범주 색이 표시되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1710">Fixed an issue where within a set of returned search results, sorting the results by Categories would not display the Category colors.</span></span>
+- <span data-ttu-id="1a0ed-1717">반환된 검색 결과 집합 내에서 범주별로 결과를 정렬하면 범주 색이 표시되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1717">Fixed an issue where within a set of returned search results, sorting the results by Categories would not display the Category colors.</span></span>
 
-- <span data-ttu-id="5080d-1711">"사용 가능한 경우 사용자 사진 표시" 옵션을 사용하지 않도록 설정한 경우 검색에서 사용자에 대한 정보가 표시되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1711">Fixed an issue where search shows no information about users when the option to "Show user photographs when available" is disabled.</span></span>
+- <span data-ttu-id="1a0ed-1718">"사용 가능한 경우 사용자 사진 표시" 옵션을 사용하지 않도록 설정한 경우 검색에서 사용자에 대한 정보가 표시되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1718">Fixed an issue where search shows no information about users when the option to "Show user photographs when available" is disabled.</span></span>
 
 
-### <a name="powerpoint"></a><span data-ttu-id="5080d-1712">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="5080d-1712">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="1a0ed-1719">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1719">PowerPoint</span></span>
 
-- <span data-ttu-id="5080d-1713">이 변경 내용을 적용하면 이모지가 포함된 PowerPoint 파일을 저장할 때 실패할 수 있는 오류가 수정됩니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1713">This change fixes an error that could cause PowerPoint files containing emojis to fail when saving.</span></span>
+- <span data-ttu-id="1a0ed-1720">이 변경 내용을 적용하면 이모지가 포함된 PowerPoint 파일을 저장할 때 실패할 수 있는 오류가 수정됩니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1720">This change fixes an error that could cause PowerPoint files containing emojis to fail when saving.</span></span>
 
-- <span data-ttu-id="5080d-1714">이 변경 내용을 적용하면 PowerPoint 또는 Word에 OLE 개체로 포함된 레거시 Excel 차트를 렌더링할 때 가끔 차트 제목이 표시되지 않는 문제가 해결됩니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1714">This change fixes an issue where the rendering of a legacy Excel chart embedded as an OLE object in PowerPoint or Word may not always display the chart title.</span></span>
+- <span data-ttu-id="1a0ed-1721">이 변경 내용을 적용하면 PowerPoint 또는 Word에 OLE 개체로 포함된 레거시 Excel 차트를 렌더링할 때 가끔 차트 제목이 표시되지 않는 문제가 해결됩니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1721">This change fixes an issue where the rendering of a legacy Excel chart embedded as an OLE object in PowerPoint or Word may not always display the chart title.</span></span>
 
-- <span data-ttu-id="5080d-1715">Excel에서 PowerPoint로 텍스트를 복사하면 그 서식이 변경되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1715">We have fixed an issue when copying text from Excel to PowerPoint might change its formatting.</span></span>
+- <span data-ttu-id="1a0ed-1722">Excel에서 PowerPoint로 텍스트를 복사하면 그 서식이 변경되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1722">We have fixed an issue when copying text from Excel to PowerPoint might change its formatting.</span></span>
 
-- <span data-ttu-id="5080d-1716">이 변경 내용을 적용하면 '단어 단위로' 옵션을 사용한 특수 문자 찾기가 가끔 제대로 작동하지 않았던 문제가 해결됩니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1716">This change fixes an issue where finding special characters using 'find whole words only' did not always work as expected.</span></span>
+- <span data-ttu-id="1a0ed-1723">이 변경 내용을 적용하면 '단어 단위로' 옵션을 사용한 특수 문자 찾기가 가끔 제대로 작동하지 않았던 문제가 해결됩니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1723">This change fixes an issue where finding special characters using 'find whole words only' did not always work as expected.</span></span>
 
-### <a name="project"></a><span data-ttu-id="5080d-1717">Project</span><span class="sxs-lookup"><span data-stu-id="5080d-1717">Project</span></span>
+### <a name="project"></a><span data-ttu-id="1a0ed-1724">Project</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1724">Project</span></span>
 
-- <span data-ttu-id="5080d-1718">요약 작업 날짜가 항상 제대로 계산되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1718">Fixed an issue where summary task dates weren't always getting calculated correctly.</span></span>
+- <span data-ttu-id="1a0ed-1725">요약 작업 날짜가 항상 제대로 계산되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1725">Fixed an issue where summary task dates weren't always getting calculated correctly.</span></span>
 
-- <span data-ttu-id="5080d-1719">OpenUndoTransaction 메소드를 먼저 실행하지 않으면 OnUndoOrRedo 이벤트가 시작되지 않는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1719">Fixed an issue where the OnUndoOrRedo event doesn't fire without first running the OpenUndoTransaction method.</span></span>
+- <span data-ttu-id="1a0ed-1726">OpenUndoTransaction 메소드를 먼저 실행하지 않으면 OnUndoOrRedo 이벤트가 시작되지 않는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1726">Fixed an issue where the OnUndoOrRedo event doesn't fire without first running the OpenUndoTransaction method.</span></span>
 
-- <span data-ttu-id="5080d-1720">사용자가 일정 그룹 내의 작업 리본에 있는 “비활성화” 단추를 클릭하면 'ProjectBeforeTaskChange' VBA(Visual Basic Applications) 이벤트가 실행되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1720">Fixed an issue where the 'ProjectBeforeTaskChange' Visual Basic Applications (VBA) event did not fire when a user clicked the “Inactivate” button found on the Tasks Ribbon within the Scheduling grouping.</span></span>
+- <span data-ttu-id="1a0ed-1727">사용자가 일정 그룹 내의 작업 리본에 있는 “비활성화” 단추를 클릭하면 'ProjectBeforeTaskChange' VBA(Visual Basic Applications) 이벤트가 실행되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1727">Fixed an issue where the 'ProjectBeforeTaskChange' Visual Basic Applications (VBA) event did not fire when a user clicked the “Inactivate” button found on the Tasks Ribbon within the Scheduling grouping.</span></span>
 
-- <span data-ttu-id="5080d-1721">양식 유형 보기 내에서 선행 작업이나 후속 작업 세부 정보를 설정한 경우 ProjectBeforeTaskChange VBA(Visual Basic for Applications) 이벤트가 변경 내용을 캡처하지 않는 경우가 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1721">If you set predecessor or successor details from within a Form type view, the ProjectBeforeTaskChange Visual Basic Applications (VBA) event didn't always capture the changes.</span></span> <span data-ttu-id="5080d-1722">예를 들어 종속성을 삭제하고 양식에서 확인을 클릭한 경우 이벤트가 실행되지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1722">For example, if you deleted a dependency and clicked OK on the form, the event did not fire.</span></span> <span data-ttu-id="5080d-1723">이 동작이 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1723">This behavior has been fixed.</span></span>
+- <span data-ttu-id="1a0ed-1728">양식 유형 보기 내에서 선행 작업이나 후속 작업 세부 정보를 설정한 경우 ProjectBeforeTaskChange VBA(Visual Basic for Applications) 이벤트가 변경 내용을 캡처하지 않는 경우가 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1728">If you set predecessor or successor details from within a Form type view, the ProjectBeforeTaskChange Visual Basic Applications (VBA) event didn't always capture the changes.</span></span> <span data-ttu-id="1a0ed-1729">예를 들어 종속성을 삭제하고 양식에서 확인을 클릭한 경우 이벤트가 실행되지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1729">For example, if you deleted a dependency and clicked OK on the form, the event did not fire.</span></span> <span data-ttu-id="1a0ed-1730">이 동작이 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1730">This behavior has been fixed.</span></span>
 
-- <span data-ttu-id="5080d-1724">날짜 변경과 같이 변경 후에 ACWP (수행된 작업의 실제 비용)의 최신 값이 표시되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1724">Fixed an issue where the latest values for the Actual Cost of Work Performed (ACWP) would not be displayed after making a change, such as a date change.</span></span>
+- <span data-ttu-id="1a0ed-1731">날짜 변경과 같이 변경 후에 ACWP (수행된 작업의 실제 비용)의 최신 값이 표시되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1731">Fixed an issue where the latest values for the Actual Cost of Work Performed (ACWP) would not be displayed after making a change, such as a date change.</span></span>
 
-- <span data-ttu-id="5080d-1725">MRU(최근 사용한 항목) 메뉴를 사용하여 프로젝트를 열면 프로젝트 파일이 읽기/쓰기 권한으로 열리는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1725">Fixed an issue where opening a project using the Most Recently Used (MRU) menu opened the project file with Read/Write access.</span></span>
+- <span data-ttu-id="1a0ed-1732">MRU(최근 사용한 항목) 메뉴를 사용하여 프로젝트를 열면 프로젝트 파일이 읽기/쓰기 권한으로 열리는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1732">Fixed an issue where opening a project using the Most Recently Used (MRU) menu opened the project file with Read/Write access.</span></span>
 
-- <span data-ttu-id="5080d-1726">이 변경 내용은 시작 날짜와 시간을 사용하여 수동 작업을 만들었지만 기간을 지정하지 않은 경우 타임라인에 잘못된 시간이 표시되는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1726">This change fixes an issue where if you created a manual task with a start date and a time (but no duration), it would be displayed with an incorrect time on the timeline.</span></span>
+- <span data-ttu-id="1a0ed-1733">이 변경 내용은 시작 날짜와 시간을 사용하여 수동 작업을 만들었지만 기간을 지정하지 않은 경우 타임라인에 잘못된 시간이 표시되는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1733">This change fixes an issue where if you created a manual task with a start date and a time (but no duration), it would be displayed with an incorrect time on the timeline.</span></span>
 
-- <span data-ttu-id="5080d-1727">회교식 달력을 사용하여 타임라인을 인쇄하면 인쇄 보기에서 한 달을 건너뛰거나 중복되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1727">Fixed an issue where printing a timeline using a Hijri calendar would result in a month being skipped or duplicated in the print view.</span></span>
+- <span data-ttu-id="1a0ed-1734">회교식 달력을 사용하여 타임라인을 인쇄하면 인쇄 보기에서 한 달을 건너뛰거나 중복되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1734">Fixed an issue where printing a timeline using a Hijri calendar would result in a month being skipped or duplicated in the print view.</span></span>
 
-- <span data-ttu-id="5080d-1728">이 변경 사항은 팀 플래너에서 GDI 개체를 사용하여 작업하면 GDI 개체가 초과 할당되고 메모리가 부족해지는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1728">This change addresses an issue where working in Team Planner with GDI objects, could result in the over allocation of GDI objects and create low memory conditions.</span></span>
+- <span data-ttu-id="1a0ed-1735">이 변경 사항은 팀 플래너에서 GDI 개체를 사용하여 작업하면 GDI 개체가 초과 할당되고 메모리가 부족해지는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1735">This change addresses an issue where working in Team Planner with GDI objects, could result in the over allocation of GDI objects and create low memory conditions.</span></span>
 
-- <span data-ttu-id="5080d-1729">'CustomFieldValueListGetItem'이 실행되고 사용자 지정 필드에 대한 조회 테이블이 없는 경우 빈 조회 테이블이 없어도 생성되는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1729">Fixed an issue where if CustomFieldValueListGetItem' is executed and a lookup table for the custom field doesn't exist, an empty lookup table is created even though it should not be.</span></span>
+- <span data-ttu-id="1a0ed-1736">'CustomFieldValueListGetItem'이 실행되고 사용자 지정 필드에 대한 조회 테이블이 없는 경우 빈 조회 테이블이 없어도 생성되는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1736">Fixed an issue where if CustomFieldValueListGetItem' is executed and a lookup table for the custom field doesn't exist, an empty lookup table is created even though it should not be.</span></span>
 
-- <span data-ttu-id="5080d-1730">양식보기에서 선행 작업/후속자 데이터를 편집하면 추가 ProjectBeforeTaskChange 이벤트가 실행됩니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1730">WhenPredecessor/Successor data is edited within a Form view, an extra ProjectBeforeTaskChange event is fired</span></span>
+- <span data-ttu-id="1a0ed-1737">양식보기에서 선행 작업/후속자 데이터를 편집하면 추가 ProjectBeforeTaskChange 이벤트가 실행됩니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1737">WhenPredecessor/Successor data is edited within a Form view, an extra ProjectBeforeTaskChange event is fired</span></span>
 
-- <span data-ttu-id="5080d-1731">실제 작업 시간을 보호하는 설정이 설정된 경우 사용자가 기간별 초기 작업 시간을 입력할 수 없는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1731">Fixed an issue where the user couldn't enter time-phased Baseline Work when the setting to protect actual work is on.</span></span>
+- <span data-ttu-id="1a0ed-1738">실제 작업 시간을 보호하는 설정이 설정된 경우 사용자가 기간별 초기 작업 시간을 입력할 수 없는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1738">Fixed an issue where the user couldn't enter time-phased Baseline Work when the setting to protect actual work is on.</span></span>
 
-### <a name="word"></a><span data-ttu-id="5080d-1732">Word</span><span class="sxs-lookup"><span data-stu-id="5080d-1732">Word</span></span>
+### <a name="word"></a><span data-ttu-id="1a0ed-1739">Word</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1739">Word</span></span>
 
-- <span data-ttu-id="5080d-1733">이 변경 내용을 적용하면 힌트 위에 커서를 놓아도 해당 카드가 강조 표시되지 않는 문제가 해결됩니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1733">This change fixes an issue where hovering a cursor over a hint would not highlight its card.</span></span>
+- <span data-ttu-id="1a0ed-1740">이 변경 내용을 적용하면 힌트 위에 커서를 놓아도 해당 카드가 강조 표시되지 않는 문제가 해결됩니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1740">This change fixes an issue where hovering a cursor over a hint would not highlight its card.</span></span>
 
-- <span data-ttu-id="5080d-1734">이 변경 내용을 적용하면 보기 메뉴에서 여러 페이지를 선택한 경우 메모 창이 공백으로 표시되는 문제가 해결됩니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1734">This change fixes an issue with multiple pages selected from the View menu, where the comments pane could be displayed as blank.</span></span>
+- <span data-ttu-id="1a0ed-1741">이 변경 내용을 적용하면 보기 메뉴에서 여러 페이지를 선택한 경우 메모 창이 공백으로 표시되는 문제가 해결됩니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1741">This change fixes an issue with multiple pages selected from the View menu, where the comments pane could be displayed as blank.</span></span>
 
-- <span data-ttu-id="5080d-1735">댓글 달기 기능을 사용할 수 없었던 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1735">Fixed an issue where the functionality to post comments was disabled.</span></span>
+- <span data-ttu-id="1a0ed-1742">댓글 달기 기능을 사용할 수 없었던 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1742">Fixed an issue where the functionality to post comments was disabled.</span></span>
 
-- <span data-ttu-id="5080d-1736">이 변경 내용을 적용하면 올가미 선택 도구를 사용할 때 그룹 지정된 도형 안의 텍스트가 일시적으로 사라지는 문제가 해결됩니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1736">This change fixes an issue that would cause the text in grouped shapes to disappear temporarily when using the Lasso selection tool.</span></span>
+- <span data-ttu-id="1a0ed-1743">이 변경 내용을 적용하면 올가미 선택 도구를 사용할 때 그룹 지정된 도형 안의 텍스트가 일시적으로 사라지는 문제가 해결됩니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1743">This change fixes an issue that would cause the text in grouped shapes to disappear temporarily when using the Lasso selection tool.</span></span>
 
-- <span data-ttu-id="5080d-1737">이 변경 사항은 잘못된 프로토콜 정보를 사용하여 이미지를 처리할 때 발생하는 지연을 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1737">This change addresses delays when processing images with malformed or invalid protocol information.</span></span>
+- <span data-ttu-id="1a0ed-1744">이 변경 사항은 잘못된 프로토콜 정보를 사용하여 이미지를 처리할 때 발생하는 지연을 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1744">This change addresses delays when processing images with malformed or invalid protocol information.</span></span>
 
-- <span data-ttu-id="5080d-1738">이 변경 내용을 적용하면 PowerPoint 또는 Word에 OLE 개체로 포함된 레거시 Excel 차트를 렌더링할 때 가끔 차트 제목이 표시되지 않는 문제가 해결됩니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1738">This change fixes an issue where the rendering of a legacy Excel chart embedded as an OLE object in PowerPoint or Word may not always display the chart title.</span></span>
+- <span data-ttu-id="1a0ed-1745">이 변경 내용을 적용하면 PowerPoint 또는 Word에 OLE 개체로 포함된 레거시 Excel 차트를 렌더링할 때 가끔 차트 제목이 표시되지 않는 문제가 해결됩니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1745">This change fixes an issue where the rendering of a legacy Excel chart embedded as an OLE object in PowerPoint or Word may not always display the chart title.</span></span>
 
-- <span data-ttu-id="5080d-1739">이 변경 사항은 계정 관리자가 메시지를 발송하지 않아 타사 애플리케이션이 중단되는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1739">This change addresses an issue where the account manager would not dispatch messages resulting in a hang with third party applications.</span></span>
+- <span data-ttu-id="1a0ed-1746">이 변경 사항은 계정 관리자가 메시지를 발송하지 않아 타사 애플리케이션이 중단되는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1746">This change addresses an issue where the account manager would not dispatch messages resulting in a hang with third party applications.</span></span>
 
-- <span data-ttu-id="5080d-1740">두 페이지 보기에서 댓글을 작성할 때 댓글 앵커가 가끔 보이지 않는 문제가 해결됩니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1740">This change fixes an issue in two page view, when creating a comment, the comment anchor did not always come into view.</span></span>
+- <span data-ttu-id="1a0ed-1747">두 페이지 보기에서 댓글을 작성할 때 댓글 앵커가 가끔 보이지 않는 문제가 해결됩니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1747">This change fixes an issue in two page view, when creating a comment, the comment anchor did not always come into view.</span></span>
 
-- <span data-ttu-id="5080d-1741">메모를 입력하거나 편집하고 Ctrl+A를 사용할 때 메모 카드 내에서 텍스트를 선택하는 대신 캔버스에서 텍스트를 선택하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1741">Fixed an issue when typing or editing a comment and using Ctrl+A would result in selecting text in the canvas instead of selecting text just within the comment card.</span></span>
+- <span data-ttu-id="1a0ed-1748">메모를 입력하거나 편집하고 Ctrl+A를 사용할 때 메모 카드 내에서 텍스트를 선택하는 대신 캔버스에서 텍스트를 선택하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1748">Fixed an issue when typing or editing a comment and using Ctrl+A would result in selecting text in the canvas instead of selecting text just within the comment card.</span></span>
 
-- <span data-ttu-id="5080d-1742">단락의 스타일이 목록에 연결된 스타일의 상위 항목인 경우 해당 목록의 번호 매기기가 분실되는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1742">Fixed an issue where if a paragraph whose style is an ancestor of a style linked to a list, then the numbering of that list could be lost.</span></span>
+- <span data-ttu-id="1a0ed-1749">단락의 스타일이 목록에 연결된 스타일의 상위 항목인 경우 해당 목록의 번호 매기기가 분실되는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1749">Fixed an issue where if a paragraph whose style is an ancestor of a style linked to a list, then the numbering of that list could be lost.</span></span>
 
-- <span data-ttu-id="5080d-1743">문서에 없는 제목 스타일을 사용하여 목차를 업데이트할 때 발생하는 문제도 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1743">This change fixes an issue where the Table of Contents would get updated with heading styles which were not present in the document.</span></span>
+- <span data-ttu-id="1a0ed-1750">문서에 없는 제목 스타일을 사용하여 목차를 업데이트할 때 발생하는 문제도 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1750">This change fixes an issue where the Table of Contents would get updated with heading styles which were not present in the document.</span></span>
 
-- <span data-ttu-id="5080d-1744">빠른 인쇄를 사용하여 인쇄한 후에 편집하려고 할 때 문서의 단어 맞춤이 스크램블되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1744">We fixed an issue which alignment of word in document gets scrambled when tried to edit after printing using Quick Print.</span></span>
+- <span data-ttu-id="1a0ed-1751">빠른 인쇄를 사용하여 인쇄한 후에 편집하려고 할 때 문서의 단어 맞춤이 스크램블되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1751">We fixed an issue which alignment of word in document gets scrambled when tried to edit after printing using Quick Print.</span></span>
 
-- <span data-ttu-id="5080d-1745">두 개의 문서를 하나로 병합할 때 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1745">We fixed an issue when merging 2 documents into one document.</span></span>
+- <span data-ttu-id="1a0ed-1752">두 개의 문서를 하나로 병합할 때 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1752">We fixed an issue when merging 2 documents into one document.</span></span>
 
-- <span data-ttu-id="5080d-1746">문서를 보낼 때 Word 문서에 저장된 디지털 서명이 제거되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1746">Fixed an issue where digital signatures saved in Word documents would be removed when mailing the documents.</span></span>
+- <span data-ttu-id="1a0ed-1753">문서를 보낼 때 Word 문서에 저장된 디지털 서명이 제거되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1753">Fixed an issue where digital signatures saved in Word documents would be removed when mailing the documents.</span></span>
 
-- <span data-ttu-id="5080d-1747">수식 관련 수정을 표시할 때 파일을 저장하면 오류가 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1747">Fixed an issue where marking revisions involving equations could result in a failure when saving the file.</span></span>
+- <span data-ttu-id="1a0ed-1754">수식 관련 수정을 표시할 때 파일을 저장하면 오류가 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1754">Fixed an issue where marking revisions involving equations could result in a failure when saving the file.</span></span>
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
-## <a name="version-2003-april-14"></a><span data-ttu-id="5080d-1749">버전 2003: 4월 14일</span><span class="sxs-lookup"><span data-stu-id="5080d-1749">Version 2003: April 14</span></span>
-<span data-ttu-id="5080d-1750">*버전 2003(빌드 12624.20466)*</span><span class="sxs-lookup"><span data-stu-id="5080d-1750">*Version 2003 (Build 12624.20466)*</span></span>
+## <a name="version-2003-april-14"></a><span data-ttu-id="1a0ed-1756">버전 2003: 4월 14일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1756">Version 2003: April 14</span></span>
+<span data-ttu-id="1a0ed-1757">*버전 2003(빌드 12624.20466)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1757">*Version 2003 (Build 12624.20466)*</span></span>
 
-<span data-ttu-id="5080d-1751">나열된 보안 업데이트는 [여기](./microsoft365-apps-security-updates.md)</span><span class="sxs-lookup"><span data-stu-id="5080d-1751">Security updates listed [here](./microsoft365-apps-security-updates.md)</span></span>
+<span data-ttu-id="1a0ed-1758">나열된 보안 업데이트는 [여기](./microsoft365-apps-security-updates.md)</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1758">Security updates listed [here](./microsoft365-apps-security-updates.md)</span></span>
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-- <span data-ttu-id="5080d-1753">다양한 버그 및 성능 수정 사항.</span><span class="sxs-lookup"><span data-stu-id="5080d-1753">Various bugs and performance fixes.</span></span>
+- <span data-ttu-id="1a0ed-1760">다양한 버그 및 성능 수정 사항.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1760">Various bugs and performance fixes.</span></span>
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
-## <a name="version-2003-april-09"></a><span data-ttu-id="5080d-1755">버전 2003: 4월 9일</span><span class="sxs-lookup"><span data-stu-id="5080d-1755">Version 2003: April 09</span></span>
-<span data-ttu-id="5080d-1756">*버전 2003(빌드 12624.20442)*</span><span class="sxs-lookup"><span data-stu-id="5080d-1756">*Version 2003 (Build 12624.20442)*</span></span>
+## <a name="version-2003-april-09"></a><span data-ttu-id="1a0ed-1762">버전 2003: 4월 9일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1762">Version 2003: April 09</span></span>
+<span data-ttu-id="1a0ed-1763">*버전 2003(빌드 12624.20442)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1763">*Version 2003 (Build 12624.20442)*</span></span>
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="feature-updates"></a><span data-ttu-id="5080d-1758">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="5080d-1758">Feature updates</span></span>
-### <a name="excel"></a><span data-ttu-id="5080d-1759">Excel</span><span class="sxs-lookup"><span data-stu-id="5080d-1759">Excel</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="1a0ed-1765">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1765">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="1a0ed-1766">Excel</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1766">Excel</span></span>
 
-- <span data-ttu-id="5080d-1760">**M365 Premium 콘텐츠 선택기:** 문서에 생기를 불어넣어 보세요!</span><span class="sxs-lookup"><span data-stu-id="5080d-1760">**M365 Premium Content Picker:** Bring your documents to life!</span></span> <span data-ttu-id="5080d-1761">로열티가 없는 수천 개의 이미지, 아이콘, 스티커를 탐색하세요. [자세한 정보](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)</span><span class="sxs-lookup"><span data-stu-id="5080d-1761">Explore 1000’s of royalty free stock images, icons and stickers [Learn more](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)</span></span>
+- <span data-ttu-id="1a0ed-1767">**M365 Premium 콘텐츠 선택기:** 문서에 생기를 불어넣어 보세요!</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1767">**M365 Premium Content Picker:** Bring your documents to life!</span></span> <span data-ttu-id="1a0ed-1768">로열티가 없는 수천 개의 이미지, 아이콘, 스티커를 탐색하세요. [자세한 정보](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1768">Explore 1000’s of royalty free stock images, icons and stickers [Learn more](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="5080d-1762">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-1762">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-1769">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1769">Outlook</span></span>
 
-- <span data-ttu-id="5080d-1763">**M365 Premium 콘텐츠 선택기:** 문서에 생기를 불어넣어 보세요!</span><span class="sxs-lookup"><span data-stu-id="5080d-1763">**M365 Premium Content Picker:** Bring your documents to life!</span></span> <span data-ttu-id="5080d-1764">로열티가 없는 수천 개의 이미지, 아이콘, 스티커를 탐색하세요. [자세한 정보](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)</span><span class="sxs-lookup"><span data-stu-id="5080d-1764">Explore 1000’s of royalty free stock images, icons and stickers [Learn more](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)</span></span>
+- <span data-ttu-id="1a0ed-1770">**M365 Premium 콘텐츠 선택기:** 문서에 생기를 불어넣어 보세요!</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1770">**M365 Premium Content Picker:** Bring your documents to life!</span></span> <span data-ttu-id="1a0ed-1771">로열티가 없는 수천 개의 이미지, 아이콘, 스티커를 탐색하세요. [자세한 정보](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1771">Explore 1000’s of royalty free stock images, icons and stickers [Learn more](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="5080d-1765">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="5080d-1765">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="1a0ed-1772">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1772">PowerPoint</span></span>
 
-- <span data-ttu-id="5080d-1766">**M365 Premium 콘텐츠 선택기:** 문서에 생기를 불어넣어 보세요!</span><span class="sxs-lookup"><span data-stu-id="5080d-1766">**M365 Premium Content Picker:** Bring your documents to life!</span></span> <span data-ttu-id="5080d-1767">로열티가 없는 수천 개의 이미지, 아이콘, 스티커를 탐색하세요. [자세한 정보](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)</span><span class="sxs-lookup"><span data-stu-id="5080d-1767">Explore 1000’s of royalty free stock images, icons and stickers [Learn more](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)</span></span>
+- <span data-ttu-id="1a0ed-1773">**M365 Premium 콘텐츠 선택기:** 문서에 생기를 불어넣어 보세요!</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1773">**M365 Premium Content Picker:** Bring your documents to life!</span></span> <span data-ttu-id="1a0ed-1774">로열티가 없는 수천 개의 이미지, 아이콘, 스티커를 탐색하세요. [자세한 정보](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1774">Explore 1000’s of royalty free stock images, icons and stickers [Learn more](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)</span></span>
 
-### <a name="word"></a><span data-ttu-id="5080d-1768">Word</span><span class="sxs-lookup"><span data-stu-id="5080d-1768">Word</span></span>
+### <a name="word"></a><span data-ttu-id="1a0ed-1775">Word</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1775">Word</span></span>
 
-- <span data-ttu-id="5080d-1769">**M365 Premium 콘텐츠 선택기:** 문서에 생기를 불어넣어 보세요!</span><span class="sxs-lookup"><span data-stu-id="5080d-1769">**M365 Premium Content Picker:** Bring your documents to life!</span></span> <span data-ttu-id="5080d-1770">로열티가 없는 수천 개의 이미지, 아이콘, 스티커를 탐색하세요. [자세한 정보](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)</span><span class="sxs-lookup"><span data-stu-id="5080d-1770">Explore 1000’s of royalty free stock images, icons and stickers [Learn more](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)</span></span>
-
-
-[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
-
-<br/>
-
-[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
-
-
-
-
-[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
-
-## <a name="version-2003-april-03"></a><span data-ttu-id="5080d-1774">버전 2003: 4월 3일</span><span class="sxs-lookup"><span data-stu-id="5080d-1774">Version 2003: April 03</span></span>
-<span data-ttu-id="5080d-1775">*버전 2003(빌드 12624.20410)*</span><span class="sxs-lookup"><span data-stu-id="5080d-1775">*Version 2003 (Build 12624.20410)*</span></span>
-
-[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
-
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-1777">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-1777">Resolved issues</span></span>
-### <a name="excel"></a><span data-ttu-id="5080d-1778">Excel</span><span class="sxs-lookup"><span data-stu-id="5080d-1778">Excel</span></span>
-
-- <span data-ttu-id="5080d-1779">VBA의 Application.Evaluate 사용이 경우에 따라 사용자 정의 함수에서 작동하지 않았습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1779">Using VBA's Application.Evaluate was not working for User-defined functions in some cases.</span></span>
-
-### <a name="outlook"></a><span data-ttu-id="5080d-1780">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-1780">Outlook</span></span>
-
-- <span data-ttu-id="5080d-1781">마우스에서 "X" 단추를 사용할 때 가끔 충돌이 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1781">Addressed an issue that caused users to occasionally experience a crash when using the "X" button on their mouse.</span></span>
-
-### <a name="project"></a><span data-ttu-id="5080d-1782">Project</span><span class="sxs-lookup"><span data-stu-id="5080d-1782">Project</span></span>
-
-- <span data-ttu-id="5080d-1783">양식보기에서 선행 작업/후속자 데이터를 편집하면 추가 ProjectBeforeTaskChangeevent가 발생합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1783">When Predecessor/Successor data is edited within a Form view, an extra ProjectBeforeTaskChangeevent is fired.</span></span>
-
-### <a name="word"></a><span data-ttu-id="5080d-1784">Word</span><span class="sxs-lookup"><span data-stu-id="5080d-1784">Word</span></span>
-
-- <span data-ttu-id="5080d-1785">마우스에서 "X" 단추를 사용할 때 가끔 충돌이 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1785">Addressed an issue that caused users to occasionally experience a crash when using the "X" button on their mouse.</span></span>
-
-
-
-[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
-
-## <a name="version-2003-march-31"></a><span data-ttu-id="5080d-1787">버전 2003: 3월 31일</span><span class="sxs-lookup"><span data-stu-id="5080d-1787">Version 2003: March 31</span></span>
-<span data-ttu-id="5080d-1788">*버전 2003 (빌드 12624.20382)*</span><span class="sxs-lookup"><span data-stu-id="5080d-1788">*Version 2003 (Build 12624.20382)*</span></span>
-
-[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
-
-### <a name="feature-updates"></a><span data-ttu-id="5080d-1790">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="5080d-1790">Feature updates</span></span>
-### <a name="access"></a><span data-ttu-id="5080d-1791">Access</span><span class="sxs-lookup"><span data-stu-id="5080d-1791">Access</span></span>
-
-- <span data-ttu-id="5080d-1792">**"테이블 추가" 작업 창:** Access의 새로운 "테이블 추가" 작업 창이 마침내 나왔습니다!</span><span class="sxs-lookup"><span data-stu-id="5080d-1792">**"Add Tables" Task Pane:** Access's new "Add Tables" Task Pane is finally here!</span></span> <span data-ttu-id="5080d-1793">이 기능을 사용하면 쿼리 및 관계 보기에 대한 "테이블 표시" 대화 상자를 탐색하지 않고도 쿼리 창에 추가하거나 제거할 테이블을 손쉽게 선택/여러 개 선택할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1793">This feature allows you to easily select/multi-select which tables they'd like to add/remove into a query window, without navigating to the "Show Tables" dialog for queries and for relationship view.</span></span> <span data-ttu-id="5080d-1794">여기에는 연결된 테이블을 표시하는 새로운 "링크" 탭, 현재 목록을 필터링하는 검색 상자, "끌어다 놓기" 동작 등이 포함됩니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1794">This also includes a new "links" tab to display linked tables, a search box to filter the current list, "drag and drop" behavior, and more!</span></span>
+- <span data-ttu-id="1a0ed-1776">**M365 Premium 콘텐츠 선택기:** 문서에 생기를 불어넣어 보세요!</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1776">**M365 Premium Content Picker:** Bring your documents to life!</span></span> <span data-ttu-id="1a0ed-1777">로열티가 없는 수천 개의 이미지, 아이콘, 스티커를 탐색하세요. [자세한 정보](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1777">Explore 1000’s of royalty free stock images, icons and stickers [Learn more](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)</span></span>
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -3498,70 +3460,46 @@ ms.locfileid: "51749066"
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-1797">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-1797">Resolved issues</span></span>
-### <a name="project"></a><span data-ttu-id="5080d-1798">Project</span><span class="sxs-lookup"><span data-stu-id="5080d-1798">Project</span></span>
-
-- <span data-ttu-id="5080d-1799"><span style="display:inline !important;">실제 작업 시간을 보호하는 설정이 설정된 경우 사용자가 기간별 초기 작업 시간을 입력할 수 없는 문제가 수정되었습니다.</span></span><span class="sxs-lookup"><span data-stu-id="5080d-1799"><span style="display:inline !important;">Fixed an issue where the user couldn't enter time-phased Baseline Work when the setting to protect actual work is on.</span></span></span><br>
 
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
-## <a name="version-2003-march-25"></a><span data-ttu-id="5080d-1801">버전 2003: 3월 25일</span><span class="sxs-lookup"><span data-stu-id="5080d-1801">Version 2003: March 25</span></span>
-<span data-ttu-id="5080d-1802">*버전 2003 (빌드 12624.20320)*</span><span class="sxs-lookup"><span data-stu-id="5080d-1802">*Version 2003 (Build 12624.20320)*</span></span>
+## <a name="version-2003-april-03"></a><span data-ttu-id="1a0ed-1781">버전 2003: 4월 3일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1781">Version 2003: April 03</span></span>
+<span data-ttu-id="1a0ed-1782">*버전 2003(빌드 12624.20410)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1782">*Version 2003 (Build 12624.20410)*</span></span>
 
-- <span data-ttu-id="5080d-1803">다양한 버그 및 성능 수정 사항.</span><span class="sxs-lookup"><span data-stu-id="5080d-1803">Various bugs and performance fixes.</span></span>
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-## <a name="version-2003-march-23"></a><span data-ttu-id="5080d-1804">버전 2003: 3월 23일</span><span class="sxs-lookup"><span data-stu-id="5080d-1804">Version 2003: March 23</span></span>
-<span data-ttu-id="5080d-1805">*버전 2003 (빌드 12624.20296)*</span><span class="sxs-lookup"><span data-stu-id="5080d-1805">*Version 2003 (Build 12624.20296)*</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-1784">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1784">Resolved issues</span></span>
+### <a name="excel"></a><span data-ttu-id="1a0ed-1785">Excel</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1785">Excel</span></span>
 
-- <span data-ttu-id="5080d-1806">다양한 버그 및 성능 수정 사항.</span><span class="sxs-lookup"><span data-stu-id="5080d-1806">Various bugs and performance fixes.</span></span>
+- <span data-ttu-id="1a0ed-1786">VBA의 Application.Evaluate 사용이 경우에 따라 사용자 정의 함수에서 작동하지 않았습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1786">Using VBA's Application.Evaluate was not working for User-defined functions in some cases.</span></span>
 
-## <a name="version-2003-march-21"></a><span data-ttu-id="5080d-1807">버전 2003: 3월 21일</span><span class="sxs-lookup"><span data-stu-id="5080d-1807">Version 2003: March 21</span></span>
-<span data-ttu-id="5080d-1808">*버전 2003 (빌드 12624.20276)*</span><span class="sxs-lookup"><span data-stu-id="5080d-1808">*Version 2003 (Build 12624.20276)*</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-1787">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1787">Outlook</span></span>
 
-[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+- <span data-ttu-id="1a0ed-1788">마우스에서 "X" 단추를 사용할 때 가끔 충돌이 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1788">Addressed an issue that caused users to occasionally experience a crash when using the "X" button on their mouse.</span></span>
 
-### <a name="feature-updates"></a><span data-ttu-id="5080d-1810">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="5080d-1810">Feature updates</span></span>
-### <a name="outlook"></a><span data-ttu-id="5080d-1811">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-1811">Outlook</span></span>
+### <a name="project"></a><span data-ttu-id="1a0ed-1789">Project</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1789">Project</span></span>
 
-- <span data-ttu-id="5080d-1812">**받은 편지함을 벗어나지 않고 모임 참가:** 온라인 모임에 참가하기 위해 일정으로 전환할 필요가 없습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1812">**Join meetings without leaving your inbox:** No need to switch to your calendar to join online meetings.</span></span> <span data-ttu-id="5080d-1813">일정을 할 일 창에 고정하고 클릭 한 번만으로 모든 모임에 참여하세요.</span><span class="sxs-lookup"><span data-stu-id="5080d-1813">With the Calendar pinned to the To-Do pane, join any meeting with just one click.</span></span>
+- <span data-ttu-id="1a0ed-1790">양식보기에서 선행 작업/후속자 데이터를 편집하면 추가 ProjectBeforeTaskChangeevent가 발생합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1790">When Predecessor/Successor data is edited within a Form view, an extra ProjectBeforeTaskChangeevent is fired.</span></span>
 
-- <span data-ttu-id="5080d-1814">**완전히 새로워진 일정:** 지난 해, Microsoft는 새로워진 메일 환경을 제공했으며, 올해에는 일정이 새롭게 바뀌었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1814">**Calendar visual refresh:** Last year, we brought you a refreshed mail experience, and, this year, it is the calendar’s turn to get a facelift!</span></span> <span data-ttu-id="5080d-1815">업데이트가 새로 제공되지만 노련한 Outlook 사용자에게는 익숙하므로 바로 시작하여 생산성을 높일 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1815">The updates are fresh but familiar so, as a seasoned Outlook user, you can jump in and be more productive right away.</span></span>
+### <a name="word"></a><span data-ttu-id="1a0ed-1791">Word</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1791">Word</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="5080d-1816">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="5080d-1816">PowerPoint</span></span>
-
-- <span data-ttu-id="5080d-1817">**슬라이드 쇼 중에 슬라이드 업데이트:** 프레젠테이션을 진행하는 동안 다른 작성자가 변경한 슬라이드를 업데이트합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1817">**Update slides during slide show:** Update slides changed by other authors during your presentation.</span></span>
+- <span data-ttu-id="1a0ed-1792">마우스에서 "X" 단추를 사용할 때 가끔 충돌이 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1792">Addressed an issue that caused users to occasionally experience a crash when using the "X" button on their mouse.</span></span>
 
 
-[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
-## <a name="version-2003-march-16"></a><span data-ttu-id="5080d-1819">버전 2003: 3월 16일</span><span class="sxs-lookup"><span data-stu-id="5080d-1819">Version 2003: March 16</span></span>
-<span data-ttu-id="5080d-1820">*버전 2003 (빌드 12624.20224)*</span><span class="sxs-lookup"><span data-stu-id="5080d-1820">*Version 2003 (Build 12624.20224)*</span></span>
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
+## <a name="version-2003-march-31"></a><span data-ttu-id="1a0ed-1794">버전 2003: 3월 31일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1794">Version 2003: March 31</span></span>
+<span data-ttu-id="1a0ed-1795">*버전 2003 (빌드 12624.20382)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1795">*Version 2003 (Build 12624.20382)*</span></span>
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="feature-updates"></a><span data-ttu-id="5080d-1822">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="5080d-1822">Feature updates</span></span>
-### <a name="excel"></a><span data-ttu-id="5080d-1823">Excel</span><span class="sxs-lookup"><span data-stu-id="5080d-1823">Excel</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="1a0ed-1797">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1797">Feature updates</span></span>
+### <a name="access"></a><span data-ttu-id="1a0ed-1798">Access</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1798">Access</span></span>
 
-- <span data-ttu-id="5080d-1824">**완벽한 색상 선택:** 16진 색상 코드를 사용하여 글꼴, 텍스트 강조 등 원하는 색상을 정확하게 선택하세요.</span><span class="sxs-lookup"><span data-stu-id="5080d-1824">**Pick the perfect color:** Use hex color codes to choose exactly the color you want for your font, text highlight, and more.</span></span>
-
-### <a name="outlook"></a><span data-ttu-id="5080d-1825">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-1825">Outlook</span></span>
-
-- <span data-ttu-id="5080d-1826">**완벽한 색상 선택:** 16진 색상 코드를 사용하여 글꼴, 텍스트 강조 등 원하는 색상을 정확하게 선택하세요.</span><span class="sxs-lookup"><span data-stu-id="5080d-1826">**Pick the perfect color:** Use hex color codes to choose exactly the color you want for your font, text highlight, and more.</span></span>
-
-### <a name="powerpoint"></a><span data-ttu-id="5080d-1827">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="5080d-1827">PowerPoint</span></span>
-
-- <span data-ttu-id="5080d-1828">**완벽한 색상 선택:** 16진 색상 코드를 사용하여 글꼴, 텍스트 강조 등 원하는 색상을 정확하게 선택하세요.</span><span class="sxs-lookup"><span data-stu-id="5080d-1828">**Pick the perfect color:** Use hex color codes to choose exactly the color you want for your font, text highlight, and more.</span></span>
-
-### <a name="word"></a><span data-ttu-id="5080d-1829">Word</span><span class="sxs-lookup"><span data-stu-id="5080d-1829">Word</span></span>
-
-- <span data-ttu-id="5080d-1830">**완벽한 색상 선택:** 16진 색상 코드를 사용하여 글꼴, 텍스트 강조 등 원하는 색상을 정확하게 선택하세요.</span><span class="sxs-lookup"><span data-stu-id="5080d-1830">**Pick the perfect color:** Use hex color codes to choose exactly the color you want for your font, text highlight, and more.</span></span>
-
-### <a name="office-suite"></a><span data-ttu-id="5080d-1831">Office 제품군</span><span class="sxs-lookup"><span data-stu-id="5080d-1831">Office Suite</span></span>
-
-- <span data-ttu-id="5080d-1832">**탭 창:** 이제 앱의 오른쪽에 있는 탭 UI를 사용하여 여러 창 간에 전환할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1832">**Tabbed Panes:** Now you can switch between multiple panes using a tab UI on the right hand side of the app.</span></span> <span data-ttu-id="5080d-1833">UI는 2개 이상의 창이 열려있는 경우에만 표시됩니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1833">The UI will only be visible when you have 2+ panes open.</span></span>
+- <span data-ttu-id="1a0ed-1799">**"테이블 추가" 작업 창:** Access의 새로운 "테이블 추가" 작업 창이 마침내 나왔습니다!</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1799">**"Add Tables" Task Pane:** Access's new "Add Tables" Task Pane is finally here!</span></span> <span data-ttu-id="1a0ed-1800">이 기능을 사용하면 쿼리 및 관계 보기에 대한 "테이블 표시" 대화 상자를 탐색하지 않고도 쿼리 창에 추가하거나 제거할 테이블을 손쉽게 선택/여러 개 선택할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1800">This feature allows you to easily select/multi-select which tables they'd like to add/remove into a query window, without navigating to the "Show Tables" dialog for queries and for relationship view.</span></span> <span data-ttu-id="1a0ed-1801">여기에는 연결된 테이블을 표시하는 새로운 "링크" 탭, 현재 목록을 필터링하는 검색 상자, "끌어다 놓기" 동작 등이 포함됩니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1801">This also includes a new "links" tab to display linked tables, a search box to filter the current list, "drag and drop" behavior, and more!</span></span>
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -3570,202 +3508,274 @@ ms.locfileid: "51749066"
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-1836">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-1836">Resolved issues</span></span>
-### <a name="excel"></a><span data-ttu-id="5080d-1837">Excel</span><span class="sxs-lookup"><span data-stu-id="5080d-1837">Excel</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-1804">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1804">Resolved issues</span></span>
+### <a name="project"></a><span data-ttu-id="1a0ed-1805">Project</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1805">Project</span></span>
 
-- <span data-ttu-id="5080d-1838">원본 주소록이 닫힌 경우 외부 링크가 채우기에 업데이트되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1838">Addressed an issue where external links don't update on fill if the source book is closed.</span></span>
-
-### <a name="outlook"></a><span data-ttu-id="5080d-1839">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-1839">Outlook</span></span>
-
-- <span data-ttu-id="5080d-1840">사용자가 종료 후 작업 관리자에 남아 있는 Outlook 프로세스를 보게 되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1840">Addressed an issue that caused users to see the Outlook process lingering in task manager after exiting.</span></span>
+- <span data-ttu-id="1a0ed-1806"><span style="display:inline !important;">실제 작업 시간을 보호하는 설정이 설정된 경우 사용자가 기간별 초기 작업 시간을 입력할 수 없는 문제가 수정되었습니다.</span></span><span class="sxs-lookup"><span data-stu-id="1a0ed-1806"><span style="display:inline !important;">Fixed an issue where the user couldn't enter time-phased Baseline Work when the setting to protect actual work is on.</span></span></span><br>
 
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
-## <a name="version-2003-march-10"></a><span data-ttu-id="5080d-1842">버전 2003: 3월 10일</span><span class="sxs-lookup"><span data-stu-id="5080d-1842">Version 2003: March 10</span></span>
-<span data-ttu-id="5080d-1843">*버전 2003(빌드 12624.20176)*</span><span class="sxs-lookup"><span data-stu-id="5080d-1843">*Version 2003 (Build 12624.20176)*</span></span>
+## <a name="version-2003-march-25"></a><span data-ttu-id="1a0ed-1808">버전 2003: 3월 25일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1808">Version 2003: March 25</span></span>
+<span data-ttu-id="1a0ed-1809">*버전 2003 (빌드 12624.20320)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1809">*Version 2003 (Build 12624.20320)*</span></span>
 
-<span data-ttu-id="5080d-1844">나열된 보안 업데이트는 [여기](./microsoft365-apps-security-updates.md)</span><span class="sxs-lookup"><span data-stu-id="5080d-1844">Security updates listed [here](./microsoft365-apps-security-updates.md)</span></span>
+- <span data-ttu-id="1a0ed-1810">다양한 버그 및 성능 수정 사항.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1810">Various bugs and performance fixes.</span></span>
+
+## <a name="version-2003-march-23"></a><span data-ttu-id="1a0ed-1811">버전 2003: 3월 23일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1811">Version 2003: March 23</span></span>
+<span data-ttu-id="1a0ed-1812">*버전 2003 (빌드 12624.20296)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1812">*Version 2003 (Build 12624.20296)*</span></span>
+
+- <span data-ttu-id="1a0ed-1813">다양한 버그 및 성능 수정 사항.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1813">Various bugs and performance fixes.</span></span>
+
+## <a name="version-2003-march-21"></a><span data-ttu-id="1a0ed-1814">버전 2003: 3월 21일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1814">Version 2003: March 21</span></span>
+<span data-ttu-id="1a0ed-1815">*버전 2003 (빌드 12624.20276)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1815">*Version 2003 (Build 12624.20276)*</span></span>
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a><span data-ttu-id="1a0ed-1817">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1817">Feature updates</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-1818">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1818">Outlook</span></span>
+
+- <span data-ttu-id="1a0ed-1819">**받은 편지함을 벗어나지 않고 모임 참가:** 온라인 모임에 참가하기 위해 일정으로 전환할 필요가 없습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1819">**Join meetings without leaving your inbox:** No need to switch to your calendar to join online meetings.</span></span> <span data-ttu-id="1a0ed-1820">일정을 할 일 창에 고정하고 클릭 한 번만으로 모든 모임에 참여하세요.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1820">With the Calendar pinned to the To-Do pane, join any meeting with just one click.</span></span>
+
+- <span data-ttu-id="1a0ed-1821">**완전히 새로워진 일정:** 지난 해, Microsoft는 새로워진 메일 환경을 제공했으며, 올해에는 일정이 새롭게 바뀌었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1821">**Calendar visual refresh:** Last year, we brought you a refreshed mail experience, and, this year, it is the calendar’s turn to get a facelift!</span></span> <span data-ttu-id="1a0ed-1822">업데이트가 새로 제공되지만 노련한 Outlook 사용자에게는 익숙하므로 바로 시작하여 생산성을 높일 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1822">The updates are fresh but familiar so, as a seasoned Outlook user, you can jump in and be more productive right away.</span></span>
+
+### <a name="powerpoint"></a><span data-ttu-id="1a0ed-1823">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1823">PowerPoint</span></span>
+
+- <span data-ttu-id="1a0ed-1824">**슬라이드 쇼 중에 슬라이드 업데이트:** 프레젠테이션을 진행하는 동안 다른 작성자가 변경한 슬라이드를 업데이트합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1824">**Update slides during slide show:** Update slides changed by other authors during your presentation.</span></span>
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2003-march-16"></a><span data-ttu-id="1a0ed-1826">버전 2003: 3월 16일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1826">Version 2003: March 16</span></span>
+<span data-ttu-id="1a0ed-1827">*버전 2003 (빌드 12624.20224)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1827">*Version 2003 (Build 12624.20224)*</span></span>
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a><span data-ttu-id="1a0ed-1829">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1829">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="1a0ed-1830">Excel</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1830">Excel</span></span>
+
+- <span data-ttu-id="1a0ed-1831">**완벽한 색상 선택:** 16진 색상 코드를 사용하여 글꼴, 텍스트 강조 등 원하는 색상을 정확하게 선택하세요.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1831">**Pick the perfect color:** Use hex color codes to choose exactly the color you want for your font, text highlight, and more.</span></span>
+
+### <a name="outlook"></a><span data-ttu-id="1a0ed-1832">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1832">Outlook</span></span>
+
+- <span data-ttu-id="1a0ed-1833">**완벽한 색상 선택:** 16진 색상 코드를 사용하여 글꼴, 텍스트 강조 등 원하는 색상을 정확하게 선택하세요.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1833">**Pick the perfect color:** Use hex color codes to choose exactly the color you want for your font, text highlight, and more.</span></span>
+
+### <a name="powerpoint"></a><span data-ttu-id="1a0ed-1834">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1834">PowerPoint</span></span>
+
+- <span data-ttu-id="1a0ed-1835">**완벽한 색상 선택:** 16진 색상 코드를 사용하여 글꼴, 텍스트 강조 등 원하는 색상을 정확하게 선택하세요.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1835">**Pick the perfect color:** Use hex color codes to choose exactly the color you want for your font, text highlight, and more.</span></span>
+
+### <a name="word"></a><span data-ttu-id="1a0ed-1836">Word</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1836">Word</span></span>
+
+- <span data-ttu-id="1a0ed-1837">**완벽한 색상 선택:** 16진 색상 코드를 사용하여 글꼴, 텍스트 강조 등 원하는 색상을 정확하게 선택하세요.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1837">**Pick the perfect color:** Use hex color codes to choose exactly the color you want for your font, text highlight, and more.</span></span>
+
+### <a name="office-suite"></a><span data-ttu-id="1a0ed-1838">Office 제품군</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1838">Office Suite</span></span>
+
+- <span data-ttu-id="1a0ed-1839">**탭 창:** 이제 앱의 오른쪽에 있는 탭 UI를 사용하여 여러 창 간에 전환할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1839">**Tabbed Panes:** Now you can switch between multiple panes using a tab UI on the right hand side of the app.</span></span> <span data-ttu-id="1a0ed-1840">UI는 2개 이상의 창이 열려있는 경우에만 표시됩니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1840">The UI will only be visible when you have 2+ panes open.</span></span>
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
-### <a name="feature-updates"></a><span data-ttu-id="5080d-1846">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="5080d-1846">Feature updates</span></span>
-### <a name="excel"></a><span data-ttu-id="5080d-1847">Excel</span><span class="sxs-lookup"><span data-stu-id="5080d-1847">Excel</span></span>
-- <span data-ttu-id="5080d-1848">**민감도 레이블**: 조직에서 사용자 지정 권한에 대한 메시지를 표시하도록 구성한 민감도 레이블을 적용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1848">**Sensitivity labels**: You can now apply a sensitivity label that your organization has configured to prompt you for custom permissions.</span></span> [<span data-ttu-id="5080d-1849">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="5080d-1849">Learn more</span></span>](/microsoft-365/compliance/encryption-sensitivity-labels?preserve-view=true&view=o365-worldwide#let-users-assign-permissions)
 
-### <a name="powerpoint"></a><span data-ttu-id="5080d-1850">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="5080d-1850">PowerPoint</span></span>
-- <span data-ttu-id="5080d-1851">**민감도 레이블**: 조직에서 사용자 지정 권한에 대한 메시지를 표시하도록 구성한 민감도 레이블을 적용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1851">**Sensitivity labels**: You can now apply a sensitivity label that your organization has configured to prompt you for custom permissions.</span></span> [<span data-ttu-id="5080d-1852">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="5080d-1852">Learn more</span></span>](/microsoft-365/compliance/encryption-sensitivity-labels?preserve-view=true&view=o365-worldwide#let-users-assign-permissions)
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-1843">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1843">Resolved issues</span></span>
+### <a name="excel"></a><span data-ttu-id="1a0ed-1844">Excel</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1844">Excel</span></span>
 
-### <a name="word"></a><span data-ttu-id="5080d-1853">Word</span><span class="sxs-lookup"><span data-stu-id="5080d-1853">Word</span></span>
-- <span data-ttu-id="5080d-1854">**민감도 레이블**: 조직에서 사용자 지정 권한에 대한 메시지를 표시하도록 구성한 민감도 레이블을 적용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1854">**Sensitivity labels**: You can now apply a sensitivity label that your organization has configured to prompt you for custom permissions.</span></span> [<span data-ttu-id="5080d-1855">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="5080d-1855">Learn more</span></span>](/microsoft-365/compliance/encryption-sensitivity-labels?preserve-view=true&view=o365-worldwide#let-users-assign-permissions)
+- <span data-ttu-id="1a0ed-1845">원본 주소록이 닫힌 경우 외부 링크가 채우기에 업데이트되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1845">Addressed an issue where external links don't update on fill if the source book is closed.</span></span>
+
+### <a name="outlook"></a><span data-ttu-id="1a0ed-1846">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1846">Outlook</span></span>
+
+- <span data-ttu-id="1a0ed-1847">사용자가 종료 후 작업 관리자에 남아 있는 Outlook 프로세스를 보게 되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1847">Addressed an issue that caused users to see the Outlook process lingering in task manager after exiting.</span></span>
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2003-march-10"></a><span data-ttu-id="1a0ed-1849">버전 2003: 3월 10일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1849">Version 2003: March 10</span></span>
+<span data-ttu-id="1a0ed-1850">*버전 2003(빌드 12624.20176)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1850">*Version 2003 (Build 12624.20176)*</span></span>
+
+<span data-ttu-id="1a0ed-1851">나열된 보안 업데이트는 [여기](./microsoft365-apps-security-updates.md)</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1851">Security updates listed [here](./microsoft365-apps-security-updates.md)</span></span>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+### <a name="feature-updates"></a><span data-ttu-id="1a0ed-1853">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1853">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="1a0ed-1854">Excel</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1854">Excel</span></span>
+- <span data-ttu-id="1a0ed-1855">**민감도 레이블**: 조직에서 사용자 지정 권한에 대한 메시지를 표시하도록 구성한 민감도 레이블을 적용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1855">**Sensitivity labels**: You can now apply a sensitivity label that your organization has configured to prompt you for custom permissions.</span></span> [<span data-ttu-id="1a0ed-1856">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1856">Learn more</span></span>](/microsoft-365/compliance/encryption-sensitivity-labels?preserve-view=true&view=o365-worldwide#let-users-assign-permissions)
+
+### <a name="powerpoint"></a><span data-ttu-id="1a0ed-1857">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1857">PowerPoint</span></span>
+- <span data-ttu-id="1a0ed-1858">**민감도 레이블**: 조직에서 사용자 지정 권한에 대한 메시지를 표시하도록 구성한 민감도 레이블을 적용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1858">**Sensitivity labels**: You can now apply a sensitivity label that your organization has configured to prompt you for custom permissions.</span></span> [<span data-ttu-id="1a0ed-1859">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1859">Learn more</span></span>](/microsoft-365/compliance/encryption-sensitivity-labels?preserve-view=true&view=o365-worldwide#let-users-assign-permissions)
+
+### <a name="word"></a><span data-ttu-id="1a0ed-1860">Word</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1860">Word</span></span>
+- <span data-ttu-id="1a0ed-1861">**민감도 레이블**: 조직에서 사용자 지정 권한에 대한 메시지를 표시하도록 구성한 민감도 레이블을 적용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1861">**Sensitivity labels**: You can now apply a sensitivity label that your organization has configured to prompt you for custom permissions.</span></span> [<span data-ttu-id="1a0ed-1862">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1862">Learn more</span></span>](/microsoft-365/compliance/encryption-sensitivity-labels?preserve-view=true&view=o365-worldwide#let-users-assign-permissions)
 </br>
 
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-1856">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-1856">Resolved issues</span></span>
-### <a name="excel"></a><span data-ttu-id="5080d-1857">Excel</span><span class="sxs-lookup"><span data-stu-id="5080d-1857">Excel</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-1863">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1863">Resolved issues</span></span>
+### <a name="excel"></a><span data-ttu-id="1a0ed-1864">Excel</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1864">Excel</span></span>
 
-- <span data-ttu-id="5080d-1858">File \ Options 대화 상자의 '확인' 단추가 회색으로 표시되고 기능에는 영향을 미치지 않는 외관상의 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1858">Fixed a cosmetic issue where the 'OK' button on the File \ Options dialog displayed as being grayed out but functionality was not impacted.</span></span>
+- <span data-ttu-id="1a0ed-1865">File \ Options 대화 상자의 '확인' 단추가 회색으로 표시되고 기능에는 영향을 미치지 않는 외관상의 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1865">Fixed a cosmetic issue where the 'OK' button on the File \ Options dialog displayed as being grayed out but functionality was not impacted.</span></span>
 
-- <span data-ttu-id="5080d-1859">피벗 테이블 측정의 이름을 바꿀 때 사용자가 겪을 수 있는 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1859">Fixed an issue that users may have experienced when renaming pivot table measures.</span></span>
+- <span data-ttu-id="1a0ed-1866">피벗 테이블 측정의 이름을 바꿀 때 사용자가 겪을 수 있는 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1866">Fixed an issue that users may have experienced when renaming pivot table measures.</span></span>
 
-- <span data-ttu-id="5080d-1860">인쇄 미리 보기에서 슬라이서의 텍스트 크기가 제대로 조정되지 않는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1860">Fixed an issue where text in a slicer isn't scaled properly in Print Preview.</span></span>
+- <span data-ttu-id="1a0ed-1867">인쇄 미리 보기에서 슬라이서의 텍스트 크기가 제대로 조정되지 않는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1867">Fixed an issue where text in a slicer isn't scaled properly in Print Preview.</span></span>
 
-- <span data-ttu-id="5080d-1861">VBA 매크로를 사용하여 범위의 내용을 지우면 사용자가 경험할 수 있는 성능 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1861">Fixed a performance issue that users may have experienced when using a VBA macro to clear the contents of a range.</span></span>
+- <span data-ttu-id="1a0ed-1868">VBA 매크로를 사용하여 범위의 내용을 지우면 사용자가 경험할 수 있는 성능 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1868">Fixed a performance issue that users may have experienced when using a VBA macro to clear the contents of a range.</span></span>
 
-- <span data-ttu-id="5080d-1862">사용자가 리본과 상호 작용하는 매크로를 실행할 때 UI가 깜박이는 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1862">Fixed an issue that caused the UI to flash when users executed a macro that interacted with the ribbon.</span></span>
+- <span data-ttu-id="1a0ed-1869">사용자가 리본과 상호 작용하는 매크로를 실행할 때 UI가 깜박이는 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1869">Fixed an issue that caused the UI to flash when users executed a macro that interacted with the ribbon.</span></span>
 
-- <span data-ttu-id="5080d-1863">파일의 첫 단어가 TABLE 인 경우 CSV 파일이 잘못 로드되는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1863">Fixed an issue where CSV files were loaded incorrectly when the first word in the file was TABLE.</span></span>
+- <span data-ttu-id="1a0ed-1870">파일의 첫 단어가 TABLE 인 경우 CSV 파일이 잘못 로드되는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1870">Fixed an issue where CSV files were loaded incorrectly when the first word in the file was TABLE.</span></span>
 
-- <span data-ttu-id="5080d-1864">확대/축소 수준이 다른 두 통합 문서 간에 전환할 때 사용자가 충돌을 경험할 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1864">Fixed an issue where users may have experienced crashes when switching between two workbooks that had different zoom levels.</span></span>
+- <span data-ttu-id="1a0ed-1871">확대/축소 수준이 다른 두 통합 문서 간에 전환할 때 사용자가 충돌을 경험할 수 있는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1871">Fixed an issue where users may have experienced crashes when switching between two workbooks that had different zoom levels.</span></span>
 
-- <span data-ttu-id="5080d-1865">CUBEVALUE 함수가 때때로 잘못된 결과를 반환하는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1865">Fixed an issue where CUBEVALUE functions would sometimes return an incorrect result.</span></span>
+- <span data-ttu-id="1a0ed-1872">CUBEVALUE 함수가 때때로 잘못된 결과를 반환하는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1872">Fixed an issue where CUBEVALUE functions would sometimes return an incorrect result.</span></span>
 
-- <span data-ttu-id="5080d-1866">이번 변경으로 추가 기능에서 noSelect 잠금을 사용하는 도형이 포함된 문서/통합 문서의 호스트 항목을 요청하는 경우 발생하는 앱(Excel, Word)의 잠재적인 충돌 및 개체 모델의 런타임 오류가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1866">This change addresses a run-time error in the object model and potential crash of the App (Excel, Word) when Add-ins ask for Host Items on documents/worksheets that contain shapes with noSelect locks.</span></span>
+- <span data-ttu-id="1a0ed-1873">이번 변경으로 추가 기능에서 noSelect 잠금을 사용하는 도형이 포함된 문서/통합 문서의 호스트 항목을 요청하는 경우 발생하는 앱(Excel, Word)의 잠재적인 충돌 및 개체 모델의 런타임 오류가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1873">This change addresses a run-time error in the object model and potential crash of the App (Excel, Word) when Add-ins ask for Host Items on documents/worksheets that contain shapes with noSelect locks.</span></span>
 
-- <span data-ttu-id="5080d-1867">설정을 동기화하는 경우 Outlook 사용자에게 충돌이 발생하는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1867">Addresses an issue that caused Outlook users to experience a crash when synchronizing settings.</span></span>
-
-
-
-### <a name="outlook"></a><span data-ttu-id="5080d-1868">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-1868">Outlook</span></span>
-
-- <span data-ttu-id="5080d-1869">Outlook Web Access로 규칙을 만들 때 Exchange 서버에 유지되지 않아 충돌이 발생하는 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1869">Fixed an issue where creating a rule with Outlook Web Access did not persist to the Exchange server and resulted in a conflict.</span></span>
-
-- <span data-ttu-id="5080d-1870">설정을 동기화하는 경우 Outlook 사용자에게 충돌이 발생하는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1870">Addressed an issue that caused Outlook users to experience a crash when synchronizing settings.</span></span>
-
-- <span data-ttu-id="5080d-1871">어두운 모드의 Outlook에서 '보낸 사람:' 입력란에 드롭다운 목록이 표시되지 않는 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1871">Fixed an issue with Outlook in dark mode would not display the drop down list in the 'From:' field.</span></span>
-
-- <span data-ttu-id="5080d-1872">로깅이 꺼져 있어도 일부 시나리오에서 Outlook이 예기치 않게 로깅 출력을 생성하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1872">Addressed an issue that caused Outlook to unexpectedly generate logging output in some scenarios, even when logging was turned off.</span></span>
-
-- <span data-ttu-id="5080d-1873">Outlook이 밤새 실행 중인 상태에서 사용자가 공용 폴더 메시지를 열 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1873">Addressed an issue that caused users to be unable to open public folder messages when Outlook was left running overnight.</span></span>
-
-- <span data-ttu-id="5080d-1874">Gmail 계정 추가의 인증 작업 과정에서 권한 페이지의 '허용' 및 '거부' 버튼이 비활성화되는 경합 상태를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1874">Fixed a race condition where the 'Allow' and 'Deny' buttons on the permissions page are disabled during the authentication workflow of adding a Gmail account.</span></span>
-
-- <span data-ttu-id="5080d-1875">사용자가 &quot;약속 있음/없음 옵션&quot; 일정 권한 대화 상자에 액세스하지 못하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1875">Addressed an issue that caused users to lose access to the &quot;Free Busy Options&quot; calendar permissions dialog.</span></span>
-
-- <span data-ttu-id="5080d-1876">다른 시간대에서 보낸 되풀이 모임 인스턴스를 열 때 &quot;죄송합니다. 이 항목을 여는 데 문제가 있습니다&quot;라는 경고가 표시되는 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1876">Fixed an issue that may result in the alert: &quot;Sorry we're having trouble opening this item&quot; when opening some recurring meeting instances sent from a different time zone.</span></span>
-
-- <span data-ttu-id="5080d-1877">해당 메시지에서 첨부 파일을 끌어서 놓은 후 사용자가 .msg 파일을 다시 열 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1877">Addressed an issue that could cause users to be unable to reopen a .msg file after dragging and dropping an attachment from that message.</span></span>
-
-- <span data-ttu-id="5080d-1878">첨부 파일 이름에 괄호가 포함된 경우 Outlook에서 OneDrive로 파일 첨부 파일을 업로드한 후 파일 이름이 변경될 수 있는 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1878">Fixed an issue where after uploading a file attachment from Outlook to OneDrive could result in the file name being changed if the attachment's name contained parenthesis.</span></span>
-
-- <span data-ttu-id="5080d-1879">사용자가 다른 응용 프로그램에서 파일을 열 때 파일 탐색기를 통해 파일을 전자 메일 메시지에 첨부할 수 없는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1879">Addressed an issue that caused users to be unable to attach a file to their mail message via the file explorer when that file was open in another application.</span></span>
-
-- <span data-ttu-id="5080d-1880">설정을 동기화하는 경우 Outlook 사용자에게 충돌이 발생하는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1880">Addressed an issue that caused Outlook users to experience a crash when synchronizing settings.</span></span>
-
-### <a name="powerpoint"></a><span data-ttu-id="5080d-1881">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="5080d-1881">PowerPoint</span></span>
-
-- <span data-ttu-id="5080d-1882">축소판 그림 위로 마우스를 가져가면 권장 축소판 그림이 깜박이는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1882">Fixed an issue where the recommended thumbnails flash when hovering your mouse over the thumbnails.</span></span> <span data-ttu-id="5080d-1883">경우에 따라 PowerPoint가 중단될 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1883">In some cases this could cause PowerPoint to crash.</span></span>
-
-- <span data-ttu-id="5080d-1884">File \ Options 대화 상자의 '확인' 단추가 회색으로 표시되고 기능에는 영향을 미치지 않는 외관상의 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1884">Fixed a cosmetic issue where the 'OK' button on the File \ Options dialog displayed as being grayed out but functionality was not impacted.</span></span>
-
-- <span data-ttu-id="5080d-1885">Excel 차트가 포함된 PowerPoint 또는 Word에서 문서를 저장하지 못하는 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1885">Fixed an issue that could result in a failure to save a document in PowerPoint or Word containing an Excel chart.</span></span>
+- <span data-ttu-id="1a0ed-1874">설정을 동기화하는 경우 Outlook 사용자에게 충돌이 발생하는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1874">Addresses an issue that caused Outlook users to experience a crash when synchronizing settings.</span></span>
 
 
 
-### <a name="project"></a><span data-ttu-id="5080d-1886">Project</span><span class="sxs-lookup"><span data-stu-id="5080d-1886">Project</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-1875">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1875">Outlook</span></span>
 
-- <span data-ttu-id="5080d-1887">작업이 완료됨으로 표시된 후 작업 완료율이 100%보다 낮은 값으로 잘못 변경되는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1887">Fixed an issue where task percent complete was incorrectly changing to a value less than 100% complete after it was marked complete.</span></span>
+- <span data-ttu-id="1a0ed-1876">Outlook Web Access로 규칙을 만들 때 Exchange 서버에 유지되지 않아 충돌이 발생하는 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1876">Fixed an issue where creating a rule with Outlook Web Access did not persist to the Exchange server and resulted in a conflict.</span></span>
 
-- <span data-ttu-id="5080d-1888">OpenUndoTransaction 메소드를 먼저 실행하지 않으면 OnUndoOrRedo 이벤트가 시작되지 않는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1888">Fixed an issue where the OnUndoOrRedo event doesn't fire without first running the OpenUndoTransaction method.</span></span>
+- <span data-ttu-id="1a0ed-1877">설정을 동기화하는 경우 Outlook 사용자에게 충돌이 발생하는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1877">Addressed an issue that caused Outlook users to experience a crash when synchronizing settings.</span></span>
 
-- <span data-ttu-id="5080d-1889">요약 작업 날짜가 가끔 제대로 계산되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1889">Fixed an issue where summary task dates weren't always getting calculated correctly.</span></span>
+- <span data-ttu-id="1a0ed-1878">어두운 모드의 Outlook에서 '보낸 사람:' 입력란에 드롭다운 목록이 표시되지 않는 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1878">Fixed an issue with Outlook in dark mode would not display the drop down list in the 'From:' field.</span></span>
 
-### <a name="visio"></a><span data-ttu-id="5080d-1890">Visio</span><span class="sxs-lookup"><span data-stu-id="5080d-1890">Visio</span></span>
+- <span data-ttu-id="1a0ed-1879">로깅이 꺼져 있어도 일부 시나리오에서 Outlook이 예기치 않게 로깅 출력을 생성하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1879">Addressed an issue that caused Outlook to unexpectedly generate logging output in some scenarios, even when logging was turned off.</span></span>
 
-- <span data-ttu-id="5080d-1891">Visio 데스크톱에서 연 파일의 경우, 셰이프 정보 창에서 셰이프 데이터 구역에 일관성이 없는 세부 정보가 표시되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1891">Shape info pane was showing inconsistent details under Shape Data section, with respect to the file when opened in Visio Desktop.</span></span> <span data-ttu-id="5080d-1892">이제 이 문제가 해결었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1892">It has now been fixed.</span></span>
+- <span data-ttu-id="1a0ed-1880">Outlook이 밤새 실행 중인 상태에서 사용자가 공용 폴더 메시지를 열 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1880">Addressed an issue that caused users to be unable to open public folder messages when Outlook was left running overnight.</span></span>
 
-- <span data-ttu-id="5080d-1893">몇 가지 보안 검사로 인해 2016 이전 버전에서 가져온 비트맵이 렌더링되지 않았습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1893">Bitmaps imported in versions before 2016 were not being rendered due to some security checks.</span></span> <span data-ttu-id="5080d-1894">Visio 구독에서 이 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1894">We have fixed this issue in Visio Subscription.</span></span>
+- <span data-ttu-id="1a0ed-1881">Gmail 계정 추가의 인증 작업 과정에서 권한 페이지의 '허용' 및 '거부' 버튼이 비활성화되는 경합 상태를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1881">Fixed a race condition where the 'Allow' and 'Deny' buttons on the permissions page are disabled during the authentication workflow of adding a Gmail account.</span></span>
 
-### <a name="word"></a><span data-ttu-id="5080d-1895">Word</span><span class="sxs-lookup"><span data-stu-id="5080d-1895">Word</span></span>
+- <span data-ttu-id="1a0ed-1882">사용자가 &quot;약속 있음/없음 옵션&quot; 일정 권한 대화 상자에 액세스하지 못하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1882">Addressed an issue that caused users to lose access to the &quot;Free Busy Options&quot; calendar permissions dialog.</span></span>
 
-- <span data-ttu-id="5080d-1896">마우스 포인터가 주석 카드 위로 마우스를 가져갈 때 주석 카드가 항상 강조 표시되지 않는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1896">Fixed an issue where comment cards don't always get highlighted when a mouse pointer hovers over the comment card.</span></span>
+- <span data-ttu-id="1a0ed-1883">다른 시간대에서 보낸 되풀이 모임 인스턴스를 열 때 &quot;죄송합니다. 이 항목을 여는 데 문제가 있습니다&quot;라는 경고가 표시되는 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1883">Fixed an issue that may result in the alert: &quot;Sorry we're having trouble opening this item&quot; when opening some recurring meeting instances sent from a different time zone.</span></span>
 
-- <span data-ttu-id="5080d-1897">메모 카드를 탭할 때 메모 편집 상자에 포커스가 표시되지 않는 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1897">Fixed an issue that when tabbing through a comment card, the focus on the comment edit box would not be visible.</span></span>
+- <span data-ttu-id="1a0ed-1884">해당 메시지에서 첨부 파일을 끌어서 놓은 후 사용자가 .msg 파일을 다시 열 수 없는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1884">Addressed an issue that could cause users to be unable to reopen a .msg file after dragging and dropping an attachment from that message.</span></span>
 
-- <span data-ttu-id="5080d-1898">File \ Options 대화 상자의 '확인' 단추가 회색으로 표시되고 기능에는 영향을 미치지 않는 외관상의 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1898">Fixed a cosmetic issue where the 'OK' button on the File \ Options dialog displayed as being grayed out but functionality was not impacted.</span></span>
+- <span data-ttu-id="1a0ed-1885">첨부 파일 이름에 괄호가 포함된 경우 Outlook에서 OneDrive로 파일 첨부 파일을 업로드한 후 파일 이름이 변경될 수 있는 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1885">Fixed an issue where after uploading a file attachment from Outlook to OneDrive could result in the file name being changed if the attachment's name contained parenthesis.</span></span>
 
-- <span data-ttu-id="5080d-1899">문서 공동 작성 세션 중에 주석 카드에 직접 이미지를 추가하면 태그가 추가될 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1899">During an active document co-authoring session, adding an image directly in to a comment card may result in the addition of a tag.</span></span> <span data-ttu-id="5080d-1900">이 문제는 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1900">This issue has been fixed.</span></span>
+- <span data-ttu-id="1a0ed-1886">사용자가 다른 응용 프로그램에서 파일을 열 때 파일 탐색기를 통해 파일을 전자 메일 메시지에 첨부할 수 없는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1886">Addressed an issue that caused users to be unable to attach a file to their mail message via the file explorer when that file was open in another application.</span></span>
 
-- <span data-ttu-id="5080d-1901">수식에 텍스트 콘텐츠 컨트롤과 같은 컨트롤을 삽입한 다음 파일을 저장하고 열면 읽을 수 없는 콘텐츠 오류가 발생합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1901">Inserting a control (such as a Text Content Control) in an equation then saving and opening the file results in an un-readable content error.</span></span>
+- <span data-ttu-id="1a0ed-1887">설정을 동기화하는 경우 Outlook 사용자에게 충돌이 발생하는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1887">Addressed an issue that caused Outlook users to experience a crash when synchronizing settings.</span></span>
 
-- <span data-ttu-id="5080d-1902">이전에 암호로 보호된 파일을 클라우드 저장소에 저장하지 못하는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1902">Fixed an issue where saving a previously password protected file to a cloud storage would not work.</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="1a0ed-1888">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1888">PowerPoint</span></span>
 
-- <span data-ttu-id="5080d-1903">편집에 대해 보호된 문서의 비교 기능 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1903">Fixed an issue with Compare feature for documents that were protected for editing.</span></span>
+- <span data-ttu-id="1a0ed-1889">축소판 그림 위로 마우스를 가져가면 권장 축소판 그림이 깜박이는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1889">Fixed an issue where the recommended thumbnails flash when hovering your mouse over the thumbnails.</span></span> <span data-ttu-id="1a0ed-1890">경우에 따라 PowerPoint가 중단될 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1890">In some cases this could cause PowerPoint to crash.</span></span>
+
+- <span data-ttu-id="1a0ed-1891">File \ Options 대화 상자의 '확인' 단추가 회색으로 표시되고 기능에는 영향을 미치지 않는 외관상의 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1891">Fixed a cosmetic issue where the 'OK' button on the File \ Options dialog displayed as being grayed out but functionality was not impacted.</span></span>
+
+- <span data-ttu-id="1a0ed-1892">Excel 차트가 포함된 PowerPoint 또는 Word에서 문서를 저장하지 못하는 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1892">Fixed an issue that could result in a failure to save a document in PowerPoint or Word containing an Excel chart.</span></span>
+
+
+
+### <a name="project"></a><span data-ttu-id="1a0ed-1893">Project</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1893">Project</span></span>
+
+- <span data-ttu-id="1a0ed-1894">작업이 완료됨으로 표시된 후 작업 완료율이 100%보다 낮은 값으로 잘못 변경되는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1894">Fixed an issue where task percent complete was incorrectly changing to a value less than 100% complete after it was marked complete.</span></span>
+
+- <span data-ttu-id="1a0ed-1895">OpenUndoTransaction 메소드를 먼저 실행하지 않으면 OnUndoOrRedo 이벤트가 시작되지 않는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1895">Fixed an issue where the OnUndoOrRedo event doesn't fire without first running the OpenUndoTransaction method.</span></span>
+
+- <span data-ttu-id="1a0ed-1896">요약 작업 날짜가 가끔 제대로 계산되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1896">Fixed an issue where summary task dates weren't always getting calculated correctly.</span></span>
+
+### <a name="visio"></a><span data-ttu-id="1a0ed-1897">Visio</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1897">Visio</span></span>
+
+- <span data-ttu-id="1a0ed-1898">Visio 데스크톱에서 연 파일의 경우, 셰이프 정보 창에서 셰이프 데이터 구역에 일관성이 없는 세부 정보가 표시되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1898">Shape info pane was showing inconsistent details under Shape Data section, with respect to the file when opened in Visio Desktop.</span></span> <span data-ttu-id="1a0ed-1899">이제 이 문제가 해결었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1899">It has now been fixed.</span></span>
+
+- <span data-ttu-id="1a0ed-1900">몇 가지 보안 검사로 인해 2016 이전 버전에서 가져온 비트맵이 렌더링되지 않았습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1900">Bitmaps imported in versions before 2016 were not being rendered due to some security checks.</span></span> <span data-ttu-id="1a0ed-1901">Visio 구독에서 이 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1901">We have fixed this issue in Visio Subscription.</span></span>
+
+### <a name="word"></a><span data-ttu-id="1a0ed-1902">Word</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1902">Word</span></span>
+
+- <span data-ttu-id="1a0ed-1903">마우스 포인터가 주석 카드 위로 마우스를 가져갈 때 주석 카드가 항상 강조 표시되지 않는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1903">Fixed an issue where comment cards don't always get highlighted when a mouse pointer hovers over the comment card.</span></span>
+
+- <span data-ttu-id="1a0ed-1904">메모 카드를 탭할 때 메모 편집 상자에 포커스가 표시되지 않는 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1904">Fixed an issue that when tabbing through a comment card, the focus on the comment edit box would not be visible.</span></span>
+
+- <span data-ttu-id="1a0ed-1905">File \ Options 대화 상자의 '확인' 단추가 회색으로 표시되고 기능에는 영향을 미치지 않는 외관상의 문제가 수정되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1905">Fixed a cosmetic issue where the 'OK' button on the File \ Options dialog displayed as being grayed out but functionality was not impacted.</span></span>
+
+- <span data-ttu-id="1a0ed-1906">문서 공동 작성 세션 중에 주석 카드에 직접 이미지를 추가하면 태그가 추가될 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1906">During an active document co-authoring session, adding an image directly in to a comment card may result in the addition of a tag.</span></span> <span data-ttu-id="1a0ed-1907">이 문제는 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1907">This issue has been fixed.</span></span>
+
+- <span data-ttu-id="1a0ed-1908">수식에 텍스트 콘텐츠 컨트롤과 같은 컨트롤을 삽입한 다음 파일을 저장하고 열면 읽을 수 없는 콘텐츠 오류가 발생합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1908">Inserting a control (such as a Text Content Control) in an equation then saving and opening the file results in an un-readable content error.</span></span>
+
+- <span data-ttu-id="1a0ed-1909">이전에 암호로 보호된 파일을 클라우드 저장소에 저장하지 못하는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1909">Fixed an issue where saving a previously password protected file to a cloud storage would not work.</span></span>
+
+- <span data-ttu-id="1a0ed-1910">편집에 대해 보호된 문서의 비교 기능 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1910">Fixed an issue with Compare feature for documents that were protected for editing.</span></span>
 
 
 
 
-### <a name="office-suite"></a><span data-ttu-id="5080d-1904">Office 제품군</span><span class="sxs-lookup"><span data-stu-id="5080d-1904">Office Suite</span></span>
+### <a name="office-suite"></a><span data-ttu-id="1a0ed-1911">Office 제품군</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1911">Office Suite</span></span>
 
-- <span data-ttu-id="5080d-1905">Word/Excel/PowerPoint 문서와 함께 Multichoice/ Lookup/Managed-metadata 속성을 사용하고 SharePoint 문서 라이브러리에 저장할 때, 이러한 속성은 이전에 255 자로 제한되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1905">When using Multichoice/Lookup/Managed-metadata properties with Word/Excel/PowerPoint documents and saving to a SharePoint Document Library, these properties were previously limited to 255 characters.</span></span> <span data-ttu-id="5080d-1906">이러한 속성이 255자를 초과하면 해당 문서를 저장할 수 없었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1906">When these properties exceeded 255 characters, such documents could not be saved.</span></span> <span data-ttu-id="5080d-1907">이 변경으로 이 제한이 2048자로 늘었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1907">With this change, this limit has been increased to 2048 characters.</span></span>
+- <span data-ttu-id="1a0ed-1912">Word/Excel/PowerPoint 문서와 함께 Multichoice/ Lookup/Managed-metadata 속성을 사용하고 SharePoint 문서 라이브러리에 저장할 때, 이러한 속성은 이전에 255 자로 제한되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1912">When using Multichoice/Lookup/Managed-metadata properties with Word/Excel/PowerPoint documents and saving to a SharePoint Document Library, these properties were previously limited to 255 characters.</span></span> <span data-ttu-id="1a0ed-1913">이러한 속성이 255자를 초과하면 해당 문서를 저장할 수 없었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1913">When these properties exceeded 255 characters, such documents could not be saved.</span></span> <span data-ttu-id="1a0ed-1914">이 변경으로 이 제한이 2048자로 늘었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1914">With this change, this limit has been increased to 2048 characters.</span></span>
 
-- <span data-ttu-id="5080d-1908">Word/Excel/PowerPoint에서 UPN(사용자 계정 이름)이 더 이상 대소문자를 구분하지 않아 SharePoint에서 파일 작업시 오류가 줄어듭니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1908">Fixed an issue Word/Excel/PowerPoint where the User Principal Name (UPN) is no longer case sensitive resulting in less failures when working with files on SharePoint.</span></span>
+- <span data-ttu-id="1a0ed-1915">Word/Excel/PowerPoint에서 UPN(사용자 계정 이름)이 더 이상 대소문자를 구분하지 않아 SharePoint에서 파일 작업시 오류가 줄어듭니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1915">Fixed an issue Word/Excel/PowerPoint where the User Principal Name (UPN) is no longer case sensitive resulting in less failures when working with files on SharePoint.</span></span>
 
-- <span data-ttu-id="5080d-1909">동일한 SharePoint 라이브러리의 Word/Excel/PowerPoint에서 여러 문서를 열 때 첫 번째로 열린 문서만 정책 준수에 대한 검사가 이뤄지는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1909">Fixed an issue when multiple documents are open in Word/Excel/PowerPoint from the same SharePoint library, only the first document opened will be scanned for Policy compliance.</span></span>
+- <span data-ttu-id="1a0ed-1916">동일한 SharePoint 라이브러리의 Word/Excel/PowerPoint에서 여러 문서를 열 때 첫 번째로 열린 문서만 정책 준수에 대한 검사가 이뤄지는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1916">Fixed an issue when multiple documents are open in Word/Excel/PowerPoint from the same SharePoint library, only the first document opened will be scanned for Policy compliance.</span></span>
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
-## <a name="version-2002-march-05"></a><span data-ttu-id="5080d-1911">버전 2002: 3월 5일</span><span class="sxs-lookup"><span data-stu-id="5080d-1911">Version 2002: March 05</span></span>
-<span data-ttu-id="5080d-1912">*버전 2002 (빌드 12527.20278)*</span><span class="sxs-lookup"><span data-stu-id="5080d-1912">*Version 2002 (Build 12527.20278)*</span></span>
+## <a name="version-2002-march-05"></a><span data-ttu-id="1a0ed-1918">버전 2002: 3월 5일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1918">Version 2002: March 05</span></span>
+<span data-ttu-id="1a0ed-1919">*버전 2002 (빌드 12527.20278)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1919">*Version 2002 (Build 12527.20278)*</span></span>
 
-- <span data-ttu-id="5080d-1913">다양한 버그 및 성능 수정 사항.</span><span class="sxs-lookup"><span data-stu-id="5080d-1913">Various bugs and performance fixes.</span></span>
+- <span data-ttu-id="1a0ed-1920">다양한 버그 및 성능 수정 사항.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1920">Various bugs and performance fixes.</span></span>
 
 
-## <a name="version-2002-march-04"></a><span data-ttu-id="5080d-1914">버전 2002: 3월 4일</span><span class="sxs-lookup"><span data-stu-id="5080d-1914">Version 2002: March 04</span></span>
-<span data-ttu-id="5080d-1915">*버전 2002 (빌드 12527.20264)*</span><span class="sxs-lookup"><span data-stu-id="5080d-1915">*Version 2002 (Build 12527.20264)*</span></span>
+## <a name="version-2002-march-04"></a><span data-ttu-id="1a0ed-1921">버전 2002: 3월 4일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1921">Version 2002: March 04</span></span>
+<span data-ttu-id="1a0ed-1922">*버전 2002 (빌드 12527.20264)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1922">*Version 2002 (Build 12527.20264)*</span></span>
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-1917">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-1917">Resolved issues</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-1924">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1924">Resolved issues</span></span>
 
-### <a name="project"></a><span data-ttu-id="5080d-1918">Project</span><span class="sxs-lookup"><span data-stu-id="5080d-1918">Project</span></span>
-- <span data-ttu-id="5080d-1919">요약 작업 날짜가 항상 제대로 계산되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1919">Fixed an issue where summary task dates weren't always getting calculated correctly.</span></span>
-
-
-### <a name="office-suite"></a><span data-ttu-id="5080d-1920">Office 제품군</span><span class="sxs-lookup"><span data-stu-id="5080d-1920">Office Suite</span></span>
-- <span data-ttu-id="5080d-1921">동일한 SharePoint 라이브러리의 Word/Excel/PowerPoint에서 여러 문서를 열 때 첫 번째로 열린 문서만 정책 준수에 대한 검사가 이뤄지는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1921">Fixes an issue when multiple documents are open in Word/Excel/PowerPoint from the same SharePoint library, only the first document opened will be scanned for Policy compliance.</span></span>
+### <a name="project"></a><span data-ttu-id="1a0ed-1925">Project</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1925">Project</span></span>
+- <span data-ttu-id="1a0ed-1926">요약 작업 날짜가 항상 제대로 계산되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1926">Fixed an issue where summary task dates weren't always getting calculated correctly.</span></span>
 
 
-
-[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
-
-## <a name="version-2002-march-01"></a><span data-ttu-id="5080d-1923">버전 2002: 3월 1일</span><span class="sxs-lookup"><span data-stu-id="5080d-1923">Version 2002: March 01</span></span>
-<span data-ttu-id="5080d-1924">*버전 2002 (빌드 12527.20242)*</span><span class="sxs-lookup"><span data-stu-id="5080d-1924">*Version 2002 (Build 12527.20242)*</span></span>
-
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-1925">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-1925">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="5080d-1926">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-1926">Outlook</span></span>
-
-- <span data-ttu-id="5080d-1927">타사 응용 프로그램에서 전자 메일을 보낼 수 없는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1927">Addresses an issue that caused third party applications to be unable to send email.</span></span>
+### <a name="office-suite"></a><span data-ttu-id="1a0ed-1927">Office 제품군</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1927">Office Suite</span></span>
+- <span data-ttu-id="1a0ed-1928">동일한 SharePoint 라이브러리의 Word/Excel/PowerPoint에서 여러 문서를 열 때 첫 번째로 열린 문서만 정책 준수에 대한 검사가 이뤄지는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1928">Fixes an issue when multiple documents are open in Word/Excel/PowerPoint from the same SharePoint library, only the first document opened will be scanned for Policy compliance.</span></span>
 
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
-## <a name="version-2002-february-24"></a><span data-ttu-id="5080d-1929">버전 2002: 2월 24일</span><span class="sxs-lookup"><span data-stu-id="5080d-1929">Version 2002: February 24</span></span>
-<span data-ttu-id="5080d-1930">*버전 2002 (빌드 12527.20194)*</span><span class="sxs-lookup"><span data-stu-id="5080d-1930">*Version 2002 (Build 12527.20194)*</span></span>
+## <a name="version-2002-march-01"></a><span data-ttu-id="1a0ed-1930">버전 2002: 3월 1일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1930">Version 2002: March 01</span></span>
+<span data-ttu-id="1a0ed-1931">*버전 2002 (빌드 12527.20242)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1931">*Version 2002 (Build 12527.20242)*</span></span>
 
-- <span data-ttu-id="5080d-1931">다양한 버그 및 성능 수정 사항.</span><span class="sxs-lookup"><span data-stu-id="5080d-1931">Various bugs and performance fixes.</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-1932">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1932">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-1933">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1933">Outlook</span></span>
 
-## <a name="version-2002-february-22"></a><span data-ttu-id="5080d-1932">버전 2002: 2월 22일</span><span class="sxs-lookup"><span data-stu-id="5080d-1932">Version 2002: February 22</span></span>
-<span data-ttu-id="5080d-1933">*버전 2002 (빌드 12527.20186)*</span><span class="sxs-lookup"><span data-stu-id="5080d-1933">*Version 2002 (Build 12527.20186)*</span></span>
+- <span data-ttu-id="1a0ed-1934">타사 응용 프로그램에서 전자 메일을 보낼 수 없는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1934">Addresses an issue that caused third party applications to be unable to send email.</span></span>
 
-- <span data-ttu-id="5080d-1934">다양한 버그 및 성능 수정 사항.</span><span class="sxs-lookup"><span data-stu-id="5080d-1934">Various bugs and performance fixes.</span></span>
 
-## <a name="version-2002-february-21"></a><span data-ttu-id="5080d-1935">버전 2002: 2월 21일</span><span class="sxs-lookup"><span data-stu-id="5080d-1935">Version 2002: February 21</span></span>
-<span data-ttu-id="5080d-1936">*버전 2002(빌드 12527.20174)*</span><span class="sxs-lookup"><span data-stu-id="5080d-1936">*Version 2002 (Build 12527.20174)*</span></span>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2002-february-24"></a><span data-ttu-id="1a0ed-1936">버전 2002: 2월 24일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1936">Version 2002: February 24</span></span>
+<span data-ttu-id="1a0ed-1937">*버전 2002 (빌드 12527.20194)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1937">*Version 2002 (Build 12527.20194)*</span></span>
+
+- <span data-ttu-id="1a0ed-1938">다양한 버그 및 성능 수정 사항.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1938">Various bugs and performance fixes.</span></span>
+
+## <a name="version-2002-february-22"></a><span data-ttu-id="1a0ed-1939">버전 2002: 2월 22일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1939">Version 2002: February 22</span></span>
+<span data-ttu-id="1a0ed-1940">*버전 2002 (빌드 12527.20186)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1940">*Version 2002 (Build 12527.20186)*</span></span>
+
+- <span data-ttu-id="1a0ed-1941">다양한 버그 및 성능 수정 사항.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1941">Various bugs and performance fixes.</span></span>
+
+## <a name="version-2002-february-21"></a><span data-ttu-id="1a0ed-1942">버전 2002: 2월 21일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1942">Version 2002: February 21</span></span>
+<span data-ttu-id="1a0ed-1943">*버전 2002(빌드 12527.20174)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1943">*Version 2002 (Build 12527.20174)*</span></span>
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="feature-updates"></a><span data-ttu-id="5080d-1938">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="5080d-1938">Feature updates</span></span>
-### <a name="access"></a><span data-ttu-id="5080d-1939">Access</span><span class="sxs-lookup"><span data-stu-id="5080d-1939">Access</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="1a0ed-1945">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1945">Feature updates</span></span>
+### <a name="access"></a><span data-ttu-id="1a0ed-1946">Access</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1946">Access</span></span>
 
-- <span data-ttu-id="5080d-1940">**Query Designer, SQL 보기 및 관계 창에서 생산성을 향상시킬 수 있습니다.** 테이블을 마우스 오른쪽 단추로 클릭하여 열고 디자인하고 크기를 조정하고 숨겨보세요.</span><span class="sxs-lookup"><span data-stu-id="5080d-1940">**Be more productive working in Query Designer, SQL view, and the Relationships window:** Right-click a table to open, design, size, and hide it.</span></span> <span data-ttu-id="5080d-1941">SQL 보기에서 텍스트를 검색하고 바꾸세요.</span><span class="sxs-lookup"><span data-stu-id="5080d-1941">Search and replace text in SQL View.</span></span> <span data-ttu-id="5080d-1942">관계 창에서 테이블을 여러 개 선택하세요.</span><span class="sxs-lookup"><span data-stu-id="5080d-1942">Select multiple tables in the Relationships window.</span></span>
+- <span data-ttu-id="1a0ed-1947">**Query Designer, SQL 보기 및 관계 창에서 생산성을 향상시킬 수 있습니다.** 테이블을 마우스 오른쪽 단추로 클릭하여 열고 디자인하고 크기를 조정하고 숨겨보세요.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1947">**Be more productive working in Query Designer, SQL view, and the Relationships window:** Right-click a table to open, design, size, and hide it.</span></span> <span data-ttu-id="1a0ed-1948">SQL 보기에서 텍스트를 검색하고 바꾸세요.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1948">Search and replace text in SQL View.</span></span> <span data-ttu-id="1a0ed-1949">관계 창에서 테이블을 여러 개 선택하세요.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1949">Select multiple tables in the Relationships window.</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="5080d-1943">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-1943">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-1950">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1950">Outlook</span></span>
 
-- <span data-ttu-id="5080d-1944">**종속적인 Wi-Fi 네트워크에 대한 새로운 경험:** 로그인하기 위해 웹 페이지가 필요한 Wi-Fi 네트워크에 가입한 적이 있습니까?</span><span class="sxs-lookup"><span data-stu-id="5080d-1944">**New experience for captive wifi networks:** Have you ever joined a wifi network that required a web page to sign in with?</span></span> <span data-ttu-id="5080d-1945">이제 Outlook이 이를 감지하여 연결하는 데 도움을 줍니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1945">Outlook now detects this and helps you get connected.</span></span>
+- <span data-ttu-id="1a0ed-1951">**종속적인 Wi-Fi 네트워크에 대한 새로운 경험:** 로그인하기 위해 웹 페이지가 필요한 Wi-Fi 네트워크에 가입한 적이 있습니까?</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1951">**New experience for captive wifi networks:** Have you ever joined a wifi network that required a web page to sign in with?</span></span> <span data-ttu-id="1a0ed-1952">이제 Outlook이 이를 감지하여 연결하는 데 도움을 줍니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1952">Outlook now detects this and helps you get connected.</span></span>
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -3774,55 +3784,55 @@ ms.locfileid: "51749066"
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-1948">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-1948">Resolved issues</span></span>
-### <a name="excel"></a><span data-ttu-id="5080d-1949">Excel</span><span class="sxs-lookup"><span data-stu-id="5080d-1949">Excel</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-1955">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1955">Resolved issues</span></span>
+### <a name="excel"></a><span data-ttu-id="1a0ed-1956">Excel</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1956">Excel</span></span>
 
-- <div style="box-sizing:border-box;"><span data-ttu-id="5080d-1950">CUBEVALUE 함수가 때때로 잘못된 결과를 반환하는 문제가 해결되었습니다.&nbsp;<span style="display:inline !important;"></span></span><span class="sxs-lookup"><span data-stu-id="5080d-1950">Fixed an issue where CUBEVALUE functions would sometimes return an incorrect result.&nbsp;<span style="display:inline !important;"></span></span></span><br>
-
-
-### <a name="outlook"></a><span data-ttu-id="5080d-1951">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-1951">Outlook</span></span>
-
-- <span data-ttu-id="5080d-1952">모임 위치 필드의 쉼표가 세미콜론으로 바뀌는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1952">Addresses an issue that caused commas in the location field of a meeting to turn into semicolons.</span></span>
+- <div style="box-sizing:border-box;"><span data-ttu-id="1a0ed-1957">CUBEVALUE 함수가 때때로 잘못된 결과를 반환하는 문제가 해결되었습니다.&nbsp;<span style="display:inline !important;"></span></span><span class="sxs-lookup"><span data-stu-id="1a0ed-1957">Fixed an issue where CUBEVALUE functions would sometimes return an incorrect result.&nbsp;<span style="display:inline !important;"></span></span></span><br>
 
 
-- <span data-ttu-id="5080d-1953">여러 창에서 동일한 항목을 볼 때 충돌이 발생할 수 있는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1953">Addresses an issue that could result in a crash when viewing the same item in multiple windows.</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-1958">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1958">Outlook</span></span>
+
+- <span data-ttu-id="1a0ed-1959">모임 위치 필드의 쉼표가 세미콜론으로 바뀌는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1959">Addresses an issue that caused commas in the location field of a meeting to turn into semicolons.</span></span>
 
 
-- <span data-ttu-id="5080d-1954">동기화 슬라이더가 더 작은 설정으로 설정되어 있어도 Outlook이 예기치 않게 모든 메일을 동기화시키는 문제를 해결했습니다. &nbsp;</span><span class="sxs-lookup"><span data-stu-id="5080d-1954">Addresses an issue that caused Outlook to unexpectedly sync all mail even when the sync slider is set to a smaller setting.&nbsp;</span></span>
+- <span data-ttu-id="1a0ed-1960">여러 창에서 동일한 항목을 볼 때 충돌이 발생할 수 있는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1960">Addresses an issue that could result in a crash when viewing the same item in multiple windows.</span></span>
 
 
-- <span data-ttu-id="5080d-1955">검은색 테마를 사용한 사용자에게 &quot;보낸 사람&quot; 드롭다운에 흰색 배경에 흰색 텍스트가 표시되는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1955">Addresses an issue that caused users with Black Theme to see the &quot;From&quot; dropdown show white text on a white background.</span></span>
+- <span data-ttu-id="1a0ed-1961">동기화 슬라이더가 더 작은 설정으로 설정되어 있어도 Outlook이 예기치 않게 모든 메일을 동기화시키는 문제를 해결했습니다. &nbsp;</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1961">Addresses an issue that caused Outlook to unexpectedly sync all mail even when the sync slider is set to a smaller setting.&nbsp;</span></span>
 
 
-- <span data-ttu-id="5080d-1956"><span style="display:inline !important;">이 변경으로 메시지 헤더에서 여러 줄 제목을 볼 수 있습니다.</span></span><span class="sxs-lookup"><span data-stu-id="5080d-1956"><span style="display:inline !important;">This change restores the ability to view multi-line subjects in the message header.</span></span></span><br>
+- <span data-ttu-id="1a0ed-1962">검은색 테마를 사용한 사용자에게 &quot;보낸 사람&quot; 드롭다운에 흰색 배경에 흰색 텍스트가 표시되는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1962">Addresses an issue that caused users with Black Theme to see the &quot;From&quot; dropdown show white text on a white background.</span></span>
+
+
+- <span data-ttu-id="1a0ed-1963"><span style="display:inline !important;">이 변경으로 메시지 헤더에서 여러 줄 제목을 볼 수 있습니다.</span></span><span class="sxs-lookup"><span data-stu-id="1a0ed-1963"><span style="display:inline !important;">This change restores the ability to view multi-line subjects in the message header.</span></span></span><br>
 
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
-## <a name="version-2002-february-18"></a><span data-ttu-id="5080d-1958">버전 2002: 2월 18일</span><span class="sxs-lookup"><span data-stu-id="5080d-1958">Version 2002: February 18</span></span>
-<span data-ttu-id="5080d-1959">*버전 2002(빌드 12527.20138)*</span><span class="sxs-lookup"><span data-stu-id="5080d-1959">*Version 2002 (Build 12527.20138)*</span></span>
+## <a name="version-2002-february-18"></a><span data-ttu-id="1a0ed-1965">버전 2002: 2월 18일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1965">Version 2002: February 18</span></span>
+<span data-ttu-id="1a0ed-1966">*버전 2002(빌드 12527.20138)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1966">*Version 2002 (Build 12527.20138)*</span></span>
 
-## <a name="version-2002-february-11"></a><span data-ttu-id="5080d-1960">버전 2002: 2월 11일</span><span class="sxs-lookup"><span data-stu-id="5080d-1960">Version 2002: February 11</span></span>
-<span data-ttu-id="5080d-1961">*버전 2002 (빌드 12527.20092)*</span><span class="sxs-lookup"><span data-stu-id="5080d-1961">*Version 2002 (Build 12527.20092)*</span></span>
+## <a name="version-2002-february-11"></a><span data-ttu-id="1a0ed-1967">버전 2002: 2월 11일</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1967">Version 2002: February 11</span></span>
+<span data-ttu-id="1a0ed-1968">*버전 2002 (빌드 12527.20092)*</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1968">*Version 2002 (Build 12527.20092)*</span></span>
 
-<span data-ttu-id="5080d-1962">[여기](./microsoft365-apps-security-updates.md) 나열된 보안 업데이트</span><span class="sxs-lookup"><span data-stu-id="5080d-1962">Security updates listed [here](./microsoft365-apps-security-updates.md)</span></span>
+<span data-ttu-id="1a0ed-1969">[여기](./microsoft365-apps-security-updates.md) 나열된 보안 업데이트</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1969">Security updates listed [here](./microsoft365-apps-security-updates.md)</span></span>
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="feature-updates"></a><span data-ttu-id="5080d-1964">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="5080d-1964">Feature updates</span></span>
-### <a name="outlook"></a><span data-ttu-id="5080d-1965">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-1965">Outlook</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="1a0ed-1971">기능 업데이트</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1971">Feature updates</span></span>
+### <a name="outlook"></a><span data-ttu-id="1a0ed-1972">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1972">Outlook</span></span>
 
-- <span data-ttu-id="5080d-1966">**사용자가 소유한 그룹으로 전자 메일 끌기:** 메시지와 대화를 받은 편지함에서 끌어서 이동하고 복사합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1966">**Drag email to a group you own:** Move and copy messages and conversations by dragging them from your inbox.</span></span> <span data-ttu-id="5080d-1967">끌어 놓은 메시지는 모든 그룹 구성원과 공유됩니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1967">Messages you drag will be shared with all group members.</span></span>
+- <span data-ttu-id="1a0ed-1973">**사용자가 소유한 그룹으로 전자 메일 끌기:** 메시지와 대화를 받은 편지함에서 끌어서 이동하고 복사합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1973">**Drag email to a group you own:** Move and copy messages and conversations by dragging them from your inbox.</span></span> <span data-ttu-id="1a0ed-1974">끌어 놓은 메시지는 모든 그룹 구성원과 공유됩니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1974">Messages you drag will be shared with all group members.</span></span>
 
-### <a name="word"></a><span data-ttu-id="5080d-1968">Word</span><span class="sxs-lookup"><span data-stu-id="5080d-1968">Word</span></span>
+### <a name="word"></a><span data-ttu-id="1a0ed-1975">Word</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1975">Word</span></span>
 
-- <span data-ttu-id="5080d-1969">**다른 사용자가 변경 내용을 신속하게 확인할 수 있습니다.** 공동 작성 기능 향상을 통해 공동 작업자는 이전보다 훨씬 빠르게 변경 내용을 볼 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1969">**Others see your changes quickly:** Co-authoring improvements mean your collaborators can see your changes faster than ever before.</span></span>
+- <span data-ttu-id="1a0ed-1976">**다른 사용자가 변경 내용을 신속하게 확인할 수 있습니다.** 공동 작성 기능 향상을 통해 공동 작업자는 이전보다 훨씬 빠르게 변경 내용을 볼 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1976">**Others see your changes quickly:** Co-authoring improvements mean your collaborators can see your changes faster than ever before.</span></span>
 
-### <a name="office-suite"></a><span data-ttu-id="5080d-1970">Office 제품군</span><span class="sxs-lookup"><span data-stu-id="5080d-1970">Office Suite</span></span>
+### <a name="office-suite"></a><span data-ttu-id="1a0ed-1977">Office 제품군</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1977">Office Suite</span></span>
 
-- <span data-ttu-id="5080d-1971">**더 명확한 상태 표시줄 아이콘:** 상태 표시줄 아이콘을 쉽게 볼 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1971">**Clearer status bar icons:** Status bar icons are now easier to see.</span></span>
+- <span data-ttu-id="1a0ed-1978">**더 명확한 상태 표시줄 아이콘:** 상태 표시줄 아이콘을 쉽게 볼 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1978">**Clearer status bar icons:** Status bar icons are now easier to see.</span></span>
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -3831,97 +3841,97 @@ ms.locfileid: "51749066"
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-### <a name="resolved-issues"></a><span data-ttu-id="5080d-1974">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="5080d-1974">Resolved issues</span></span>
-### <a name="access"></a><span data-ttu-id="5080d-1975">Access</span><span class="sxs-lookup"><span data-stu-id="5080d-1975">Access</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="1a0ed-1981">해결된 문제</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1981">Resolved issues</span></span>
+### <a name="access"></a><span data-ttu-id="1a0ed-1982">Access</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1982">Access</span></span>
 
-- <span data-ttu-id="5080d-1976">데이터베이스 내에서 더 이상 액세스 템플릿으로 인해 첨부 열이 실패하지 않아야 합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1976">Access templates should no longer cause attachment columns to fail within a database.</span></span> <span data-ttu-id="5080d-1977">템플릿을 인스턴스화 한 후에는 데이터베이스에 첨부 파일 필드를 추가할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1977">After instantiating a template, you should now be able to add an attachment field to your database.</span></span>
+- <span data-ttu-id="1a0ed-1983">데이터베이스 내에서 더 이상 액세스 템플릿으로 인해 첨부 열이 실패하지 않아야 합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1983">Access templates should no longer cause attachment columns to fail within a database.</span></span> <span data-ttu-id="1a0ed-1984">템플릿을 인스턴스화 한 후에는 데이터베이스에 첨부 파일 필드를 추가할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1984">After instantiating a template, you should now be able to add an attachment field to your database.</span></span>
 
-- <span data-ttu-id="5080d-1978">이 업데이트는 ADODB 사용시 발생하는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1978">This update fixes an issue where using an ADODB.</span></span> <span data-ttu-id="5080d-1979">VB 코드의 레코더 개체에서 오류가 잘못 보고될 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1979">Recorder object in VB code may incorrectly report an error.</span></span>
+- <span data-ttu-id="1a0ed-1985">이 업데이트는 ADODB 사용시 발생하는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1985">This update fixes an issue where using an ADODB.</span></span> <span data-ttu-id="1a0ed-1986">VB 코드의 레코더 개체에서 오류가 잘못 보고될 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1986">Recorder object in VB code may incorrectly report an error.</span></span>
 
-- <span data-ttu-id="5080d-1980">이 업데이트는 Microsoft Access에서 연결된 SQL Server 테이블의 ID 열이 식별되지 않아서 행이 올바르지 않게 삭제된 것으로 보고되는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1980">This update fixes an issue that can cause Microsoft Access to fail to identify an Identity Column in a linked SQL Server table, which can cause rows to be reported as deleted incorrectly.</span></span>
-
-
-### <a name="excel"></a><span data-ttu-id="5080d-1981">Excel</span><span class="sxs-lookup"><span data-stu-id="5080d-1981">Excel</span></span>
-
-- <span data-ttu-id="5080d-1982">상황에 맞는 메뉴에서 주석 명령이 표시되지 않는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1982">Fixed an issue where comment commands in the context menu were not being displayed.</span></span>
+- <span data-ttu-id="1a0ed-1987">이 업데이트는 Microsoft Access에서 연결된 SQL Server 테이블의 ID 열이 식별되지 않아서 행이 올바르지 않게 삭제된 것으로 보고되는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1987">This update fixes an issue that can cause Microsoft Access to fail to identify an Identity Column in a linked SQL Server table, which can cause rows to be reported as deleted incorrectly.</span></span>
 
 
-- <span data-ttu-id="5080d-1983">spilling 배열이 있는 셀이 있는 열로 텍스트를 변환할 때 일부 사용자에게 충돌이 발생하는 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1983">Fixed an issue that caused some users to experience crashes when converting text to columns with cells that have a spilling array.</span></span>
+### <a name="excel"></a><span data-ttu-id="1a0ed-1988">Excel</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1988">Excel</span></span>
+
+- <span data-ttu-id="1a0ed-1989">상황에 맞는 메뉴에서 주석 명령이 표시되지 않는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1989">Fixed an issue where comment commands in the context menu were not being displayed.</span></span>
 
 
-- <span data-ttu-id="5080d-1984">동적 배열에서 Text To Columns를 사용할 때 Excel이 중단되는 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1984">Fixed an issue where Excel would crash when using Text To Columns with dynamic arrays.</span></span>
-
-### <a name="outlook"></a><span data-ttu-id="5080d-1985">Outlook</span><span class="sxs-lookup"><span data-stu-id="5080d-1985">Outlook</span></span>
-
-- <span data-ttu-id="5080d-1986">월 보기를 사용하여 일정을 스크롤할 때 이전 일정 이벤트가 표시되지 않는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1986">Fixed an issue where scrolling in calendar with month view, fails to show previous calendar events.</span></span>
-
-- <span data-ttu-id="5080d-1987">왼쪽 탐색 창의 '즐겨찾는 사람’에 저장된 폴더가 간헐적으로 사라질 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1987">Folders saved in 'Favorites' in the left navigation pane may intermittently disappear.</span></span>
+- <span data-ttu-id="1a0ed-1990">spilling 배열이 있는 셀이 있는 열로 텍스트를 변환할 때 일부 사용자에게 충돌이 발생하는 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1990">Fixed an issue that caused some users to experience crashes when converting text to columns with cells that have a spilling array.</span></span>
 
 
-- <span data-ttu-id="5080d-1988">잘못된 보낸 사람 주소를 지정할 때 사용자에게 충돌이 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1988">Addressed an issue that caused users to experience a crash when specifying an invalid From address.</span></span>
+- <span data-ttu-id="1a0ed-1991">동적 배열에서 Text To Columns를 사용할 때 Excel이 중단되는 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1991">Fixed an issue where Excel would crash when using Text To Columns with dynamic arrays.</span></span>
+
+### <a name="outlook"></a><span data-ttu-id="1a0ed-1992">Outlook</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1992">Outlook</span></span>
+
+- <span data-ttu-id="1a0ed-1993">월 보기를 사용하여 일정을 스크롤할 때 이전 일정 이벤트가 표시되지 않는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1993">Fixed an issue where scrolling in calendar with month view, fails to show previous calendar events.</span></span>
+
+- <span data-ttu-id="1a0ed-1994">왼쪽 탐색 창의 '즐겨찾는 사람’에 저장된 폴더가 간헐적으로 사라질 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1994">Folders saved in 'Favorites' in the left navigation pane may intermittently disappear.</span></span>
 
 
-- <span data-ttu-id="5080d-1989">일부 시나리오에서 플래그가 지정된 항목 강조 표시를 사용하지 않도록 설정하는 옵션이 무시되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1989">Addressed an issue that caused the option to disable flagged item highlighting to fail to be respected in some scenarios.</span></span>
-
-- <span data-ttu-id="5080d-1990">계정 설정을 취소할 때 사용자에게 충돌이 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1990">Addressed an issue that caused users to experience a crash when canceling account setup.</span></span>
+- <span data-ttu-id="1a0ed-1995">잘못된 보낸 사람 주소를 지정할 때 사용자에게 충돌이 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1995">Addressed an issue that caused users to experience a crash when specifying an invalid From address.</span></span>
 
 
-- <span data-ttu-id="5080d-1991">보존 정책에 따라 만료되는 전자 메일에 두 개의 레이블이 표시되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1991">Fixed an issue where emails expiring based on a retention policy would display two labels.</span></span> <span data-ttu-id="5080d-1992">하나는 메일이 하루 내에 만료되고 다른 하나는 2일 후에 만료된다는 것을 표시합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1992">One showing that the mail will expire in one day and another displaying that it will expire in two days.</span></span>
+- <span data-ttu-id="1a0ed-1996">일부 시나리오에서 플래그가 지정된 항목 강조 표시를 사용하지 않도록 설정하는 옵션이 무시되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1996">Addressed an issue that caused the option to disable flagged item highlighting to fail to be respected in some scenarios.</span></span>
+
+- <span data-ttu-id="1a0ed-1997">계정 설정을 취소할 때 사용자에게 충돌이 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1997">Addressed an issue that caused users to experience a crash when canceling account setup.</span></span>
 
 
-- <span data-ttu-id="5080d-1993">Citrix 환경에서 30개 이상의 캘린더를 볼 때 사용자에게 충돌이 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1993">Addressed an issue that caused users to experience a crash when viewing more than 30 calendars in a Citrix environment.</span></span>
+- <span data-ttu-id="1a0ed-1998">보존 정책에 따라 만료되는 전자 메일에 두 개의 레이블이 표시되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1998">Fixed an issue where emails expiring based on a retention policy would display two labels.</span></span> <span data-ttu-id="1a0ed-1999">하나는 메일이 하루 내에 만료되고 다른 하나는 2일 후에 만료된다는 것을 표시합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-1999">One showing that the mail will expire in one day and another displaying that it will expire in two days.</span></span>
 
 
-### <a name="powerpoint"></a><span data-ttu-id="5080d-1994">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="5080d-1994">PowerPoint</span></span>
-
-- <span data-ttu-id="5080d-1995">PowerPoint 잉크 애니메이션에서 잉크가 완전히 렌더링되지 않거나 건너뛰기될 수 있는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1995">Fixed an issue where Ink may not render completely or get skipped when used in a PowerPoint ink animations.</span></span>
-
-- <span data-ttu-id="5080d-1996">이벤트 처리기가 실행 중인 경우, 파일을 닫은 후 PowerPoint에서 프레젠테이션 모음의 해당 파일을 즉시 제거하지 않는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1996">Fixed an issue where After closing a file, PowerPoint does not immediately remove it from the Presentations collection if there are any event handlers running.</span></span> <span data-ttu-id="5080d-1997">따라서 개체 모델에서 보고한 열려 있는 프레젠테이션 수가 올바르지 않아 PowerPoint가 종료되지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1997">Hence the number of open presentations reported by the object model is incorrect, and shutdown of PowerPoint is prevented.</span></span>
+- <span data-ttu-id="1a0ed-2000">Citrix 환경에서 30개 이상의 캘린더를 볼 때 사용자에게 충돌이 발생하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-2000">Addressed an issue that caused users to experience a crash when viewing more than 30 calendars in a Citrix environment.</span></span>
 
 
-- <span data-ttu-id="5080d-1998">형광펜 관련 문제를 해결했습니다. 어두운 형광펜 색상의 텍스트는 흑백 모드에서 검은 색으로 인쇄됩니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-1998">Fixed an issue with highlighter : White texts with dark highlighter colors are printed as black in Grayscale.</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="1a0ed-2001">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="1a0ed-2001">PowerPoint</span></span>
+
+- <span data-ttu-id="1a0ed-2002">PowerPoint 잉크 애니메이션에서 잉크가 완전히 렌더링되지 않거나 건너뛰기될 수 있는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-2002">Fixed an issue where Ink may not render completely or get skipped when used in a PowerPoint ink animations.</span></span>
+
+- <span data-ttu-id="1a0ed-2003">이벤트 처리기가 실행 중인 경우, 파일을 닫은 후 PowerPoint에서 프레젠테이션 모음의 해당 파일을 즉시 제거하지 않는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-2003">Fixed an issue where After closing a file, PowerPoint does not immediately remove it from the Presentations collection if there are any event handlers running.</span></span> <span data-ttu-id="1a0ed-2004">따라서 개체 모델에서 보고한 열려 있는 프레젠테이션 수가 올바르지 않아 PowerPoint가 종료되지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-2004">Hence the number of open presentations reported by the object model is incorrect, and shutdown of PowerPoint is prevented.</span></span>
 
 
-### <a name="project"></a><span data-ttu-id="5080d-1999">Project</span><span class="sxs-lookup"><span data-stu-id="5080d-1999">Project</span></span>
-
-- <span data-ttu-id="5080d-2000">고정된 기간 유형의 100% 작업이 100% 완료 미만으로 잘못 계산할 수 있는 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-2000">Fixed an issue where 100% tasks of type fixed duration may wrongly have their % complete calculated at less than 100% complete.</span></span>
+- <span data-ttu-id="1a0ed-2005">형광펜 관련 문제를 해결했습니다. 어두운 형광펜 색상의 텍스트는 흑백 모드에서 검은 색으로 인쇄됩니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-2005">Fixed an issue with highlighter : White texts with dark highlighter colors are printed as black in Grayscale.</span></span>
 
 
-### <a name="word"></a><span data-ttu-id="5080d-2001">Word</span><span class="sxs-lookup"><span data-stu-id="5080d-2001">Word</span></span>
+### <a name="project"></a><span data-ttu-id="1a0ed-2006">Project</span><span class="sxs-lookup"><span data-stu-id="1a0ed-2006">Project</span></span>
 
-- <span data-ttu-id="5080d-2002">목차를 업데이트하고 스크롤하면 때때로 문서 위에 회색 영역이 표시될 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-2002">Updating and scrolling through a table of contents may sometimes display a gray area over the document.</span></span>
-
-
-- <span data-ttu-id="5080d-2003">메모가 작성되었지만 게시되지 않고 사용자가 파일을 저장하려고 하는 경우 '찾아보기'를 사용하여 파일을 저장하지 못하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-2003">Fixed an issue where using 'Browse' to save a file did not work if a comment was written but not posted and the user tried to save the file.</span></span>
+- <span data-ttu-id="1a0ed-2007">고정된 기간 유형의 100% 작업이 100% 완료 미만으로 잘못 계산할 수 있는 문제를 수정했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-2007">Fixed an issue where 100% tasks of type fixed duration may wrongly have their % complete calculated at less than 100% complete.</span></span>
 
 
-- <span data-ttu-id="5080d-2004">메모 카드 간에 앞뒤로 이동할 때 때때로 선택 강조 표시로 처음 선택한 메모가 표시되는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-2004">Fixed an issue where going back and forth between comment cards would sometimes display the initially selected comment with a selection highlight.</span></span>
+### <a name="word"></a><span data-ttu-id="1a0ed-2008">Word</span><span class="sxs-lookup"><span data-stu-id="1a0ed-2008">Word</span></span>
+
+- <span data-ttu-id="1a0ed-2009">목차를 업데이트하고 스크롤하면 때때로 문서 위에 회색 영역이 표시될 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-2009">Updating and scrolling through a table of contents may sometimes display a gray area over the document.</span></span>
 
 
-- <span data-ttu-id="5080d-2005">메모를 편집하고 텍스트를 기울임꼴로 표시하고 게시하면 기울임꼴 서식이 손실되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-2005">Fixed an issue where italics formatting is lost after editing a comment, italicizing the text and then posting it.</span></span>
+- <span data-ttu-id="1a0ed-2010">메모가 작성되었지만 게시되지 않고 사용자가 파일을 저장하려고 하는 경우 '찾아보기'를 사용하여 파일을 저장하지 못하는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-2010">Fixed an issue where using 'Browse' to save a file did not work if a comment was written but not posted and the user tried to save the file.</span></span>
 
 
-- <span data-ttu-id="5080d-2006">반전 페이지 색이 있는 읽기 모드에서 메모 힌트가 표시되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-2006">Fixed an issue where comment hint was not visible in read mode with Inverse page color.</span></span>
+- <span data-ttu-id="1a0ed-2011">메모 카드 간에 앞뒤로 이동할 때 때때로 선택 강조 표시로 처음 선택한 메모가 표시되는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-2011">Fixed an issue where going back and forth between comment cards would sometimes display the initially selected comment with a selection highlight.</span></span>
 
 
-- <span data-ttu-id="5080d-2007">문서를 공동 작성하는 경우 루트 메모의 초안 버전이 유지되지 않는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-2007">Fixed an issue where if a document is being coauthored, the draft version of a root comment may not be preserved.</span></span>
+- <span data-ttu-id="1a0ed-2012">메모를 편집하고 텍스트를 기울임꼴로 표시하고 게시하면 기울임꼴 서식이 손실되는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-2012">Fixed an issue where italics formatting is lost after editing a comment, italicizing the text and then posting it.</span></span>
 
 
-- <span data-ttu-id="5080d-2008">SlideTrack을 활성화하고 메모 창을 닫으면 Ctrl+Alt+M을 눌러 메모 창을 열지 못할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-2008">With SlideTrack enabled and the comments pane closed, Ctrl+Alt+M may not open the comments pane.</span></span>
+- <span data-ttu-id="1a0ed-2013">반전 페이지 색이 있는 읽기 모드에서 메모 힌트가 표시되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-2013">Fixed an issue where comment hint was not visible in read mode with Inverse page color.</span></span>
 
 
-- <span data-ttu-id="5080d-2009">테이블에 @mention을 추가할 때 '이 문서의 테이블이 손상되었습니다'라는 오류 메시지가 생성될 수 있는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-2009">Fixed an issue when adding @mention in a table could generate the error message: 'A table in this document has become corrupted'.</span></span>
+- <span data-ttu-id="1a0ed-2014">문서를 공동 작성하는 경우 루트 메모의 초안 버전이 유지되지 않는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-2014">Fixed an issue where if a document is being coauthored, the draft version of a root comment may not be preserved.</span></span>
 
 
-- <span data-ttu-id="5080d-2010">메모 상황에 맞는 메뉴에서 메모 명령(메모 편집, 메모에 대한 회신, 메모 삭제, 메모 확인)이 표시되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-2010">Fixed an issue where comment commands (Edit comment, Reply to comment, Delete comment, Resolve comment) in the comments context menu were not being displayed.</span></span>
+- <span data-ttu-id="1a0ed-2015">SlideTrack을 활성화하고 메모 창을 닫으면 Ctrl+Alt+M을 눌러 메모 창을 열지 못할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-2015">With SlideTrack enabled and the comments pane closed, Ctrl+Alt+M may not open the comments pane.</span></span>
 
 
-### <a name="office-suite"></a><span data-ttu-id="5080d-2011">Office 제품군</span><span class="sxs-lookup"><span data-stu-id="5080d-2011">Office Suite</span></span>
-
-- <span data-ttu-id="5080d-2012">노르웨이 니노르스크(nn-no) 교정 도구 패키지가 잘못 설치될 수 있는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-2012">Resolves an issue that may have caused Norway Nynorsk (nn-no) proofing tools package to be installed incorrectly.</span></span>
+- <span data-ttu-id="1a0ed-2016">테이블에 @mention을 추가할 때 '이 문서의 테이블이 손상되었습니다'라는 오류 메시지가 생성될 수 있는 문제가 해결되었습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-2016">Fixed an issue when adding @mention in a table could generate the error message: 'A table in this document has become corrupted'.</span></span>
 
 
-- <span data-ttu-id="5080d-2013">이 변경 사항은 인텔 통합 GPU를 활용하는 그래픽 어댑터에 보고된 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="5080d-2013">This change addresses reported problems with graphics adaptors that leverage the Intel Integrated GPU.</span></span>
+- <span data-ttu-id="1a0ed-2017">메모 상황에 맞는 메뉴에서 메모 명령(메모 편집, 메모에 대한 회신, 메모 삭제, 메모 확인)이 표시되지 않는 문제를 해결했습니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-2017">Fixed an issue where comment commands (Edit comment, Reply to comment, Delete comment, Resolve comment) in the comments context menu were not being displayed.</span></span>
+
+
+### <a name="office-suite"></a><span data-ttu-id="1a0ed-2018">Office 제품군</span><span class="sxs-lookup"><span data-stu-id="1a0ed-2018">Office Suite</span></span>
+
+- <span data-ttu-id="1a0ed-2019">노르웨이 니노르스크(nn-no) 교정 도구 패키지가 잘못 설치될 수 있는 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-2019">Resolves an issue that may have caused Norway Nynorsk (nn-no) proofing tools package to be installed incorrectly.</span></span>
+
+
+- <span data-ttu-id="1a0ed-2020">이 변경 사항은 인텔 통합 GPU를 활용하는 그래픽 어댑터에 보고된 문제를 해결합니다.</span><span class="sxs-lookup"><span data-stu-id="1a0ed-2020">This change addresses reported problems with graphics adaptors that leverage the Intel Integrated GPU.</span></span>
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
