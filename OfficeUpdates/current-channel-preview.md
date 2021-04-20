@@ -1,7 +1,7 @@
 ---
 title: 릴리스 정보 현재 채널(미리 보기)
 ms.author: anankani
-author: v-lislo
+author: anankani
 manager: anankani
 ms.audience: Win32 Fast
 ms.topic: reference
@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 이후 참가자 대상 그룹에게 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 13bf5ee8022f586e051a49834c0a758b6e79dd92
-ms.sourcegitcommit: 674a79c70a4d83b9eddadaa70c56c0c4fb37fb5c
+ms.openlocfilehash: f269044898a11ba6f6a213c04c44261381c3fd9d
+ms.sourcegitcommit: ef9add331ddb9a0feef38ed54add52c6f891fa1a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/16/2021
-ms.locfileid: "51875739"
+ms.lasthandoff: 04/19/2021
+ms.locfileid: "51887321"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 현재 채널(미리 보기)에 대한 릴리스 정보
 
@@ -30,6 +30,154 @@ ms.locfileid: "51875739"
 [//]: # (제거하지 마세요)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+## <a name="version-2104-april-19"></a>버전 2104: 4월 19일
+*버전 2104(빌드 13929.20216)*
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="excel"></a>Excel
+
+- **동적 배열에서 데이터 가져오기:** 현재 통합 문서의 동적 배열에서 데이터를 가져오고, 모양을 변경하고, 새로 고칠 수 있습니다. [자세한 정보](https://support.office.com/article/205c6b06-03ba-4151-89a1-87a7eb36e531)
+
+### <a name="outlook"></a>Outlook
+
+- **향상된 일정 검색:** 일정 검색이 개선되었으며, 그 중 대폭 개선된 사항은 검색 결과에서 시리즈의 다음 항목을 더 쉽게 찾을 수 있는 기능입니다.
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="access"></a>Access
+
+- 이 변경은 일부 경우 SQL Server를 실행하면 통과 쿼리로 인해 "커서 상태가 잘못되었습니다"라는 오류 메시지가 표시될 수 있는 문제를 해결합니다.
+
+
+- 외부 응용 프로그램이 접근성 인터페이스를 요청하는 경우 참조가 릴리스될 때까지 종료되지 않도록 문제가 해결되었습니다.
+
+
+### <a name="excel"></a>Excel
+
+- 보호된 시트에 수식으로 붙여넣을 수 있는 기능을 막는 문제를 해결했습니다.
+
+
+- 파일을 PDF 문서로 저장한 경우 HYPERLINK 함수를 사용하여 만든 하이퍼링크가 작동하지 않는 문제를 해결했습니다.
+
+
+- 암시적 연산자(@) 기호가 빈 범위에 대한 참조와 함께 수식에 추가되어 잠재적으로 잘못된 결과를 제공하는 문제를 해결했습니다.
+
+
+### <a name="outlook"></a>Outlook
+
+- 폴더 계층 구조 변경을 동기화할 때 일부 사용자에게 Outlook이 예기치 않게 닫히는 문제가 수정되었습니다.
+
+
+- 일정을 추가할 때 사용자에게 "시간이 걸릴 수 있습니다"라는 메시지가 잘못 표시되는 문제를 해결했습니다.
+
+
+- 대리인이 새로 추가된 일정에 생성된 모임의 이끌이로 표시되는 문제를 수정했습니다.  이 주의 회의는 교장의 달력에 표시되지 않았습니다.
+
+
+- 사용자가 검색할 때 충돌이 발생하는 문제가 수정되었습니다.
+
+
+- 검색 관련 충돌이 해결되었습니다.
+
+
+- 사용자의 서명이 예기치 않게 사라지는 문제가 수정되었습니다.
+
+
+- 사용자가 메시지를 작성할 때 UI 포커스가 사라질 수 있는 문제가 수정되었습니다.
+
+
+- Outlook이 OWA에 구성된 중요 받은 편지함 기본 설정을 재정의하는 문제를 수정했습니다.
+
+
+- 새 장치에서 Outlook을 구성한 후 클라우드 설정 기능 사용자가 기본 설정으로 재정의된 사용자 지정 설정을 볼 수 있는 문제를 해결했습니다.
+
+
+- 일부 사람이 보조 메일 계정과 연결된 서명에 액세스할 수 없는 문제가 수정되었습니다.
+
+
+- 다른 사용자를 대신하여 전체 주소 목록이 아닌 주소록에 대해 확인할 때 이름 확인이 실패하는 문제를 수정했습니다.
+
+
+- 다른 사용자를 대신하여 전체 주소 목록이 아닌 주소록에 대해 확인할 때 이름 확인이 실패하는 문제를 수정했습니다.
+
+
+### <a name="project"></a>프로젝트
+
+- 날짜 형식이 W4/4인 경우 날짜 선택기에 잘못된 날짜와 연도가 표시될 수 있는 문제가 수정되었습니다.
+
+
+### <a name="visio"></a>Visio
+
+- 닫는 동안 Visio 작동이 중지되는 문제가 수정되었습니다.
+
+
+- 모든 결과를 표시하는 "셰이프 검색" 기능이 수정되었습니다.
+
+
+
+### <a name="word"></a>Word
+
+- 이 버그에서 Office는 특정 정책을 준수하지 않았습니다 (템플릿 그룹이 비활성화되어야 할 경우 홈페이지에 표시됨). 이 픽스를 적용하면 정책이 존중됩니다.
+
+
+- 문서를 공동 작성하는 경우 설명 순서가 변경되어도 활성 초안이 지워지지 않습니다.
+
+
+- 일부 국제 언어의 경우 문장 부호와 숫자가 잘못된 측에 표시되는 Modern Commenting의 버그를 해결했습니다.
+
+
+- 'B'와 ')'의 조합이 자동으로 이모티콘을 착용한 선글라스로 바뀌는 문제를 수정했고 이제 개별 캐릭터로 유지됩니다.
+
+
+- 로컬에 저장된 파일에 대한 자동 저장 설명 텍스트를 업데이트합니다.
+
+
+- 공동 작성 중 메모 관련 문제를 해결했습니다.
+
+
+- 메모 아이콘과 관련된 문제가 수정되었습니다.
+
+
+- 복사 및 붙여넣기 스타일이 붙여 넣은 텍스트와 다를 수 있는 문제가 수정되었습니다.
+
+
+- 제공될 텍스트 예측에 대한 조건을 최적화합니다.
+
+
+- 하이퍼링크와 관련된 문제가 수정되었습니다.
+
+
+- 읽기 모드에서 어두운 모드 테마를 사용할 경우 일부 텍스트는 표시되지 않습니다.
+
+
+- 자동 저장에서 발생하는 문제를 해결했습니다.
+
+
+- Application.OnTime에서 올바르게 트리거되지 않을 수 있는 문제를 수정했습니다.
+
+
+### <a name="office-suite"></a>Office 제품군
+
+- 텍스트의 연산과 관련된 성능 문제가 수정되었습니다.
+
+
+- Office의 GDI+ LineJoinMiterClipped 지원 문제를 해결합니다.
+
+
+- 이 릴리스는 키워드가 문서의 첫 줄에 있는 경우 줄 범위가 중요한 콘텐츠 처리를 개선합니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2103-april-13"></a>버전 2103: 4월 13일
 *버전 2103(빌드 13901.20400)*
@@ -732,7 +880,7 @@ ms.locfileid: "51875739"
 ### <a name="feature-updates"></a>기능 업데이트
 ### <a name="outlook"></a>Outlook
 
-- **한 번의 클릭으로 작문 제안:** 한 번의 클릭으로 작문 제안을 적용합니다. 편집기는 맞춤법과 문법을 수정하며 글을 다듬는 데 필요한 아이디어를 제공합니다. [자세한 정보](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/microsoft-editor-gets-an-upgrade)에서 세부 정보를 참조하세요.
+- **한 번의 클릭으로 작문 제안:** 한 번의 클릭으로 작문 제안을 적용합니다. 편집기는 맞춤법과 문법을 수정하며 글을 다듬는 데 필요한 아이디어를 제공합니다. [자세한 정보](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/microsoft-editor-gets-an-upgrade)에서 세부 정보 보기
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -2345,7 +2493,7 @@ ms.locfileid: "51875739"
 ### <a name="feature-updates"></a>기능 업데이트
 ### <a name="excel"></a>Excel
 
-- **데이터 형식을 사용하여 Power BI에서 조직 데이터를 가져오기:** 이제 Power BI의 Excel 데이터 형식을 Office 365 E5/A5 또는 Microsoft 365 E5/A5를 사용하는 조직의 참가자에게 배포합니다. 필요한 정보를 가져오고 손쉽게 새로 고치는 건 일상적인 여러 워크플로에 매우 중요합니다. Microsoft는 Power BI를 사용하여 Excel에서 데이터 형식으로 회사나 조직 정보에 액세스할 수 있도록 하여 스프레드시트에 연결된 정보를 제공하는 기능을 확장합니다. [자세한 정보](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />[블로그 게시물](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)에서 세부 정보를 참조하세요.
+- **데이터 형식을 사용하여 Power BI에서 조직 데이터를 가져오기:** 이제 Power BI의 Excel 데이터 형식을 Office 365 E5/A5 또는 Microsoft 365 E5/A5를 사용하는 조직의 참가자에게 배포합니다. 필요한 정보를 가져오고 손쉽게 새로 고치는 건 일상적인 여러 워크플로에 매우 중요합니다. Microsoft는 Power BI를 사용하여 Excel에서 데이터 형식으로 회사나 조직 정보에 액세스할 수 있도록 하여 스프레드시트에 연결된 정보를 제공하는 기능을 확장합니다. [자세한 정보](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />[블로그 게시물](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)에서 세부 정보 보기
 
 ### <a name="outlook"></a>Outlook
 
