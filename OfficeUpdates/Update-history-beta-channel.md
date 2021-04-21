@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 참가자에게 Windows Desktop용 월 단위 채널 참가자 빠른 릴리스에 대한 업데이트 내역을 제공합니다.
-ms.openlocfilehash: 22ccdbc71d03c2b4e3f54cc8b33fb26bb43cda92
-ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
+ms.openlocfilehash: ca6c27d38f92a6473e6d863828804459f7bf9616
+ms.sourcegitcommit: d0ba1fc11a61582c601273b2cb96390a5984ff3f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51749016"
+ms.lasthandoff: 04/21/2021
+ms.locfileid: "51909283"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Office Beta 채널에 대한 업데이트 기록
 
@@ -37,6 +37,9 @@ ms.locfileid: "51749016"
 
 
 [//]: # (제거하지 마세요)
+
+**2021년 4월 20일**<br/>
+버전 2105(빌드 14014.20002)<br/>
 
 **2021년 4월 13일**<br/>
 버전 2105(빌드 14007.20002)<br/>

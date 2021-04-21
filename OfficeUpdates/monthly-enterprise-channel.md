@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2020년 Microsoft 365 Apps에 대한 Monthly Enterprise Channel 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: a421baae65ac9b6b6858da370b64fe18a11995af
-ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
+ms.openlocfilehash: c1e72418fa6b133775f7a78ca6f243fb61014ef5
+ms.sourcegitcommit: 65c8693187b7f6673343ae1516708df749c19a5a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51749176"
+ms.lasthandoff: 04/20/2021
+ms.locfileid: "51900538"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>2020년 Monthly Enterprise Channel 릴리스에 대한 릴리스 정보
 
@@ -28,7 +28,7 @@ ms.locfileid: "51749176"
 
 
 ## <a name="version-2102-april-13"></a>버전 2102: 4월 13일
-*버전 2102(빌드 13801.20506)*
+*버전2102(빌드 13801.20506)*
 
 [여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
 
@@ -67,10 +67,8 @@ ms.locfileid: "51749176"
 ### <a name="resolved-issues"></a>해결된 문제
 ### <a name="access"></a>Access
 
-- 일부 경우 SQL Server에서 쿼리를 실행하면 "커서 상태가 잘못되었습니다"라는 오류 메시지가 표시될 수 있는 문제가 수정되었습니다.
+- 일부 경우 SQL Server 통과 쿼리를 실행하면 "커서 상태가 잘못되었습니다"라는 오류 메시지가 표시될 수 있는 문제가 수정되었습니다.
 
-
-- 사용자에게 "잘못된 커서 상태" 오류 대화 상자가 발생하는 문제를 해결했습니다.
 
 
 ### <a name="excel"></a>Excel
@@ -121,7 +119,7 @@ ms.locfileid: "51749176"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- Office 리본의 비활성화된 명령을 실행하면 아이콘만 회색으로 표시되고 어두운 회색 Office 테마의 텍스트는 회색으로 표시되지 않는 문제를 수정했습니다.
+- Office 리본에서 비활성화된 명령의 아이콘은 회색으로 표시되지만 어두운 회색 Office 테마의 텍스트는 회색으로 표시되지 않는 문제를 수정했습니다.
 
 
 ### <a name="word"></a>Word
@@ -153,9 +151,6 @@ ms.locfileid: "51749176"
 
 
 - 경우에 따라 Outlook의 텍스트가 투명해지고 읽을 수 없게 되는 문제를 수정했습니다.
-
-
-- 수학 방정식을 포함하는 텍스트에서 내레이터를 사용할 때 발생할 수 있는 문제를 해결했습니다.
 
 
 - 수학 방정식을 포함하는 텍스트에서 내레이터를 사용할 때 발생할 수 있는 문제를 해결했습니다.
@@ -296,7 +291,7 @@ ms.locfileid: "51749176"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **SVG 클립보드 지원:** 이제 Office의 SVG 콘텐츠를 타사 앱에 붙여 을 수 있습니다. [자세한 정보](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/svg-content-office-third-party-apps)에서 세부 정보 보기
+- **SVG 클립보드 지원:** 이제 Office의 SVG 콘텐츠를 타사 앱에 붙여 을 수 있습니다. [자세한 정보](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />[블로그 게시물](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)에서 세부 정보 보기
 
 - **민감도 레이블 감사 로깅:** 사용자가 문서 및 전자 메일에 민감도 레이블을 적용, 변경 또는 제거하면 Microsoft 365 감사 로그의 관리자가 해당 정보를 사용할 수 있게 됩니다.
 
@@ -554,7 +549,7 @@ ms.locfileid: "51749176"
 
 - **범위 내에서 애니메이션 GIF 내보내기:** 애니메이션 GIF로 내보낼 때 슬라이드 범위 선택
 
-- **투명한 배경으로 GIF 만들기:** 애니메이션 GIF로 내보낼 때 새 옵션을 사용하여 배경을 투명하게 만들 수 있습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/export-animated-gifs-transparent-backgrounds)에서 세부 정보 보기
+- **투명한 배경으로 GIF 만들기:** 애니메이션 GIF로 내보낼 때 새 옵션을 사용하여 배경을 투명하게 만들 수 있습니다.<br />[블로그 게시물](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)에서 세부 정보 보기
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -799,8 +794,7 @@ ms.locfileid: "51749176"
 - 사용자가 대리인에게 편집자 권한을 부여할 수 없게 하는 문제를 해결했습니다.
 
 
-- 선택적으로 연결된 환경이 로딩으로부터 웹 추가 기능을 차단하는 문제를 해결했습니다.<br />
-  [블로그 게시물](https://developer.microsoft.com/ko-KR/office/blogs/outlook-add-ins-and-optional-connected-experiences/)에서 세부 정보 보기
+- 선택적으로 연결된 환경이 로딩으로부터 웹 추가 기능을 차단하는 문제를 해결했습니다.<br />[블로그 게시물](https://developer.microsoft.com/en-us/office/blogs/outlook-add-ins-and-optional-connected-experiences/)에서 세부 정보 보기
 
 
 ### <a name="powerpoint"></a>PowerPoint
