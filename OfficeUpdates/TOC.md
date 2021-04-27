@@ -10,6 +10,7 @@
 
 ## 월 단위 기업 채널
 ### [릴리스 정보](monthly-enterprise-channel.md)
+### [보관된 릴리스 정보](monthly-enterprise-channel-archived.md)
 
 ## 반기 기업 채널
 ### [릴리스 정보](semi-annual-enterprise-channel.md)
