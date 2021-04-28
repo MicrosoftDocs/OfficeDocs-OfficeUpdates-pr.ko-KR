@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 이후 참가자 대상 그룹에게 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: f269044898a11ba6f6a213c04c44261381c3fd9d
-ms.sourcegitcommit: ef9add331ddb9a0feef38ed54add52c6f891fa1a
+ms.openlocfilehash: 81b0fd214752a3218809f860db9ad97f34d3ad0c
+ms.sourcegitcommit: 6a6a10d50664c552f2aea560d521265d2b0677d2
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "51887321"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "52058742"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 현재 채널(미리 보기)에 대한 릴리스 정보
 
@@ -30,6 +30,37 @@ ms.locfileid: "51887321"
 [//]: # (제거하지 마세요)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+## <a name="version-2104-april-26"></a>버전 2104: 4월 26일
+*버전 2104(빌드 13929.20254)*
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="outlook"></a>Outlook
+
+- **공유 일정 향상 켜기:** Office 365의 공유 일정의 경우 Outlook에서 REST API를 사용하여 해당 일정을 업데이트할 수 있습니다. 미리 보기를 설정하여 공유 일정에 보다 빠르고 신뢰할 수 있는 업데이트를 설정합니다.
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- 일부 파일이 보호된 보기에서 열리지 않는 문제를 해결했습니다.
+
+
+### <a name="outlook"></a>Outlook
+
+- Outlook이 OWA에 구성된 중요 받은 편지함 기본 설정을 재정의하는 문제를 수정했습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2104-april-19"></a>버전 2104: 4월 19일
 *버전 2104(빌드 13929.20216)*
