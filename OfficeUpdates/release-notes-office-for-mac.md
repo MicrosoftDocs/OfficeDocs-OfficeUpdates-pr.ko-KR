@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Microsoft 365 앱 구독자를 위한 Mac용 Office 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: fee8802ab607b3b93d0932e6aca5d07eb267f2ba
-ms.sourcegitcommit: 8de8bc2772a282e08ce583dc2b4869f67330febc
+ms.openlocfilehash: feae6e5fbc6d3fd9d969eb0ccea108f9b62b7717
+ms.sourcegitcommit: c6eee117bae153c1f79ba9ecb419bfab372991bc
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/29/2021
-ms.locfileid: "52079292"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "52091847"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac용 Office에 대한 릴리스 정보
 
@@ -69,15 +69,15 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 - **여러 시트를 동시에 숨기기 취소:** 한 번에 여러 시트를 숨길 필요가 없습니다. 한 번에 여러 시트를 숨길 수 있습니다. [자세한 정보](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
 
 
-### <a name="msteams"></a>MSTeams
+### <a name="powerpoint"></a>PowerPoint
+
+- **발표자 코치를 사용하여 프레젠테이션 예행 연습:** 발표자 코치로 프레젠테이션을 예행 연습하여 더욱 효율적으로 청중의 참여를 유도할 수 있습니다. 속도, 피치, 채우기 단어 사용 등에 대한 피드백을 제공합니다. [자세한 정보](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/presenter-coach-now-in-powerpoint-on-mac)에서 세부 정보 보기
+
+### <a name="teams"></a>Teams
 
 - **동적 보기:** 동적 보기는 Teams 모임의 공유 콘텐츠 및 비디오 참가자를 자동으로 최적화합니다. 새로운 컨트롤을 사용하면 공유 콘텐츠와 특정 참가자를 나란히 표시하는 기능과 같이 선호도와 요구 사항에 맞게 보기를 개인화할 수 있습니다.
 
 - **부재 중:** 다른 사용자가 채팅 메시지를 보내면 근무 중이 아니거나 휴가 중이라 답장을 할 수 없다는 것을 알릴 수 있도록 메시지를 설정할 수 있습니다. 부재 중 상태는 Outlook 일정에 있는 자동 응답과도 동기화됩니다.
-
-### <a name="powerpoint"></a>PowerPoint
-
-- **발표자 코치를 사용하여 프레젠테이션 예행 연습:** 발표자 코치로 프레젠테이션을 예행 연습하여 더욱 효율적으로 청중의 참여를 유도할 수 있습니다. 속도, 피치, 채우기 단어 사용 등에 대한 피드백을 제공합니다. [자세한 정보](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/presenter-coach-now-in-powerpoint-on-mac)에서 세부 정보를 참조하세요.
 
 ### <a name="word"></a>Word
 
@@ -963,9 +963,9 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 
 |**응용 프로그램**|**기능 업데이트**|**보안 업데이트**|**업데이트 패키지용 다운로드 링크**|
 |:-----|:-----|:-----|:-----|
-|Word  <br/>|**새 Office 앱 아이콘:** Office의 간단하고 강력하며 지능적인 경험을 반영하여 다시 디자인된 응용 프로그램 아이콘. <br/><br/>**더 빠른 시작:** 사용자의 활동과 사용자 주변의 사람들이 무엇을 하는지에 기반한 추천을 얻으십시오.<br/><br/>**생동감 있는 문서 보기:** 애니메이션 3D 그래픽을 삽입하여 페이지에 심장 박동, 행성 궤도, 공룡 난동 모습을 표시합니다. [자세한 정보](https://support.office.com/article/6f08009a-3da5-400d-a706-8e23f304cd72)<br/>|<br/><br/> |[Word 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.24.19041401_Updater.pkg) <br/>|
+|Word  <br/>|**새 Office 앱 아이콘:** Office의 간단하고 강력하며 지능적인 경험을 반영하여 다시 디자인된 응용 프로그램 아이콘. <br/><br/>**더 빠른 시작:** 사용자의 활동과 사용자 주변의 사람들이 무엇을 하는지에 기반한 추천을 얻으십시오.<br/><br/>**문서에 생동감 주기:** 페이지에서 애니메이션 3D 그래픽을 삽입하여 심장 박동, 행성 궤도 및 공룡 난동 모습을 표시합니다. [자세히 알아보기](https://support.office.com/article/6f08009a-3da5-400d-a706-8e23f304cd72)<br/>|<br/><br/> |[Word 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.24.19041401_Updater.pkg) <br/>|
 |Excel  <br/>|**새 Office 앱 아이콘:** Office의 간단하고 강력하며 지능적인 경험을 반영하여 다시 디자인된 응용 프로그램 아이콘.<br/> <br/>**모든 매크로 사용자 호출:** 상대 참조를 사용하여 매크로를 기록합니다. 이를 재생하는 경우, 기록하는 데 사용된 셀이 아닌 활성 셀에서 작동합니다. [자세한 정보](https://support.office.com/article/f0cac51a-7449-4d6d-bb10-24561edbc785)<br/><br/>**쉽게 접근할 수 있는 자주 사용하는 명령:** 찾기 및 검색, 선택 영역 확대/축소, 모두 정렬 등과 같은 일반적인 작업에 신속하고 간편하게 접근할 수 있습니다. 리본에서 찾기 [자세한 정보](https://support.office.com/article/22db33e7-3e10-4406-9cad-ad9f2ce4f642)<br/><br/>**더 빠른 시작:** 사용자의 활동과 사용자 주변의 사람들이 무엇을 하는지에 기반한 추천을 얻으십시오.<br/><br/>**생동감 있는 워크시트 보기:** 애니메이션 3D 그래픽을 삽입하여 워크북을 통해 심장 박동, 행성 궤도, 공룡 난동 모습 등을 표시합니다. [자세한 정보](https://support.office.com/article/6f08009a-3da5-400d-a706-8e23f304cd72)|[CVE-2019-0828](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-0828): Microsoft Excel 원격 코드 실행 취약성 |[Excel 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.24.19041401_Updater.pkg) <br/>|
-|PowerPoint  <br/>|**새 Office 앱 아이콘:** Office의 간단하고 강력하며 지능적인 경험을 반영하여 다시 디자인된 응용 프로그램 아이콘.<br/><br/>**더 빠른 시작:** 사용자의 활동과 사용자 주변의 사람들이 무엇을 하는지에 기반한 추천을 얻으십시오.<br/><br/>**포함된 미디어를 간편하게 저장:** Ctrl + 클릭만으로 오디오와 비디오를 저장합니다. [자세한 정보](https://support.office.com/article/F773D119-0FB3-4884-A18A-29573AC97B25)<br/><br/>**생동감 있는 슬라이드 보기:** 화면에서 애니메이션 3D 그래픽을 삽입하여 심장 박동, 행성 궤도 및 공룡 난동 모습을 표시합니다. [자세한 정보](https://support.office.com/article/6f08009a-3da5-400d-a706-8e23f304cd72)| |[PowerPoint 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.24.19041401_Updater.pkg) <br/>|
+|PowerPoint  <br/>|**새 Office 앱 아이콘:** Office의 간단하고 강력하며 지능적인 경험을 반영하여 다시 디자인된 응용 프로그램 아이콘.<br/><br/>**더 빠른 시작:** 사용자의 활동과 사용자 주변의 사람들이 무엇을 하는지에 기반한 추천을 얻으십시오.<br/><br/>**포함된 미디어를 간편하게 저장:** Ctrl + 클릭만으로 오디오와 비디오를 저장합니다. [자세한 정보](https://support.office.com/article/F773D119-0FB3-4884-A18A-29573AC97B25)<br/><br/>**슬라이드에 생동감 주기:** 화면에서 애니메이션 3D 그래픽을 삽입하여 심장 박동, 행성 궤도 및 공룡 난동 모습을 표시합니다. [자세한 정보](https://support.office.com/article/6f08009a-3da5-400d-a706-8e23f304cd72)| |[PowerPoint 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.24.19041401_Updater.pkg) <br/>|
 |Outlook  <br/>|**새 Office 앱 아이콘:** Office의 간단하고 강력하며 지능적인 경험을 반영하여 다시 디자인된 응용 프로그램 아이콘. <br/><br/>**안전한 링크:** ATP(고급 위협 방지) 안전 링크 지원.  ||[Outlook 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.24.19041401_Updater.pkg) <br/>|
 |Microsoft 자동 업데이트 4.10<br/>|**설치시 복제 기능향상:** SSD 장치의 경우, 사용 중인 앱의 복제에 관한 업데이트 공개하므로 업데이트로 인한 앱 가동 중지 시간이 줄어듭니다. <br/><br/>**설치 최적화:** 업데이트 프로세스에서 병렬화된 복제를 사용하므로, 업데이트로 인한 앱 가동 중지 시간이 줄어듭니다.|<br/> | [Microsoft 자동 업데이트의 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.10.19041401_Updater.pkg)<br/>|
 |Office 제품군  <br/><br/>| |[CVE-2019-0822](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-0822) Microsoft 그래픽 구성 요소 원격 코드 실행 취약성<br/><br/>|<br/>|
@@ -997,8 +997,8 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 
 |**응용 프로그램**|**기능 업데이트**|**보안 업데이트**|**업데이트 패키지용 다운로드 링크**|
 |:-----|:-----|:-----|:-----|
-|Word  <br/>| **@멘션으로 주의 끌기:** 메모에 @멘션을 사용하여 입력이 필요하다는 사실을 동료들에게 알립니다. [자세한 정보](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)<br/><br/>**LaTex 수식 편집:** 이제 Word는 수식을 만들 수 있는 LaTeX 수학 구문을 지원합니다. [자세한 정보](https://support.office.com/article/2e00618d-b1fd-49d8-8cb4-8d17f25754f8) | |[Word 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.23.19030902_Updater.pkg) <br/>|
-|Excel  <br/>|**@멘션으로 주의 끌기:** 메모에 @멘션을 사용하여 입력이 필요하다는 사실을 동료들에게 알립니다. [자세한 정보](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)  <br/><br/>**데이터에 대해 더 알아보기:** 새로운 아이디어 단추는 데이터의 패턴을 찾아 사용하여 지능적이고 개인화된 제안을 만듭니다. [자세한 정보](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4) |  <br/>  |[Excel 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.23.19030902_Updater.pkg) <br/>|
+|Word  <br/>| **@멘션으로 주의 끌기:** 메모에 @멘션을 사용하여 입력이 필요하다는 사실을 동료들에게 알립니다. [자세히 알아보기](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)<br/><br/>**LaTex 수식 편집:** 이제 Word는 수식을 만들 수 있는 LaTeX 수학 구문을 지원합니다. [자세한 정보](https://support.office.com/article/2e00618d-b1fd-49d8-8cb4-8d17f25754f8) | |[Word 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.23.19030902_Updater.pkg) <br/>|
+|Excel  <br/>|**@멘션으로 주의 끌기:** 메모에 @멘션을 사용하여 입력이 필요하다는 사실을 동료들에게 알립니다. [자세히 알아보기](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)  <br/><br/>**자세한 데이터 분석:** 새로운 아이디어 단추는 데이터에서 패턴을 찾아서 인텔리전트 맞춤형 제안을 만듭니다. [자세히 알아보기](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4) |  <br/>  |[Excel 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.23.19030902_Updater.pkg) <br/>|
 |PowerPoint  <br/>| **더 나은 변신:** 트랙패드에서 손가락을 이동하여 화면 전반에서 잉크의 흐름을 관찰하세요. [자세한 정보](https://support.office.com/article/bc7f48ff-f152-4ee8-9081-d3121788024f) <br/><br/> | <br/>|[PowerPoint 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.23.19030902_Updater.pkg) <br/>|
 |Outlook  <br/>|  <br/><br/>  ||[Outlook 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.23.19030902_Updater.pkg) <br/>|
 
@@ -1087,7 +1087,7 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 
 |**응용 프로그램**|**기능 업데이트**|**보안 업데이트**|**업데이트 패키지용 다운로드 링크**|
 |:-----|:-----|:-----|:-----|
-|Word  <br/>| **어두운 모드를 사용하여 눈에 편안함을 주기:** 어두운 배경은 빛이 약한 환경에서 눈에 더 편안합니다. MacOS Mojave가 필요합니다. <br/><br/>  **텍스트의 모양을 유지:** 글꼴을 포함하여 모든 컴퓨터에서 문서의 텍스트 모양이 같도록 합니다. 더는 당황하지 않아도 됩니다. [자세히 알아보기](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/><br/>**문서에 포함된 글꼴 보기:** 파일에 포함 된 글꼴을 Mac Word에서 렌더링할 수 있습니다.<br/><br/>**포커스 모드 호출 가능 상태 표시줄:** 포커스 모드에서는 호출 가능한 상태 표시줄을 사용하여 간편하게 단어 개수를 확인하고 확대/축소 배율에 액세스할 수 있습니다.<br/><br/>**포커스 모드로 더 많은 것을 얻으세요:** 보내주신 의견을 반영했습니다. 이제 확대/축소 수준 설정 시 포커스 모드가 열리며 또한 스크롤하는 동안 페이지 번호가 표시됩니다.| |[Word 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.20.18120801_Updater.pkg) <br/>|
+|Word  <br/>| **어두운 모드를 사용하여 눈에 편안함을 주기:** 어두운 배경은 빛이 약한 환경에서 눈에 더 편안합니다. MacOS Mojave가 필요합니다. <br/><br/>  **텍스트의 모양을 유지:** 글꼴을 포함하여 모든 컴퓨터에서 문서의 텍스트 모양이 같도록 합니다. 더는 당황하지 않아도 됩니다. [자세히 알아보기](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/><br/>**문서에 포함된 글꼴 보기:** 파일에 포함 된 글꼴을 Mac Word에서 렌더링할 수 있습니다.<br/><br/>**포커스 모드 호출 가능 상태 표시줄:** 포커스 모드에서는 호출 가능한 상태 표시줄을 사용하여 간편하게 단어 개수를 확인하고 확대/축소 배율에 액세스할 수 있습니다.<br/><br/>**포커스 모드로 더 많은 작업 수행:** 여러분의 의견을 들었습니다. 이제 포커스 모드가 설정된 확대/축소 수준에서 열리고 스크롤하는 동안 페이지 번호도 표시됩니다.| |[Word 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.20.18120801_Updater.pkg) <br/>|
 |Excel  <br/>|  **어두운 모드를 사용하여 눈에 편안함을 주기:** 어두운 배경은 빛이 약한 환경에서 눈에 더 편안합니다. MacOS Mojave가 필요합니다. <br/><br/> | [CVE-2018-8597](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8597): Microsoft Excel 원격 코드 실행 취약성 <br/><br/> [CVE-2018-8627](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8627): Microsoft Excel 정보 노출 취약성 |[Excel 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.20.18120801_Updater.pkg) <br/>|
 |PowerPoint  <br/>| **어두운 모드를 사용하여 눈에 편안함을 주기:** 어두운 배경은 빛이 약한 환경에서 눈에 더 편안합니다. MacOS Mojave가 필요합니다. <br/><br/>  **iPhone에서 즉시 PowerPoint로:** Apple 연속성 카메라를 사용하여 iPhone에서 사진을 슬라이드에 삽입합니다. MacOS Mojave가 필요합니다. [자세히 알아보기](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> |[CVE-2018-8628](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8628): Microsoft PowerPoint 원격 코드 실행 취약성 <br/>|[PowerPoint 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.20.18120801_Updater.pkg) <br/>|
 |Outlook  <br/>|  **어두운 모드를 사용하여 눈에 편안함을 주기:** 어두운 배경은 빛이 약한 환경에서 눈에 더 편안합니다. MacOS Mojave가 필요합니다. <br/><br/>  **일정 공유:** 가족과 친과, 동료와 캘린더를 공유합니다. Mac, PC 또는 클라우드 버전의 Outlook에서 공유된 캘린더를 엽니다. [자세히 알아보기](https://support.office.com/article/365-b576ecc3-0945-4d75-85f1-5efafb8a37b4) <br/><br/> **모임 전달 해제:** 참석자가 모임을 다른 사람에게 전달하지 못하도록 합니다. [잫자세히 알아보기](https://support.office.com/article/8cd354e5-b319-403e-8dd2-88b8ee89b4dd) <br/><br/> **팀을 사용하여 모임에 연결:** 원격 팀과 함께 작업하세요? Outlook에서 팀을 사용하여 모임을 예약하고 온라인으로 참여합니다. [자세히 알아보기](https://support.office.com/article/883cc15c-580f-441a-92ea-0992c00a9b0f) <br/><br/>**모임에 참여하는 사람 알아보기:** 캘린더에 있는 모든 모임 또는 이벤트를 클릭하여 누가 참여할 계획인지 알아봅니다.<br/><br/> **세 가지 표준 시간대 보기:** 표준 시간대가 다른 지역 간에 모임을 예약해야 하나요? 여러 표준 시간대를 캘린더에 추가하여 모든 사람의 가용성을 쉽게 확인하고 모두가 참여할 수 있는 시간을 선택할 수 있습니다. [자세히 알아보기](https://support.office.com/article/938d9db9-14ae-4203-ab91-b2d183429382)<br/><br/>  ||[Outlook 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.20.18120801_Updater.pkg) <br/>|
