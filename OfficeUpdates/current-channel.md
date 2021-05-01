@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 앱에 대한 월 단위 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 392523dca2dd2f0c0078747e1d25a93b9d0a85b2
-ms.sourcegitcommit: 5f72a0e94cda2cb64636380605806c29bbcdc53f
+ms.openlocfilehash: 3148b1744d6df9108f2a8beda7ca7c6f160fb5fa
+ms.sourcegitcommit: 8de8bc2772a282e08ce583dc2b4869f67330febc
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "52026273"
+ms.lasthandoff: 04/29/2021
+ms.locfileid: "52079302"
 ---
 # <a name="release-notes-for-current-channel"></a>현재 채널에 대한 릴리스 정보
 
@@ -45,7 +45,7 @@ ms.locfileid: "52026273"
 ### <a name="resolved-issues"></a>해결된 문제
 ### <a name="excel"></a>Excel
 
-- Excel의 일부 자동화 추가 기능을 로드하지 못한 문제가 해결되었습니다.
+- 2021년 4월 보안 업데이트를 설치한 후 Excel용 자동화 추가 기능이 로드되지 않습니다. 현재 채널 [추가 정보](https://support.microsoft.com/ko-KR/office/automation-add-ins-for-excel-are-not-loading-after-installing-april-2021-security-update-8b2927a1-4a24-4ae6-8855-60827b7632fb)에 없는 사용자를 위해 제공된 해결 방법을 사용하세요. 
 
 
 ### <a name="outlook"></a>Outlook

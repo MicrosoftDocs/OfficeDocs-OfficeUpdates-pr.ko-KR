@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 릴리스 정보에 대한 링크를 포함하여 Microsoft 365 앱 릴리스의 전체 목록을 날짜별로 구성해서 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 31722e81217a1bf079635d1fd3ff8ccaca34b6c9
-ms.sourcegitcommit: 28baeef0385cacaa71288b5d0a00fb37b724b71b
+ms.openlocfilehash: 0a55dc787f393d498ddba627daad2b91bcb789c1
+ms.sourcegitcommit: c6eee117bae153c1f79ba9ecb419bfab372991bc
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/24/2021
-ms.locfileid: "51995715"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "52091827"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 앱의 업데이트 기록(날짜순)
 
@@ -36,7 +36,7 @@ ms.locfileid: "51995715"
 
 |**채널**|**버전**|**빌드**|**릴리스 날짜**|**다음 이하 버전까지 지원**|
 |:-----|:-----|:-----|:-----|:-----|
-|현재 채널<br/>|2103<br/>|13901.20462<br/>|2021년 4월 23일<br/>|버전 2104 릴리스됨<br/>|
+|현재 채널<br/>|2104<br/>|13929.20296<br/>|2021년 4월 29일<br/>|버전 2105 릴리스됨<br/>|
 |월 단위 엔터프라이즈 채널<br/>|2102<br/>|13801.20506<br/>|2021년 4월 13일<br/>|2021년 6월 8일<br/>|
 |월 단위 엔터프라이즈 채널<br/>|2101<br/>|13628.20664<br/>|2021년 4월 13일<br/>|2021년 5월 11일<br/>|
 |반기 기업 채널(미리 보기)<br/>|2102<br/>|13801.20506<br/>|2021년 4월 13일<br/>|2021년 9월 14일<br/>|
@@ -47,7 +47,7 @@ ms.locfileid: "51995715"
 
 이전 버전의 Microsoft 365 앱에서 가장 최근 릴리스로 업데이트할 경우 대략적인 다운로드 크기에 대한 내용은 [Microsoft 365 앱 업데이트의 다운로드 크기](./download-sizes-microsoft365-apps-updates.md)를 참조하세요.
 
-다음 표에서는 다음 업데이트 채널에서 릴리스된 Microsoft 365 앱에 대한 각 업데이트의 버전 및 빌드 번호 목록을 제공합니다. 현재, 월간 엔터프라이즈, 반기 엔터프라이즈(미리 보기) 및 반기 엔터프라이즈 대상입니다. 표의 각 항목은 해당 릴리스의 릴리스 노트에 직접 연결됩니다. 이 릴리스 정보는 Microsoft 365 앱 업데이트에 포함된 기능 및 보안 업데이트 및 비보안 업데이트에 대한 정보를 제공합니다.
+다음 표에서는 현대, 월간 엔터프라이즈, 반기 엔터프라이즈(미리 보기) 및 반기 엔터프라이즈의 업데이트 채널에 릴리스된 각 Microsoft 365 앱 업데이트에 대한 버전 및 빌드 번호 목록을 제공합니다. 표의 각 항목은 해당 릴리스에 대한 릴리스 정보에 직접 연결됩니다. 릴리스 정보는 Microsoft 365 앱에 대한 업데이트에 포함된 기능, 보안 업데이트 및 비보안 업데이트에 대한 정보를 제공합니다.
 
 ### <a name="version-history"></a>**버전 기록**
 
@@ -55,6 +55,7 @@ ms.locfileid: "51995715"
 
 |**년도**|**릴리스 날짜**|**현재 채널**|**월 단위 엔터프라이즈 채널**|**반기 엔터프라이즈 채널(미리 보기)**|**반기 엔터프라이즈 채널**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2021|4월 29일|[버전 2104(빌드 13929.20296)](current-channel.md#version-2104-april-29)| | | |
 |2021|4월 23일|[버전 2103(빌드 13901.20462)](current-channel.md#version-2103-april-23)| | | |
 |2021|4월 13일|[버전 2103(빌드 13901.20400)](current-channel.md#version-2103-april-13)|[버전 2102 (빌드 13801.20506)](monthly-enterprise-channel.md#version-2102-april-13)<br/>[버전 2101 (빌드 13628.20664)](monthly-enterprise-channel.md#version-2101-april-13)|[버전 2102 (빌드 13801.20506)](semi-annual-enterprise-channel-preview.md#version-2102-april-13)|[버전 2008 (빌드 13127.21506)](semi-annual-enterprise-channel.md#version-2008-april-13)<br/>[버전 2002 (빌드 12527.21814)](semi-annual-enterprise-channel.md#version-2002-april-13)|
 |2021|4월 2일|[버전 2103(빌드 13901.20336)](current-channel.md#version-2103-april-02)| | | |

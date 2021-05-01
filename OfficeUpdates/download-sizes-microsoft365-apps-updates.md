@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 각 업데이트 채널에 대한 Microsoft 365 앱 업데이트의 대략적인 다운로드 크기 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 5d0deee8e9a4aaefc31cedbeb1f4209bd5204c9e
-ms.sourcegitcommit: 28baeef0385cacaa71288b5d0a00fb37b724b71b
+ms.openlocfilehash: e19570304d9f041536626ebe867bd3b8b3226cf4
+ms.sourcegitcommit: c6eee117bae153c1f79ba9ecb419bfab372991bc
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/24/2021
-ms.locfileid: "51995757"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "52091857"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 앱 업데이트의 다운로드 크기
 
@@ -22,7 +22,7 @@ Microsoft의 목표는 기업 고객이 네트워크 대역폭 사용률을 계�
 
 다음 표에는 이전 버전의 Microsoft 365 앱에서 최신 릴리스로 업데이트할 때의 대략적인 다운로드 크기가 나와 있습니다. 실제 다운로드 크기는 50MB 정도까지 달라질 수 있습니다. 이전 릴리스에서 현재 릴리스로 업데이트하는 경우 다운로드 크기가 더 커질 수 있습니다.
 
-다른 채널로 전환하는 경우(예: 반기 채널(대상 지정)에서 반기 채널로), 업데이트 크기가 표에 나오는 것보다 훨씬 클 수 있습니다. 이 경우 전체 다운로드가 필요할 수 있으며 1GB 이상일 수 있습니다.
+다른 채널로 전환하는 경우(예: 반기 채널(대상 지정)에서 반기 채널로) 업데이트 크기가 표에 나오는 것보다 훨씬 더 커질 수 있습니다. 이로 인해 전체 다운로드가 필요할 수 있으며 그 규모는 1GB 이상일 수 있습니다.
 
 
 > [!IMPORTANT]
@@ -35,6 +35,22 @@ Microsoft의 목표는 기업 고객이 네트워크 대역폭 사용률을 계�
 > - 지난 4개월 동안의 릴리스만 표시됩니다.
 
 [//]: # (제거하지 마세요)
+
+## <a name="april-29-2021"></a>2021년 4월 29일
+
+[//]: # (콘텐츠를 제거하지 마세요. 시작 2021년 4월 29일)
+
+### <a name="current-channel"></a>현재 채널
+
+가장 최근 릴리스는 버전 2104(빌드 13929.20296)입니다.
+
+|**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
+|:-----|:-----|:-----|
+|버전 2103(빌드 13901.20462) <br/> |2021년 4월 23일 <br/> |167<br/> |
+|버전 2103(빌드 13901.20400) <br/> |2021년 4월 13일 <br/> |167<br/> |
+
+
+[//]: # (컨텐츠를 제거하지 마세요. 종료 2021년 4월 29일)
 
 ## <a name="april-23-2021"></a>2021년 4월 23일
 

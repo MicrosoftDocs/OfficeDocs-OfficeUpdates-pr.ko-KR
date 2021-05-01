@@ -9,16 +9,16 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps에 대한 월 단위 기업 채널의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 66ee8ab5a7a3a855992efdc6e29e23f997675ad0
-ms.sourcegitcommit: 5f72a0e94cda2cb64636380605806c29bbcdc53f
+ms.openlocfilehash: fbfcc2b35e049ebf7bc38860a58ab33e582aa31b
+ms.sourcegitcommit: 6a6a10d50664c552f2aea560d521265d2b0677d2
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "52026353"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "52058752"
 ---
-# <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>2020년 Monthly Enterprise Channel 릴리스에 대한 릴리스 정보
+# <a name="release-notes-for-monthly-enterprise-channel"></a>월 단위 기업 채널에 대한 릴리스 정보
 
-이러한 릴리스 정보는 기업용 Microsoft 365 Apps, 비즈니스용 Microsoft 365 Apps 및 Project와 Visio용 데스크톱 앱의 구독 버전에 대한 2020년 Monthly Enterprise Channel 업데이트에 포함된 새로운 기능 및 비보안 업데이트 관련 정보를 제공합니다.
+이러한 릴리스 정보는 기업용 Microsoft 365 Apps, 비즈니스용 Microsoft 365 Apps 및 Project와 Visio용 데스크톱 앱의 구독 버전에 대한 Monthly Enterprise Channel 업데이트에 포함된 새로운 기능 및 비보안 업데이트 관련 정보를 제공합니다.
 
 > [!IMPORTANT]
 > 당사는 Microsoft 365 앱에 대한 업데이트 채널을 일부 변경하고 있습니다. 여기에는 새 업데이트 채널 추가(월별 엔터프라이즈 채널) 및 기존 업데이트 채널의 이름 변경 등이 포함됩니다. 자세한 내용은 [이 문서를 검토하세요](/DeployOffice/update-channels-changes).
