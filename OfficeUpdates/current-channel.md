@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 앱에 대한 월 단위 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 3148b1744d6df9108f2a8beda7ca7c6f160fb5fa
-ms.sourcegitcommit: 8de8bc2772a282e08ce583dc2b4869f67330febc
+ms.openlocfilehash: da560e6b74afa2861304210c9c409510ffee1792
+ms.sourcegitcommit: c6eee117bae153c1f79ba9ecb419bfab372991bc
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/29/2021
-ms.locfileid: "52079302"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "52091797"
 ---
 # <a name="release-notes-for-current-channel"></a>현재 채널에 대한 릴리스 정보
 
@@ -37,6 +37,92 @@ ms.locfileid: "52079302"
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
+## <a name="version-2104-april-29"></a>버전 2104: 4월 29일
+*버전 2104(빌드 13929.20296)*
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="excel"></a>Excel
+
+- **연결된 데이터 형식: 실용적인 실제 데이터:** 새로운 연결된 데이터 형식을 사용하면 수백 개의 주제에 대한 팩트와 데이터를 가져와 Excel에서 바로 목표를 달성하는 데 도움이 됩니다.
+
+### <a name="teams"></a>Teams
+
+- **동적 보기** 동적 보기는 Teams 모임에서 공유 콘텐츠 및 비디오 참가자를 자동으로 최적화합니다. 새로운 컨트롤을 사용하면 공유 콘텐츠와 특정 참가자를 나란히 표시하는 기능과 같이 선호도와 요구 사항에 맞게 보기를 개인화할 수 있습니다.
+
+- **부재 중:** 다른 사용자가 채팅 메시지를 보내면 근무 중이 아니거나 휴가 중이라 답장을 할 수 없다는 것을 알릴 수 있도록 메시지를 설정할 수 있습니다. 부재 중 상태는 Outlook 일정에 있는 자동 회신과도 동기화됩니다.
+
+### <a name="visio"></a>Visio
+
+- **다이어그램용으로 바로 사용할 수 있는 그래픽:** Visio 드로잉에 추가할 수 있는 아이콘, 사진 이미지, 사람 컷아웃 및 스티커를 대형 라이브러리에서 선택하세요. [자세한 정보](https://support.office.com/article/0ab844a5-289b-47f2-ba92-eeda168bc381)<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/access-illustrations-icons-in-visio)에서 세부 정보를 참조하세요.
+
+### <a name="word"></a>Word
+
+- **최신 주석을 활용한 더 나은 공동 작업:** 개체에 메모를 추가하고, 동료를 @멘션하고, 메모 스레드를 해결하여 공동 작업 환경을 개선해보세요. [자세한 정보](https://support.office.com/article/8d3f868a-867e-4df2-8c68-bf96671641e2)<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/modern-commenting-in-word)에서 세부 정보를 참조하세요.
+
+- **Word 문서용 어둠 모드:** 어둠 모드는 문서 작업을 하는 동안 눈의 피로를 줄이고 라이트에 대한 민감도를 수용하는 데 도움이 될 수 있습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/try-dark-mode-in-word)에서 세부 정보를 참조하세요.
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- Excel의 일부 자동화 추가 기능을 로드할 수 없는 문제가 수정되었습니다.
+
+
+- 일부 파일을 간혹 보호된 보기에서 열 수 없는 문제가 수정되었습니다.
+
+
+### <a name="outlook"></a>Outlook
+
+- 사용자가 검색할 때 예상대로 닫힘이 발생하는 문제가 수정되었습니다.
+
+
+- 사용자의 서명이 예기치 않게 사라지는 문제가 수정되었습니다.
+
+
+- 사용자가 메시지를 작성할 때 UI 포커스가 사라질 수 있는 문제가 수정되었습니다.
+
+
+- Outlook이 OWA에 구성된 중요 받은 편지함 기본 설정을 재정의하는 문제를 수정했습니다.
+
+
+- 로밍 설정 사용자에게 응답 없음이 발생하는 문제를 수정했습니다.
+
+
+- 다른 사용자를 대신하여 보내고 전체 주소 목록이 아닌 주소록에 대해 확인할 때 이름 확인이 비활성화되는 문제를 수정했습니다.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 연결된 그림과 관련된 문제가 수정되었습니다.
+
+
+### <a name="project"></a>Project
+
+- 사용자가 자원 그룹에서 프로젝트를 제거할 수 없는 문제를 수정했습니다.
+
+
+### <a name="word"></a>Word
+
+- 로컬에 저장된 파일에 대한 자동 저장 설명에 대한 텍스트를 업데이트하는 문제를 수정했습니다.
+
+
+- 읽기 모드에서 어둠 모드 테마를 사용하는 경우 일부 텍스트는 표시되지 않는 문제가 수정되었습니다.
+
+
+- OLE 개체 편집에 변경된 사항이 있습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
 ## <a name="version-2103-april-23"></a>버전 2103: 4월 23일
 *버전 2103(빌드 13901.20462)*
 
@@ -45,7 +131,7 @@ ms.locfileid: "52079302"
 ### <a name="resolved-issues"></a>해결된 문제
 ### <a name="excel"></a>Excel
 
-- 2021년 4월 보안 업데이트를 설치한 후 Excel용 자동화 추가 기능이 로드되지 않습니다. 현재 채널 [추가 정보](https://support.microsoft.com/ko-KR/office/automation-add-ins-for-excel-are-not-loading-after-installing-april-2021-security-update-8b2927a1-4a24-4ae6-8855-60827b7632fb)에 없는 사용자를 위해 제공된 해결 방법을 사용하세요. 
+- 2021년 4월 보안 업데이트를 설치한 후 로드되지 않는 Excel용 자동화 추가 기능 문제가 수정되었습니다. 현재 채널 [자세히 알아보기](https://support.microsoft.com/ko-KR/office/automation-add-ins-for-excel-are-not-loading-after-installing-april-2021-security-update-8b2927a1-4a24-4ae6-8855-60827b7632fb)에 없는 사용자를 위해 제공된 해결 방법을 사용하세요. 
 
 
 ### <a name="outlook"></a>Outlook
@@ -652,6 +738,7 @@ ms.locfileid: "52079302"
 > Office를 사용하는 데 발생한 문제에 대해 도움이 필요하면 [Microsoft의 Answers 포럼](https://answers.microsoft.com/) 또는 [기술 커뮤니티](https://techcommunity.microsoft.com/)에 질문을 게시하거나 [지원 서비스](https://support.microsoft.com/contactus)에 문의할 수 있습니다.
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|CC|Production| |16.0.13929.20296|version-2104-april-29|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20462|version-2103-april-23|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20400|version-2103-april-13|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20336|version-2103-april-02|)
@@ -661,5 +748,4 @@ ms.locfileid: "52079302"
 [//]: # (|Win32|CC|Production| |16.0.13801.20266|version-2102-march-01|)
 [//]: # (|Win32|CC|Production| |16.0.13628.20448|version-2101-february-16|)
 [//]: # (|Win32|CC|Production| |16.0.13628.20380|version-2101-february-09|)
-[//]: # (|Win32|CC|Production| |16.0.13628.20274|version-2101-january-26|)
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 끝)
