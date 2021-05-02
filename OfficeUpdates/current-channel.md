@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 앱에 대한 월 단위 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: da560e6b74afa2861304210c9c409510ffee1792
-ms.sourcegitcommit: c6eee117bae153c1f79ba9ecb419bfab372991bc
+ms.openlocfilehash: f187b3f58c9917470fdff4fe0ca2fd87e58fb8f0
+ms.sourcegitcommit: 544a3557e8dc8e332b9132a3219a6ca8e0306d19
 ms.translationtype: HT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 04/30/2021
-ms.locfileid: "52091797"
+ms.locfileid: "52108220"
 ---
 # <a name="release-notes-for-current-channel"></a>현재 채널에 대한 릴리스 정보
 
@@ -51,7 +51,7 @@ ms.locfileid: "52091797"
 
 - **동적 보기** 동적 보기는 Teams 모임에서 공유 콘텐츠 및 비디오 참가자를 자동으로 최적화합니다. 새로운 컨트롤을 사용하면 공유 콘텐츠와 특정 참가자를 나란히 표시하는 기능과 같이 선호도와 요구 사항에 맞게 보기를 개인화할 수 있습니다.
 
-- **부재 중:** 다른 사용자가 채팅 메시지를 보내면 근무 중이 아니거나 휴가 중이라 답장을 할 수 없다는 것을 알릴 수 있도록 메시지를 설정할 수 있습니다. 부재 중 상태는 Outlook 일정에 있는 자동 회신과도 동기화됩니다.
+- **부재 중:** 다른 사용자가 채팅 메시지를 보내면 근무 중이 아니거나 휴가 중이라 답장을 할 수 없다는 것을 알릴 수 있도록 메시지를 설정할 수 있습니다. 부재 중 상태는 Outlook 일정에 있는 자동 응답과도 동기화됩니다.
 
 ### <a name="visio"></a>Visio
 
@@ -131,7 +131,7 @@ ms.locfileid: "52091797"
 ### <a name="resolved-issues"></a>해결된 문제
 ### <a name="excel"></a>Excel
 
-- 2021년 4월 보안 업데이트를 설치한 후 로드되지 않는 Excel용 자동화 추가 기능 문제가 수정되었습니다. 현재 채널 [자세히 알아보기](https://support.microsoft.com/ko-KR/office/automation-add-ins-for-excel-are-not-loading-after-installing-april-2021-security-update-8b2927a1-4a24-4ae6-8855-60827b7632fb)에 없는 사용자를 위해 제공된 해결 방법을 사용하세요. 
+- 2021년 4월 보안 업데이트를 설치한 후 로드되지 않는 Excel용 자동화 추가 기능 문제가 수정되었습니다. 현재 채널 [추가 정보](https://support.microsoft.com/ko-KR/office/automation-add-ins-for-excel-are-not-loading-after-installing-april-2021-security-update-8b2927a1-4a24-4ae6-8855-60827b7632fb)에 없는 사용자를 위해 제공된 해결 방법을 사용하세요. 
 
 
 ### <a name="outlook"></a>Outlook

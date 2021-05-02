@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 3bd18b5fb95701778c948732cc506df182369f21
-ms.sourcegitcommit: 28baeef0385cacaa71288b5d0a00fb37b724b71b
+ms.openlocfilehash: bb14136d385d11187c26552bd61c321338ce2f36
+ms.sourcegitcommit: 544a3557e8dc8e332b9132a3219a6ca8e0306d19
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/24/2021
-ms.locfileid: "51995735"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "52108240"
 ---
 # <a name="release-notes-for-beta-channel"></a>베타 채널용 릴리스 정보
 
@@ -30,6 +30,92 @@ ms.locfileid: "51995735"
 [//]: # (제거하지 마세요)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+## <a name="version-2105-april-30"></a>버전 2105: 4월 30일
+*버전 2105(빌드 14026.20000)*
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="outlook"></a>Outlook
+
+- **대규모 DL, 외부 사용자에게 전자 메일을 보낼 때 내게 필요한 옵션 확인 도구:** 많은 청중, 외부 사용자 등에게 전자 메일을 작성하면서 접근성 위반에 대한 메시지를 메일팁을 통해 자동으로 수신하도록 기능을 추가했습니다. 이러한 설정은 내게 필요한 옵션에서 사용됩니다.
+
+### <a name="visio"></a>Visio
+
+- **AWS 스텐실 및 셰이프:** 이제 최신 AWS 셰이프가 있는 스텐실을 사용하여 다이어그램을 만들 수 있습니다. [자세한 정보](https://support.office.com/article/138206bf-d10f-4583-9f31-885ce706af49)
+
+### <a name="word"></a>Word
+
+- **글쓰기 목표:** WinWord의 목표 작성
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- 메모 창에서 메모를 작성할 때 예기치 않게 Excel이 닫히는 문제를 해결했습니다.
+
+
+- 추가 기능 사용 시 일부 언어로 날짜 형식이 잘못 표시되는 문제를 해결했습니다.
+
+
+- 특정 상황에서 서식이 있는 선택하여 붙여넣기를 사용할 때 예기치 않게 Excel이 닫힐 수 있는 문제를 해결했습니다.
+
+
+### <a name="project"></a>Project
+
+- 계획 마법사를 통해 변경한 내용이 항상 변경 이벤트로 캡처되지 않는 문제를 해결했습니다.
+
+
+- 사용자가 리소스 풀에서 프로젝트를 제거할 수 없는 문제를 수정했습니다.
+
+
+### <a name="word"></a>Word
+
+- 하이퍼링크를 제거한 후에도 텍스트 형식이 남아 있는 문제를 수정했습니다.
+
+
+- 사람들이 필터링한 후 댓글이 표시되지 않는 문제를 수정했습니다.
+
+
+- Word가 액세스 데이터베이스와 메일 병합을 수행할 수 없는 문제를 수정했습니다.
+
+
+- 여러 열을 포함하는 문서에서 여백을 축소하는 기능을 사용할 수 있는 문제를 해결했습니다.
+
+
+- 문서에 설명이 있을 때 일부 문자가 표 셀에 올바르게 표시되지 않는 문제를 해결했습니다.
+
+
+- AIP 추가 기능을 사용하여 문서를 저장할 때 파일 형식이 변경되는 문제를 해결했습니다.
+
+
+- 필드를 편집할 때 Word가 응답하지 않는 문제를 해결했습니다.
+
+
+- Ctrl+S 바로 가기 키가 아닌 명령을 사용할 때 문서를 저장하라는 메시지가 표시되지 않는 문제를 해결했습니다.
+
+
+- SharePoint Online에 파일을 업로드한 후 Word의 파일에서 감도 라벨이 사라지는 문제를 해결했습니다.
+
+
+### <a name="office-suite"></a>Office Suite
+
+- 문서에 메모를 추가할 때 받아쓰기 단추가 잘못 정렬되는 문제를 해결했습니다.
+
+
+- 고대비 모드를 장시간 사용하면 Outlook이 예기치 않게 닫히는 문제를 해결했습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2105-april-23"></a>버전 2105: 4월 23일
 *버전 2105(빌드 14014.20002)*
@@ -52,7 +138,7 @@ ms.locfileid: "51995735"
 ### <a name="resolved-issues"></a>해결된 문제
 ### <a name="excel"></a>Excel
 
-- 이전 버전의 Excel과의 이전 버전과의 호환성을 지원하기 위해 문제를 해결했습니다. 이 문제로 인해 Office 2007 이후 엑셀에 추가된 IFERROR, XLOOKUP 등의 기능으로 인해 Excel의 최신 버전에 저장된 파일이 제대로 로드되지 않을 수 있습니다.
+- 이전 버전의 Excel과의 역호환성을 지원하기 위해 문제를 해결했습니다. 이 문제로 인해 Office 2007 이후 엑셀에 추가된 IFERROR, XLOOKUP 등의 기능으로 인해 Excel의 최신 버전에 저장된 파일이 제대로 로드되지 않을 수 있습니다.
 
 
 - 일부 파일이 보호된 보기에서 열리지 않는 문제를 해결했습니다.
@@ -151,7 +237,7 @@ ms.locfileid: "51995735"
 
 ### <a name="word"></a>Word
 
-- 이 버그에서 Office는 특정 정책을 준수하지 않았습니다 (템플릿 그룹이 비활성화되어야 할 경우 홈페이지에 표시됨). 이 픽스를 적용하면 정책이 존중됩니다.
+- 이 버그에서 Office는 특정 정책을 준수하지 않았습니다 (템플릿 그룹이 비활성화되어야 할 경우 홈페이지에 표시됨). 이 수정으로 정책이 준수되고 있습니다.
 
 
 - 자동 저장에서 발생하는 문제를 해결했습니다.
@@ -832,7 +918,7 @@ ms.locfileid: "51995735"
 
 ### <a name="word"></a>Word
 
-- **최신 주석을 활용한 더 나은 공동 작업:** 개체에 메모를 추가하고, 동료를 @멘션하고, 메모 스레드를 해결하여 공동 작업 환경을 개선해보세요. [자세한 정보](https://support.office.com/article/8d3f868a-867e-4df2-8c68-bf96671641e2)<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/modern-commenting-in-word)에서 세부 정보 보기
+- **최신 주석을 활용한 더 나은 공동 작업:** 개체에 메모를 추가하고, 동료를 @멘션하고, 메모 스레드를 해결하여 공동 작업 환경을 개선해보세요. [자세한 정보](https://support.office.com/article/8d3f868a-867e-4df2-8c68-bf96671641e2)<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/modern-commenting-in-word)에서 세부 정보를 참조하세요.
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -1100,7 +1186,7 @@ ms.locfileid: "51995735"
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
 ### <a name="resolved-issues"></a>해결된 문제
-### <a name="access"></a>액세스
+### <a name="access"></a>Access
 
 - Office가 아닌 응용 프로그램에서 DAO를 사용할 경우 응용 프로그램이 예기치 않게 종료되는 문제를 해결했습니다.
 
@@ -1185,7 +1271,7 @@ ms.locfileid: "51995735"
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
 ### <a name="resolved-issues"></a>해결된 문제
-### <a name="access"></a>액세스
+### <a name="access"></a>Access
 
 - 동기화된 OneDrive 폴더에서 쿼리를 내보내려고 할 때 일부 사용자에게 “시스템 리소스가 초과했습니다.”라는 오류가 표시되는 문제를 해결했습니다.
 
@@ -1299,7 +1385,7 @@ ms.locfileid: "51995735"
 
 ### <a name="outlook"></a>Outlook
 
-- 이미지 첨부 파일에 대한 빠른 인쇄에서 다음 오류 메시지가 발생하는 문제를 해결했습니다. “Windows에서 이 그림을 찾을 수 없습니다. 위치를 확인한 후 다시 시도하세요".
+- 이미지 첨부 파일에 대한 빠른 인쇄에서 다음 오류 메시지가 발생하는 문제를 해결했습니다. “Windows에서 이 그림을 찾을 수 없습니다. 위치를 확인하고 다시 시도하세요”.
 
 
 - 일부 사용자가 온라인으로 작업하기 위해 수동으로 선택할 때까지 Outlook이 오프라인 상태에서 시작하는 문제를 해결했습니다.
@@ -1627,7 +1713,7 @@ ms.locfileid: "51995735"
 - LET 기능이 포함된 파일을 열면 다음과 같은 경고가 표시되는 문제를 해결: ““your file.xlsx”의 콘텐츠에서 문제를 발견했습니다. 가능한 많은 복구를 원하십니까? 이 통합 문서의 원본을 신뢰하는 경우 "예"를 클릭하세요”.
 - XLAM 추가 기능 참조 및 명명된 범위와 관련된 충돌을 해결했습니다.
 - 사용자가 Analysis Services 데이터베이스에 존재하지 않는 값으로 설정하였기 때문에 피벗 테이블 필터를 수정할 수 없는 문제를 해결했습니다.
-- 사용자가 동적 배열에 사용자 지정 스타일을 적용한 경우 "배열의 일부를 변경할 수 없습니다"라는 오류가 발생하는 문제를 해결했습니다. 이는 제거된 레거시 제한 사항입니다.
+- 사용자가 동적 배열에 사용자 지정 스타일을 적용한 경우 "배열의 일부를 변경할 수 없습니다"라는 오류가 발생하는 문제를 해결했습니다. 레거시 제한 사항이 제거되었습니다.
 - 원격 세션 연결/연결 끊기, 모니터 변경 등과 같이 장치 연결이 끊어진 후에 Excel 수식 입력줄이 완전히 렌더링되지 않는 문제를 해결했습니다.
 
 ### <a name="outlook"></a>Outlook
@@ -1775,19 +1861,19 @@ ms.locfileid: "51995735"
 ### <a name="feature-updates"></a>기능 업데이트
 ### <a name="excel"></a>Excel
 
-- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
+- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보를 참조하세요.
 
 ### <a name="outlook"></a>Outlook
 
-- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
+- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보를 참조하세요.
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
+- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보를 참조하세요.
 
 ### <a name="word"></a>Word
 
-- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
+- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보를 참조하세요.
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
@@ -2014,7 +2100,7 @@ ms.locfileid: "51995735"
 ### <a name="outlook"></a>Outlook
 
 - 해상도가 다른 여러 모니터를 사용할 때 입력 방법 편집기(IME) 창이 IME를 통해 입력되는 기본 텍스트와 겹치는 문제를 해결했습니다.
-- 이전에 저장한 약속을 닫을 때 ‘다른 사용자 또는 다른 창에서 변경했기 때문에 해당 항목을 저장할 수 없습니다. 해당 항목에 대한 기본 폴더에 복사본을 만드시겠습니까?’라는 오류가 발생하는 문제를 해결했습니다.
+- 이전에 저장한 약속을 닫을 때 “다른 사용자 또는 다른 창에서 변경했기 때문에 해당 항목을 저장할 수 없음” 오류가 표시되는 문제가 수정 되었습니다. 항목에 대해 기본 폴더에 복사본을 만드시겠습니까?
 - 일본에서 미니 캘린더의 날짜가 굵게 표시되지 않는 문제를 해결했습니다.
 - 일주일 이내에 진행될 모임의 시간을 일정 미리 알림에서 정확하게 표시하지 않는 문제를 해결했습니다.
 
@@ -2044,7 +2130,7 @@ ms.locfileid: "51995735"
 ### <a name="feature-updates"></a>기능 업데이트
 ### <a name="excel"></a>Excel
 
-- **데이터 형식을 사용하여 Power BI에서 조직 데이터를 가져오기:** 이제 Power BI의 Excel 데이터 형식을 Office 365 E5/A5 또는 Microsoft 365 E5/A5를 사용하는 조직의 참가자에게 배포합니다. 필요한 정보를 가져오고 손쉽게 새로 고치는 건 일상적인 여러 워크플로에 매우 중요합니다. Microsoft는 Power BI를 사용하여 Excel에서 데이터 형식으로 회사나 조직 정보에 액세스할 수 있도록 하여 스프레드시트에 연결된 정보를 제공하는 기능을 확장합니다. [자세한 정보](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />[블로그 게시물](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)에서 세부 정보 보기
+- **데이터 형식을 사용하여 Power BI에서 조직 데이터를 가져오기:** 이제 Power BI의 Excel 데이터 형식을 Office 365 E5/A5 또는 Microsoft 365 E5/A5를 사용하는 조직의 참가자에게 배포합니다. 필요한 정보를 가져오고 손쉽게 새로 고치는 건 일상적인 여러 워크플로에 매우 중요합니다. Microsoft는 Power BI를 사용하여 Excel에서 데이터 형식으로 회사나 조직 정보에 액세스할 수 있도록 하여 스프레드시트에 연결된 정보를 제공하는 기능을 확장합니다. [자세한 정보](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />[블로그 게시물](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)에서 세부 정보를 참조하세요.
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
@@ -2370,7 +2456,7 @@ ms.locfileid: "51995735"
 
 - 공동 작업 모드에서 문서에 메모를 삽입할 때 항상 작동하지 않는 문제를 해결했습니다.
 - 이 변경 내용으로 @멘션을 클릭하면 사용자 카드가 깜빡이는 문제를 해결합니다.
-- 초안 메모가 포함된 문서를 닫을 때 초안 메모를 저장하지 않고 문서를 닫을지 묻는 메시지가 표시되는 문제를 해결했습니다. 이 메시지를 취소하면 문서를 열어두지 않고 닫습니다.
+- 초안 메모가 포함된 문서를 닫을 때 초안 메모를 저장하지 않고 문서를 닫을지 묻는 메시지가 표시되는 문제를 해결했습니다. 프롬프트를 취소하면 문서를 열어두지 않고 닫을 수 있습니다.
 - 게시된 메모를 번역하면 "번역된 텍스트 삽입 실패"라는 오류가 발생하는 문제를 해결했습니다.
 - 웹 보기/몰입형 리더에서 힌트를 클릭하면 이미 보기에 있더라도 맨 위로 스크롤됩니다. 이 문제는 해결되었습니다.
 - 매크로가 포함된 파일을 새 이름으로 저장하려고 하면 사용자가 입력한 내용에 상관없이 파일이 .docx 확장명과 파일 이름 WRO0004.docx로 저장되어 문서를 사용할 수 없게 만드는 문제를 해결했습니다.
@@ -2851,7 +2937,7 @@ ms.locfileid: "51995735"
 ### <a name="resolved-issues"></a>해결된 문제
 ### <a name="access"></a>Access
 
-- 이 업데이트는 ADODB 사용시 발생하는 문제를 해결합니다. VB 코드의 레코더 개체에서 오류가 잘못 보고될 수 있습니다.
+- 이 업데이트는 ADODB 사용시 발생하는 문제를 해결합니다. VB 코드의 레코더 개체가 오류를 잘못 보고할 수 있습니다.
 
 - 이 업데이트는 Microsoft Access에서 연결된 SQL Server 테이블의 ID 열이 식별되지 않아서 행이 올바르지 않게 삭제된 것으로 보고되는 문제를 해결합니다.
 
@@ -2893,6 +2979,7 @@ ms.locfileid: "51995735"
 
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14026.20000|version-2105-april-30|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14014.20002|version-2105-april-23|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14007.20002|version-2105-april-16|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14002.20000|version-2105-april-09|)
@@ -2902,5 +2989,4 @@ ms.locfileid: "51995735"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13906.20000|version-2104-march-12|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13901.20036|version-2103-march-05|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13819.20006|version-2103-february-26|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13811.20002|version-2103-february-19|)
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 끝)
