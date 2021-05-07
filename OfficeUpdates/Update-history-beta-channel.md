@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 참가자에게 Windows Desktop용 월 단위 채널 참가자 빠른 릴리스에 대한 업데이트 내역을 제공합니다.
-ms.openlocfilehash: 6079dae053bd17e46381a456ed4793df98b93194
-ms.sourcegitcommit: d6bf34f5a6630f91967f1b3355eba006ecc8fdde
+ms.openlocfilehash: bb76a9d7bea20fc325b2913c83a6e3d9084e2c57
+ms.sourcegitcommit: e4d02f3245d41beb8a9cfc9e386c1f81d0f5e7a0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "52077398"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52236908"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Office Beta 채널에 대한 업데이트 기록
 
@@ -31,12 +31,15 @@ ms.locfileid: "52077398"
 
 ## <a name="office-beta-channel-versions-and-builds"></a>Office Beta 채널 버전 및 빌드
 
-참가자 수준에 등록한 경우 새로운 기능 및 개선 사항이 포함된 업데이트를 자주 받습니다. 다음 목록에는 **가장 최근에 릴리스된 빌드** 가 먼저 나열되는 최신 베타 채널 버전 및 빌드의 기록이 나와 있습니다. 새 빌드에는 이전 빌드에 포함된 모든 업데이트가 포함됩니다.
+If you're enrolled in the Insider level you get frequent updates with new features and improvements. The following list shows a history of recent Beta Channel versions and builds, with **the most recently released build listed first**. New builds contain all the updates contained in previous builds.
 
 릴리스 정보를 찾으려면 [Windows용 Office의 내부 관리자 릴리스 정보](./beta-channel.md)를 참조하십시오.
 
 
 [//]: # (제거하지 마세요)
+
+**2021년 5월 4일**<br/>
+버전 2106(빌드 14029.20000)<br/>
 
 **2021년 4월 28일**<br/>
 버전 2105(빌드 14026.20000)<br/>
