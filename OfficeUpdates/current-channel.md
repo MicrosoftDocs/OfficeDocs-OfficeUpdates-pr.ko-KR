@@ -9,19 +9,16 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 앱에 대한 월 단위 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: f187b3f58c9917470fdff4fe0ca2fd87e58fb8f0
-ms.sourcegitcommit: 544a3557e8dc8e332b9132a3219a6ca8e0306d19
+ms.openlocfilehash: c80fc6be7ba427eb11cc1e141d44e12ed30cdb2c
+ms.sourcegitcommit: 596cdb3423140df0324a952157fbc39ebedc12b9
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52108220"
+ms.lasthandoff: 05/07/2021
+ms.locfileid: "52277915"
 ---
 # <a name="release-notes-for-current-channel"></a>현재 채널에 대한 릴리스 정보
 
 이러한 릴리스 정보는 엔터프라이즈용 Microsoft 365 앱, 비즈니스용 Microsoft 365 앱, Project와 Visio 데스크톱 앱의 구독 버전에 대한 현재 채널 업데이트에 포함된 새로운 기능 및 비보안 업데이트 관련 정보를 제공합니다.
-
-> [!IMPORTANT]
-> 당사는 Microsoft 365 앱에 대한 업데이트 채널을 일부 변경하고 있습니다. 여기에는 새 업데이트 채널 추가(월별 엔터프라이즈 채널) 및 기존 업데이트 채널의 이름 변경 등이 포함됩니다. 자세한 내용은 [이 문서를 참조](/DeployOffice/update-channels-changes)하세요.
 
  > [!NOTE]
 >
@@ -55,7 +52,7 @@ ms.locfileid: "52108220"
 
 ### <a name="visio"></a>Visio
 
-- **다이어그램용으로 바로 사용할 수 있는 그래픽:** Visio 드로잉에 추가할 수 있는 아이콘, 사진 이미지, 사람 컷아웃 및 스티커를 대형 라이브러리에서 선택하세요. [자세한 정보](https://support.office.com/article/0ab844a5-289b-47f2-ba92-eeda168bc381)<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/access-illustrations-icons-in-visio)에서 세부 정보를 참조하세요.
+- **다이어그램용으로 바로 사용할 수 있는 그래픽:** Visio 드로잉에 추가할 수 있는 아이콘, 사진 이미지, 사람 컷아웃 및 스티커를 대형 라이브러리에서 선택하세요. [자세한 정보](https://support.office.com/article/0ab844a5-289b-47f2-ba92-eeda168bc381)<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/access-illustrations-icons-in-visio)에서 세부 정보 보기
 
 ### <a name="word"></a>Word
 
@@ -215,6 +212,10 @@ ms.locfileid: "52108220"
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
 ### <a name="feature-updates"></a>기능 업데이트
+### <a name="excel"></a>Excel
+
+- **정부 고객: 문서 및 전자 메일에 민감도 레이블 적용:** 이제 DoD 환경의 고객이 민감도 레이블 기능을 사용할 수 있습니다. [자세한 정보](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+
 ### <a name="outlook"></a>Outlook
 
 - **메시지 작성 시간 절약:** Outlook에서 메시지를 신속하게 작성하는 데 도움이 되는 쓰기 제안을 표시합니다. 제안을 수락하려면 탭 키를 사용하면 됩니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/text-predictions-in-word-outlook)에서 세부 정보 보기
@@ -228,6 +229,12 @@ ms.locfileid: "52108220"
 - **Teams에 공유:** Teams 내 개인 또는 채널에 Outlook의 메시지를 공유합니다.
 
 - **음성으로 메시지 초안 작성:** 새 받아쓰기 도구 모음, 음성 명령, 자동 입력 등을 사용하여 메시지를 작성합니다.
+
+- **정부 고객: 문서 및 전자 메일에 민감도 레이블 적용:** 이제 DoD 환경의 고객이 민감도 레이블 기능을 사용할 수 있습니다. [자세한 정보](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **정부 고객: 문서 및 전자 메일에 민감도 레이블 적용:** 이제 DoD 환경의 고객이 민감도 레이블 기능을 사용할 수 있습니다. [자세한 정보](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="teams"></a>Teams
 
@@ -253,6 +260,7 @@ ms.locfileid: "52108220"
 
 - **음성으로 문서 초안 작성:** 새 받아쓰기 도구 모음, 음성 명령 및 자동 맞춤법을 사용하여 문서의 초안을 작성합니다.
 
+- **정부 고객: 문서 및 전자 메일에 민감도 레이블 적용:** 이제 DoD 환경의 고객이 민감도 레이블 기능을 사용할 수 있습니다. [자세한 정보](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
