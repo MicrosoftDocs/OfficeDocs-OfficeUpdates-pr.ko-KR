@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Windows 7용 Microsoft 365 앱의 업데이트 기록에 대한 릴리스 노트를 고객에게 제공합니다.
-ms.openlocfilehash: 2def2d0901a5c1759c39e4f366b5bb16669a5132
-ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
+ms.openlocfilehash: cf4273fa79e76c1861a83a552c45afd3026380cf
+ms.sourcegitcommit: 555e92127b0922cf09d5c2cc1dba836336bcbf5b
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51749136"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "52330455"
 ---
 # <a name="update-history-for-microsoft-365-apps-on-windows-7"></a>Windows 7의 Microsoft 365 앱 업데이트 기록 
 
@@ -26,7 +26,7 @@ ms.locfileid: "51749136"
 
 버전 2002는 Windows 7을 실행하는 장치에서 사용할 수 있는 최신 버전의 Microsoft 365 앱입니다. 버전 2002는 Microsoft 365 앱의 모든 업데이트 채널에서 사용할 수 있습니다.
 
-반기 엔터프라이즈 채널의 버전은 일반적으로 14개월 동안만 사용할 수 있습니다. 그러나, Windows 7에 대한 확장된 보안 업데이트(ESU)의 기간에 맞추어 버전 2002에 한해서 예외를 적용하고 있습니다.
+반기 채널 엔터프라이즈의 버전은 보통 14개월 동안만 사용할 수 있지만, Windows 7에 대한 확장된 보안 업데이트(ESU)의 기간에 맞추어 버전 2002에 한해서 예외를 적용하고 있습니다.
 
 이 확장된 버전 2002의 가용성은 또한 현재 채널과 같은 다른 업데이트 채널에도 적용되지만, Windows 7을 실행하는 장치에만 적용됩니다.
 
@@ -38,6 +38,9 @@ Microsoft Endpoint Configuration Manager를 사용하여 업데이트를 관리�
 ## <a name="update-history"></a>업데이트 기록
 
 [//]: # (제거하지 마세요)
+
+**2021년 5월 11일**<br/>
+버전 2002(빌드 12527.21912)<br/>
 
 **2021년 4월 13일**<br/>
 버전 2002(빌드 12527.21814)<br/>

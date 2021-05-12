@@ -9,17 +9,63 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2021년 Microsoft 365 앱에 대한 반기 채널(대상 지정) 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 15057ecbf2e351bc294a9937e1548f51a43f7ba6
-ms.sourcegitcommit: 596cdb3423140df0324a952157fbc39ebedc12b9
+ms.openlocfilehash: e602a1e45b465ff40b034098a118ed75466c03f0
+ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/07/2021
-ms.locfileid: "52278115"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52322488"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>반기 기업 채널(프리뷰)의 릴리스 정보
 
 이 릴리스 정보에서는 엔터프라이즈용 Microsoft 365 앱, 비즈니스용 Microsoft 365 앱 및 프로젝트 및 Visio용 데스크톱 앱의 구독 버전에 대한 반기별 엔터프라이즈 채널(미리 보기) 업데이트에 포함된 새로운 기능 및 비보안 업데이트에 대한 정보를 제공합니다.
 
+
+## <a name="version-2102-may-11"></a>버전 2102: 5월 11일
+*버전 2102(빌드 13801.20638)*
+
+[여기](microsoft365-apps-security-updates.md) 나열된 보안 업데이트
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- Excel의 일부 자동화 추가 기능을 로드할 수 없는 문제가 수정되었습니다.
+
+
+- 추가 기능 사용 시 일부 언어로 날짜 형식이 잘못 표시되는 문제를 해결했습니다.
+
+
+- 보호된 시트에 수식으로 붙여넣을 수 있는 기능을 막는 문제를 수정했습니다.
+
+
+### <a name="outlook"></a>Outlook
+
+- 이렇게 하면 최종 사용자가 만든 모든 모임에 온라인 모임을 추가할 수 있도록 Outlook을 구성할 수 있습니다.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 연결된 그림과 관련된 문제가 수정되었습니다.
+
+
+### <a name="word"></a>Word
+
+- 링크의 2084 번째 문자가 이스케이프 문자일 때 누군가가 항목을 보낼 수 없는 Wordmail의 문제를 수정했습니다.
+
+
+### <a name="office-suite"></a>Office Suite
+
+- GPO에서 비활성화 요청이 있는 경우에도 Office 서식 파일을 켜는 문제가 수정되었습니다.
+
+
+- 긴 문서를 인쇄하는 동안 Word가 예기치 않게 닫히는 문제가 수정되었습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2102-april-13"></a>버전 2102: 4월 13일
 *버전2102(빌드 13801.20506)*
@@ -110,7 +156,7 @@ ms.locfileid: "52278115"
 
 - **데이터 형식을 사용하여 Power BI에서 조직 데이터를 가져오기:** 이제 Power BI의 Excel 데이터 형식을 Office 365/Microsoft 365를 사용하는 조직의 참가자에게 배포합니다. 필요한 정보를 가져오고 손쉽게 새로 고치는 건 일상적인 여러 워크플로에 매우 중요합니다. Microsoft는 Power BI를 사용하여 Excel에서 데이터 형식으로 회사나 조직 정보에 액세스할 수 있도록 하여 스프레드시트에 연결된 정보를 제공하는 기능을 확장합니다. [자세한 정보](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />[블로그 게시물](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)에서 세부 정보 보기
 
-- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
+- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
 
 - **Excel에서 세련된 Visio 다이어그램 만들기:** 워크시트의 데이터를 사용하여 순서도나 조직도와 같은 데이터 기반 다이어그램을 만들 수 있습니다. [자세한 정보](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
@@ -122,13 +168,13 @@ ms.locfileid: "52278115"
 
 - **문자 서식을 사용해 Outlook 설문 조사 만들기**: 설문 조사를 쉽게 작성하고 투표를 수집하며 전자 메일로 결과를 볼 수 있습니다 [자세한 내용 보기](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
 
-- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
+- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
 
 - **새 회의실 찾기:** 다양한 기능으로 회의실을 검색합니다.
 
 - **평소 말하는 식으로 검색:** "지난주 동물 병원 진료 예약"과 같은 일상적인 언어를 사용하여 검색을 필터링하고 범위를 좁힙니다.
 
-- **이전 Outlook 세션의 항목을 빠르게 다시 여는 옵션:** 이전 Outlook 세션의 항목을 빠르게 다시 여는 옵션을 추가했습니다.<br />[블로그 게시물](https://insider.office.com/en-us/blog/automatically-restore-windows-in-outlook)에서 세부 정보 보기
+- **이전 Outlook 세션의 항목을 빠르게 다시 여는 옵션:** 이전 Outlook 세션의 항목을 빠르게 다시 여는 옵션을 추가했습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/automatically-restore-windows-in-outlook)에서 세부 정보 보기
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -136,7 +182,7 @@ ms.locfileid: "52278115"
 
 - **고정된 폴더에 저장:** 폴더를 고정하면 Office 파일을 더 쉽게 저장할 수 있습니다.  새 파일을 저장할 때 사용할 수 있는 폴더에 대한 추가 제어를 원하다는 사용자 피드백을 받았습니다. 저장 대화 상자에서 폴더를 고정하는 새로운 기능을 제공하게 되어 기쁘게 생각합니다. 이 새로운 기능을 통해 Word, Excel 및 PowerPoint 파일을 더 쉽게 저장할 수 있습니다. [자세한 정보](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />[블로그 게시물](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)에서 세부 정보 보기
 
-- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
+- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
 
 ### <a name="visio"></a>Visio
 
@@ -148,7 +194,7 @@ ms.locfileid: "52278115"
 
 - **고정된 폴더에 저장:** 폴더를 고정하면 Office 파일을 더 쉽게 저장할 수 있습니다.  새 파일을 저장할 때 사용할 수 있는 폴더에 대한 추가 제어를 원하다는 사용자 피드백을 받았습니다. 저장 대화 상자에서 폴더를 고정하는 새로운 기능을 제공하게 되어 기쁘게 생각합니다. 이 새로운 기능을 통해 Word, Excel 및 PowerPoint 파일을 더 쉽게 저장할 수 있습니다. [자세한 정보](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />[블로그 게시물](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)에서 세부 정보 보기
 
-- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
+- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
 
 ### <a name="office-suite"></a>Office 제품군
 
@@ -611,6 +657,7 @@ ms.locfileid: "52278115"
 
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|FRDC|Insiders| |16.0.13801.20638|version-2102-may-11|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13801.20506|version-2102-april-13|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13801.20294|version-2102-march-09|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.21216|version-2008-february-09|)
@@ -620,5 +667,4 @@ ms.locfileid: "52278115"
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20638|version-2008-october-13|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20408|version-2008-september-08|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.12527.20988|version-2002-august-11|)
-[//]: # (|Win32|FRDC|Insiders| |16.0.12527.20880|버전 2002년 7월 14일|)
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 끝)

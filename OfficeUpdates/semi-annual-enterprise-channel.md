@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 앱에 대한 반기 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 15a5b7073da11a3dc177027ca92385a47a999e38
-ms.sourcegitcommit: 596cdb3423140df0324a952157fbc39ebedc12b9
+ms.openlocfilehash: a6fa2fbc2e872e099800a3ca1c8ec421d14fef3d
+ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/07/2021
-ms.locfileid: "52278105"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52322348"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>반기 기업 채널에 대한 릴리스 정보
 
@@ -23,6 +23,59 @@ ms.locfileid: "52278105"
 > [!NOTE]
 >
 >- 반기 기업 채널의 사용자가 Office Portal에서 Microsoft 365 앱을 다운로드하여 Windows 10에 설치하는 경우 이제 OneNote 2016이 기본적으로 포함됩니다.
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2008-may-11"></a>버전 2008: 5월 11일
+*버전 2008(빌드 13127.21624)*
+
+[여기](microsoft365-apps-security-updates.md) 나열된 보안 업데이트
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- Excel의 일부 자동화 추가 기능을 로드할 수 없는 문제가 수정되었습니다.
+
+
+- 보호된 시트에 수식으로 붙여넣을 수 있는 기능을 막는 문제를 수정했습니다.
+
+
+- 접근성 포커스 추적이 켜져 있는 시트 사이를 전환하거나 스크롤하는 동안 성능을 개선하기 위해 수정했습니다.
+
+
+- 수동 입력으로 인해 Excel이 응답하지 않을 수 있는 문제를 해결했습니다.
+
+
+### <a name="outlook"></a>Outlook
+
+- 사용자가 해당 옵션을 선택하지 않은 후 메일이 디지털 서명으로 전송될 수 있는 문제가 수정되었습니다.
+
+
+### <a name="word"></a>Word
+
+- 일부 파일을 PDF로 내보낼 수 없는 문제를 해결합니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2002-may-11"></a>버전 2002: 5월 11일
+*버전 2002(빌드 12527.21912)*
+
+[여기](microsoft365-apps-security-updates.md) 나열된 보안 업데이트
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- Excel의 일부 자동화 추가 기능을 로드할 수 없는 문제가 수정되었습니다.
+
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -927,6 +980,7 @@ ms.locfileid: "52278105"
 
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|DC|Production| |16.0.13127.21624|version-2008-may-11|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21506|version-2008-april-13|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21348|version-2008-march-09|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21216|version-2008-february-09|)
@@ -936,5 +990,4 @@ ms.locfileid: "52278105"
 [//]: # (|Win32|DC|Production| |16.0.12527.21236|version-2002-october-13|)
 [//]: # (|Win32|DC|Production| |16.0.12527.21104|version-2002-september-08|)
 [//]: # (|Win32|DC|Production| |16.0.12527.20988|version-2002-august-11|)
-[//]: # (|Win32|DC|Production| |16.0.12527.20880|version-2002-july-14|)
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 끝)
