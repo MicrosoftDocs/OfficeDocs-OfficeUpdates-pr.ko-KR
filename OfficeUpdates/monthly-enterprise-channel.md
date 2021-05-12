@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps에 대한 월 단위 기업 채널의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 45717c3a57ea169f7c243f0db1a318f3f5aeebe7
-ms.sourcegitcommit: 596cdb3423140df0324a952157fbc39ebedc12b9
+ms.openlocfilehash: 97275c74ed91f91cd6a307cb87bbdc83ffcdf49e
+ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/07/2021
-ms.locfileid: "52278045"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52322328"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel"></a>월 단위 기업 채널에 대한 릴리스 정보
 
@@ -24,6 +24,179 @@ ms.locfileid: "52278045"
 [//]: # (제거하지 마세요)
 
 
+
+## <a name="version-2103-may-11"></a>버전 2103: 5월 11일
+*버전 2103(빌드 13901.20516)*
+
+[여기](microsoft365-apps-security-updates.md) 나열된 보안 업데이트
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="excel"></a>Excel
+
+- **자동으로 새 데이터 형식 사용**: 재고량 또는 지리적 위치와 유사한 데이터 값을 입력하면 Excel에서 재고량 또는 지역 중 연결된 올바른 데이터 형식으로 변환할 것을 제안합니다. [자세한 정보](https://support.office.com/article/61a33056-9935-484f-8ac8-f1a89e210877)
+
+- **연결된 데이터 형식: 실용적인 실제 데이터:** 새로운 연결된 데이터 형식을 사용하면 수백 개의 주제에 대한 팩트와 데이터를 가져와 Excel에서 바로 목표를 달성하는 데 도움이 됩니다.
+
+### <a name="outlook"></a>Outlook
+
+- **기본 제공 변환기로 언어 장벽 부수기:** 번역을 위한 추가 기능이 더 이상 필요하지 않습니다. 이제 Outlook에서 지능형 번역기 기능을 사용할 수 있습니다. 다른 언어로 메시지를 받으면 Outlook에서 기본 언어로 번역할지 묻는 메시지가 메시지 맨 위에 표시됩니다.
+마우스 오른쪽 단추를 클릭하여 특정 단어, 구 또는 전체 메시지를 번역할 수도 있습니다. [자세한 정보](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f)
+
+### <a name="visio"></a>Visio
+
+- **다이어그램용으로 바로 사용할 수 있는 그래픽:** Visio 드로잉에 추가할 수 있는 아이콘, 사진 이미지, 사람 컷아웃 및 스티커를 대형 라이브러리에서 선택하세요. [자세한 정보](https://support.office.com/article/0ab844a5-289b-47f2-ba92-eeda168bc381)<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/access-illustrations-icons-in-visio)에서 세부 정보 보기
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="access"></a>액세스
+
+- 외부 응용 프로그램이 접근성 인터페이스를 요청하는 경우 참조가 릴리스될 때까지 종료되지 않도록 문제가 해결되었습니다.
+
+
+- 이 변경은 일부 경우 SQL Server를 실행하면 통과 쿼리로 인해 "커서 상태가 잘못되었습니다"라는 오류 메시지가 표시될 수 있는 문제를 해결합니다.
+
+
+### <a name="excel"></a>Excel
+
+- 추가 기능 사용 시 일부 언어로 날짜 형식이 잘못 표시되는 문제를 해결했습니다.
+
+
+- 일부 사용자에게 분석 도구 추가 기능이 작동하지 않는 문제를 해결했습니다.
+
+
+- 이미지를 그리는 경우 Word에서 중단될 수 있는 문제가 수정되었습니다.
+
+
+### <a name="outlook"></a>Outlook
+
+- 다른 사용자를 대신하여 전체 주소 목록이 아닌 주소록에 대해 확인할 때 이름 확인이 실패하는 문제를 수정했습니다.
+
+
+- Outlook이 OWA에 구성된 중요 받은 편지함 기본 설정을 재정의하는 문제를 수정했습니다.
+
+
+- 일부 사람이 보조 메일 계정과 연결된 서명에 액세스할 수 없는 문제가 수정되었습니다.
+
+
+- 사용자에게 예상보다 더 많은 서명이 표시될 수 있는 문제를 해결했습니다.
+
+
+- 일부 사용자가 탐색 창에서 기본 및 보조 일정으로 전환하는 문제가 수정되었습니다.
+
+
+- 일정을 추가할 때 사용자에게 "시간이 걸릴 수 있습니다"라는 메시지가 잘못 표시되는 문제를 해결했습니다.
+
+
+- 대리인이 새로 추가된 일정에 생성된 모임의 이끌이로 표시되는 문제를 수정했습니다.  이 주의 회의는 교장의 달력에 표시되지 않았습니다.
+
+
+- ARM 프로세서가 장착된 컴퓨터의 MAPI 지원 응용 프로그램에서 사용하는 Outlook 구성 요소의 문제를 해결했습니다. 이 문제로 인해 검색이 실패하거나 백그라운드 앱이 반복적으로 다시 시작되면서 컴퓨터에 추가 로드가 발생할 수 있습니다.
+
+
+- 폴더 계층 구조 변경을 동기화할 때 일부 사용자에게 Outlook이 예기치 않게 닫히는 문제가 수정되었습니다.
+
+
+- 이미지를 그리는 경우 Word에서 중단될 수 있는 문제가 수정되었습니다.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 연결된 그림과 관련된 문제가 수정되었습니다.
+
+
+- 이미지를 그리는 경우 Word에서 중단될 수 있는 문제가 수정되었습니다.
+
+
+### <a name="project"></a>Project
+
+- 닫는 동안 Visio 작동이 중지되는 문제가 수정되었습니다.
+
+
+### <a name="visio"></a>Visio
+
+- 닫는 동안 Visio 작동이 중지되는 문제가 수정되었습니다.
+
+
+### <a name="word"></a>Word
+
+- 제공될 텍스트 예측에 대한 조건을 최적화하는 문제를 수정했습니다.
+
+
+- 로컬에 저장된 파일에 대한 자동 저장 설명에 대한 텍스트를 업데이트하는 문제를 수정했습니다.
+
+
+- 문서를 공동 작성하는 경우 설명 순서가 변경되어도 활성 초안이 지워지지 않는 문제를 수정했습니다.
+
+
+- 인쇄 미리 보기가 예기치 않게 종료된 문제를 수정합니다.
+
+
+- 이미지를 그리는 경우 Word에서 중단될 수 있는 문제가 수정되었습니다.
+
+
+
+### <a name="office-suite"></a>Office Suite
+
+- 세션 0에서 실행되는 Office 앱 지원과 관련된 안정성 문제를 해결합니다.
+
+
+- SyncBacked 파일을 오프라인으로 열고 파일을 저장하기 전에 앱의 파일 이름을 바꿀 때 이름 변경에 반응이 없는 문제가 수정되었습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2102-may-11"></a>버전 2102: 5월 11일
+*버전 2102(빌드 13801.20638)*
+
+[여기](microsoft365-apps-security-updates.md) 나열된 보안 업데이트
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- 추가 기능 사용 시 일부 언어로 날짜 형식이 잘못 표시되는 문제를 해결했습니다.
+
+
+- 보호된 시트에 수식으로 붙여넣을 수 있는 기능을 막는 문제를 수정했습니다.
+
+
+### <a name="outlook"></a>Outlook
+
+- 이렇게 하면 최종 사용자가 만든 모든 모임에 온라인 모임을 추가할 수 있도록 Outlook을 구성할 수 있습니다.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 연결된 그림과 관련된 문제가 수정되었습니다.
+
+
+### <a name="word"></a>Word
+
+- 링크의 2084 번째 문자가 이스케이프 문자일 때 누군가가 이 항목을 보낼 수 없는 Wordmail의 문제를 수정합니다.
+
+
+### <a name="office-suite"></a>Office Suite
+
+- 긴 문서를 인쇄하는 동안 Word가 예기치 않게 닫히는 문제가 수정되었습니다.
+
+
+- 이 변경 전에는 Office 템플릿이 사용 안 함 GPO가 켜져 있어도 표시되었습니다. 이 변경이 적용되면 서식 파일은 GPO를 올바르게 존중하고 요청된 경우 표시/숨기기합니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2102-april-13"></a>버전 2102: 4월 13일
 *버전2102(빌드 13801.20506)*
@@ -289,7 +462,7 @@ ms.locfileid: "52278045"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **SVG 클립보드 지원:** 이제 Office의 SVG 콘텐츠를 타사 앱에 붙여 을 수 있습니다. [자세한 정보](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />[블로그 게시물](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)에서 세부 정보 보기
+- **SVG 클립보드 지원:** 이제 Office의 SVG 콘텐츠를 타사 앱에 붙여 을 수 있습니다. [자세한 정보](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/svg-content-office-third-party-apps)에서 세부 정보 보기
 
 - **민감도 레이블 감사 로깅:** 사용자가 문서 및 전자 메일에 민감도 레이블을 적용, 변경 또는 제거하면 Microsoft 365 감사 로그의 관리자가 해당 정보를 사용할 수 있게 됩니다.
 
@@ -538,6 +711,7 @@ ms.locfileid: "52278045"
 
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|MEC|Production|Feature|16.0.13901.20516|version-2103-may-11|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13801.20506|version-2102-april-13|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13628.20528|version-2101-march-09|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13530.20528|version-2012-february-09|)
@@ -547,5 +721,4 @@ ms.locfileid: "52278045"
 [//]: # (|Win32|MEC|Production|Feature|16.0.13127.20638|version-2008-october-13|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13029.20534|version-2007-september-08|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13001.20520|version-2006-august-11|)
-[//]: # (|Win32|MEC|Production|Feature|16.0.12827.20538|버전 2005년 7월 14일|)
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 끝)
