@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2021년 Microsoft 365 앱에 대한 반기 채널(대상 지정) 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: e602a1e45b465ff40b034098a118ed75466c03f0
-ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
+ms.openlocfilehash: 89c71d3aae644cf5d77a0568643a82175806a468
+ms.sourcegitcommit: 556c7532cd820796db244f0949205c75c013d9fc
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52322488"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "52470782"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>반기 기업 채널(프리뷰)의 릴리스 정보
 
@@ -24,7 +24,7 @@ ms.locfileid: "52322488"
 ## <a name="version-2102-may-11"></a>버전 2102: 5월 11일
 *버전 2102(빌드 13801.20638)*
 
-[여기](microsoft365-apps-security-updates.md) 나열된 보안 업데이트
+보안 업데이트는 [Microsoft Office 보안 업데이트 릴리스 노트](microsoft365-apps-security-updates.md)에 있습니다.
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -70,7 +70,7 @@ ms.locfileid: "52322488"
 ## <a name="version-2102-april-13"></a>버전 2102: 4월 13일
 *버전2102(빌드 13801.20506)*
 
-[여기](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 나열된 보안 업데이트
+보안 업데이트는 [Microsoft Office 보안 업데이트 릴리스 노트](microsoft365-apps-security-updates.md)에 있습니다.
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -105,7 +105,7 @@ ms.locfileid: "52322488"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- Office 리본의 비활성화된 명령을 실행하면 아이콘만 회색으로 표시되고 어두운 회색 Office 테마의 텍스트는 회색으로 표시되지 않는 문제를 수정했습니다.
+- Office 리본에서 비활성화된 명령의 아이콘은 회색으로 표시되지만 어두운 회색 Office 테마의 텍스트는 회색으로 표시되지 않는 문제를 수정했습니다.
 
 
 ### <a name="word"></a>Word
@@ -138,7 +138,7 @@ ms.locfileid: "52322488"
 ## <a name="version-2102-march-09"></a>버전 2102: 3월 9일
 *버전 2102(빌드 13801.20294)*
 
-[여기](./microsoft365-apps-security-updates.md) 나열된 보안 업데이트
+보안 업데이트는 [Microsoft Office 보안 업데이트 릴리스 노트](microsoft365-apps-security-updates.md)에 있습니다.
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -194,7 +194,7 @@ ms.locfileid: "52322488"
 
 - **고정된 폴더에 저장:** 폴더를 고정하면 Office 파일을 더 쉽게 저장할 수 있습니다.  새 파일을 저장할 때 사용할 수 있는 폴더에 대한 추가 제어를 원하다는 사용자 피드백을 받았습니다. 저장 대화 상자에서 폴더를 고정하는 새로운 기능을 제공하게 되어 기쁘게 생각합니다. 이 새로운 기능을 통해 Word, Excel 및 PowerPoint 파일을 더 쉽게 저장할 수 있습니다. [자세한 정보](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />[블로그 게시물](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)에서 세부 정보 보기
 
-- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
+- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보를 참조하세요.
 
 ### <a name="office-suite"></a>Office 제품군
 
@@ -518,7 +518,7 @@ ms.locfileid: "52322488"
 ## <a name="version-2008-february-09"></a>버전 2008: 2월 9일
 *버전 2008 (빌드 13127.21216)*
 
-[여기](./microsoft365-apps-security-updates.md) 나열된 보안 업데이트
+보안 업데이트는 [Microsoft Office 보안 업데이트 릴리스 노트](microsoft365-apps-security-updates.md)에 있습니다.
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -579,7 +579,7 @@ ms.locfileid: "52322488"
 ## <a name="version-2008-january-12"></a>버전 2008: 1월 12일
 *버전 2008(빌드 13127.21064)*
 
-[여기](./microsoft365-apps-security-updates.md) 나열된 보안 업데이트
+보안 업데이트는 [Microsoft Office 보안 업데이트 릴리스 노트](microsoft365-apps-security-updates.md)에 있습니다.
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)

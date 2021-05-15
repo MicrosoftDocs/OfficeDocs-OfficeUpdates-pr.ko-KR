@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 이후 참가자 대상 그룹에게 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 4cfb53d99f77d812805fd742cb93ca7c9440a0bb
-ms.sourcegitcommit: f82c2d42402aa11741482a0f2795caf55d1d000e
+ms.openlocfilehash: 4f88b65e310f4b5992638e6901b3f0ad3d4f6576
+ms.sourcegitcommit: 556c7532cd820796db244f0949205c75c013d9fc
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/08/2021
-ms.locfileid: "52285979"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "52470772"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 현재 채널(미리 보기)에 대한 릴리스 정보
 
@@ -28,6 +28,36 @@ ms.locfileid: "52285979"
 [//]: # (제거하지 마세요)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+## <a name="version-2105-may-12"></a>버전 2105: 5월 12일
+*버전 2105(빌드 14026.20164)*
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="teams"></a>Teams
+
+- **데스크톱(또는) 브라우저(또는) Teams에서 기본적으로 파일을 열 수 있도록 사용자 기본 설정:** 사용자는 최신 Office 클라이언트를 설치하고 정품 인증한 경우 Teams.Desktop에서 공유되는 Office 파일(Word, Excel 및 Power Point)을 열 때 브라우저, 데스크톱 또는 Teams로 기본 설정을 설정할 수 있습니다.
+
+- **Teams 모임의 보고자 및 나란히 모드:** 이제 콘텐츠 옆에 표시되어 더 매력적인 프레젠테이션과 소비 환경을 경험할 수 있습니다.
+
+- **Teams 웨비나 기능 일반 가용성:** 모임에 사용하는 동일한 Teams 앱을 사용하여 1,000명 웨비나를 예약하고 제공할 수 있습니다. 웨비나 기능은 등록 페이지 만들기, 등록자에 대한 전자 메일 확인, 참석자 비디오 및 오디오에 대한 호스트 관리, 참석자 보고 그리고 설문 조사, 채팅, 반응과 같은 대화형 기능을 지원합니다.
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="word"></a>Word
+
+- 맞춤법 및 문법 검사용 캔버스 상황별 카드가 아이콘 단추를 표시하지만 해당 단추에는 도구 설명이 없는 문제를 해결했습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2105-may-07"></a>버전 2105: 5월 7일
 *버전 2105(빌드 14026.20138)*
@@ -3704,7 +3734,7 @@ ms.locfileid: "52285979"
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
 ### <a name="resolved-issues"></a>해결된 문제
-### <a name="access"></a>Access
+### <a name="access"></a>접근
 
 - 작업창에서 표 크기 조정 및 새로 고침과 관련된 문제가 해결되었습니다.
 

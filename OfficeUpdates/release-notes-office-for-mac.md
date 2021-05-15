@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Microsoft 365 앱 구독자를 위한 Mac용 Office 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: b3ed9dd7482dbb0e08fda7611727f7fedbf71c09
-ms.sourcegitcommit: 555e92127b0922cf09d5c2cc1dba836336bcbf5b
+ms.openlocfilehash: 84cf474575a5d5a4568b752336e9ea763f7af574
+ms.sourcegitcommit: 556c7532cd820796db244f0949205c75c013d9fc
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "52330515"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "52470762"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac용 Office에 대한 릴리스 정보
 
@@ -84,7 +84,7 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 
 ### <a name="teams"></a>Teams
 
-- **MAC 사용자를 위한 AI 기반 노이즈 억제**: Teams 모임 또는 통화에서 마이크를 켜면 주변의 배경 소음(종이 넘기기, 문 쾅쾅 소리 내기, 개 짖는 소리 등)이 다른 사람의 주의를 분산시킬 수 있습니다. Teams는 모임 참가자의 집중력을 유지할 수 있도록 4개 수준의 노이즈 표시 기능(자동, 낮음, 높음, 해제)을 제공합니다. 이제 이 기능은 M1 ARM 프로세서가 있는 새 MAC를 제외한 모든 MAC 사용자가 사용할 수 있습니다.
+- **Mac 사용자를 위한 AI 기반 노이즈 억제**: Teams 모임 또는 통화에서 마이크를 켜면 주변의 배경 소음(종이 넘기기, 문 쾅쾅 소리 내기, 개 짖는 소리 등)이 다른 사람의 주의를 분산시킬 수 있습니다. Teams는 모임 참가자의 집중력을 유지할 수 있도록 4개 수준의 노이즈 표시 기능(자동, 낮음, 높음, 해제)을 제공합니다. 이제 이 기능은 새 Mac을 제외한 모든 Mac 사용자가 사용할 수 있습니다.
 
 - **GCC의 Teams 모임의 라이브 캡션 및 실시간 대본에 대한 발표자 특성**: GCC 클라우드의 Teams 모임에는 이제 발언자의 발언자에 대한 라이브 캡션 발화가 추가됩니다.
 
@@ -441,7 +441,7 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 ### <a name="feature-updates"></a>기능 업데이트
 ### <a name="excel"></a>Excel
 
-- **다른 사람을 방해하지 않고 필터링 및 정렬:** Excel에서 다른 사람과 협업하면서 사용자 자신의 보기를 만들어 다른 사람이 보는 것을 방해하지 않고 필터링하고 정렬할 수 있습니다. [자세한 정보](https://support.office.com/article/0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6)<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/sheet-view-makes-collaborating-easier)에서 세부 정보 보기
+- **다른 사람을 방해하지 않고 필터링 및 정렬:** Excel에서 다른 사람과 협업하면서 사용자 자신의 보기를 만들어 다른 사람이 보는 것을 방해하지 않고 필터링하고 정렬할 수 있습니다. [자세한 정보](https://support.office.com/article/0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6)<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/sheet-view-makes-collaborating-easier)에서 세부 정보를 참조하세요.
 
 ### <a name="outlook"></a>Outlook
 
@@ -528,7 +528,7 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 ### <a name="feature-updates"></a>기능 업데이트
 ### <a name="excel"></a>Excel
 
-- **사진에서 데이터 가져오기:** 사진, 삽입 탭 또는 iPhone에서 직접 테이블 데이터를 추가합니다. [자세한 정보](https://support.office.com/article/3c1bb58d-2c59-4bc0-b04a-a671a6868fd7)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/13/data-from-picture-in-excel/)에서 세부 정보 보기
+- **사진에서 데이터 가져오기:** 사진, 삽입 탭 또는 iPhone에서 직접 테이블 데이터를 추가합니다. [자세한 정보](https://support.office.com/article/3c1bb58d-2c59-4bc0-b04a-a671a6868fd7)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/13/data-from-picture-in-excel/)에서 세부 정보를 참조하세요.
 
 ### <a name="outlook"></a>Outlook
 
@@ -576,7 +576,7 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 
 - **원하는 내용 찾기:** 검색 창을 사용하여 텍스트, 명령, 도움말 등을 찾으세요. [자세한 정보](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)에서 세부 정보를 참조하세요.
 
-- **셀을 추가하는 빠른 방법**: **클릭하여 추가 모드를 사용하도록 설정** 한 다음 =를 입력하고 일부 셀을 선택하여 셀 값을 추가하는 수식을 빠르게 만듭니다. **메뉴** > **기본 설정** > **편집** 에서 옵션을 찾습니다.  [자세한 정보](https://support.office.com/ko-KR/article/what-s-new-in-microsoft-365-95c8d81d-08ba-42c1-914f-bca4603e1426#Platform=Mac) <br />[블로그 게시물](https://blog-insider.office.com/2020/04/21/click-to-add-mode-feedback-in-action/)에서 세부 정보 보기
+- **셀을 추가하는 빠른 방법**: **클릭하여 추가 모드를 사용하도록 설정** 한 다음 =를 입력하고 일부 셀을 선택하여 셀 값을 추가하는 수식을 빠르게 만듭니다. **메뉴** > **기본 설정** > **편집** 에서 옵션을 찾습니다.  [자세한 정보](https://support.office.com/ko-KR/article/what-s-new-in-microsoft-365-95c8d81d-08ba-42c1-914f-bca4603e1426#Platform=Mac) <br />[블로그 게시물](https://blog-insider.office.com/2020/04/21/click-to-add-mode-feedback-in-action/)에서 세부 정보를 참조하세요.
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -584,14 +584,14 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 
 - **슬라이드에 연결:** 동료에게 슬라이드 모음에 게시하도록 요청하고 도움이 필요한 슬라이드에서 직접 시작해 보세요. [자세한 정보](https://support.office.com/article/4f5f3d5e-1674-4742-8cf1-9623050c19ef)
 
-- **원하는 내용 찾기:** 검색 창을 사용하여 텍스트, 명령, 도움말 등을 찾으세요. [자세한 정보](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)에서 세부 정보 보기
+- **원하는 내용 찾기:** 검색 창을 사용하여 텍스트, 명령, 도움말 등을 찾으세요. [자세한 정보](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)에서 세부 정보를 참조하세요.
 
 ### <a name="word"></a>Word
 
 - **핸즈 프리 입력:** 마이크가 있나요? 받아쓰기를 클릭하고 말하는 동안 Word에 입력되는 내용을 확인하세요. [자세한 정보](https://support.office.com/article/3876e05f-3fcc-418f-b8ab-db7ce0d11d3c)<br />[블로그 게시물](https://blog-insider.office.com/2020/01/24/dictate-your-documents-in-word-on-mac/)에서 세부 정보 보기
 
 
-- **원하는 내용 찾기:** 검색 창을 사용하여 텍스트, 명령, 도움말 등을 찾으세요. [자세한 정보](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)에서 세부 정보 보기
+- **원하는 내용 찾기:** 검색 창을 사용하여 텍스트, 명령, 도움말 등을 찾으세요. [자세한 정보](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />[블로그 게시물](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)에서 세부 정보를 참조하세요.
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
