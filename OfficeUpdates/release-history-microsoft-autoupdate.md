@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT 전문가에게 MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록을 제공합니다.
-ms.openlocfilehash: f2b3bd46a71708c9444265c5dbf33fbe3b9b5cb2
-ms.sourcegitcommit: cf8d286b8fb825e19d8730c011d53e98156b6646
+ms.openlocfilehash: 783ae03e77060c91a02e98e88e3d1570c1cdaf11
+ms.sourcegitcommit: 830bba63e278d32baeaaaa5323e3fd25cf6b7c24
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/14/2021
-ms.locfileid: "51755410"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52563384"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록
  
@@ -29,6 +29,25 @@ ms.locfileid: "51755410"
 > - Microsoft 자동 업데이트는 Microsoft의 다양한 Mac 제품에 대한 업데이트를 제공합니다. 따라서 Mac용 Office를 실행하고 있지 않더라도 Microsoft 자동 업데이트를 업데이트하라는 알림을 받을 수 있습니다.
 
 릴리스 정보를 확인하려면 [릴리스 정보](release-notes-office-for-mac.md)를 참고하세요.<br/><br/>
+
+## <a name="may-2021-release"></a>2021년 5월 릴리스
+
+**릴리스 날짜:** 2021년 5월 13일
+
+*Microsoft AutoUpdate 4.35*
+
+**버그 수정 및 개선 사항:**
+- "업데이트가 이미 진행 중입니다" 프롬프트가 표시되도록 하는 동시 업데이트와 관련된 잠재적인 문제를 해결했습니다.
+- 건너뛰기 대화 상자의 버그 수정이 두 번 표시됩니다.
+- 동일한 업데이트에 대한 여러 알림을 표시하는 버그를 수정했습니다.
+- Microsoft AutoUpdate 설치 관리자/업데이트 프로그램 패키지의 크기를 줄입니다.
+- CLI(명령줄 인터페이스)는 이제 기본 xpc를 사용하여 Apple 이벤트 대신 Microsoft 업데이트 도우미와 통신합니다.
+
+[Microsoft 자동 업데이트 4.35 패키지 다운로드](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.35.21050901_Updater.pkg)<br/>
+<br/>
+**SHA-256 해시:**
+
+1F6CAB8CCAF52743EFEEA908D0F26E2AE1A1F171C877F7B8057D00CDA7727733
 
 ## <a name="april-2021-release"></a>2021년 4월 릴리스
 
@@ -219,7 +238,7 @@ E81CEADF900A0C7E7D593720D08146DBC1C55868D5B21C7E7A175AA36DFE0178
 - 4월 릴리스에 소개된 자동 업데이트 기능을 사용하지 않는 사용자가 Microsoft 자동 업데이트 UI를 매 주 한번만 보도록 하는 기능을 되돌렸습니다.
 - 업데이트를 다운로드 한 후 설치를 시작하기 전에 예기치 않게 업데이트 도우미가 종료되는 문제가 해결되었습니다.
 - 사용자 알림이 보류되는 기간이 지나면 업데이트 도우미가 종료되지 않는 문제가 해결되었습니다.
-- 설치 후에 MAU UI를 다시 열리거나 다시 열리지 않는 문제를 해결했습니다. 업데이트를 MAU UI 자체에서 시작한 경우 또는 사용자가 직접 업데이트를 초기화한 경우 (Finder, Terminal 등을 통해)에는 설치된 후에 UI가 열려야 합니다.
+- 설치 후 MAU UI가 다시 열리거나 다시 열리지 않는 문제를 해결했습니다. 업데이트를 MAU UI 자체에서 시작한 경우 또는 사용자가 직접 업데이트를 초기화한 경우(Finder, Terminal 등을 통해)에는 설치된 후에 UI가 열려야 합니다.
 
 **SHA-256 해시:**
 
@@ -359,7 +378,7 @@ D480D4FD23BDC07852DEFBADCE4CCBEF00265500E6595FE8B299444EB8F90C3F<br/><br/>
  **기능 업데이트:**
 
 - 이제 Microsoft AutoUpdate 대시보드에서 주요 업데이트의 새로운 기능을 볼 수 있습니다.
-- Office 2019 업데이트에 대한 최소 OS 요구 사항은 Catalina의 출시와 함께 macOS 10.13으로 변경되었습니다. 사용자는 최신 Office 업데이트로 업그레이드하기 위해 알림을 받을 수 있습니다.
+- Office 2019 업데이트를 위한 최소 OS 요구사항은 Catalina의 출시와 함께 macOS 10.13으로 변경되었다. 사용자에게 최신 Office 업데이트로 업그레이드하라는 알림이 표시됩니다.
 
 **SHA-256 해시:**
 

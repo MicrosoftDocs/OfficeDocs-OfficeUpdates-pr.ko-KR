@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 이후 참가자 대상 그룹에게 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 4f88b65e310f4b5992638e6901b3f0ad3d4f6576
-ms.sourcegitcommit: 556c7532cd820796db244f0949205c75c013d9fc
+ms.openlocfilehash: 82132e7f0862e2027fa518120341e530a2879aa5
+ms.sourcegitcommit: 11b24bf6e62e75f32ba8842e00fd146fe0d95959
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "52470772"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52574303"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 현재 채널(미리 보기)에 대한 릴리스 정보
 
@@ -29,7 +29,43 @@ ms.locfileid: "52470772"
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-## <a name="version-2105-may-12"></a>버전 2105: 5월 12일
+## <a name="version-2105-may-19"></a>버전 2105: 5월 19일
+*버전 2105(빌드 14026.20202)*
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="teams"></a>Teams
+
+- **Teams Webinars는 Dynamics 365 Marketing과 통합되어 잠재 고객 육성 가능 :** 이 기능을 통해 웨비나 주최자는 D365 Marketing을 활용하여 등록자와 이벤트 후 참여를 유도할 수 있습니다. 참석자 참여 데이터는 D365 마케팅 조직과 동기화되고 자동화된 사용자 여정이 지원됩니다.
+
+- **지능형 스피커:** 지능형 스피커는 Windows의 Microsoft Teams 룸을 위한 지능형 주변 장치입니다. 이 장치들은 회의실의 참가자들을 위해 발표자 속성이 반영된 기록을 가져올 것이고, 참석자들은 노트 필기에 소요되는 시간을 줄이며 해당 회의실에서 누가 무엇을 말했는지를 쉽게 이해할 수 있을 것입니다.
+
+- **Teams 사용자가 Teams 클라이언트를 통해 Teams 앱을 구매할 수 있도록 설정:** Teams 사용자는 이제 Teams 스토어에서 Teams 앱 구독을 구매할 수 있습니다.
+
+- **Microsoft Teams로 Teams 만들기:** Teams의 서식 파일을 사용하여 사용자는 새 팀을 만들 때 사용자 지정할 수 있는 다양한 서식 파일 중에서 선택하여 빠르게 시작하는 데 도움이 될 수 있습니다. IT 관리자는 또한 조직에 대한 사용자 지정 서식 파일을 만들어 팀 구조, 사전 설치 관련 앱을 표준화하고 모범 사례를 확장할 수 있습니다. IT 관리자는 Teams 관리 센터에서 최종 사용자에게 표시할 팀 템플릿을 선택하고 팀 템플릿의 웹 사이트 탭에 URL을 추가하여 웹 사이트 탭을 미리 구성할 수도 있습니다.
+
+- **Teams의 PowerPoint Live에서 레이저 포인터 및 잉크 주석 사용:** 발표자가 PowerPoint 데크의 특정 섹션에 주의를 집중시켜 콘텐츠를 효과적으로 공유하고 청중의 참여를 유도할 수 있도록 가상 레이저 포인터 및 주석 기능을 도입했습니다. PowerPoint Live를 사용하면 회의실에서 실제 레이저 포인트를 사용하는 것처럼 다른 장소를 효과적으로 가리킬 수 있으므로 청중이 슬라이드의 내용을 쉽게 따라갈 수 있습니다.
+
+- **1P 팀 템플릿을 사용한 Power Automate 흐름 권장 사항:** 1P 팀 템플릿에서 만든 팀을 위한 Surface Power Automate 흐름 템플릿
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="outlook"></a>Outlook
+
+- Office Perpetual 2021 Preview 사용자에 대해 사용자 의견 옵션이 나타나지 않는 문제가 수정되었습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2105-may-12"></a>버전 2105: 5월 12일
 *버전 2105(빌드 14026.20164)*
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -59,7 +95,7 @@ ms.locfileid: "52470772"
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
-## <a name="version-2105-may-07"></a>버전 2105: 5월 7일
+## <a name="version-2105-may-07"></a>버전 2105: 5월 7일
 *버전 2105(빌드 14026.20138)*
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -100,7 +136,7 @@ ms.locfileid: "52470772"
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
-## <a name="version-2105-may-03"></a>버전 2105: 5월 3일
+## <a name="version-2105-may-03"></a>버전 2105: 5월 3일
 *버전 2105(빌드 14026.20052)*
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -1182,7 +1218,7 @@ ms.locfileid: "52470772"
 ### <a name="feature-updates"></a>기능 업데이트
 ### <a name="outlook"></a>Outlook
 
-- **한 번의 클릭으로 작문 제안:** 한 번의 클릭으로 작문 제안을 적용합니다. 편집기는 맞춤법과 문법을 수정하며 글을 다듬는 데 필요한 아이디어를 제공합니다. [자세한 정보](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/microsoft-editor-gets-an-upgrade)에서 세부 정보를 참조하세요.
+- **한 번의 클릭으로 작문 제안:** 한 번의 클릭으로 작문 제안을 적용합니다. 편집기는 맞춤법과 문법을 수정하며 글을 다듬는 데 필요한 아이디어를 제공합니다. [자세한 정보](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/microsoft-editor-gets-an-upgrade)에서 세부 정보 보기
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -2795,7 +2831,7 @@ ms.locfileid: "52470772"
 ### <a name="feature-updates"></a>기능 업데이트
 ### <a name="excel"></a>Excel
 
-- **데이터 형식을 사용하여 Power BI에서 조직 데이터를 가져오기:** 이제 Power BI의 Excel 데이터 형식을 Office 365 E5/A5 또는 Microsoft 365 E5/A5를 사용하는 조직의 참가자에게 배포합니다. 필요한 정보를 가져오고 손쉽게 새로 고치는 건 일상적인 여러 워크플로에 매우 중요합니다. Microsoft는 Power BI를 사용하여 Excel에서 데이터 형식으로 회사나 조직 정보에 액세스할 수 있도록 하여 스프레드시트에 연결된 정보를 제공하는 기능을 확장합니다. [자세한 정보](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />[블로그 게시물](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)에서 세부 정보를 참조하세요.
+- **데이터 형식을 사용하여 Power BI에서 조직 데이터를 가져오기:** 이제 Power BI의 Excel 데이터 형식을 Office 365 E5/A5 또는 Microsoft 365 E5/A5를 사용하는 조직의 참가자에게 배포합니다. 필요한 정보를 가져오고 손쉽게 새로 고치는 건 일상적인 여러 워크플로에 매우 중요합니다. Microsoft는 Power BI를 사용하여 Excel에서 데이터 형식으로 회사나 조직 정보에 액세스할 수 있도록 하여 스프레드시트에 연결된 정보를 제공하는 기능을 확장합니다. [자세한 정보](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />[블로그 게시물](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)에서 세부 정보 보기
 
 ### <a name="outlook"></a>Outlook
 
@@ -3734,7 +3770,7 @@ ms.locfileid: "52470772"
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
 ### <a name="resolved-issues"></a>해결된 문제
-### <a name="access"></a>접근
+### <a name="access"></a>Access
 
 - 작업창에서 표 크기 조정 및 새로 고침과 관련된 문제가 해결되었습니다.
 

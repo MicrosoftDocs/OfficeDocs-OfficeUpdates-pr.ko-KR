@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 앱에 대한 월 단위 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: b13e3ebfee9edcaaa0e703180fa734cc8efb2f8e
-ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
+ms.openlocfilehash: 6caa57d57ded20a070ce8af5dc8725115081317a
+ms.sourcegitcommit: 830bba63e278d32baeaaaa5323e3fd25cf6b7c24
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52322448"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52563374"
 ---
 # <a name="release-notes-for-current-channel"></a>현재 채널에 대한 릴리스 정보
 
@@ -29,6 +29,23 @@ ms.locfileid: "52322448"
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2104-may-18"></a>버전 2104: 5월 18일
+*버전 2104(빌드 13929.20386)*
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="outlook"></a>Outlook
+
+- Outlook의 사용자 선택기가 영구 라이선스를 가진 사용자에 대해 하향 확장이 아닌 상향으로 확장되는 문제를 해결했습니다.
+
+
+- Office Perpetual 2021 Preview 사용자에 대해 사용자 의견 옵션이 나타나지 않는 문제가 수정되었습니다.
 
 
 
@@ -118,9 +135,6 @@ ms.locfileid: "52322448"
 
 ### <a name="resolved-issues"></a>해결된 문제
 ### <a name="excel"></a>Excel
-
-- Excel의 일부 자동화 추가 기능을 로드할 수 없는 문제가 수정되었습니다.
-
 
 - 일부 파일을 간혹 보호된 보기에서 열 수 없는 문제가 수정되었습니다.
 
@@ -795,6 +809,7 @@ ms.locfileid: "52322448"
 > Office를 사용하는 데 발생한 문제에 대해 도움이 필요하면 [Microsoft의 Answers 포럼](https://answers.microsoft.com/) 또는 [기술 커뮤니티](https://techcommunity.microsoft.com/)에 질문을 게시하거나 [지원 서비스](https://support.microsoft.com/contactus)에 문의할 수 있습니다.
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|CC|Production| |16.0.13929.20386|version-2104-may-18|)
 [//]: # (|Win32|CC|Production| |16.0.13929.20372|version-2104-may-11|)
 [//]: # (|Win32|CC|Production| |16.0.13929.20296|version-2104-april-29|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20462|version-2103-april-23|)
@@ -804,5 +819,4 @@ ms.locfileid: "52322448"
 [//]: # (|Win32|CC|Production| |16.0.13801.20360|version-2102-march-18|)
 [//]: # (|Win32|CC|Production| |16.0.13801.20294|version-2102-march-09|)
 [//]: # (|Win32|CC|Production| |16.0.13801.20266|version-2102-march-01|)
-[//]: # (|Win32|CC|Production| |16.0.13628.20448|version-2101-february-16|)
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 끝)

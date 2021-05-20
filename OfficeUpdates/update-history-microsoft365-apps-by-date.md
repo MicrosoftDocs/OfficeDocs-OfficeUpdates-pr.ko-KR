@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 릴리스 정보에 대한 링크를 포함하여 Microsoft 365 앱 릴리스의 전체 목록을 날짜별로 구성해서 IT 전문가에게 제공합니다.
-ms.openlocfilehash: d0a956126459c81ebb4147fd052dcc1a62661eab
-ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
+ms.openlocfilehash: 818e8a5f528dc4eeb71f39e8f03f5d580351daf8
+ms.sourcegitcommit: 830bba63e278d32baeaaaa5323e3fd25cf6b7c24
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52322308"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52563394"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 앱의 업데이트 기록(날짜순)
 
@@ -33,7 +33,7 @@ ms.locfileid: "52322308"
 
 |**채널**|**버전**|**빌드**|**릴리스 날짜**|**다음 이하 버전까지 지원**|
 |:-----|:-----|:-----|:-----|:-----|
-|현재 채널<br/>|2104<br/>|13929.20372<br/>|2021년 5월 11일<br/>|버전 2105 릴리스됨<br/>|
+|현재 채널<br/>|2104<br/>|13929.20386<br/>|2021년 5월 18일<br/>|버전 2105 릴리스됨<br/>|
 |월 단위 엔터프라이즈 채널<br/>|2103<br/>|13901.20516<br/>|2021년 5월 11일<br/>|2021년 7월 13일<br/>|
 |월 단위 엔터프라이즈 채널<br/>|2102<br/>|13801.20638<br/>|2021년 5월 11일<br/>|2021년 6월 8일<br/>|
 |반기 기업 채널(미리 보기)<br/>|2102<br/>|13801.20638<br/>|2021년 5월 11일<br/>|2021년 9월 14일<br/>|
@@ -52,6 +52,7 @@ ms.locfileid: "52322308"
 
 |**년도**|**릴리스 날짜**|**현재 채널**|**월 단위 엔터프라이즈 채널**|**반기 엔터프라이즈 채널(미리 보기)**|**반기 엔터프라이즈 채널**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2021|5월 18일|[버전 2104(빌드 13929.20386)](current-channel.md#version-2104-may-18)| | | |
 |2021|5월 11일|[버전 2104(빌드 13929.20372)](current-channel.md#version-2104-may-11)|[버전 2103(빌드 13901.20516)](monthly-enterprise-channel.md#version-2103-may-11)<br/>[버전 2102(빌드 13801.20638)](monthly-enterprise-channel.md#version-2102-may-11)|[버전 2102(빌드 13801.20638)](semi-annual-enterprise-channel-preview.md#version-2102-may-11)|[버전 2008(빌드 13127.21624)](semi-annual-enterprise-channel.md#version-2008-may-11)<br/>[버전 2002(빌드 12527.21912)](semi-annual-enterprise-channel.md#version-2002-may-11)|
 |2021|4월 29일|[버전 2104(빌드 13929.20296)](current-channel.md#version-2104-april-29)| | | |
 |2021|4월 23일|[버전 2103(빌드 13901.20462)](current-channel.md#version-2103-april-23)| | | |
