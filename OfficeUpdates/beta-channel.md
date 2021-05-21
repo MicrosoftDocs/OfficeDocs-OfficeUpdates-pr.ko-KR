@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: cf5a7d18a98c712a31e5741e7d8532020ec330f1
-ms.sourcegitcommit: 596cdb3423140df0324a952157fbc39ebedc12b9
+ms.openlocfilehash: 289486b3abf7736825f15311524a1d87295ed78e
+ms.sourcegitcommit: 830bba63e278d32baeaaaa5323e3fd25cf6b7c24
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/07/2021
-ms.locfileid: "52278005"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52563344"
 ---
 # <a name="release-notes-for-beta-channel"></a>베타 채널용 릴리스 정보
 
@@ -31,7 +31,50 @@ ms.locfileid: "52278005"
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
-## <a name="version-2106-may-07"></a>버전 2106: 5월 7일
+## <a name="version-2106-may-14"></a>버전 2106: 5월 14일
+*버전 2106(빌드 14107.20000)*
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="outlook"></a>Outlook
+
+- 사용자가 머리글만 다운로드 모드에서 실행 중일 때 다운로드 후 지속적으로 새로 고쳐지거나 머리글로 되돌려서 실행 가능 메시지가 표시되는 문제가 수정되었습니다.
+
+
+- Outlook의 사용자 선택기가 영구 라이선스를 가진 사용자에 대해 하향 확장이 아닌 상향으로 확장되는 문제가 수정되었습니다.
+
+
+- 사용자 지정 도메인 사용자가 전자 메일 메시지에 링크를 붙여넣을 때 사용 권한에 대한 경고 메시지가 표시되는 문제가 수정되었습니다.
+
+
+### <a name="word"></a>Word
+
+- Ctrl+ Shift + @과 같은 키 조합을 누르면 예상된 강조된 문자(이 경우 'å')가 생성되지 않는 문제가 수정되었습니다.
+
+
+- 이미지 압축과 관련된 문제가 수정되었습니다.
+
+
+- 파일 이름에 DBCS 문자가 포함된 경우 Word 외의 응용 프로그램에 메일 첨부 파일을 복사할 수 없는 문제가 수정되었습니다.
+
+
+- Word에서 간혹 텍스트 주위에 표시되지 않아야 하는 테두리가 표시되는 문제가 해결되었습니다.
+
+
+### <a name="office-suite"></a>Office 제품군
+
+- 실제로 병합 충돌이 없는 경우 OneDrive에 병합 오류 메시지가 표시되는 문제가 수정되었습니다.
+
+
+- 도형으로 변환할 때 SVG 개체의 z 순서와 관련된 문제가 수정되었습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2106-may-07"></a>버전 2106: 5월 7일
 *버전 2106(빌드 14029.20000)*
 
 
@@ -2290,7 +2333,7 @@ ms.locfileid: "52278005"
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 
-## <a name="version-2006-may-22"></a>버전 2006: 5월 22일
+## <a name="version-2006-may-22"></a>버전 2006: 5월 22일
 *버전 2006(빌드 12914.20000)*
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
@@ -3007,6 +3050,7 @@ ms.locfileid: "52278005"
 
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14107.20000|version-2106-may-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14029.20000|version-2106-may-07|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14026.20000|version-2105-april-30|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14014.20002|version-2105-april-23|)
@@ -3016,5 +3060,4 @@ ms.locfileid: "52278005"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13919.20002|version-2104-march-26|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13913.20000|version-2104-march-19|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13906.20000|version-2104-march-12|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13901.20036|version-2103-march-05|)
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 끝)
