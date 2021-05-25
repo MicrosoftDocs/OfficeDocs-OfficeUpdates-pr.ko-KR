@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 289486b3abf7736825f15311524a1d87295ed78e
-ms.sourcegitcommit: 830bba63e278d32baeaaaa5323e3fd25cf6b7c24
+ms.openlocfilehash: 3a78919c5181015c88261bf66413d7f439a916cf
+ms.sourcegitcommit: c615a8b353e967222e6a75121fa6aea3d673b28b
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52563344"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52625943"
 ---
 # <a name="release-notes-for-beta-channel"></a>베타 채널용 릴리스 정보
 
@@ -30,6 +30,75 @@ ms.locfileid: "52563344"
 [//]: # (제거하지 마세요)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+## <a name="version-2106-may-21"></a>버전 2106: 5월 21일
+*버전 2106(빌드 14117.20000)*
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="outlook"></a>Outlook
+
+- **마지막 로그인/의심스러운 로그인:** 이제 Outlook에서 마지막으로 계정에 로그인한 시기와 위치를 알려주고 의심스러운 로그인 활동이 감지되면 경고합니다.
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- RealTimeData 함수에 의해 참조될 때 동적 배열이 셀 값을 업데이트하지 않는 문제가 수정되었습니다.
+
+
+- 많은 양의 데이터를 채울 때 VLOOKUP 및 INDEX/MATCH의 성능에 영향을 미치는 문제가 수정되었습니다.
+
+
+- 틀 고정을 사용할 때 두 손가락 스크롤과 관련된 문제가 수정되었습니다.
+
+
+- 대형 프린터에서 인쇄할 때 메모리 부족 문제와 관련된 문제를 해결했습니다.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 읽기 전용 모드에 있는 동안 발표자 노트 창에서 복사할 수 없는 문제를 해결했습니다.
+
+
+### <a name="word"></a>Word
+
+- 사용자가 변경 사항을 취소하도록 선택한 후에도 다른 이름으로 저장 오류 메시지가 표시되는 문제를 해결했습니다.
+
+
+- 이미지가 최신 댓글에 게시되지 않는 문제가 수정되었습니다.
+
+
+- 검토 창이 스크롤되거나 스크롤되 는 것처럼 보이지만 선택한 주석과 정렬되지 않는 문제를 해결했습니다.
+
+
+- 새로 만든 주석 외부를 클릭할 때 문서의 선택 영역이 지워지지 않는 문제를 수정했습니다.
+
+
+- 선택한 경우 설명이 강조 표시되지 않는 문제가 수정되었습니다.
+
+
+- 편집 제한이 적용된 경우 매크로를 실행하면 잘못된 필드가 업데이트되는 문제가 수정되었습니다.
+
+
+- 손상된 책갈피로 인해 일부 Word 파일이 열되지 않는 문제가 수정되었습니다.
+
+
+### <a name="office-suite"></a>Office 제품군
+
+- 다른 계정으로 로그인할 때 충돌이 발생하는 문제가 수정되었습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2106-may-14"></a>버전 2106: 5월 14일
 *버전 2106(빌드 14107.20000)*
@@ -3050,6 +3119,7 @@ ms.locfileid: "52563344"
 
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14117.20000|version-2106-may-21|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14107.20000|version-2106-may-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14029.20000|version-2106-may-07|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14026.20000|version-2105-april-30|)
@@ -3059,5 +3129,4 @@ ms.locfileid: "52563344"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13929.20016|version-2104-april-02|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13919.20002|version-2104-march-26|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13913.20000|version-2104-march-19|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13906.20000|version-2104-march-12|)
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 끝)
