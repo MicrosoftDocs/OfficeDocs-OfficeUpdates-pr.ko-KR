@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Microsoft 365 앱 구독자를 위한 Mac용 Office 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 067ef80e03b19a040c0af5463f18d6a4af5f8094
-ms.sourcegitcommit: 830bba63e278d32baeaaaa5323e3fd25cf6b7c24
+ms.openlocfilehash: 6a4aebfb9755261ed25f486ef5c573b250aee2c0
+ms.sourcegitcommit: c615a8b353e967222e6a75121fa6aea3d673b28b
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52563404"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52625953"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac용 Office에 대한 릴리스 정보
 
@@ -66,10 +66,6 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
 ### <a name="feature-updates"></a>기능 업데이트
-### <a name="apex-shared"></a>Apex 공유
-
-- **Mac에서 Office 시작 화면을 새롭게 단장하세요**: Fluent 도구 키트를 사용하여 Big Sur에서 Apple의 새로운 디자인 언어에 맞춰 새롭게 단장한 모습입니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/visual-updates-to-start-experience-in-office-for-mac)에서 세부 정보 보기
-
 ### <a name="excel"></a>Excel
 
 - **연결된 데이터 형식: 실용적인 실제 데이터:** 새로운 연결된 데이터 형식을 사용하면 수백 개의 주제에 대한 팩트와 데이터를 가져와 Excel에서 바로 목표를 달성하는 데 도움이 됩니다. [자세한 정보](https://support.office.com/article/973d28d9-c51d-4dde-83be-898ecdf3efab)
@@ -97,6 +93,9 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 
 - **Teams의 M365 프로필 카드:** Teams에서 다른 사람의 이름 또는 사진을 선택하면 프로필 카드가 열리고 해당 사람의 제목, 연락처 정보 및 관리자 등 해당 사람과 관련된 정보가 표시됩니다. 프로필 카드는 연락처 카드 또는 사람 카드라고도 합니다.
 
+### <a name="office-suite"></a>Office 제품군
+
+- **Mac에서 Office 시작 화면을 새롭게 단장하세요**: Fluent 도구 키트를 사용하여 Big Sur에서 Apple의 새로운 디자인 언어에 맞춰 새롭게 단장한 모습입니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/visual-updates-to-start-experience-in-office-for-mac)에서 세부 정보 보기
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
