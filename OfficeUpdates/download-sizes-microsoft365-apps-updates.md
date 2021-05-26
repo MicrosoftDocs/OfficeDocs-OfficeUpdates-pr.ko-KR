@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 각 업데이트 채널에 대한 Microsoft 365 앱 업데이트의 대략적인 다운로드 크기 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: d16050d5873de88a8ac9d709d097c447f6ab553c
-ms.sourcegitcommit: 830bba63e278d32baeaaaa5323e3fd25cf6b7c24
+ms.openlocfilehash: 73137bc5838cdf63ce3bdf5ab4109543bc7dd41a
+ms.sourcegitcommit: 89ea204c9830b05f6a1681dee76502cfc8fa7db2
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52563364"
+ms.lasthandoff: 05/25/2021
+ms.locfileid: "52645155"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 앱 업데이트의 다운로드 크기
 
@@ -30,6 +30,22 @@ Microsoft의 목표는 기업 고객이 네트워크 대역폭 사용률을 계�
 > - 지난 4개월 동안의 릴리스만 표시됩니다.
 
 [//]: # (제거하지 마세요)
+
+## <a name="may-24-2021"></a>2021년 5월 24일
+
+[//]: # (콘텐츠를 제거하지 마세요. 시작 2021년 5월 24일)
+
+### <a name="current-channel"></a>현재 채널
+
+가장 최근 릴리스는 버전 2105(빌드 14026.20246)입니다.
+
+|**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
+|:-----|:-----|:-----|
+|버전 2104(빌드 13929.20386) <br/> |2021년 5월 18일 <br/> |210<br/> |
+|버전 2104(빌드 13929.20372) <br/> |2021년 5월 11일 <br/> |210<br/> |
+
+
+[//]: # (컨텐츠를 제거하지 마세요. 종료 2021년 5월 24일)
 
 ## <a name="may-18-2021"></a>2021년 5월 18일
 

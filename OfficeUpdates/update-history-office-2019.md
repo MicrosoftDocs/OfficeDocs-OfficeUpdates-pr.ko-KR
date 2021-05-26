@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: C2R(간편 실행)을 사용하는 Office 2016 및 2019 영구 버전에 대한 업데이트 기록을 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 9264d7ca6865918731836d922df092e35c2b9e7c
-ms.sourcegitcommit: 830bba63e278d32baeaaaa5323e3fd25cf6b7c24
+ms.openlocfilehash: 18a2aac31b26182f5d369765a4e761ab3a075203
+ms.sourcegitcommit: 89ea204c9830b05f6a1681dee76502cfc8fa7db2
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52563354"
+ms.lasthandoff: 05/25/2021
+ms.locfileid: "52645175"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Office 2016 C2R 및 Office 2019의 업데이트 기록
 
@@ -93,12 +93,12 @@ Microsoft는 Office 2016 C2R(간편 실행) 버전과 Office 2019의 보안 및 
 
 |**릴리스 날짜**|**버전 번호**|
 |:-----|:-----|
+|2021년 5월 24일|버전 2105(빌드 14026.20246)|
 |2021년 5월 18일|버전 2104(빌드 13929.20386)|
 |2021년 5월 11일|버전 2104(빌드 13929.20372)|
 |2021년 4월 29일|버전 2104(빌드 13929.20296)|
 |2021년 4월 23일|버전 2103(빌드 13901.20462)|
 |2021년 4월 13일|버전 2103(빌드 13901.20400)|
-|2021년 4월 2일|버전 2103(빌드 13901.20336)|
 
 
 [//]: # (VL 테이블 시작 제거 안 함)
@@ -112,6 +112,7 @@ Microsoft는 Office 2016 C2R(간편 실행) 버전과 Office 2019의 보안 및 
 
 |**릴리스 날짜**|**버전 번호**|
 |:-----|:-----|
+|2021년 4월 2일|버전 2103(빌드 13901.20336)|
 |2021년 3월 30일|버전 2103(빌드 13901.20312)|
 |2021년 3월 18일|버전 2102(빌드 13801.20360)|
 |2021년 3월 9일|버전 2102(빌드 13801.20294)|
