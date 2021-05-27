@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 이후 참가자 대상 그룹에게 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 82132e7f0862e2027fa518120341e530a2879aa5
-ms.sourcegitcommit: 11b24bf6e62e75f32ba8842e00fd146fe0d95959
+ms.openlocfilehash: 03e3b8b6d89cf5373c5243e79fb308edb668abf3
+ms.sourcegitcommit: 79c85ce398cdedeaac46ece812626eec0f05a61b
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52574303"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52636532"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 현재 채널(미리 보기)에 대한 릴리스 정보
 
@@ -28,6 +28,55 @@ ms.locfileid: "52574303"
 [//]: # (제거하지 마세요)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+## <a name="version-2105-may-23"></a>버전 2105: 5월 23일
+*버전 2105(빌드 14026.20246)*
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="teams"></a>Teams
+
+- **참석 데이터 대시보드 보기 발표:** 더 이상 보고서를 수동으로 다운로드할 필요가 없습니다. 이제 Teams에서는 클릭 한 번으로 모든 집계된 데이터를 대시보드 보기에서 볼 수 있습니다.
+
+- **앱에 대한 보안, 규정 준수 및 데이터 보호 기능:** Microsoft 365 Certified Teams 앱의 경우 관리자는 Teams 관리 센터의 앱 세부 정보 페이지의 새 탭에서 보안, 규정 준수 및 데이터 보호 기능을 볼 수 있습니다. 이러한 투명성은 Microsoft 고객이 조직을 운영하는 응용 프로그램을 신뢰할 수 있게 합니다.
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="outlook"></a>Outlook
+
+- 화면 읽기 프로그램 기술을 통해 "모임 시간 단축" 기능의 일부 지침을 사용할 수 없게 되는 문제를 해결했습니다.
+
+
+- 사용자 카드를 로드할 때 일부 사용자가 예기치 않게 닫히는 문제를 수정했습니다.
+
+
+- 보호된 시트에 수식으로 붙여넣을 수 있는 기능을 차단하는 문제를 수정했습니다.
+
+    - Regkey:
+
+    > HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
+
+    > REG_DWORD “ShowLegacyRoomFinder” 0 </br>
+
+    > (기본값) - Outlook에서는 사용자가 '회의실 찾기' 단추를 클릭하여 사용 가능한 회의실을 검색할 때 새로운 회의실 찾기 OWA Powered eXperience를 사용합니다.  </br>
+
+    > 1 - Outlook에서 레거시 회의실 찾기 UI를 사용하여 사용 가능한 회의실 검색 </br>
+
+
+### <a name="project"></a>Project
+
+- 수동으로 예약된 작업의 할당이 잘못된 날짜로 이동되는 문제를 수정했습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2105-may-19"></a>버전 2105: 5월 19일
 *버전 2105(빌드 14026.20202)*
