@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 이후 참가자 대상 그룹에게 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 03e3b8b6d89cf5373c5243e79fb308edb668abf3
-ms.sourcegitcommit: 79c85ce398cdedeaac46ece812626eec0f05a61b
+ms.openlocfilehash: 38567a461e655f43701e9d68da85e3dff50c779d
+ms.sourcegitcommit: 6a11bb97b0dbc14d2cd6c68e9d5ae7bd3e1a576f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52636532"
+ms.lasthandoff: 05/26/2021
+ms.locfileid: "52662824"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 현재 채널(미리 보기)에 대한 릴리스 정보
 
@@ -54,20 +54,16 @@ ms.locfileid: "52636532"
 - 화면 읽기 프로그램 기술을 통해 "모임 시간 단축" 기능의 일부 지침을 사용할 수 없게 되는 문제를 해결했습니다.
 
 
-- 사용자 카드를 로드할 때 일부 사용자가 예기치 않게 닫히는 문제를 수정했습니다.
+- 개인 카드를 로드할 때 일부 사용자가 예기치 않게 닫히는 문제를 수정했습니다.
 
 
-- 보호된 시트에 수식으로 붙여넣을 수 있는 기능을 차단하는 문제를 수정했습니다.
+- 새 회의실 찾기 환경(웹용 Outlook과 동일한 환경)을 사용하지 않도록 설정하고 추천된 시간으로 레거시 회의실 찾기를 활성화하는 레지스트리 키가 추가되었습니다.
+    - 레지스트리 키:
 
-    - Regkey:
-
-    > HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
-
-    > REG_DWORD “ShowLegacyRoomFinder” 0 </br>
-
-    > (기본값) - Outlook에서는 사용자가 '회의실 찾기' 단추를 클릭하여 사용 가능한 회의실을 검색할 때 새로운 회의실 찾기 OWA Powered eXperience를 사용합니다.  </br>
-
-    > 1 - Outlook에서 레거시 회의실 찾기 UI를 사용하여 사용 가능한 회의실 검색 </br>
+        > HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
+        > REG_DWORD “ShowLegacyRoomFinder”</br></br>
+        > 0(기본값) - Outlook에서 사용자가 회의실 찾기' 단추를 클릭하여 사용 가능한 회의실을 검색할 때 새로운 회의실 찾기 OWA Powered eXperience를 사용  </br>
+        > 1 - Outlook에서 레거시 회의실 찾기 UI를 사용하여 사용 가능한 회의실 검색 </br>
 
 
 ### <a name="project"></a>Project
