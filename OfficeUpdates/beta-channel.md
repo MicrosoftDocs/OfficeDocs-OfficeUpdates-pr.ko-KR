@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 3a78919c5181015c88261bf66413d7f439a916cf
-ms.sourcegitcommit: c615a8b353e967222e6a75121fa6aea3d673b28b
+ms.openlocfilehash: 576d74fd51952ddcdd693095fe77f09e4fc70830
+ms.sourcegitcommit: 984872782b13ecd329fb8e8809de923148b77255
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52625943"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52699134"
 ---
 # <a name="release-notes-for-beta-channel"></a>베타 채널용 릴리스 정보
 
@@ -30,6 +30,72 @@ ms.locfileid: "52625943"
 [//]: # (제거하지 마세요)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+## <a name="version-2106-may-28"></a>버전 2106: 5월 28일
+*버전 2106(빌드 14122.20004)*
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="outlook"></a>Outlook
+
+- **조직 탐색기:** 조직도를 보고 탐색합니다.
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="outlook"></a>Outlook
+
+- 사용자가 "비즈니스와 관계없이" 사용이 허가된 Outlook 버전에서 폴더 간에 항목을 이동할 수 없는 문제를 해결했습니다.
+
+
+- 이 레지스트리 키는 새 회의실 찾기 환경(웹용 Outlook과 동일한 환경)을 사용하지 않고 제안된 시간으로 레거시 새 회의실 찾기를 사용합니다.
+
+  > HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
+  > REG_DWORD “ShowLegacyRoomFinder”</br></br>
+  > 0(기본값) - Outlook에서 사용자가 회의실 찾기' 단추를 클릭하여 사용 가능한 회의실을 검색할 때 새로운 회의실 찾기 OWA Powered eXperience를 사용  </br>
+  > 1 - Outlook에서 레거시 회의실 찾기 UI를 사용하여 사용 가능한 회의실 검색</br>
+
+
+### <a name="project"></a>Project
+
+- 수동으로 예약된 작업의 할당이 잘못된 날짜로 이동할 수 있는 문제를 해결했습니다.
+
+
+- 리소스 풀이 응답하지 않아 열 수 없는 문제를 해결했습니다.
+
+
+- 특정 날짜 또는 시간 매개 변수와 함께 ProjectDate */ProjectDur* 함수를 사용하는 사용자 지정 필드 수식을 만든 경우 오류가 생성되는 문제를 해결했습니다.
+
+
+### <a name="word"></a>Word
+
+- 문서를 PDF로 내보낼 때 일부 메모가 저장되지 않는 문제를 해결했습니다.
+
+
+- 제한된 편집이 적용될 때 문서의 보호되지 않는 영역에서 새 메모를 편집할 수 없는 문제를 해결했습니다.
+
+
+- 불필요한 스크롤 애니메이션과 관련된 문제를 해결했습니다.
+
+
+- 메모 창이 예기치 않게 닫히는 문제를 해결했습니다.
+
+
+- 편집기 창 테마와 시스템 테마가 일치하지 않는 문제를 해결했습니다.
+
+
+- 큰 문서 작업과 관련된 성능 문제를 해결했습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2106-may-21"></a>버전 2106: 5월 21일
 *버전 2106(빌드 14117.20000)*
@@ -3119,6 +3185,7 @@ ms.locfileid: "52625943"
 
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14122.20004|version-2106-may-28|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14117.20000|version-2106-may-21|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14107.20000|version-2106-may-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14029.20000|version-2106-may-07|)
@@ -3128,5 +3195,4 @@ ms.locfileid: "52625943"
 [//]: # (|Win32|DevMain|Insiders| |16.0.14002.20000|version-2105-april-09|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13929.20016|version-2104-april-02|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13919.20002|version-2104-march-26|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13913.20000|version-2104-march-19|)
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 끝)
