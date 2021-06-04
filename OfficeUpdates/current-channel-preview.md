@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 이후 참가자 대상 그룹에게 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 38567a461e655f43701e9d68da85e3dff50c779d
-ms.sourcegitcommit: 6a11bb97b0dbc14d2cd6c68e9d5ae7bd3e1a576f
+ms.openlocfilehash: a06b009c006645b9effb686be7f7b0d8a9286609
+ms.sourcegitcommit: d08938d8d38c545afc40f3e4316990d916e0ba91
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/26/2021
-ms.locfileid: "52662824"
+ms.lasthandoff: 06/04/2021
+ms.locfileid: "52742227"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 현재 채널(미리 보기)에 대한 릴리스 정보
 
@@ -28,6 +28,43 @@ ms.locfileid: "52662824"
 [//]: # (제거하지 마세요)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+## <a name="version-2105-june-01"></a>버전 2105: 6월 1일
+*버전 2105(빌드 14026.20254)*
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="outlook"></a>Outlook
+
+- **마지막 로그인/의심스러운 로그인:** 이제 Outlook에서 마지막으로 계정에 로그인한 시기와 위치를 알려주고 의심스러운 로그인 활동이 감지되면 경고합니다.
+
+- **공유 일정 향상 켜기:** Office 365의 공유 일정의 경우 Outlook에서 REST API를 사용하여 해당 일정을 업데이트할 수 있습니다. 미리 보기를 설정하여 공유 일정에 보다 빠르고 신뢰할 수 있는 업데이트를 설정합니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/shared-calendars-improvements-in-outlook-for-windows)에서 세부 정보를 참조하세요.
+
+- **대규모 DL, 외부 사용자에게 전자 메일을 보낼 때 내게 필요한 옵션 확인 도구:** 많은 청중, 외부 사용자 등에게 전자 메일을 작성하면서 접근성 위반에 대한 메시지를 메일팁을 통해 자동으로 수신하도록 기능을 추가했습니다. 이러한 설정은 내게 필요한 옵션에서 사용됩니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/sending-accessible-emails-in-outlook-for-windows)에서 세부 정보 보기
+
+### <a name="visio"></a>Visio
+
+- **AWS 스텐실 및 셰이프:** 이제 최신 AWS 셰이프가 있는 스텐실을 사용하여 다이어그램을 만들 수 있습니다. [자세한 정보](https://support.office.com/article/138206bf-d10f-4583-9f31-885ce706af49)
+
+
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="outlook"></a>Outlook
+
+- Outlook Mail 또는 일정 보기와 상호 작용할 때 예기치 않게 닫힐 수 있는 문제를 수정했습니다.
+
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2105-may-23"></a>버전 2105: 5월 23일
 *버전 2105(빌드 14026.20246)*
