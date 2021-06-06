@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 각 업데이트 채널에 대한 Microsoft 365 앱 업데이트의 대략적인 다운로드 크기 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 73137bc5838cdf63ce3bdf5ab4109543bc7dd41a
-ms.sourcegitcommit: 89ea204c9830b05f6a1681dee76502cfc8fa7db2
+ms.openlocfilehash: b5d6ce1ddbc9004858d7078f9c942ce996d90989
+ms.sourcegitcommit: 869978fef16222d8c86af40239712b4f153dcfbb
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/25/2021
-ms.locfileid: "52645155"
+ms.lasthandoff: 06/04/2021
+ms.locfileid: "52776668"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 앱 업데이트의 다운로드 크기
 
@@ -30,6 +30,43 @@ Microsoft의 목표는 기업 고객이 네트워크 대역폭 사용률을 계�
 > - 지난 4개월 동안의 릴리스만 표시됩니다.
 
 [//]: # (제거하지 마세요)
+
+[//]: # (예상 항목을 제거하지 마세요. 시작)
+
+## <a name="june-3-2021"></a>2021년 6월 3일
+
+
+### <a name="monthly-enterprise-channel"></a>월 단위 기업 채널
+
+<i>예상 릴리스는 버전 2104(빌드 13929.20404)입니다.</i>
+
+|**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
+|:-----|:-----|:-----|
+|버전 2103 (빌드 13901.20516) <br/> |2021년 5월 11일 <br/> |172<br/> |
+
+
+
+### <a name="semi-annual-enterprise-channel-preview"></a>반기 기업 채널(미리 보기)
+
+<i>예상 릴리스는 버전 2102(빌드 13801.20720)입니다.</i>
+
+|**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
+|:-----|:-----|:-----|
+|버전 2102(빌드 13801.20638) <br/> |2021년 5월 11일 <br/> |47<br/> |
+|버전2102(빌드 13801.20506) <br/> |2021년 4월 13일 <br/> |50<br/> |
+
+
+### <a name="semi-annual-enterprise-channel"></a>반기 기업 채널
+
+<i>예상 릴리스는 버전 2008(빌드 13127.21650)입니다.</i>
+
+|**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
+|:-----|:-----|:-----|
+|버전 2008(빌드 13127.21624) <br/> |2021년 5월 11일 <br/> |56<br/> |
+|버전 2008(빌드 13127.21506) <br/> |2021년 4월 13일 <br/> |57<br/> |
+
+
+[//]: # (예상 항목을 제거하지 마세요. 종료)
 
 ## <a name="may-24-2021"></a>2021년 5월 24일
 
