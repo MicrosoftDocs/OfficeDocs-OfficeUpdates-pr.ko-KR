@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 576d74fd51952ddcdd693095fe77f09e4fc70830
-ms.sourcegitcommit: 984872782b13ecd329fb8e8809de923148b77255
+ms.openlocfilehash: 88823cb9d26a86d5c726139c3b7f5ea0b5483b9d
+ms.sourcegitcommit: 7f52ea9d1051a8102d9d16129855833c5b9638a1
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/28/2021
-ms.locfileid: "52699134"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "52790503"
 ---
 # <a name="release-notes-for-beta-channel"></a>베타 채널용 릴리스 정보
 
@@ -30,6 +30,49 @@ ms.locfileid: "52699134"
 [//]: # (제거하지 마세요)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+## <a name="version-2106-june-04"></a>버전 2106: 6월 4일
+*버전 2106(빌드 14131.20008)*
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="excel"></a>Excel
+
+- **데이터 형식 검색 설정:** Excel에서 파워 쿼리 사용하여 구조화되지 않은 원본에서 데이터를 가져올 때 데이터 형식 검색 동작 구성
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="powerpoint"></a>PowerPoint
+
+- 버스 표시줄의 '저장 다시 시도' 단추를 사용하여 저장된 파일이 최근 목록에 추가되도록 하는 문제를 해결했습니다.
+
+
+### <a name="word"></a>Word
+
+- 특정 글꼴을 90도 회전할 때 문자 간격이 늘어나는 문제를 해결했습니다.
+
+
+- 여러 사용자와 공동 작성할 때 주석 회신이 손실되는 문제를 해결했습니다.
+
+
+### <a name="office-suite"></a>Office 제품군
+
+- 이전에 CLP 기능으로 인해 SyncBacked 파일(OneDrive에서 동기화된 파일)에 메시지가 표시되지 않는 저장이 발생하는 문제가 수정되었습니다.
+
+
+- 사용자가 온-프레미스 서버에 저장된 파일을 편집할 수 없는 문제를 해결했습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2106-may-28"></a>버전 2106: 5월 28일
 *버전 2106(빌드 14122.20004)*
@@ -3185,6 +3228,7 @@ ms.locfileid: "52699134"
 
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14131.20008|version-2106-june-04|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14122.20004|version-2106-may-28|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14117.20000|version-2106-may-21|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14107.20000|version-2106-may-14|)
@@ -3194,5 +3238,4 @@ ms.locfileid: "52699134"
 [//]: # (|Win32|DevMain|Insiders| |16.0.14007.20002|version-2105-april-16|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14002.20000|version-2105-april-09|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13929.20016|version-2104-april-02|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13919.20002|version-2104-march-26|)
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 끝)
