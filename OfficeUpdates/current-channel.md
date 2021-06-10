@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 앱에 대한 월 단위 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: abc506af5bb0ff1ea4a4632f72a9c1889e78fac7
-ms.sourcegitcommit: 8e2e7ccf20bb01f9eff692ff93bdcf8fe44e9148
+ms.openlocfilehash: d34f57010c92943ed8665159172f7732e5db715b
+ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/26/2021
-ms.locfileid: "52657971"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52851878"
 ---
 # <a name="release-notes-for-current-channel"></a>현재 채널에 대한 릴리스 정보
 
@@ -29,6 +29,36 @@ ms.locfileid: "52657971"
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2105-june-08"></a>버전 2105: 6월 8일
+*버전 2105(빌드 14026.20270)*
+
+[여기](microsoft365-apps-security-updates.md) 나열된 보안 업데이트
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- 일부 사용자의 Excel 추가 기능 목록에 추가 항목이 표시되는 문제를 해결했습니다.
+
+
+### <a name="outlook"></a>Outlook
+
+- Outlook Mail 또는 일정 보기와 상호 작용할 때 예기치 않게 닫힐 수 있는 문제를 수정했습니다.
+
+
+- 보관 저장소에서 폴더를 제거할 때 사용자가 예기치 않게 닫히게 하는 문제를 해결했습니다.
+
+
+### <a name="office-suite"></a>Office 제품군
+
+- SyncBacked 파일을 열 때 성능이 저하되는 문제가 해결되었습니다.
 
 
 
@@ -116,12 +146,13 @@ ms.locfileid: "52657971"
 
 
 - 새 룸 찾기 환경(웹용 Outlook과 동일한 환경)을 사용하지 않도록 설정하고 제안된 시간으로 레거시 룸 찾기를 활성화하는 레지스트리 키가 추가되었습니다.
-    - 레지스트리 키:
 
-        > HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
-        > REG_DWORD “ShowLegacyRoomFinder”</br></br>
-        > 0(기본값) - Outlook에서 사용자가 회의실 찾기' 단추를 클릭하여 사용 가능한 회의실을 검색할 때 새로운 회의실 찾기 OWA Powered eXperience를 사용  </br>
-        > 1 - Outlook에서 레거시 회의실 찾기 UI를 사용하여 사용 가능한 회의실 검색 </br>
+    레지스트리 키:
+
+    >HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
+    >REG_DWORD “ShowLegacyRoomFinder”</br></br>
+    >0(기본값) - Outlook에서 사용자가 회의실 찾기' 단추를 클릭하여 사용 가능한 회의실을 검색할 때 새로운 회의실 찾기 OWA Powered eXperience를 사용  </br>
+    >1 - Outlook에서 레거시 회의실 찾기 UI를 사용하여 사용 가능한 회의실 검색 </br>
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -922,6 +953,7 @@ ms.locfileid: "52657971"
 > Office를 사용하는 데 발생한 문제에 대해 도움이 필요하면 [Microsoft의 Answers 포럼](https://answers.microsoft.com/) 또는 [기술 커뮤니티](https://techcommunity.microsoft.com/)에 질문을 게시하거나 [지원 서비스](https://support.microsoft.com/contactus)에 문의할 수 있습니다.
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|CC|Production| |16.0.14026.20270|version-2105-june-08|)
 [//]: # (|Win32|CC|Production| |16.0.14026.20246|version-2105-may-24|)
 [//]: # (|Win32|CC|Production| |16.0.13929.20386|version-2104-may-18|)
 [//]: # (|Win32|CC|Production| |16.0.13929.20372|version-2104-may-11|)
@@ -931,5 +963,4 @@ ms.locfileid: "52657971"
 [//]: # (|Win32|CC|Production| |16.0.13901.20336|version-2103-april-02|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20312|version-2103-march-30|)
 [//]: # (|Win32|CC|Production| |16.0.13801.20360|version-2102-march-18|)
-[//]: # (|Win32|CC|Production| |16.0.13801.20294|version-2102-march-09|)
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 끝)

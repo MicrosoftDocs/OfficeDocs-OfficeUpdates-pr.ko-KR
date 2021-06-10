@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 앱에 대한 반기 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: a6fa2fbc2e872e099800a3ca1c8ec421d14fef3d
-ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
+ms.openlocfilehash: a2b8ae060b7be521bb60f86b809ca0be0bd10817
+ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52322348"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52851958"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>반기 기업 채널에 대한 릴리스 정보
 
@@ -27,7 +27,60 @@ ms.locfileid: "52322348"
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
-## <a name="version-2008-may-11"></a>버전 2008: 5월 11일
+## <a name="version-2008-june-08"></a>버전 2008: 6월 8일
+*버전 2008(빌드 13127.21668)*
+
+[여기](microsoft365-apps-security-updates.md) 나열된 보안 업데이트
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- 일부 사용자의 Excel 추가 기능 목록에 추가 항목이 표시되는 문제를 해결했습니다.
+
+
+- 일부 사용자의 상태 표시줄이 준비 상태를 나타내지 않도록 하는 문제를 수정했습니다.
+
+
+### <a name="word"></a>Word
+
+- 사용자 지정 스타일을 사용하여 텍스트를 붙여넣을 때 번호 매기기 및 들여쓰기가 누락되는 문제가 해결되었습니다.
+
+
+- 콘텐츠 컨트롤에 허용되는 문자열 크기에 대한 제한이 제거되는 문제를 해결했습니다.
+
+
+### <a name="office-suite"></a>Office 제품군
+
+- 이 변경 전에는 Office 템플릿이 사용 안 함 GPO가 켜져 있어도 표시되었습니다. 이 변경이 적용되면 서식 파일은 GPO를 올바르게 존중하고 요청된 경우 표시/숨기기합니다.
+
+
+- 라이선스 및 디지털 권한 관리에서 시간 초과가 발생하여 드물게 SharePoint Online의 파일 열기가 불필요하게 지연될 수 있는 문제를 해결했습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2002-june-08"></a>버전 2002: 6월 8일
+*버전 2002(빌드 12527.21952)*
+
+[여기](microsoft365-apps-security-updates.md) 나열된 보안 업데이트
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- 일부 사용자의 Excel 추가 기능 목록에 추가 항목이 표시되는 문제를 해결했습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2008-may-11"></a>버전 2008: 5월 11일
 *버전 2008(빌드 13127.21624)*
 
 [여기](microsoft365-apps-security-updates.md) 나열된 보안 업데이트
@@ -63,7 +116,7 @@ ms.locfileid: "52322348"
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
-## <a name="version-2002-may-11"></a>버전 2002: 5월 11일
+## <a name="version-2002-may-11"></a>버전 2002: 5월 11일
 *버전 2002(빌드 12527.21912)*
 
 [여기](microsoft365-apps-security-updates.md) 나열된 보안 업데이트
@@ -980,6 +1033,7 @@ ms.locfileid: "52322348"
 
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|DC|Production| |16.0.13127.21668|version-2008-june-08|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21624|version-2008-may-11|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21506|version-2008-april-13|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21348|version-2008-march-09|)
@@ -989,5 +1043,4 @@ ms.locfileid: "52322348"
 [//]: # (|Win32|DC|Production| |16.0.12527.21330|version-2002-november-10|)
 [//]: # (|Win32|DC|Production| |16.0.12527.21236|version-2002-october-13|)
 [//]: # (|Win32|DC|Production| |16.0.12527.21104|version-2002-september-08|)
-[//]: # (|Win32|DC|Production| |16.0.12527.20988|version-2002-august-11|)
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 끝)
