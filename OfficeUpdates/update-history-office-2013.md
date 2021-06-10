@@ -9,19 +9,19 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 간편 실행을 사용하는 Office 2013 영구 버전에 대한 업데이트 기록을 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 0edbfbabe81e8c379489fa15bfc3f54942f6aeb6
-ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
+ms.openlocfilehash: 9961d57aca84cf1cd8ea81b69cbcaf92c1c629c9
+ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52322298"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52851928"
 ---
 # <a name="update-history-for-office-2013"></a>Office 2013에 대한 업데이트 기록
 
 대부분의 Office 2013 제품은 간편 실행이라는 기술을 사용하여 자동으로 최신 상태로 유지됩니다. 최신 상태인지 확인하려는 경우 Office 버전 번호를 확인하고 필요한 경우 Office를 직접 수동으로 업데이트합니다.
   
 > [!NOTE]
-> 최신 버전의 Office 2013은 2021년 5월 11일에 릴리스된 **15.0.5345.1002** 입니다.
+> 최신 버전의 Office 2013은 2021년 6월 8일에 릴리스된 **15.0.5357.1000** 입니다.
   
 Office의 버전을 확인하려면 다음을 수행합니다.
   
@@ -45,7 +45,8 @@ Office의 버전을 확인하려면 다음을 수행합니다.
   
 |**릴리스 연도**|**릴리스 날짜**|**버전 번호**|**추가 정보**|
 |:-----|:-----|:-----|:-----|
-|2021|5월 11일|15.0.5345.1002|[KB 5003427](https://support.microsoft.com/help/5003427)|
+|2021|6월 8일|15.0.5357.1000|[KB 5004001](https://support.microsoft.com/help/5004001)|
+||5월 11일|15.0.5345.1002|[KB 5003427](https://support.microsoft.com/help/5003427)|
 ||4월 13일|15.0.5337.1001|[KB 5001778](https://support.microsoft.com/help/5001778)|
 ||3월 9일|15.0.5327.1000|[KB 5000635](https://support.microsoft.com/help/5000635)|
 ||2월 9일|15.0.5319.1000|[KB 5000653](https://support.microsoft.com/help/5000653)|

@@ -9,17 +9,110 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2021년 Microsoft 365 앱에 대한 반기 채널(대상 지정) 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: ca32e509ccce9a52e1efb67fe05275eb65a2b64e
-ms.sourcegitcommit: c615a8b353e967222e6a75121fa6aea3d673b28b
+ms.openlocfilehash: 95bdd111e041dd07689ad84254dde5b95a8efebe
+ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52625933"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52852008"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>반기 기업 채널(프리뷰)의 릴리스 정보
 
 이 릴리스 정보에서는 엔터프라이즈용 Microsoft 365 앱, 비즈니스용 Microsoft 365 앱 및 프로젝트 및 Visio용 데스크톱 앱의 구독 버전에 대한 반기별 엔터프라이즈 채널(미리 보기) 업데이트에 포함된 새로운 기능 및 비보안 업데이트에 대한 정보를 제공합니다.
 
+
+## <a name="version-2102-june-08"></a>버전 2102: 6월 8일
+*버전 2102(빌드 13801.20738)*
+
+[여기](microsoft365-apps-security-updates.md) 나열된 보안 업데이트
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- 파레토 차트에 나타난 추가 패딩을 제거하는 문제를 수정하고 사용 가능한 차트 작성 공간을 줄였습니다.
+
+
+- 일부 사용자의 Excel 추가 기능 목록에 추가 항목이 표시되는 문제를 해결했습니다.
+
+
+- 일부 사용자의 상태 표시줄이 준비 상태를 나타내지 않도록 하는 문제를 수정했습니다.
+
+
+- Power BI 데이터 유형을 새로 고칠 때 오류 메시지를 개선하여 문제를 해결했으며 사용자는 일부 데이터 유형에 액세스할 수 없습니다.
+
+
+- AutoComplete 속성에 표시할 수 있는 속성 수를 256개로 늘려서 문제를 해결했습니다.
+
+
+### <a name="outlook"></a>Outlook
+
+- 내부 및 외부 EWS 끝점이 다르고 내부 끝점에 대한 호출이 실패할 때 사용자가 연결 오류를 가져오는 문제를 해결했습니다.
+
+
+- 보낸 사람의 주소가 레거시로 표시되는 문제를 수정했습니다.교환합니다전자 메일을 다시 보낼 때 DN입니다.
+
+
+- 최종 사용자 및 관리자가 클라우드 설정을 설정할 수 없는 문제를 해결했습니다.
+
+
+- 외부 네트워크에 연결된 하이브리드 Azure AD 조인된 시스템에서 ZeroConfigExchange가 제대로 작동하지 않는 문제를 해결했습니다.
+
+
+- 사용자 지정 도메인 사용자가 전자 메일 메시지에 링크를 붙여넣을 때 사용 권한에 대한 경고 메시지가 표시되는 문제가 수정되었습니다.
+</br>
+
+- 새 회의실 찾기 환경(웹용 Outlook과 동일한 환경)을 사용하지 않도록 설정하고 추천된 시간으로 레거시 회의실 찾기를 활성화하는 레지스트리 키가 추가되었습니다.
+
+    레지스트리 키:
+
+    >HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
+    >REG_DWORD “ShowLegacyRoomFinder”</br></br>
+    >0(기본값) - Outlook에서 사용자가 회의실 찾기' 단추를 클릭하여 사용 가능한 회의실을 검색할 때 새로운 회의실 찾기 OWA Powered eXperience를 사용  </br>
+    >1 - Outlook에서 레거시 회의실 찾기 UI를 사용하여 사용 가능한 회의실 검색 </br>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 중앙 배포를 지원하기 위해 스토어가 버전 1.0.0.2로 업데이트되는 문제를 수정했습니다. 저장소에 액세스하려면 사용자가 PowerPoint의 버전 정보를 업데이트해야 합니다.
+
+
+### <a name="project"></a>Project
+
+- ProjectDate */ProjectDur* 함수를 사용하는 사용자 지정 필드 수식을 만들고 두 번째 매개 변수가 Date(), Now() 또는 Time() 날짜 및 시간 함수인 경우 #ERROR가 발생하는 문제를 수정했습니다.
+
+
+- 리소스 풀이 응답하지 않아 열 수 없는 문제를 해결했습니다.
+
+
+### <a name="visio"></a>Visio
+
+- 셰이프 검색에서 검색 키워드를 입력할 때 누락된 결과와 관련된 문제를 해결했습니다.
+
+
+### <a name="word"></a>Word
+
+- 온라인 그림을 삽입할 때 응용 프로그램의 응답하지 않는 문제와 관련된 문제가 해결되었습니다.
+
+
+- 복사 및 붙여넣기 스타일이 붙여 넣은 텍스트와 다를 수 있는 문제가 수정되었습니다.
+
+
+- 콘텐츠 컨트롤에 허용되는 문자열 크기에 대한 제한이 제거되는 문제를 해결했습니다.
+
+
+- OLE 개체 편집과 관련된 문제를 해결했습니다.
+
+
+### <a name="office-suite"></a>Office 제품군
+
+- 자리 표시자 파일을 열 때 발생하는 문제를 해결했습니다. Office가 동기화된 파일을 열지 못했습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2102-may-11"></a>버전 2102: 5월 11일
 *버전 2102(빌드 13801.20638)*
@@ -660,6 +753,7 @@ ms.locfileid: "52625933"
 
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|FRDC|Insiders| |16.0.13801.20738|version-2102-june-08|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13801.20638|version-2102-may-11|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13801.20506|version-2102-april-13|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13801.20294|version-2102-march-09|)
@@ -669,5 +763,4 @@ ms.locfileid: "52625933"
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20760|version-2008-november-10|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20638|version-2008-october-13|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20408|version-2008-september-08|)
-[//]: # (|Win32|FRDC|Insiders| |16.0.12527.20988|version-2002-august-11|)
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 끝)

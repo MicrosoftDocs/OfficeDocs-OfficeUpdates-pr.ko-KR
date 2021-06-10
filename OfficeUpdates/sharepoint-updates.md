@@ -13,12 +13,12 @@ ms.collection:
 - RelNotes_Server
 ms.assetid: 4b32dfba-1af6-4077-9a92-7cec8f220f20
 description: SharePoint Server 2016, SharePoint 2013 및 SharePoint 2010에 대한 업데이트를 한 위치에서 찾고 관리합니다. 업데이트에 대한 자세한 내용을 알아본 후 업데이트를 다운로드하려면 이 페이지의 링크를 사용하세요.
-ms.openlocfilehash: bdc40f8690529b2f70ac1f934c006d4458132b21
-ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
+ms.openlocfilehash: 309ae6ea429fdf6dfa2d958de82d67018ba50f25
+ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52322318"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52851968"
 ---
 # <a name="sharepoint-updates"></a>SharePoint 업데이트
 
@@ -36,6 +36,7 @@ ms.locfileid: "52322318"
 
 |**패키지 이름**|**KB 번호**|**버전**|**릴리스 날짜**|
 |:-----|:-----|:-----|:-----|
+|SharePoint Server 2019 <br/> SharePoint Server 2019 MUI/언어 패치  <br/>|[KB 5001944](https://support.microsoft.com/help/5001944)<br/>[KB 5001945](https://support.microsoft.com/help/5001945)<br/>|16.0.10375.20000|2021년 6월|
 |SharePoint Server 2019 <br/> SharePoint Server 2019 MUI/언어 패치  <br/>|[KB 5001916](https://support.microsoft.com/help/5001916)<br/>[KB 5001915](https://support.microsoft.com/help/5001915)<br/>|16.0.10374.20000|2021년 5월|
 |SharePoint Server 2019 <br/> SharePoint Server 2019 MUI/언어 패치  <br/>|[KB 4504716](https://support.microsoft.com/help/4504716)<br/>[KB 4504715](https://support.microsoft.com/help/4504715)<br/>|16.0.10373.20000|2021년 4월|
 |SharePoint Server 2019 <br/> SharePoint Server 2019 MUI/언어 패치  <br/>|[KB 4493230](https://support.microsoft.com/help/4493230)<br/>[KB 4493231](https://support.microsoft.com/help/4493231)<br/>|16.0.10372.20060|2021년 3월|
@@ -74,6 +75,7 @@ ms.locfileid: "52322318"
 
 |**패키지 이름**|**KB 번호**|**버전**|**릴리스 날짜**|
 |:-----|:-----|:-----|:-----|
+|SharePoint Server 2016  <br/>SharePoint Server 2016 MUI/언어 패치  <br/> |[KB 5001946](https://support.microsoft.com/help/5001946) <br/>[KB 5001922](https://support.microsoft.com/help/5001922) <br/>|16.0.5173.1000 <br/>|2021년 6월|
 |SharePoint Server 2016  <br/>|[KB 5001917](https://support.microsoft.com/help/5001917) <br/>|16.0.5161.1000 <br/>|2021년 5월|
 |SharePoint Server 2016  <br/>SharePoint Server 2016 MUI/언어 패치  <br/> |[KB 4504719](https://support.microsoft.com/help/4504719) <br/>[KB 4504723](https://support.microsoft.com/help/4504723) <br/>|16.0.5149.1000 <br/>|2021년 4월|
 |SharePoint Server 2016  <br/>SharePoint Server 2016 MUI/언어 패치  <br/> |[KB 4493232](https://support.microsoft.com/help/4493232) <br/>[KB 4493199](https://support.microsoft.com/help/4493199) <br/>|16.0.5134.1001 <br/>|2021년 3월|
@@ -151,6 +153,7 @@ ms.locfileid: "52322318"
     
 |**패키지 이름**|**KB 번호**|**버전**|**릴리스 날짜**|
 |:-----|:-----|:-----|:-----|
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/>|[KB 5001957](https://support.microsoft.com/help/5001957) <br/>[KB 5001961](https://support.microsoft.com/help/5001961) <br/>|15.0.5353.1000|2021년 6월|
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/>|[KB 5001929](https://support.microsoft.com/help/5001929) <br/>[KB 5001933](https://support.microsoft.com/help/5001933) <br/>|15.0.5345.1000|2021년 5월|
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/>|[KB 4504730](https://support.microsoft.com/help/4504730) <br/>[KB 4504732](https://support.microsoft.com/help/4504732) <br/>|15.0.5337.1000|2021년 4월|
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/>|[KB 4493235](https://support.microsoft.com/help/4493235) <br/>[KB 4493237](https://support.microsoft.com/help/4493237) <br/>|15.0.5327.1001|2021년 3월|

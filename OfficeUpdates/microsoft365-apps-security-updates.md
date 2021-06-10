@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT 전문가에게 Microsoft Office 보안 업데이트에 대한 릴리스 정보를 제공합니다.
-ms.openlocfilehash: 609a90e81dd90867858b7902c4f0363a2abca514
-ms.sourcegitcommit: 555e92127b0922cf09d5c2cc1dba836336bcbf5b
+ms.openlocfilehash: 5ab2db770141e34fa8fd3d38411e77acef4d4235
+ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "52330505"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52851838"
 ---
 # <a name="release-notes-for-microsoft-office-security-updates"></a>Microsoft Office 보안 업데이트 릴리스 정보
 
@@ -24,6 +24,42 @@ ms.locfileid: "52330505"
  
 
 [//]: # (공백으로 사용하므로, 위의 선을 삭제하지 마세요.)  
+
+## <a name="june-08-2021"></a>2021년 6월 8일
+현재 채널: 버전 2105(빌드 14026.20270)  
+월 단위 기업 채널: 버전 2104(빌드 13929.20408)  
+월 단위 기업 채널: 버전 2103(빌드 13901.20554)  
+반기 기업 채널(미리 보기): 버전 2102(빌드 13801.20738)  
+반기 기업 채널: 버전 2008(빌드 13127.21668)  
+반기 기업 채널: 버전 2002(빌드 12527.21952)  
+Windows 7 기반 Microsoft 365 앱: 버전 2002(빌드 12527.21952)  
+Office 2019 소매: 버전 2105(빌드 14026.20270)  
+Office 2016 소매: 버전 2105(빌드 14026.20270)  
+Office 2019 볼륨 라이선스: 버전 1808(빌드 10375.20036)  
+
+[//]: # (보안 세부 정보 컨텐츠 제거 안 함)
+
+
+### <a name="access"></a>접근
+
+-   [CVE-2021-28455](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2021-28455)
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2021-31939](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2021-31939)
+
+### <a name="outlook"></a>Outlook
+
+-   [CVE-2021-31949](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2021-31949)
+
+### <a name="office-suite"></a>Office 제품군
+
+-   [CVE-2021-31941](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2021-31941)
+-   [CVE-2021-31940](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2021-31940)
+
+[//]: # (보안 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+
 
 ## <a name="may-11-2021"></a>2021년 5월 11일
 현재 채널: 버전 2104(빌드 13929.20372)  

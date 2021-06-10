@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps에 대한 월 단위 기업 채널의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 97275c74ed91f91cd6a307cb87bbdc83ffcdf49e
-ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
+ms.openlocfilehash: 1795f0a150b8b18d50e462cd6d30a285c055f8b1
+ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52322328"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52851868"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel"></a>월 단위 기업 채널에 대한 릴리스 정보
 
@@ -25,7 +25,161 @@ ms.locfileid: "52322328"
 
 
 
-## <a name="version-2103-may-11"></a>버전 2103: 5월 11일
+## <a name="version-2104-june-08"></a>버전 2104: 6월 8일
+*버전 2104(빌드 13929.20408)*
+
+[여기](microsoft365-apps-security-updates.md) 나열된 보안 업데이트
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="excel"></a>Excel
+
+- **중요한 암호화된 문서에 자동 저장 및 공동 작성**: 생산성과 보안을 바꾸지 마세요. Microsoft Information Protection을 사용하면 민감도 레이블로 암호화된 문서를 자동 저장하여 암호화되지 않은 문서와 마찬가지로 실시간으로 다른 사용자와 공동 작성할 수 있습니다. 테넌트 옵트인(자세한 정보: https://aka.ms/mipcoauth)이 필요합니다
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **중요한 암호화된 문서에 자동 저장 및 공동 작성**: 생산성과 보안을 바꾸지 마세요. Microsoft Information Protection을 사용하면 민감도 레이블로 암호화된 문서를 자동 저장하여 암호화되지 않은 문서와 마찬가지로 실시간으로 다른 사용자와 공동 작성할 수 있습니다. 테넌트 옵트인(자세한 정보: https://aka.ms/mipcoauth)이 필요합니다
+
+### <a name="word"></a>Word
+
+- **중요한 암호화된 문서에 자동 저장 및 공동 작성**: 생산성과 보안을 바꾸지 마세요. Microsoft Information Protection을 사용하면 민감도 레이블로 암호화된 문서를 자동 저장하여 암호화되지 않은 문서와 마찬가지로 실시간으로 다른 사용자와 공동 작성할 수 있습니다. 테넌트 옵트인(자세한 정보: https://aka.ms/mipcoauth)이 필요합니다
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- 일부 파일이 보호된 보기에서 열리지 않는 문제를 해결했습니다.
+
+
+- 추가 기능 사용 시 일부 언어로 날짜 형식이 잘못 표시되는 문제를 해결했습니다.
+
+
+- 일부 사용자에게 분석 도구 추가 기능이 작동하지 않는 문제를 해결했습니다.
+
+
+- 일부 사용자의 Excel 추가 기능 목록에 추가 항목이 표시되는 문제를 해결했습니다.
+
+
+- 주요 버전 빌드 롤백으로 인해 파일 열기에서 응용 프로그램이 종료될 수 있는 문제를 해결합니다.
+
+
+### <a name="outlook"></a>Outlook
+
+- 일정관리 공유 개선 기능의 일부 사용자에게 네비게이션 영역에서 일정 관리와 상호작용하는 문제가 발생하는 문제를 수정했습니다.
+
+
+- 새 회의실 찾기 환경(웹용 Outlook과 동일한 환경)을 사용하지 않도록 설정하고 추천된 시간으로 레거시 회의실 찾기를 활성화하는 레지스트리 키가 추가되었습니다.
+    
+    레지스트리 키:
+
+    >HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
+    >REG_DWORD “ShowLegacyRoomFinder”</br></br>
+    > 0(기본값) - Outlook에서 사용자가 회의실 찾기' 단추를 클릭하여 사용 가능한 회의실을 검색할 때 새로운 회의실 찾기 OWA Powered eXperience를 사용  </br>
+    > 1 - Outlook에서 레거시 회의실 찾기 UI를 사용하여 사용 가능한 회의실 검색 </br>
+
+
+- 다른 사용자를 대신하여 전체 주소 목록이 아닌 주소록에 대해 확인할 때 이름 확인이 실패하는 문제를 수정했습니다.
+
+
+- Office Perpetual 2021 Preview 사용자에 대해 사용자 의견 옵션이 나타나지 않는 문제가 수정되었습니다.
+
+
+- 사용자가 메시지를 작성할 때 UI 포커스가 사라질 수 있는 문제가 수정되었습니다.
+
+
+- Outlook이 OWA에 구성된 중요 받은 편지함 기본 설정을 재정의하는 문제를 수정했습니다.
+
+
+- 사용자의 서명이 예기치 않게 사라지는 문제가 수정되었습니다.
+
+
+- 로밍 설정 사용자에게 응답 없음이 발생하는 문제를 수정했습니다.
+
+
+- 사용자가 검색할 때 프로세스가 예기치 않게 종료되는 문제를 해결했습니다.
+
+
+- 검색 관련 예기치 않은 종료 문제를 해결했습니다.
+
+
+- Outlook의 사용자 선택기가 영구 라이선스를 가진 사용자에 대해 하향 확장이 아닌 상향으로 확장되는 문제가 수정되었습니다.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 일부 사용자가 슬라이드 다시 사용 옵션을 사용할 수 없는 문제를 해결했습니다.
+
+
+- 연결된 그림과 관련된 문제가 수정되었습니다.
+
+
+- 주 버전 빌드 롤백으로 인해 파일이 예기치 않게 종료되는 문제를 해결했습니다.
+
+
+### <a name="project"></a>Project
+
+- 사용자가 자원 그룹에서 프로젝트를 제거할 수 없는 문제를 수정했습니다.
+
+
+### <a name="word"></a>Word
+
+- OLE 개체 편집을 변경해야 하는 문제를 해결했습니다.
+
+
+- 읽기 모드에서 어둠 모드 테마를 사용하는 경우 일부 텍스트는 표시되지 않는 문제가 수정되었습니다.
+
+
+- 사용자가 로그오프하거나 컴퓨터를 다시 시작하여 종료할 때 Word가 예기치 않게 닫힐 수 있는 문제를 해결합니다.
+
+
+- 로컬에 저장된 파일에 대한 자동 저장 설명에 대한 텍스트를 업데이트하는 문제를 수정했습니다.
+
+
+- 주 버전 빌드 롤백으로 인해 파일이 예기치 않게 종료되는 문제를 해결했습니다.
+
+
+### <a name="office-suite"></a>Office 제품군
+
+- 클라우드 문서를 열지 못하는 문제를 해결했습니다.
+
+
+- 이 변경은 Cobalt 응답에 전송된 새 TenantId 특성을 구문 분석하여 중앙 테이블에 저장합니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2103-june-08"></a>버전 2103: 6월 8일
+*버전 2103(빌드 13901.20554)*
+
+[여기](microsoft365-apps-security-updates.md) 나열된 보안 업데이트
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- 일부 사용자의 Excel 추가 기능 목록에 추가 항목이 표시되는 문제를 해결했습니다.
+
+
+### <a name="office-suite"></a>Office 제품군
+
+- 이전 빌드로 롤백하는 경우 Word, Powerpoint 및 Excel에서 클라우드 문서를 열지 못하는 문제를 해결합니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2103-may-11"></a>버전 2103: 5월 11일
 *버전 2103(빌드 13901.20516)*
 
 [여기](microsoft365-apps-security-updates.md) 나열된 보안 업데이트
@@ -155,7 +309,7 @@ ms.locfileid: "52322328"
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
-## <a name="version-2102-may-11"></a>버전 2102: 5월 11일
+## <a name="version-2102-may-11"></a>버전 2102: 5월 11일
 *버전 2102(빌드 13801.20638)*
 
 [여기](microsoft365-apps-security-updates.md) 나열된 보안 업데이트
@@ -290,7 +444,7 @@ ms.locfileid: "52322328"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- Office 리본의 비활성화된 명령을 실행하면 아이콘만 회색으로 표시되고 어두운 회색 Office 테마의 텍스트는 회색으로 표시되지 않는 문제를 수정했습니다.
+- Office 리본에서 비활성화된 명령의 아이콘은 회색으로 표시되지만 어두운 회색 Office 테마의 텍스트는 회색으로 표시되지 않는 문제를 수정했습니다.
 
 
 ### <a name="word"></a>Word
@@ -711,6 +865,7 @@ ms.locfileid: "52322328"
 
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|MEC|Production|Feature|16.0.13929.20408|version-2104-june-08|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13901.20516|version-2103-may-11|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13801.20506|version-2102-april-13|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13628.20528|version-2101-march-09|)
@@ -720,5 +875,4 @@ ms.locfileid: "52322328"
 [//]: # (|Win32|MEC|Production|Feature|16.0.13231.20514|version-2009-november-10|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13127.20638|version-2008-october-13|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13029.20534|version-2007-september-08|)
-[//]: # (|Win32|MEC|Production|Feature|16.0.13001.20520|version-2006-august-11|)
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 끝)
