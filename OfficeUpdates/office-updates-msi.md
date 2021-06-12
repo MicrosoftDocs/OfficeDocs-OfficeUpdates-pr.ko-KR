@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Office 2016, Office 2013 및 Office 2010 영구 버전의 최신 업데이트 정보에 대한 링크를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: c3933557c854757f9371e03361105c35a48596ad
-ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
+ms.openlocfilehash: cadd0d061af18d905a166c642f5b664ebb09821b
+ms.sourcegitcommit: e04eca2da568e5b00330db8441a5a74646233bcd
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52851978"
+ms.lasthandoff: 06/11/2021
+ms.locfileid: "52899918"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Windows Installer(MSI)를 사용하는 Office 버전에 대한 최신 업데이트
 
@@ -51,7 +51,7 @@ ms.locfileid: "52851978"
    
 ## <a name="updates-released-in-past-12-months"></a>지난 12개월 동안 릴리스된 업데이트
 
-[2020년 6월용 보안 및 비보안 업데이트: KB5004001](https://support.microsoft.com/help/5004001)
+[2021년 6월용 보안 및 비보안 업데이트: KB5004001](https://support.microsoft.com/help/5004001)
 
 
 [2021년 5월 보안 및 비보안 업데이트: KB5003427](https://support.microsoft.com/help/5003427)
