@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: fe1ae3a57962939c85f7bdf8a7e28ad45bb299a3
-ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
+ms.openlocfilehash: 6ca376f15c7915675ac0bbc1eeb44f4479402ebe
+ms.sourcegitcommit: e04eca2da568e5b00330db8441a5a74646233bcd
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52851748"
+ms.lasthandoff: 06/11/2021
+ms.locfileid: "52899919"
 ---
 # <a name="release-notes-for-beta-channel"></a>베타 채널용 릴리스 정보
 
@@ -30,6 +30,37 @@ ms.locfileid: "52851748"
 [//]: # (제거하지 마세요)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+## <a name="version-2107-june-11"></a>버전 2107: 6월 11일
+*버전 2107(빌드 14204.20006)*
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- 일부 사용자의 Excel 추가 기능 목록에 추가 항목이 표시되는 문제를 해결했습니다.
+
+
+- SPO 문서 라이브러리에 저장할 때 저장된 통합 문서가 최근 목록의 맨 위에 표시되는 문제를 해결했습니다.
+
+
+### <a name="onenote"></a>OneNote
+
+- 단락에 대한 링크 복사가 항상 올바른 페이지로 리디렉션되지 않는 문제를 해결했습니다.
+
+
+### <a name="word"></a>Word
+
+- Microsoft Word Word Word Paper 추가 기능을 사용할 때 사각형이 나타나는 문제를 해결했습니다.
+
+
+- 인쇄 미리 보기의 일부 페이지가 비어 있는 문제를 해결했습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2106-june-04"></a>버전 2106: 6월 4일
 *버전 2106(빌드 14131.20008)*
@@ -1169,7 +1200,7 @@ ms.locfileid: "52851748"
 
 ### <a name="word"></a>Word
 
-- **최신 주석을 활용한 더 나은 공동 작업:** 개체에 메모를 추가하고, 동료를 @멘션하고, 메모 스레드를 해결하여 공동 작업 환경을 개선해보세요. [자세한 정보](https://support.office.com/article/8d3f868a-867e-4df2-8c68-bf96671641e2)<br />[블로그 게시물](https://insider.office.com/en-us/blog/modern-commenting-in-word)에서 세부 정보 보기
+- **최신 주석을 활용한 더 나은 공동 작업:** 개체에 메모를 추가하고, 동료를 @멘션하고, 메모 스레드를 해결하여 공동 작업 환경을 개선해보세요. [자세한 정보](https://support.office.com/article/8d3f868a-867e-4df2-8c68-bf96671641e2)<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/modern-commenting-in-word)에서 세부 정보 보기
 
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -2112,19 +2143,19 @@ ms.locfileid: "52851748"
 ### <a name="feature-updates"></a>기능 업데이트
 ### <a name="excel"></a>Excel
 
-- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
+- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
 
 ### <a name="outlook"></a>Outlook
 
-- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
+- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
+- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
 
 ### <a name="word"></a>Word
 
-- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
+- **Office에 iPhone 사진을 직접 삽입**: 이제 전화기의 HEIC 사진이 Office에 원활하게 삽입됩니다. 변환할 필요가 없습니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/insert-apple-photos-into-office-easily)에서 세부 정보 보기
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
@@ -3230,6 +3261,7 @@ ms.locfileid: "52851748"
 
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14204.20006|version-2107-june-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14131.20008|version-2106-june-04|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14122.20004|version-2106-may-28|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14117.20000|version-2106-may-21|)
@@ -3239,5 +3271,4 @@ ms.locfileid: "52851748"
 [//]: # (|Win32|DevMain|Insiders| |16.0.14014.20002|version-2105-april-23|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14007.20002|version-2105-april-16|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14002.20000|version-2105-april-09|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13929.20016|version-2104-april-02|)
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 끝)
