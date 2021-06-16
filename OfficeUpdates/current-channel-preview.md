@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 이후 참가자 대상 그룹에게 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 712501114acb6e1a14ae8f0c55727ac3e504afe1
-ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
+ms.openlocfilehash: b9c89336aef23ef64fc06b902dcfce937c3701af
+ms.sourcegitcommit: 3f3d978780a2212769cdd6a27eba1bf8f75a2b31
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52851848"
+ms.lasthandoff: 06/14/2021
+ms.locfileid: "52916678"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 현재 채널(미리 보기)에 대한 릴리스 정보
 
@@ -28,6 +28,32 @@ ms.locfileid: "52851848"
 [//]: # (제거하지 마세요)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+## <a name="version-2106-june-14"></a>버전 2106: 6월 14일
+*버전 2106(빌드 14131.20162)*
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="word"></a>Word
+
+- **음성 검색:** 검색 창에서 마이크를 탭하거나 클릭하여 Word에서 음성을 사용하여 명령, 콘텐츠 등을 찾습니다.
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- 일부 사용자의 Excel 추가 기능 목록에 추가 항목이 표시되는 문제를 해결했습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2106-june-07"></a>버전 2106: 6월 7일
 *버전 2106(빌드 14131.20012)*
