@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT 전문가에게 MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록을 제공합니다.
-ms.openlocfilehash: 783ae03e77060c91a02e98e88e3d1570c1cdaf11
-ms.sourcegitcommit: 830bba63e278d32baeaaaa5323e3fd25cf6b7c24
+ms.openlocfilehash: 10336f30469104b93c24d6f40f091d47c4b20d81
+ms.sourcegitcommit: 4ab7d229662f7c8334e6c70aca4932bc62394a65
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52563384"
+ms.lasthandoff: 06/15/2021
+ms.locfileid: "52949838"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록
  
@@ -29,6 +29,22 @@ ms.locfileid: "52563384"
 > - Microsoft 자동 업데이트는 Microsoft의 다양한 Mac 제품에 대한 업데이트를 제공합니다. 따라서 Mac용 Office를 실행하고 있지 않더라도 Microsoft 자동 업데이트를 업데이트하라는 알림을 받을 수 있습니다.
 
 릴리스 정보를 확인하려면 [릴리스 정보](release-notes-office-for-mac.md)를 참고하세요.<br/><br/>
+## <a name="june-2021-release"></a>2021년 6월 릴리스
+
+**릴리스 날짜:** 2021년 6월 15일
+
+*Microsoft 자동 업데이트 4.36*
+
+**버그 수정 및 개선 사항:**
+- Docktile 진행률 표시기 - 이제 MAU에서 도크에 표시되는 아이콘에 진행률을 표시합니다.
+- 업데이트의 기회적 완료 - MAU에서 장치 종료/다시 부팅 중에 지연된 업데이트를 적용하려고 시도합니다.
+
+[Microsoft 자동 업데이트 4.36 패키지 다운로드](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.36.21061301_Updater.pkg)<br/>
+<br/>
+**SHA-256 해시:**
+
+0680414EA9553FEF6198B8414CFABABB6ED5B22A571138B98F6F3E4190630DB3
+
 
 ## <a name="may-2021-release"></a>2021년 5월 릴리스
 
