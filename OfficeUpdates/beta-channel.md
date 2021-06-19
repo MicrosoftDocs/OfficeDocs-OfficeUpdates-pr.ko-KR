@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 6ca376f15c7915675ac0bbc1eeb44f4479402ebe
-ms.sourcegitcommit: e04eca2da568e5b00330db8441a5a74646233bcd
+ms.openlocfilehash: be309ede1f540e995ea977feff91267b0ad6c0ad
+ms.sourcegitcommit: d248e36e346915194ca383f5da161790681a87e6
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/11/2021
-ms.locfileid: "52899919"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53025114"
 ---
 # <a name="release-notes-for-beta-channel"></a>베타 채널용 릴리스 정보
 
@@ -30,6 +30,41 @@ ms.locfileid: "52899919"
 [//]: # (제거하지 마세요)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+## <a name="version-2107-june-18"></a>버전 2107: 6월 18일
+*버전 2107(빌드 14210.20004)*
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="outlook"></a>Outlook
+
+- **마지막 로그인/의심스러운 로그인:** 이제 Outlook에서 마지막으로 계정에 로그인한 시기와 위치를 알려주고 의심스러운 로그인 활동이 감지되면 경고합니다.
+
+- **방해 요소를 줄이고 메시지 읽기:** 몰입형 리더를 켜서 사용자 지정 텍스트 간격, 페이지 색, 열 너비 및 선 포커스가 있는 메시지에 더 쉽게 집중할 수 있도록 합니다.
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="access"></a>Access
+
+- SharePoint 목록에 대한 링크가 포함된 데이터베이스에서 Access 데이터베이스 엔진 OLEDB API를 사용하는 응용 프로그램이 예기치 않게 닫힐 수 있는 문제를 해결했습니다.
+
+- Access 데이터베이스 엔진 ODBC API를 사용하는 애플리케이션이 예기치 않게 닫힐 수 있는 문제를 해결했습니다.
+
+### <a name="word"></a>Word
+
+- 공동 작업 중에 주석이 읽기 전용이 되는 문제를 해결했습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2107-june-11"></a>버전 2107: 6월 11일
 *버전 2107(빌드 14204.20006)*
@@ -3261,6 +3296,7 @@ ms.locfileid: "52899919"
 
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14210.20004|version-2107-june-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14204.20006|version-2107-june-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14131.20008|version-2106-june-04|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14122.20004|version-2106-may-28|)
@@ -3270,5 +3306,4 @@ ms.locfileid: "52899919"
 [//]: # (|Win32|DevMain|Insiders| |16.0.14026.20000|version-2105-april-30|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14014.20002|version-2105-april-23|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14007.20002|version-2105-april-16|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14002.20000|version-2105-april-09|)
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 끝)
