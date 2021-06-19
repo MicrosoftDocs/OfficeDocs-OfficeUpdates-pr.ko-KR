@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 앱에 대한 월 단위 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: d34f57010c92943ed8665159172f7732e5db715b
-ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
+ms.openlocfilehash: 699d96a400bf09df793c789b5046c8febe6bf8e3
+ms.sourcegitcommit: b7b3ebab7fc6b8424482107f650f6bb528afd8f7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52851878"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53022121"
 ---
 # <a name="release-notes-for-current-channel"></a>현재 채널에 대한 릴리스 정보
 
@@ -29,6 +29,34 @@ ms.locfileid: "52851878"
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2105-june-18"></a>버전 2105: 6월 18일
+*버전 2105(빌드 14026.20308)*
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="outlook"></a>Outlook
+
+- 사용자가 회신하거나 전달한 메시지를 닫을 때 예기치 않은 속성 변경 프롬프트가 발생하는 문제를 해결했습니다.
+
+
+- 이 변경 사항을 통해 사용자는 새 피드백 시스템을 통해 피드백을 제출할 수 있습니다.
+
+
+- 외부 네트워크에 연결된 하이브리드 Azure AD 조인된 시스템에서 ZeroConfigExchange가 제대로 작동하지 않는 문제를 해결했습니다.
+
+
+### <a name="office-suite"></a>Office 제품군
+
+- 사용자가 온-프레미스 Sharepoint 서버에 저장된 특정 문서를 편집할 수 없는 문제를 해결했습니다.
+
+
+- 특정 파일을 다시 열 때 파일이 예기치 않게 닫히는 문제를 수정했습니다.
 
 
 
@@ -953,6 +981,7 @@ ms.locfileid: "52851878"
 > Office를 사용하는 데 발생한 문제에 대해 도움이 필요하면 [Microsoft의 Answers 포럼](https://answers.microsoft.com/) 또는 [기술 커뮤니티](https://techcommunity.microsoft.com/)에 질문을 게시하거나 [지원 서비스](https://support.microsoft.com/contactus)에 문의할 수 있습니다.
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|CC|Production| |16.0.14026.20308|version-2105-june-18|)
 [//]: # (|Win32|CC|Production| |16.0.14026.20270|version-2105-june-08|)
 [//]: # (|Win32|CC|Production| |16.0.14026.20246|version-2105-may-24|)
 [//]: # (|Win32|CC|Production| |16.0.13929.20386|version-2104-may-18|)
@@ -962,5 +991,4 @@ ms.locfileid: "52851878"
 [//]: # (|Win32|CC|Production| |16.0.13901.20400|version-2103-april-13|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20336|version-2103-april-02|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20312|version-2103-march-30|)
-[//]: # (|Win32|CC|Production| |16.0.13801.20360|version-2102-march-18|)
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 끝)
