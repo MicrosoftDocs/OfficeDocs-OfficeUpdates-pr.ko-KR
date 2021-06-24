@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 이후 참가자 대상 그룹에게 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: b9c89336aef23ef64fc06b902dcfce937c3701af
-ms.sourcegitcommit: 3f3d978780a2212769cdd6a27eba1bf8f75a2b31
+ms.openlocfilehash: 9bfde779a103f3cc66e5965f2a3398ceaf7f1e3e
+ms.sourcegitcommit: 9c4a3b3e231d9ba0aeeaf345d3da858da825284a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/14/2021
-ms.locfileid: "52916678"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "53068047"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 현재 채널(미리 보기)에 대한 릴리스 정보
 
@@ -28,6 +28,23 @@ ms.locfileid: "52916678"
 [//]: # (제거하지 마세요)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+## <a name="version-2106-june-21"></a>버전 2106: 6월 21일
+*버전 2106(빌드 14131.20194)*
+* 다양한 버그 및 성능 수정 사항.
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="outlook"></a>Outlook
+
+- **방해 요소를 줄이고 메시지 읽기:** 몰입형 리더를 켜서 사용자 지정 텍스트 간격, 페이지 색, 열 너비 및 라인 포커스가 있는 메시지에 더 쉽게 집중할 수 있도록 합니다.
+
+- **마지막 로그인/의심스러운 로그인:** 이제 Outlook에서 마지막으로 계정에 로그인한 시기와 위치를 알려주고 의심스러운 로그인 활동이 감지되면 경고합니다.
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2106-june-14"></a>버전 2106: 6월 14일
 *버전 2106(빌드 14131.20162)*
