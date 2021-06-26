@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 이후 참가자 대상 그룹에게 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 9bfde779a103f3cc66e5965f2a3398ceaf7f1e3e
-ms.sourcegitcommit: 9c4a3b3e231d9ba0aeeaf345d3da858da825284a
+ms.openlocfilehash: af25cceb21f31d2e77f06e25baa7aa139c5900f6
+ms.sourcegitcommit: 2525d26142a14b2fa2a3b6c1ae250cb62b12a09f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "53068047"
+ms.lasthandoff: 06/26/2021
+ms.locfileid: "53150183"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 현재 채널(미리 보기)에 대한 릴리스 정보
 
@@ -28,6 +28,38 @@ ms.locfileid: "53068047"
 [//]: # (제거하지 마세요)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+## <a name="version-2106-june-25"></a>버전 2106: 6월 25일
+*버전 2106(빌드 14131.20250)*
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="outlook"></a>Outlook
+
+- 일부 사용자가 변환 옵션을 사용하지 못하는 문제를 해결했습니다.  이 버그를 경험한 고객은 파일 -> 옵션 -> 언어로 이동할 때 변환 옵션이 비활성화되어있을 수 있습니다. 이 설정 때문에 선호하는 번역 언어 및 기타 번역 관련 설정을 변경할 수 없었습니다.
+
+
+- 공유 일정이 많은 사용자에게 몇 가지 성능 문제를 유발하는 공유 일정 개선 옵션 문제를 해결했습니다.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- PowerPoint 관련 대화 상자 때문에 사용자가 파일을 열기 위해 Windows 보안 대화 상자에 자격 증명을 입력할 수 없는 문제를 해결했습니다.
+
+
+### <a name="visio"></a>Visio
+
+- 게스트 액세스 권한이 있는 SPO/ODB 링크가 이제 작동합니다.
+
+
+### <a name="word"></a>Word
+
+- 암호로 보호된 docx 파일에 인용이 유지되는 문제를 해결했습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2106-june-21"></a>버전 2106: 6월 21일
 *버전 2106(빌드 14131.20194)*

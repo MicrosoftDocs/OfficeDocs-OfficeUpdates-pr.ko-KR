@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: be309ede1f540e995ea977feff91267b0ad6c0ad
-ms.sourcegitcommit: d248e36e346915194ca383f5da161790681a87e6
+ms.openlocfilehash: 2273f10ccacb56ee4cbd5132103d3ccdbd5c01d4
+ms.sourcegitcommit: 31e92bb72da4b394fc4d46701dbf3027eb5a9b3b
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "53025114"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "53132838"
 ---
 # <a name="release-notes-for-beta-channel"></a>베타 채널용 릴리스 정보
 
@@ -30,6 +30,62 @@ ms.locfileid: "53025114"
 [//]: # (제거하지 마세요)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+## <a name="version-2107-june-25"></a>버전 2107: 6월 25일
+*버전 2107(빌드 14217.20002)*
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- 천 단위 구분 기호와 10진수 구분 기호가 모두 동일한 기호를 사용하는 경우, 차트 축 값을 변경할 수 없는 문제를 해결했습니다.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 셰이프 변경을 사용하지 않도록 설정된 SmartArt 노드와 관련된 문제를 해결했습니다.
+
+
+### <a name="project"></a>Project
+
+- 리소스 이름에 세미콜론과 같은 특수 문자가 있는 경우 Project Web App에서 생성된 작업이 Project 데스크톱 클라이언트에서 제대로 로드되지 않을 수 있는 문제를 해결했습니다.
+
+
+- 프로젝트 옵션인 "Project should calculate costs"를 사용하지 않도록 설정한 경우 비용 유형의 리소스에 대해 시간 단계적 비용 값이 올바르게 기준이 되지 않았을 수 있는 문제를 해결했습니다.
+
+
+- Project 데스크톱 클라이언트에서 조회 테이블이 있는 프로젝트 수준 엔터프라이즈 사용자 지정 필드에 값이 표시되지 않는 문제를 해결했습니다.
+
+
+- Project Web App에 로컬 프로젝트를 저장하면 이전에 저장된 기준이 변경되는 문제를 해결했습니다.
+
+
+### <a name="word"></a>Word
+
+- 자동 저장을 사용하도록 설정하면 최근 편집 내용이 일시적으로 사라질 수 있는 문제를 해결했습니다.
+
+
+- 메모 창의 스크롤 관련 문제를 해결했습니다.
+
+
+- Office 테마가 검은색으로 설정된 경우 인쇄 미리 보기에서 머리글/바닥글 텍스트가 명확하게 표시되지 않는 문제를 해결했습니다.
+
+
+### <a name="office-suite"></a>Office 제품군
+
+- Outlook에서 메시지를 오른쪽에서 왼쪽으로 구성할 때 숫자를 포함한 하이퍼링크가 끊어지는 문제를 수정했습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2107-june-18"></a>버전 2107: 6월 18일
 *버전 2107(빌드 14210.20004)*
@@ -3296,6 +3352,7 @@ ms.locfileid: "53025114"
 
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14217.20002|version-2107-june-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14210.20004|version-2107-june-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14204.20006|version-2107-june-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14131.20008|version-2106-june-04|)
@@ -3305,5 +3362,4 @@ ms.locfileid: "53025114"
 [//]: # (|Win32|DevMain|Insiders| |16.0.14029.20000|version-2106-may-07|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14026.20000|version-2105-april-30|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14014.20002|version-2105-april-23|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14007.20002|version-2105-april-16|)
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 끝)
