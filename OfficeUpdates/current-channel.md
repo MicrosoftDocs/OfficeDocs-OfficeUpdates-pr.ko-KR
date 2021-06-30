@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 앱에 대한 월 단위 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 699d96a400bf09df793c789b5046c8febe6bf8e3
-ms.sourcegitcommit: b7b3ebab7fc6b8424482107f650f6bb528afd8f7
+ms.openlocfilehash: f5b3552684ba964fc57ca405d261ba4e2cb341f5
+ms.sourcegitcommit: bd700dedc0c80ae72fa5611665ad6d321127a531
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "53022121"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "53206310"
 ---
 # <a name="release-notes-for-current-channel"></a>현재 채널에 대한 릴리스 정보
 
@@ -30,6 +30,66 @@ ms.locfileid: "53022121"
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
 
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2106-june-29"></a>버전 2106: 6월 29일
+*버전 2106 (빌드 14131.20278)*
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="outlook"></a>Outlook
+
+- **마지막 로그인/의심스러운 로그인:** 이제 Outlook에서 마지막으로 계정에 로그인한 시기와 위치를 알려주고 의심스러운 로그인 활동이 감지되면 경고합니다.
+
+- **대규모 DL, 외부 사용자에게 전자 메일을 보낼 때 내게 필요한 옵션 확인 도구:** 많은 청중, 외부 사용자 등에게 전자 메일을 작성하면서 접근성 위반에 대한 메시지를 메일팁을 통해 자동으로 수신하도록 기능을 추가했습니다. 이러한 설정은 내게 필요한 옵션에서 사용됩니다.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/sending-accessible-emails-in-outlook-for-windows)에서 세부 정보 보기
+
+- **검색할 때 관련 파일 제안 가져오기:** 검색 상자에 입력하면 검색과 관련된 가장 관련성이 높은 파일이 제안 사항에 포함됩니다.
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- 일부 사용자의 Excel 추가 기능 목록에 추가 항목이 표시되는 문제를 해결했습니다.
+
+
+### <a name="outlook"></a>Outlook
+
+- ARM64 디바이스에서 성능 문제를 일으키는 문제를 해결했습니다.
+
+
+- 일부 사용자가 변환 옵션을 사용하지 못하는 문제를 해결했습니다.  이 버그를 경험한 고객은 파일 -> 옵션 -> 언어로 이동할 때 변환 옵션이 비활성화되어있을 수 있습니다. 이 설정 때문에 선호하는 번역 언어 및 기타 번역 관련 설정을 변경할 수 없었습니다.
+
+
+- 공유 일정이 많은 사용자에게 몇 가지 성능 문제를 유발하는 공유 일정 개선 옵션 문제를 해결했습니다.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- PowerPoint 관련 대화 상자 때문에 사용자가 파일을 열기 위해 Windows 보안 대화 상자에 자격 증명을 입력할 수 없는 문제를 해결했습니다.
+
+
+### <a name="visio"></a>Visio
+
+- 게스트 액세스 권한이 있는 SPO/ODB 링크가 이제 작동합니다.
+
+
+### <a name="word"></a>Word
+
+- 암호로 보호된 docx 파일에 인용이 유지되는 문제를 해결했습니다.
+
+
+### <a name="office-suite"></a>Office 제품군
+
+- 사용자가 Office 응용 프로그램의 Me 컨트롤에서 Active Directory ID 간에 전환할 때의 사용자 전환 데이터 시나리오가 수정되었습니다.
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
@@ -981,6 +1041,7 @@ ms.locfileid: "53022121"
 > Office를 사용하는 데 발생한 문제에 대해 도움이 필요하면 [Microsoft의 Answers 포럼](https://answers.microsoft.com/) 또는 [기술 커뮤니티](https://techcommunity.microsoft.com/)에 질문을 게시하거나 [지원 서비스](https://support.microsoft.com/contactus)에 문의할 수 있습니다.
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|CC|Production| |16.0.14131.20278|version-2106-june-29|)
 [//]: # (|Win32|CC|Production| |16.0.14026.20308|version-2105-june-18|)
 [//]: # (|Win32|CC|Production| |16.0.14026.20270|version-2105-june-08|)
 [//]: # (|Win32|CC|Production| |16.0.14026.20246|version-2105-may-24|)
@@ -990,5 +1051,4 @@ ms.locfileid: "53022121"
 [//]: # (|Win32|CC|Production| |16.0.13901.20462|version-2103-april-23|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20400|version-2103-april-13|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20336|version-2103-april-02|)
-[//]: # (|Win32|CC|Production| |16.0.13901.20312|version-2103-march-30|)
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 끝)
