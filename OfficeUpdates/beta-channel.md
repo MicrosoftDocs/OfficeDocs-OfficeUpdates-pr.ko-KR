@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 2273f10ccacb56ee4cbd5132103d3ccdbd5c01d4
-ms.sourcegitcommit: 31e92bb72da4b394fc4d46701dbf3027eb5a9b3b
+ms.openlocfilehash: 211744660c0cbd3a7a35906689a143492e3197e3
+ms.sourcegitcommit: e8fc768b8c5b4183796d62a0969a01a3537f1ff7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "53132838"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53278751"
 ---
 # <a name="release-notes-for-beta-channel"></a>베타 채널용 릴리스 정보
 
@@ -30,6 +30,87 @@ ms.locfileid: "53132838"
 [//]: # (제거하지 마세요)
 
 [//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+## <a name="version-2107-july-02"></a>버전 2107: 7월 2일
+*버전 2107(빌드 14228.20044)*
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="excel"></a>Excel
+
+- **다른 이름으로 저장 시나리오에서 지원되는 추가 파일 형식:** 파일을 저장하는 것 외에도 다른 파일 형식에 파일을 저장할 수 있습니다.
+
+### <a name="outlook"></a>Outlook
+
+- **REST 전달 모임 요청:** 사용자가 REST 공유 일정에 대해 이전에 거부된 모임을 전달할 수 있습니다.
+
+- **소리 내어 읽기 기능이 향상되었습니다.** 소리 내어 읽기 도구 모음은 새로운 자연스러운 소리 내어 음성 옵션을 제공합니다.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **다른 이름으로 저장 시나리오에서 지원되는 추가 파일 형식:** 파일을 저장하는 것 외에도 다른 파일 형식에 파일을 저장할 수 있습니다.
+
+### <a name="word"></a>Word
+
+- **음성 검색:** 검색 창에서 마이크를 탭하거나 클릭하여 Word에서 음성을 사용하여 명령, 콘텐츠 등을 찾습니다.
+
+- **소리내어 읽기를 위한 더 자연스러운 음성 옵션:** 소리내어 읽기 도구 모음에서 더 자연스러워진 새로운 음성을 사용해 보세요. [자세한 정보](https://support.office.com/article/5a2de7f3-1ef4-4795-b24e-64fc2731b001)
+
+- **다른 이름으로 저장 시나리오에서 지원되는 추가 파일 형식:** 파일을 저장하는 것 외에도 다른 파일 형식에 파일을 저장할 수 있습니다.
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- CFR 실행에서 예외가 발생하는 문제를 해결했습니다.
+
+
+### <a name="outlook"></a>Outlook
+
+- 일부 사용자가 변환 옵션을 사용하지 못하는 문제를 해결했습니다.  이 버그를 경험한 고객은 파일 -> 옵션 -> 언어로 이동할 때 변환 옵션이 비활성화되어있을 수 있습니다. 이 설정 때문에 선호하는 번역 언어 및 기타 번역 관련 설정을 변경할 수 없었습니다.
+
+
+- 응답 상태 "로드 실패"와 관련된 문제를 해결했습니다. 기본 응답 플래그가 "없음"으로 설정되었습니다. 편집 권한이 없는 일정 위로 마우스를 가져가면 UI에 문자열이 표시되지 않았습니다.
+
+
+- 기본 텍스트 증가에 텍스트 크기 조정이 포함되는 문제를 해결했으므로 LayoutChanged의 다른 호출을 사용할 필요가 없습니다.
+
+
+- 일회성 주소에 대한 메일 설명이 표시되지 않는 문제를 해결했습니다.
+
+
+- Exchange Online(https://techcommunity.microsoft.com/t5/exchange-team-blog/retiring-unified-messaging-in-exchange-online/ba-p/608991)에서 통합 메시징이 만료됨에 따라 Outlook Desktop의 UI에 음성 메일 양식이 표시될 수 있도록 레지스트리 키를 추가했습니다. 음성 메일 양식을 표시하려는 사용자, 기업 및 조직의 경우 [HKEY_CURRENT_USER\SOFTWARE\Microsoft\Office\Outlook\Addins] "AllowVoicemailForm"=dword:00000001 레지스트리 키를 설정해야합니다.
+
+
+### <a name="word"></a>Word
+
+- Word의 새 메모 창과 인기 있는 화면 읽기 소프트웨어인 JAWS의 통합을 개선하는 문제를 해결했습니다.
+
+
+- 선택 취소 및 강조 표시를 위해 lTagNil과 다른 CommentId를 사용하는 것과 관련된 문제를 해결했습니다.
+
+
+- 언로드 큐가 응답하지 않는 문제를 해결했습니다.
+
+
+### <a name="office-suite"></a>Office 제품군
+
+- en-gb, fr-ca 및 es-mx가 이제 해당 상위 버전과 일치하게 되는 지역화 문제를 해결했습니다.
+
+
+- 새 webextension 파일이 만들어지므로 webextension.xml에 대한 웹 추가 기능 설정 업데이트와 같이 OMEX와 ExCatalog 간의 공유 설정을 더 이상 사용할 수 없는 문제를 해결했습니다. 이전 항목은 추가 기능이 원래 메서드에 배포되었거나 새 솔루션 참조 비교가 해제된 경우에만 액세스되었습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="version-2107-june-25"></a>버전 2107: 6월 25일
 *버전 2107(빌드 14217.20002)*
@@ -3352,6 +3433,7 @@ ms.locfileid: "53132838"
 
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14228.20044|version-2107-july-02|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14217.20002|version-2107-june-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14210.20004|version-2107-june-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14204.20006|version-2107-june-11|)
@@ -3361,5 +3443,4 @@ ms.locfileid: "53132838"
 [//]: # (|Win32|DevMain|Insiders| |16.0.14107.20000|version-2106-may-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14029.20000|version-2106-may-07|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14026.20000|version-2105-april-30|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14014.20002|version-2105-april-23|)
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 끝)
