@@ -15,12 +15,12 @@ ms.collection:
 appliesto:
 - Microsoft Teams
 description: 관리자 기능에 대한 Microsoft Teams 정보입니다.
-ms.openlocfilehash: a47bdbb3a9ae39c670cbbb1230248054c1be573e
-ms.sourcegitcommit: 7f52ea9d1051a8102d9d16129855833c5b9638a1
+ms.openlocfilehash: d1b2561633fc52bac88e3f41c814cefa01cc9a50
+ms.sourcegitcommit: ad3cdcae422e3253cff8974fc053024ca5bf4f2a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/07/2021
-ms.locfileid: "52790541"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "53330921"
 ---
 # <a name="release-notes-for-microsoft-teams-admin-features"></a>관리자 기능에 Microsoft Teams 릴리스 정보
 
@@ -48,7 +48,7 @@ IT 관리자는 원격으로 Android 장치를 프로비전하고 Teams 수 있�
 
 ### <a name="enable-live-transcripts-in-teams"></a>2013에서 라이브 Teams
 
-이는 사용자당 정책으로, 모임 중에 적용됩니다. 이 설정은 사용자가 참석하는 모임에서 라이브 캡션을 켜고 끄기 위해 라이브 캡션 켜기 옵션을 사용할 수 있는지 여부를 제어합니다. [자세히 알아보기](/microsoftteams/meeting-policies-participants-and-guests#enable-live-captions).
+이는 사용자당 정책으로, 모임 중에 적용됩니다. 이 설정은 사용자가 참석하는 모임 중에 라이브 캡션을 켜거나 끄는 컨트롤을 제공합니다. [자세히 알아보기](/microsoftteams/meeting-policies-participants-and-guests#enable-live-captions).
 
 ## <a name="march-23-2021"></a>2021년 3월 23일
 
@@ -139,11 +139,11 @@ Teams 또는 낮은 대역폭 조건에서 실행 중인 경우에도 계속 실
 
 ## <a name="december-9-2020"></a>2020년 12월 9일
 
-### <a name="advisor-for-teams-with-microsoft-365-learning-pathways"></a>Advisor for Teams 학습 Microsoft 365 있는 경우
+### <a name="advisor-for-teams-with-microsoft-365-learning-pathways"></a>Advisor for Teams with Microsoft 365 Learning Pathways
 
 Microsoft 365 학습 경로는 사용자를 교육하고 조직에서 사용자 지정을 강화하고 사용자 지정을 늘리기 위해 사용자 지정할 수 있는 Teams 솔루션입니다. Advisor for Teams 학습 경로를 사용하여 사용자를 빠르게 시작하고 실행하고 채택을 주도할 수 있습니다.
 
-학습 경로를 통해 SharePoint 온라인 사이트 서식 파일과 사용자에 대한 학습 사이트를 쉽게 구축할 수 있습니다. 학습 경로 교육 포털을 사용자 지정하여 사용자의 요구에 맞는 교육 및 지원 콘텐츠를 포함할 수 있습니다. Microsoft Teams 재생 목록을 사용하여 사용자만의 재생 목록을 추가합니다. [자세히 알아보기](/microsoftteams/use-advisor-teams-roll-out#advisor-for-teams-and-microsoft-365-learning-pathways).
+Learning 경로는 SharePoint 온라인 사이트 서식 파일과 사용자에 대한 학습 사이트를 쉽게 빌드할 수 있는 기능을 제공합니다. 학습 경로 교육 포털을 사용자 지정하여 사용자의 요구에 맞는 교육 및 지원 콘텐츠를 포함할 수 있습니다. Microsoft Teams 재생 목록을 사용하여 사용자만의 재생 목록을 추가합니다. [자세히 알아보기](/microsoftteams/use-advisor-teams-roll-out#advisor-for-teams-and-microsoft-365-learning-pathways).
 
 ## <a name="october-28-2020"></a>2020년 10월 28일
 
@@ -163,7 +163,7 @@ Microsoft Teams 병원 및 기타 의료 조직에 유용한 다양한 기능을
 
 ### <a name="teams-displays"></a>Teams 디스플레이
 
-Microsoft Teams 디스플레이는 Cortana가 지원되는 핸즈 프리 환경 및 Teams 터치 스크린을 특징으로 하는 올인원 전용 전용 디바이스의 범주입니다. [자세히 알아보기](/microsoftteams/devices/teams-displays).
+Microsoft Teams 디스플레이는 주변 터치 스크린 및 핸즈 Teams 기능이 있는 올인원 전용 전용 Cortana. [자세히 알아보기](/microsoftteams/devices/teams-displays).
 
 ## <a name="october-22-2020"></a>2020년 10월 22일
 
@@ -291,9 +291,9 @@ Android Phonebook을 Teams 사용하여 전화를 걸 수 있습니다.
 
 ## <a name="august-14-2020"></a>2020년 8월 14일
 
-### <a name="cortana-voice-skills-in-teams"></a>2016의 Cortana 음성 Teams
+### <a name="cortana-voice-skills-in-teams"></a>Cortana 음성 Teams
 
-Teams 앱의 Cortana 음성 기술은 사용자가 음성 자연어를 사용하여 모임, 커뮤니케이션 및 공동 작업 작업을 수행하는 데 도움이 됩니다. 사용자는 Teams 앱에서 마이크 버튼을 클릭하여 Cortana에 말하고 집안일을 하던 중이나 산택 중에, 또는 일반적으로 이동 중에, 다른 사람과 연결해야 하는 경우 "Megan에게 전화" 또는 "다음 모임에 메시지 보내기"와 같은 요청을 할 수 있습니다. 사용자는 "다음 모임에 참가"라고 말하여 모임에 참가하거나 "오늘 아침에 무슨 일이 있어?"라고 질문하여 일정을 확인할 수 있습니다. 모임 또는 통화 중에는 모임 단계의 오버플로 메뉴에서 Cortana를 호출하고 이름 또는 번호로 사람 추가("통화에 Megan 추가"), 데크 프레젠테이션( "프레젠테이션 분기별 검토 자료") 또는 슬라이드 탐색("부록 슬라이드로 이동 ")과 같은 일반적인 모임 중 작업을 수행할 수 있습니다. 이 기능이 지원하는 다른 기능으로는 파일 찾기 및 공유, Teams 앱 내 탐색("John과의 채팅 열기, 언론으로 이동, 내 언사로 이동 등)입니다.
+Cortana 음성 Teams 사용하면 사용자가 단순히 음성 자연어를 사용하여 모임, 커뮤니케이션 및 공동 작업 작업을 수행할 수 있습니다. 사용자는 Teams 앱에서 마이크 버튼을 클릭하여 Cortana에 말하고 집안일을 하던 중이나 산택 중에, 또는 일반적으로 이동 중에, 다른 사람과 연결해야 하는 경우 "Megan에게 전화" 또는 "다음 모임에 메시지 보내기"와 같은 요청을 할 수 있습니다. 사용자는 "다음 모임에 참가"라고 말하여 모임에 참가하거나 "오늘 아침에 무슨 일이 있어?"라고 질문하여 일정을 확인할 수 있습니다. 모임 또는 통화 중에는 모임 단계의 오버플로 메뉴에서 Cortana를 호출하고 이름 또는 번호로 사람 추가("통화에 Megan 추가"), 데크 프레젠테이션( "프레젠테이션 분기별 검토 자료") 또는 슬라이드 탐색("부록 슬라이드로 이동 ")과 같은 일반적인 모임 중 작업을 수행할 수 있습니다. 이 기능이 지원하는 다른 기능으로는 파일 찾기 및 공유, Teams 앱 내 탐색("John과의 채팅 열기, 언론으로 이동, 내 언사로 이동 등)입니다.
 
 Teams의 Cortana는 [온라인 서비스 약관 (OST)](https://www.microsoft.com/licensing/product-licensing/products?rtc=1)에 반영된 대로 Cortana 엔터프라이즈 서비스에 대해 동일한 엔터프라이즈 수준의 개인정보 보호, 보안 및 규정 준수 약속을 이행합니다. [자세히 알아보기](/microsoftteams/cortana-in-teams).
 
