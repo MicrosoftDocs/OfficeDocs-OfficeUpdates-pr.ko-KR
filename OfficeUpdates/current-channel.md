@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 앱에 대한 월 단위 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: f5b3552684ba964fc57ca405d261ba4e2cb341f5
-ms.sourcegitcommit: bd700dedc0c80ae72fa5611665ad6d321127a531
+ms.openlocfilehash: b3f83cf76fe29f739da9ce18160a5de76a90118f
+ms.sourcegitcommit: 11c8b2e40f9058a6e6f0451736b0b05627789b9d
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "53206310"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "53323565"
 ---
 # <a name="release-notes-for-current-channel"></a>현재 채널에 대한 릴리스 정보
 
@@ -63,8 +63,9 @@ ms.locfileid: "53206310"
 
 ### <a name="outlook"></a>Outlook
 
-- ARM64 디바이스에서 성능 문제를 일으키는 문제를 해결했습니다.
+- 폴더에 적용되는 사서함 보존 정책 대신 사서함 폴더의 속성을 볼 때 비즈니스용 Skype 또는 Microsoft Teams에 대한 보존 정책이 기본 폴더 정책으로 표시되는 문제를 해결했습니다.
 
+- ARM64 디바이스에서 성능 문제를 일으키는 문제를 해결했습니다.
 
 - 일부 사용자가 변환 옵션을 사용하지 못하는 문제를 해결했습니다.  이 버그를 경험한 고객은 파일 -> 옵션 -> 언어로 이동할 때 변환 옵션이 비활성화되어있을 수 있습니다. 이 설정 때문에 선호하는 번역 언어 및 기타 번역 관련 설정을 변경할 수 없었습니다.
 
