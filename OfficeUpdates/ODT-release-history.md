@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: IT 전문가에게 ODT(Office 배포 도구)의 릴리스 기록을 제공합니다.
-ms.openlocfilehash: ef130b3602d1f7d8c664167655cba09eb45b8e52
-ms.sourcegitcommit: b7b3ebab7fc6b8424482107f650f6bb528afd8f7
+ms.openlocfilehash: f6df62267f7f2035f610867721b3dc1b9f65a1bd
+ms.sourcegitcommit: 4f5536e809f58462d81c708c153390ebfd1abc4e
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "53022101"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "53409584"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Office 배포 도구에 대한 릴리스 기록
 
@@ -28,6 +28,14 @@ ODT를 사용하면 Office 설치를 보다 잘 제어할 수 있습니다. 즉,
  **설치 방법**: 다운로드한 다음 Office 배포 도구 실행 파일(setup.exe) 및 샘플 구성 파일(configuration.xml)이 포함된 자동 압축 풀기 실행 파일을 실행합니다. 
 
 [Office 배포 도구 다운로드](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
+
+
+## <a name="july-12-2021"></a>2021년 7월 12일
+버전 16.0.14131.20278(setup.exe 버전 16.0.14131.20278)
+- 특정 경우에 RemoveMSI가 실패하는 문제를 해결했습니다.
+- setup.exe의 동시 실행을 검색하는 문제를 해결했습니다.
+- ARM 플랫폼에 대한 안정성 문제 해결
+
 
 ## <a name="june-17-2021"></a>2021년 6월 17일
 버전 16.0.14026.20306 (setup.exe 버전 16.0.14026.20306)

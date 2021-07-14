@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps에 대한 월 단위 기업 채널의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 1795f0a150b8b18d50e462cd6d30a285c055f8b1
-ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
+ms.openlocfilehash: 96a76ed1ed1849753422dae92626484a77cec2a4
+ms.sourcegitcommit: 4f5536e809f58462d81c708c153390ebfd1abc4e
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52851868"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "53409564"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel"></a>월 단위 기업 채널에 대한 릴리스 정보
 
@@ -24,6 +24,120 @@ ms.locfileid: "52851868"
 [//]: # (제거하지 마세요)
 
 
+
+## <a name="version-2105-july-13"></a>버전 2105: 7월 13일
+*버전 2105(빌드 14026.20334)*
+
+[여기](microsoft365-apps-security-updates.md) 나열된 보안 업데이트
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="outlook"></a>Outlook
+
+- **검색할 때 관련 파일 제안 가져오기:** 검색 상자에 입력하면 검색과 관련된 가장 관련성이 높은 파일이 제안 사항에 포함됩니다.
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+<br/>
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="excel"></a>Excel
+
+- 이름 관리자가 많은 수의 숨겨진 이름을 가진 책을 열 수 있도록 문제를 해결했습니다.
+
+
+- 일부 사용자의 Excel 추가 기능 목록에 추가 항목이 표시되는 문제를 해결했습니다.
+
+
+- 일부 사용자에게 분석 도구 추가 기능이 작동하지 않는 문제를 해결했습니다.
+
+
+### <a name="outlook"></a>Outlook
+
+- 변경 사항은 어두운 색상으로 변경 게이트 아래로 이동하므로 문제가 있는 경우 신속하게 끌 수 있습니다.
+
+
+- 새 회의실 찾기 환경(웹용 Outlook과 동일한 환경)을 사용하지 않도록 설정하고 추천된 시간으로 레거시 회의실 찾기를 활성화하는 레지스트리 키가 추가되었습니다.
+
+   레지스트리 키:
+
+    >HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar REG_DWORD “ShowLegacyRoomFinder”
+
+    >0(기본값) - Outlook에서 사용자가 회의실 찾기' 단추를 클릭하여 사용 가능한 회의실을 검색할 때 새로운 회의실 찾기 OWA Powered eXperience를 사용</br>
+    >1 - Outlook에서 레거시 회의실 찾기 UI를 사용하여 사용 가능한 회의실 검색
+
+
+- 이 변경 사항을 통해 사용자는 새 피드백 시스템을 통해 피드백을 제출할 수 있습니다.
+
+
+- Office Permanent 2021 Preview의 사용자에 대해 피드백 옵션이 비활성화되는 문제를 해결했습니다.
+
+
+- 전자 메일의 수신인에 대한 마우스 오른쪽 단추 컨텍스트 메뉴에서 "Outlook 속성 열기"를 선택할 때 사용자에게 오류가 발생하는 문제를 해결했습니다.
+
+
+- 개인 카드를 로드할 때 일부 사용자가 예기치 않게 닫히는 앱 문제를 수정했습니다.
+
+
+- 보관 저장소에서 폴더를 제거할 때 사용자가 예기치 않게 닫히게 하는 문제를 해결했습니다.
+
+
+- 스크린 리더 기술을 통해 "모임 시간 단축" 기능의 일부 지침이 비활성화되는 문제를 해결했습니다.
+
+
+- 사용자가 회신하거나 전달한 메시지를 닫을 때 예기치 않은 속성 변경 프롬프트가 발생하는 문제를 해결했습니다.
+
+
+- Outlook Mail 또는 일정 보기와 상호 작용할 때 예기치 않게 닫힐 수 있는 문제를 수정했습니다.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 일부 사용자가 슬라이드 다시 사용 옵션을 사용할 수 없는 문제가 수정되었습니다.
+
+
+### <a name="project"></a>Project
+
+- 수동으로 예약된 작업의 할당이 잘못된 날짜로 이동하는 문제를 해결했습니다.
+
+
+- ProjectDate */ProjectDur* 함수를 사용하는 사용자 지정 필드 수식을 만들고 두 번째 매개 변수가 Date(), Now() 또는 Time() 날짜 및 시간 함수인 경우 #ERROR가 발생하는 문제를 수정했습니다.
+
+
+### <a name="word"></a>Word
+
+- 편집기 창이 열리지 않는 문제를 해결합니다.
+
+
+- 맞춤법 및 문법 검사용 캔버스 상황별 카드가 아이콘 단추를 표시하지만 해당 단추에는 도구 설명이 없는 문제를 해결했습니다.
+
+
+### <a name="office-suite"></a>Office 제품군
+
+- en-gb, fr-ca 및 es-mx가 이제 해당 상위 버전과 일치하게 되는 지역화 문제를 해결했습니다.
+
+
+- 특정 파일을 다시 열 때 파일이 예기치 않게 닫히는 문제를 수정했습니다.
+
+
+- SyncBacked 파일을 열 때 성능이 저하되는 문제가 해결되었습니다.
+
+
+- 사용자가 온-프레미스 Sharepoint 서버에 저장된 특정 문서를 편집할 수 없는 문제를 해결했습니다.
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2104-july-13"></a>버전 2104: 7월 13일
+*버전 2104(빌드 13929.20434)*
+
+[여기](microsoft365-apps-security-updates.md) 나열된 보안 업데이트
 
 ## <a name="version-2104-june-08"></a>버전 2104: 6월 8일
 *버전 2104(빌드 13929.20408)*
@@ -444,7 +558,7 @@ ms.locfileid: "52851868"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- Office 리본에서 비활성화된 명령의 아이콘은 회색으로 표시되지만 어두운 회색 Office 테마의 텍스트는 회색으로 표시되지 않는 문제를 수정했습니다.
+- Office 리본의 비활성화된 명령을 실행하면 아이콘만 회색으로 표시되고 어두운 회색 Office 테마의 텍스트는 회색으로 표시되지 않는 문제를 수정했습니다.
 
 
 ### <a name="word"></a>Word
@@ -865,6 +979,7 @@ ms.locfileid: "52851868"
 
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|MEC|Production|Feature|16.0.14026.20334|version-2105-july-13|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13929.20408|version-2104-june-08|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13901.20516|version-2103-may-11|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13801.20506|version-2102-april-13|)
@@ -874,5 +989,4 @@ ms.locfileid: "52851868"
 [//]: # (|Win32|MEC|Production|Feature|16.0.13328.20478|version-2010-december-08|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13231.20514|version-2009-november-10|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13127.20638|version-2008-october-13|)
-[//]: # (|Win32|MEC|Production|Feature|16.0.13029.20534|version-2007-september-08|)
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 끝)
