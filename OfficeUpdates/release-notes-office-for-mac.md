@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Microsoft 365 앱 구독자를 위한 Mac용 Office 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: abd134da7bdc7ab5524bb3e7b69e7f57d24f6522
-ms.sourcegitcommit: 4ab7d229662f7c8334e6c70aca4932bc62394a65
+ms.openlocfilehash: aeb91ea6072c4f0714f225de559f5d54e6c4e85a
+ms.sourcegitcommit: 4f5536e809f58462d81c708c153390ebfd1abc4e
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/15/2021
-ms.locfileid: "52949848"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "53409543"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac용 Office에 대한 릴리스 정보
 
@@ -61,6 +61,38 @@ Microsoft 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업�
 
 
 
+
+
+
+## <a name="july-13-2021"></a>2021년 7월 13일
+*버전 16.51(빌드 21071101)*
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="feature-updates"></a>기능 업데이트
+### <a name="outlook"></a>Outlook
+
+- **모임을 단축하는 조직 전체 일정 기본값을 설정합니다.:** 상업용 고객은 모임을 단축하고 회사의 모든 사용자를 위한 휴식 공간을 만드는 조직 전체의 예약 기본값을 설정할 수 있습니다.
+
+### <a name="word"></a>Word
+
+- **다른 조명으로 문서 보기:** 눈에 편안함을 주고 작업에 집중할 수 있는 새로운 멋진 디자인을 사용해 보세요.<br />[블로그 게시물](https://insider.office.com/ko-KR/blog/dark-mode-in-word-for-mac)에서 세부 정보 보기
+
+
+[//]: # (기능 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+
+[//]: # (보안 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+
+### <a name="security-updates"></a>보안 업데이트
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2021-34501](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2021-34501)
+
+[//]: # (보안 세부 정보 콘텐츠를 제거하지 마세요. 끝)
 
 ## <a name="june-15-2021"></a>2021년 6월 15일
 *버전 16.50(빌드 21061301)*

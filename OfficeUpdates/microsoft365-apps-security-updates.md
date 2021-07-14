@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT 전문가에게 Microsoft Office 보안 업데이트에 대한 릴리스 정보를 제공합니다.
-ms.openlocfilehash: 5ab2db770141e34fa8fd3d38411e77acef4d4235
-ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
+ms.openlocfilehash: 6dece74c6156c1a3e8a0ca22fce7e94337cbcf75
+ms.sourcegitcommit: 4f5536e809f58462d81c708c153390ebfd1abc4e
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52851838"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "53409423"
 ---
 # <a name="release-notes-for-microsoft-office-security-updates"></a>Microsoft Office 보안 업데이트 릴리스 정보
 
@@ -24,6 +24,39 @@ ms.locfileid: "52851838"
  
 
 [//]: # (공백으로 사용하므로, 위의 선을 삭제하지 마세요.)  
+
+## <a name="july-13-2021"></a>2021년 7월 13일
+현재 채널: 버전 2106(빌드 14131.20320)  
+월 단위 기업 채널: 버전 2105(빌드 14026.20334)  
+월 단위 기업 채널: 버전 2104(빌드 13929.20434)  
+반기 기업 채널(미리 보기): 버전 2102(빌드 13801.20808)  
+반기 기업 채널: 버전 2102(빌드 13801.20808)  
+반기 기업 채널: 버전 2008(빌드 13127.21704)  
+반기 기업 채널: 버전 2002(빌드 12527.21986)   
+Windows 7 기반 Microsoft 365 앱: 버전 2002(빌드 12527.21986)  
+Office 2019 소매: 버전 2106(빌드 14131.20320)  
+Office 2016 소매: 버전 2106(빌드 14131.20320)  
+Office 2019 볼륨 라이선스: 버전 1808(빌드 10376.20033)  
+
+[//]: # (보안 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2021-34501](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2021-34501)
+
+### <a name="word"></a>Word
+
+-   [CVE-2021-34452](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2021-34452)
+
+### <a name="office-suite"></a>Office 제품군
+
+-   [CVE-2021-34469](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2021-34469)
+
+
+[//]: # (보안 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+
 
 ## <a name="june-08-2021"></a>2021년 6월 8일
 현재 채널: 버전 2105(빌드 14026.20270)  

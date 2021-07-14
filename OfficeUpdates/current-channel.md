@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 앱에 대한 월 단위 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: b3f83cf76fe29f739da9ce18160a5de76a90118f
-ms.sourcegitcommit: 11c8b2e40f9058a6e6f0451736b0b05627789b9d
+ms.openlocfilehash: ca88e77309c90216039fa65bd06d00d9c2f45d42
+ms.sourcegitcommit: 4f5536e809f58462d81c708c153390ebfd1abc4e
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/07/2021
-ms.locfileid: "53323565"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "53409594"
 ---
 # <a name="release-notes-for-current-channel"></a>현재 채널에 대한 릴리스 정보
 
@@ -29,6 +29,37 @@ ms.locfileid: "53323565"
 
 
 [//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 끝)
+
+## <a name="version-2106-july-13"></a>버전 2106: 7월 13일
+*버전 2106(빌드 14131.20320)*
+
+[여기](microsoft365-apps-security-updates.md) 나열된 보안 업데이트
+
+
+[//]: # (버그 세부 정보 콘텐츠를 제거하지 마세요. 시작)
+
+### <a name="resolved-issues"></a>해결된 문제
+### <a name="outlook"></a>Outlook
+
+- 서비스 기반 검색 제안을 검색하는 동안 일부 사용자가 예기치 않게 닫히게 하는 문제를 해결했습니다.
+
+
+- 충돌이 발생할 때 클라우드 설정이 로밍 설정에 실패하는 문제를 해결했습니다.
+
+
+- "공유 일정 개선 사항" 옵션을 사용하도록 설정한 후 다중 계정 프로필에서 사용자의 기본 일정 옆에 SMTP 주소가 표시되지 않는 문제를 해결했습니다.
+
+
+- 상황에 맞는 메뉴를 마우스 오른쪽 버튼으로 클릭하여 모임 요청에 응답할 때 중복된 일정 항목이 생성되는 문제를 해결했습니다.
+
+
+### <a name="office-suite"></a>Office 제품군
+
+- DirectX 장치 손실 및 복구 상황 중 불안정과 관련된 문제를 해결했습니다.
 
 
 
@@ -1042,6 +1073,7 @@ ms.locfileid: "53323565"
 > Office를 사용하는 데 발생한 문제에 대해 도움이 필요하면 [Microsoft의 Answers 포럼](https://answers.microsoft.com/) 또는 [기술 커뮤니티](https://techcommunity.microsoft.com/)에 질문을 게시하거나 [지원 서비스](https://support.microsoft.com/contactus)에 문의할 수 있습니다.
 
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 시작)
+[//]: # (|Win32|CC|Production| |16.0.14131.20320|버전-2106-july-13|)
 [//]: # (|Win32|CC|Production| |16.0.14131.20278|version-2106-june-29|)
 [//]: # (|Win32|CC|Production| |16.0.14026.20308|version-2105-june-18|)
 [//]: # (|Win32|CC|Production| |16.0.14026.20270|version-2105-june-08|)
@@ -1051,5 +1083,4 @@ ms.locfileid: "53323565"
 [//]: # (|Win32|CC|Production| |16.0.13929.20296|version-2104-april-29|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20462|version-2103-april-23|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20400|version-2103-april-13|)
-[//]: # (|Win32|CC|Production| |16.0.13901.20336|version-2103-april-02|)
 [//]: # (관리 센터 메타데이터 콘텐츠를 수정하지 마세요. 끝)

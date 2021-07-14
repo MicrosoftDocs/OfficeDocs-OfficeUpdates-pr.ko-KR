@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Office 2016, Office 2013 및 Office 2010 영구 버전의 최신 업데이트 정보에 대한 링크를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: cadd0d061af18d905a166c642f5b664ebb09821b
-ms.sourcegitcommit: e04eca2da568e5b00330db8441a5a74646233bcd
+ms.openlocfilehash: 3b8e289e3c7ffd1163c1cb0b9e190c7c2f87fb84
+ms.sourcegitcommit: 53e1e371f9782d973d664e24793c3abd709581e1
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/11/2021
-ms.locfileid: "52899918"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "53411946"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Windows Installer(MSI)를 사용하는 Office 버전에 대한 최신 업데이트
 
@@ -31,13 +31,13 @@ ms.locfileid: "52899918"
 
 |**버전 및 제품**|**최신 SP(서비스 팩)**|**최신 PU(공개 업데이트)**|
 |:-----|:-----|:-----|
-|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |해당 없음  <br/> |2021년 6월 PU  <br/> [KB5004001](https://support.microsoft.com/help/5004001) <br/> |
+|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |해당 없음  <br/> |2021년 7월 PU  <br/> [KB5001964](https://support.microsoft.com/help/5001964) <br/> |
 
 ## <a name="office-2013-updates"></a>Office 2013 업데이트
 
 |**버전 및 제품**|**최신 SP(서비스 팩)**|**최신 PU(공개 업데이트)**|
 |:-----|:-----|:-----|
-|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |2021년 6월 PU  <br/> [KB5004001](https://support.microsoft.com/help/5004001) <br/> |
+|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |2021년 7월 PU  <br/> [KB5001964](https://support.microsoft.com/help/5001964) <br/> |
    
 ## <a name="office-2010-updates"></a>Office 2010 업데이트
 > [!IMPORTANT]
@@ -51,8 +51,9 @@ ms.locfileid: "52899918"
    
 ## <a name="updates-released-in-past-12-months"></a>지난 12개월 동안 릴리스된 업데이트
 
-[2021년 6월용 보안 및 비보안 업데이트: KB5004001](https://support.microsoft.com/help/5004001)
+[2021년 7월용 보안 및 비보안 업데이트: KB5001964](https://support.microsoft.com/help/5001964)
 
+[2021년 6월용 보안 및 비보안 업데이트: KB5004001](https://support.microsoft.com/help/5004001)
 
 [2021년 5월 보안 및 비보안 업데이트: KB5003427](https://support.microsoft.com/help/5003427)
 
@@ -74,7 +75,6 @@ ms.locfileid: "52899918"
 
 [2020년 8월용 보안 및 비보안 업데이트: KB4563408](https://support.microsoft.com/help/4563408)
 
-[2020년 7월용 보안 및 비보안 업데이트: KB4559453](https://support.microsoft.com/help/4559453)
 
 
 
